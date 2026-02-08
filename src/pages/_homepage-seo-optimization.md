@@ -126,10 +126,10 @@ interconnected systems.
   "@type": "Organization",
   "name": "Vietnam Market Insights",
   "url": "https://vnmarketinsights.com",
-  "logo": "https://vnmarketinsights.com/logo.png",
+  "logo": "https://vnmarketinsights.com/logo.svg",
   "description": "Structured reference data on Vietnam's market economy",
   "sameAs": [
-    "https://github.com/vnmarketinsights"
+    "https://github.com/bonguynvan/vnmarketinsights-astro"
   ]
 }
 ```

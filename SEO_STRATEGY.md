@@ -653,7 +653,7 @@ Favor structured formats:
     "url": "https://vnmarketinsights.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://vnmarketinsights.com/logo.png"
+      "url": "https://vnmarketinsights.com/logo.svg"
     }
   }
 }

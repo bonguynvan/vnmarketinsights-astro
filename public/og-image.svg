@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#172554;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  
+  <!-- Logo Icon -->
+  <g transform="translate(150, 215)">
+    <rect width="200" height="200" rx="40" fill="#2563eb" />
+    <path d="M40 140 L80 100 L110 130 L160 60" stroke="white" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="160" cy="60" r="12" fill="#fbbf24" />
+  </g>
+  
+  <!-- Text -->
+  <text x="400" y="280" font-family="sans-serif" font-weight="bold" font-size="80" fill="white">VNMarket Insights</text>
+  <text x="400" y="360" font-family="sans-serif" font-size="40" fill="#93c5fd">Vietnam Market Intelligence & Statistics</text>
+  <text x="400" y="450" font-family="sans-serif" font-size="24" fill="rgba(255,255,255,0.6)">vnmarketinsights.com</text>
+</svg>
