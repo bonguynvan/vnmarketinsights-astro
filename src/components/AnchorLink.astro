@@ -1,0 +1,74 @@
+---
+// Anchor Link Component - Pilcrow icon for section linking
+const { id } = Astro.props;
+---
+
+<a
+  href={`#${id}`}
+  class="anchor-link"
+  aria-label={`Copy link to ${id} section`}
+  onclick="event.preventDefault(); navigator.clipboard.writeText(window.location.origin + window.location.pathname + '#${id}'); this.classList.add('copied'); setTimeout(() => this.classList.remove('copied'), 2000);"
+>
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>
+    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/>
+  </svg>
+  <span class="anchor-tooltip">Link copied</span>
+</a>
+
+<style>
+  .anchor-link {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 0.5rem;
+    padding: 0.25rem;
+    color: var(--color-text-light);
+    text-decoration: none;
+    opacity: 0;
+    transition: opacity 0.15s ease, color 0.15s ease;
+    position: relative;
+    vertical-align: middle;
+  }
+
+  h2:hover .anchor-link,
+  h3:hover .anchor-link {
+    opacity: 1;
+  }
+
+  .anchor-link:hover {
+    color: var(--color-accent);
+  }
+
+  .anchor-link.copied {
+    color: #22c55e;
+    opacity: 1;
+  }
+
+  .anchor-tooltip {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 0.5rem;
+    padding: 0.25rem 0.5rem;
+    background: var(--color-text);
+    color: var(--color-bg);
+    font-size: 0.75rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.15s ease, visibility 0.15s ease;
+  }
+
+  .anchor-link.copied .anchor-tooltip {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  @media (max-width: 768px) {
+    .anchor-link {
+      opacity: 0.5;
+    }
+  }
+</style>

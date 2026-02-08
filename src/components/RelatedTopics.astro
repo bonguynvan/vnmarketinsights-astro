@@ -1,0 +1,72 @@
+---
+// Related Topics Component - Internal navigation cards
+import ContentSection from './ContentSection.astro';
+import AnchorLink from './AnchorLink.astro';
+
+const { topics } = Astro.props;
+
+// topics = [
+//   { slug: 'fintech-vietnam', title: 'Fintech Landscape Vietnam', description: '...' },
+//   ...
+// ]
+---
+
+<ContentSection id="related-topics">
+  <h2>
+    Related Topics
+    <AnchorLink id="related-topics" />
+  </h2>
+
+  <div class="related-topics">
+    {topics.map(topic => (
+      <a href={`/${topic.slug}`} class="related-topic-card">
+        <span class="related-topic-title">{topic.title}</span>
+        <span class="related-topic-desc">{topic.description}</span>
+      </a>
+    ))}
+  </div>
+</ContentSection>
+
+<style>
+  .related-topics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .related-topic-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.375rem;
+    padding: 1.25rem;
+    background: var(--color-bg-subtle);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .related-topic-card:hover {
+    border-color: var(--color-accent);
+    background: var(--color-bg);
+  }
+
+  .related-topic-title {
+    font-weight: 600;
+    font-size: 0.9375rem;
+    color: var(--color-accent);
+  }
+
+  .related-topic-desc {
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+  }
+
+  @media (max-width: 768px) {
+    .related-topics {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

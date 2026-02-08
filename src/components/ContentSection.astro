@@ -1,0 +1,26 @@
+---
+// Content Section Wrapper - Consistent section spacing with anchor
+const { id, class: className } = Astro.props;
+---
+
+<section id={id} class={`content-section ${className || ''}`}>
+  <slot />
+</section>
+
+<style>
+  .content-section {
+    margin-bottom: 3rem;
+    scroll-margin-top: 100px;
+  }
+
+  .content-section:last-child {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 768px) {
+    .content-section {
+      margin-bottom: 2.5rem;
+      scroll-margin-top: 80px;
+    }
+  }
+</style>

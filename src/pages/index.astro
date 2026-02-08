@@ -1,0 +1,221 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const topics = [
+  {
+    slug: 'payments',
+    title: 'Payments',
+    description: 'Payment methods, e-wallets, banking infrastructure, and financial services.'
+  },
+  {
+    slug: 'ecommerce',
+    title: 'E-commerce',
+    description: 'Online marketplaces, retail platforms, and digital commerce patterns.'
+  },
+  {
+    slug: 'logistics',
+    title: 'Logistics',
+    description: 'Shipping networks, last-mile delivery, and supply chain structures.'
+  },
+  {
+    slug: 'consumers',
+    title: 'Consumers',
+    description: 'Demographics, purchasing behavior, and consumer preferences.'
+  },
+  {
+    slug: 'regulations',
+    title: 'Regulations',
+    description: 'Legal frameworks, compliance requirements, and government policies.'
+  },
+  {
+    slug: 'platforms',
+    title: 'Platforms',
+    description: 'Super-apps, social platforms, and digital ecosystems.'
+  }
+];
+
+const recentUpdates = [
+  {
+    date: 'February 2026',
+    topic: 'Payments',
+    topicSlug: 'payments',
+    change: 'Updated e-wallet market share data and added new neobank section'
+  },
+  {
+    date: 'February 2026',
+    topic: 'E-commerce',
+    topicSlug: 'ecommerce',
+    change: 'Added TikTok Shop and live commerce trends'
+  },
+  {
+    date: 'January 2026',
+    topic: 'Platforms',
+    topicSlug: 'platforms',
+    change: 'Expanded super-app analysis with updated user metrics'
+  }
+];
+
+const stats = [
+  { value: '6', label: 'Core Topics', desc: 'Comprehensive market coverage' },
+  { value: '50+', label: 'Key Terms', desc: 'In glossary with definitions' },
+  { value: '100%', label: 'Open Source', desc: 'All content freely accessible' }
+];
+---
+
+<BaseLayout
+  title="Vietnam Market Structure: Digital Economy, Commerce, and Infrastructure Data"
+  description="Structured reference data on Vietnam's market economy. Covers digital transformation, e-commerce infrastructure, fintech systems, logistics networks, consumer behavior, and regulatory frameworks. Neutral, factual analysis."
+  canonicalURL="https://vnmarketinsights.com/"
+  mainClass="container-wide"
+  structuredData={{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Vietnam Market Insights",
+    "url": "https://vnmarketinsights.com",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://vnmarketinsights.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }}
+>
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero__content">
+      <h1 class="hero__title">Vietnam Market Structure and Digital Economy Reference</h1>
+      <p class="hero__subtitle">
+        Vietnam's market economy comprises a digital sector valued at approximately
+        $23 billion (2024) alongside traditional commerce infrastructure serving
+        100 million consumers. The market structure encompasses e-commerce platforms
+        including <a href="/ecommerce">Shopee, Lazada, and Tiki</a>;
+        fintech systems such as <a href="/payments">MoMo, ZaloPay, and ViettelPay</a>
+        operating under State Bank of Vietnam regulation; logistics networks
+        spanning <a href="/logistics">Vietnam Post, Giao Hang Nhanh, and last-mile delivery systems</a>;
+        and retail channels ranging from traditional wet markets to modern hypermarkets.
+        Key institutions including the Ministry of Industry and Trade,
+        Vietnam E-commerce Association (VECOM), and National Payment Corporation
+        of Vietnam (NAPAS) provide regulatory and operational frameworks.
+        This reference documents market size, participant structure, consumer
+        behavior patterns, and infrastructure characteristics across these
+        interconnected systems.
+      </p>
+      <div class="hero__actions">
+        <button type="button" class="hero__search-btn" id="hero-search-trigger">
+          <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M7.33333 12.6667C10.2789 12.6667 12.6667 10.2789 12.6667 7.33333C12.6667 4.38781 10.2789 2 7.33333 2C4.38781 2 2 4.38781 2 7.33333C2 10.2789 4.38781 12.6667 7.33333 12.6667Z" stroke="currentColor" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M14 14L11.1333 11.1333" stroke="currentColor" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          Search all topics...
+          <kbd>Cmd+K</kbd>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats Highlights -->
+  <section class="stats-section">
+    <div class="stats-grid">
+      {stats.map(stat => (
+        <div class="stat-card">
+          <span class="stat-card__value">{stat.value}</span>
+          <span class="stat-card__label">{stat.label}</span>
+          <span class="stat-card__desc">{stat.desc}</span>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <!-- Available Topics -->
+  <section>
+    <h2>Available Topics</h2>
+    <div class="topic-grid">
+      {topics.map(topic => (
+        <a href={`/${topic.slug}`} class="topic-card">
+          <span class="topic-card__title">{topic.title}</span>
+          <span class="topic-card__desc">{topic.description}</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- What's New / Recent Updates -->
+  <section class="whats-new">
+    <div class="whats-new__header">
+      <h2>What's New</h2>
+      <a href="/changelog" class="whats-new__link">View all updates →</a>
+    </div>
+    <ul class="update-list">
+      {recentUpdates.map(update => (
+        <li class="update-item">
+          <time class="update-item__date">{update.date}</time>
+          <a href={`/${update.topicSlug}`} class="update-item__topic">{update.topic}</a>
+          <span class="update-item__change">{update.change}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <!-- How to Use -->
+  <section class="how-to-use">
+    <h2>How to Use This Site</h2>
+    <div class="how-to-use__grid">
+      <div class="how-to-use__item">
+        <h3>Quick Search</h3>
+        <p class="text-muted">
+          Press <kbd>Cmd+K</kbd> (or <kbd>Ctrl+K</kbd>) to search across all topics instantly.
+        </p>
+      </div>
+      <div class="how-to-use__item">
+        <h3>Consistent Structure</h3>
+        <p class="text-muted">
+          Each topic includes Overview, Key Characteristics, Major Players, Why It Matters, and Sources.
+        </p>
+      </div>
+      <div class="how-to-use__item">
+        <h3>Reliable Sources</h3>
+        <p class="text-muted">
+          All information is sourced from public, reputable sources—government reports, industry associations, and established media.
+        </p>
+      </div>
+      <div class="how-to-use__item">
+        <h3>Glossary</h3>
+        <p class="text-muted">
+          Unfamiliar with a term? Check the <a href="/glossary">glossary</a> for definitions of Vietnam-specific market terms.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Methodology Statement -->
+  <section class="methodology">
+    <h2>Methodology and Data Sources</h2>
+    <p>
+      This site compiles publicly available data and summaries from government publications,
+      industry reports, and open sources. Information is structured for reference purposes.
+      Sources include the <a href="https://moit.gov.vn" target="_blank" rel="noopener noreferrer">Ministry of Industry and Trade</a>,
+      <a href="https://sbv.gov.vn" target="_blank" rel="noopener noreferrer">State Bank of Vietnam</a>,
+      <a href="http://www.vecom.vn" target="_blank" rel="noopener noreferrer">Vietnam E-commerce Association (VECOM)</a>, and international
+      organizations including the <a href="https://worldbank.org" target="_blank" rel="noopener noreferrer">World Bank</a> and
+      <a href="https://imf.org" target="_blank" rel="noopener noreferrer">IMF</a>.
+      All data is attributed to original sources. Content is updated quarterly to reflect available statistics.
+    </p>
+    <a href="/about" class="methodology__link">Read complete methodology and source documentation →</a>
+  </section>
+
+  <!-- Mission Statement -->
+  <section class="mission">
+    <blockquote class="mission__quote">
+      <p>
+        All content is reference-based, not news-driven. No predictions, no opinions, no affiliate links.
+        Just factual information attributed to verifiable sources.
+      </p>
+    </blockquote>
+  </section>
+
+  <script>
+    // Connect hero search button to main search modal
+    document.getElementById('hero-search-trigger')?.addEventListener('click', () => {
+      document.getElementById('search-trigger')?.click();
+    });
+  </script>
+</BaseLayout>

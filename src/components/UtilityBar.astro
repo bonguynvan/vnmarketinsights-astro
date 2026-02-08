@@ -1,0 +1,200 @@
+---
+// Utility Bar Component - Copy, download, print actions
+const { title, hasTables = false } = Astro.props;
+---
+
+<div class="utility-bar" role="toolbar" aria-label="Page utilities">
+  <button
+    type="button"
+    class="utility-btn"
+    onclick="copyPageSummary()"
+    aria-label="Copy page summary"
+    title="Copy summary"
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <rect x="9" y="9" width="13" height="13" rx="2" ry="2"/>
+      <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
+    </svg>
+    <span class="utility-label">Copy</span>
+  </button>
+
+  {hasTables && (
+    <button
+      type="button"
+      class="utility-btn"
+      onclick="downloadAllTables()"
+      aria-label="Download all tables as CSV"
+      title="Download tables"
+    >
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="7 10 12 15 17 10"/>
+        <line x1="12" y1="15" x2="12" y2="3"/>
+      </svg>
+      <span class="utility-label">CSV</span>
+    </button>
+  )}
+
+  <button
+    type="button"
+    class="utility-btn"
+    onclick="window.print()"
+    aria-label="Print this page"
+    title="Print"
+  >
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+      <polyline points="6 9 6 2 18 2 18 9"/>
+      <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/>
+      <rect x="6" y="14" width="12" height="8"/>
+    </svg>
+    <span class="utility-label">Print</span>
+  </button>
+</div>
+
+<script is:inline>
+  function copyPageSummary() {
+    const h1 = document.querySelector('h1')?.textContent || '';
+    const definition = document.querySelector('#definition p')?.textContent || '';
+    const keyFacts = Array.from(document.querySelectorAll('#key-facts li')).map(li => `- ${li.textContent}`).join('\n');
+
+    const summary = `# ${h1}\n\n## Definition\n${definition}\n\n## Key Facts\n${keyFacts}\n\nSource: ${window.location.href}`;
+
+    navigator.clipboard.writeText(summary).then(() => {
+      showToast('Summary copied to clipboard');
+    });
+  }
+
+  function downloadAllTables() {
+    const tables = document.querySelectorAll('.data-table');
+    if (!tables.length) return;
+
+    let combinedCSV = '';
+    tables.forEach((table, index) => {
+      if (index > 0) combinedCSV += '\n\n';
+
+      const headers = Array.from(table.querySelectorAll('thead th')).map(th => `"${th.textContent.replace(/"/g, '""')}"`).join(',');
+      const rows = Array.from(table.querySelectorAll('tbody tr')).map(tr =>
+        Array.from(tr.querySelectorAll('td')).map(td => `"${td.textContent.replace(/"/g, '""')}"`).join(',')
+      ).join('\n');
+
+      combinedCSV += `${headers}\n${rows}`;
+    });
+
+    const blob = new Blob([combinedCSV], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = `vnmarket-tables-${new Date().toISOString().split('T')[0]}.csv`;
+    link.click();
+
+    showToast('Tables downloaded as CSV');
+  }
+
+  function showToast(message) {
+    const toast = document.createElement('div');
+    toast.textContent = message;
+    toast.style.cssText = `
+      position: fixed;
+      bottom: 100px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--color-text);
+      color: var(--color-bg);
+      padding: 0.75rem 1.25rem;
+      border-radius: 4px;
+      font-size: 0.875rem;
+      z-index: 1000;
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    `;
+    document.body.appendChild(toast);
+
+    requestAnimationFrame(() => {
+      toast.style.opacity = '1';
+      setTimeout(() => {
+        toast.style.opacity = '0';
+        setTimeout(() => toast.remove(), 300);
+      }, 2000);
+    });
+  }
+</script>
+
+<style>
+  .utility-bar {
+    position: fixed;
+    top: 80px;
+    right: 2rem;
+    display: flex;
+    gap: 0.5rem;
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    padding: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    z-index: 100;
+  }
+
+  .utility-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .utility-btn:hover {
+    color: var(--color-accent);
+    background: var(--color-bg-subtle);
+  }
+
+  .utility-label {
+    display: none;
+  }
+
+  @media (max-width: 1280px) {
+    .utility-bar {
+      right: 1rem;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .utility-bar {
+      position: static;
+      margin-bottom: 2rem;
+      align-self: flex-start;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .utility-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      top: auto;
+      justify-content: center;
+      border-radius: 0;
+      border-left: none;
+      border-right: none;
+      border-bottom: none;
+      padding: 0.75rem;
+      background: var(--color-bg);
+    }
+
+    .utility-btn {
+      flex-direction: column;
+      padding: 0.5rem 1rem;
+      gap: 0.25rem;
+    }
+
+    .utility-label {
+      display: block;
+      font-size: 0.6875rem;
+    }
+  }
+</style>

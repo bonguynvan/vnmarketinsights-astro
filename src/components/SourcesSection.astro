@@ -1,0 +1,207 @@
+---
+// Sources Section Component - Attribution and methodology
+import ContentSection from './ContentSection.astro';
+import AnchorLink from './AnchorLink.astro';
+
+const { sources = [], limitations = [], lastUpdated, methodologyUrl = '/about' } = Astro.props;
+
+// sources = [
+//   { name: 'State Bank of Vietnam Annual Report', url: 'https://...' },
+//   ...
+// ]
+---
+
+<ContentSection id="sources">
+  <h2>
+    Sources and Methodology
+    <AnchorLink id="sources" />
+  </h2>
+
+  <details class="sources-details" open>
+    <summary class="sources-summary">View data sources and methodology</summary>
+
+    <div class="sources-content">
+      <h3>Primary Sources</h3>
+      <ul class="sources-list">
+        {sources.map(source => (
+          <li class="source-item">
+            {source.url ? (
+              <a href={source.url} target="_blank" rel="noopener noreferrer" class="source-link">
+                {source.name}
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                  <polyline points="15 3 21 3 21 9"/>
+                  <line x1="10" y1="14" x2="21" y2="3"/>
+                </svg>
+              </a>
+            ) : (
+              <span>{source.name}</span>
+            )}
+            {source.description && <p class="source-description">{source.description}</p>}
+          </li>
+        ))}
+      </ul>
+
+      {limitations.length > 0 && (
+        <>
+          <h3>Data Limitations</h3>
+          <ul class="limitations-list">
+            {limitations.map(limitation => (
+              <li>{limitation}</li>
+            ))}
+          </ul>
+        </>
+      )}
+
+      <div class="methodology-link">
+        <a href={methodologyUrl}>Read complete methodology and approach →</a>
+      </div>
+    </div>
+  </details>
+
+  <div class="last-reviewed">
+    Last reviewed: {lastUpdated}
+    <span class="separator">|</span>
+    <a href="/changelog">View update history</a>
+  </div>
+</ContentSection>
+
+<style>
+  .sources-details {
+    margin-top: 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .sources-summary {
+    padding: 1rem 1.25rem;
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--color-text);
+    background: var(--color-bg-subtle);
+    list-style: none;
+    user-select: none;
+  }
+
+  .sources-summary:hover {
+    background: var(--color-bg);
+  }
+
+  .sources-summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .sources-summary::after {
+    content: '▼';
+    float: right;
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+  }
+
+  .sources-details[open] .sources-summary::after {
+    content: '▲';
+  }
+
+  .sources-content {
+    padding: 1.25rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .sources-content h3 {
+    font-size: 0.9375rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: var(--color-text);
+  }
+
+  .sources-content h3:first-child {
+    margin-top: 0;
+  }
+
+  .sources-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .source-item {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border-light);
+  }
+
+  .source-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  .source-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    color: var(--color-accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .source-link:hover {
+    text-decoration: underline;
+  }
+
+  .source-link svg {
+    flex-shrink: 0;
+  }
+
+  .source-description {
+    margin: 0.25rem 0 0;
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+  }
+
+  .limitations-list {
+    list-style: disc;
+    padding-left: 1.25rem;
+    margin: 0;
+  }
+
+  .limitations-list li {
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+  }
+
+  .methodology-link {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border-light);
+  }
+
+  .methodology-link a {
+    color: var(--color-accent);
+    font-size: 0.875rem;
+  }
+
+  .last-reviewed {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+    font-size: 0.8125rem;
+    color: var(--color-text-light);
+  }
+
+  .separator {
+    margin: 0 0.5rem;
+    color: var(--color-border);
+  }
+
+  .last-reviewed a {
+    color: var(--color-text-muted);
+  }
+
+  .last-reviewed a:hover {
+    color: var(--color-accent);
+  }
+</style>

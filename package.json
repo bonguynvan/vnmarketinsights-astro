@@ -1,0 +1,18 @@
+{
+  "name": "vnmarket-astro",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && npm run postbuild",
+    "preview": "astro preview",
+    "postbuild": "pagefind --site dist && node scripts/generate-sitemap.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^4.0.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.0.0"
+  }
+}

@@ -1,0 +1,201 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "Changelog";
+const description = "History of updates and changes to Vietnam Market Insights.";
+
+const changelogEntries = [
+  {
+    date: "2026-02-08",
+    displayDate: "February 8, 2026",
+    type: "feature",
+    title: "Major Site Enhancements",
+    changes: [
+      "Added comprehensive SEO with Open Graph, Twitter Cards, and JSON-LD structured data",
+      "Implemented Pagefind search functionality with Cmd+K keyboard shortcut",
+      "Created glossary page with 24 key Vietnam market terms",
+      "Added changelog page for tracking updates",
+      "Added about page with mission and methodology",
+      "Enhanced topic pages with related topics, citation tools, and social sharing",
+      "Added sitemap generation and robots.txt"
+    ]
+  },
+  {
+    date: "2026-02-01",
+    displayDate: "February 1, 2026",
+    type: "update",
+    title: "Payments Topic Update",
+    changes: [
+      "Updated e-wallet market share data with 2025 figures",
+      "Added new neobank section covering Timo, Cake, and LiveBank",
+      "Expanded QR code payment section with VietQR adoption metrics",
+      "Added information on Buy Now Pay Later (BNPL) growth"
+    ]
+  },
+  {
+    date: "2026-02-01",
+    displayDate: "February 1, 2026",
+    type: "update",
+    title: "E-commerce Topic Update",
+    changes: [
+      "Added TikTok Shop section with live commerce trends",
+      "Updated marketplace market share data",
+      "Added cross-border shopping behavior analysis",
+      "Expanded social commerce coverage"
+    ]
+  },
+  {
+    date: "2026-01-15",
+    displayDate: "January 15, 2026",
+    type: "update",
+    title: "Platforms Topic Update",
+    changes: [
+      "Updated super-app user metrics for Grab and Zalo",
+      "Added emerging platform analysis",
+      "Expanded ecosystem integration section",
+      "Added mini-app economy coverage"
+    ]
+  },
+  {
+    date: "2026-01-10",
+    displayDate: "January 10, 2026",
+    type: "content",
+    title: "Logistics Topic Refresh",
+    changes: [
+      "Updated last-mile delivery coverage statistics",
+      "Added new logistics technology trends",
+      "Updated major players section with recent market entries",
+      "Expanded rural delivery challenges section"
+    ]
+  },
+  {
+    date: "2025-12-20",
+    displayDate: "December 20, 2025",
+    type: "update",
+    title: "Regulations Topic Update",
+    changes: [
+      "Added latest SBV circulars affecting e-wallets",
+      "Updated e-commerce regulatory framework",
+      "Added data localization requirements section",
+      "Updated foreign investment regulations"
+    ]
+  },
+  {
+    date: "2025-12-15",
+    displayDate: "December 15, 2025",
+    type: "content",
+    title: "Consumers Topic Expansion",
+    changes: [
+      "Added Gen Z spending behavior analysis",
+      "Updated urban vs rural consumer preferences",
+      "Added new social media influence data",
+      "Updated income and spending statistics"
+    ]
+  },
+  {
+    date: "2025-11-01",
+    displayDate: "November 1, 2025",
+    type: "feature",
+    title: "Site Launch",
+    changes: [
+      "Initial site launch with 6 core topics",
+      "Basic responsive design with documentation-style layout",
+      "Implemented Astro static site architecture",
+      "Set up consistent content structure across all topics"
+    ]
+  }
+];
+
+// Group by year
+const groupedByYear = changelogEntries.reduce((acc, entry) => {
+  const year = entry.date.split('-')[0];
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(entry);
+  return acc;
+}, {} as Record<string, typeof changelogEntries>);
+
+const years = Object.keys(groupedByYear).sort((a, b) => b.localeCompare(a));
+
+const typeLabels: Record<string, string> = {
+  feature: "New Feature",
+  update: "Content Update",
+  content: "Content Refresh",
+  fix: "Bug Fix"
+};
+
+const typeColors: Record<string, string> = {
+  feature: "var(--color-accent)",
+  update: "#22c55e",
+  content: "#8b5cf6",
+  fix: "#f59e0b"
+};
+---
+
+<BaseLayout title={title} description={description}>
+  <article class="changelog-page">
+    <header class="changelog-header">
+      <h1>{title}</h1>
+      <p class="changelog-intro">History of updates and changes to Vietnam Market Insights. This page tracks all significant content updates, new features, and improvements.</p>
+
+      <div class="changelog-legend">
+        <span class="legend-label">Legend:</span>
+        {Object.entries(typeLabels).map(([type, label]) => (
+          <span class="legend-item">
+            <span class="legend-dot" style={`background-color: ${typeColors[type]}`}></span>
+            {label}
+          </span>
+        ))}
+      </div>
+    </header>
+
+    <div class="changelog-timeline">
+      {years.map(year => (
+        <section class="changelog-year">
+          <h2 class="changelog-year__title">{year}</h2>
+          <div class="changelog-entries">
+            {groupedByYear[year].map(entry => (
+              <article class="changelog-entry">
+                <div class="changelog-entry__marker">
+                  <span
+                    class="changelog-entry__dot"
+                    style={`background-color: ${typeColors[entry.type]}`}
+                    title={typeLabels[entry.type]}
+                  ></span>
+                </div>
+                <div class="changelog-entry__content">
+                  <header class="changelog-entry__header">
+                    <time class="changelog-entry__date">{entry.displayDate}</time>
+                    <span
+                      class="changelog-entry__badge"
+                      style={`background-color: ${typeColors[entry.type]}20; color: ${typeColors[entry.type]}`}
+                    >
+                      {typeLabels[entry.type]}
+                    </span>
+                  </header>
+                  <h3 class="changelog-entry__title">{entry.title}</h3>
+                  <ul class="changelog-entry__changes">
+                    {entry.changes.map(change => (
+                      <li>{change}</li>
+                    ))}
+                  </ul>
+                </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <!-- RSS Feed Link -->
+    <section class="changelog-rss">
+      <p>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" style="vertical-align: middle; margin-right: 0.5rem;">
+          <path d="M4 11a9 9 0 0 1 9 9"/>
+          <path d="M4 4a16 16 0 0 1 16 16"/>
+          <circle cx="5" cy="19" r="1"/>
+        </svg>
+        Subscribe to updates via <a href="/rss.xml">RSS feed</a> (coming soon).
+      </p>
+    </section>
+  </article>
+</BaseLayout>

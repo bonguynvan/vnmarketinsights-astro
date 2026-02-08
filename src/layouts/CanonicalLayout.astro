@@ -1,0 +1,219 @@
+---
+// Canonical Layout - Reference-style page with sticky index and utility bar
+import BaseLayout from './BaseLayout.astro';
+import SectionIndex from '../components/SectionIndex.astro';
+import UtilityBar from '../components/UtilityBar.astro';
+import ContentSection from '../components/ContentSection.astro';
+import AnchorLink from '../components/AnchorLink.astro';
+import SourcesSection from '../components/SourcesSection.astro';
+import RelatedTopics from '../components/RelatedTopics.astro';
+
+const {
+  title,
+  description,
+  canonicalURL,
+  structuredData,
+  sections = [],
+  sources = [],
+  limitations = [],
+  lastUpdated,
+  relatedTopics = [],
+  hasTables = false
+} = Astro.props;
+
+// Build Article schema
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": lastUpdated,
+  "dateModified": lastUpdated,
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Vietnam Market Insights",
+    "url": "https://vnmarketinsights.com"
+  }
+};
+
+// Combine schemas
+const fullStructuredData = [articleSchema, ...(Array.isArray(structuredData) ? structuredData : [])];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonicalURL}
+  structuredData={fullStructuredData}
+>
+  <div class="canonical-page">
+    {/* Mobile Section Dropdown */}
+    <div class="mobile-section-nav">
+      <label for="section-select" class="visually-hidden">Jump to section</label>
+      <select id="section-select" class="section-dropdown" onchange="document.getElementById(this.value)?.scrollIntoView({behavior: 'smooth'})">
+        <option value="">Jump to section...</option>
+        {sections.map(section => (
+          <option value={section.id}>{section.title}</option>
+        ))}
+      </select>
+    </div>
+
+    <aside class="page-sidebar">
+      <SectionIndex sections={sections} />
+    </aside>
+
+    <main class="page-content">
+      <UtilityBar title={title} hasTables={hasTables} />
+
+      <article class="reference-article">
+        <slot />
+
+        {/* Related Topics - Before Sources */}
+        {relatedTopics.length > 0 && (
+          <RelatedTopics topics={relatedTopics} />
+        )}
+
+        {/* Sources Section */}
+        <SourcesSection
+          sources={sources}
+          limitations={limitations}
+          lastUpdated={lastUpdated}
+        />
+      </article>
+    </main>
+  </div>
+</BaseLayout>
+
+<style>
+  .canonical-page {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 3rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .mobile-section-nav {
+    display: none;
+    margin-bottom: 2rem;
+  }
+
+  .section-dropdown {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 0.9375rem;
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: var(--color-bg);
+    color: var(--color-text);
+    cursor: pointer;
+  }
+
+  .page-sidebar {
+    order: 1;
+  }
+
+  .page-content {
+    order: 2;
+    min-width: 0;
+    position: relative;
+  }
+
+  .reference-article {
+    max-width: 680px;
+  }
+
+  .reference-article h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin-bottom: 2rem;
+    color: var(--color-text);
+    line-height: 1.2;
+  }
+
+  .reference-article h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 3rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--color-border);
+    color: var(--color-text);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .reference-article h3 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: var(--color-text);
+  }
+
+  .reference-article p {
+    margin-bottom: 1.25rem;
+    line-height: 1.7;
+    color: var(--color-text);
+  }
+
+  .reference-article ul {
+    margin-bottom: 1.25rem;
+    padding-left: 1.5rem;
+  }
+
+  .reference-article li {
+    margin-bottom: 0.625rem;
+    line-height: 1.6;
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  @media (max-width: 1024px) {
+    .canonical-page {
+      grid-template-columns: 160px 1fr;
+      gap: 2rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .canonical-page {
+      grid-template-columns: 1fr;
+      padding: 1.5rem 1rem;
+    }
+
+    .mobile-section-nav {
+      display: block;
+    }
+
+    .page-sidebar {
+      display: none;
+    }
+
+    .reference-article h1 {
+      font-size: 1.75rem;
+    }
+
+    .reference-article h2 {
+      font-size: 1.375rem;
+    }
+  }
+</style>
+</content>

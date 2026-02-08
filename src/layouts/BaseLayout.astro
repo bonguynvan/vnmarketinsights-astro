@@ -1,0 +1,277 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalURL?: string;
+  structuredData?: object;
+  noindex?: boolean;
+  mainClass?: string;
+}
+
+const {
+  title,
+  description = "Structured references about Vietnam's market, designed for clarity and reuse.",
+  image = "/og-image.png",
+  canonicalURL,
+  structuredData,
+  noindex = false,
+  mainClass = "container"
+} = Astro.props;
+
+const site = "https://vnmarketinsights.com";
+const canonical = canonicalURL || new URL(Astro.url.pathname, site).href;
+const ogImage = new URL(image, site).href;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content={description}>
+  {noindex && <meta name="robots" content="noindex, nofollow" />}
+  <title>{title} | Vietnam Market Insights</title>
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href={canonical}>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="icon" type="image/png" href="/favicon.png">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content={canonical}>
+  <meta property="og:title" content={`${title} | Vietnam Market Insights`}>
+  <meta property="og:description" content={description}>
+  <meta property="og:image" content={ogImage}>
+  <meta property="og:site_name" content="Vietnam Market Insights">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content={canonical}>
+  <meta property="twitter:title" content={`${title} | Vietnam Market Insights`}>
+  <meta property="twitter:description" content={description}>
+  <meta property="twitter:image" content={ogImage}>
+
+  <!-- JSON-LD Structured Data -->
+  {structuredData && (
+    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+  )}
+
+
+  <link rel="stylesheet" href="/global.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="/" class="site-header__brand">Vietnam Market Insights</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+        <a href="/payments">Payments</a>
+        <a href="/ecommerce">E-commerce</a>
+        <a href="/logistics">Logistics</a>
+        <a href="/consumers">Consumers</a>
+        <a href="/regulations">Regulations</a>
+        <a href="/platforms">Platforms</a>
+        <button type="button" class="search-trigger" id="search-trigger" aria-label="Open search (Cmd+K)">
+          <svg class="search-trigger__icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <path d="M7.33333 12.6667C10.2789 12.6667 12.6667 10.2789 12.6667 7.33333C12.6667 4.38781 10.2789 2 7.33333 2C4.38781 2 2 4.38781 2 7.33333C2 10.2789 4.38781 12.6667 7.33333 12.6667Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M14 14L11.1333 11.1333" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span class="search-trigger__text">Search</span>
+          <kbd class="search-trigger__kbd">⌘K</kbd>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Search Modal -->
+  <div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Site search">
+    <div class="search-modal__overlay"></div>
+    <div class="search-modal__container">
+      <div id="search">
+        <div class="search-loading">
+          <div class="search-loading__spinner"></div>
+          <span>Initializing search engine...</span>
+        </div>
+      </div>
+      <div class="search-modal__footer">
+        <div class="search-shortcuts">
+          <span class="search-shortcuts__item"><kbd>↑↓</kbd> Navigate</span>
+          <span class="search-shortcuts__item"><kbd>↵</kbd> Select</span>
+          <span class="search-shortcuts__item"><kbd>esc</kbd> to close</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <main class:list={["main-content", mainClass]}>
+    <slot />
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <div class="site-footer__left">
+        <span class="site-footer__text">Maintained as an independent reference. No commercial affiliation.</span>
+        <nav class="site-footer__nav" aria-label="Footer navigation">
+          <a href="/about">About</a>
+          <a href="/glossary">Glossary</a>
+          <a href="/changelog">Changelog</a>
+        </nav>
+      </div>
+      <span class="site-footer__text">Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
+    </div>
+  </footer>
+
+  <!-- Pagefind Search -->
+  <script>
+    // @ts-nocheck
+    window.addEventListener('DOMContentLoaded', async () => {
+      const searchTrigger = document.getElementById('search-trigger');
+      const searchModal = document.getElementById('search-modal');
+      const searchContainer = document.getElementById('search');
+
+      if (!searchTrigger || !searchModal || !searchContainer) return;
+
+      let pagefindUI = null;
+
+      async function initSearch() {
+        if (pagefindUI) return;
+
+        // Check if Pagefind files exist (they only exist after build)
+        try {
+          const response = await fetch('/pagefind/pagefind-ui.js', { method: 'HEAD' });
+          if (!response.ok) {
+            showSearchUnavailable();
+            return;
+          }
+        } catch (e) {
+          showSearchUnavailable();
+          return;
+        }
+
+        // Load Pagefind CSS dynamically
+        if (!document.querySelector('link[href="/pagefind/pagefind-ui.css"]')) {
+          const link = document.createElement('link');
+          link.rel = 'stylesheet';
+          link.href = '/pagefind/pagefind-ui.css';
+          document.head.appendChild(link);
+        }
+
+        // Load Pagefind UI using a script tag to avoid Vite trying to bundle it
+        await new Promise((resolve, reject) => {
+          if (window.PagefindUI) {
+            resolve();
+            return;
+          }
+          const script = document.createElement('script');
+          script.src = '/pagefind/pagefind-ui.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+
+        // Also load the Pagefind wasm
+        await new Promise((resolve, reject) => {
+          if (window.pagefind) {
+            resolve();
+            return;
+          }
+          const script = document.createElement('script');
+          script.src = '/pagefind/pagefind.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+
+        const PagefindUI = window.PagefindUI;
+        pagefindUI = new PagefindUI({
+          element: '#search',
+          showSubResults: true,
+          showImages: false,
+          excerptLength: 30,
+          translations: {
+            placeholder: 'Search topics...',
+            clear_search: 'Clear',
+            load_more: 'Load more results',
+            search_label: 'Search this site',
+            filters_label: 'Filters',
+            zero_results: 'No results found for [SEARCH_TERM]',
+            many_results: '[COUNT] results for [SEARCH_TERM]',
+            one_result: '[COUNT] result for [SEARCH_TERM]',
+            alt_search: 'No results for [SEARCH_TERM]. Showing results for [DIFFERENT_TERM] instead.',
+            search_suggestion: 'No results for [SEARCH_TERM]. Try one of the following searches:',
+            searching: 'Searching for [SEARCH_TERM]...'
+          }
+        });
+      }
+
+      function showSearchUnavailable() {
+        const isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+        const cmdKey = isMac ? '⌘' : 'Ctrl';
+        searchContainer.innerHTML = `
+          <div class="search-unavailable">
+            <div class="search-unavailable__icon">
+              <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"/>
+                <path d="M21 21l-4.35-4.35"/>
+                <path d="M8 8l6 6"/>
+                <path d="M14 8l-6 6"/>
+              </svg>
+            </div>
+            <h3 class="search-unavailable__title">Search not available</h3>
+            <p class="search-unavailable__desc">Search is only available in production builds.</p>
+            <div class="search-unavailable__commands">
+              <code class="search-code">npm run build</code>
+              <span class="search-then">then</span>
+              <code class="search-code">npm run preview</code>
+            </div>
+          </div>
+        `;
+      }
+
+      function openSearch() {
+        searchModal.classList.add('is-open');
+        searchModal.setAttribute('aria-hidden', 'false');
+        document.body.style.overflow = 'hidden';
+        initSearch().then(() => {
+          const input = searchModal.querySelector('.pagefind-ui__search-input');
+          if (input) input.focus();
+        });
+      }
+
+      function closeSearch() {
+        searchModal.classList.remove('is-open');
+        searchModal.setAttribute('aria-hidden', 'true');
+        document.body.style.overflow = '';
+      }
+
+      searchTrigger.addEventListener('click', openSearch);
+
+      // Close button
+      const closeButton = document.getElementById('search-modal-close');
+      if (closeButton) closeButton.addEventListener('click', closeSearch);
+
+      // Close on overlay click or Escape key
+      searchModal.querySelector('.search-modal__overlay').addEventListener('click', closeSearch);
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && searchModal.classList.contains('is-open')) {
+          closeSearch();
+        }
+        // Cmd/Ctrl + K to open
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          if (searchModal.classList.contains('is-open')) {
+            closeSearch();
+          } else {
+            openSearch();
+          }
+        }
+      });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,167 @@
+---
+// Data Table Component - Analyst-style tables with CSV export
+const {
+  headers,
+  rows,
+  caption,
+  id = `table-${Math.random().toString(36).substr(2, 9)}`
+} = Astro.props;
+
+// Convert table data to CSV
+const csvContent = [
+  headers.join(','),
+  ...rows.map(row => row.join(','))
+].join('\n');
+
+const csvBlob = encodeURIComponent(csvContent);
+---
+
+<div class="data-table-wrapper" data-csv={csvBlob}>
+  <table class="data-table" id={id}>
+    {caption && <caption>{caption}</caption>}
+    <thead>
+      <tr>
+        {headers.map(header => (
+          <th scope="col">{header}</th>
+        ))}
+      </tr>
+    </thead>
+    <tbody>
+      {rows.map(row => (
+        <tr>
+          {row.map((cell, index) => (
+            <td class={index === 0 ? 'cell-primary' : 'cell-data'}>{cell}</td>
+          ))}
+        </tr>
+      ))}
+    </tbody>
+  </table>
+  <div class="table-actions">
+    <button
+      type="button"
+      class="table-action-btn"
+      onclick={`downloadCSV('${id}', '${csvBlob}')`}
+      aria-label="Download table as CSV"
+    >
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="7 10 12 15 17 10"/>
+        <line x1="12" y1="15" x2="12" y2="3"/>
+      </svg>
+      Download CSV
+    </button>
+  </div>
+</div>
+
+<script is:inline>
+  function downloadCSV(tableId, csvBlob) {
+    const filename = `vnmarket-${tableId}-${new Date().toISOString().split('T')[0]}.csv`;
+    const blob = new Blob([decodeURIComponent(csvBlob)], { type: 'text/csv;charset=utf-8;' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = filename;
+    link.style.display = 'none';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
+</script>
+
+<style>
+  .data-table-wrapper {
+    margin: 1.5rem 0;
+    overflow-x: auto;
+  }
+
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+  }
+
+  .data-table caption {
+    text-align: left;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    margin-bottom: 0.75rem;
+    font-style: italic;
+  }
+
+  .data-table thead {
+    background: var(--color-bg-subtle);
+    border-bottom: 2px solid var(--color-border);
+  }
+
+  .data-table th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.8125rem;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+
+  .data-table td {
+    padding: 0.875rem 1rem;
+    border-bottom: 1px solid var(--color-border-light);
+    vertical-align: top;
+  }
+
+  .data-table tbody tr:hover {
+    background: var(--color-bg-subtle);
+  }
+
+  .data-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .cell-primary {
+    font-weight: 500;
+    color: var(--color-text);
+  }
+
+  .cell-data {
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    text-align: right;
+  }
+
+  .table-actions {
+    margin-top: 0.75rem;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .table-action-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.8125rem;
+    color: var(--color-text-muted);
+    background: transparent;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+
+  .table-action-btn:hover {
+    color: var(--color-accent);
+    border-color: var(--color-accent);
+  }
+
+  @media (max-width: 768px) {
+    .data-table {
+      font-size: 0.875rem;
+    }
+
+    .data-table th,
+    .data-table td {
+      padding: 0.625rem 0.75rem;
+    }
+  }
+</style>

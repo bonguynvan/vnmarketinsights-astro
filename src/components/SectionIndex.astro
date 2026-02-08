@@ -1,0 +1,131 @@
+---
+// Section Index Component - Sticky sidebar navigation
+const { sections } = Astro.props;
+
+// sections = [
+//   { id: 'definition', title: 'Definition', level: 2 },
+//   { id: 'key-facts', title: 'Key Facts', level: 2 },
+//   ...
+// ]
+---
+
+<nav class="section-index" aria-label="Page sections">
+  <div class="section-index__title">Contents</div>
+  <ul class="section-index__list">
+    {sections.map(section => (
+      <li class="section-index__item" data-section={section.id}>
+        <a href={`#${section.id}`} class="section-index__link">
+          {section.title}
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<script>
+  // Scroll spy functionality
+  document.addEventListener('DOMContentLoaded', () => {
+    const sections = document.querySelectorAll('.content-section[id], section[id]');
+    const indexItems = document.querySelectorAll('.section-index__item');
+
+    if (!sections.length || !indexItems.length) return;
+
+    const observerOptions = {
+      root: null,
+      rootMargin: '-100px 0px -60% 0px',
+      threshold: 0
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.id;
+          indexItems.forEach(item => {
+            item.classList.toggle('active', item.dataset.section === id);
+          });
+        }
+      });
+    }, observerOptions);
+
+    sections.forEach(section => observer.observe(section));
+
+    // Smooth scroll on click
+    document.querySelectorAll('.section-index__link').forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const targetId = link.getAttribute('href').slice(1);
+        const target = document.getElementById(targetId);
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  });
+</script>
+
+<style>
+  .section-index {
+    position: sticky;
+    top: 100px;
+    width: 200px;
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+
+  .section-index__title {
+    font-weight: 600;
+    color: var(--color-text-muted);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+    padding-left: 0.75rem;
+  }
+
+  .section-index__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-left: 2px solid var(--color-border-light);
+  }
+
+  .section-index__item {
+    margin: 0;
+  }
+
+  .section-index__item.active {
+    border-left: 2px solid var(--color-accent);
+    margin-left: -2px;
+  }
+
+  .section-index__link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    border-left: 2px solid transparent;
+    margin-left: -2px;
+    transition: color 0.15s ease;
+  }
+
+  .section-index__link:hover {
+    color: var(--color-accent);
+  }
+
+  .section-index__item.active .section-index__link {
+    color: var(--color-accent);
+    font-weight: 500;
+  }
+
+  @media (max-width: 1024px) {
+    .section-index {
+      width: 160px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .section-index {
+      display: none;
+    }
+  }
+</style>

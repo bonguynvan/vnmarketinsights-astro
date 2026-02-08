@@ -1,0 +1,323 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const title = "About";
+const description = "About Vietnam Market Insights - mission, methodology, editorial guidelines, and contact information.";
+---
+
+<BaseLayout title={title} description={description}>
+  <article class="about-page">
+    <header class="about-header">
+      <h1>{title}</h1>
+      <p class="about-lead">Vietnam Market Insights is an independent reference project providing factual, neutral information about Vietnam's business landscape.</p>
+    </header>
+
+    <!-- Methodology Statement -->
+    <section class="about-section">
+      <h2>Methodology</h2>
+      <p>
+        This site compiles publicly available data and summaries from government publications,
+        industry reports, and open sources. Information is structured for reference purposes.
+        Sources include the Ministry of Industry and Trade, State Bank of Vietnam,
+        Vietnam E-commerce Association, and international organizations including the World Bank and IMF.
+        All data is attributed to original sources. Content is updated quarterly to reflect available statistics.
+      </p>
+    </section>
+
+    <!-- Mission Statement -->
+    <section class="about-section">
+      <h2>Our Mission</h2>
+      <blockquote class="mission-statement">
+        "To make Vietnam's market landscape accessible, understandable, and verifiable for researchers, founders, and operators who need reliable context."
+      </blockquote>
+      <p>
+        Vietnam is one of Southeast Asia's most dynamic economies, but finding consolidated, factual information about its market can be challenging. News articles focus on headlines. Reports behind paywalls limit access. Opinion pieces blur facts with analysis. We aim to fill this gap by providing structured, reference-based content that prioritizes accuracy and neutrality.
+      </p>
+    </section>
+
+    <!-- What We Are Not -->
+    <section class="about-section">
+      <h2>What We Are Not</h2>
+      <div class="not-list">
+        <div class="not-item">
+          <h3>❌ Not a News Site</h3>
+          <p>We don't chase breaking news or publish daily updates. Our focus is on foundational market knowledge that changes slowly and matters consistently.</p>
+        </div>
+        <div class="not-item">
+          <h3>❌ Not Analysts</h3>
+          <p>We don't make predictions or provide investment advice. We document what is, not what might be.</p>
+        </div>
+        <div class="not-item">
+          <h3>❌ Not Affiliated</h3>
+          <p>We have no commercial relationships with any companies mentioned. No sponsored content. No affiliate links. No hidden agendas.</p>
+        </div>
+        <div class="not-item">
+          <h3>❌ Not Comprehensive</h3>
+          <p>We don't cover everything. We focus on core market topics—payments, e-commerce, logistics, consumers, regulations, and platforms—at a level useful for business decision-making.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Methodology -->
+    <section class="about-section">
+      <h2>Methodology</h2>
+
+      <h3>Sources</h3>
+      <p>We prioritize primary sources and reputable secondary sources:</p>
+      <ul class="source-list">
+        <li><strong>Government sources:</strong> State Bank of Vietnam, Ministry of Industry and Trade, General Statistics Office, official decrees and circulars</li>
+        <li><strong>Industry bodies:</strong> Vietnam E-commerce Association (VECOM), banking associations</li>
+        <li><strong>Established media:</strong> VnExpress, Vietnam News, Tuoi Tre News, Nikkei Asia</li>
+        <li><strong>International organizations:</strong> World Bank, IMF, ASEAN reports</li>
+        <li><strong>Verified company data:</strong> Annual reports, verified public statements</li>
+      </ul>
+
+      <h3>Content Structure</h3>
+      <p>Every topic follows a consistent structure to ensure completeness:</p>
+      <ol class="structure-list">
+        <li><strong>Overview:</strong> High-level context and key takeaways</li>
+        <li><strong>Key Characteristics:</strong> Defining features of the market segment</li>
+        <li><strong>Market Structure:</strong> How the market is organized</li>
+        <li><strong>Major Players:</strong> Key companies, organizations, and entities</li>
+        <li><strong>Why This Matters:</strong> Implications for businesses and operators</li>
+        <li><strong>Sources:</strong> Explicit listing of where information came from</li>
+      </ol>
+    </section>
+
+    <!-- Editorial Guidelines -->
+    <section class="about-section">
+      <h2>Editorial Guidelines</h2>
+
+      <h3>Neutrality</h3>
+      <p>We present facts without bias. When describing competing companies or technologies, we give balanced coverage. We avoid promotional language and let facts speak for themselves.</p>
+
+      <h3>Verifiability</h3>
+      <p>Every significant claim has a source. We prefer public sources that readers can verify themselves. When using proprietary reports, we note the limitation.</p>
+
+      <h3>Currency</h3>
+      <p>We date all content and update regularly. Market data becomes outdated quickly—we aim to refresh content quarterly or when significant changes occur.</p>
+
+      <h3>Clarity</h3>
+      <p>We write for busy professionals. Content is organized for scanning, with clear headings, bullet points, and concise explanations of technical terms.</p>
+    </section>
+
+    <!-- Correction Policy -->
+    <section class="about-section">
+      <h2>Correction Policy</h2>
+      <p>Despite our best efforts, errors can occur. When they do, we correct them promptly and transparently:</p>
+      <ul>
+        <li>Factual errors are corrected within 48 hours of discovery</li>
+        <li>Significant corrections are noted in the <a href="/changelog">changelog</a></li>
+        <li>Readers can report errors via the contact form below or by opening an issue on our GitHub repository</li>
+        <li>We welcome corrections with supporting evidence</li>
+      </ul>
+    </section>
+
+    <!-- Licensing -->
+    <section class="about-section">
+      <h2>Content Licensing</h2>
+      <p>
+        All content on this site is available under the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons Attribution 4.0 International License</a>.
+      </p>
+      <p>
+        You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate attribution. We encourage researchers, journalists, and educators to use and build upon our work.
+      </p>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="about-section">
+      <h2>Contact & Feedback</h2>
+      <p>We welcome feedback, corrections, and suggestions. While we can't respond to every message, we read all of them and use them to improve the site.</p>
+
+      <form class="contact-form" action="mailto:feedback@vnmarketinsights.com" method="post" enctype="text/plain">
+        <div class="form-group">
+          <label for="name">Name (optional)</label>
+          <input type="text" id="name" name="name" placeholder="Your name">
+        </div>
+
+        <div class="form-group">
+          <label for="email">Email (optional)</label>
+          <input type="email" id="email" name="email" placeholder="your@email.com">
+        </div>
+
+        <div class="form-group">
+          <label for="type">Type of feedback</label>
+          <select id="type" name="type" required>
+            <option value="">Select a type...</option>
+            <option value="correction">Report an error or correction</option>
+            <option value="suggestion">Suggest new content or topic</option>
+            <option value="source">Share a source or reference</option>
+            <option value="other">Other feedback</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" placeholder="Describe your feedback, correction, or suggestion..." required></textarea>
+        </div>
+
+        <button type="submit" class="btn btn--primary">Send Feedback</button>
+      </form>
+
+      <div class="contact-alternatives">
+        <p>Alternatively:</p>
+        <ul>
+          <li>Open an issue on <a href="https://github.com/example/vnmarket" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+          <li>Email directly: <a href="mailto:feedback@vnmarketinsights.com">feedback@vnmarketinsights.com</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Acknowledgments -->
+    <section class="about-section">
+      <h2>Acknowledgments</h2>
+      <p>This project is built with:</p>
+      <ul>
+        <li><a href="https://astro.build" target="_blank" rel="noopener noreferrer">Astro</a> - Static site generator</li>
+        <li><a href="https://pagefind.app" target="_blank" rel="noopener noreferrer">Pagefind</a> - Static search</li>
+        <li><a href="https://github.com/withastro/astro/tree/main/packages/integrations/sitemap" target="_blank" rel="noopener noreferrer">@astrojs/sitemap</a> - Sitemap generation</li>
+      </ul>
+    </section>
+  </article>
+
+  <style>
+    .about-page {
+      max-width: var(--max-width);
+    }
+
+    .about-header {
+      margin-bottom: var(--space-12);
+      padding-bottom: var(--space-8);
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .about-lead {
+      font-size: var(--text-xl);
+      color: var(--color-text-muted);
+      line-height: var(--leading-relaxed);
+      margin-top: var(--space-4);
+    }
+
+    .about-section {
+      margin-bottom: var(--space-12);
+    }
+
+    .about-section h2 {
+      margin-top: 0;
+      padding-bottom: var(--space-3);
+    }
+
+    .about-section h3 {
+      margin-top: var(--space-6);
+      font-size: var(--text-base);
+      font-weight: 600;
+      color: var(--color-text);
+    }
+
+    .mission-statement {
+      font-size: var(--text-xl);
+      font-style: italic;
+      color: var(--color-text-muted);
+      border-left: 3px solid var(--color-accent);
+      padding-left: var(--space-4);
+      margin: var(--space-6) 0;
+    }
+
+    .not-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--space-6);
+      margin-top: var(--space-6);
+    }
+
+    .not-item {
+      background: var(--color-bg-subtle);
+      padding: var(--space-5);
+      border-radius: 8px;
+    }
+
+    .not-item h3 {
+      margin-top: 0;
+      font-size: var(--text-base);
+      margin-bottom: var(--space-3);
+    }
+
+    .not-item p {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      margin-bottom: 0;
+    }
+
+    .source-list li,
+    .structure-list li {
+      margin-bottom: var(--space-3);
+    }
+
+    .contact-form {
+      margin-top: var(--space-6);
+      padding: var(--space-6);
+      background: var(--color-bg-subtle);
+      border-radius: 8px;
+    }
+
+    .form-group {
+      margin-bottom: var(--space-4);
+    }
+
+    .form-group label {
+      display: block;
+      font-size: var(--text-sm);
+      font-weight: 500;
+      margin-bottom: var(--space-2);
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+      width: 100%;
+      padding: var(--space-3);
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      font-family: inherit;
+      font-size: var(--text-base);
+      background: var(--color-bg);
+    }
+
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+      outline: none;
+      border-color: var(--color-accent);
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-2);
+      padding: var(--space-3) var(--space-5);
+      border-radius: 4px;
+      font-size: var(--text-base);
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+
+    .btn--primary {
+      background: var(--color-accent);
+      color: white;
+      border: none;
+    }
+
+    .btn--primary:hover {
+      background: var(--color-accent-hover);
+      text-decoration: none;
+    }
+
+    .contact-alternatives {
+      margin-top: var(--space-6);
+      padding-top: var(--space-6);
+      border-top: 1px solid var(--color-border);
+    }
+  </style>
+</BaseLayout>
