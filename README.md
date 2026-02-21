@@ -17,22 +17,25 @@ This site is designed to be:
 vnmarket-astro/
 ├── src/
 │   ├── layouts/
-│   │   ├── BaseLayout.astro      # Global layout with header, footer, navigation
-│   │   └── TopicLayout.astro     # Specialized layout for topic pages
+│   │   ├── BaseLayout.astro      # Global layout with header, footer, nav, GA4
+│   │   ├── CanonicalLayout.astro
+│   │   └── TopicLayout.astro
 │   ├── pages/
-│   │   ├── index.astro           # Home page with topic listing
-│   │   ├── payments.astro        # Payments topic page
-│   │   ├── ecommerce.astro       # E-commerce topic page
-│   │   ├── logistics.astro       # Logistics topic page
-│   │   ├── consumers.astro       # Consumers topic page
-│   │   ├── regulations.astro     # Regulations topic page
-│   │   └── platforms.astro       # Platforms topic page
-│   └── styles/
-│       └── global.css            # CSS styles (also copied to public/)
-├── public/
-│   └── global.css                # Served CSS file
-├── astro.config.mjs              # Astro configuration
-└── package.json                  # Dependencies
+│   │   ├── index.astro           # Home: hero, two pillars, trend preview
+│   │   ├── topics/index.astro    # Hub: all topics + financial-markets
+│   │   ├── tools/index.astro     # Hub: Snapshot, Keyword Miner, Trend Radar
+│   │   ├── insights/index.astro  # Articles listing
+│   │   ├── insights/[slug].astro # Single article (content/articles)
+│   │   ├── financial-markets.astro
+│   │   ├── payments.astro … platforms.astro
+│   │   ├── snapshot.astro, keywords.astro, trends/, weekly.astro
+│   │   ├── about.astro, glossary.astro, changelog.astro, 404.astro
+│   │   └── api/
+│   ├── content/articles/         # Markdown (content collection)
+│   └── styles/ + global.css
+├── public/global.css
+├── astro.config.mjs
+└── package.json
 ```
 
 ## Getting Started
@@ -62,6 +65,15 @@ npm run preview
 ```
 
 The development server will start at `http://localhost:4321`.
+
+### Google Analytics (GA4)
+
+To track traffic, create a GA4 property at [analytics.google.com](https://analytics.google.com) and set the measurement ID in your environment:
+
+- **Build (e.g. Vercel/Netlify):** Add env var `PUBLIC_GA_MEASUREMENT_ID` (e.g. `G-XXXXXXXXXX`).
+- **Local:** Create `.env` with `PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX` (optional; leave unset to disable GA).
+
+The layout only injects the gtag script when `PUBLIC_GA_MEASUREMENT_ID` is set.
 
 ## Adding a New Topic Page
 
@@ -199,7 +211,7 @@ Every topic page follows this exact structure:
 - System font stack for maximum compatibility
 - Comfortable line height (1.6)
 - Clear heading hierarchy
-- Maximum content width: 720px for readability
+- Page content width: 960px (consistent across all pages)
 
 ### Spacing
 
@@ -209,18 +221,19 @@ Every topic page follows this exact structure:
 
 ## Deployment
 
-This is a static Astro site. Build output goes to the `dist/` directory and can be deployed to:
+This is a static Astro site. Build output goes to the `dist/` directory.
 
-- Vercel
-- Netlify
-- GitHub Pages
-- Cloudflare Pages
-- Any static hosting
-
+**Build:**
 ```bash
 npm run build
-# Deploy the dist/ folder
 ```
+Post-build runs Pagefind (search index) and sitemap generation automatically.
+
+**Deploy** the `dist/` folder to any static host:
+
+- **Vercel:** Connect the repo; build command `npm run build`, output directory `dist`. Add `PUBLIC_GA_MEASUREMENT_ID` in Environment Variables if using GA4.
+- **Netlify:** Build command `npm run build`, publish directory `dist`. Same env var for GA4.
+- **Cloudflare Pages / GitHub Pages:** Build as above, then upload or push `dist/`.
 
 ## License
 

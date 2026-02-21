@@ -1,77 +1,17 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-
-const topics = [
-  {
-    slug: 'payments',
-    title: 'Payments',
-    description: 'Payment methods, e-wallets, banking infrastructure, and financial services.'
-  },
-  {
-    slug: 'ecommerce',
-    title: 'E-commerce',
-    description: 'Online marketplaces, retail platforms, and digital commerce patterns.'
-  },
-  {
-    slug: 'logistics',
-    title: 'Logistics',
-    description: 'Shipping networks, last-mile delivery, and supply chain structures.'
-  },
-  {
-    slug: 'consumers',
-    title: 'Consumers',
-    description: 'Demographics, purchasing behavior, and consumer preferences.'
-  },
-  {
-    slug: 'regulations',
-    title: 'Regulations',
-    description: 'Legal frameworks, compliance requirements, and government policies.'
-  },
-  {
-    slug: 'platforms',
-    title: 'Platforms',
-    description: 'Super-apps, social platforms, and digital ecosystems.'
-  }
-];
-
-const recentUpdates = [
-  {
-    date: 'February 2026',
-    topic: 'Payments',
-    topicSlug: 'payments',
-    change: 'Updated e-wallet market share data and added new neobank section'
-  },
-  {
-    date: 'February 2026',
-    topic: 'E-commerce',
-    topicSlug: 'ecommerce',
-    change: 'Added TikTok Shop and live commerce trends'
-  },
-  {
-    date: 'January 2026',
-    topic: 'Platforms',
-    topicSlug: 'platforms',
-    change: 'Expanded super-app analysis with updated user metrics'
-  }
-];
-
-const stats = [
-  { value: '6', label: 'Core Topics', desc: 'Comprehensive market coverage' },
-  { value: '50+', label: 'Key Terms', desc: 'In glossary with definitions' },
-  { value: '100%', label: 'Open Source', desc: 'All content freely accessible' }
-];
+import BaseLayout from '@layouts/BaseLayout.astro';
 ---
 
 <BaseLayout
-  title="Vietnam Market Structure: Digital Economy, Commerce, and Infrastructure Data"
-  description="Structured reference data on Vietnam's market economy. Covers digital transformation, e-commerce infrastructure, fintech systems, logistics networks, consumer behavior, and regulatory frameworks. Neutral, factual analysis."
+  title="Vietnam Market Insights"
+  description="Reference and tools for Vietnam market — from ecommerce to financial markets. Topics, glossary, and free tools: website snapshot, keyword miner."
   canonicalURL="https://vnmarketinsights.com/"
   mainClass="container-wide"
   structuredData={{
     "@context": "https://schema.org",
-    "@type": "WebSite",
+    "@type": "WebPage",
     "name": "Vietnam Market Insights",
-    "url": "https://vnmarketinsights.com",
+    "description": "Reference and tools for Vietnam market — ecommerce and financial markets",
     "potentialAction": {
       "@type": "SearchAction",
       "target": "https://vnmarketinsights.com/search?q={search_term_string}",
@@ -79,130 +19,52 @@ const stats = [
     }
   }}
 >
-  <!-- Hero Section -->
+  <!-- Hero -->
   <section class="hero">
     <div class="hero__content">
-      <h1 class="hero__title">Vietnam Market Structure and Digital Economy Reference</h1>
+      <h1 class="hero__title">Vietnam Market Insights</h1>
       <p class="hero__subtitle">
-        Vietnam's market economy comprises a digital sector valued at approximately
-        $23 billion (2024) alongside traditional commerce infrastructure serving
-        100 million consumers. The market structure encompasses e-commerce platforms
-        including <a href="/ecommerce">Shopee, Lazada, and Tiki</a>;
-        fintech systems such as <a href="/payments">MoMo, ZaloPay, and ViettelPay</a>
-        operating under State Bank of Vietnam regulation; logistics networks
-        spanning <a href="/logistics">Vietnam Post, Giao Hang Nhanh, and last-mile delivery systems</a>;
-        and retail channels ranging from traditional wet markets to modern hypermarkets.
-        Key institutions including the Ministry of Industry and Trade,
-        Vietnam E-commerce Association (VECOM), and National Payment Corporation
-        of Vietnam (NAPAS) provide regulatory and operational frameworks.
-        This reference documents market size, participant structure, consumer
-        behavior patterns, and infrastructure characteristics across these
-        interconnected systems.
+        Reference and tools for Vietnam's market — from ecommerce to financial markets.
       </p>
       <div class="hero__actions">
-        <button type="button" class="hero__search-btn" id="hero-search-trigger">
-          <svg width="18" height="18" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-            <path d="M7.33333 12.6667C10.2789 12.6667 12.6667 10.2789 12.6667 7.33333C12.6667 4.38781 10.2789 2 7.33333 2C4.38781 2 2 4.38781 2 7.33333C2 10.2789 4.38781 12.6667 7.33333 12.6667Z" stroke="currentColor" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M14 14L11.1333 11.1333" stroke="currentColor" stroke-width="1.33" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          Search all topics...
-          <kbd>Cmd+K</kbd>
-        </button>
+        <a href="/topics" class="hero__primary-btn">Explore topics</a>
+        <a href="/tools" class="hero__secondary-btn">Try tools</a>
       </div>
     </div>
   </section>
 
-  <!-- Stats Highlights -->
-  <section class="stats-section">
-    <div class="stats-grid">
-      {stats.map(stat => (
-        <div class="stat-card">
-          <span class="stat-card__value">{stat.value}</span>
-          <span class="stat-card__label">{stat.label}</span>
-          <span class="stat-card__desc">{stat.desc}</span>
-        </div>
-      ))}
+  <!-- Two pillars -->
+  <section class="pillars">
+    <div class="pillar">
+      <h2>Understand the market</h2>
+      <p>Structured reference on payments, e-commerce, logistics, consumers, regulations, platforms, and financial markets. Each topic includes key statistics, major players, and sources.</p>
+      <p>
+        <a href="/topics">Topics</a> · <a href="/insights">Articles</a> · <a href="/glossary">Glossary</a>
+      </p>
+    </div>
+    <div class="pillar">
+      <h2>Analyze & track</h2>
+      <p>Free tools: analyze any website's tech stack and SEO, and mine keyword ideas for content and campaigns. More tools (including AI-assisted features) coming soon.</p>
+      <p>
+        <a href="/tools">Snapshot</a> · <a href="/keywords">Keyword Miner</a>
+      </p>
     </div>
   </section>
 
-  <!-- Available Topics -->
-  <section>
-    <h2>Available Topics</h2>
-    <div class="topic-grid">
-      {topics.map(topic => (
-        <a href={`/${topic.slug}`} class="topic-card">
-          <span class="topic-card__title">{topic.title}</span>
-          <span class="topic-card__desc">{topic.description}</span>
-        </a>
-      ))}
-    </div>
-  </section>
-
-  <!-- What's New / Recent Updates -->
-  <section class="whats-new">
-    <div class="whats-new__header">
-      <h2>What's New</h2>
-      <a href="/changelog" class="whats-new__link">View all updates →</a>
-    </div>
-    <ul class="update-list">
-      {recentUpdates.map(update => (
-        <li class="update-item">
-          <time class="update-item__date">{update.date}</time>
-          <a href={`/${update.topicSlug}`} class="update-item__topic">{update.topic}</a>
-          <span class="update-item__change">{update.change}</span>
-        </li>
-      ))}
-    </ul>
-  </section>
-
-  <!-- How to Use -->
-  <section class="how-to-use">
-    <h2>How to Use This Site</h2>
-    <div class="how-to-use__grid">
-      <div class="how-to-use__item">
-        <h3>Quick Search</h3>
-        <p class="text-muted">
-          Press <kbd>Cmd+K</kbd> (or <kbd>Ctrl+K</kbd>) to search across all topics instantly.
-        </p>
-      </div>
-      <div class="how-to-use__item">
-        <h3>Consistent Structure</h3>
-        <p class="text-muted">
-          Each topic includes Overview, Key Characteristics, Major Players, Why It Matters, and Sources.
-        </p>
-      </div>
-      <div class="how-to-use__item">
-        <h3>Reliable Sources</h3>
-        <p class="text-muted">
-          All information is sourced from public, reputable sources—government reports, industry associations, and established media.
-        </p>
-      </div>
-      <div class="how-to-use__item">
-        <h3>Glossary</h3>
-        <p class="text-muted">
-          Unfamiliar with a term? Check the <a href="/glossary">glossary</a> for definitions of Vietnam-specific market terms.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- Methodology Statement -->
+  <!-- Methodology -->
   <section class="methodology">
-    <h2>Methodology and Data Sources</h2>
+    <h2>Methodology and data sources</h2>
     <p>
       This site compiles publicly available data and summaries from government publications,
-      industry reports, and open sources. Information is structured for reference purposes.
-      Sources include the <a href="https://moit.gov.vn" target="_blank" rel="noopener noreferrer">Ministry of Industry and Trade</a>,
+      industry reports, and open sources. Sources include the <a href="https://moit.gov.vn" target="_blank" rel="noopener noreferrer">Ministry of Industry and Trade</a>,
       <a href="https://sbv.gov.vn" target="_blank" rel="noopener noreferrer">State Bank of Vietnam</a>,
-      <a href="http://www.vecom.vn" target="_blank" rel="noopener noreferrer">Vietnam E-commerce Association (VECOM)</a>, and international
-      organizations including the <a href="https://worldbank.org" target="_blank" rel="noopener noreferrer">World Bank</a> and
-      <a href="https://imf.org" target="_blank" rel="noopener noreferrer">IMF</a>.
-      All data is attributed to original sources. Content is updated quarterly to reflect available statistics.
+      <a href="http://www.vecom.vn" target="_blank" rel="noopener noreferrer">VECOM</a>, and international
+      organizations. All data is attributed to original sources.
     </p>
-    <a href="/about" class="methodology__link">Read complete methodology and source documentation →</a>
+    <a href="/about" class="methodology__link">Read full methodology →</a>
   </section>
 
-  <!-- Mission Statement -->
+  <!-- Mission -->
   <section class="mission">
     <blockquote class="mission__quote">
       <p>
@@ -211,11 +73,36 @@ const stats = [
       </p>
     </blockquote>
   </section>
-
-  <script>
-    // Connect hero search button to main search modal
-    document.getElementById('hero-search-trigger')?.addEventListener('click', () => {
-      document.getElementById('search-trigger')?.click();
-    });
-  </script>
 </BaseLayout>
+
+<style>
+  .hero { text-align: center; margin-bottom: var(--space-12); }
+  .hero__title { margin-bottom: var(--space-3); border: none; }
+  .hero__subtitle { font-size: var(--text-lg); color: var(--color-text-muted); max-width: 560px; margin: 0 auto var(--space-8); }
+  .hero__actions { display: flex; flex-wrap: wrap; gap: var(--space-4); justify-content: center; }
+  .hero__primary-btn {
+    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-8);
+    background: #1a1a1a; color: white; border-radius: 50px; font-weight: 700; text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .hero__primary-btn:hover { background: #000; transform: translateY(-2px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); color: white; }
+  .hero__secondary-btn {
+    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-8);
+    background: white; color: #1a1a1a; border: 1px solid var(--color-border); border-radius: 50px; font-weight: 600; text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .hero__secondary-btn:hover { border-color: #1a1a1a; background: var(--color-bg-subtle); transform: translateY(-2px); color: #1a1a1a; }
+
+  .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-8); margin-bottom: var(--space-12); }
+  .pillar { padding: var(--space-6); background: var(--color-bg-subtle); border-radius: 12px; }
+  .pillar h2 { font-size: var(--text-xl); margin-top: 0; margin-bottom: var(--space-3); border: none; }
+  .pillar p { margin-bottom: var(--space-3); }
+  .pillar p:last-child { margin-bottom: 0; }
+
+  .methodology { margin-bottom: var(--space-10); }
+  .methodology__link { font-weight: 500; }
+  .mission { padding: var(--space-8); background: var(--color-bg-subtle); border-radius: 8px; }
+  .mission__quote { margin: 0; border: none; padding: 0; }
+  .mission__quote p { margin: 0; font-style: italic; color: var(--color-text-muted); }
+
+</style>

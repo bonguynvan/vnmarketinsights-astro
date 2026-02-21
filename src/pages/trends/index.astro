@@ -1,0 +1,100 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Trend Radar"
+  description="Product trend dashboard for Vietnam ecommerce. Temporarily unavailable while we secure reliable data sources."
+  canonicalURL="https://vnmarketinsights.com/trends/"
+  mainClass="page-content"
+  noindex={true}
+>
+  <article class="coming-soon-page">
+    <div class="coming-soon-card">
+      <span class="coming-soon-icon" aria-hidden="true">🔥</span>
+      <h1>Trend Radar</h1>
+      <p class="coming-soon-lead">
+        Product performance and growth metrics for Vietnam ecommerce.
+      </p>
+      <p class="coming-soon-status">
+        This tool is temporarily unavailable. External data sources (e.g. Google Trends, platform APIs) are restricted, so we cannot show reliable live data yet. We're focusing on <strong>Website Snapshot</strong> and <strong>Keyword Miner</strong>, and may reintroduce Trend Radar when we have a stable data pipeline.
+      </p>
+      <div class="coming-soon-actions">
+        <a href="/tools" class="coming-soon-btn primary">See all tools</a>
+        <a href="/snapshot" class="coming-soon-btn">Website Snapshot</a>
+        <a href="/keywords" class="coming-soon-btn">Keyword Miner</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .coming-soon-page {
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-12) 0;
+  }
+  .coming-soon-card {
+    max-width: 520px;
+    text-align: center;
+    padding: var(--space-10);
+    background: var(--color-bg-subtle);
+    border: 1px solid var(--color-border-light);
+    border-radius: 16px;
+  }
+  .coming-soon-icon {
+    font-size: 3rem;
+    display: block;
+    margin-bottom: var(--space-4);
+  }
+  .coming-soon-card h1 {
+    margin-bottom: var(--space-3);
+    border: none;
+  }
+  .coming-soon-lead {
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+    margin-bottom: var(--space-6);
+  }
+  .coming-soon-status {
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    line-height: 1.6;
+    margin-bottom: var(--space-8);
+  }
+  .coming-soon-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    justify-content: center;
+  }
+  .coming-soon-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: var(--space-3) var(--space-5);
+    border-radius: 8px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .coming-soon-btn.primary {
+    background: var(--color-text);
+    color: var(--color-bg);
+  }
+  .coming-soon-btn.primary:hover {
+    background: var(--color-accent);
+    color: white;
+  }
+  .coming-soon-btn:not(.primary) {
+    background: white;
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+  }
+  .coming-soon-btn:not(.primary):hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+  }
+</style>

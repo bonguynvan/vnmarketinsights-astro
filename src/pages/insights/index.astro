@@ -1,0 +1,62 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const articles = (await getCollection('articles')).sort((a, b) => {
+  const dateA = a.data.publishedDate ? new Date(a.data.publishedDate).valueOf() : 0;
+  const dateB = b.data.publishedDate ? new Date(b.data.publishedDate).valueOf() : 0;
+  return dateB - dateA;
+});
+---
+
+<BaseLayout
+  title="Articles & Insights"
+  description="In-depth articles on Vietnam's digital economy, ecommerce, fintech, logistics, and market structure."
+  canonicalURL="https://vnmarketinsights.com/insights/"
+  mainClass="container-wide"
+>
+  <article class="insights-page">
+    <header class="insights-header">
+      <h1>Articles & Insights</h1>
+      <p class="insights-lead">In-depth reference articles on Vietnam's market: digital economy, ecommerce, fintech, logistics, and regulations.</p>
+    </header>
+
+    <section class="insights-list">
+      <ul class="article-list">
+        {articles.map((entry) => (
+          <li class="article-item">
+            <a href={`/insights/${entry.slug}`} class="article-link">
+              <span class="article-title">{entry.data.title}</span>
+              {entry.data.description && <span class="article-desc">{entry.data.description}</span>}
+              {entry.data.publishedDate && (
+                <time class="article-date" datetime={new Date(entry.data.publishedDate).toISOString()}>
+                  {new Date(entry.data.publishedDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+                </time>
+              )}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <p class="insights-footer">
+      <a href="/topics">Topics</a> · <a href="/">Home</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .insights-page { }
+  .insights-header { margin-bottom: var(--space-10); }
+  .insights-header h1 { margin-bottom: var(--space-3); border: none; }
+  .insights-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .insights-list { margin: var(--space-8) 0; }
+  .article-list { list-style: none; padding: 0; margin: 0; }
+  .article-item { margin-bottom: 0; border-bottom: 1px solid var(--color-border-light); }
+  .article-link { display: block; padding: var(--space-5) 0; text-decoration: none; color: inherit; transition: background 0.15s; }
+  .article-link:hover { background: var(--color-bg-subtle); text-decoration: none; color: inherit; }
+  .article-title { font-weight: 600; font-size: var(--text-lg); color: var(--color-text); display: block; margin-bottom: var(--space-1); }
+  .article-desc { font-size: var(--text-sm); color: var(--color-text-muted); display: block; margin-bottom: var(--space-2); }
+  .article-date { font-size: var(--text-xs); color: var(--color-text-light); }
+  .insights-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+</style>

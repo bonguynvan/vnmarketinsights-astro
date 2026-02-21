@@ -1,0 +1,192 @@
+---
+/**
+ * TrendTable.astro
+ * Reusable table component for displaying product trends
+ */
+import type { ProductTrend } from '../utils/trendEngine';
+
+interface Props {
+  products: ProductTrend[];
+  limit?: number;
+}
+
+const { products, limit = 10 } = Astro.props;
+const displayProducts = products.slice(0, limit);
+
+const formatPrice = (val: number) => 
+  new Intl.NumberFormat('vi-VN', { style: 'currency', currency: 'VND', maximumFractionDigits: 0 }).format(val);
+
+const getTagClass = (tag: string) => {
+  const classes: Record<string, string> = {
+    'Flash Trend': 'badge-red',
+    'Rising Star': 'badge-indigo',
+    'Stable': 'badge-gray',
+    'Emerging': 'badge-emerald',
+    'Saturated': 'badge-amber',
+  };
+  return classes[tag] || 'badge-gray';
+};
+---
+
+<div class="table-container">
+  <table class="trend-table">
+    <thead>
+      <tr>
+        <th>Product</th>
+        <th>Category</th>
+        <th>Avg Price</th>
+        <th>Growth</th>
+        <th>Score</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      {displayProducts.map((p) => (
+        <tr class="trend-row">
+          <td>
+            <div class="product-info">
+              <div class="product-icon">{p.name.charAt(0)}</div>
+              <div class="product-details">
+                <span class="product-name">{p.name}</span>
+                <span class="product-id">ID: {p.id.split('-').pop()}</span>
+              </div>
+            </div>
+          </td>
+          <td><span class="category-tag">{p.category}</span></td>
+          <td><span class="price-val">{formatPrice(p.avgPrice)}</span></td>
+          <td>
+            <span class={`growth-val ${p.growthRate >= 0 ? 'text-emerald-600' : 'text-rose-600'}`}>
+              {p.growthRate >= 0 ? '+' : ''}{p.growthRate.toFixed(1)}%
+            </span>
+          </td>
+          <td>
+            <div class="score-container">
+              <div class="score-bar-bg">
+                <div class="score-bar-fill" style={`width: ${Math.min(100, p.trendScore)}%`}></div>
+              </div>
+              <span class="score-text">{p.trendScore}</span>
+            </div>
+          </td>
+          <td><span class={`badge ${getTagClass(p.tag)}`}>{p.tag}</span></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .table-container {
+    overflow-x: auto;
+    border: 1px solid #f0f0f0;
+    border-radius: 12px;
+  }
+
+  .trend-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+    background: white;
+  }
+
+  .trend-table th {
+    background: #fcfcfc;
+    padding: 1rem 1.5rem;
+    text-align: left;
+    font-weight: 700;
+    color: #666;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .trend-table td {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .trend-row:hover {
+    background: #fbfbfb;
+  }
+
+  .product-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .product-icon {
+    width: 32px;
+    height: 32px;
+    background: #f0f0f0;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    color: #666;
+  }
+
+  .product-details {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .product-name {
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+
+  .product-id {
+    font-size: 0.7rem;
+    color: #666;
+    font-family: monospace;
+  }
+
+  .category-tag {
+    background: #f3f4f6;
+    padding: 2px 8px;
+    border-radius: 4px;
+    color: #4b5563;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  .score-container {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100px;
+  }
+
+  .score-bar-bg {
+    flex: 1;
+    height: 6px;
+    background: #f0f0f0;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+
+  .score-bar-fill {
+    height: 100%;
+    background: #0066ff;
+    border-radius: 3px;
+  }
+
+  .score-text {
+    font-weight: 700;
+    min-width: 20px;
+  }
+
+  .badge {
+    padding: 4px 10px;
+    border-radius: 99px;
+    font-size: 0.625rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .badge-indigo { background: #eef2ff; color: #4f46e5; }
+  .badge-red { background: #fff1f2; color: #e11d48; }
+  .badge-emerald { background: #ecfdf5; color: #059669; }
+  .badge-gray { background: #f3f4f6; color: #6b7280; }
+  .badge-amber { background: #fffbeb; color: #d97706; }
+</style>

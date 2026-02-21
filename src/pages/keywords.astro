@@ -1,0 +1,170 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Vietnam Ecommerce Keyword Growth Tracker"
+  description="Discover rising search terms and analyze keyword clusters for Vietnam market insights."
+  canonicalURL="https://vnmarketinsights.com/keywords/"
+  mainClass="container-wide"
+>
+  <div class="keyword-page text-slate-900">
+    <div class="header-section">
+      <h1 class="title">Keyword Growth Tracker</h1>
+      <p class="subtitle">Enter a seed keyword to mine related terms and search trends.</p>
+    </div>
+
+    <div class="search-card">
+      <div class="input-group">
+        <input 
+          type="text" 
+          id="keyword-input" 
+          placeholder="e.g. iphone 16, cafe hat, vay cuoi" 
+          class="keyword-input"
+        />
+        <button id="mine-btn" class="mine-btn">
+          <span class="btn-text">Mine Suggestions</span>
+          <div class="btn-loader hidden"></div>
+        </button>
+      </div>
+      <div class="filters">
+        <label>Min Growth: <input type="range" id="growth-filter" min="0" max="100" value="0" /> <span id="growth-val">0%</span></label>
+      </div>
+    </div>
+
+    <div id="results-area" class="results-area hidden">
+      <div id="insight-box" class="insight-box"></div>
+
+      <div class="table-container">
+        <div class="table-header">
+          <h2>Mining Results</h2>
+          <button id="export-btn" class="export-btn">Download CSV</button>
+        </div>
+        <table class="keyword-table">
+          <thead>
+            <tr>
+              <th>Keyword</th>
+              <th>Volume</th>
+              <th>Growth</th>
+              <th>Competition</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="keyword-list"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="error-message" class="error-panel hidden"></div>
+
+    <p class="keyword-disclaimer">Suggestions and metrics are for ideation only. We may add AI-assisted keyword expansion in a future update.</p>
+  </div>
+
+  <script is:inline>
+    const input = document.getElementById('keyword-input');
+    const btn = document.getElementById('mine-btn');
+    const resultsArea = document.getElementById('results-area');
+    const growthRange = document.getElementById('growth-filter');
+    const growthVal = document.getElementById('growth-val');
+    let currentKeywords = [];
+
+    btn.addEventListener('click', mine);
+    input.addEventListener('keypress', (e) => { if (e.key === 'Enter') mine(); });
+    growthRange.addEventListener('input', (e) => {
+      growthVal.textContent = e.target.value + '%';
+      renderTable(currentKeywords.filter(k => k.growth >= e.target.value));
+    });
+
+    async function mine() {
+      const q = input.value.trim();
+      if (q.length < 2) return;
+
+      btn.disabled = true;
+      resultsArea.classList.add('hidden');
+      
+      try {
+        const response = await fetch(`/api/keywords/?q=${encodeURIComponent(q)}`);
+        const result = await response.json();
+
+        if (result.success) {
+          currentKeywords = result.data.keywords;
+          document.getElementById('insight-box').innerHTML = `<p>${result.data.insight}</p>`;
+          renderTable(currentKeywords);
+          resultsArea.classList.remove('hidden');
+        } else {
+          alert('Error: ' + result.error);
+        }
+      } catch (err) {
+        alert('Could not fetch data.');
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    function renderTable(data) {
+      const list = document.getElementById('keyword-list');
+      list.innerHTML = data.map(k => `
+        <tr>
+          <td><strong>${k.keyword}</strong></td>
+          <td>${k.volume.toLocaleString()}</td>
+          <td class="${k.growth > 30 ? 'text-emerald-600' : ''}">${k.growth.toFixed(1)}%</td>
+          <td>
+            <div class="comp-bar">
+              <div class="comp-fill" style="width: ${k.competition}%"></div>
+            </div>
+          </td>
+          <td><span class="status-tag ${k.status.toLowerCase()}">${k.status}</span></td>
+        </tr>
+      `).join('');
+    }
+
+    // Simple CSV Export
+    document.getElementById('export-btn').addEventListener('click', () => {
+      const csv = 'Keyword,Volume,Growth,Competition\n' + 
+        currentKeywords.map(k => `"${k.keyword}",${k.volume},${k.growth},${k.competition}`).join('\n');
+      const blob = new Blob([csv], { type: 'text/csv' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'keyword-trends.csv';
+      a.click();
+    });
+  </script>
+
+  <style is:global>
+    .keyword-page { width: 100%; margin: 0 auto; padding: 4rem 0; }
+    .header-section { text-align: center; margin-bottom: 3rem; }
+    .title { font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem; }
+    .subtitle { color: #666; font-size: 1.125rem; }
+
+    .search-card { background: white; border: 1px solid #eee; border-radius: 20px; padding: 2rem; margin-bottom: 3rem; box-shadow: 0 4px 20px rgba(0,0,0,0.02); }
+    .input-group { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
+    .keyword-input { flex: 1; padding: 1rem; border: 2px solid #f0f0f0; border-radius: 12px; font-size: 1rem; }
+    .mine-btn { background: #1a1a1a; color: white; border: none; padding: 0 2rem; border-radius: 12px; font-weight: 700; cursor: pointer; }
+    .mine-btn:disabled { opacity: 0.5; }
+
+    .filters { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #666; }
+    .filters input { vertical-align: middle; }
+
+    .insight-box { background: #f0f7ff; color: #004d99; padding: 1.5rem; border-radius: 16px; margin-bottom: 2rem; border-left: 4px solid #0066ff; }
+    
+    .table-container { background: white; border: 1px solid #eee; border-radius: 16px; overflow: hidden; }
+    .table-header { display: flex; justify-content: space-between; align-items: center; padding: 1.5rem; border-bottom: 1px solid #f8f8f8; }
+    .table-header h2 { font-size: 1.125rem; font-weight: 800; margin: 0; }
+    .export-btn { font-size: 0.75rem; font-weight: 700; background: #f5f5f5; border: 1px solid #ddd; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+
+    .keyword-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    .keyword-table th { text-align: left; padding: 1rem 1.5rem; background: #fafafa; color: #666; font-weight: 700; }
+    .keyword-table td { padding: 1.25rem 1.5rem; border-bottom: 1px solid #f9f9f9; }
+
+    .comp-bar { width: 80px; height: 6px; background: #eee; border-radius: 3px; overflow: hidden; }
+    .comp-fill { height: 100%; background: #94a3b8; }
+
+    .status-tag { font-size: 0.65rem; font-weight: 800; text-transform: uppercase; padding: 2px 8px; border-radius: 4px; }
+    .status-tag.rising { background: #ecfdf5; color: #059669; }
+    .status-tag.stable { background: #f3f4f6; color: #6b7280; }
+    .status-tag.declining { background: #fff1f2; color: #e11d48; }
+
+    .keyword-disclaimer { margin-top: 2rem; font-size: 0.875rem; color: #666; }
+  </style>
+</BaseLayout>

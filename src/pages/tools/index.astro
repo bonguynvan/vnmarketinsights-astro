@@ -1,0 +1,90 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const tools = [
+  { href: '/snapshot', icon: '📸', title: 'Website Snapshot', description: 'Detect tech stack and SEO score for any Vietnamese domain.' },
+  { href: '/keywords', icon: '🔍', title: 'Keyword Miner', description: 'Discover related search terms and demand clusters from a seed keyword. AI-assisted suggestions coming soon.' },
+];
+---
+
+<BaseLayout
+  title="Tools"
+  description="Free tools for Vietnam market: website snapshot and keyword miner. More tools and AI features coming soon."
+  canonicalURL="https://vnmarketinsights.com/tools/"
+  mainClass="container-wide"
+>
+  <article class="tools-page">
+    <header class="tools-header">
+      <h1>Market Tools</h1>
+      <p class="tools-lead">Analyze websites and mine keywords. All tools are free; we're adding more (including AI-assisted options) over time.</p>
+    </header>
+
+    <section class="tools-grid-section">
+      <div class="tools-grid">
+        {tools.map((tool) => (
+          <a href={tool.href} class="tool-card">
+            <div class="tool-icon">{tool.icon}</div>
+            <h3>{tool.title}</h3>
+            <p>{tool.description}</p>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <p class="tools-footer-note">
+      <a href="/">Home</a> · <a href="/topics">Topics</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .tools-page { }
+  .tools-header { margin-bottom: var(--space-10); }
+  .tools-header h1 { margin-bottom: var(--space-3); border: none; }
+  .tools-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .tools-grid-section { margin: var(--space-8) 0; }
+  .tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-6);
+  }
+  .tool-card {
+    display: flex;
+    flex-direction: column;
+    padding: 2.5rem 2rem;
+    background: white;
+    border: 1px solid var(--color-border-light);
+    border-radius: 20px;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+  }
+  .tool-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+    border-color: rgba(37, 99, 235, 0.2);
+  }
+  .tool-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    background: var(--color-bg-subtle);
+  }
+  .tool-card h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: var(--color-text);
+  }
+  .tool-card p {
+    font-size: 0.9375rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+  }
+  .tools-footer-note { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+</style>

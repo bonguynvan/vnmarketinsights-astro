@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const topics = [
+  { slug: 'payments', title: 'Payments', description: 'Payment methods, e-wallets, banking infrastructure, and financial services.' },
+  { slug: 'ecommerce', title: 'E-commerce', description: 'Online marketplaces, retail platforms, and digital commerce patterns.' },
+  { slug: 'logistics', title: 'Logistics', description: 'Shipping networks, last-mile delivery, and supply chain structures.' },
+  { slug: 'consumers', title: 'Consumers', description: 'Demographics, purchasing behavior, and consumer preferences.' },
+  { slug: 'regulations', title: 'Regulations', description: 'Legal frameworks, compliance requirements, and government policies.' },
+  { slug: 'platforms', title: 'Platforms', description: 'Super-apps, social platforms, and digital ecosystems.' },
+  { slug: 'financial-markets', title: 'Financial Markets', description: 'Stock market, exchanges, and investment landscape in Vietnam.' },
+];
+---
+
+<BaseLayout
+  title="Topics"
+  description="Structured reference topics on Vietnam's market: payments, e-commerce, logistics, consumers, regulations, platforms, and financial markets."
+  canonicalURL="https://vnmarketinsights.com/topics/"
+  mainClass="container-wide"
+>
+  <article class="topics-page">
+    <header class="topics-header">
+      <h1>Reference Topics</h1>
+      <p class="topics-lead">Structured, factual overviews of Vietnam's market landscape. Each topic includes key statistics, major players, and sources.</p>
+    </header>
+
+    <section>
+      <div class="topic-grid">
+        {topics.map((topic) => (
+          <a href={`/${topic.slug}`} class="topic-card">
+            <span class="topic-card__title">{topic.title}</span>
+            <span class="topic-card__desc">{topic.description}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <p class="topics-footer-note">
+      <a href="/glossary">Glossary</a> — Key terms and definitions. <a href="/">Home</a>.
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .topics-page { }
+  .topics-header { margin-bottom: var(--space-10); }
+  .topics-header h1 { margin-bottom: var(--space-3); border: none; }
+  .topics-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .topics-footer-note { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+</style>

@@ -1,0 +1,89 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Financial Markets";
+const description = "Overview of Vietnam's stock market, exchanges (HOSE, HNX, UPCoM), key indices (VN30, VN100), and investment landscape.";
+const canonicalURL = "https://vnmarketinsights.com/financial-markets";
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonicalURL}
+  mainClass="container"
+>
+  <article class="topic-page">
+    <header class="topic-header">
+      <h1>{title}</h1>
+      <p class="topic-lead">Reference overview of Vietnam's equity and securities markets. This page covers exchanges, indices, and market structure—not investment advice.</p>
+    </header>
+
+    <section>
+      <h2>Overview</h2>
+      <p>
+        Vietnam's stock market is operated by the Ho Chi Minh City Stock Exchange (HOSE), the Hanoi Stock Exchange (HNX), and the Unlisted Public Company Market (UPCoM). The market has grown from a small bourse in the early 2000s to one of the largest in Southeast Asia by market capitalization. Retail investors account for a significant share of trading volume.
+      </p>
+    </section>
+
+    <section>
+      <h2>Exchanges</h2>
+      <ul class="characteristics-list">
+        <li><strong>HOSE (Ho Chi Minh Stock Exchange)</strong>: Main board for large-cap listed companies; VN30 and VN100 indices.</li>
+        <li><strong>HNX (Hanoi Stock Exchange)</strong>: Mid and small cap; derivatives (futures on VN30) and bond trading.</li>
+        <li><strong>UPCoM</strong>: Unlisted public companies; less liquid, different listing rules.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Key indices</h2>
+      <ul class="characteristics-list">
+        <li><strong>VN30</strong>: Top 30 largest and most liquid stocks on HOSE.</li>
+        <li><strong>VN100</strong>: Top 100 by market cap and liquidity.</li>
+        <li><strong>VN-Index</strong>: Broad market index of HOSE.</li>
+        <li><strong>HNX-Index</strong>: Broad index of HNX.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Regulation and infrastructure</h2>
+      <p>
+        The State Securities Commission (SSC) regulates the market. The Vietnam Securities Depository (VSD) handles clearing and settlement. Foreign ownership limits apply to many listed companies; sectors such as banking and listed state-owned enterprises have specific caps.
+      </p>
+    </section>
+
+    <section>
+      <h2>Related articles</h2>
+      <ul class="sources-list">
+        <li><a href="/insights/13-vietnam-stock-market-overview">Vietnam Stock Market Overview</a> — Exchanges, market size, regulation.</li>
+        <li><a href="/insights/14-vn30-index-intro">VN30 Index: Overview and Composition</a> — What the VN30 is and how it is used.</li>
+        <li><a href="/insights">All articles & insights</a></li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Sources</h2>
+      <ul class="sources-list">
+        <li><a href="https://www.ssc.gov.vn" target="_blank" rel="noopener noreferrer">State Securities Commission of Vietnam (SSC)</a></li>
+        <li><a href="https://www.hsx.vn" target="_blank" rel="noopener noreferrer">Ho Chi Minh City Stock Exchange (HOSE)</a></li>
+        <li><a href="https://www.hnx.vn" target="_blank" rel="noopener noreferrer">Hanoi Stock Exchange (HNX)</a></li>
+        <li><a href="https://www.vsd.vn" target="_blank" rel="noopener noreferrer">Vietnam Securities Depository (VSD)</a></li>
+      </ul>
+    </section>
+
+    <p class="topic-footer">
+      <a href="/topics">All topics</a> · <a href="/regulations">Regulations</a> · <a href="/">Home</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .topic-page { width: 100%; }
+  .topic-header { margin-bottom: var(--space-10); }
+  .topic-lead { color: var(--color-text-muted); font-size: var(--text-lg); margin-top: var(--space-3); }
+  .characteristics-list { list-style: none; padding: 0; }
+  .characteristics-list li { position: relative; padding-left: var(--space-4); margin-bottom: var(--space-3); }
+  .characteristics-list li::before { content: "—"; position: absolute; left: 0; color: var(--color-text-light); }
+  .sources-list { font-size: var(--text-sm); }
+  .sources-list li { margin-bottom: var(--space-2); }
+  .topic-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+</style>

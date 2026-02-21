@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return articles.map((entry) => ({ params: { slug: entry.slug }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const title = entry.data.title ?? 'Article';
+const description = entry.data.description ?? 'Vietnam market insights article';
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={`https://vnmarketinsights.com/insights/${entry.slug}/`}
+  mainClass="container"
+>
+  <article class="article-page">
+    <header class="article-header">
+      {entry.data.publishedDate && (
+        <time class="article-meta" datetime={new Date(entry.data.publishedDate).toISOString()}>
+          {new Date(entry.data.publishedDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+      )}
+      <h1>{title}</h1>
+    </header>
+    <div class="article-body prose">
+      <Content />
+    </div>
+    <footer class="article-footer">
+      <a href="/insights">← All articles</a> · <a href="/topics">Topics</a>
+    </footer>
+  </article>
+</BaseLayout>
+
+<style>
+  .article-page { width: 100%; }
+  .article-header { margin-bottom: var(--space-8); }
+  .article-meta { font-size: var(--text-sm); color: var(--color-text-light); display: block; margin-bottom: var(--space-2); }
+  .article-header h1 { border: none; margin-bottom: 0; }
+  .article-body { margin: var(--space-8) 0; }
+  .article-body :global(h2) { margin-top: var(--space-10); }
+  .article-body :global(h3) { margin-top: var(--space-6); }
+  .article-body :global(ul), .article-body :global(ol) { padding-left: var(--space-6); }
+  .article-footer { margin-top: var(--space-10); padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); font-size: var(--text-sm); color: var(--color-text-muted); }
+</style>

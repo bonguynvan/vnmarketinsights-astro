@@ -1,0 +1,245 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Vietnam Website Snapshot - Mini BuiltWith & SEO Scan"
+  description="Analyze any Vietnamese website tech stack, SEO score, and mobile-friendliness instantly."
+  canonicalURL="https://vnmarketinsights.com/snapshot/"
+  mainClass="container-wide"
+>
+  <div class="snapshot-page text-slate-900">
+    <div class="header-section">
+      <h1 class="title">Vietnam Website Snapshot</h1>
+      <p class="subtitle">Enter a domain to detect its technology stack and SEO performance.</p>
+    </div>
+
+    <div class="analyzer-card">
+      <div class="input-group">
+        <input 
+          type="text" 
+          id="domain-input" 
+          placeholder="e.g. shopee.vn, tiki.vn, yoursite.com" 
+          class="url-input"
+        />
+        <button id="analyze-btn" class="analyze-btn">
+          <span class="btn-text">Analyze Website</span>
+          <div class="btn-loader hidden"></div>
+        </button>
+      </div>
+      <p class="input-note">We only analyze public HTML. No private data is accessed.</p>
+    </div>
+
+    <div id="results-container" class="results-container hidden">
+      <div class="results-grid">
+        <!-- Tech Stack Column -->
+        <div class="card">
+          <div class="card-header">
+            <svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path></svg>
+            <h2>Technology Stack</h2>
+          </div>
+          <div id="tech-list" class="tech-list"></div>
+        </div>
+
+        <!-- SEO Score Column -->
+        <div class="card">
+          <div class="card-header">
+            <svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+            <h2>SEO Audit</h2>
+          </div>
+          <div class="seo-content">
+            <div class="score-circle">
+              <span id="seo-score-val">0</span>
+              <span class="score-label">SEO Score</span>
+            </div>
+            <div id="seo-details" class="seo-details"></div>
+          </div>
+        </div>
+
+        <!-- Metrics Column -->
+        <div class="card">
+          <div class="card-header">
+            <svg class="icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+            <h2>Market Metrics</h2>
+          </div>
+          <div id="metrics-list" class="metrics-list"></div>
+        </div>
+      </div>
+
+      <div class="raw-data-section">
+        <details>
+          <summary>View Meta Tags Found</summary>
+          <pre id="meta-raw" class="raw-code"></pre>
+        </details>
+      </div>
+    </div>
+
+    <div id="error-message" class="error-panel hidden"></div>
+  </div>
+
+  <script is:inline>
+    const input = document.getElementById('domain-input');
+    const btn = document.getElementById('analyze-btn');
+    const btnText = btn.querySelector('.btn-text');
+    const btnLoader = btn.querySelector('.btn-loader');
+    const resultsContainer = document.getElementById('results-container');
+    const errorMessage = document.getElementById('error-message');
+
+    btn.addEventListener('click', analyze);
+    input.addEventListener('keypress', (e) => { if (e.key === 'Enter') analyze(); });
+
+    async function analyze() {
+      const url = input.value.trim();
+      if (!url) return;
+
+      // Reset UI
+      resultsContainer.classList.add('hidden');
+      errorMessage.classList.add('hidden');
+      btn.disabled = true;
+      btnText.classList.add('hidden');
+      btnLoader.classList.remove('hidden');
+
+      try {
+        const response = await fetch(`/api/analyze/?url=${encodeURIComponent(url)}`);
+        const result = await response.json();
+
+        if (result.success) {
+          renderResults(result.data);
+          resultsContainer.classList.remove('hidden');
+        } else {
+          showError(result.error);
+        }
+      } catch (err) {
+        showError('Could not connect to analysis engine. Please try again.');
+      } finally {
+        btn.disabled = false;
+        btnText.classList.remove('hidden');
+        btnLoader.classList.add('hidden');
+      }
+    }
+
+    function renderResults(data) {
+      // Tech Stack
+      const techList = document.getElementById('tech-list');
+      techList.innerHTML = data.techStack.length > 0 
+        ? data.techStack.map(t => `
+            <div class="tech-item">
+              <span class="tech-name">${t.name}</span>
+              <span class="tech-cat">${t.category}</span>
+            </div>
+          `).join('')
+        : '<p class="text-muted">No specific tech signatures detected.</p>';
+
+      // SEO
+      document.getElementById('seo-score-val').textContent = data.seo.score;
+      const seoDetails = document.getElementById('seo-details');
+      seoDetails.innerHTML = `
+        <div class="seo-stat"><strong>Title:</strong> ${data.seo.title || 'N/A'}</div>
+        <div class="seo-issues">
+          ${data.seo.issues.map(issue => `<div class="issue-pill">× ${issue}</div>`).join('')}
+          ${data.seo.issues.length === 0 ? '<div class="success-pill">✓ No major issues found</div>' : ''}
+        </div>
+      `;
+
+      // Metrics
+      const metricsList = document.getElementById('metrics-list');
+      metricsList.innerHTML = `
+        <div class="metric-row"><span>Estimated Traffic:</span> <strong>${data.metrics.trafficTier}</strong></div>
+        <div class="metric-row"><span>Page Size:</span> <strong>${data.metrics.pageSize}</strong></div>
+        <div class="metric-row"><span>Mobile Friendly:</span> <strong>${data.metrics.isMobileFriendly ? 'Yes ✓' : 'No ×'}</strong></div>
+      `;
+
+      // Raw
+      document.getElementById('meta-raw').textContent = `Title: ${data.seo.title}\nDescription: ${data.seo.description}\nHeadings: ${data.seo.h1Count} (H1)`;
+    }
+
+    function showError(msg) {
+      errorMessage.textContent = msg;
+      errorMessage.classList.remove('hidden');
+    }
+  </script>
+
+  <style is:global>
+    .snapshot-page {
+      width: 100%;
+      margin: 0 auto;
+      padding: 4rem 0;
+    }
+
+    .header-section { text-align: center; margin-bottom: 3rem; }
+    .title { font-size: 2.5rem; font-weight: 800; letter-spacing: -0.02em; margin-bottom: 0.5rem; }
+    .subtitle { color: #666; font-size: 1.125rem; }
+
+    .analyzer-card {
+      background: white;
+      border: 1px solid #f0f0f0;
+      border-radius: 20px;
+      padding: 2.5rem;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.03);
+      margin-bottom: 3rem;
+    }
+
+    .input-group { display: flex; gap: 1rem; margin-bottom: 1rem; }
+    .url-input { 
+      flex: 1; 
+      padding: 1rem 1.5rem; 
+      border: 2px solid #f0f0f0; 
+      border-radius: 12px; 
+      font-size: 1rem;
+      transition: border-color 0.2s;
+    }
+    .url-input:focus { border-color: #0066ff; outline: none; }
+
+    .analyze-btn {
+      padding: 0 2rem;
+      background: #0066ff;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: background 0.2s;
+      min-width: 180px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .analyze-btn:hover { background: #0052cc; }
+    .analyze-btn:disabled { background: #ccc; cursor: not-allowed; }
+
+    .btn-loader {
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(255,255,255,0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-bottom: 2rem; }
+    .card { background: white; border: 1px solid #f0f0f0; border-radius: 16px; padding: 1.5rem; }
+    .card-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #f8f8f8; }
+    .card-header h2 { font-size: 1rem; font-weight: 700; margin: 0; }
+    .icon { width: 20px; height: 20px; color: #0066ff; }
+
+    .tech-item { display: flex; justify-content: space-between; padding: 0.75rem 0; border-bottom: 1px solid #fafafa; }
+    .tech-name { font-weight: 600; }
+    .tech-cat { font-size: 0.75rem; color: #888; background: #f5f5f5; padding: 2px 8px; border-radius: 4px; }
+
+    .score-circle { 
+      width: 80px; height: 80px; border: 6px solid #eef2ff; border-radius: 50%; 
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      margin: 0 auto 1.5rem;
+    }
+    #seo-score-val { font-size: 1.5rem; font-weight: 800; color: #0066ff; line-height: 1; }
+    .score-label { font-size: 0.6rem; font-weight: 700; text-transform: uppercase; color: #888; }
+
+    .issue-pill { font-size: 0.75rem; color: #e11d48; background: #fff1f2; padding: 4px 10px; border-radius: 6px; margin-bottom: 0.5rem; }
+    .success-pill { font-size: 0.75rem; color: #059669; background: #ecfdf5; padding: 4px 10px; border-radius: 6px; }
+
+    .metric-row { display: flex; justify-content: space-between; margin-bottom: 1rem; font-size: 0.9rem; }
+    .error-panel { background: #fff1f2; color: #e11d48; padding: 1rem; border-radius: 12px; border: 1px solid #fda4af; text-align: center; }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+</BaseLayout>
