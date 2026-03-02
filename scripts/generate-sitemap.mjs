@@ -1,10 +1,10 @@
-
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DIST_DIR = path.resolve(__dirname, '../dist');
+const inputDir = process.argv[2] || '../dist';
+const DIST_DIR = path.resolve(__dirname, inputDir);
 const SITE_URL = 'https://vnmarketinsights.com';
 
 function getHtmlFiles(dir) {
@@ -26,7 +26,7 @@ function getHtmlFiles(dir) {
 
 function generateSitemap() {
     if (!fs.existsSync(DIST_DIR)) {
-        console.error('Dist directory not found!');
+        console.error(`Output directory not found: ${DIST_DIR}`);
         process.exit(1);
     }
 
@@ -63,8 +63,9 @@ function generateSitemap() {
   </url>`).join('')}
 </urlset>`;
 
-    fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemapContent);
-    console.log(`✅ Sitemap generated at dist/sitemap.xml with ${urls.length} URLs.`);
+    const targetPath = path.join(DIST_DIR, 'sitemap.xml');
+    fs.writeFileSync(targetPath, sitemapContent);
+    console.log(`✅ Sitemap generated at ${targetPath} with ${urls.length} URLs.`);
 }
 
 generateSitemap();

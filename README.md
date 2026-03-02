@@ -1,6 +1,6 @@
 # Vietnam Market Insights
 
-A neutral, reference-style knowledge base about the Vietnamese market. Built with Astro for static site generation.
+A neutral, reference-style knowledge base about the Vietnamese market. Built with Astro (hybrid output: prerendered pages + serverless APIs).
 
 ## Philosophy
 
@@ -74,6 +74,46 @@ To track traffic, create a GA4 property at [analytics.google.com](https://analyt
 - **Local:** Create `.env` with `PUBLIC_GA_MEASUREMENT_ID=G-XXXXXXXXXX` (optional; leave unset to disable GA).
 
 The layout only injects the gtag script when `PUBLIC_GA_MEASUREMENT_ID` is set.
+
+### Growth Event Tracking
+
+The project now tracks acquisition funnel events beyond base pageviews, including:
+
+- `homepage_cta_click`, `homepage_quickstart_click`
+- `topic_card_click`, `tools_hub_click`, `insight_click`
+- `tool_form_started`, `tool_submitted`, `tool_success`, `tool_error`
+- `first_value_received`, `lead_capture_submit`, `lead_pending_confirmation`, `lead_confirmed`
+- `search_open`, `search_query`
+- `workspace_goal_added`, `workspace_goal_toggled`, `workspace_goal_removed`
+- `workspace_replay_started`, `tool_replay_item_success`, `tool_replay_item_error`, `tool_replay_completed`
+
+These events are emitted through a shared `window.vmiTrack()` helper in `src/layouts/BaseLayout.astro`.
+
+### Lead Capture Backend (Double Opt-In)
+
+Lead capture now uses backend endpoints instead of `mailto:` for better growth operations:
+
+- `POST /api/leads/subscribe` creates or updates a pending subscriber (anti-duplicate by email).
+- `GET /api/leads/confirm?token=...` confirms subscription (double opt-in).
+- `GET /api/leads/admin` returns lead summary/list (requires admin key).
+
+Optional environment variables:
+
+- `LEAD_WEBHOOK_URL` to forward lead + confirmation payload to your email/CRM automation.
+- `ADMIN_LEADS_KEY` required to access `/api/leads/admin` and `/admin/leads`.
+- `ALLOW_ADMIN_KEY_QUERY=true` only if you need temporary query-string auth fallback for `/api/leads/admin`.
+- `PUBLIC_EXPOSE_CONFIRM_LINK=true` to return confirm link directly in API response (useful for local/manual testing only).
+
+Leads are stored locally at `data/leads.json` in this project.
+
+### Weekly Growth Loop
+
+Use `docs/GROWTH-EXPERIMENTS.md` as the operating playbook for:
+
+- choosing one weekly hypothesis,
+- shipping one focused acquisition experiment,
+- validating event quality,
+- deciding keep/iterate/revert each Friday.
 
 ## Adding a New Topic Page
 
@@ -221,19 +261,47 @@ Every topic page follows this exact structure:
 
 ## Deployment
 
-This is a static Astro site. Build output goes to the `dist/` directory.
+This project uses **Astro hybrid output** with **Vercel serverless adapter**:
 
-**Build:**
+- Static pages are prerendered for SEO and fast delivery.
+- API routes (`/api/analyze`, `/api/keywords`, `/api/leads/*`) run as serverless functions.
+
+**Build command:**
 ```bash
 npm run build
 ```
-Post-build runs Pagefind (search index) and sitemap generation automatically.
 
-**Deploy** the `dist/` folder to any static host:
+Build outputs:
 
-- **Vercel:** Connect the repo; build command `npm run build`, output directory `dist`. Add `PUBLIC_GA_MEASUREMENT_ID` in Environment Variables if using GA4.
-- **Netlify:** Build command `npm run build`, publish directory `dist`. Same env var for GA4.
-- **Cloudflare Pages / GitHub Pages:** Build as above, then upload or push `dist/`.
+- Vercel deployment bundle: `.vercel/output/`
+- Static pages + assets: `.vercel/output/static/`
+- Post-build indexing/sitemap currently target `.vercel/output/static/`
+
+### Required environment variables (production)
+
+- `PUBLIC_GA_MEASUREMENT_ID` (optional if GA4 disabled)
+- `ADMIN_LEADS_KEY` (required for `/admin/leads` and `/api/leads/admin`)
+- `LEAD_WEBHOOK_URL` (recommended for durable lead handling and downstream email/CRM automation)
+
+### Vercel setup
+
+- Framework preset: Astro
+- Build command: `npm run build`
+- Output directory: leave default for Astro/Vercel integration
+- Node runtime: Vercel will run functions on supported Node version automatically
+
+### V2 Smoke Checklist (post-deploy)
+
+Run these checks before announcing v2:
+
+1. `/snapshot` can analyze a public domain and returns non-error result.
+2. `/keywords` can run a query and render table rows.
+3. Replay from `/workspace` works for both snapshot and keywords.
+4. Save-to-goal works from both tools and appears in `/workspace`.
+5. Lead submit returns pending confirmation state; confirm link marks lead as confirmed.
+6. `/admin/leads` loads with `x-admin-key` header flow.
+7. Search modal works in production build (Pagefind assets available).
+8. `sitemap.xml` resolves in deployed static output.
 
 ## License
 

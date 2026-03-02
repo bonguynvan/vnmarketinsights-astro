@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
 ---
 
 <BaseLayout
@@ -27,6 +28,12 @@ import BaseLayout from '@layouts/BaseLayout.astro';
           <div class="btn-loader hidden"></div>
         </button>
       </div>
+      <div class="quick-keywords">
+        <span>Quick start:</span>
+        <button type="button" class="quick-keyword-chip" data-keyword="iphone 16">iphone 16</button>
+        <button type="button" class="quick-keyword-chip" data-keyword="thanh toan online">thanh toan online</button>
+        <button type="button" class="quick-keyword-chip" data-keyword="mua sam online">mua sam online</button>
+      </div>
       <div class="filters">
         <label>Min Growth: <input type="range" id="growth-filter" min="0" max="100" value="0" /> <span id="growth-val">0%</span></label>
       </div>
@@ -38,7 +45,11 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       <div class="table-container">
         <div class="table-header">
           <h2>Mining Results</h2>
-          <button id="export-btn" class="export-btn">Download CSV</button>
+          <div class="table-header__actions">
+            <button id="share-btn" class="export-btn">Share tool</button>
+          <button id="save-goal-btn" class="export-btn">Save as goal</button>
+            <button id="export-btn" class="export-btn">Download CSV</button>
+          </div>
         </div>
         <table class="keyword-table">
           <thead>
@@ -56,31 +67,270 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     </div>
 
     <div id="error-message" class="error-panel hidden"></div>
+    <div id="keywords-replay-status" class="keywords-replay-status"></div>
 
     <p class="keyword-disclaimer">Suggestions and metrics are for ideation only. We may add AI-assisted keyword expansion in a future update.</p>
+    <p class="keyword-next-step">
+      Need context for these keywords? <a href="/topics" data-track-event="keywords_next_step_click" data-track-category="acquisition" data-track-label="to_topics">Browse topic references</a>.
+    </p>
+    <section class="saved-keywords">
+      <h2>Recent keyword sessions on this device</h2>
+      <ul id="keywords-saved-list" class="saved-keywords__list"></ul>
+    </section>
+    <LeadCapture
+      source="keywords_page"
+      title="Get weekly keyword ideas"
+      description="Get one weekly brief with high-signal market and content opportunities."
+    />
   </div>
 
   <script is:inline>
     const input = document.getElementById('keyword-input');
     const btn = document.getElementById('mine-btn');
+    const btnText = btn.querySelector('.btn-text');
+    const btnLoader = btn.querySelector('.btn-loader');
     const resultsArea = document.getElementById('results-area');
     const growthRange = document.getElementById('growth-filter');
     const growthVal = document.getElementById('growth-val');
+    const errorMessage = document.getElementById('error-message');
+    const quickKeywordButtons = document.querySelectorAll('.quick-keyword-chip');
+    const shareButton = document.getElementById('share-btn');
+    const saveGoalButton = document.getElementById('save-goal-btn');
+    const replayStatus = document.getElementById('keywords-replay-status');
+    const savedList = document.getElementById('keywords-saved-list');
+    const savedStorageKey = 'vmi_keywords_saved_results';
+    const replayQueueKey = 'vmi_replay_keywords_queue';
+    const replayAutoKey = 'vmi_replay_auto_keywords';
+    const replaySummariesKey = 'vmi_replay_batch_summaries';
+    let replayNavigateLocked = false;
     let currentKeywords = [];
+    let latestQuery = '';
+    let started = false;
+
+    const track = (eventName, params = {}) => {
+      if (typeof window.vmiTrack === 'function') {
+        window.vmiTrack(eventName, { event_category: 'tools', tool: 'keywords', ...params });
+      }
+    };
 
     btn.addEventListener('click', mine);
     input.addEventListener('keypress', (e) => { if (e.key === 'Enter') mine(); });
+    input.addEventListener('focus', () => {
+      if (started) return;
+      started = true;
+      track('tool_form_started', { event_label: 'keyword_input' });
+    });
+    quickKeywordButtons.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        input.value = chip.dataset.keyword || '';
+        input.focus();
+        track('tool_example_selected', { event_label: chip.dataset.keyword || 'unknown' });
+      });
+    });
     growthRange.addEventListener('input', (e) => {
       growthVal.textContent = e.target.value + '%';
       renderTable(currentKeywords.filter(k => k.growth >= e.target.value));
+      track('tool_filter_used', { event_label: 'growth_filter', value: Number(e.target.value) });
     });
+
+    function readSavedResults() {
+      try {
+        const raw = localStorage.getItem(savedStorageKey);
+        const parsed = raw ? JSON.parse(raw) : [];
+        return Array.isArray(parsed) ? parsed : [];
+      } catch {
+        return [];
+      }
+    }
+
+    function writeSavedResults(results) {
+      localStorage.setItem(savedStorageKey, JSON.stringify(results.slice(0, 8)));
+    }
+
+    function saveResult(query, count) {
+      const item = {
+        query,
+        count: Number(count) || 0,
+        analyzedAt: new Date().toISOString()
+      };
+      const existing = readSavedResults().filter((entry) => entry.query !== item.query);
+      writeSavedResults([item, ...existing]);
+      renderSavedResults();
+    }
+
+    function readReplayQueue() {
+      try {
+        const raw = localStorage.getItem(replayQueueKey);
+        const parsed = raw ? JSON.parse(raw) : null;
+        if (!parsed || !Array.isArray(parsed.items)) return null;
+        return parsed;
+      } catch {
+        return null;
+      }
+    }
+
+    function writeReplayQueue(queue) {
+      localStorage.setItem(replayQueueKey, JSON.stringify(queue));
+    }
+
+    function clearReplayQueue() {
+      localStorage.removeItem(replayQueueKey);
+    }
+
+    function appendReplaySummary(summary) {
+      try {
+        const raw = localStorage.getItem(replaySummariesKey);
+        const existing = raw ? JSON.parse(raw) : [];
+        const normalized = Array.isArray(existing) ? existing : [];
+        localStorage.setItem(replaySummariesKey, JSON.stringify([summary, ...normalized].slice(0, 12)));
+      } catch {
+        // ignore persistence errors
+      }
+    }
+
+    function isReplayAutoEnabled() {
+      const stored = localStorage.getItem(replayAutoKey);
+      if (!stored) return true;
+      return stored === '1';
+    }
+
+    function setReplayAutoEnabled(enabled) {
+      localStorage.setItem(replayAutoKey, enabled ? '1' : '0');
+    }
+
+    function navigateToReplayQuery(query, auto = true) {
+      if (!query || replayNavigateLocked) return;
+      replayNavigateLocked = true;
+      window.location.href = `/keywords?q=${encodeURIComponent(query)}&autorun=1&replay=1${auto ? '&auto=1' : ''}`;
+    }
+
+    function renderReplayStatus(currentQuery = '') {
+      if (!replayStatus) return;
+      const params = new URLSearchParams(window.location.search);
+      const replayMode = ['1', 'true', 'yes'].includes((params.get('replay') || '').toLowerCase());
+      const queue = readReplayQueue();
+      if (!replayMode || !queue?.items?.length) {
+        replayStatus.replaceChildren();
+        return;
+      }
+
+      if (currentQuery) {
+        const foundIndex = queue.items.findIndex((item) => item === currentQuery);
+        if (foundIndex >= 0) {
+          queue.index = foundIndex;
+          writeReplayQueue(queue);
+        }
+      }
+
+      const index = Number(queue.index || 0);
+      const total = Number(queue.total || queue.items.length);
+      const nextItem = queue.items[index + 1];
+
+      if (!nextItem) {
+        replayStatus.replaceChildren();
+        const doneText = document.createElement('p');
+        doneText.textContent = `Replay queue complete. Processed ${total} keyword sessions.`;
+        replayStatus.appendChild(doneText);
+        const processed = Array.isArray(queue.processed) ? queue.processed : [];
+        const avgResults = processed.length
+          ? Math.round(processed.reduce((sum, item) => sum + Number(item.resultCount || 0), 0) / processed.length)
+          : 0;
+        const topQuery = processed.slice().sort((a, b) => Number(b.resultCount || 0) - Number(a.resultCount || 0))[0]?.query || '';
+        appendReplaySummary({
+          type: 'keywords',
+          total: processed.length || total,
+          avgResults,
+          topQuery,
+          createdAt: new Date().toISOString()
+        });
+        track('tool_replay_completed', { event_label: 'keywords', replay_total: Number(total) || 0 });
+        clearReplayQueue();
+        return;
+      }
+
+      replayStatus.replaceChildren();
+      const progressText = document.createElement('p');
+      progressText.textContent = `Replay progress: ${Math.min(index + 1, total)}/${total}`;
+      const actionWrap = document.createElement('div');
+      actionWrap.className = 'keywords-replay-actions';
+      const nextBtn = document.createElement('button');
+      nextBtn.type = 'button';
+      nextBtn.id = 'keywords-replay-next-btn';
+      nextBtn.className = 'export-btn';
+      nextBtn.textContent = `Run next: ${nextItem}`;
+      const autoBtn = document.createElement('button');
+      autoBtn.type = 'button';
+      autoBtn.id = 'keywords-replay-auto-btn';
+      autoBtn.className = 'export-btn';
+      autoBtn.textContent = isReplayAutoEnabled() ? 'Pause auto-run' : 'Enable auto-run';
+      actionWrap.append(nextBtn, autoBtn);
+      replayStatus.append(progressText, actionWrap);
+      nextBtn?.addEventListener('click', () => {
+        track('tool_replay_next_click', { event_label: nextItem });
+        navigateToReplayQuery(nextItem, false);
+      });
+      autoBtn?.addEventListener('click', () => {
+        const nextState = !isReplayAutoEnabled();
+        setReplayAutoEnabled(nextState);
+        track('tool_replay_auto_toggled', { event_label: nextState ? 'enabled' : 'paused' });
+        renderReplayStatus(currentQuery);
+      });
+
+      if (currentQuery && isReplayAutoEnabled()) {
+        window.setTimeout(() => {
+          track('tool_replay_auto_advance', { event_label: nextItem });
+          navigateToReplayQuery(nextItem, true);
+        }, 1200);
+      }
+    }
+
+    function renderSavedResults() {
+      if (!savedList) return;
+      const results = readSavedResults();
+      if (!results.length) {
+        savedList.replaceChildren();
+        const emptyItem = document.createElement('li');
+        emptyItem.textContent = 'No keyword sessions yet. Run your first query above.';
+        savedList.appendChild(emptyItem);
+        return;
+      }
+      savedList.replaceChildren();
+      results.forEach((entry) => {
+        const item = document.createElement('li');
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'saved-keyword-btn';
+        button.dataset.query = entry.query;
+        const title = document.createElement('strong');
+        title.textContent = entry.query;
+        const meta = document.createElement('span');
+        meta.textContent = `${entry.count} results · ${new Date(entry.analyzedAt).toLocaleDateString('en-US')}`;
+        button.append(title, meta);
+        button.addEventListener('click', () => {
+          input.value = entry.query || '';
+          mine();
+          track('tool_saved_result_reused', { event_label: entry.query || 'unknown' });
+        });
+        item.appendChild(button);
+        savedList.appendChild(item);
+      });
+    }
 
     async function mine() {
       const q = input.value.trim();
-      if (q.length < 2) return;
+      if (q.length < 2) {
+        errorMessage.textContent = 'Please enter at least 2 characters.';
+        errorMessage.classList.remove('hidden');
+        track('tool_submit_blocked', { event_label: 'short_query' });
+        return;
+      }
 
       btn.disabled = true;
+      btnText.classList.add('hidden');
+      btnLoader.classList.remove('hidden');
       resultsArea.classList.add('hidden');
+      errorMessage.classList.add('hidden');
+      track('tool_submitted', { event_label: 'keyword_mine_click', input_length: q.length });
       
       try {
         const response = await fetch(`/api/keywords/?q=${encodeURIComponent(q)}`);
@@ -88,38 +338,106 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 
         if (result.success) {
           currentKeywords = result.data.keywords;
-          document.getElementById('insight-box').innerHTML = `<p>${result.data.insight}</p>`;
+          latestQuery = q;
+          const insightBox = document.getElementById('insight-box');
+          if (insightBox) {
+            insightBox.replaceChildren();
+            const paragraph = document.createElement('p');
+            paragraph.textContent = result.data.insight || '';
+            insightBox.appendChild(paragraph);
+          }
           renderTable(currentKeywords);
           resultsArea.classList.remove('hidden');
+          saveResult(q, currentKeywords.length);
+          window.vmiGrowthContext?.setMilestone?.('keywords_first_value', true);
+          window.vmiGrowthContext?.recordRecentAction?.({
+            label: `Keyword mined: ${q}`,
+            href: '/keywords'
+          });
+          track('tool_success', { event_label: q, result_count: currentKeywords.length });
+          track('first_value_received', { event_label: 'keywords_result' });
+
+          const queue = readReplayQueue();
+          if (queue?.items?.length) {
+            const processed = Array.isArray(queue.processed) ? queue.processed : [];
+            const hasQuery = processed.some((item) => item.query === q);
+            if (!hasQuery) {
+              processed.push({
+                query: q,
+                resultCount: currentKeywords.length
+              });
+            }
+            queue.processed = processed;
+            writeReplayQueue(queue);
+          }
+
+          renderReplayStatus(q);
+          if (window.location.search.includes('replay=1')) {
+            track('tool_replay_item_success', { event_label: q });
+          }
         } else {
-          alert('Error: ' + result.error);
+          errorMessage.textContent = `Error: ${result.error}`;
+          errorMessage.classList.remove('hidden');
+          track('tool_error', { event_label: 'api_error' });
+          if (window.location.search.includes('replay=1')) {
+            track('tool_replay_item_error', { event_label: q });
+          }
         }
       } catch (err) {
-        alert('Could not fetch data.');
+        errorMessage.textContent = 'Could not fetch data.';
+        errorMessage.classList.remove('hidden');
+        track('tool_error', { event_label: 'network_error' });
+        if (window.location.search.includes('replay=1')) {
+          track('tool_replay_item_error', { event_label: q });
+        }
       } finally {
         btn.disabled = false;
+        btnText.classList.remove('hidden');
+        btnLoader.classList.add('hidden');
       }
     }
 
     function renderTable(data) {
       const list = document.getElementById('keyword-list');
-      list.innerHTML = data.map(k => `
-        <tr>
-          <td><strong>${k.keyword}</strong></td>
-          <td>${k.volume.toLocaleString()}</td>
-          <td class="${k.growth > 30 ? 'text-emerald-600' : ''}">${k.growth.toFixed(1)}%</td>
-          <td>
-            <div class="comp-bar">
-              <div class="comp-fill" style="width: ${k.competition}%"></div>
-            </div>
-          </td>
-          <td><span class="status-tag ${k.status.toLowerCase()}">${k.status}</span></td>
-        </tr>
-      `).join('');
+      list.replaceChildren();
+      data.forEach((keywordData) => {
+        const row = document.createElement('tr');
+
+        const keywordCell = document.createElement('td');
+        const keywordStrong = document.createElement('strong');
+        keywordStrong.textContent = String(keywordData.keyword || '');
+        keywordCell.appendChild(keywordStrong);
+
+        const volumeCell = document.createElement('td');
+        volumeCell.textContent = Number(keywordData.volume || 0).toLocaleString();
+
+        const growthCell = document.createElement('td');
+        if (Number(keywordData.growth) > 30) growthCell.className = 'text-emerald-600';
+        growthCell.textContent = `${Number(keywordData.growth || 0).toFixed(1)}%`;
+
+        const competitionCell = document.createElement('td');
+        const compBar = document.createElement('div');
+        compBar.className = 'comp-bar';
+        const compFill = document.createElement('div');
+        compFill.className = 'comp-fill';
+        compFill.style.width = `${Number(keywordData.competition || 0)}%`;
+        compBar.appendChild(compFill);
+        competitionCell.appendChild(compBar);
+
+        const statusCell = document.createElement('td');
+        const statusTag = document.createElement('span');
+        statusTag.className = `status-tag ${String(keywordData.status || '').toLowerCase()}`;
+        statusTag.textContent = String(keywordData.status || '');
+        statusCell.appendChild(statusTag);
+
+        row.append(keywordCell, volumeCell, growthCell, competitionCell, statusCell);
+        list.appendChild(row);
+      });
     }
 
     // Simple CSV Export
     document.getElementById('export-btn').addEventListener('click', () => {
+      if (!currentKeywords.length) return;
       const csv = 'Keyword,Volume,Growth,Competition\n' + 
         currentKeywords.map(k => `"${k.keyword}",${k.volume},${k.growth},${k.competition}`).join('\n');
       const blob = new Blob([csv], { type: 'text/csv' });
@@ -128,7 +446,58 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       a.href = url;
       a.download = 'keyword-trends.csv';
       a.click();
+      track('tool_export', { event_label: 'keywords_csv', rows: currentKeywords.length });
     });
+
+    shareButton?.addEventListener('click', async () => {
+      const shareUrl = window.vmiGrowthContext?.getShareUrl
+        ? window.vmiGrowthContext.getShareUrl('/keywords')
+        : `${window.location.origin}/keywords`;
+      const shareData = {
+        title: 'Keyword Growth Tracker',
+        text: 'Mine keyword ideas and trend signals in minutes.',
+        url: shareUrl
+      };
+      try {
+        if (navigator.share) {
+          await navigator.share(shareData);
+        } else if (navigator.clipboard) {
+          await navigator.clipboard.writeText(shareUrl);
+        }
+        track('tool_share_click', { event_label: 'keywords_tool_share' });
+      } catch (error) {
+        // ignore cancelled share actions
+      }
+    });
+
+    saveGoalButton?.addEventListener('click', () => {
+      if (!latestQuery) {
+        replayStatus.innerHTML = '<p>Run one keyword query first, then save it as a goal.</p>';
+        return;
+      }
+      const result = window.vmiGrowthContext?.addWorkspaceGoal?.({
+        text: `Create content brief from keyword cluster: ${latestQuery}`,
+        dueInDays: 3
+      });
+      track('tool_goal_saved', { event_label: latestQuery });
+      replayStatus.innerHTML = `<p>${result?.status === 'exists' ? 'Goal already exists.' : 'Goal added to workspace.'}</p>`;
+    });
+
+    function applyAutoRunFromQuery() {
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q')?.trim();
+      const autorun = ['1', 'true', 'yes'].includes((params.get('autorun') || '').toLowerCase());
+      if (!q) return;
+      input.value = q;
+      if (autorun) {
+        mine();
+        track('tool_autorun_from_workspace', { event_label: q });
+      }
+    }
+
+    renderSavedResults();
+    renderReplayStatus();
+    applyAutoRunFromQuery();
   </script>
 
   <style is:global>
@@ -141,7 +510,27 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     .input-group { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
     .keyword-input { flex: 1; padding: 1rem; border: 2px solid #f0f0f0; border-radius: 12px; font-size: 1rem; }
     .mine-btn { background: #1a1a1a; color: white; border: none; padding: 0 2rem; border-radius: 12px; font-weight: 700; cursor: pointer; }
+    .mine-btn { min-width: 180px; display: inline-flex; align-items: center; justify-content: center; }
     .mine-btn:disabled { opacity: 0.5; }
+    .btn-loader {
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(255,255,255,0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    .quick-keywords { margin-bottom: 1rem; display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; font-size: 0.875rem; color: #666; }
+    .quick-keyword-chip {
+      border: 1px solid #ddd;
+      background: #fafafa;
+      border-radius: 999px;
+      padding: 0.3rem 0.75rem;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      color: #333;
+    }
+    .quick-keyword-chip:hover { border-color: #999; background: #f4f4f4; }
 
     .filters { display: flex; align-items: center; gap: 1rem; font-size: 0.875rem; color: #666; }
     .filters input { vertical-align: middle; }
@@ -151,6 +540,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     .table-container { background: white; border: 1px solid #eee; border-radius: 16px; overflow: hidden; }
     .table-header { display: flex; justify-content: space-between; align-items: center; padding: 1.5rem; border-bottom: 1px solid #f8f8f8; }
     .table-header h2 { font-size: 1.125rem; font-weight: 800; margin: 0; }
+    .table-header__actions { display: flex; align-items: center; gap: 0.5rem; }
     .export-btn { font-size: 0.75rem; font-weight: 700; background: #f5f5f5; border: 1px solid #ddd; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
 
     .keyword-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
@@ -166,5 +556,35 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     .status-tag.declining { background: #fff1f2; color: #e11d48; }
 
     .keyword-disclaimer { margin-top: 2rem; font-size: 0.875rem; color: #666; }
+    .keyword-next-step { margin-top: 0.75rem; font-size: 0.875rem; color: #64748b; }
+    .saved-keywords {
+      margin-top: 1.25rem;
+      padding: 1rem 1.25rem;
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      background: #fff;
+    }
+    .saved-keywords h2 { margin: 0 0 0.75rem 0; border: none; font-size: 1rem; }
+    .saved-keywords__list { margin: 0; padding-left: 1rem; }
+    .saved-keywords__list li { margin-bottom: 0.5rem; }
+    .saved-keyword-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 0.5rem 0.75rem;
+      background: #f8fafc;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .saved-keyword-btn span { color: #64748b; font-size: 0.8125rem; }
+    .keywords-replay-status { margin-top: 1rem; font-size: 0.875rem; color: #334155; }
+    .keywords-replay-status p { margin: 0 0 0.5rem 0; }
+    .keywords-replay-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .error-panel { background: #fff1f2; color: #e11d48; padding: 1rem; border-radius: 12px; border: 1px solid #fda4af; text-align: center; margin-top: 1rem; }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </BaseLayout>

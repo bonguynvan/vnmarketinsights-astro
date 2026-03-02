@@ -1,0 +1,159 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  source?: string;
+}
+
+const {
+  title = 'Get the weekly market brief',
+  description = 'One concise email with important updates, sources, and practical links.',
+  source = 'generic'
+} = Astro.props;
+---
+
+<section class="lead-capture" data-source={source}>
+  <h2>{title}</h2>
+  <p>{description}</p>
+  <form class="lead-capture__form">
+    <input type="email" name="email" required placeholder="you@company.com" aria-label="Email address" />
+    <button type="submit">Get weekly brief</button>
+  </form>
+  <p class="lead-capture__status" role="status" aria-live="polite"></p>
+  <p class="lead-capture__meta">No spam. You can unsubscribe any time.</p>
+</section>
+
+<script is:inline>
+  document.querySelectorAll('.lead-capture').forEach((section) => {
+    const form = section.querySelector('.lead-capture__form');
+    const status = section.querySelector('.lead-capture__status');
+    if (!form) return;
+
+    form.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const emailInput = form.querySelector('input[name="email"]');
+      const button = form.querySelector('button[type="submit"]');
+      const email = emailInput?.value?.trim();
+      if (!email) return;
+
+      button?.setAttribute('disabled', 'disabled');
+      if (status) {
+        status.textContent = 'Submitting...';
+        status.classList.remove('is-error', 'is-success');
+      }
+
+      try {
+        let responsePayload = {};
+        if (window.vmiGrowthContext?.submitLead) {
+          responsePayload = await window.vmiGrowthContext.submitLead({
+            email,
+            source: section.dataset.source || 'unknown'
+          });
+        }
+
+        if (typeof window.vmiTrack === 'function') {
+          window.vmiTrack('lead_capture_submit', {
+            event_category: 'acquisition',
+            event_label: section.dataset.source || 'unknown',
+            email_domain: email.split('@')[1] || ''
+          });
+        }
+
+        form.reset();
+        window.vmiGrowthContext?.setMilestone?.('lead_pending_confirmation', true);
+        if (!responsePayload?.alreadySubscribed && typeof window.vmiTrack === 'function') {
+          window.vmiTrack('lead_pending_confirmation', {
+            event_category: 'acquisition',
+            event_label: section.dataset.source || 'unknown'
+          });
+        }
+        window.vmiGrowthContext?.recordRecentAction?.({
+          label: 'Requested weekly brief (pending confirmation)',
+          href: '/start'
+        });
+        if (status) {
+          status.textContent = responsePayload?.alreadySubscribed
+            ? 'You are already subscribed and confirmed.'
+            : 'Check your email to confirm subscription.';
+          status.classList.add('is-success');
+        }
+      } catch (error) {
+        if (typeof window.vmiTrack === 'function') {
+          window.vmiTrack('lead_capture_error', {
+            event_category: 'acquisition',
+            event_label: section.dataset.source || 'unknown'
+          });
+        }
+        if (status) {
+          status.textContent = 'Could not submit right now. Please try again.';
+          status.classList.add('is-error');
+        }
+      } finally {
+        button?.removeAttribute('disabled');
+      }
+    });
+  });
+</script>
+
+<style>
+  .lead-capture {
+    margin-top: var(--space-10);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: var(--color-bg-subtle);
+  }
+  .lead-capture h2 {
+    margin: 0 0 var(--space-2) 0;
+    border: none;
+  }
+  .lead-capture p {
+    margin: 0 0 var(--space-4) 0;
+    color: var(--color-text-muted);
+  }
+  .lead-capture__form {
+    display: flex;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+  .lead-capture__form input {
+    flex: 1;
+    min-width: 220px;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-3);
+    font: inherit;
+    background: white;
+  }
+  .lead-capture__form button {
+    border: none;
+    border-radius: 8px;
+    padding: var(--space-3) var(--space-4);
+    font: inherit;
+    font-weight: 600;
+    color: white;
+    background: #1a1a1a;
+    cursor: pointer;
+  }
+  .lead-capture__form button:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+  }
+  .lead-capture__status {
+    margin-top: var(--space-3);
+    margin-bottom: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .lead-capture__status.is-success {
+    color: #0f766e;
+  }
+  .lead-capture__status.is-error {
+    color: #b91c1c;
+  }
+  .lead-capture__meta {
+    margin-top: var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+</style>

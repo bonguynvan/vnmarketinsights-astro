@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
 
 const tools = [
   { href: '/snapshot', icon: '📸', title: 'Website Snapshot', description: 'Detect tech stack and SEO score for any Vietnamese domain.' },
@@ -14,15 +15,18 @@ const tools = [
   mainClass="container-wide"
 >
   <article class="tools-page">
+    <GrowthJourneyPanel title="Your tool adoption progress" />
     <header class="tools-header">
       <h1>Market Tools</h1>
       <p class="tools-lead">Analyze websites and mine keywords. All tools are free; we're adding more (including AI-assisted options) over time.</p>
+      <a href="/snapshot" class="tools-primary-cta" data-track-event="tools_primary_cta_click" data-track-category="acquisition" data-track-label="start_snapshot">Start with Website Snapshot</a>
+      <p class="tools-sublead">No signup required. Typical time-to-first-result: under 2 minutes.</p>
     </header>
 
     <section class="tools-grid-section">
       <div class="tools-grid">
         {tools.map((tool) => (
-          <a href={tool.href} class="tool-card">
+          <a href={tool.href} class="tool-card" data-track-event="tools_hub_click" data-track-category="acquisition" data-track-label={tool.href}>
             <div class="tool-icon">{tool.icon}</div>
             <h3>{tool.title}</h3>
             <p>{tool.description}</p>
@@ -31,8 +35,19 @@ const tools = [
       </div>
     </section>
 
+    <section class="tools-cross-links">
+      <h2>Need market context before using tools?</h2>
+      <p>Use reference pages first, then come back with better hypotheses.</p>
+      <div class="tools-cross-links__actions">
+        <a href="/topics" data-track-event="tools_crosslink_click" data-track-label="topics">Explore topics</a>
+        <a href="/insights" data-track-event="tools_crosslink_click" data-track-label="insights">Read insights</a>
+        <a href="/start" data-track-event="tools_crosslink_click" data-track-label="starter_flows">Open starter flows</a>
+        <a href="/workspace" data-track-event="tools_crosslink_click" data-track-label="workspace">Open workspace</a>
+      </div>
+    </section>
+
     <p class="tools-footer-note">
-      <a href="/">Home</a> · <a href="/topics">Topics</a>
+      <a href="/" data-track-event="tools_footer_click" data-track-label="home">Home</a> · <a href="/topics" data-track-event="tools_footer_click" data-track-label="topics">Topics</a>
     </p>
   </article>
 </BaseLayout>
@@ -42,6 +57,18 @@ const tools = [
   .tools-header { margin-bottom: var(--space-10); }
   .tools-header h1 { margin-bottom: var(--space-3); border: none; }
   .tools-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .tools-primary-cta {
+    display: inline-flex;
+    margin-top: var(--space-4);
+    padding: var(--space-3) var(--space-5);
+    border-radius: 999px;
+    background: #1a1a1a;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .tools-primary-cta:hover { color: white; text-decoration: none; background: #000; }
+  .tools-sublead { margin-top: var(--space-3); color: var(--color-text-light); font-size: var(--text-sm); }
   .tools-grid-section { margin: var(--space-8) 0; }
   .tools-grid {
     display: grid;
@@ -86,5 +113,9 @@ const tools = [
     color: var(--color-text-muted);
     line-height: 1.5;
   }
+  .tools-cross-links { margin-top: var(--space-10); padding: var(--space-6); border-radius: 12px; background: var(--color-bg-subtle); }
+  .tools-cross-links h2 { margin-top: 0; border: none; }
+  .tools-cross-links p { color: var(--color-text-muted); margin-bottom: var(--space-4); }
+  .tools-cross-links__actions { display: flex; flex-wrap: wrap; gap: var(--space-4); font-weight: 500; }
   .tools-footer-note { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
 </style>

@@ -1,0 +1,244 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
+import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
+
+const flows = [
+  {
+    key: 'market_entry_snapshot',
+    title: 'Market Entry Snapshot',
+    duration: '2-3 min',
+    steps: [
+      { label: 'Read one market topic', href: '/topics' },
+      { label: 'Run Website Snapshot on a competitor', href: '/snapshot' },
+      { label: 'Save keywords to expand research', href: '/keywords' }
+    ]
+  },
+  {
+    key: 'content_opportunity_discovery',
+    title: 'Content Opportunity Discovery',
+    duration: '2 min',
+    steps: [
+      { label: 'Open Keyword Miner', href: '/keywords' },
+      { label: 'Filter for high-growth terms', href: '/keywords' },
+      { label: 'Validate context from Insights', href: '/insights' }
+    ]
+  },
+  {
+    key: 'competitor_intelligence_loop',
+    title: 'Competitor Intelligence Loop',
+    duration: '3 min',
+    steps: [
+      { label: 'Analyze competitor website', href: '/snapshot' },
+      { label: 'Check related market topic', href: '/topics' },
+      { label: 'Track updates via weekly brief', href: '/about' }
+    ]
+  }
+];
+---
+
+<BaseLayout
+  title="Starter Flows"
+  description="Guided 2-minute flows to get first value quickly from Vietnam Market Insights tools and references."
+  canonicalURL="https://vnmarketinsights.com/start/"
+  mainClass="container-wide"
+>
+  <article class="start-page">
+    <GrowthJourneyPanel title="Progress across starter flows" />
+    <header class="start-header">
+      <h1>Starter Flows</h1>
+      <p>Pick one workflow and get your first practical output in under 3 minutes.</p>
+    </header>
+
+    <section class="flow-grid">
+      {flows.map((flow) => (
+        <div class="flow-card">
+          <h2>{flow.title}</h2>
+          <p class="flow-duration">Estimated time: {flow.duration}</p>
+          <ol>
+            {flow.steps.map((step) => (
+              <li>
+                <a href={step.href} data-track-event="starter_flow_step_click" data-track-category="acquisition" data-track-label={`${flow.title}:${step.label}`} data-flow-key={flow.key} data-flow-title={flow.title}>
+                  {step.label}
+                </a>
+              </li>
+            ))}
+          </ol>
+        </div>
+      ))}
+    </section>
+
+    <section class="flow-leaderboard">
+      <h2>Most used flows on this device</h2>
+      <p>Use this quick leaderboard to continue where you usually get value fastest.</p>
+      <ul id="flow-leaderboard-list" class="flow-leaderboard__list"></ul>
+      <button type="button" id="flow-share-btn" class="flow-share-btn">Share starter flows and invite a teammate</button>
+    </section>
+
+    <LeadCapture
+      source="starter_flows"
+      title="Want these flows in your inbox?"
+      description="Get one weekly email with updated starter flows and fresh market datasets."
+    />
+  </article>
+</BaseLayout>
+
+<script is:inline>
+  const flowStorageKey = 'vmi_flow_click_counts';
+  const flowLinks = document.querySelectorAll('[data-flow-key]');
+  const leaderboardList = document.getElementById('flow-leaderboard-list');
+  const shareBtn = document.getElementById('flow-share-btn');
+
+  function readFlowCounts() {
+    try {
+      return JSON.parse(localStorage.getItem(flowStorageKey) || '{}');
+    } catch {
+      return {};
+    }
+  }
+
+  function writeFlowCounts(counts) {
+    localStorage.setItem(flowStorageKey, JSON.stringify(counts));
+  }
+
+  function renderLeaderboard() {
+    if (!leaderboardList) return;
+    const counts = readFlowCounts();
+    const entries = Object.entries(counts).sort((a, b) => Number(b[1]) - Number(a[1])).slice(0, 3);
+    if (!entries.length) {
+      leaderboardList.innerHTML = '<li>No flow activity yet. Start with any workflow above.</li>';
+      return;
+    }
+
+    const titles = {};
+    flowLinks.forEach((link) => {
+      titles[link.dataset.flowKey] = link.dataset.flowTitle || link.dataset.flowKey;
+    });
+
+    leaderboardList.innerHTML = entries.map(([key, value]) => {
+      const safeTitle = titles[key] || key;
+      return `<li><strong>${safeTitle}</strong> <span>${value} starts</span></li>`;
+    }).join('');
+  }
+
+  flowLinks.forEach((link) => {
+    link.addEventListener('click', () => {
+      const key = link.dataset.flowKey;
+      if (!key) return;
+      const counts = readFlowCounts();
+      counts[key] = (counts[key] || 0) + 1;
+      writeFlowCounts(counts);
+      window.vmiGrowthContext?.setMilestone?.('starter_flow_used', true);
+      window.vmiGrowthContext?.recordRecentAction?.({
+        label: `Starter flow: ${link.dataset.flowTitle || key}`,
+        href: '/start'
+      });
+      renderLeaderboard();
+    });
+  });
+
+  shareBtn?.addEventListener('click', async () => {
+    const shareUrl = window.vmiGrowthContext?.getShareUrl
+      ? window.vmiGrowthContext.getShareUrl('/start')
+      : `${window.location.origin}/start`;
+    const shareData = {
+      title: 'Starter Flows - Vietnam Market Insights',
+      text: 'Try these 2-minute starter flows for market research and growth.',
+      url: shareUrl
+    };
+    try {
+      if (navigator.share) {
+        await navigator.share(shareData);
+      } else if (navigator.clipboard) {
+        await navigator.clipboard.writeText(shareUrl);
+      }
+      if (typeof window.vmiTrack === 'function') {
+        window.vmiTrack('starter_flow_share_click', {
+          event_category: 'acquisition',
+          event_label: 'starter_flow_share'
+        });
+      }
+    } catch {
+      // ignore cancelled share actions
+    }
+  });
+
+  renderLeaderboard();
+</script>
+
+<style>
+  .start-header {
+    margin-bottom: var(--space-8);
+  }
+  .start-header h1 {
+    margin-bottom: var(--space-3);
+    border: none;
+  }
+  .start-header p {
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+  }
+  .flow-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: var(--space-5);
+  }
+  .flow-card {
+    border: 1px solid var(--color-border-light);
+    border-radius: 12px;
+    padding: var(--space-5);
+    background: white;
+  }
+  .flow-card h2 {
+    margin: 0 0 var(--space-2) 0;
+    border: none;
+    font-size: var(--text-lg);
+  }
+  .flow-duration {
+    margin: 0 0 var(--space-3) 0;
+    color: var(--color-text-light);
+    font-size: var(--text-sm);
+  }
+  .flow-card ol {
+    margin: 0;
+    padding-left: var(--space-5);
+  }
+  .flow-card li {
+    margin-bottom: var(--space-2);
+  }
+  .flow-leaderboard {
+    margin-top: var(--space-8);
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: var(--color-bg-subtle);
+  }
+  .flow-leaderboard h2 {
+    margin-top: 0;
+    border: none;
+  }
+  .flow-leaderboard p {
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-3);
+  }
+  .flow-leaderboard__list {
+    margin: 0 0 var(--space-4) 0;
+    padding-left: var(--space-5);
+  }
+  .flow-leaderboard__list li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--space-2);
+    color: var(--color-text);
+  }
+  .flow-share-btn {
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    background: white;
+    color: var(--color-text);
+    padding: var(--space-3) var(--space-4);
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+  }
+</style>

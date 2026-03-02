@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
 import { getCollection } from 'astro:content';
 
 const articles = (await getCollection('articles')).sort((a, b) => {
@@ -25,7 +26,7 @@ const articles = (await getCollection('articles')).sort((a, b) => {
       <ul class="article-list">
         {articles.map((entry) => (
           <li class="article-item">
-            <a href={`/insights/${entry.slug}`} class="article-link">
+            <a href={`/insights/${entry.slug}`} class="article-link" data-track-event="insight_click" data-track-category="acquisition" data-track-label={entry.slug}>
               <span class="article-title">{entry.data.title}</span>
               {entry.data.description && <span class="article-desc">{entry.data.description}</span>}
               {entry.data.publishedDate && (
@@ -42,6 +43,11 @@ const articles = (await getCollection('articles')).sort((a, b) => {
     <p class="insights-footer">
       <a href="/topics">Topics</a> · <a href="/">Home</a>
     </p>
+    <LeadCapture
+      source="insights_hub"
+      title="Get new insights each week"
+      description="Get one practical market brief with links to new articles and datasets."
+    />
   </article>
 </BaseLayout>
 

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -34,6 +35,11 @@ const description = entry.data.description ?? 'Vietnam market insights article';
     <footer class="article-footer">
       <a href="/insights">← All articles</a> · <a href="/topics">Topics</a>
     </footer>
+    <LeadCapture
+      source={`insight_${entry.slug}`}
+      title="Get the next insight in your inbox"
+      description="One short weekly brief with new articles, tools, and practical market updates."
+    />
   </article>
 </BaseLayout>
 

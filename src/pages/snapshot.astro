@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
 ---
 
 <BaseLayout
@@ -28,6 +29,12 @@ import BaseLayout from '@layouts/BaseLayout.astro';
         </button>
       </div>
       <p class="input-note">We only analyze public HTML. No private data is accessed.</p>
+      <div class="example-domains">
+        <span>Try an example:</span>
+        <button type="button" class="example-chip" data-domain="shopee.vn">shopee.vn</button>
+        <button type="button" class="example-chip" data-domain="tiki.vn">tiki.vn</button>
+        <button type="button" class="example-chip" data-domain="thegioididong.com">thegioididong.com</button>
+      </div>
     </div>
 
     <div id="results-container" class="results-container hidden">
@@ -72,9 +79,28 @@ import BaseLayout from '@layouts/BaseLayout.astro';
           <pre id="meta-raw" class="raw-code"></pre>
         </details>
       </div>
+
+      <div class="result-next-step">
+        <p>Want to turn this into content opportunities?</p>
+        <a href="/keywords" data-track-event="snapshot_next_step_click" data-track-category="acquisition" data-track-label="to_keywords">Go to Keyword Miner</a>
+        <button type="button" id="snapshot-share-btn" class="share-result-btn">Share this tool</button>
+        <button type="button" id="snapshot-save-goal-btn" class="share-result-btn">Save as goal</button>
+      </div>
+      <div id="snapshot-replay-status" class="replay-status"></div>
     </div>
 
     <div id="error-message" class="error-panel hidden"></div>
+    <section class="saved-results">
+      <div class="saved-results__header">
+        <h2>Recent analyses on this device</h2>
+      </div>
+      <ul id="snapshot-saved-list" class="saved-results__list"></ul>
+    </section>
+    <LeadCapture
+      source="snapshot_page"
+      title="Get weekly website intelligence tips"
+      description="Receive concise updates and market examples built from Snapshot use cases."
+    />
   </div>
 
   <script is:inline>
@@ -84,13 +110,257 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     const btnLoader = btn.querySelector('.btn-loader');
     const resultsContainer = document.getElementById('results-container');
     const errorMessage = document.getElementById('error-message');
+    const exampleButtons = document.querySelectorAll('.example-chip');
+    const shareButton = document.getElementById('snapshot-share-btn');
+    const saveGoalButton = document.getElementById('snapshot-save-goal-btn');
+    const replayStatus = document.getElementById('snapshot-replay-status');
+    const savedList = document.getElementById('snapshot-saved-list');
+    const savedStorageKey = 'vmi_snapshot_saved_results';
+    const replayQueueKey = 'vmi_replay_snapshot_queue';
+    const replayAutoKey = 'vmi_replay_auto_snapshot';
+    const replaySummariesKey = 'vmi_replay_batch_summaries';
+    let replayNavigateLocked = false;
+    let latestAnalyzedDomain = '';
+    let started = false;
+
+    const track = (eventName, params = {}) => {
+      if (typeof window.vmiTrack === 'function') {
+        window.vmiTrack(eventName, { event_category: 'tools', tool: 'snapshot', ...params });
+      }
+    };
 
     btn.addEventListener('click', analyze);
     input.addEventListener('keypress', (e) => { if (e.key === 'Enter') analyze(); });
+    input.addEventListener('focus', () => {
+      if (started) return;
+      started = true;
+      track('tool_form_started', { event_label: 'snapshot_domain_input' });
+    });
+    exampleButtons.forEach((chip) => {
+      chip.addEventListener('click', () => {
+        input.value = chip.dataset.domain || '';
+        input.focus();
+        track('tool_example_selected', { event_label: chip.dataset.domain || 'unknown' });
+      });
+    });
+
+    shareButton?.addEventListener('click', async () => {
+      const shareUrl = window.vmiGrowthContext?.getShareUrl
+        ? window.vmiGrowthContext.getShareUrl('/snapshot')
+        : `${window.location.origin}/snapshot`;
+      const shareData = {
+        title: 'Vietnam Website Snapshot',
+        text: 'Analyze website tech stack and SEO in under 2 minutes.',
+        url: shareUrl
+      };
+      try {
+        if (navigator.share) {
+          await navigator.share(shareData);
+        } else if (navigator.clipboard) {
+          await navigator.clipboard.writeText(shareUrl);
+        }
+        track('tool_share_click', { event_label: 'snapshot_tool_share' });
+      } catch (error) {
+        // ignore cancelled share actions
+      }
+    });
+
+    function readSavedResults() {
+      try {
+        const raw = localStorage.getItem(savedStorageKey);
+        const parsed = raw ? JSON.parse(raw) : [];
+        return Array.isArray(parsed) ? parsed : [];
+      } catch {
+        return [];
+      }
+    }
+
+    function writeSavedResults(results) {
+      localStorage.setItem(savedStorageKey, JSON.stringify(results.slice(0, 8)));
+    }
+
+    function saveResult(data) {
+      const item = {
+        domain: data.domain,
+        seoScore: Number(data.seo.score) || 0,
+        analyzedAt: new Date().toISOString()
+      };
+      const existing = readSavedResults().filter((entry) => entry.domain !== item.domain);
+      writeSavedResults([item, ...existing]);
+      renderSavedResults();
+    }
+
+    function readReplayQueue() {
+      try {
+        const raw = localStorage.getItem(replayQueueKey);
+        const parsed = raw ? JSON.parse(raw) : null;
+        if (!parsed || !Array.isArray(parsed.items)) return null;
+        return parsed;
+      } catch {
+        return null;
+      }
+    }
+
+    function writeReplayQueue(queue) {
+      localStorage.setItem(replayQueueKey, JSON.stringify(queue));
+    }
+
+    function clearReplayQueue() {
+      localStorage.removeItem(replayQueueKey);
+    }
+
+    function appendReplaySummary(summary) {
+      try {
+        const raw = localStorage.getItem(replaySummariesKey);
+        const existing = raw ? JSON.parse(raw) : [];
+        const normalized = Array.isArray(existing) ? existing : [];
+        localStorage.setItem(replaySummariesKey, JSON.stringify([summary, ...normalized].slice(0, 12)));
+      } catch {
+        // ignore persistence errors
+      }
+    }
+
+    function isReplayAutoEnabled() {
+      const stored = localStorage.getItem(replayAutoKey);
+      if (!stored) return true;
+      return stored === '1';
+    }
+
+    function setReplayAutoEnabled(enabled) {
+      localStorage.setItem(replayAutoKey, enabled ? '1' : '0');
+    }
+
+    function navigateToReplayDomain(domain, auto = true) {
+      if (!domain || replayNavigateLocked) return;
+      replayNavigateLocked = true;
+      window.location.href = `/snapshot?domain=${encodeURIComponent(domain)}&autorun=1&replay=1${auto ? '&auto=1' : ''}`;
+    }
+
+    function renderReplayStatus(currentDomain = '') {
+      if (!replayStatus) return;
+      const params = new URLSearchParams(window.location.search);
+      const replayMode = ['1', 'true', 'yes'].includes((params.get('replay') || '').toLowerCase());
+      const queue = readReplayQueue();
+      if (!replayMode || !queue?.items?.length) {
+        replayStatus.replaceChildren();
+        return;
+      }
+
+      if (currentDomain) {
+        const foundIndex = queue.items.findIndex((item) => item === currentDomain);
+        if (foundIndex >= 0) {
+          queue.index = foundIndex;
+          writeReplayQueue(queue);
+        }
+      }
+
+      const index = Number(queue.index || 0);
+      const total = Number(queue.total || queue.items.length);
+      const nextItem = queue.items[index + 1];
+
+      if (!nextItem) {
+        replayStatus.replaceChildren();
+        const doneText = document.createElement('p');
+        doneText.textContent = `Replay queue complete. Processed ${total} domains.`;
+        replayStatus.appendChild(doneText);
+        const processed = Array.isArray(queue.processed) ? queue.processed : [];
+        const avgScore = processed.length
+          ? Math.round(processed.reduce((sum, item) => sum + Number(item.seoScore || 0), 0) / processed.length)
+          : 0;
+        const topDomain = processed.slice().sort((a, b) => Number(b.seoScore || 0) - Number(a.seoScore || 0))[0]?.domain || '';
+        appendReplaySummary({
+          type: 'snapshot',
+          total: processed.length || total,
+          avgScore,
+          topDomain,
+          createdAt: new Date().toISOString()
+        });
+        track('tool_replay_completed', { event_label: 'snapshot', replay_total: Number(total) || 0 });
+        clearReplayQueue();
+        return;
+      }
+
+      replayStatus.replaceChildren();
+      const progressText = document.createElement('p');
+      progressText.textContent = `Replay progress: ${Math.min(index + 1, total)}/${total}`;
+      const actionWrap = document.createElement('div');
+      actionWrap.className = 'replay-actions';
+      const nextBtn = document.createElement('button');
+      nextBtn.type = 'button';
+      nextBtn.id = 'snapshot-replay-next-btn';
+      nextBtn.className = 'share-result-btn';
+      nextBtn.textContent = `Run next: ${nextItem}`;
+      const autoBtn = document.createElement('button');
+      autoBtn.type = 'button';
+      autoBtn.id = 'snapshot-replay-auto-btn';
+      autoBtn.className = 'share-result-btn';
+      autoBtn.textContent = isReplayAutoEnabled() ? 'Pause auto-run' : 'Enable auto-run';
+      actionWrap.append(nextBtn, autoBtn);
+      replayStatus.append(progressText, actionWrap);
+      nextBtn?.addEventListener('click', () => {
+        track('tool_replay_next_click', { event_label: nextItem });
+        navigateToReplayDomain(nextItem, false);
+      });
+      autoBtn?.addEventListener('click', () => {
+        const nextState = !isReplayAutoEnabled();
+        setReplayAutoEnabled(nextState);
+        track('tool_replay_auto_toggled', { event_label: nextState ? 'enabled' : 'paused' });
+        renderReplayStatus(currentDomain);
+      });
+
+      if (currentDomain && isReplayAutoEnabled()) {
+        window.setTimeout(() => {
+          track('tool_replay_auto_advance', { event_label: nextItem });
+          navigateToReplayDomain(nextItem, true);
+        }, 1200);
+      }
+    }
+
+    function renderSavedResults() {
+      if (!savedList) return;
+      const results = readSavedResults();
+      if (!results.length) {
+        savedList.replaceChildren();
+        const emptyItem = document.createElement('li');
+        emptyItem.textContent = 'No analyses yet. Run your first domain above.';
+        savedList.appendChild(emptyItem);
+        return;
+      }
+      savedList.replaceChildren();
+      results.forEach((entry) => {
+        const item = document.createElement('li');
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'saved-result-btn';
+        button.dataset.domain = entry.domain;
+        const title = document.createElement('strong');
+        title.textContent = entry.domain;
+        const meta = document.createElement('span');
+        meta.textContent = `SEO ${entry.seoScore} · ${new Date(entry.analyzedAt).toLocaleDateString('en-US')}`;
+        button.append(title, meta);
+        button.addEventListener('click', () => {
+          input.value = entry.domain || '';
+          analyze();
+          track('tool_saved_result_reused', { event_label: entry.domain || 'unknown' });
+        });
+        item.appendChild(button);
+        savedList.appendChild(item);
+      });
+    }
 
     async function analyze() {
-      const url = input.value.trim();
-      if (!url) return;
+      const rawInput = input.value.trim();
+      const url = rawInput.replace(/^https?:\/\//, '').replace(/\/$/, '');
+      if (!url) {
+        showError('Please enter a domain to analyze.');
+        track('tool_submit_blocked', { event_label: 'empty_domain' });
+        return;
+      }
+      if (!/^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(url)) {
+        showError('Please enter a valid domain, e.g. shopee.vn');
+        track('tool_submit_blocked', { event_label: 'invalid_domain' });
+        return;
+      }
 
       // Reset UI
       resultsContainer.classList.add('hidden');
@@ -98,6 +368,8 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       btn.disabled = true;
       btnText.classList.add('hidden');
       btnLoader.classList.remove('hidden');
+      btnText.textContent = 'Analyzing...';
+      track('tool_submitted', { event_label: 'snapshot_analyze_click', input_length: url.length });
 
       try {
         const response = await fetch(`/api/analyze/?url=${encodeURIComponent(url)}`);
@@ -106,13 +378,54 @@ import BaseLayout from '@layouts/BaseLayout.astro';
         if (result.success) {
           renderResults(result.data);
           resultsContainer.classList.remove('hidden');
+          latestAnalyzedDomain = result.data.domain;
+          saveResult(result.data);
+          window.vmiGrowthContext?.setMilestone?.('snapshot_first_value', true);
+          window.vmiGrowthContext?.recordRecentAction?.({
+            label: `Snapshot analyzed: ${result.data.domain}`,
+            href: '/snapshot'
+          });
+          track('tool_success', {
+            event_label: result.data.domain,
+            seo_score: Number(result.data.seo.score) || 0,
+            tech_count: result.data.techStack.length
+          });
+          track('first_value_received', { event_label: 'snapshot_result' });
+
+          const queue = readReplayQueue();
+          if (queue?.items?.length) {
+            const processed = Array.isArray(queue.processed) ? queue.processed : [];
+            const hasDomain = processed.some((item) => item.domain === result.data.domain);
+            if (!hasDomain) {
+              processed.push({
+                domain: result.data.domain,
+                seoScore: Number(result.data.seo.score) || 0
+              });
+            }
+            queue.processed = processed;
+            writeReplayQueue(queue);
+          }
+
+          renderReplayStatus(result.data.domain);
+          if (window.location.search.includes('replay=1')) {
+            track('tool_replay_item_success', { event_label: result.data.domain });
+          }
         } else {
           showError(result.error);
+          track('tool_error', { event_label: 'api_error' });
+          if (window.location.search.includes('replay=1')) {
+            track('tool_replay_item_error', { event_label: url });
+          }
         }
       } catch (err) {
         showError('Could not connect to analysis engine. Please try again.');
+        track('tool_error', { event_label: 'network_error' });
+        if (window.location.search.includes('replay=1')) {
+          track('tool_replay_item_error', { event_label: url });
+        }
       } finally {
         btn.disabled = false;
+        btnText.textContent = 'Analyze Website';
         btnText.classList.remove('hidden');
         btnLoader.classList.add('hidden');
       }
@@ -121,33 +434,71 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     function renderResults(data) {
       // Tech Stack
       const techList = document.getElementById('tech-list');
-      techList.innerHTML = data.techStack.length > 0 
-        ? data.techStack.map(t => `
-            <div class="tech-item">
-              <span class="tech-name">${t.name}</span>
-              <span class="tech-cat">${t.category}</span>
-            </div>
-          `).join('')
-        : '<p class="text-muted">No specific tech signatures detected.</p>';
+      techList.replaceChildren();
+      if (data.techStack.length > 0) {
+        data.techStack.forEach((tech) => {
+          const row = document.createElement('div');
+          row.className = 'tech-item';
+          const name = document.createElement('span');
+          name.className = 'tech-name';
+          name.textContent = String(tech.name || '');
+          const category = document.createElement('span');
+          category.className = 'tech-cat';
+          category.textContent = String(tech.category || '');
+          row.append(name, category);
+          techList.appendChild(row);
+        });
+      } else {
+        const empty = document.createElement('p');
+        empty.className = 'text-muted';
+        empty.textContent = 'No specific tech signatures detected.';
+        techList.appendChild(empty);
+      }
 
       // SEO
       document.getElementById('seo-score-val').textContent = data.seo.score;
       const seoDetails = document.getElementById('seo-details');
-      seoDetails.innerHTML = `
-        <div class="seo-stat"><strong>Title:</strong> ${data.seo.title || 'N/A'}</div>
-        <div class="seo-issues">
-          ${data.seo.issues.map(issue => `<div class="issue-pill">× ${issue}</div>`).join('')}
-          ${data.seo.issues.length === 0 ? '<div class="success-pill">✓ No major issues found</div>' : ''}
-        </div>
-      `;
+      seoDetails.replaceChildren();
+      const seoStat = document.createElement('div');
+      seoStat.className = 'seo-stat';
+      const seoStrong = document.createElement('strong');
+      seoStrong.textContent = 'Title:';
+      seoStat.append(seoStrong, document.createTextNode(` ${data.seo.title || 'N/A'}`));
+      const issueWrap = document.createElement('div');
+      issueWrap.className = 'seo-issues';
+      if (Array.isArray(data.seo.issues) && data.seo.issues.length) {
+        data.seo.issues.forEach((issue) => {
+          const pill = document.createElement('div');
+          pill.className = 'issue-pill';
+          pill.textContent = `× ${issue}`;
+          issueWrap.appendChild(pill);
+        });
+      } else {
+        const success = document.createElement('div');
+        success.className = 'success-pill';
+        success.textContent = '✓ No major issues found';
+        issueWrap.appendChild(success);
+      }
+      seoDetails.append(seoStat, issueWrap);
 
       // Metrics
       const metricsList = document.getElementById('metrics-list');
-      metricsList.innerHTML = `
-        <div class="metric-row"><span>Estimated Traffic:</span> <strong>${data.metrics.trafficTier}</strong></div>
-        <div class="metric-row"><span>Page Size:</span> <strong>${data.metrics.pageSize}</strong></div>
-        <div class="metric-row"><span>Mobile Friendly:</span> <strong>${data.metrics.isMobileFriendly ? 'Yes ✓' : 'No ×'}</strong></div>
-      `;
+      metricsList.replaceChildren();
+      const metricRows = [
+        ['Estimated Traffic:', data.metrics.trafficTier],
+        ['Page Size:', data.metrics.pageSize],
+        ['Mobile Friendly:', data.metrics.isMobileFriendly ? 'Yes ✓' : 'No ×']
+      ];
+      metricRows.forEach(([label, value]) => {
+        const row = document.createElement('div');
+        row.className = 'metric-row';
+        const left = document.createElement('span');
+        left.textContent = String(label);
+        const right = document.createElement('strong');
+        right.textContent = String(value);
+        row.append(left, right);
+        metricsList.appendChild(row);
+      });
 
       // Raw
       document.getElementById('meta-raw').textContent = `Title: ${data.seo.title}\nDescription: ${data.seo.description}\nHeadings: ${data.seo.h1Count} (H1)`;
@@ -157,6 +508,37 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       errorMessage.textContent = msg;
       errorMessage.classList.remove('hidden');
     }
+
+    function applyAutoRunFromQuery() {
+      const params = new URLSearchParams(window.location.search);
+      const domain = params.get('domain')?.trim();
+      const autorun = ['1', 'true', 'yes'].includes((params.get('autorun') || '').toLowerCase());
+      if (!domain) return;
+      input.value = domain;
+      if (autorun) {
+        analyze();
+        track('tool_autorun_from_workspace', { event_label: domain });
+      }
+    }
+
+    saveGoalButton?.addEventListener('click', () => {
+      if (!latestAnalyzedDomain) {
+        if (replayStatus) replayStatus.innerHTML = '<p>Run one analysis first, then save it as a goal.</p>';
+        return;
+      }
+      const result = window.vmiGrowthContext?.addWorkspaceGoal?.({
+        text: `Review SEO improvement opportunities for ${latestAnalyzedDomain}`,
+        dueInDays: 3
+      });
+      track('tool_goal_saved', { event_label: latestAnalyzedDomain });
+      if (replayStatus) {
+        replayStatus.innerHTML = `<p>${result?.status === 'exists' ? 'Goal already exists.' : 'Goal added to workspace.'}</p>`;
+      }
+    });
+
+    renderSavedResults();
+    renderReplayStatus();
+    applyAutoRunFromQuery();
   </script>
 
   <style is:global>
@@ -206,6 +588,17 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     }
     .analyze-btn:hover { background: #0052cc; }
     .analyze-btn:disabled { background: #ccc; cursor: not-allowed; }
+    .example-domains { display: flex; align-items: center; flex-wrap: wrap; gap: 0.5rem; font-size: 0.875rem; color: #666; }
+    .example-chip {
+      border: 1px solid #ddd;
+      background: #fafafa;
+      border-radius: 999px;
+      padding: 0.3rem 0.75rem;
+      font-size: 0.8125rem;
+      cursor: pointer;
+      color: #333;
+    }
+    .example-chip:hover { border-color: #999; background: #f4f4f4; }
 
     .btn-loader {
       width: 20px;
@@ -239,6 +632,40 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 
     .metric-row { display: flex; justify-content: space-between; margin-bottom: 1rem; font-size: 0.9rem; }
     .error-panel { background: #fff1f2; color: #e11d48; padding: 1rem; border-radius: 12px; border: 1px solid #fda4af; text-align: center; }
+    .saved-results { margin-top: 2rem; padding: 1.25rem; border: 1px solid #e2e8f0; border-radius: 12px; background: #fff; }
+    .saved-results__header h2 { margin: 0 0 0.75rem 0; border: none; font-size: 1rem; }
+    .saved-results__list { margin: 0; padding-left: 1rem; }
+    .saved-results__list li { margin-bottom: 0.5rem; }
+    .saved-result-btn {
+      width: 100%;
+      text-align: left;
+      border: 1px solid #e5e7eb;
+      border-radius: 8px;
+      padding: 0.5rem 0.75rem;
+      background: #f8fafc;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5rem;
+      align-items: center;
+    }
+    .saved-result-btn span { color: #64748b; font-size: 0.8125rem; }
+    .result-next-step { margin-top: 1.5rem; padding: 1rem 1.25rem; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; }
+    .result-next-step p { margin: 0 0 0.4rem 0; color: #334155; font-size: 0.9rem; }
+    .result-next-step a { font-weight: 600; margin-right: 0.75rem; }
+    .replay-status { margin-top: 0.75rem; font-size: 0.875rem; color: #334155; }
+    .replay-status p { margin-bottom: 0.5rem; }
+    .replay-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .share-result-btn {
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: white;
+      color: #0f172a;
+      padding: 0.4rem 0.7rem;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
 
     @keyframes spin { to { transform: rotate(360deg); } }
   </style>

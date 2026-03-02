@@ -1,0 +1,256 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Leads Admin"
+  description="Internal leads dashboard"
+  canonicalURL="https://vnmarketinsights.com/admin/leads/"
+  mainClass="container-wide"
+  noindex={true}
+>
+  <article class="admin-page">
+    <header class="admin-header">
+      <h1>Leads Admin</h1>
+      <p>Internal page to inspect recent leads and confirmation status.</p>
+    </header>
+
+    <section class="admin-auth">
+      <label for="admin-key">Admin key</label>
+      <div class="admin-auth__actions">
+        <input id="admin-key" type="password" placeholder="Enter ADMIN_LEADS_KEY" />
+        <button id="load-leads-btn" type="button">Load leads</button>
+      </div>
+    </section>
+
+    <section class="admin-summary" id="admin-summary"></section>
+    <section id="admin-status" class="admin-status" aria-live="polite"></section>
+
+    <section class="admin-table-wrap">
+      <table class="admin-table">
+        <thead>
+          <tr>
+            <th>Email</th>
+            <th>Status</th>
+            <th>Source</th>
+            <th>Referrer</th>
+            <th>Created</th>
+          </tr>
+        </thead>
+        <tbody id="leads-table-body"></tbody>
+      </table>
+    </section>
+  </article>
+</BaseLayout>
+
+<script is:inline>
+  const keyInput = document.getElementById('admin-key');
+  const loadBtn = document.getElementById('load-leads-btn');
+  const summaryEl = document.getElementById('admin-summary');
+  const statusEl = document.getElementById('admin-status');
+  const tableBody = document.getElementById('leads-table-body');
+
+  function setStatus(text, mode = 'info') {
+    if (!statusEl) return;
+    statusEl.textContent = text;
+    statusEl.className = `admin-status ${mode}`;
+  }
+
+  function renderSummary(summary) {
+    if (!summaryEl) return;
+    summaryEl.replaceChildren();
+    const items = [
+      { label: 'Total', value: summary.total },
+      { label: 'Pending', value: summary.pending },
+      { label: 'Confirmed', value: summary.confirmed }
+    ];
+    items.forEach((item) => {
+      const card = document.createElement('div');
+      card.className = 'summary-card';
+      const label = document.createElement('span');
+      label.textContent = item.label;
+      const value = document.createElement('strong');
+      value.textContent = String(item.value ?? 0);
+      card.append(label, value);
+      summaryEl.appendChild(card);
+    });
+  }
+
+  function renderTable(leads) {
+    if (!tableBody) return;
+    tableBody.replaceChildren();
+    if (!Array.isArray(leads) || !leads.length) {
+      const row = document.createElement('tr');
+      const cell = document.createElement('td');
+      cell.colSpan = 5;
+      cell.textContent = 'No leads found.';
+      row.appendChild(cell);
+      tableBody.appendChild(row);
+      return;
+    }
+    leads.forEach((lead) => {
+      const row = document.createElement('tr');
+      const emailCell = document.createElement('td');
+      emailCell.textContent = lead.email || '-';
+
+      const statusCell = document.createElement('td');
+      const statusPill = document.createElement('span');
+      statusPill.className = `status-pill ${lead.status}`;
+      statusPill.textContent = lead.status || '-';
+      statusCell.appendChild(statusPill);
+
+      const sourceCell = document.createElement('td');
+      sourceCell.textContent = lead.source || '-';
+
+      const referrerCell = document.createElement('td');
+      referrerCell.textContent = lead.referrerCode || '-';
+
+      const createdCell = document.createElement('td');
+      createdCell.textContent = lead.createdAt
+        ? new Date(lead.createdAt).toLocaleString('en-US')
+        : '-';
+
+      row.append(emailCell, statusCell, sourceCell, referrerCell, createdCell);
+      tableBody.appendChild(row);
+    });
+  }
+
+  async function loadLeads() {
+    const key = keyInput?.value?.trim();
+    if (!key) {
+      setStatus('Please enter admin key.', 'error');
+      return;
+    }
+
+    loadBtn?.setAttribute('disabled', 'disabled');
+    setStatus('Loading leads...', 'info');
+
+    try {
+      const response = await fetch('/api/leads/admin?limit=200', {
+        headers: { 'x-admin-key': key }
+      });
+      const data = await response.json();
+      if (!response.ok || !data.success) {
+        throw new Error(data.error || 'Could not load leads');
+      }
+      renderSummary(data.summary);
+      renderTable(data.leads);
+      setStatus(`Loaded ${data.leads.length} leads.`, 'success');
+    } catch (error) {
+      setStatus(error.message || 'Could not load leads.', 'error');
+    } finally {
+      loadBtn?.removeAttribute('disabled');
+    }
+  }
+
+  loadBtn?.addEventListener('click', loadLeads);
+  keyInput?.addEventListener('keypress', (event) => {
+    if (event.key === 'Enter') loadLeads();
+  });
+</script>
+
+<style>
+  .admin-header h1 {
+    margin-bottom: var(--space-3);
+    border: none;
+  }
+  .admin-header p {
+    color: var(--color-text-muted);
+    margin-bottom: var(--space-6);
+  }
+  .admin-auth {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    margin-bottom: var(--space-6);
+  }
+  .admin-auth label {
+    display: block;
+    margin-bottom: var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+  .admin-auth__actions {
+    display: flex;
+    gap: var(--space-3);
+    flex-wrap: wrap;
+  }
+  .admin-auth__actions input {
+    flex: 1;
+    min-width: 240px;
+    padding: var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    font: inherit;
+  }
+  .admin-auth__actions button {
+    padding: var(--space-3) var(--space-4);
+    border: none;
+    border-radius: 8px;
+    background: #1a1a1a;
+    color: #fff;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .admin-summary {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: var(--space-3);
+    margin-bottom: var(--space-4);
+  }
+  .summary-card {
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-4);
+    background: #fff;
+  }
+  .summary-card span {
+    display: block;
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .summary-card strong {
+    font-size: var(--text-2xl);
+  }
+  .admin-status {
+    margin-bottom: var(--space-4);
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .admin-status.success { color: #0f766e; }
+  .admin-status.error { color: #b91c1c; }
+  .admin-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--color-border-light);
+    border-radius: 8px;
+  }
+  .admin-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 700px;
+  }
+  .admin-table th,
+  .admin-table td {
+    text-align: left;
+    padding: var(--space-3);
+    border-bottom: 1px solid var(--color-border-light);
+    font-size: var(--text-sm);
+  }
+  .status-pill {
+    display: inline-block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  .status-pill.pending {
+    background: #fef9c3;
+    color: #854d0e;
+  }
+  .status-pill.confirmed {
+    background: #dcfce7;
+    color: #166534;
+  }
+</style>

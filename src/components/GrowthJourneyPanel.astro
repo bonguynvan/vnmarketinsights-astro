@@ -1,0 +1,214 @@
+---
+interface Props {
+  title?: string;
+}
+
+const { title = 'Your growth journey' } = Astro.props;
+---
+
+<section class="growth-journey">
+  <header class="growth-journey__header">
+    <h2>{title}</h2>
+    <span id="growth-progress-label" class="growth-journey__progress-label">0% completed</span>
+  </header>
+
+  <div class="growth-journey__meta">
+    <span id="growth-streak-label">0-day streak</span>
+  </div>
+
+  <div class="growth-journey__progress-track" aria-hidden="true">
+    <span id="growth-progress-fill" class="growth-journey__progress-fill"></span>
+  </div>
+
+  <div id="growth-next-action" class="growth-journey__next-action"></div>
+
+  <ul id="growth-journey-list" class="growth-journey__checklist"></ul>
+
+  <div class="growth-journey__resume">
+    <h3>Continue where you left off</h3>
+    <ul id="growth-recent-actions" class="growth-journey__recent"></ul>
+  </div>
+</section>
+
+<script is:inline>
+  const journeySteps = [
+    { key: 'visited_topics', label: 'Explore one market topic', href: '/topics' },
+    { key: 'snapshot_first_value', label: 'Get first Snapshot result', href: '/snapshot' },
+    { key: 'keywords_first_value', label: 'Get first Keyword result', href: '/keywords' },
+    { key: 'lead_confirmed', label: 'Confirm weekly brief subscription', href: '/start' }
+  ];
+
+  const checklistEl = document.getElementById('growth-journey-list');
+  const progressFillEl = document.getElementById('growth-progress-fill');
+  const progressLabelEl = document.getElementById('growth-progress-label');
+  const recentEl = document.getElementById('growth-recent-actions');
+  const streakEl = document.getElementById('growth-streak-label');
+  const nextActionEl = document.getElementById('growth-next-action');
+
+  function nextActionForMilestones(milestones) {
+    if (!milestones.visited_topics) return journeySteps[0];
+    if (!milestones.snapshot_first_value) return journeySteps[1];
+    if (!milestones.keywords_first_value) return journeySteps[2];
+    if (!milestones.lead_confirmed && !milestones.lead_submitted) return journeySteps[3];
+    return { key: 'advanced_loop', label: 'Try starter flows and invite a teammate', href: '/start' };
+  }
+
+  function escapeHtml(value = '') {
+    return String(value)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;');
+  }
+
+  function renderJourney() {
+    const milestones = window.vmiGrowthContext?.getMilestones?.() || {};
+    const completed = journeySteps.filter((step) => Boolean(milestones[step.key])).length;
+    const percentage = Math.round((completed / journeySteps.length) * 100);
+    const streak = window.vmiGrowthContext?.getWeeklyStreak?.() || 0;
+    const nextAction = nextActionForMilestones(milestones);
+
+    if (progressFillEl) progressFillEl.style.width = `${percentage}%`;
+    if (progressLabelEl) progressLabelEl.textContent = `${percentage}% completed`;
+    if (streakEl) streakEl.textContent = `${streak}-day streak`;
+    if (nextActionEl) {
+      nextActionEl.innerHTML = `
+        <a href="${nextAction.href}" data-growth-step-key="${nextAction.key}" class="growth-next-action__link">
+          <span class="growth-next-action__label">Next best action</span>
+          <strong>${nextAction.label}</strong>
+        </a>
+      `;
+    }
+
+    if (checklistEl) {
+      checklistEl.innerHTML = journeySteps.map((step) => `
+        <li class="${(step.key === 'lead_confirmed' ? Boolean(milestones.lead_confirmed || milestones.lead_submitted) : Boolean(milestones[step.key])) ? 'is-completed' : ''}">
+          <a href="${step.href}" data-growth-step-key="${step.key}">
+            <span class="growth-checkmark">${(step.key === 'lead_confirmed' ? Boolean(milestones.lead_confirmed || milestones.lead_submitted) : Boolean(milestones[step.key])) ? '✓' : '○'}</span>
+            <span>${escapeHtml(step.label)}</span>
+          </a>
+        </li>
+      `).join('');
+    }
+
+    const recent = window.vmiGrowthContext?.getRecentActions?.() || [];
+    if (recentEl) {
+      if (!recent.length) {
+        recentEl.innerHTML = '<li>No recent actions yet. Start with any step above.</li>';
+      } else {
+        recentEl.innerHTML = recent.map((item) => `<li><a href="${item.href}">${escapeHtml(item.label)}</a></li>`).join('');
+      }
+    }
+  }
+
+  document.addEventListener('click', (event) => {
+    const stepLink = event.target instanceof Element ? event.target.closest('[data-growth-step-key]') : null;
+    if (!stepLink) return;
+    window.vmiGrowthContext?.recordRecentAction?.({
+      label: stepLink.textContent?.trim() || 'Growth step',
+      href: stepLink.getAttribute('href') || '/'
+    });
+  });
+
+  renderJourney();
+</script>
+
+<style>
+  .growth-journey {
+    margin-bottom: var(--space-10);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: var(--color-bg-subtle);
+  }
+  .growth-journey__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-3);
+  }
+  .growth-journey__header h2 {
+    margin: 0;
+    border: none;
+  }
+  .growth-journey__progress-label {
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .growth-journey__meta {
+    margin-top: var(--space-1);
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .growth-journey__progress-track {
+    margin: var(--space-3) 0 var(--space-4) 0;
+    width: 100%;
+    height: 8px;
+    border-radius: 999px;
+    background: #e2e8f0;
+    overflow: hidden;
+  }
+  .growth-journey__progress-fill {
+    display: block;
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #2563eb, #0ea5e9);
+    transition: width 0.25s ease;
+  }
+  .growth-journey__next-action {
+    margin-bottom: var(--space-4);
+  }
+  .growth-next-action__link {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+    padding: var(--space-4);
+    border-radius: 10px;
+    border: 1px solid #bfdbfe;
+    background: #eff6ff;
+    text-decoration: none;
+    color: #1e3a8a;
+  }
+  .growth-next-action__label {
+    font-size: var(--text-xs);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #1d4ed8;
+  }
+  .growth-journey__checklist {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--space-5) 0;
+    display: grid;
+    gap: var(--space-2);
+  }
+  .growth-journey__checklist li a {
+    display: inline-flex;
+    gap: var(--space-2);
+    align-items: center;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+  .growth-journey__checklist li.is-completed a {
+    color: #0f766e;
+  }
+  .growth-checkmark {
+    width: 1.2rem;
+    text-align: center;
+    font-weight: 700;
+  }
+  .growth-journey__resume h3 {
+    margin: 0 0 var(--space-2) 0;
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+  }
+  .growth-journey__recent {
+    margin: 0;
+    padding-left: var(--space-5);
+  }
+  .growth-journey__recent li {
+    margin-bottom: var(--space-1);
+    font-size: var(--text-sm);
+  }
+</style>

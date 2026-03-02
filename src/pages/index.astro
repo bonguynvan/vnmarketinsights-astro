@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
 ---
 
 <BaseLayout
@@ -19,35 +20,54 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     }
   }}
 >
-  <!-- Hero -->
+  <GrowthJourneyPanel title="First-value progress" />
+
   <section class="hero">
     <div class="hero__content">
-      <h1 class="hero__title">Vietnam Market Insights</h1>
+      <h1 class="hero__title">Understand Vietnam's market in minutes</h1>
       <p class="hero__subtitle">
-        Reference and tools for Vietnam's market — from ecommerce to financial markets.
+        Trusted reference pages and free tools for operators, founders, and researchers.
       </p>
       <div class="hero__actions">
-        <a href="/topics" class="hero__primary-btn">Explore topics</a>
-        <a href="/tools" class="hero__secondary-btn">Try tools</a>
+        <a href="/snapshot" class="hero__primary-btn" data-track-event="homepage_cta_click" data-track-category="acquisition" data-track-label="analyze_first_website">Analyze your first website</a>
+      </div>
+      <div class="hero__secondary-links">
+        <a href="/topics" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="explore_topics">Explore topics</a>
+        <a href="/tools" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="browse_tools">Browse all tools</a>
+        <a href="/insights" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="read_insights">Read insights</a>
+        <a href="/workspace" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="open_workspace">Open workspace</a>
       </div>
     </div>
   </section>
 
-  <!-- Two pillars -->
+  <section class="quick-starts">
+    <h2>Start with one practical use case</h2>
+    <div class="quick-starts__grid">
+      <a href="/snapshot" class="quick-start-card" data-track-event="homepage_quickstart_click" data-track-category="acquisition" data-track-label="competitor_snapshot">
+        <h3>Competitor website snapshot</h3>
+        <p>Check tech stack and SEO quality before building a market brief.</p>
+      </a>
+      <a href="/keywords" class="quick-start-card" data-track-event="homepage_quickstart_click" data-track-category="acquisition" data-track-label="keyword_ideas">
+        <h3>Keyword demand ideas</h3>
+        <p>Mine search opportunities around your product category.</p>
+      </a>
+      <a href="/start" class="quick-start-card" data-track-event="homepage_quickstart_click" data-track-category="acquisition" data-track-label="starter_flows">
+        <h3>Guided starter flows</h3>
+        <p>Follow pre-built 2-minute flows for research, SEO, and market entry.</p>
+      </a>
+    </div>
+  </section>
+
   <section class="pillars">
     <div class="pillar">
-      <h2>Understand the market</h2>
-      <p>Structured reference on payments, e-commerce, logistics, consumers, regulations, platforms, and financial markets. Each topic includes key statistics, major players, and sources.</p>
-      <p>
-        <a href="/topics">Topics</a> · <a href="/insights">Articles</a> · <a href="/glossary">Glossary</a>
-      </p>
+      <h2>Reference</h2>
+      <p>Structured pages on payments, e-commerce, logistics, consumers, regulations, and financial markets.</p>
+      <p><a href="/topics" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="topics">Topics</a> · <a href="/insights" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="insights">Insights</a> · <a href="/glossary" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="glossary">Glossary</a></p>
     </div>
     <div class="pillar">
-      <h2>Analyze & track</h2>
-      <p>Free tools: analyze any website's tech stack and SEO, and mine keyword ideas for content and campaigns. More tools (including AI-assisted features) coming soon.</p>
-      <p>
-        <a href="/tools">Snapshot</a> · <a href="/keywords">Keyword Miner</a>
-      </p>
+      <h2>Tools</h2>
+      <p>Free utility pages to move from reading to action in the same session.</p>
+      <p><a href="/tools" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="tools_hub">Tools hub</a> · <a href="/snapshot" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="snapshot">Snapshot</a> · <a href="/keywords" data-track-event="homepage_pillar_click" data-track-category="acquisition" data-track-label="keywords">Keyword Miner</a></p>
     </div>
   </section>
 
@@ -92,6 +112,35 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     transition: all 0.2s ease;
   }
   .hero__secondary-btn:hover { border-color: #1a1a1a; background: var(--color-bg-subtle); transform: translateY(-2px); color: #1a1a1a; }
+  .hero__secondary-links {
+    margin-top: var(--space-4);
+    display: flex;
+    justify-content: center;
+    gap: var(--space-4);
+    flex-wrap: wrap;
+    font-size: var(--text-sm);
+  }
+
+  .quick-starts { margin-bottom: var(--space-12); }
+  .quick-starts h2 { margin-top: 0; border: none; }
+  .quick-starts__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--space-5);
+    margin-top: var(--space-4);
+  }
+  .quick-start-card {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border-light);
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+    background: white;
+    transition: all 0.2s ease;
+  }
+  .quick-start-card h3 { margin: 0 0 var(--space-2) 0; color: var(--color-text); }
+  .quick-start-card p { margin: 0; color: var(--color-text-muted); font-size: var(--text-sm); }
+  .quick-start-card:hover { text-decoration: none; transform: translateY(-2px); border-color: var(--color-accent); }
 
   .pillars { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-8); margin-bottom: var(--space-12); }
   .pillar { padding: var(--space-6); background: var(--color-bg-subtle); border-radius: 12px; }

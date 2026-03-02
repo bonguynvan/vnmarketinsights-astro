@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import LeadCapture from '@components/LeadCapture.astro';
 
 const topics = [
   { slug: 'payments', title: 'Payments', description: 'Payment methods, e-wallets, banking infrastructure, and financial services.' },
@@ -22,12 +23,13 @@ const topics = [
     <header class="topics-header">
       <h1>Reference Topics</h1>
       <p class="topics-lead">Structured, factual overviews of Vietnam's market landscape. Each topic includes key statistics, major players, and sources.</p>
+      <a href="/snapshot" class="topics-primary-cta" data-track-event="topics_primary_cta_click" data-track-category="acquisition" data-track-label="snapshot_from_topics">Run website snapshot now</a>
     </header>
 
     <section>
       <div class="topic-grid">
         {topics.map((topic) => (
-          <a href={`/${topic.slug}`} class="topic-card">
+          <a href={`/${topic.slug}`} class="topic-card" data-track-event="topic_card_click" data-track-category="acquisition" data-track-label={topic.slug}>
             <span class="topic-card__title">{topic.title}</span>
             <span class="topic-card__desc">{topic.description}</span>
           </a>
@@ -35,16 +37,54 @@ const topics = [
       </div>
     </section>
 
+    <section class="topics-next-step">
+      <h2>After reading a topic</h2>
+      <p>Move to a tool or related insight to get first value in the same session.</p>
+      <div class="topics-next-step__links">
+        <a href="/tools" data-track-event="topics_next_step_click" data-track-label="tools_hub">Browse tools</a>
+        <a href="/insights" data-track-event="topics_next_step_click" data-track-label="insights_hub">Read insights</a>
+        <a href="/start" data-track-event="topics_next_step_click" data-track-label="starter_flows">Open starter flows</a>
+      </div>
+    </section>
+
     <p class="topics-footer-note">
-      <a href="/glossary">Glossary</a> — Key terms and definitions. <a href="/">Home</a>.
+      <a href="/glossary" data-track-event="topics_footer_click" data-track-label="glossary">Glossary</a> — Key terms and definitions. <a href="/" data-track-event="topics_footer_click" data-track-label="home">Home</a>.
     </p>
+    <LeadCapture
+      source="topics_hub"
+      title="Get weekly topic updates"
+      description="Receive one short brief with key market updates and newly published reference pages."
+    />
   </article>
 </BaseLayout>
+
+<script is:inline>
+  window.vmiGrowthContext?.setMilestone?.('visited_topics', true);
+  window.vmiGrowthContext?.recordRecentAction?.({
+    label: 'Visited topics hub',
+    href: '/topics'
+  });
+</script>
 
 <style>
   .topics-page { }
   .topics-header { margin-bottom: var(--space-10); }
   .topics-header h1 { margin-bottom: var(--space-3); border: none; }
   .topics-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .topics-primary-cta {
+    display: inline-flex;
+    margin-top: var(--space-4);
+    padding: var(--space-3) var(--space-5);
+    border-radius: 999px;
+    background: #1a1a1a;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .topics-primary-cta:hover { color: white; text-decoration: none; background: #000; }
+  .topics-next-step { margin-top: var(--space-10); padding: var(--space-6); background: var(--color-bg-subtle); border-radius: 12px; }
+  .topics-next-step h2 { margin-top: 0; border: none; }
+  .topics-next-step p { color: var(--color-text-muted); margin-bottom: var(--space-4); }
+  .topics-next-step__links { display: flex; flex-wrap: wrap; gap: var(--space-4); font-weight: 500; }
   .topics-footer-note { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
 </style>

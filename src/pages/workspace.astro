@@ -1,0 +1,651 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
+
+const quickActions = [
+  { href: '/snapshot', label: 'Run Website Snapshot' },
+  { href: '/keywords', label: 'Mine Keyword Ideas' },
+  { href: '/start', label: 'Open Starter Flows' },
+  { href: '/topics', label: 'Browse Topic References' }
+];
+---
+
+<BaseLayout
+  title="Workspace"
+  description="Resume your saved analyses, keyword sessions, and growth actions in one place."
+  canonicalURL="https://vnmarketinsights.com/workspace/"
+  mainClass="container-wide"
+>
+  <article class="workspace-page">
+    <header class="workspace-header">
+      <h1>Your Workspace</h1>
+      <p>Resume where you left off with saved results and quick actions.</p>
+    </header>
+
+    <GrowthJourneyPanel title="Workspace progress" />
+
+    <section class="workspace-actions">
+      <h2>Quick actions</h2>
+      <div class="workspace-actions__grid">
+        {quickActions.map((action) => (
+          <a
+            href={action.href}
+            class="workspace-action-card"
+            data-track-event="workspace_quick_action_click"
+            data-track-category="acquisition"
+            data-track-label={action.href}
+          >
+            {action.label}
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="workspace-grid">
+      <div class="workspace-card">
+        <div class="workspace-card__header">
+          <h2>Pinned goals</h2>
+        </div>
+        <div class="goal-templates">
+          <span>Templates:</span>
+          <button type="button" data-goal-template="founder">Founder</button>
+          <button type="button" data-goal-template="marketer">Marketer</button>
+          <button type="button" data-goal-template="analyst">Analyst</button>
+        </div>
+        <form id="goal-form" class="goal-form">
+          <input id="goal-input" type="text" maxlength="120" placeholder="Add this week's goal..." />
+          <input id="goal-date-input" type="date" />
+          <button type="submit">Add goal</button>
+        </form>
+        <ul id="goal-list" class="workspace-list"></ul>
+        <div class="goal-reminders">
+          <h3>Reminders</h3>
+          <ul id="goal-reminder-list" class="workspace-list"></ul>
+        </div>
+      </div>
+
+      <div class="workspace-card">
+        <div class="workspace-card__header">
+          <h2>Weekly digest</h2>
+        </div>
+        <div id="weekly-digest" class="weekly-digest"></div>
+      </div>
+    </section>
+
+    <section class="workspace-grid">
+      <div class="workspace-card">
+        <div class="workspace-card__header">
+          <h2>Saved Snapshot Results</h2>
+          <div class="workspace-card__actions">
+            <button type="button" id="replay-snapshot-saved">Replay all</button>
+            <button type="button" id="clear-snapshot-saved">Clear</button>
+          </div>
+        </div>
+        <ul id="workspace-snapshot-list" class="workspace-list"></ul>
+      </div>
+
+      <div class="workspace-card">
+        <div class="workspace-card__header">
+          <h2>Saved Keyword Sessions</h2>
+          <div class="workspace-card__actions">
+            <button type="button" id="replay-keyword-saved">Replay all</button>
+            <button type="button" id="clear-keyword-saved">Clear</button>
+          </div>
+        </div>
+        <ul id="workspace-keyword-list" class="workspace-list"></ul>
+      </div>
+    </section>
+    <section class="workspace-grid">
+      <div class="workspace-card">
+        <div class="workspace-card__header">
+          <h2>Latest replay summaries</h2>
+        </div>
+        <ul id="workspace-replay-summaries" class="workspace-list"></ul>
+      </div>
+    </section>
+    <p id="workspace-action-status" class="workspace-action-status" aria-live="polite"></p>
+  </article>
+</BaseLayout>
+
+<script is:inline>
+  const snapshotStorageKey = 'vmi_snapshot_saved_results';
+  const keywordsStorageKey = 'vmi_keywords_saved_results';
+  const goalsStorageKey = 'vmi_workspace_goals';
+  const replaySnapshotQueueKey = 'vmi_replay_snapshot_queue';
+  const replayKeywordsQueueKey = 'vmi_replay_keywords_queue';
+  const replaySummariesKey = 'vmi_replay_batch_summaries';
+  const snapshotList = document.getElementById('workspace-snapshot-list');
+  const keywordList = document.getElementById('workspace-keyword-list');
+  const goalList = document.getElementById('goal-list');
+  const goalForm = document.getElementById('goal-form');
+  const goalInput = document.getElementById('goal-input');
+  const goalDateInput = document.getElementById('goal-date-input');
+  const goalReminderList = document.getElementById('goal-reminder-list');
+  const goalTemplateButtons = document.querySelectorAll('[data-goal-template]');
+  const weeklyDigestEl = document.getElementById('weekly-digest');
+  const replaySummariesEl = document.getElementById('workspace-replay-summaries');
+  const actionStatusEl = document.getElementById('workspace-action-status');
+  const replaySnapshotBtn = document.getElementById('replay-snapshot-saved');
+  const replayKeywordBtn = document.getElementById('replay-keyword-saved');
+  const clearSnapshotBtn = document.getElementById('clear-snapshot-saved');
+  const clearKeywordBtn = document.getElementById('clear-keyword-saved');
+  const track = (eventName, params = {}) => {
+    if (typeof window.vmiTrack === 'function') {
+      window.vmiTrack(eventName, { event_category: 'engagement', page: 'workspace', ...params });
+    }
+  };
+
+  const goalTemplates = {
+    founder: [
+      { text: 'Analyze 3 competitor websites this week', dueInDays: 3 },
+      { text: 'Identify 10 high-signal keywords this week', dueInDays: 5 },
+      { text: 'Read 2 market insight articles for strategy context', dueInDays: 7 }
+    ],
+    marketer: [
+      { text: 'Mine 20 keyword opportunities for next campaign', dueInDays: 3 },
+      { text: 'Compare SEO basics of top 3 competitors', dueInDays: 5 },
+      { text: 'Publish one content brief using workspace findings', dueInDays: 7 }
+    ],
+    analyst: [
+      { text: 'Build one market brief from Snapshot + Keywords', dueInDays: 3 },
+      { text: 'Validate one hypothesis using 3 reference topics', dueInDays: 5 },
+      { text: 'Track weekly changes in 5 target domains', dueInDays: 7 }
+    ]
+  };
+
+  function toIsoDate(date) {
+    const copy = new Date(date);
+    copy.setHours(0, 0, 0, 0);
+    return copy.toISOString().slice(0, 10);
+  }
+
+  function addDays(days = 0) {
+    const date = new Date();
+    date.setDate(date.getDate() + days);
+    return toIsoDate(date);
+  }
+
+  function readSaved(key) {
+    try {
+      const raw = localStorage.getItem(key);
+      const parsed = raw ? JSON.parse(raw) : [];
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  }
+
+  function escapeHtml(value = '') {
+    return String(value)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#39;');
+  }
+
+  function renderSnapshotList() {
+    if (!snapshotList) return;
+    const items = readSaved(snapshotStorageKey);
+    if (!items.length) {
+      snapshotList.innerHTML = '<li>No saved snapshot results yet.</li>';
+      return;
+    }
+    snapshotList.innerHTML = items.map((item) => `
+      <li>
+        <a href="/snapshot?domain=${encodeURIComponent(item.domain)}&autorun=1" class="workspace-item-link" data-track-event="workspace_saved_click" data-track-category="engagement" data-track-label="snapshot_saved_autorun">
+          <strong>${escapeHtml(item.domain)}</strong>
+          <span>SEO ${item.seoScore} · ${new Date(item.analyzedAt).toLocaleDateString('en-US')}</span>
+        </a>
+      </li>
+    `).join('');
+  }
+
+  function renderKeywordList() {
+    if (!keywordList) return;
+    const items = readSaved(keywordsStorageKey);
+    if (!items.length) {
+      keywordList.innerHTML = '<li>No saved keyword sessions yet.</li>';
+      return;
+    }
+    keywordList.innerHTML = items.map((item) => `
+      <li>
+        <a href="/keywords?q=${encodeURIComponent(item.query)}&autorun=1" class="workspace-item-link" data-track-event="workspace_saved_click" data-track-category="engagement" data-track-label="keyword_saved_autorun">
+          <strong>${escapeHtml(item.query)}</strong>
+          <span>${item.count} results · ${new Date(item.analyzedAt).toLocaleDateString('en-US')}</span>
+        </a>
+      </li>
+    `).join('');
+  }
+
+  function readGoals() {
+    if (window.vmiGrowthContext?.getWorkspaceGoals) {
+      return window.vmiGrowthContext.getWorkspaceGoals();
+    }
+    return readSaved(goalsStorageKey);
+  }
+
+  function writeGoals(goals) {
+    localStorage.setItem(goalsStorageKey, JSON.stringify(goals.slice(0, 8)));
+  }
+
+  function addGoals(entries) {
+    const goals = readGoals();
+    const existingTexts = new Set(goals.map((goal) => goal.text.toLowerCase()));
+    const additions = entries
+      .map((entry) => {
+        if (typeof entry === 'string') {
+          return { text: entry.trim(), dueDate: addDays(7) };
+        }
+        return {
+          text: (entry.text || '').trim(),
+          dueDate: entry.dueDate || addDays(entry.dueInDays || 7)
+        };
+      })
+      .filter((entry) => entry.text && !existingTexts.has(entry.text.toLowerCase()))
+      .map((entry) => ({
+        id: `goal_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`,
+        text: entry.text.slice(0, 120),
+        done: false,
+        dueDate: entry.dueDate,
+        createdAt: new Date().toISOString()
+      }));
+    writeGoals([...additions, ...goals]);
+  }
+
+  function renderGoals() {
+    if (!goalList) return;
+    const goals = readGoals();
+    if (!goals.length) {
+      goalList.innerHTML = '<li>No goals yet. Add one above to stay focused this week.</li>';
+      return;
+    }
+    goalList.innerHTML = goals.map((goal) => `
+      <li class="goal-item ${goal.done ? 'is-done' : ''}">
+        <label>
+          <input type="checkbox" data-goal-id="${goal.id}" ${goal.done ? 'checked' : ''} />
+          <span>${escapeHtml(goal.text)}</span>
+          ${goal.dueDate ? `<small class="goal-due">due ${escapeHtml(goal.dueDate)}</small>` : ''}
+        </label>
+        <button type="button" data-goal-remove="${goal.id}">Remove</button>
+      </li>
+    `).join('');
+
+    goalList.querySelectorAll('input[type="checkbox"][data-goal-id]').forEach((checkbox) => {
+      checkbox.addEventListener('change', () => {
+        const goalsCurrent = readGoals();
+        const target = goalsCurrent.find((item) => item.id === checkbox.dataset.goalId);
+        if (!target) return;
+        target.done = checkbox.checked;
+        writeGoals(goalsCurrent);
+        renderGoals();
+        renderGoalReminders();
+        renderWeeklyDigest();
+        track('workspace_goal_toggled', { event_label: checkbox.checked ? 'done' : 'reopened' });
+      });
+    });
+
+    goalList.querySelectorAll('button[data-goal-remove]').forEach((button) => {
+      button.addEventListener('click', () => {
+        const nextGoals = readGoals().filter((item) => item.id !== button.dataset.goalRemove);
+        writeGoals(nextGoals);
+        renderGoals();
+        renderGoalReminders();
+        renderWeeklyDigest();
+        track('workspace_goal_removed', { event_label: 'manual_remove' });
+      });
+    });
+  }
+
+  function renderGoalReminders() {
+    if (!goalReminderList) return;
+    const goals = readGoals().filter((goal) => !goal.done && goal.dueDate);
+    if (!goals.length) {
+      goalReminderList.innerHTML = '<li>No upcoming deadlines.</li>';
+      return;
+    }
+    const today = new Date(toIsoDate(new Date()));
+    const soon = goals
+      .map((goal) => {
+        const due = new Date(goal.dueDate);
+        const diffDays = Math.ceil((due - today) / (24 * 60 * 60 * 1000));
+        return { ...goal, diffDays };
+      })
+      .filter((goal) => goal.diffDays <= 2)
+      .sort((a, b) => a.diffDays - b.diffDays);
+
+    if (!soon.length) {
+      goalReminderList.innerHTML = '<li>No deadlines in the next 2 days.</li>';
+      return;
+    }
+
+    goalReminderList.innerHTML = soon.map((goal) => {
+      const label = goal.diffDays < 0 ? 'overdue' : goal.diffDays === 0 ? 'due today' : `due in ${goal.diffDays} day(s)`;
+      return `<li>${escapeHtml(goal.text)} <strong>(${label})</strong></li>`;
+    }).join('');
+  }
+
+  function renderWeeklyDigest() {
+    if (!weeklyDigestEl) return;
+    const milestones = window.vmiGrowthContext?.getMilestones?.() || {};
+    const streak = window.vmiGrowthContext?.getWeeklyStreak?.() || 0;
+    const snapshotCount = readSaved(snapshotStorageKey).length;
+    const keywordCount = readSaved(keywordsStorageKey).length;
+    const goals = readGoals();
+    const goalsDone = goals.filter((goal) => goal.done).length;
+    const dueSoonCount = goals.filter((goal) => {
+      if (goal.done || !goal.dueDate) return false;
+      const due = new Date(goal.dueDate);
+      const today = new Date(toIsoDate(new Date()));
+      const diffDays = Math.ceil((due - today) / (24 * 60 * 60 * 1000));
+      return diffDays <= 2;
+    }).length;
+
+    const checklist = [
+      milestones.visited_topics ? 'Topics explored' : 'Explore one topic',
+      milestones.snapshot_first_value ? 'Snapshot completed' : 'Run one snapshot',
+      milestones.keywords_first_value ? 'Keyword session completed' : 'Run one keyword session',
+      (milestones.lead_confirmed || milestones.lead_submitted)
+        ? 'Weekly brief confirmed'
+        : 'Confirm weekly brief subscription'
+    ];
+
+    weeklyDigestEl.innerHTML = `
+      <p><strong>${streak}-day streak</strong> · ${snapshotCount} saved snapshots · ${keywordCount} saved keyword sessions</p>
+      <p>Goals completed this week: ${goalsDone}/${goals.length || 0} · ${dueSoonCount} due soon</p>
+      <ul>${checklist.map((item) => `<li>${item}</li>`).join('')}</ul>
+    `;
+  }
+
+  function renderReplaySummaries() {
+    if (!replaySummariesEl) return;
+    const items = readSaved(replaySummariesKey);
+    if (!items.length) {
+      replaySummariesEl.innerHTML = '<li>No replay summaries yet. Run a replay batch to generate one.</li>';
+      return;
+    }
+    replaySummariesEl.innerHTML = items.slice(0, 6).map((item) => {
+      const dateLabel = item.createdAt ? new Date(item.createdAt).toLocaleString('en-US') : '';
+      if (item.type === 'snapshot') {
+        return `<li><strong>Snapshot batch</strong> · ${item.total || 0} domains · avg SEO ${item.avgScore ?? '-'} · top ${escapeHtml(item.topDomain || '-')} <span>${dateLabel}</span></li>`;
+      }
+      return `<li><strong>Keyword batch</strong> · ${item.total || 0} sessions · avg results ${item.avgResults ?? '-'} · top ${escapeHtml(item.topQuery || '-')} <span>${dateLabel}</span></li>`;
+    }).join('');
+  }
+
+  clearKeywordBtn?.addEventListener('click', () => {
+    localStorage.removeItem(keywordsStorageKey);
+    renderKeywordList();
+    renderWeeklyDigest();
+    track('workspace_saved_keywords_cleared', { event_label: 'clear_keywords' });
+  });
+
+  clearSnapshotBtn?.addEventListener('click', () => {
+    localStorage.removeItem(snapshotStorageKey);
+    renderSnapshotList();
+    renderWeeklyDigest();
+    track('workspace_saved_snapshots_cleared', { event_label: 'clear_snapshots' });
+  });
+
+  replaySnapshotBtn?.addEventListener('click', () => {
+    const items = readSaved(snapshotStorageKey).map((item) => item.domain).filter(Boolean);
+    if (!items.length) {
+      if (actionStatusEl) actionStatusEl.textContent = 'No saved snapshot results to replay.';
+      return;
+    }
+    localStorage.setItem(replaySnapshotQueueKey, JSON.stringify({ items, index: 0, total: items.length, processed: [] }));
+    track('workspace_replay_started', { event_label: 'snapshot', replay_total: items.length });
+    window.location.href = `/snapshot?domain=${encodeURIComponent(items[0])}&autorun=1&replay=1`;
+  });
+
+  replayKeywordBtn?.addEventListener('click', () => {
+    const items = readSaved(keywordsStorageKey).map((item) => item.query).filter(Boolean);
+    if (!items.length) {
+      if (actionStatusEl) actionStatusEl.textContent = 'No saved keyword sessions to replay.';
+      return;
+    }
+    localStorage.setItem(replayKeywordsQueueKey, JSON.stringify({ items, index: 0, total: items.length, processed: [] }));
+    track('workspace_replay_started', { event_label: 'keywords', replay_total: items.length });
+    window.location.href = `/keywords?q=${encodeURIComponent(items[0])}&autorun=1&replay=1`;
+  });
+
+  goalTemplateButtons.forEach((button) => {
+    button.addEventListener('click', () => {
+      const templateId = button.dataset.goalTemplate;
+      const template = goalTemplates[templateId];
+      if (!template) return;
+      addGoals(template);
+      renderGoals();
+      renderGoalReminders();
+      renderWeeklyDigest();
+      track('workspace_goal_template_applied', { event_label: templateId, goal_count: template.length });
+      if (actionStatusEl) actionStatusEl.textContent = `Added ${template.length} ${templateId} goals.`;
+    });
+  });
+
+  goalForm?.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const text = goalInput?.value?.trim();
+    if (!text) return;
+    const goals = readGoals();
+    goals.unshift({
+      id: `goal_${Date.now()}`,
+      text: text.slice(0, 120),
+      done: false,
+      dueDate: goalDateInput?.value || addDays(7),
+      createdAt: new Date().toISOString()
+    });
+    writeGoals(goals);
+    if (goalInput) goalInput.value = '';
+    if (goalDateInput) goalDateInput.value = '';
+    renderGoals();
+    renderGoalReminders();
+    renderWeeklyDigest();
+    track('workspace_goal_added', { event_label: 'manual_goal' });
+  });
+
+  renderSnapshotList();
+  renderKeywordList();
+  renderGoals();
+  renderGoalReminders();
+  renderWeeklyDigest();
+  renderReplaySummaries();
+</script>
+
+<style>
+  .workspace-header {
+    margin-bottom: var(--space-8);
+  }
+  .workspace-header h1 {
+    margin-bottom: var(--space-3);
+    border: none;
+  }
+  .workspace-header p {
+    color: var(--color-text-muted);
+    font-size: var(--text-lg);
+  }
+  .workspace-actions {
+    margin-bottom: var(--space-8);
+  }
+  .workspace-actions h2 {
+    margin-top: 0;
+    border: none;
+  }
+  .workspace-actions__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: var(--space-4);
+  }
+  .workspace-action-card {
+    display: flex;
+    align-items: center;
+    padding: var(--space-4);
+    border: 1px solid var(--color-border-light);
+    border-radius: 10px;
+    background: #fff;
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: 600;
+  }
+  .workspace-action-card:hover {
+    text-decoration: none;
+    border-color: var(--color-accent);
+  }
+  .workspace-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: var(--space-5);
+  }
+  .goal-form {
+    display: flex;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+  }
+  .goal-templates {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+  .goal-templates button {
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: #fff;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    padding: 0.2rem 0.55rem;
+    cursor: pointer;
+  }
+  .goal-form input {
+    flex: 1;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: 0.45rem 0.65rem;
+    font: inherit;
+  }
+  #goal-date-input {
+    flex: 0 0 160px;
+  }
+  .goal-form button {
+    border: none;
+    border-radius: 8px;
+    padding: 0.45rem 0.75rem;
+    background: #1a1a1a;
+    color: #fff;
+    font: inherit;
+    font-size: var(--text-sm);
+    cursor: pointer;
+  }
+  .goal-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-2);
+  }
+  .goal-item label {
+    display: inline-flex;
+    gap: var(--space-2);
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .goal-due {
+    color: var(--color-text-light);
+    font-size: var(--text-xs);
+  }
+  .goal-item.is-done span {
+    text-decoration: line-through;
+    color: var(--color-text-light);
+  }
+  .goal-item button {
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: #fff;
+    color: var(--color-text-light);
+    font-size: var(--text-sm);
+    padding: 0.2rem 0.45rem;
+    cursor: pointer;
+  }
+  .weekly-digest {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+  .weekly-digest p {
+    margin: 0 0 var(--space-2) 0;
+  }
+  .weekly-digest ul {
+    margin: 0;
+    padding-left: 1rem;
+  }
+  .goal-reminders {
+    margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px dashed var(--color-border-light);
+  }
+  .goal-reminders h3 {
+    margin: 0 0 var(--space-2) 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+  .workspace-card {
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: #fff;
+    padding: var(--space-5);
+  }
+  .workspace-card__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: var(--space-3);
+    margin-bottom: var(--space-3);
+  }
+  .workspace-card__header h2 {
+    margin: 0;
+    border: none;
+    font-size: var(--text-lg);
+  }
+  .workspace-card__actions {
+    display: inline-flex;
+    gap: var(--space-2);
+  }
+  .workspace-card__header button {
+    border: 1px solid var(--color-border);
+    border-radius: 6px;
+    background: #f8fafc;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+    padding: 0.35rem 0.6rem;
+    cursor: pointer;
+  }
+  .workspace-list {
+    margin: 0;
+    padding-left: 1rem;
+  }
+  .workspace-list li {
+    margin-bottom: 0.5rem;
+  }
+  .workspace-item-link {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    align-items: center;
+    border: 1px solid var(--color-border-light);
+    border-radius: 8px;
+    padding: 0.45rem 0.65rem;
+    background: #f8fafc;
+    text-decoration: none;
+    color: var(--color-text);
+  }
+  .workspace-item-link span {
+    color: var(--color-text-light);
+    font-size: var(--text-sm);
+  }
+  .workspace-action-status {
+    margin-top: var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+</style>

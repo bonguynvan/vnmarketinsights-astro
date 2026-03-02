@@ -1,6 +1,7 @@
 # build output
 dist/
 .astro/
+.vercel/
 
 # dependencies
 node_modules/
@@ -15,6 +16,11 @@ pnpm-debug.log*
 .env
 .env.production
 .env.local
+.env.*
+!.env.example
+
+# local data / runtime artifacts
+data/leads.json
 
 # macOS
 .DS_Store

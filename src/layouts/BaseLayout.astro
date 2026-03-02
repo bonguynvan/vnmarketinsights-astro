@@ -84,13 +84,15 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
         <span>Vietnam Market Insights</span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
-        <a href="/">Home</a>
-        <a href="/topics">Topics</a>
-        <a href="/insights">Insights</a>
-        <a href="/glossary">Glossary</a>
-        <a href="/tools">Tools</a>
-        <a href="/about">About</a>
-        <a href="/changelog">Changelog</a>
+        <a href="/" data-track-event="nav_click" data-track-label="home">Home</a>
+        <a href="/topics" data-track-event="nav_click" data-track-label="topics">Topics</a>
+        <a href="/insights" data-track-event="nav_click" data-track-label="insights">Insights</a>
+        <a href="/glossary" data-track-event="nav_click" data-track-label="glossary">Glossary</a>
+        <a href="/tools" data-track-event="nav_click" data-track-label="tools">Tools</a>
+        <a href="/start" data-track-event="nav_click" data-track-label="starter_flows">Start</a>
+        <a href="/workspace" data-track-event="nav_click" data-track-label="workspace">Workspace</a>
+        <a href="/about" data-track-event="nav_click" data-track-label="about">About</a>
+        <a href="/changelog" data-track-event="nav_click" data-track-label="changelog">Changelog</a>
         <button type="button" class="search-trigger" id="search-trigger" aria-label="Open search (Cmd+K)">
           <svg class="search-trigger__icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
             <path d="M7.33333 12.6667C10.2789 12.6667 12.6667 10.2789 12.6667 7.33333C12.6667 4.38781 10.2789 2 7.33333 2C4.38781 2 2 4.38781 2 7.33333C2 10.2789 4.38781 12.6667 7.33333 12.6667Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -123,6 +125,22 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
     </div>
   </div>
 
+  <!-- Exit Intent Growth Modal -->
+  <div id="growth-modal" class="growth-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-label="Weekly market brief">
+    <div class="growth-modal__overlay"></div>
+    <div class="growth-modal__container">
+      <button type="button" class="growth-modal__close" id="growth-modal-close" aria-label="Close">×</button>
+      <h3>Get the weekly market brief</h3>
+      <p>One concise email with practical market updates, new tools, and starter workflows.</p>
+      <form id="growth-modal-form" class="growth-modal__form">
+        <input id="growth-email" type="email" required placeholder="you@company.com" aria-label="Email address" />
+        <button type="submit">Get weekly brief</button>
+      </form>
+      <span id="growth-modal-status" class="growth-modal__status" aria-live="polite"></span>
+      <span class="growth-modal__note">No spam. Unsubscribe anytime.</span>
+    </div>
+  </div>
+
   <main class:list={["main-content", mainClass]}>
     <slot />
   </main>
@@ -145,9 +163,246 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
   <script>
     // @ts-nocheck
     window.addEventListener('DOMContentLoaded', async () => {
+      window.vmiTrack = (eventName, params = {}) => {
+        if (typeof window.gtag !== 'function') return;
+        const nextParams = {
+          page_path: window.location.pathname,
+          visitor_code: typeof window.vmiGrowthContext?.getVisitorCode === 'function'
+            ? window.vmiGrowthContext.getVisitorCode()
+            : '',
+          ...params
+        };
+        window.gtag('event', eventName, nextParams);
+      };
+
+      const growthKeys = {
+        visitor: 'vmi_growth_visitor_code',
+        referrer: 'vmi_growth_referrer_code',
+        modalHiddenUntil: 'vmi_growth_modal_hidden_until',
+        milestones: 'vmi_growth_milestones',
+        recentActions: 'vmi_growth_recent_actions',
+        visitDays: 'vmi_growth_visit_days',
+        workspaceGoals: 'vmi_workspace_goals'
+      };
+
+      function readJson(storageKey, fallbackValue) {
+        try {
+          const raw = window.localStorage.getItem(storageKey);
+          return raw ? JSON.parse(raw) : fallbackValue;
+        } catch {
+          return fallbackValue;
+        }
+      }
+
+      function writeJson(storageKey, value) {
+        window.localStorage.setItem(storageKey, JSON.stringify(value));
+      }
+
+      function generateVisitorCode() {
+        return `vmi${Math.random().toString(36).slice(2, 10)}`;
+      }
+
+      function getVisitorCode() {
+        let code = window.localStorage.getItem(growthKeys.visitor);
+        if (!code) {
+          code = generateVisitorCode();
+          window.localStorage.setItem(growthKeys.visitor, code);
+        }
+        return code;
+      }
+
+      function getReferrerCode() {
+        return window.localStorage.getItem(growthKeys.referrer) || '';
+      }
+
+      function hydrateReferrerFromUrl() {
+        const params = new URLSearchParams(window.location.search);
+        const incomingRef = params.get('ref');
+        if (!incomingRef || !/^[a-z0-9]{5,40}$/i.test(incomingRef)) return;
+        if (incomingRef === getVisitorCode()) return;
+        window.localStorage.setItem(growthKeys.referrer, incomingRef);
+        window.vmiTrack('referral_code_captured', {
+          event_category: 'acquisition',
+          event_label: incomingRef
+        });
+      }
+
+      function getShareUrl(pathname) {
+        const targetUrl = new URL(pathname, window.location.origin);
+        targetUrl.searchParams.set('ref', getVisitorCode());
+        return targetUrl.toString();
+      }
+
+      function getMilestones() {
+        return readJson(growthKeys.milestones, {});
+      }
+
+      function setMilestone(name, value = true) {
+        if (!name) return;
+        const milestones = getMilestones();
+        milestones[name] = value;
+        writeJson(growthKeys.milestones, milestones);
+      }
+
+      function recordRecentAction(action) {
+        if (!action?.label || !action?.href) return;
+        const recent = readJson(growthKeys.recentActions, []);
+        const normalized = {
+          label: String(action.label).slice(0, 120),
+          href: String(action.href).slice(0, 200),
+          at: new Date().toISOString()
+        };
+        const deduped = recent.filter((item) => !(item.label === normalized.label && item.href === normalized.href));
+        const nextRecent = [normalized, ...deduped].slice(0, 6);
+        writeJson(growthKeys.recentActions, nextRecent);
+      }
+
+      function getRecentActions() {
+        return readJson(growthKeys.recentActions, []);
+      }
+
+      function getVisitDays() {
+        return readJson(growthKeys.visitDays, []);
+      }
+
+      function trackVisitDay() {
+        const today = new Date().toISOString().slice(0, 10);
+        const days = getVisitDays();
+        if (days.includes(today)) return days;
+        const nextDays = [...days, today].sort().slice(-21);
+        writeJson(growthKeys.visitDays, nextDays);
+        return nextDays;
+      }
+
+      function getWeeklyStreak() {
+        const days = getVisitDays().slice().sort();
+        if (!days.length) return 0;
+
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        let streak = 0;
+        let cursor = new Date(today);
+
+        for (;;) {
+          const iso = cursor.toISOString().slice(0, 10);
+          if (!days.includes(iso)) break;
+          streak += 1;
+          cursor.setDate(cursor.getDate() - 1);
+        }
+        return streak;
+      }
+
+      function getWorkspaceGoals() {
+        return readJson(growthKeys.workspaceGoals, []);
+      }
+
+      function addWorkspaceGoal(goalInput = {}) {
+        const text = String(goalInput.text || '').trim().slice(0, 120);
+        if (!text) return null;
+        const dueInDays = Number(goalInput.dueInDays || 7);
+        const dueDateObj = new Date();
+        dueDateObj.setDate(dueDateObj.getDate() + Math.max(0, dueInDays));
+        const dueDate = (goalInput.dueDate || dueDateObj.toISOString().slice(0, 10)).toString();
+
+        const goals = getWorkspaceGoals();
+        const exists = goals.some((goal) => String(goal.text || '').toLowerCase() === text.toLowerCase());
+        if (exists) return { status: 'exists' };
+
+        const nextGoal = {
+          id: `goal_${Date.now()}_${Math.random().toString(36).slice(2, 6)}`,
+          text,
+          done: false,
+          dueDate,
+          createdAt: new Date().toISOString()
+        };
+        writeJson(growthKeys.workspaceGoals, [nextGoal, ...goals].slice(0, 8));
+        return { status: 'added', goal: nextGoal };
+      }
+
+      async function submitLead(payload = {}) {
+        const response = await fetch('/api/leads/subscribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            ...payload,
+            path: window.location.pathname,
+            visitorCode: getVisitorCode(),
+            referrerCode: getReferrerCode()
+          })
+        });
+        if (!response.ok) throw new Error('Lead submission failed');
+        return response.json();
+      }
+
+      hydrateReferrerFromUrl();
+      trackVisitDay();
+      window.vmiGrowthContext = {
+        getVisitorCode,
+        getReferrerCode,
+        getShareUrl,
+        submitLead,
+        getMilestones,
+        setMilestone,
+        recordRecentAction,
+        getRecentActions,
+        getVisitDays,
+        getWeeklyStreak,
+        getWorkspaceGoals,
+        addWorkspaceGoal
+      };
+
+      document.addEventListener('click', (event) => {
+        const target = event.target instanceof Element ? event.target.closest('[data-track-event]') : null;
+        if (!target) return;
+        window.vmiTrack(target.dataset.trackEvent, {
+          event_category: target.dataset.trackCategory || 'engagement',
+          event_label: target.dataset.trackLabel || '',
+          page_path: window.location.pathname
+        });
+      });
+
       const searchTrigger = document.getElementById('search-trigger');
       const searchModal = document.getElementById('search-modal');
       const searchContainer = document.getElementById('search');
+      const growthModal = document.getElementById('growth-modal');
+      const growthModalClose = document.getElementById('growth-modal-close');
+      const growthModalForm = document.getElementById('growth-modal-form');
+      const growthEmail = document.getElementById('growth-email');
+      const growthModalStatus = document.getElementById('growth-modal-status');
+      const growthCooldownDays = 7;
+      let growthShown = false;
+
+      function shouldShowGrowthModal() {
+        if (!growthModal) return false;
+        if (window.location.pathname.startsWith('/about')) return false;
+        const hiddenUntilRaw = window.localStorage.getItem(growthKeys.modalHiddenUntil);
+        if (!hiddenUntilRaw) return true;
+        const hiddenUntil = Number(hiddenUntilRaw);
+        return Number.isNaN(hiddenUntil) || Date.now() > hiddenUntil;
+      }
+
+      function hideGrowthForCooldown() {
+        const hiddenUntil = Date.now() + (growthCooldownDays * 24 * 60 * 60 * 1000);
+        window.localStorage.setItem(growthKeys.modalHiddenUntil, String(hiddenUntil));
+      }
+
+      function closeGrowthModal() {
+        if (!growthModal) return;
+        growthModal.classList.remove('is-open');
+        growthModal.setAttribute('aria-hidden', 'true');
+      }
+
+      function openGrowthModal(reason) {
+        if (!growthModal || growthShown || !shouldShowGrowthModal()) return;
+        growthShown = true;
+        growthModal.classList.add('is-open');
+        growthModal.setAttribute('aria-hidden', 'false');
+        window.vmiTrack('lead_capture_modal_open', {
+          event_category: 'acquisition',
+          event_label: reason,
+          page_path: window.location.pathname
+        });
+      }
 
       if (!searchTrigger || !searchModal || !searchContainer) return;
 
@@ -222,6 +477,23 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
             searching: 'Searching for [SEARCH_TERM]...'
           }
         });
+
+        const searchInput = searchContainer.querySelector('.pagefind-ui__search-input');
+        if (searchInput) {
+          let inputDebounce = null;
+          searchInput.addEventListener('input', (event) => {
+            const query = event.target.value.trim();
+            if (query.length < 2) return;
+            clearTimeout(inputDebounce);
+            inputDebounce = setTimeout(() => {
+              window.vmiTrack('search_query', {
+                event_category: 'search',
+                event_label: query.slice(0, 60),
+                query_length: query.length
+              });
+            }, 600);
+          });
+        }
       }
 
       function showSearchUnavailable() {
@@ -249,6 +521,11 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
       }
 
       function openSearch() {
+        window.vmiTrack('search_open', {
+          event_category: 'search',
+          event_label: 'header_trigger',
+          page_path: window.location.pathname
+        });
         searchModal.classList.add('is-open');
         searchModal.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
@@ -286,6 +563,78 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
           }
         }
       });
+
+      if (growthModal) {
+        growthModal.querySelector('.growth-modal__overlay')?.addEventListener('click', () => {
+          closeGrowthModal();
+          hideGrowthForCooldown();
+        });
+        growthModalClose?.addEventListener('click', () => {
+          closeGrowthModal();
+          hideGrowthForCooldown();
+        });
+        growthModalForm?.addEventListener('submit', (event) => {
+          event.preventDefault();
+          const email = growthEmail?.value?.trim();
+          if (!email) return;
+          const submitButton = growthModalForm.querySelector('button[type="submit"]');
+          if (growthModalStatus) {
+            growthModalStatus.textContent = 'Submitting...';
+            growthModalStatus.classList.remove('is-error', 'is-success');
+          }
+          submitButton?.setAttribute('disabled', 'disabled');
+          submitLead({
+            email,
+            source: 'exit_intent_modal',
+            context: { reason: 'modal_form_submit' }
+          }).then((response) => {
+            window.vmiTrack('lead_capture_submit', {
+              event_category: 'acquisition',
+              event_label: 'exit_intent_modal',
+              email_domain: email.split('@')[1] || ''
+            });
+            if (growthModalStatus) {
+              growthModalStatus.textContent = response?.alreadySubscribed
+                ? 'You are already subscribed and confirmed.'
+                : 'Check your email to confirm subscription.';
+              growthModalStatus.classList.add('is-success');
+            }
+            window.vmiGrowthContext?.setMilestone?.('lead_pending_confirmation', true);
+            if (!response?.alreadySubscribed) {
+              window.vmiTrack('lead_pending_confirmation', {
+                event_category: 'acquisition',
+                event_label: 'exit_intent_modal'
+              });
+            }
+            window.vmiGrowthContext?.recordRecentAction?.({
+              label: 'Requested weekly brief from exit-intent prompt',
+              href: '/start'
+            });
+            hideGrowthForCooldown();
+            window.setTimeout(closeGrowthModal, 900);
+          }).catch(() => {
+            window.vmiTrack('lead_capture_error', {
+              event_category: 'acquisition',
+              event_label: 'exit_intent_modal'
+            });
+            if (growthModalStatus) {
+              growthModalStatus.textContent = 'Could not submit right now. Please try again.';
+              growthModalStatus.classList.add('is-error');
+            }
+          }).finally(() => {
+            submitButton?.removeAttribute('disabled');
+          });
+        });
+
+        document.addEventListener('mouseleave', (event) => {
+          if (event.clientY > 20) return;
+          openGrowthModal('exit_intent');
+        });
+
+        window.setTimeout(() => {
+          openGrowthModal('time_on_page');
+        }, 45000);
+      }
     });
   </script>
 </body>
