@@ -1,9 +1,27 @@
 import { getSimulatedKeywords, generateKeywordInsight } from '@utils/keywordEngine';
+import { getRequestUrl } from '@utils/requestUrl';
+export const prerender = false;
 
 export async function GET({ request }: { request: Request }) {
-    const url = new URL(request.url);
+    const url = getRequestUrl(request);
     const seed = url.searchParams.get('q');
+    return mineKeywords(seed);
+}
 
+export async function POST({ request }: { request: Request }) {
+    let payload: { q?: string } = {};
+    try {
+        payload = await request.json();
+    } catch {
+        return new Response(JSON.stringify({ success: false, error: 'Invalid JSON payload' }), {
+            status: 400,
+            headers: { 'Content-Type': 'application/json' }
+        });
+    }
+    return mineKeywords(payload.q || '');
+}
+
+function mineKeywords(seed: string | null | undefined) {
     if (!seed || seed.length < 2) {
         return new Response(JSON.stringify({ success: false, error: 'Query too short' }), {
             status: 400,

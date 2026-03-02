@@ -1,6 +1,4 @@
 import { confirmLeadByToken } from '@utils/leadStore';
-import { getRequestUrl } from '@utils/requestUrl';
-export const prerender = false;
 
 function escapeHtml(value: string) {
   return value
@@ -64,14 +62,10 @@ function htmlPage(
 </html>`;
 }
 
-export async function GET({ request }: { request: Request }) {
-  const url = getRequestUrl(request);
-  const tokenFromQuery = url.searchParams.get('token')?.trim() || '';
-  const tokenFromPath = url.pathname.startsWith('/api/leads/confirm/')
-    ? decodeURIComponent(url.pathname.slice('/api/leads/confirm/'.length)).trim()
-    : '';
-  const token = tokenFromQuery || tokenFromPath;
+export const prerender = false;
 
+export async function GET({ params }: { params: { token?: string } }) {
+  const token = params.token ? decodeURIComponent(params.token).trim() : '';
   if (!token) {
     return new Response(htmlPage('Invalid confirmation link', 'This link is missing a token.'), {
       status: 400,

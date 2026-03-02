@@ -56,7 +56,7 @@ export async function POST({ request }: { request: Request }) {
 
   const upsert = upsertPendingLead(safePayload);
   const origin = new URL(request.url).origin;
-  const confirmLink = `${origin}/api/leads/confirm?token=${upsert.lead.confirmToken}`;
+  const confirmLink = `${origin}/api/leads/confirm/${encodeURIComponent(upsert.lead.confirmToken)}`;
   const exposeConfirmLink = import.meta.env.DEV || import.meta.env.PUBLIC_EXPOSE_CONFIRM_LINK === 'true';
 
   if (upsert.status === 'already_confirmed') {

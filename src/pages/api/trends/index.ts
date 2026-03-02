@@ -1,9 +1,10 @@
 export const prerender = false;
 import { calculateSummaryStats, generateInsightSummary, SIMULATED_TREND_DATA } from '@utils/trendEngine';
 import { getTrendingProductsByCategory } from '@utils/dataSources';
+import { getRequestUrl } from '@utils/requestUrl';
 
 export async function GET({ request }: { request: Request }) {
-  const url = new URL(request.url);
+  const url = getRequestUrl(request);
   const category = url.searchParams.get('category') || '';
   const timeframe = (url.searchParams.get('timeframe') as '7d' | '30d') || '30d';
 

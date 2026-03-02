@@ -372,7 +372,7 @@ import LeadCapture from '@components/LeadCapture.astro';
       track('tool_submitted', { event_label: 'snapshot_analyze_click', input_length: url.length });
 
       try {
-        const response = await fetch(`/api/analyze/?url=${encodeURIComponent(url)}`);
+        const response = await fetch(`/api/analyze/${encodeURIComponent(url)}`);
         const result = await response.json();
 
         if (result.success) {

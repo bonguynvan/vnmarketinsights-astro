@@ -1,5 +1,7 @@
 import { detectTechnologies } from '@utils/techDetector';
 import { analyzeSEO } from '@utils/seoAnalyzer';
+import { getRequestUrl } from '@utils/requestUrl';
+export const prerender = false;
 
 function isPrivateIp(hostname: string) {
     const ipv4Match = hostname.match(/^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/);
@@ -46,9 +48,25 @@ function normalizeTargetUrl(input: string) {
 }
 
 export async function GET({ request }: { request: Request }) {
-    const url = new URL(request.url);
+    const url = getRequestUrl(request);
     const domain = url.searchParams.get('url');
+    return analyzeDomain(domain);
+}
 
+export async function POST({ request }: { request: Request }) {
+    let payload: { url?: string } = {};
+    try {
+        payload = await request.json();
+    } catch {
+        return new Response(JSON.stringify({ success: false, error: 'Invalid JSON payload' }), {
+            status: 400,
+            headers: { 'Content-Type': 'application/json' }
+        });
+    }
+    return analyzeDomain(payload.url || '');
+}
+
+async function analyzeDomain(domain: string | null | undefined) {
     if (!domain) {
         return new Response(JSON.stringify({ success: false, error: 'Domain is required' }), {
             status: 400,

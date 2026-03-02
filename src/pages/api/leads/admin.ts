@@ -1,9 +1,10 @@
 import { getLeadAdminSnapshot } from '@utils/leadStore';
+import { getRequestUrl } from '@utils/requestUrl';
 
 function isAuthorized(request: Request) {
   const adminKey = import.meta.env.ADMIN_LEADS_KEY;
   if (!adminKey) return false;
-  const url = new URL(request.url);
+  const url = getRequestUrl(request);
   const keyFromHeader = request.headers.get('x-admin-key') || '';
   if (keyFromHeader === adminKey) return true;
   const allowQueryKey = import.meta.env.ALLOW_ADMIN_KEY_QUERY === 'true';
@@ -27,7 +28,7 @@ export async function GET({ request }: { request: Request }) {
     });
   }
 
-  const url = new URL(request.url);
+  const url = getRequestUrl(request);
   const limit = Number(url.searchParams.get('limit') || '100');
   const data = getLeadAdminSnapshot(limit);
 
