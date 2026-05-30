@@ -35,6 +35,9 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
 const SEGMENT_LABELS: Record<string, string> = {
   topics: 'Topics',
   insights: 'Insights',
+  guides: 'Guides',
+  stats: 'Statistics',
+  compare: 'Comparisons',
   glossary: 'Glossary',
   tools: 'Tools',
   about: 'About',
@@ -211,6 +214,7 @@ const allSchemas = [
         <a href="/" data-track-event="nav_click" data-track-label="home">Home</a>
         <a href="/topics" data-track-event="nav_click" data-track-label="topics">Topics</a>
         <a href="/insights" data-track-event="nav_click" data-track-label="insights">Insights</a>
+        <a href="/guides" data-track-event="nav_click" data-track-label="guides">Guides</a>
         <a href="/glossary" data-track-event="nav_click" data-track-label="glossary">Glossary</a>
         <a href="/tools" data-track-event="nav_click" data-track-label="tools">Tools</a>
         <a href="/search" class="nav-smart-search" data-track-event="nav_click" data-track-label="smart_search">Smart Search <span class="nav-new-badge">New</span></a>
