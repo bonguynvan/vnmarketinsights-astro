@@ -1,0 +1,201 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Cross-Border E-Commerce Into Vietnam (2026) — Seller & Brand Guide";
+const description = "How to sell into Vietnam from abroad: cross-border marketplace programs, import duties and de minimis, payments, logistics and customs, localization, and a practical entry path.";
+const canonical = "https://vnmarketinsights.com/guides/cross-border-ecommerce-into-vietnam/";
+
+const steps = [
+  {
+    name: 'Pick a cross-border channel',
+    text: 'The lowest-friction route is a platform cross-border program — Shopee International Platform (SIP), Lazada cross-border (LazGlobal), or TikTok Shop cross-border where available. These let you list to Vietnamese buyers without a local entity.',
+  },
+  {
+    name: 'Understand duties and de minimis',
+    text: 'Imported parcels may be subject to import duty and VAT. Vietnam applies a low-value de minimis threshold below which some taxes are waived; confirm the current threshold and category rules, as they change and affect landed price.',
+  },
+  {
+    name: 'Set up cross-border payments',
+    text: 'Cross-border sellers are paid out through the platform\'s settlement system to an eligible foreign or local account. Confirm supported payout currencies, FX handling, and settlement timelines before you list.',
+  },
+  {
+    name: 'Plan logistics and customs',
+    text: 'Choose between platform-managed cross-border logistics (consolidated freight + customs clearance) or your own forwarder. Platform-managed shipping is simpler; self-managed can be cheaper at scale but needs customs expertise.',
+  },
+  {
+    name: 'Localize listings and service',
+    text: 'Translate titles and descriptions into Vietnamese, price in VND, set realistic cross-border delivery expectations, and prepare returns handling. Localized, trustworthy listings convert far better than raw exports.',
+  },
+  {
+    name: 'Test, then consider a local presence',
+    text: 'Use cross-border to validate demand cheaply. If volume justifies it, graduate to local stocking (domestic fulfillment) or a registered entity for faster delivery and better economics.',
+  },
+];
+
+const faqs = [
+  {
+    question: "What is the easiest way to sell into Vietnam from abroad?",
+    answer: "Platform cross-border programs are the easiest entry: Shopee International Platform (SIP), Lazada cross-border (LazGlobal), and TikTok Shop cross-border (where available) let foreign sellers list to Vietnamese buyers without setting up a local company. The platform handles much of the payments, logistics, and customs complexity."
+  },
+  {
+    question: "Do I have to pay import duties to sell into Vietnam?",
+    answer: "Possibly. Imported goods can be subject to import duty and VAT, depending on category and value. Vietnam applies a de minimis threshold below which certain taxes may be waived on low-value parcels, but thresholds and rules change and vary by product. Always confirm the current rules, since duties affect your landed price and competitiveness."
+  },
+  {
+    question: "How do cross-border sellers get paid in Vietnam?",
+    answer: "Through the marketplace's cross-border settlement system, which pays out to an eligible account on a defined cycle. Supported payout currencies, foreign-exchange handling, and timelines vary by platform and program, so verify these details before committing inventory."
+  },
+  {
+    question: "How long does cross-border delivery to Vietnam take?",
+    answer: "Cross-border parcels typically take longer than domestic orders — often several days to a couple of weeks depending on origin, shipping method, and customs clearance. Platform-managed cross-border logistics consolidate freight and handle clearance to shorten and standardize delivery times."
+  },
+  {
+    question: "When should I switch from cross-border to local fulfillment?",
+    answer: "Once cross-border demand is proven and volumes are steady, moving inventory into domestic fulfillment (local stocking) or establishing a local entity gives you faster delivery, lower per-order shipping cost, easier returns, and better conversion. Cross-border is best used to validate demand before committing that capital."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Sell Cross-Border Into Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Cross-Border Into Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Selling into Vietnam from abroad no longer requires a local company. Platform cross-border
+        programs let foreign sellers and brands reach Vietnamese buyers while the marketplace
+        handles much of the payments, logistics, and customs complexity. This guide covers the
+        channels, duties and de minimis, payments, logistics, localization, and when to graduate
+        to local fulfillment. Rules and thresholds change — confirm current terms before you list.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Cross-border vs local fulfillment</h2>
+      <p>
+        <a href="/glossary/cross-border-e-commerce/">Cross-border e-commerce</a> is the
+        low-commitment way to validate Vietnamese demand: no entity, no local inventory, longer
+        delivery. Once demand is proven, local stocking (domestic fulfillment) or a registered
+        entity unlocks faster delivery via carriers like
+        <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T</a>, lower shipping
+        cost per order, and smoother returns — usually lifting conversion enough to justify the
+        added capital and compliance.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">on TikTok Shop</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a></li>
+        <li><a href="/insights/cross-border-ecommerce/">Cross-border e-commerce — insights article</a></li>
+        <li><a href="/glossary/cross-border-e-commerce/">Cross-border e-commerce (glossary)</a> · <a href="/glossary/cod/">COD (glossary)</a> · <a href="/glossary/marketplace/">Marketplace (glossary)</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
