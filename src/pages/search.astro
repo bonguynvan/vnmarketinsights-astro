@@ -1,0 +1,753 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Smart Search — Vietnam Market News & AI Analysis"
+  description="Search Vietnam economic news from VnExpress, CafeF and government sources, with AI-generated market sentiment and key statistics."
+  canonicalURL="https://vnmarketinsights.com/search/"
+  mainClass="container-wide"
+  noindex={true}
+>
+  <div class="search-page">
+
+    <!-- Header -->
+    <div class="search-header">
+      <div class="search-badge">
+        <span class="badge-dot"></span>
+        Real-time data
+      </div>
+      <h1 class="search-title">Smart Search</h1>
+      <p class="search-subtitle">Aggregates Vietnam economic news from VnExpress, CafeF and official Vietnamese sources, then runs AI sentiment and key-stat analysis. Source articles remain in Vietnamese; AI summary is in English.</p>
+    </div>
+
+    <!-- Search Input -->
+    <div class="search-box-card">
+      <div class="search-input-group">
+        <svg class="search-icon-left" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Enter a topic: FDI, interest rates, exports, stock market…"
+          class="search-input"
+          autocomplete="off"
+        />
+        <button id="search-btn" class="search-btn">
+          <span class="search-btn-text">Analyze</span>
+          <div class="search-btn-loader hidden"></div>
+        </button>
+      </div>
+
+      <!-- Quick Prompts -->
+      <div class="quick-prompts">
+        <span class="prompts-label">Quick prompts:</span>
+        <div class="prompts-grid">
+          <button type="button" class="prompt-chip" data-query="FDI foreign direct investment Vietnam">
+            🏭 FDI & Investment
+          </button>
+          <button type="button" class="prompt-chip" data-query="interest rates banking Vietnam">
+            🏦 Rates & Banking
+          </button>
+          <button type="button" class="prompt-chip" data-query="exports trade Vietnam">
+            📦 Trade & Exports
+          </button>
+          <button type="button" class="prompt-chip" data-query="stock market VN-Index">
+            📈 Stock Market
+          </button>
+          <button type="button" class="prompt-chip" data-query="retail consumer spending Vietnam">
+            🛒 Retail & Consumer
+          </button>
+          <button type="button" class="prompt-chip" data-query="real estate property Vietnam">
+            🏠 Real Estate
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Loading State -->
+    <div id="search-loading" class="search-loading hidden">
+      <div class="loading-spinner"></div>
+      <p>Fetching news and running analysis…</p>
+    </div>
+
+    <!-- Error State -->
+    <div id="search-error" class="search-error hidden"></div>
+
+    <!-- Results Area -->
+    <div id="search-results" class="search-results hidden">
+
+      <!-- Stats Row -->
+      <div class="results-stats" id="stats-row">
+        <div class="stat-chip" id="stat-count">
+          <span class="stat-icon">📰</span>
+          <strong id="stat-count-val">0</strong> articles
+        </div>
+        <div class="stat-chip" id="stat-sentiment">
+          <span class="stat-icon" id="sentiment-icon">📊</span>
+          <strong id="stat-sentiment-val">Neutral</strong>
+        </div>
+        <div class="stat-chip" id="stat-score">
+          <span>Market score:</span>
+          <strong id="stat-score-val" class="score-val">0</strong>
+        </div>
+      </div>
+
+      <!-- Two Column Layout -->
+      <div class="results-grid">
+
+        <!-- Left: AI Analysis Panel -->
+        <div class="analysis-panel">
+          <div class="panel-header">
+            <div class="panel-icon ai-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/>
+              </svg>
+            </div>
+            <h2 class="panel-title">AI market analysis</h2>
+          </div>
+
+          <!-- Sentiment Gauge -->
+          <div class="sentiment-gauge" id="sentiment-gauge">
+            <div class="gauge-bar">
+              <div class="gauge-fill" id="gauge-fill"></div>
+            </div>
+            <div class="gauge-labels">
+              <span>Negative</span>
+              <span id="gauge-label">Loading…</span>
+              <span>Positive</span>
+            </div>
+          </div>
+
+          <!-- Key Stats -->
+          <div id="key-stats-box" class="key-stats hidden">
+            <h3 class="stats-title">Key figures mentioned</h3>
+            <div id="key-stats-list" class="stats-list"></div>
+          </div>
+
+          <!-- AI Synthesis -->
+          <div class="ai-synthesis" id="ai-synthesis-box">
+            <div class="synthesis-placeholder">
+              <span>Analysis will appear here after you search.</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: News Articles -->
+        <div class="articles-panel">
+          <div class="panel-header">
+            <div class="panel-icon news-icon">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 0-2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
+                <path d="M18 14h-8M15 18h-5M10 6h8v4h-8z"/>
+              </svg>
+            </div>
+            <h2 class="panel-title">Latest articles</h2>
+          </div>
+          <div id="articles-list" class="articles-list">
+            <div class="articles-placeholder">
+              <p>Articles will appear here after you search.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Empty State (initial) -->
+    <div id="search-empty" class="search-empty">
+      <div class="empty-grid">
+        <div class="info-card">
+          <div class="info-card-icon">📰</div>
+          <h3>Vietnamese-source coverage</h3>
+          <p>Aggregates VnExpress, CafeF, and other Vietnamese business publications — domestic primary sources.</p>
+        </div>
+        <div class="info-card">
+          <div class="info-card-icon">🤖</div>
+          <h3>AI-generated analysis</h3>
+          <p>Auto-summarizes articles and scores market sentiment so English readers don't need to read each source piece.</p>
+        </div>
+        <div class="info-card">
+          <div class="info-card-icon">📊</div>
+          <h3>Neutral framing</h3>
+          <p>No editorial spin — only factual aggregation from verified public sources.</p>
+        </div>
+      </div>
+      <p class="disclaimer">⚠️ Aggregated from public RSS feeds. Not financial advice. Always consult the original sources before making any decision.</p>
+    </div>
+
+  </div>
+
+  <script is:inline>
+    const searchInput = document.getElementById('search-input');
+    const searchBtn = document.getElementById('search-btn');
+    const searchBtnText = searchBtn.querySelector('.search-btn-text');
+    const searchBtnLoader = searchBtn.querySelector('.search-btn-loader');
+    const loadingEl = document.getElementById('search-loading');
+    const errorEl = document.getElementById('search-error');
+    const resultsEl = document.getElementById('search-results');
+    const emptyEl = document.getElementById('search-empty');
+    const promptChips = document.querySelectorAll('.prompt-chip');
+
+    promptChips.forEach(chip => {
+      chip.addEventListener('click', () => {
+        searchInput.value = chip.dataset.query || '';
+        runSearch();
+      });
+    });
+
+    searchBtn.addEventListener('click', runSearch);
+    searchInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') runSearch(); });
+
+    async function runSearch() {
+      const query = searchInput.value.trim();
+      if (!query) return;
+
+      // UI: loading
+      setLoading(true);
+      errorEl.classList.add('hidden');
+      resultsEl.classList.add('hidden');
+      emptyEl.classList.add('hidden');
+
+      if (typeof window.vmiTrack === 'function') {
+        window.vmiTrack('smart_search_query', { event_category: 'tools', event_label: query.slice(0, 60) });
+      }
+
+      try {
+        const response = await fetch(`/api/search/news?q=${encodeURIComponent(query)}`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+
+        if (!data.success) throw new Error(data.error || 'Unknown error');
+
+        renderResults(data);
+        resultsEl.classList.remove('hidden');
+      } catch (err) {
+        errorEl.textContent = `Could not load results: ${err.message}. Please try again.`;
+        errorEl.classList.remove('hidden');
+        emptyEl.classList.remove('hidden');
+        console.error(err);
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    function setLoading(on) {
+      if (on) {
+        loadingEl.classList.remove('hidden');
+        searchBtn.disabled = true;
+        searchBtnText.classList.add('hidden');
+        searchBtnLoader.classList.remove('hidden');
+      } else {
+        loadingEl.classList.add('hidden');
+        searchBtn.disabled = false;
+        searchBtnText.classList.remove('hidden');
+        searchBtnLoader.classList.add('hidden');
+      }
+    }
+
+    function renderResults(data) {
+      // Stats row
+      document.getElementById('stat-count-val').textContent = data.articlesCount;
+
+      const score = data.sentimentScore || 0;
+      const summary = data.sentimentSummary || 'Neutral';
+      document.getElementById('stat-sentiment-val').textContent = summary;
+      document.getElementById('stat-score-val').textContent = (score > 0 ? '+' : '') + score;
+
+      const scoreEl = document.getElementById('stat-score-val');
+      scoreEl.className = 'score-val ' + (score > 20 ? 'score-positive' : score < -20 ? 'score-negative' : 'score-neutral');
+
+      const sentimentIcon = document.getElementById('sentiment-icon');
+      sentimentIcon.textContent = score > 20 ? '🟢' : score < -20 ? '🔴' : '🟡';
+
+      // Gauge bar
+      const gaugePercent = Math.min(100, Math.max(0, (score + 100) / 2)); // map -100..100 to 0..100
+      const gaugeFill = document.getElementById('gauge-fill');
+      gaugeFill.style.width = `${gaugePercent}%`;
+      gaugeFill.className = 'gauge-fill ' + (score > 20 ? 'gauge-positive' : score < -20 ? 'gauge-negative' : 'gauge-neutral');
+      document.getElementById('gauge-label').textContent = summary;
+
+      // Key stats
+      const keyStats = data.keyStats || [];
+      const keyStatsBox = document.getElementById('key-stats-box');
+      const keyStatsList = document.getElementById('key-stats-list');
+      if (keyStats.length > 0) {
+        keyStatsList.innerHTML = keyStats.map(s => `<span class="stat-tag">${s}</span>`).join('');
+        keyStatsBox.classList.remove('hidden');
+      } else {
+        keyStatsBox.classList.add('hidden');
+      }
+
+      // AI Synthesis (supports markdown-ish formatting)
+      const synthesis = data.aiSynthesis || '';
+      const synthesisBox = document.getElementById('ai-synthesis-box');
+      const htmlSynthesis = synthesis
+        .replace(/### (.*)/g, '<h4>$1</h4>')
+        .replace(/## (.*)/g, '<h3>$1</h3>')
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\* (.*)/g, '<li>$1</li>')
+        .split('\n').filter(l => l.trim()).map(l => {
+          if (l.startsWith('<h') || l.startsWith('<li')) return l;
+          return `<p>${l}</p>`;
+        }).join('');
+      synthesisBox.innerHTML = `<div class="synthesis-content">${htmlSynthesis}</div>`;
+
+      // Articles
+      const articles = data.articles || [];
+      const articlesList = document.getElementById('articles-list');
+      if (articles.length === 0) {
+        articlesList.innerHTML = '<div class="articles-placeholder"><p>No matching articles. Try a different keyword.</p></div>';
+      } else {
+        articlesList.innerHTML = articles.map(article => {
+          const sentimentClass = article.sentiment === 'positive' ? 'sentiment-positive'
+            : article.sentiment === 'negative' ? 'sentiment-negative' : 'sentiment-neutral';
+          const sentimentLabel = article.sentiment === 'positive' ? 'Positive'
+            : article.sentiment === 'negative' ? 'Cautious' : 'Neutral';
+          const date = article.pubDate ? new Date(article.pubDate).toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' }) : '';
+
+          return `
+          <a href="${article.link}" target="_blank" rel="noopener noreferrer" class="article-card">
+            <div class="article-card-top">
+              <div class="article-meta">
+                <span class="article-source">${article.source}</span>
+                ${date ? `<time class="article-date">${date}</time>` : ''}
+              </div>
+              <span class="article-sentiment ${sentimentClass}">${sentimentLabel}</span>
+            </div>
+            <h3 class="article-title">${article.title}</h3>
+            <p class="article-desc">${article.description}</p>
+            ${article.highlights && article.highlights.length > 0
+              ? `<div class="article-highlights">${article.highlights.map(h => `<span class="highlight-chip">${h}</span>`).join('')}</div>`
+              : ''
+            }
+          </a>
+          `;
+        }).join('');
+      }
+    }
+  </script>
+
+  <style is:global>
+    .search-page {
+      width: 100%;
+      padding: 3rem 0 5rem;
+    }
+
+    /* Header */
+    .search-header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    .search-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.5rem;
+      background: rgba(34, 197, 94, 0.1);
+      color: #16a34a;
+      border: 1px solid rgba(34, 197, 94, 0.25);
+      padding: 0.3rem 1rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+    .badge-dot {
+      width: 7px; height: 7px;
+      background: #22c55e;
+      border-radius: 50%;
+      animation: pulse-dot 1.8s ease-in-out infinite;
+    }
+    @keyframes pulse-dot {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.4); }
+    }
+    .search-title {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.75rem;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .search-subtitle {
+      color: var(--color-text-muted, #666);
+      font-size: 1.05rem;
+      max-width: 560px;
+      margin: 0 auto;
+      line-height: 1.65;
+    }
+
+    /* Search Box */
+    .search-box-card {
+      background: white;
+      border: 1px solid #e8edf2;
+      border-radius: 24px;
+      padding: 2rem;
+      box-shadow: 0 8px 40px rgba(0, 60, 130, 0.06);
+      margin-bottom: 2.5rem;
+    }
+    .search-input-group {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    .search-icon-left {
+      position: absolute;
+      left: 1.25rem;
+      color: #94a3b8;
+      pointer-events: none;
+    }
+    .search-input {
+      flex: 1;
+      padding: 1rem 1.25rem 1rem 3.25rem;
+      border: 2px solid #e2e8f0;
+      border-radius: 14px;
+      font-size: 1rem;
+      font-family: inherit;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      background: #f8fafc;
+      color: #1a1a1a;
+    }
+    .search-input:focus {
+      border-color: #3b82f6;
+      box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
+      outline: none;
+      background: white;
+    }
+    .search-btn {
+      padding: 0.95rem 1.75rem;
+      background: linear-gradient(135deg, #2563eb, #1d4ed8);
+      color: white;
+      border: none;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 0.9375rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 160px;
+      white-space: nowrap;
+    }
+    .search-btn:hover { background: linear-gradient(135deg, #1d4ed8, #1e40af); transform: translateY(-1px); }
+    .search-btn:disabled { background: #94a3b8; cursor: not-allowed; transform: none; }
+    .search-btn-loader {
+      width: 18px; height: 18px;
+      border: 3px solid rgba(255,255,255,0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .hidden { display: none !important; }
+
+    /* Quick prompts */
+    .quick-prompts { }
+    .prompts-label {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: #64748b;
+      display: block;
+      margin-bottom: 0.75rem;
+    }
+    .prompts-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .prompt-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.45rem 1rem;
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 999px;
+      font-size: 0.8125rem;
+      font-weight: 500;
+      cursor: pointer;
+      color: #334155;
+      transition: all 0.18s;
+    }
+    .prompt-chip:hover {
+      background: #dbeafe;
+      border-color: #93c5fd;
+      color: #1d4ed8;
+      transform: translateY(-1px);
+    }
+
+    /* Loading */
+    .search-loading {
+      text-align: center;
+      padding: 3rem;
+      color: #64748b;
+    }
+    .loading-spinner {
+      width: 40px; height: 40px;
+      border: 4px solid #e2e8f0;
+      border-top-color: #3b82f6;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    /* Error */
+    .search-error {
+      background: #fef2f2;
+      border: 1px solid #fca5a5;
+      color: #dc2626;
+      padding: 1rem 1.25rem;
+      border-radius: 12px;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Stats Row */
+    .results-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    .stat-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.4rem 1rem;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 999px;
+      font-size: 0.875rem;
+      color: #334155;
+    }
+    .stat-icon { font-size: 1rem; }
+    .score-val { font-weight: 700; }
+    .score-positive { color: #16a34a; }
+    .score-negative { color: #dc2626; }
+    .score-neutral { color: #d97706; }
+
+    /* Results Grid */
+    .results-grid {
+      display: grid;
+      grid-template-columns: 380px 1fr;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
+    /* Panel Shared */
+    .analysis-panel, .articles-panel {
+      background: white;
+      border: 1px solid #e8edf2;
+      border-radius: 20px;
+      overflow: hidden;
+    }
+    .panel-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid #f1f5f9;
+      background: #fafcff;
+    }
+    .panel-icon {
+      width: 36px; height: 36px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .ai-icon { background: linear-gradient(135deg, #ede9fe, #ddd6fe); color: #7c3aed; }
+    .news-icon { background: linear-gradient(135deg, #dbeafe, #bfdbfe); color: #2563eb; }
+    .panel-title {
+      font-size: 0.9375rem;
+      font-weight: 700;
+      color: #1e293b;
+      margin: 0;
+      border: none;
+    }
+
+    /* Sentiment Gauge */
+    .sentiment-gauge {
+      padding: 1.25rem 1.5rem 0;
+    }
+    .gauge-bar {
+      height: 8px;
+      background: #f1f5f9;
+      border-radius: 999px;
+      overflow: hidden;
+      margin-bottom: 0.5rem;
+    }
+    .gauge-fill {
+      height: 100%;
+      border-radius: 999px;
+      transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .gauge-positive { background: linear-gradient(90deg, #22c55e, #16a34a); }
+    .gauge-negative { background: linear-gradient(90deg, #ef4444, #dc2626); }
+    .gauge-neutral { background: linear-gradient(90deg, #f59e0b, #d97706); }
+    .gauge-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.7rem;
+      color: #94a3b8;
+      font-weight: 500;
+    }
+    #gauge-label { color: #475569; font-weight: 700; }
+
+    /* Key Stats */
+    .key-stats {
+      padding: 1rem 1.5rem;
+      border-top: 1px solid #f1f5f9;
+    }
+    .stats-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #94a3b8;
+      margin: 0 0 0.5rem;
+      border: none;
+    }
+    .stats-list { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+    .stat-tag {
+      background: #f0fdf4;
+      color: #16a34a;
+      border: 1px solid #bbf7d0;
+      padding: 0.2rem 0.6rem;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+
+    /* AI Synthesis */
+    .ai-synthesis {
+      padding: 1.25rem 1.5rem;
+    }
+    .synthesis-placeholder {
+      text-align: center;
+      padding: 2rem 1rem;
+      color: #94a3b8;
+      font-size: 0.875rem;
+    }
+    .synthesis-content h3, .synthesis-content h4 {
+      font-size: 0.875rem;
+      font-weight: 700;
+      color: #374151;
+      margin: 1rem 0 0.5rem;
+      border: none;
+    }
+    .synthesis-content h3:first-child { margin-top: 0; }
+    .synthesis-content p { font-size: 0.875rem; color: #4b5563; line-height: 1.65; margin-bottom: 0.75rem; }
+    .synthesis-content li { font-size: 0.875rem; color: #4b5563; line-height: 1.6; margin-bottom: 0.4rem; padding-left: 1rem; position: relative; }
+    .synthesis-content li::before { content: "•"; position: absolute; left: 0; color: #3b82f6; }
+    .synthesis-content strong { color: #1e293b; }
+
+    /* Articles */
+    .articles-panel .panel-header { }
+    .articles-list { padding: 0.5rem 0; }
+    .articles-placeholder { padding: 2rem 1.5rem; text-align: center; color: #94a3b8; font-size: 0.875rem; }
+    .article-card {
+      display: block;
+      padding: 1.125rem 1.5rem;
+      border-bottom: 1px solid #f1f5f9;
+      text-decoration: none;
+      color: inherit;
+      transition: background 0.15s;
+    }
+    .article-card:last-child { border-bottom: none; }
+    .article-card:hover { background: #f8fafc; text-decoration: none; }
+    .article-card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+    }
+    .article-meta { display: flex; align-items: center; gap: 0.6rem; }
+    .article-source {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #3b82f6;
+      background: #eff6ff;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+    }
+    .article-date { font-size: 0.75rem; color: #94a3b8; }
+    .article-sentiment {
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.15rem 0.55rem;
+      border-radius: 999px;
+    }
+    .sentiment-positive { background: #f0fdf4; color: #16a34a; }
+    .sentiment-negative { background: #fef2f2; color: #dc2626; }
+    .sentiment-neutral { background: #fffbeb; color: #d97706; }
+    .article-title {
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: #1e293b;
+      margin: 0 0 0.4rem;
+      line-height: 1.45;
+      border: none;
+    }
+    .article-desc { font-size: 0.8125rem; color: #64748b; line-height: 1.55; margin: 0 0 0.5rem; }
+    .article-highlights { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+    .highlight-chip {
+      background: #f0f9ff;
+      color: #0369a1;
+      border: 1px solid #bae6fd;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.7rem;
+      font-weight: 600;
+    }
+
+    /* Empty State */
+    .search-empty { margin-top: 1rem; }
+    .empty-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.25rem;
+      margin-bottom: 1.5rem;
+    }
+    .info-card {
+      background: white;
+      border: 1px solid #e8edf2;
+      border-radius: 18px;
+      padding: 1.75rem 1.5rem;
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .info-card:hover { transform: translateY(-4px); box-shadow: 0 12px 32px rgba(0,0,0,0.06); }
+    .info-card-icon { font-size: 2rem; margin-bottom: 0.75rem; }
+    .info-card h3 { font-size: 0.9375rem; font-weight: 700; color: #1e293b; margin: 0 0 0.5rem; border: none; }
+    .info-card p { font-size: 0.875rem; color: #64748b; line-height: 1.6; margin: 0; }
+    .disclaimer {
+      text-align: center;
+      font-size: 0.75rem;
+      color: #94a3b8;
+      padding: 0.75rem;
+      border: 1px dashed #e2e8f0;
+      border-radius: 10px;
+    }
+
+    /* Responsive */
+    @media (max-width: 900px) {
+      .results-grid { grid-template-columns: 1fr; }
+      .analysis-panel { order: 1; }
+      .articles-panel { order: 2; }
+    }
+    @media (max-width: 600px) {
+      .search-input-group { flex-direction: column; }
+      .search-btn { width: 100%; }
+      .search-input { padding-left: 1.25rem; }
+      .search-icon-left { display: none; }
+    }
+  </style>
+</BaseLayout>

@@ -34,7 +34,7 @@ export function generateKeywordInsight(keyword: string, suggestions: KeywordTren
  */
 export function getSimulatedKeywords(seed: string): KeywordTrend[] {
     const variations = [
-        '', ' giá rẻ', ' chính hãng', ' cao cấp', ' review', ' cho nam', ' cho nữ', ' mới nhất 2024'
+        '', ' cheap', ' authentic', ' premium', ' review', ' for men', ' for women', ' 2026'
     ];
 
     return variations.map(v => {

@@ -121,7 +121,7 @@ export const SIMULATED_TREND_DATA: ProductTrend[] = [
   },
   {
     id: 'vn-t-002',
-    name: 'Kem chống nắng Skin1004 Centella',
+    name: 'Skin1004 Centella Sunscreen',
     category: 'Beauty & Personal Care',
     avgPrice: 355000,
     growthRate: 65.2,
@@ -130,7 +130,7 @@ export const SIMULATED_TREND_DATA: ProductTrend[] = [
   },
   {
     id: 'vn-t-003',
-    name: 'Máy lọc không khí Xiaomi Elite',
+    name: 'Xiaomi Elite Air Purifier',
     category: 'Home & Living',
     avgPrice: 4290000,
     growthRate: 42.1,
@@ -139,7 +139,7 @@ export const SIMULATED_TREND_DATA: ProductTrend[] = [
   },
   {
     id: 'vn-t-004',
-    name: 'Thời trang Y2K Style Crop Top',
+    name: 'Y2K Style Crop Top',
     category: 'Fashion',
     avgPrice: 185000,
     growthRate: 58.5,
@@ -157,7 +157,7 @@ export const SIMULATED_TREND_DATA: ProductTrend[] = [
   },
   {
     id: 'vn-t-006',
-    name: 'Sữa hạt dinh dưỡng TH True Nut',
+    name: 'TH True Nut Plant-Based Milk',
     category: 'Food & Beverage',
     avgPrice: 480000,
     growthRate: 35.8,

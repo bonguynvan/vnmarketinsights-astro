@@ -134,23 +134,25 @@ export async function fetchGoogleTrends(): Promise<GoogleTrend[]> {
 
     if (trends.length > 0) return trends;
 
-    // High-quality fallback for 2024-2025 VN Market
+    // High-quality fallback for 2024-2025 VN Market.
+    // Mock terms are written in English to match the site audience; real-data
+    // mode still ingests Vietnamese terms from Google Trends VN as-is.
     return [
       { term: 'iPhone 16 Pro Max', volume: 2500000, growth: 85 },
-      { term: 'Kem chống nắng Skin1004', volume: 1800000, growth: 60 },
-      { term: 'Máy lọc không khí Xiaomi Elite', volume: 950000, growth: 42 },
-      { term: 'Thời trang Y2K Style', volume: 720000, growth: 58 },
-      { term: 'Tai nghe Sony WH-1000XM5', volume: 450000, growth: 12 },
-      { term: 'Nồi chiên không dầu Philips', volume: 1200000, growth: 25 },
-      { term: 'Sữa hạt dinh dưỡng', volume: 880000, growth: 35 },
+      { term: 'Skin1004 Sunscreen', volume: 1800000, growth: 60 },
+      { term: 'Xiaomi Elite Air Purifier', volume: 950000, growth: 42 },
+      { term: 'Y2K Style Fashion', volume: 720000, growth: 58 },
+      { term: 'Sony WH-1000XM5 Headphones', volume: 450000, growth: 12 },
+      { term: 'Philips Air Fryer', volume: 1200000, growth: 25 },
+      { term: 'Plant-Based Milk Drinks', volume: 880000, growth: 35 },
     ];
   } catch (error) {
     console.warn('Google Trends restricted. Using market simulation data.');
     return [
       { term: 'iPhone 16 Pro Max', volume: 2500000, growth: 85 },
-      { term: 'Kem chống nắng Skin1004', volume: 1800000, growth: 60 },
-      { term: 'Máy lọc không khí Xiaomi Elite', volume: 950000, growth: 42 },
-      { term: 'Thời trang Y2K Style', volume: 720000, growth: 58 },
+      { term: 'Skin1004 Sunscreen', volume: 1800000, growth: 60 },
+      { term: 'Xiaomi Elite Air Purifier', volume: 950000, growth: 42 },
+      { term: 'Y2K Style Fashion', volume: 720000, growth: 58 },
     ];
   }
 }
