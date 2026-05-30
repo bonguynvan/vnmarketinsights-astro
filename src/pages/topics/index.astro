@@ -90,14 +90,15 @@ const itemListSchema = {
   .topics-primary-cta {
     display: inline-flex;
     margin-top: var(--space-4);
-    padding: var(--space-3) var(--space-5);
+    padding: var(--space-3) var(--space-6);
     border-radius: 999px;
-    background: #1a1a1a;
+    background: var(--color-accent);
     color: white;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 700;
+    transition: background 0.2s ease, transform 0.2s ease;
   }
-  .topics-primary-cta:hover { color: white; text-decoration: none; background: #000; }
+  .topics-primary-cta:hover { color: white; text-decoration: none; background: var(--color-accent-hover); transform: translateY(-2px); }
   .topics-next-step { margin-top: var(--space-10); padding: var(--space-6); background: var(--color-bg-subtle); border-radius: 12px; }
   .topics-next-step h2 { margin-top: 0; border: none; }
   .topics-next-step p { color: var(--color-text-muted); margin-bottom: var(--space-4); }
