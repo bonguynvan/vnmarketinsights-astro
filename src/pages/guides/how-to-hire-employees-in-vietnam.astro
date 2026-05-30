@@ -1,0 +1,203 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Hire Employees in Vietnam (2026) — Employer & HR Guide";
+const description = "How to hire employees in Vietnam: labor contracts, mandatory social insurance, payroll and taxes, work permits for foreigners, probation, termination, and Employer-of-Record options.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-hire-employees-in-vietnam/";
+
+const steps = [
+  {
+    name: 'Decide how you will employ',
+    text: 'Hire through your own Vietnamese entity, or use an Employer of Record (EOR) / staffing partner if you have no local entity yet. An EOR lets you employ legally and quickly while you decide whether to incorporate.',
+  },
+  {
+    name: 'Use compliant labor contracts',
+    text: 'Vietnamese law recognizes definite-term and indefinite-term contracts, with rules on probation and renewals. Put role, salary, working hours, and terms in writing in line with the Labor Code.',
+  },
+  {
+    name: 'Register and pay mandatory insurance',
+    text: 'Employers must contribute to social insurance, health insurance, and unemployment insurance for eligible employees, with both employer and employee portions. Register with the social insurance authority and remit on schedule.',
+  },
+  {
+    name: 'Run compliant payroll and PIT',
+    text: 'Withhold and remit personal income tax (PIT) on a progressive scale, handle deductions, and pay salaries in Vietnamese dong. Keep records and issue payslips; most foreign employers use a local payroll provider.',
+  },
+  {
+    name: 'Handle work permits for foreigners',
+    text: 'Foreign hires generally need a work permit (or an exemption) plus an appropriate visa/temporary residence card. Plan lead time for documents, and confirm the role qualifies under work-permit rules.',
+  },
+  {
+    name: 'Respect probation, leave, and working time',
+    text: 'Observe statutory limits on probation length, standard working hours and overtime, annual leave, public holidays, and Tet bonus expectations. These materially affect cost and retention.',
+  },
+  {
+    name: 'Manage termination carefully',
+    text: 'Termination is regulated — valid grounds, notice periods, and severance can apply. Document performance and follow the Labor Code to avoid disputes; take local legal advice for dismissals.',
+  },
+];
+
+const faqs = [
+  {
+    question: "How do I hire employees in Vietnam without a local entity?",
+    answer: "Use an Employer of Record (EOR) or a licensed staffing/outsourcing partner. The EOR legally employs the worker on your behalf in Vietnam — handling contracts, social insurance, payroll, and tax — while the person works for you. It's the fastest compliant way to hire before (or instead of) incorporating a Vietnamese entity."
+  },
+  {
+    question: "What are mandatory employer contributions in Vietnam?",
+    answer: "Employers must contribute to social insurance, health insurance, and unemployment insurance for eligible employees, alongside employee-side contributions. There are also personal income tax (PIT) withholding obligations. Rates and caps are set by regulation, so confirm current percentages with a payroll provider or the social insurance authority."
+  },
+  {
+    question: "Do foreigners need a work permit to work in Vietnam?",
+    answer: "Generally yes. Most foreign employees need a work permit (or a formal exemption) plus an appropriate visa or temporary residence card. The employer typically sponsors the permit, and the role must meet eligibility criteria. Build in lead time for document legalization and approvals."
+  },
+  {
+    question: "What types of employment contracts are used in Vietnam?",
+    answer: "The Labor Code primarily recognizes indefinite-term contracts and definite-term contracts, with rules governing probation periods and how many times a fixed-term contract can be renewed before it effectively becomes indefinite. Contracts should be in writing and specify role, pay, hours, and conditions."
+  },
+  {
+    question: "How does payroll and income tax work for employees in Vietnam?",
+    answer: "Employers withhold personal income tax (PIT) on a progressive scale, deduct employee social/health/unemployment insurance contributions, and pay net salary in Vietnamese dong. Employers remit taxes and contributions to the authorities on schedule and keep payroll records. Many foreign companies outsource payroll to ensure compliance."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Hire Employees in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Hire Employees in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Hiring in Vietnam means navigating the Labor Code, mandatory social insurance, payroll and
+        personal income tax, and — for foreign staff — work permits. This guide walks employers
+        through compliant contracts, contributions, work permits, and the Employer-of-Record option
+        for hiring without a local entity. It's an orientation, not legal advice — engage
+        Vietnamese counsel or a payroll provider before hiring.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Entity vs Employer of Record</h2>
+      <p>
+        If you've already incorporated (see <a href="/guides/how-to-register-a-company-in-vietnam/">how
+        to register a company in Vietnam</a>), you can employ directly. If not, an Employer of
+        Record lets you hire compliantly while you validate the market — a common path for
+        <a href="/glossary/fdi/">foreign</a> employers and <a href="/glossary/sme/">SMEs</a>
+        testing Vietnam before committing to a full entity.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-register-a-company-in-vietnam/">How to register a company in Vietnam</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/compare/hanoi-vs-ho-chi-minh-city-business/">Hanoi vs Ho Chi Minh City for business</a></li>
+        <li><a href="/regulations/">Regulatory environment — overview</a> · <a href="/stats/vietnam-economy-2026/">Economy statistics</a></li>
+        <li><a href="/glossary/fdi/">FDI</a> · <a href="/glossary/sme/">SME</a> · <a href="/glossary/gen-z-gen-y/">Gen Z / Gen Y</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

@@ -1,0 +1,184 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Startup & Tech Statistics 2026 — Ecosystem, Funding & Talent Data";
+const description = "A curated roundup of Vietnam startup and tech statistics for 2026: ecosystem hubs, venture funding, key sectors, unicorns, developer talent, and what drives the scene — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-startup-tech-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Ecosystem & hubs',
+    intro: 'Vietnam has one of Southeast Asia\'s most active startup ecosystems, centered on two cities.',
+    stats: [
+      { value: 'Top-tier SEA', label: 'Regional ecosystem ranking', note: 'Among the most active in the region.' },
+      { value: 'HCMC', label: 'Largest startup hub', note: 'Most investors and consumer tech.' },
+      { value: 'Hanoi', label: 'Second hub', note: 'Deep-tech and engineering strength.' },
+      { value: 'Da Nang', label: 'Emerging tech city', note: 'Growing engineering base.' },
+      { value: 'Thousands', label: 'Active startups', note: 'Across fintech, e-commerce, SaaS.' },
+    ],
+  },
+  {
+    heading: 'Funding',
+    intro: 'Venture funding has matured from early seed activity to larger growth rounds.',
+    stats: [
+      { value: 'Significant', label: 'Annual VC funding', note: 'Cyclical with global markets.' },
+      { value: 'Fintech-led', label: 'Top-funded sector', note: 'Plus e-commerce and logistics.' },
+      { value: 'Regional + local', label: 'Investor base', note: 'SEA, regional, and global VCs.' },
+      { value: 'Maturing', label: 'Round sizes', note: 'More Series A/B than before.' },
+    ],
+  },
+  {
+    heading: 'Sectors & standouts',
+    intro: 'Fintech, e-commerce, and logistics dominate, with a handful of breakout companies.',
+    stats: [
+      { value: 'Fintech', label: 'Largest startup sector', note: 'Payments, lending, wallets.' },
+      { value: 'E-commerce', label: 'Major sector', note: 'Marketplaces and enablers.' },
+      { value: 'VNG', label: 'Vietnam\'s first unicorn', note: 'Gaming, Zalo, ZaloPay.' },
+      { value: 'MoMo / Sky Mavis', label: 'High-profile companies', note: 'Fintech and blockchain gaming.' },
+      { value: 'Gaming', label: 'Global strength', note: 'Studios with worldwide reach.' },
+    ],
+  },
+  {
+    heading: 'Talent',
+    intro: 'A large, fast-growing developer base anchors the tech sector.',
+    stats: [
+      { value: 'Large', label: 'Software developer workforce', note: 'Growing every year.' },
+      { value: 'STEM-strong', label: 'Education pipeline', note: 'Strong math/engineering base.' },
+      { value: 'Outsourcing', label: 'Established export sector', note: 'Global software services.' },
+      { value: 'Rising', label: 'Wages & seniority', note: 'Climbing with experience depth.' },
+    ],
+  },
+  {
+    heading: 'Enablers & challenges',
+    intro: 'Strong fundamentals, with capital depth and regulation as the main constraints.',
+    stats: [
+      { value: 'Digital demand', label: 'Key tailwind', note: 'Young, mobile-first users.' },
+      { value: 'Gov support', label: 'Policy direction', note: 'Digital-economy initiatives.' },
+      { value: 'Capital depth', label: 'Ongoing challenge', note: 'Later-stage funding gaps.' },
+      { value: 'Regulation', label: 'Watch area', note: 'Fintech and data rules evolving.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Startup & Tech Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam startups", "tech ecosystem", "venture capital", "fintech", "unicorn", "developers", "Ho Chi Minh City", "Hanoi"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/platforms/">Platforms</a>
+      <span aria-hidden="true">/</span>
+      <span>Startup &amp; Tech Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's startup and technology ecosystem in 2026
+        — hubs, venture funding, leading sectors, standout companies, and developer talent. Figures
+        are reference points and qualitative descriptors compiled from public sources; venture data
+        in particular is cyclical and varies across trackers. See <a href="/sources/">our
+        sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference points intended to give a directional picture of Vietnam's
+        startup and tech scene. Venture-funding figures are cyclical and vary across data
+        providers, so we favor qualitative descriptors over spurious precision. For definitions of
+        terms like fintech, super-app, and neobank, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/platforms/">Vietnam digital platforms — full overview</a></li>
+        <li><a href="/compare/grab-vs-be-vs-gojek/">Grab vs Be vs Gojek</a> · <a href="/compare/hanoi-vs-ho-chi-minh-city-business/">Hanoi vs HCMC for business</a></li>
+        <li><a href="/stats/vietnam-digital-payments-2026/">Digital Payments</a> · <a href="/stats/vietnam-economy-2026/">Economy</a> · <a href="/stats/vietnam-consumer-internet-2026/">Consumer &amp; Internet</a> statistics</li>
+        <li><a href="/glossary/fintech/">Fintech</a> · <a href="/glossary/super-app/">Super-app</a> · <a href="/glossary/neobank/">Neobank</a> (glossary)</li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/platforms/">← Platforms overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>
