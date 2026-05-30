@@ -2395,3 +2395,43 @@ h3:hover .anchor-link {
   border-radius: 0 6px 6px 0;
   color: var(--color-text);
 }
+
+/* ==========================================================================
+   Stats & comparison component polish (applies across /stats/* and /compare/*).
+   These add states/pseudo-elements the per-page scoped styles don't define,
+   so they layer on cleanly without specificity conflicts.
+   ========================================================================== */
+
+/* Stat cards: gradient accent bar on top + subtle hover lift. */
+.stat-card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+.stat-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-accent), var(--color-gold));
+  opacity: 0.85;
+}
+.stat-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+}
+.stat-value {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+/* Comparison tables: accent-tinted row hover for readability. */
+.compare-table tbody tr {
+  transition: background-color 0.15s ease;
+}
+.compare-table tbody tr:hover td {
+  background: color-mix(in srgb, var(--color-accent) 4%, transparent);
+}
+.compare-table tbody tr:hover th {
+  background: color-mix(in srgb, var(--color-accent) 9%, transparent);
+}
