@@ -2247,22 +2247,45 @@ h3:hover .anchor-link {
     --text-2xl: 1.375rem;
   }
 
+  /* Mobile header: brand left + search icon right on row one,
+     nav links wrap centered below with a divider. */
   .site-header__inner {
-    flex-direction: column;
+    flex-wrap: wrap;
     height: auto;
     padding: var(--space-3) var(--space-4);
-    gap: var(--space-3);
+    gap: var(--space-2);
+  }
+
+  .site-header__brand {
+    margin-right: auto;
   }
 
   .site-nav {
-    gap: var(--space-4);
+    order: 3;
+    width: 100%;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 0.15rem;
+    margin-left: 0;
+    padding-top: var(--space-2);
+    border-top: 1px solid var(--color-border-light);
   }
 
+  .site-nav a {
+    padding: 0.45rem 0.7rem;
+    /* roomier tap targets on touch screens */
+  }
+
+  /* Keep search reachable on mobile (no ⌘K keyboard) — icon only. */
   .search-trigger {
+    display: inline-flex;
+    margin-left: 0;
+    padding: 0.4rem 0.5rem;
+  }
+
+  .search-trigger__text,
+  .search-trigger__kbd {
     display: none;
-    /* Hide search button on mobile, use Cmd+K instead */
   }
 
   .main-content {
