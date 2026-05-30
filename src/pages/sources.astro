@@ -1,0 +1,146 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import {
+  PRIMARY_SOURCES,
+  SOURCE_CATEGORIES,
+  groupSourcesByCategory,
+} from '../data/primary-sources';
+
+const title = "Data Sources & Methodology";
+const description = "Primary data sources cited across Vietnam Market Insights — Vietnamese government bodies, the State Bank, NAPAS, stock exchanges, industry associations, and international institutions.";
+const canonical = "https://vnmarketinsights.com/sources/";
+
+const grouped = groupSourcesByCategory();
+const totalSources = PRIMARY_SOURCES.length;
+const primaryCount = PRIMARY_SOURCES.filter((s) => s.primary).length;
+
+// ItemList schema across all sources so Google understands the page as a
+// curated collection of authoritative references, not a generic links page.
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam Market Insights — Primary Sources",
+  "description": description,
+  "numberOfItems": totalSources,
+  "itemListElement": PRIMARY_SOURCES.map((s, idx) => ({
+    "@type": "ListItem",
+    "position": idx + 1,
+    "item": {
+      "@type": "Organization",
+      "name": s.name,
+      "url": s.url,
+      "description": s.description,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Methodology"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={itemListSchema}
+  mainClass="container"
+>
+  <article class="sources-page">
+    <header class="sources-header">
+      <h1>{title}</h1>
+      <p class="sources-lead">
+        Every statistic on this site is sourced from an identifiable institution.
+        This page lists the <strong>{totalSources} primary references</strong> we cite —
+        <strong>{primaryCount} official / primary sources</strong> (government agencies,
+        central bank, exchanges) and the remainder secondary research, industry
+        associations, and international institutions.
+      </p>
+    </header>
+
+    <section class="methodology">
+      <h2>How we use these sources</h2>
+      <ul>
+        <li><strong>Official figures first.</strong> For market size, transaction volumes, and regulatory facts, we cite Vietnamese government bodies, the State Bank, or sector regulators directly.</li>
+        <li><strong>Triangulation second.</strong> For market-share and growth estimates that no single official source publishes, we triangulate across industry associations (VECOM), international research (World Bank, ADB), and reputable private research (NielsenIQ, Kantar, Google–Temasek–Bain).</li>
+        <li><strong>No proprietary claims.</strong> We do not generate or sell original survey data. Anything labeled as a number on this site can be traced back to a public source listed below.</li>
+        <li><strong>Year-pinned figures.</strong> Statistics on each topic page are dated; values are refreshed annually during the quarterly review cycle.</li>
+      </ul>
+    </section>
+
+    {SOURCE_CATEGORIES.map((category) => (
+      <section class="source-group">
+        <h2>{category}</h2>
+        <ul class="source-list">
+          {grouped[category].map((source) => (
+            <li class="source-card">
+              <div class="source-card__head">
+                <a href={source.url} target="_blank" rel="noopener noreferrer" class="source-card__name">
+                  {source.name}{source.shortName ? ` (${source.shortName})` : ''}
+                </a>
+                {source.primary && <span class="source-card__badge">Primary</span>}
+              </div>
+              <p class="source-card__desc">{source.description}</p>
+              {source.usedIn.length > 0 && (
+                <p class="source-card__usage">
+                  Cited on:
+                  {source.usedIn.map((slug, idx) => (
+                    <>
+                      {' '}<a href={`/${slug}/`}>{slug.replace(/-/g, ' ')}</a>{idx < source.usedIn.length - 1 ? ',' : ''}
+                    </>
+                  ))}
+                </p>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <section class="editorial">
+      <h2>Editorial standards</h2>
+      <ul>
+        <li>No sponsored content. No affiliate links. No paid placements.</li>
+        <li>No commercial affiliation with any company, platform, or government body listed on this site.</li>
+        <li>Corrections: email a correction request and we will update the page and add a dated note in the changelog.</li>
+        <li>This site is an independent reference; statistics are educational and should not be used as the sole basis for investment, legal, or commercial decisions.</li>
+      </ul>
+    </section>
+
+    <p class="sources-footer">
+      <a href="/about/">About</a> · <a href="/changelog/">Changelog</a> · <a href="/topics/">Topics</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .sources-page { max-width: 820px; }
+  .sources-header { margin-bottom: var(--space-8); }
+  .sources-header h1 { border: none; margin-bottom: var(--space-3); }
+  .sources-lead { font-size: var(--text-lg); color: var(--color-text); line-height: 1.6; }
+  .methodology { margin: var(--space-10) 0; padding: var(--space-6); border-left: 3px solid var(--color-accent); background: var(--color-bg-subtle); border-radius: 0 6px 6px 0; }
+  .methodology h2 { margin-top: 0; }
+  .methodology ul { padding-left: var(--space-5); }
+  .methodology li { margin-bottom: var(--space-3); line-height: 1.6; }
+  .source-group { margin: var(--space-10) 0; }
+  .source-group h2 { font-size: var(--text-xl); border-bottom: 2px solid var(--color-border-light); padding-bottom: var(--space-2); }
+  .source-list { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-4); }
+  .source-card { padding: var(--space-4); border: 1px solid var(--color-border-light); border-radius: 8px; background: var(--color-bg); }
+  .source-card__head { display: flex; align-items: center; gap: var(--space-3); flex-wrap: wrap; margin-bottom: var(--space-2); }
+  .source-card__name { font-weight: 600; color: var(--color-text); text-decoration: none; }
+  .source-card__name:hover { color: var(--color-accent); text-decoration: underline; }
+  .source-card__badge {
+    font-size: var(--text-xs); font-weight: 600; padding: 2px 8px; border-radius: 999px;
+    background: var(--color-accent); color: white;
+  }
+  .source-card__desc { margin: 0 0 var(--space-2); color: var(--color-text); line-height: 1.55; }
+  .source-card__usage { margin: 0; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .source-card__usage a { color: var(--color-accent); text-decoration: none; text-transform: capitalize; }
+  .source-card__usage a:hover { text-decoration: underline; }
+  .editorial { margin: var(--space-10) 0; padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); }
+  .editorial ul { padding-left: var(--space-5); }
+  .editorial li { margin-bottom: var(--space-2); line-height: 1.6; }
+  .sources-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sources-footer a { color: var(--color-text-muted); }
+  .sources-footer a:hover { color: var(--color-accent); }
+</style>

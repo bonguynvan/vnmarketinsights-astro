@@ -8,12 +8,28 @@ const articles = (await getCollection('articles')).sort((a, b) => {
   const dateB = b.data.publishedDate ? new Date(b.data.publishedDate).valueOf() : 0;
   return dateB - dateA;
 });
+
+const site = "https://vnmarketinsights.com";
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam Market Insights — Articles",
+  "numberOfItems": articles.length,
+  "itemListElement": articles.map((entry, idx) => ({
+    "@type": "ListItem",
+    "position": idx + 1,
+    "url": `${site}/insights/${entry.slug}/`,
+    "name": entry.data.title,
+  })),
+};
 ---
 
 <BaseLayout
   title="Articles & Insights"
   description="In-depth articles on Vietnam's digital economy, ecommerce, fintech, logistics, and market structure."
   canonicalURL="https://vnmarketinsights.com/insights/"
+  pageType="CollectionPage"
+  structuredData={itemListSchema}
   mainClass="container-wide"
 >
   <article class="insights-page">

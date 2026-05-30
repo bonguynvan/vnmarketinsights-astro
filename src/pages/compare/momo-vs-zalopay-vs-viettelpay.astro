@@ -1,0 +1,269 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "MoMo vs ZaloPay vs ViettelPay — Vietnam E-Wallet Comparison (2026)";
+const description = "Side-by-side comparison of MoMo, ZaloPay, and ViettelPay — Vietnam's three largest e-wallets. Ownership, user base, integrations, agent network, strengths, and ideal use cases.";
+const canonical = "https://vnmarketinsights.com/compare/momo-vs-zalopay-vs-viettelpay/";
+
+const wallets = [
+  {
+    name: 'MoMo',
+    operator: 'M_Service JSC',
+    launched: '2010',
+    users: '~30 million',
+    primaryStrength: 'Largest user base, deepest agent network, broadest merchant acceptance',
+    bestFor: 'General consumer payments, P2P transfers, bill payments, mini-app services',
+  },
+  {
+    name: 'ZaloPay',
+    operator: 'VNG Corporation',
+    launched: '2017',
+    users: '~12 million (est.)',
+    primaryStrength: 'Native Zalo messaging integration, social-payment UX',
+    bestFor: 'Sending money inside chats, splitting bills with friends, Zalo OA storefront purchases',
+  },
+  {
+    name: 'ViettelPay',
+    operator: 'Viettel Digital Services Corporation (Viettel Group)',
+    launched: '2018',
+    users: '~20 million (est.)',
+    primaryStrength: 'Telecom-backed distribution, rural reach via Viettel store network',
+    bestFor: 'Rural users, mobile top-ups, government and utility payments, ID-verified KYC',
+  },
+];
+
+const faqs = [
+  {
+    question: "Which e-wallet has the most users in Vietnam?",
+    answer: "MoMo has the largest user base — approximately 30 million users in 2024 — making it the dominant general-purpose e-wallet. ViettelPay (around 20 million) follows, leveraging Viettel Group's telecom distribution. ZaloPay (around 12 million) is smaller but benefits from deep integration with the Zalo messaging app."
+  },
+  {
+    question: "Which Vietnamese e-wallet should a foreign business integrate first?",
+    answer: "For consumer-facing merchants seeking the widest reach, MoMo is the typical first integration due to its user base and acceptance footprint. For services targeting younger or social-first audiences, ZaloPay's Zalo Official Account integration is valuable. ViettelPay matters most for use cases requiring rural penetration or government/utility billing."
+  },
+  {
+    question: "Can foreign visitors use MoMo, ZaloPay, or ViettelPay?",
+    answer: "All three wallets are designed for Vietnamese residents and require a Vietnamese ID document (CCCD), a Vietnamese bank account, and a Vietnamese mobile number for full KYC. Foreign visitors typically cannot complete onboarding without these, though limited functionality may work for those with long-term residence permits."
+  },
+  {
+    question: "What is the difference between MoMo and VietQR?",
+    answer: "MoMo is a private e-wallet operator with its own user balance and merchant network. VietQR is a national QR standard, operated by NAPAS, that lets any bank or licensed payment provider accept payments via a single interoperable QR code. MoMo participates in VietQR — many MoMo merchants accept VietQR codes that work across all banks and wallets."
+  },
+  {
+    question: "Which wallet is best for receiving payments as a small Vietnamese seller?",
+    answer: "For online and social-commerce sellers, MoMo and VietQR (via any bank app) are the most commonly accepted by Vietnamese buyers. For sellers with a Zalo Official Account storefront, ZaloPay integration is friction-free. ViettelPay is well-suited to sellers in tier-3 cities and rural areas where Viettel's network is strongest."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Comparison"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="compare-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/payments/">Payments</a>
+      <span aria-hidden="true">/</span>
+      <span>E-Wallet Comparison</span>
+    </nav>
+
+    <header class="compare-header">
+      <h1>{title}</h1>
+      <p class="compare-lead">
+        MoMo, ZaloPay, and ViettelPay are the three e-wallets that matter most in Vietnam.
+        This page compares them by ownership, user base, primary use cases, and the situations
+        in which each is the right default. Figures are 2024–2025 reference estimates; user
+        counts are operator-reported or industry-triangulated.
+      </p>
+    </header>
+
+    <section>
+      <h2>At a glance</h2>
+      <div class="compare-table-wrap">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Dimension</th>
+              {wallets.map(w => <th>{w.name}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Operator</th>
+              {wallets.map(w => <td>{w.operator}</td>)}
+            </tr>
+            <tr>
+              <th>Launched</th>
+              {wallets.map(w => <td>{w.launched}</td>)}
+            </tr>
+            <tr>
+              <th>Users</th>
+              {wallets.map(w => <td>{w.users}</td>)}
+            </tr>
+            <tr>
+              <th>Primary strength</th>
+              {wallets.map(w => <td>{w.primaryStrength}</td>)}
+            </tr>
+            <tr>
+              <th>Best for</th>
+              {wallets.map(w => <td>{w.bestFor}</td>)}
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>MoMo</h2>
+      <p>
+        MoMo, operated by M_Service JSC, is Vietnam's largest e-wallet by active user base.
+        It runs the country's most extensive cash-in / cash-out agent network — small shops
+        across cities and rural districts where users can top up their balance without a bank
+        account. MoMo also exposes a mini-app platform inside its main app, hosting
+        third-party services for bill payments, transit, insurance, lending, and savings.
+        For most general consumer payments, ride-hailing tips, and peer transfers, MoMo is
+        the default in Vietnamese urban markets.
+      </p>
+      <p>
+        <strong>Acceptance:</strong> Broadest of the three. Most major e-commerce platforms,
+        food-delivery apps, supermarket chains, convenience stores, and a long tail of small
+        merchants accept MoMo via QR code or in-app checkout.
+      </p>
+    </section>
+
+    <section>
+      <h2>ZaloPay</h2>
+      <p>
+        ZaloPay, built by VNG Corporation, lives inside the Zalo messaging app — the most
+        widely used messaging platform in Vietnam. Its native advantage is social payments:
+        sending money inside a chat, splitting a restaurant bill in a group, or paying a
+        Zalo Official Account merchant directly from a conversation. ZaloPay's user base is
+        smaller than MoMo's but skews younger and more social-commerce-active.
+      </p>
+      <p>
+        <strong>Acceptance:</strong> Strong on Zalo OA merchant storefronts; moderate but
+        growing on general e-commerce and offline retail. Often available as a secondary
+        payment option alongside MoMo.
+      </p>
+    </section>
+
+    <section>
+      <h2>ViettelPay</h2>
+      <p>
+        ViettelPay is operated by Viettel Digital Services Corporation, a subsidiary of
+        state-owned telecom giant Viettel Group. Its differentiator is distribution: every
+        Viettel telecom point of sale across Vietnam — including tier-3 cities, towns, and
+        rural communes where bank branches are sparse — serves as a ViettelPay registration
+        and top-up location. That gives ViettelPay structural reach into demographics other
+        wallets struggle to onboard.
+      </p>
+      <p>
+        <strong>Acceptance:</strong> Strong on government services, mobile top-ups, utility
+        bill payments, and merchants in Viettel-heavy areas. Less dominant in
+        urban-millennial e-commerce contexts than MoMo or ZaloPay.
+      </p>
+    </section>
+
+    <section>
+      <h2>How to choose</h2>
+      <ul>
+        <li><strong>Building a consumer app or e-commerce checkout?</strong> Integrate MoMo first for reach, then ZaloPay for social-commerce coverage.</li>
+        <li><strong>Targeting Zalo-native audiences?</strong> ZaloPay's chat-embedded payment flow is the highest-conversion path.</li>
+        <li><strong>Rolling out to rural areas or utility payments?</strong> ViettelPay's agent network and government-service integrations are unmatched.</li>
+        <li><strong>Want one universal acceptance method?</strong> Use VietQR alongside any wallet — every bank app and most e-wallets honour it.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/payments/">Vietnam Payments System — full overview</a></li>
+        <li><a href="/glossary/momo/">MoMo (glossary)</a> · <a href="/glossary/zalopay/">ZaloPay (glossary)</a> · <a href="/glossary/viettelpay/">ViettelPay (glossary)</a></li>
+        <li><a href="/glossary/vietqr/">VietQR</a> · <a href="/glossary/napas/">NAPAS</a> · <a href="/glossary/e-wallet/">E-wallet</a></li>
+        <li><a href="/insights/digital-payments/">Vietnam Digital Payments — insights article</a></li>
+      </ul>
+    </section>
+
+    <p class="compare-footer">
+      <a href="/payments/">← Payments overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .compare-page { max-width: 860px; }
+  .breadcrumb {
+    display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap;
+    font-size: var(--text-sm); color: var(--color-text-muted);
+    margin-bottom: var(--space-6);
+  }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .compare-header { margin-bottom: var(--space-8); }
+  .compare-header h1 { border: none; margin-bottom: var(--space-3); }
+  .compare-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+
+  .compare-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .compare-table {
+    width: 100%; border-collapse: collapse; font-size: var(--text-sm);
+    background: var(--color-bg);
+  }
+  .compare-table th, .compare-table td {
+    border: 1px solid var(--color-border-light);
+    padding: var(--space-3) var(--space-4);
+    text-align: left; vertical-align: top;
+  }
+  .compare-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .compare-table tbody th { background: var(--color-bg-subtle); font-weight: 500; white-space: nowrap; }
+
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+
+  .compare-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .compare-footer a { color: var(--color-text-muted); }
+  .compare-footer a:hover { color: var(--color-accent); }
+</style>

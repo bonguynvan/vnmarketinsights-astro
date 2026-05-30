@@ -278,7 +278,7 @@ Vietnam's retail market reached approximately $180-200 billion in 2024, represen
 - Vietnam Retail Association
 - NielsenIQ Retail Measurement
 - Kantar Worldpanel Vietnam
-- Company annual reports (Co.op, TGDĐ, etc.)
+- Company annual reports (Saigon Co.op, Thegioididong / Mobile World Investment Corporation, Masan, etc.)
 - World Bank Retail Sector Analysis
 - General Statistics Office
 - Euromonitor International

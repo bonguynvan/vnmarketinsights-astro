@@ -11,12 +11,28 @@ const topics = [
   { slug: 'platforms', title: 'Platforms', description: 'Super-apps, social platforms, and digital ecosystems.' },
   { slug: 'financial-markets', title: 'Financial Markets', description: 'Stock market, exchanges, and investment landscape in Vietnam.' },
 ];
+
+const site = "https://vnmarketinsights.com";
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam Market Reference Topics",
+  "numberOfItems": topics.length,
+  "itemListElement": topics.map((topic, idx) => ({
+    "@type": "ListItem",
+    "position": idx + 1,
+    "url": `${site}/${topic.slug}/`,
+    "name": topic.title,
+  })),
+};
 ---
 
 <BaseLayout
   title="Topics"
   description="Structured reference topics on Vietnam's market: payments, e-commerce, logistics, consumers, regulations, platforms, and financial markets."
   canonicalURL="https://vnmarketinsights.com/topics/"
+  pageType="CollectionPage"
+  structuredData={itemListSchema}
   mainClass="container-wide"
 >
   <article class="topics-page">
