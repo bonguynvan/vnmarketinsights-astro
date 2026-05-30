@@ -1,0 +1,104 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Market Guides — Selling, Market Entry & How-To (2026)";
+const description = "Practical guides to Vietnam's market: how to sell on Shopee, market entry for foreign businesses, and more step-by-step playbooks for operators and investors.";
+const canonical = "https://vnmarketinsights.com/guides/";
+
+const guides = [
+  {
+    href: '/guides/how-to-sell-on-shopee-vietnam/',
+    title: 'How to Sell on Shopee in Vietnam',
+    blurb: 'Step-by-step seller guide: account setup, listings, fees, logistics, and the promotion mechanics that drive sales on Vietnam\'s largest marketplace.',
+    tag: 'E-commerce',
+  },
+  {
+    href: '/guides/vietnam-market-entry-guide/',
+    title: 'Vietnam Market Entry Guide for Foreign Businesses',
+    blurb: 'Entry models, foreign ownership rules, why Vietnam is attractive, key sectors, risks, and a practical path to test and scale in the market.',
+    tag: 'Market entry',
+  },
+];
+
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam Market Guides",
+  "itemListElement": guides.map((g, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "url": `https://vnmarketinsights.com${g.href}`,
+    "name": g.title
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="CollectionPage"
+  structuredData={itemListSchema}
+  mainClass="container"
+>
+  <div class="guides-index">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <span>Guides</span>
+    </nav>
+
+    <header class="guides-header">
+      <h1>Vietnam Market Guides</h1>
+      <p class="guides-lead">
+        Practical, step-by-step playbooks for operating in and entering Vietnam's market —
+        written for sellers, brands, and investors. Each guide is grounded in how the market
+        actually works, with links to deeper data and comparisons.
+      </p>
+    </header>
+
+    <ul class="guide-cards">
+      {guides.map(guide => (
+        <li class="guide-card">
+          <a href={guide.href}>
+            <span class="guide-tag">{guide.tag}</span>
+            <h2>{guide.title}</h2>
+            <p>{guide.blurb}</p>
+            <span class="guide-cta">Read guide →</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    <section class="more-section">
+      <h2>Explore more</h2>
+      <ul class="related-list">
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Compare e-commerce platforms</a> · <a href="/compare/ghn-vs-ghtk-vs-jt-express/">compare carriers</a> · <a href="/compare/momo-vs-zalopay-vs-viettelpay/">compare wallets</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">Vietnam e-commerce statistics 2026</a></li>
+        <li><a href="/topics/">All topic hubs</a> · <a href="/glossary/">Glossary</a> · <a href="/sources/">Data sources</a></li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<style>
+  .guides-index { max-width: 900px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guides-header { margin-bottom: var(--space-8); }
+  .guides-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guides-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-cards { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--space-4); }
+  .guide-card a { display: block; height: 100%; border: 1px solid var(--color-border-light); border-radius: 12px; padding: var(--space-5); background: var(--color-bg-subtle); text-decoration: none; color: inherit; transition: border-color var(--duration-fast, 150ms) ease, transform var(--duration-fast, 150ms) ease; }
+  .guide-card a:hover { border-color: var(--color-accent); transform: translateY(-2px); }
+  .guide-tag { display: inline-block; font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent); font-weight: 600; margin-bottom: var(--space-2); }
+  .guide-card h2 { font-size: var(--text-xl); margin: 0 0 var(--space-2); border: none; }
+  .guide-card p { margin: 0 0 var(--space-3); line-height: 1.55; color: var(--color-text-muted); }
+  .guide-cta { font-weight: 600; color: var(--color-accent); font-size: var(--text-sm); }
+  .more-section { margin-top: var(--space-10); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+</style>

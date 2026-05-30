@@ -1,0 +1,211 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Sell on Shopee in Vietnam (2026) — Step-by-Step Seller Guide";
+const description = "A practical step-by-step guide to selling on Shopee Vietnam: registering a seller account, listing products, fees, logistics, promotions, and tips to win the buy box.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-sell-on-shopee-vietnam/";
+
+const steps = [
+  {
+    name: 'Register a Shopee seller account',
+    text: 'Sign up at Shopee Seller Centre with a Vietnamese phone number and email. Verify your identity (KYC), then add a bank account for payouts. Foreign sellers typically operate through a local entity, a Vietnamese partner, or Shopee\'s cross-border (SIP) program.',
+  },
+  {
+    name: 'Set up your shop profile',
+    text: 'Add a clear shop name, logo, description, and policies (shipping, returns). Complete shop settings before listing — a finished profile converts better and unlocks more features.',
+  },
+  {
+    name: 'List your products',
+    text: 'Create listings with high-quality images, keyword-rich titles, accurate categories, attributes, weight, and dimensions. Weight and dimensions matter because they determine shipping fees and carrier eligibility.',
+  },
+  {
+    name: 'Connect logistics',
+    text: 'Enable shipping channels — Shopee\'s own SPX Express plus integrated carriers (GHN, GHTK, J&T). Choosing multiple carriers improves coverage and delivery speed across cities and rural areas.',
+  },
+  {
+    name: 'Price for the promotion engine',
+    text: 'Shopee is promotion-driven. Build margin to absorb vouchers, free-shipping programs, and flash sales. Sellers who opt into campaigns and ads get dramatically more visibility than those relying on organic listings alone.',
+  },
+  {
+    name: 'Launch, fulfill, and optimize',
+    text: 'Ship orders within the required handover window to protect your seller rating. Track conversion, clicks, and rating; iterate on titles, images, and price. Strong fulfillment metrics and reviews drive ranking over time.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Can foreigners sell on Shopee Vietnam?",
+    answer: "Not directly as an individual in most cases. Foreign sellers typically operate through a registered Vietnamese business entity, partner with a local seller or distributor, or use Shopee's cross-border program (Shopee International Platform / SIP) where supported. A local bank account and KYC verification are required for payouts."
+  },
+  {
+    question: "How much does it cost to sell on Shopee in Vietnam?",
+    answer: "There is no upfront listing fee, but Shopee charges a per-order commission (typically ~2–4% depending on category), payment-processing fees, and optional advertising and voucher costs. For sellers running on-platform ads and joining free-shipping programs, the effective take rate often lands in the 10–15% range once everything is included."
+  },
+  {
+    question: "How do payouts work for Shopee sellers?",
+    answer: "Order proceeds (minus fees) are held in your Shopee seller wallet/balance and released to your linked Vietnamese bank account on a settlement cycle after the buyer confirms receipt or the auto-confirm window passes. Cash-on-delivery orders are reconciled once the carrier remits the collected cash."
+  },
+  {
+    question: "What sells best on Shopee Vietnam?",
+    answer: "High-velocity, value-priced everyday categories perform well: fashion and accessories, beauty, home goods, mobile accessories, and FMCG. Shopee's mass-market, price-sensitive audience rewards competitive pricing, strong reviews, and participation in flash sales and vouchers."
+  },
+  {
+    question: "How do I get my products to rank on Shopee?",
+    answer: "Ranking is driven by keyword-relevant titles and attributes, conversion rate, sales velocity, review quality, on-time fulfillment, and ad spend. New sellers usually combine optimized listings with Shopee Ads and campaign participation to build initial momentum before organic ranking takes over."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Sell on Shopee in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Sell on Shopee Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Shopee is Vietnam's largest e-commerce platform, with roughly 60–65% of marketplace GMV.
+        This guide walks through how to start selling on Shopee Vietnam — from account
+        registration and product listing to fees, logistics, and the promotion mechanics that
+        actually drive sales. It's written for sellers and brands evaluating the Vietnamese
+        market; details and fees change, so confirm current terms in Shopee Seller Centre.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Understanding Shopee's fees</h2>
+      <p>
+        There's no fee to list, but selling on Shopee carries three layers of cost: a per-order
+        <strong> commission</strong> (roughly 2–4% by category), <strong>payment-processing fees</strong>,
+        and optional <strong>advertising and voucher</strong> spend. The headline commission
+        understates the real cost — sellers who compete seriously join free-shipping programs and
+        buy Shopee Ads, pushing the effective take rate into the 10–15% range. Price your products
+        with enough margin to fund promotions, or you'll be invisible against sellers who do.
+      </p>
+    </section>
+
+    <section>
+      <h2>Logistics and fulfillment</h2>
+      <p>
+        Shopee operates its own <strong>SPX Express</strong> network and also integrates major
+        third-party carriers — <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T Express</a>.
+        Enable several channels so orders route efficiently across HCMC, Hanoi, and rural areas.
+        Same-day and next-day delivery are standard in the two big metros; tier-2/3 cities
+        typically see 2–4 days. Accurate weight and dimensions on each listing are essential —
+        they determine shipping fees and which carriers can handle the parcel.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop — platform comparison</a></li>
+        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express — carrier comparison</a></li>
+        <li><a href="/ecommerce/">Vietnam E-commerce Market — overview</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">Vietnam E-commerce Statistics 2026</a></li>
+        <li><a href="/glossary/gmv/">GMV (glossary)</a> · <a href="/glossary/marketplace/">Marketplace (glossary)</a> · <a href="/glossary/cod/">COD (glossary)</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

@@ -1,0 +1,183 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Digital Payments Statistics 2026 — E-Wallets, QR & Fintech Data";
+const description = "A curated roundup of Vietnam digital payments statistics for 2026: e-wallet users, MoMo/ZaloPay share, QR adoption, cashless growth, BNPL, and fintech market data — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-digital-payments-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'E-wallets & adoption',
+    intro: 'E-wallets are the front door to Vietnam\'s cashless transition, led by a handful of super-apps.',
+    stats: [
+      { value: '~50M+', label: 'Active e-wallet users', note: 'Across MoMo, ZaloPay, ViettelPay and others.' },
+      { value: '~60%+', label: 'MoMo share of the e-wallet market', note: 'Dominant super-app wallet.' },
+      { value: '3', label: 'Leading wallets (MoMo, ZaloPay, ViettelPay)', note: 'Plus bank and platform wallets.' },
+      { value: 'Super-app', label: 'Direction of leading wallets', note: 'Payments + lending + services bundled.' },
+      { value: 'Young, urban', label: 'Core e-wallet demographic', note: 'Expanding into tier-2/3 cities.' },
+    ],
+  },
+  {
+    heading: 'QR & cashless payments',
+    intro: 'Interoperable QR has been the breakout rail, turning small merchants cashless fast.',
+    stats: [
+      { value: 'Rapid', label: 'Growth of QR-code payments', note: 'VietQR interoperability accelerated adoption.' },
+      { value: 'Falling', label: 'Cash share of transactions', note: 'Government cashless targets push the shift.' },
+      { value: 'Nationwide', label: 'VietQR interoperability', note: 'Standardized QR across banks and wallets.' },
+      { value: 'Merchants', label: 'Fastest-growing QR segment', note: 'Street vendors to chains accept QR.' },
+    ],
+  },
+  {
+    heading: 'Banking & infrastructure',
+    intro: 'Account ownership and real-time rails underpin the wallet and QR boom.',
+    stats: [
+      { value: 'Majority', label: 'Adults with a bank account', note: 'Rising financial inclusion.' },
+      { value: 'Real-time', label: 'Interbank transfer capability', note: 'Instant transfers via NAPAS rails.' },
+      { value: 'Mobile-first', label: 'Primary banking channel', note: 'App-based banking dominates new usage.' },
+      { value: 'KYC', label: 'Onboarding requirement', note: 'Identity verification for wallets and accounts.' },
+    ],
+  },
+  {
+    heading: 'Fintech & credit',
+    intro: 'Beyond payments, fintech is expanding into lending, BNPL, and embedded finance.',
+    stats: [
+      { value: 'Emerging', label: 'Buy-now-pay-later (BNPL) adoption', note: 'Early but growing among younger buyers.' },
+      { value: 'Growing', label: 'Digital lending and consumer credit', note: 'Wallet-embedded credit expanding.' },
+      { value: 'Active', label: 'Fintech startup ecosystem', note: 'Payments, lending, wealth, insurtech.' },
+      { value: 'Tightening', label: 'Regulatory framework for fintech', note: 'Sandbox and licensing evolving.' },
+    ],
+  },
+  {
+    heading: 'E-commerce payments',
+    intro: 'Online checkout is shifting from cash-on-delivery toward digital methods.',
+    stats: [
+      { value: 'Declining', label: 'Cash-on-delivery (COD) share of e-commerce', note: 'Still significant but shrinking yearly.' },
+      { value: 'Rising', label: 'Wallet & card share at checkout', note: 'Platforms nudge prepaid with incentives.' },
+      { value: 'Bundled', label: 'Wallet-platform integration', note: 'ZaloPay-Zalo, platform-native wallets.' },
+      { value: 'Vouchers', label: 'Key driver of prepaid adoption', note: 'Discounts steer buyers off COD.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Digital Payments Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam digital payments", "e-wallet", "MoMo", "QR payment", "fintech", "cashless", "BNPL"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/payments/">Payments</a>
+      <span aria-hidden="true">/</span>
+      <span>Digital Payments Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's cashless transition in 2026 — e-wallet
+        adoption, QR payments, banking infrastructure, fintech, and how online checkout is moving
+        away from cash. Figures are reference estimates compiled from public industry reports and
+        primary sources; ranges reflect differences across analysts. See
+        <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference estimates intended to give a directional picture of
+        Vietnam's digital payments market. Where analysts disagree, we present qualitative
+        descriptors or ranges rather than spurious precision. For definitions of terms like
+        e-wallet, QR payment, and BNPL, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/payments/">Digital Payments &amp; Fintech — full overview</a></li>
+        <li><a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay — wallet comparison</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">Vietnam E-commerce Statistics 2026</a></li>
+        <li><a href="/glossary/e-wallet/">E-wallet (glossary)</a> · <a href="/glossary/qr-payment/">QR payment (glossary)</a> · <a href="/glossary/fintech/">Fintech (glossary)</a> · <a href="/glossary/buy-now-pay-later/">BNPL (glossary)</a></li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/payments/">← Payments overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>

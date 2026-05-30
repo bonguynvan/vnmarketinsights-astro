@@ -1,0 +1,200 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Market Entry Guide for Foreign Businesses (2026)";
+const description = "How foreign companies enter the Vietnamese market: entry models, foreign ownership rules, why Vietnam is attractive, key sectors, risks, and a practical step-by-step path.";
+const canonical = "https://vnmarketinsights.com/guides/vietnam-market-entry-guide/";
+
+const whyPoints = [
+  { h: 'Large, young population', p: 'About 100 million people with a young, digitally native, mobile-first consumer base — a deep and growing demand pool.' },
+  { h: 'Fast-growing digital economy', p: 'One of Southeast Asia\'s fastest-growing internet economies, led by e-commerce, digital payments, and online services.' },
+  { h: 'Manufacturing & FDI magnet', p: 'A central node in "China + 1" supply-chain diversification, attracting sustained foreign direct investment (FDI) in manufacturing and tech.' },
+  { h: 'Trade-agreement access', p: 'Membership in CPTPP, EVFTA, RCEP and other agreements gives exporters preferential access to major markets.' },
+];
+
+const entryModels = [
+  { name: '100% foreign-owned enterprise (WFOE/FIE)', detail: 'Full control via a foreign-invested entity. Allowed in many sectors, but some remain restricted or capped by foreign ownership limits.' },
+  { name: 'Joint venture', detail: 'Partner with a local company. Often the route where foreign ownership is restricted, or to gain local market knowledge and distribution.' },
+  { name: 'Representative office', detail: 'Low-commitment presence for market research and liaison. Cannot generate direct revenue, but useful for scoping.' },
+  { name: 'Distributor / local partner', detail: 'Sell through an established Vietnamese distributor or marketplace seller. Fastest, lowest-capital path to test demand.' },
+  { name: 'Cross-border e-commerce', detail: 'Reach Vietnamese consumers via platform cross-border programs before committing to a local entity.' },
+];
+
+const faqs = [
+  {
+    question: "Why are foreign companies entering Vietnam?",
+    answer: "Vietnam combines a large young population (~100 million), one of the region's fastest-growing digital economies, a strong manufacturing base benefiting from supply-chain diversification ('China + 1'), and preferential market access through trade agreements like CPTPP, EVFTA, and RCEP. Together these make it one of Southeast Asia's most attractive growth markets."
+  },
+  {
+    question: "Can a foreign company be 100% foreign-owned in Vietnam?",
+    answer: "In many sectors, yes — a foreign investor can establish a 100% foreign-owned enterprise. However, certain sectors are restricted or subject to foreign ownership limits (caps on the percentage a foreigner may hold), and some require a joint venture with a local partner. The applicable limit depends on the specific industry and Vietnam's commitments under WTO and its trade agreements."
+  },
+  {
+    question: "What is the fastest way to enter the Vietnamese market?",
+    answer: "Selling through a local distributor, partner, or e-commerce marketplace (including cross-border programs on Shopee, Lazada, or TikTok Shop) is the fastest, lowest-capital way to test demand. Setting up a representative office allows on-the-ground research without direct revenue. Establishing a foreign-invested entity gives full control but takes longer and requires more capital and licensing."
+  },
+  {
+    question: "What are the main risks of entering Vietnam?",
+    answer: "Common challenges include navigating licensing and sector-specific foreign ownership rules, administrative and regulatory complexity, finding reliable local partners, intellectual-property protection, and a competitive, price-sensitive consumer market. A clear entry model, local legal counsel, and realistic margin planning materially reduce these risks."
+  },
+  {
+    question: "Which sectors are most attractive for foreign investment in Vietnam?",
+    answer: "High-interest sectors include manufacturing and electronics (supply-chain diversification), e-commerce and digital services, fintech and digital payments, logistics, consumer goods and retail, and renewable energy. The digital economy in particular offers fast growth, while manufacturing benefits from Vietnam's trade-agreement access and competitive labor."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Vietnam Market Entry</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Vietnam is one of Southeast Asia's most attractive growth markets — a young population of
+        about 100 million, a fast-growing digital economy, and deep trade-agreement access. This
+        guide explains why foreign companies are entering, the main entry models available, how
+        foreign ownership rules work, and a practical path to test and scale. It's an orientation,
+        not legal advice — engage local counsel before committing capital.
+      </p>
+    </header>
+
+    <section>
+      <h2>Why Vietnam</h2>
+      <div class="card-grid">
+        {whyPoints.map(point => (
+          <div class="info-card">
+            <h3>{point.h}</h3>
+            <p>{point.p}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Market entry models</h2>
+      <p>
+        There's no single right way to enter Vietnam — the best model depends on your sector,
+        capital, control needs, and risk appetite. The common options, roughly from lowest to
+        highest commitment:
+      </p>
+      <ul class="model-list">
+        {entryModels.map(model => (
+          <li class="model-item">
+            <strong>{model.name}:</strong> {model.detail}
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Foreign ownership rules</h2>
+      <p>
+        Vietnam permits 100% foreign ownership in many sectors, but others are restricted or
+        capped by a <a href="/glossary/foreign-ownership-limit/">foreign ownership limit</a> —
+        the maximum stake a foreign investor may hold in a given industry. These limits stem from
+        Vietnam's WTO commitments and its trade agreements, and they vary significantly by sector
+        (for example, distribution, banking, and certain services have specific conditions). Always
+        confirm the current limit for your exact business line before choosing an entry model.
+      </p>
+    </section>
+
+    <section>
+      <h2>A practical path</h2>
+      <ol class="step-list-simple">
+        <li><strong>Validate demand cheaply</strong> — sell via a distributor or cross-border e-commerce before committing capital.</li>
+        <li><strong>Scope on the ground</strong> — a representative office or local advisors to understand regulation, competition, and partners.</li>
+        <li><strong>Choose an entry model</strong> — match sector ownership rules to your control and capital needs.</li>
+        <li><strong>License and incorporate</strong> — work with local legal counsel on investment registration and business licensing.</li>
+        <li><strong>Localize and scale</strong> — adapt pricing, product, payments, and logistics to Vietnamese consumer behavior.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/regulations/">Regulatory environment in Vietnam — overview</a></li>
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a></li>
+        <li><a href="/ecommerce/">E-commerce market — overview</a> · <a href="/payments/">Digital payments — overview</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a></li>
+        <li><a href="/glossary/fdi/">FDI (glossary)</a> · <a href="/glossary/foreign-ownership-limit/">Foreign ownership limit (glossary)</a> · <a href="/glossary/sme/">SME (glossary)</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-4); margin: var(--space-4) 0; }
+  .info-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .info-card h3 { margin: 0 0 var(--space-2); font-size: var(--text-base); }
+  .info-card p { margin: 0; line-height: 1.55; color: var(--color-text-muted); font-size: var(--text-sm); }
+  .model-list, .step-list-simple { margin: var(--space-4) 0; padding-left: 1.25rem; }
+  .model-item, .step-list-simple li { margin-bottom: var(--space-3); line-height: 1.6; }
+  .info-card a, .model-item a, section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
