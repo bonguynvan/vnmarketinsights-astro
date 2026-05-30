@@ -1,0 +1,204 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Accept Payments in Vietnam (2026) — Merchant & Business Guide";
+const description = "How businesses accept payments in Vietnam: which methods buyers expect, VietQR, e-wallets, cards, COD, payment gateways, fees, and compliance — a practical setup guide.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-accept-payments-in-vietnam/";
+
+const steps = [
+  {
+    name: 'Know what buyers expect',
+    text: 'Vietnamese customers pay via VietQR bank transfers, e-wallets (MoMo, ZaloPay, ViettelPay), domestic and international cards, and cash-on-delivery (COD) for e-commerce. Offering the methods your segment actually uses is the single biggest driver of conversion.',
+  },
+  {
+    name: 'Set up a Vietnamese business bank account',
+    text: 'A local business account (and entity) is the foundation for receiving VietQR transfers and settling card and wallet payouts. Foreign businesses typically work through a registered Vietnamese entity or a local partner/PSP.',
+  },
+  {
+    name: 'Enable VietQR',
+    text: 'VietQR is the national interoperable QR standard routed through NAPAS — one QR code accepts instant transfers from any bank or wallet. It is low-cost and near-universal; for most merchants it is the default in-person and invoice payment method.',
+  },
+  {
+    name: 'Add e-wallets',
+    text: 'Integrate the major wallets — MoMo (largest), ZaloPay, ViettelPay — directly or via a payment gateway. Wallets matter for younger, urban, mobile-first buyers and for in-app/online checkout.',
+  },
+  {
+    name: 'Integrate a payment gateway / PSP',
+    text: 'For online checkout, a payment service provider (e.g. VNPay, OnePay, MoMo, or platform-native processors) bundles cards, wallets, and QR into one integration with settlement and reconciliation. Compare take rates, payout timelines, and supported methods.',
+  },
+  {
+    name: 'Handle COD and reconciliation',
+    text: 'For e-commerce, cash-on-delivery is still significant. Carriers (GHN, GHTK, J&T) collect cash and remit it on a cycle — factor remittance speed into cash flow, and reconcile COD, wallet, and card settlements against orders.',
+  },
+  {
+    name: 'Stay compliant',
+    text: 'Payment intermediary services in Vietnam are regulated by the State Bank of Vietnam (e.g. Circular 19/2016/TT-NHNN). Use licensed providers, follow KYC rules, and keep records — especially for refunds, chargebacks, and cross-border flows.',
+  },
+];
+
+const faqs = [
+  {
+    question: "What payment methods should a business accept in Vietnam?",
+    answer: "At minimum: VietQR bank transfers (near-universal, low-cost), the major e-wallets (MoMo, ZaloPay, ViettelPay), debit/credit cards (NAPAS domestic plus Visa/Mastercard), and — for e-commerce — cash-on-delivery (COD). The right mix depends on your audience: urban/young buyers lean on wallets and QR, while rural and first-time buyers still use COD."
+  },
+  {
+    question: "How does a merchant accept VietQR payments?",
+    answer: "VietQR works through NAPAS: you display a static or dynamic QR code (via your bank's merchant service or a payment gateway), and the customer scans it inside any bank or wallet app to send an instant transfer. It is interoperable across all participating institutions and is typically the cheapest way to take payments."
+  },
+  {
+    question: "Can a foreign business accept payments in Vietnam?",
+    answer: "Usually through a registered Vietnamese entity, a local partner, or a licensed payment service provider that settles to an eligible account. Direct collection in Vietnamese dong generally requires local banking relationships, and payment-intermediary activity is regulated by the State Bank of Vietnam, so most foreign businesses route through a local PSP or marketplace."
+  },
+  {
+    question: "What are payment gateway fees in Vietnam?",
+    answer: "Fees vary by method and provider. VietQR/bank transfers are typically the cheapest (often near-zero for consumer transfers); cards carry interchange-style fees (commonly a couple of percent); e-wallets and gateways charge a per-transaction percentage plus possible fixed fees. Always compare take rate, settlement timeline, and supported methods across PSPs."
+  },
+  {
+    question: "Is cash-on-delivery still necessary in Vietnam?",
+    answer: "For broad e-commerce reach, often yes — COD remains significant, especially outside major cities and for first-time buyers, though its share is declining as wallets and QR grow. Many merchants offer COD alongside prepaid options and use vouchers or small discounts to nudge buyers toward cheaper, faster prepaid methods."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Accept Payments in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Accept Payments in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Accepting payments in Vietnam means meeting buyers where they are — VietQR bank transfers,
+        e-wallets, cards, and cash-on-delivery. This guide walks merchants and businesses through
+        the methods that matter, how to set up VietQR and wallets, choosing a payment gateway,
+        handling COD, and staying compliant with State Bank of Vietnam rules. Details and fees
+        change, so confirm current terms with your bank or provider.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>VietQR vs wallets vs cards vs COD</h2>
+      <p>
+        No single method wins. <a href="/glossary/vietqr/">VietQR</a> (routed via
+        <a href="/glossary/napas/">NAPAS</a>) is cheapest and near-universal for transfers;
+        <a href="/glossary/e-wallet/">e-wallets</a> capture mobile-first urban buyers;
+        cards serve higher-value and cross-border purchases; and
+        <a href="/glossary/cod/">cash-on-delivery</a> still reaches rural and first-time buyers.
+        Most merchants offer several and let the mix settle by segment.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/payments/">Vietnam payments system — overview</a></li>
+        <li><a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay — wallet comparison</a></li>
+        <li><a href="/stats/vietnam-digital-payments-2026/">Vietnam Digital Payments Statistics 2026</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a></li>
+        <li><a href="/glossary/vietqr/">VietQR</a> · <a href="/glossary/napas/">NAPAS</a> · <a href="/glossary/e-wallet/">E-wallet</a> · <a href="/glossary/cod/">COD</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

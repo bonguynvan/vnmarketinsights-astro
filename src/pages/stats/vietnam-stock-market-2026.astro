@@ -1,0 +1,184 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Stock Market Statistics 2026 — VN-Index, Investors & Market Data";
+const description = "A curated roundup of Vietnam stock market statistics for 2026: exchanges, the VN-Index and VN30, market capitalization, investor base, foreign ownership, sectors, and classification — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-stock-market-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Exchanges & indices',
+    intro: 'Vietnam\'s equity market runs across two exchanges plus an unlisted-company board.',
+    stats: [
+      { value: 'HOSE', label: 'Main exchange (Ho Chi Minh City)', note: 'Home of the VN-Index.' },
+      { value: 'HNX', label: 'Hanoi Stock Exchange', note: 'Smaller-cap and bonds.' },
+      { value: 'UPCoM', label: 'Board for unlisted public companies', note: 'Pre-listing / lighter requirements.' },
+      { value: 'VN-Index', label: 'Benchmark index (all HOSE stocks)', note: 'Headline market gauge.' },
+      { value: 'VN30', label: 'Top 30 large, liquid stocks', note: 'Blue-chip sub-index; futures basis.' },
+    ],
+  },
+  {
+    heading: 'Size & listings',
+    intro: 'The market has grown into a meaningful regional venue by capitalization and listings.',
+    stats: [
+      { value: 'Hundreds', label: 'Listed companies across HOSE/HNX', note: 'Plus many on UPCoM.' },
+      { value: 'Large', label: 'Total market capitalization', note: 'A significant share of GDP.' },
+      { value: 'Growing', label: 'Market cap-to-GDP trend', note: 'Deepening capital markets.' },
+      { value: 'Concentrated', label: 'Index weighting', note: 'Banks and real estate dominate.' },
+    ],
+  },
+  {
+    heading: 'Investors',
+    intro: 'Retail investors dominate turnover, with foreign institutions an influential minority.',
+    stats: [
+      { value: 'Retail-led', label: 'Share of daily trading turnover', note: 'Among the most retail-driven in Asia.' },
+      { value: 'Millions', label: 'Domestic trading accounts', note: 'Rapid retail account growth.' },
+      { value: 'Influential', label: 'Foreign institutional participation', note: 'Watched for flow signals.' },
+      { value: 'Foreign room', label: 'Key constraint for foreigners', note: 'Per-stock ownership caps.' },
+    ],
+  },
+  {
+    heading: 'Access & foreign ownership',
+    intro: 'Foreign access is open but gated by trading-code setup and per-stock ownership limits.',
+    stats: [
+      { value: 'Required', label: 'Securities trading code (via VSD)', note: 'Before foreigners can trade.' },
+      { value: 'IICA', label: 'Indirect investment capital account', note: 'For compliant fund flows.' },
+      { value: 'Caps', label: 'Foreign ownership limits by sector', note: 'Often up to 49%; lower for banks.' },
+      { value: 'ETFs', label: 'Simplest access route', note: 'Domestic and offshore VN-focused ETFs.' },
+    ],
+  },
+  {
+    heading: 'Classification & outlook',
+    intro: 'A frontier-market label with a long-discussed emerging-market upgrade as a catalyst.',
+    stats: [
+      { value: 'Frontier', label: 'Current MSCI classification', note: 'FTSE upgrade watch ongoing.' },
+      { value: 'Upgrade watch', label: 'Potential EM reclassification', note: 'A key structural catalyst.' },
+      { value: 'Reforms', label: 'Market-access improvements', note: 'Settlement, foreign room, disclosure.' },
+      { value: 'Volatile', label: 'Historical price behavior', note: 'Higher beta than developed markets.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Stock Market Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam stock market", "VN-Index", "VN30", "HOSE", "market capitalization", "foreign ownership", "frontier market"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/financial-markets/">Financial markets</a>
+      <span aria-hidden="true">/</span>
+      <span>Stock Market Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's stock market in 2026 — exchanges and
+        indices, market size, the investor base, foreign access and ownership limits, and
+        classification. Figures are reference estimates and qualitative descriptors compiled from
+        public sources; precise values move daily and vary across providers. See
+        <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference points intended to give a directional picture of Vietnam's
+        equity market. Price- and flow-based figures change continuously, so we favor structural
+        descriptors over spurious precision. This is not investment advice. For definitions of
+        terms like FDI and foreign ownership limit, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/financial-markets/">Vietnam financial markets — full overview</a></li>
+        <li><a href="/guides/how-to-invest-in-vietnam-stock-market/">How to invest in the Vietnam stock market</a></li>
+        <li><a href="/insights/vietnam-stock-market-overview/">Vietnam stock market overview</a> · <a href="/insights/vn30-index-intro/">VN30 index introduction</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">E-commerce</a> · <a href="/stats/vietnam-digital-payments-2026/">Digital Payments</a> · <a href="/stats/vietnam-consumer-internet-2026/">Consumer &amp; Internet</a> statistics</li>
+        <li><a href="/glossary/fdi/">FDI</a> · <a href="/glossary/foreign-ownership-limit/">Foreign ownership limit</a> (glossary)</li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/financial-markets/">← Financial markets overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>
