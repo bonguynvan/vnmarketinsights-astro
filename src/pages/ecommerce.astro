@@ -1,11 +1,47 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam E-commerce";
+// Title is year-pinned to signal freshness and capture year-based queries.
+// Bump the year + lastUpdated date during the annual content refresh.
+const title = "Vietnam E-commerce Market — Platforms, Players & Statistics (2026)";
 const lastUpdated = "February 2026";
+
+const relatedTopics = getRelatedTopics('ecommerce');
+
+const faqs = [
+  {
+    question: "How big is the e-commerce market in Vietnam?",
+    answer: "Vietnam's e-commerce gross merchandise value (GMV) reached approximately $14–16 billion in 2024, growing at compound annual rates above 25% since 2019. Online retail accounts for roughly 12% of total retail in Vietnam."
+  },
+  {
+    question: "What are the major e-commerce platforms in Vietnam?",
+    answer: "Shopee leads with about 60–65% market share by GMV, followed by Lazada (20–25%), TikTok Shop (rapidly growing in live commerce), and domestic platforms Tiki and Sendo. Facebook and Zalo dominate social commerce."
+  },
+  {
+    question: "How do people pay for online shopping in Vietnam?",
+    answer: "Cash-on-delivery (COD) is still widely used, especially in rural areas, but digital payments — bank transfers, e-wallets like MoMo, ZaloPay, ShopeePay, and ViettelPay — now process the majority of e-commerce transactions in major cities."
+  },
+  {
+    question: "How does cross-border e-commerce work in Vietnam?",
+    answer: "Vietnamese consumers buy from international sellers via Shopee International, Lazada Global, and direct platforms such as Taobao, AliExpress, and Amazon. Customs treatment depends on order value and product category, with simplified clearance for low-value shipments."
+  },
+  {
+    question: "How fast is delivery in Vietnamese e-commerce?",
+    answer: "Same-day and next-day delivery have become standard in Hanoi and Ho Chi Minh City, served by platform logistics (SPX, LEX, TikiNOW) and third-party couriers (GHN, GHTK, J&T, Ninja Van). Tier-2 and tier-3 cities typically see 2–4 day delivery."
+  },
+  {
+    question: "What is live commerce in Vietnam?",
+    answer: "Live commerce — selling products via livestream — is a major channel on TikTok Shop, Facebook Live, and Shopee Live. Categories like fashion, beauty, and FMCG see large livestream-driven GMV, particularly during platform mega-sale days."
+  }
+];
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated}>
+<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics} faqs={faqs}>
+  <p class="topic-definition">
+    <strong>E-commerce in Vietnam</strong> refers to the buying and selling of goods and services through online platforms — marketplaces, social networks, branded apps, and direct-to-consumer websites. As of 2024, the market reached approximately <strong>$14–16 billion in gross merchandise value</strong>, growing above 25% annually since 2019 and accounting for roughly 12% of total retail. It spans marketplaces (Shopee, Lazada, Tiki, TikTok Shop), social commerce (Facebook, Zalo), and platform-integrated logistics serving a base of more than 60 million online shoppers.
+  </p>
+
   <section>
     <h2>Overview</h2>
     <p>

@@ -1,8 +1,9 @@
 ---
 import CanonicalLayout from '../layouts/CanonicalLayout.astro';
 import DataTable from '../components/DataTable.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Payments System";
+const title = "Vietnam Payments System — Methods, Infrastructure & Statistics (2026)";
 const description = "Comprehensive reference guide to Vietnam's payment infrastructure, methods, regulations, and market dynamics. Covers digital payments, banking, e-wallets, and regulatory framework.";
 const canonicalURL = "https://vnmarketinsights.com/payments";
 
@@ -38,23 +39,46 @@ const limitations = [
 
 const lastUpdated = "2026-02-08";
 
-const relatedTopics = [
-  { slug: 'ecommerce', title: 'E-commerce Vietnam', description: 'Online retail infrastructure and payment integration' },
-  { slug: 'fintech', title: 'Fintech Landscape', description: 'Financial technology companies and innovations' },
-  { slug: 'regulations', title: 'Financial Regulations', description: 'Legal framework governing payment services' },
-  { slug: 'logistics', title: 'Last-Mile Logistics', description: 'COD and payment-on-delivery systems' }
-];
+const relatedTopics = getRelatedTopics('payments', 4);
 
 const hasTables = true;
 
 // Structured data for SEO
 const structuredData = [{
+  "@context": "https://schema.org",
   "@type": "Dataset",
   "name": "Vietnam Payment Methods and Statistics",
   "description": "Comprehensive data on Vietnam's payment infrastructure and adoption rates",
   "creator": { "@type": "Organization", "name": "Vietnam Market Insights" },
   "temporalCoverage": "2024/2026"
 }];
+
+const faqs = [
+  {
+    question: "What payment methods are used in Vietnam?",
+    answer: "Vietnamese consumers and businesses use cash, bank transfers (often via VietQR), domestic and international payment cards (NAPAS, Visa, Mastercard, JCB), e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay), and cash-on-delivery (COD) for e-commerce. Bank transfers and e-wallets now process the bulk of digital retail volume."
+  },
+  {
+    question: "How does NAPAS work in Vietnam?",
+    answer: "NAPAS — the National Payment Corporation of Vietnam — operates Vietnam's national payment switch. It clears interbank transfers, runs the domestic card scheme, standardizes the VietQR specification, and connects banks, e-wallets, and merchants for real-time low-value payments."
+  },
+  {
+    question: "What percentage of payments are digital in Vietnam?",
+    answer: "Digital payment adoption has grown rapidly: in major cities, a majority of retail payments are now non-cash, while cash and COD remain significant in rural areas. State Bank of Vietnam data shows non-cash transaction volumes growing at high double-digit rates year over year."
+  },
+  {
+    question: "How do QR code payments work in Vietnam?",
+    answer: "Most QR payments use the VietQR standard, which lets a single QR code accept payments from any participating bank or e-wallet via NAPAS routing. Merchants display a static or dynamic VietQR; customers scan it inside their bank or wallet app to complete an instant transfer."
+  },
+  {
+    question: "Which e-wallets are biggest in Vietnam?",
+    answer: "MoMo is the largest by user base (approximately 30 million users), followed by ZaloPay, ViettelPay, ShopeePay, and VNPay. Moca (Grab) has scaled back its standalone wallet but integrates payments inside the Grab app."
+  },
+  {
+    question: "Are foreign payment providers allowed in Vietnam?",
+    answer: "International schemes (Visa, Mastercard, JCB, UnionPay, American Express) operate through licensed local issuers and acquirers. Foreign payment intermediaries serving Vietnamese users must comply with State Bank of Vietnam licensing requirements and Circular 19/2016/TT-NHNN provisions on intermediary payment services."
+  }
+];
 ---
 
 <CanonicalLayout
@@ -66,10 +90,17 @@ const structuredData = [{
   sources={sources}
   limitations={limitations}
   lastUpdated={lastUpdated}
+  publishedDate={lastUpdated}
+  articleSection="Payments"
   relatedTopics={relatedTopics}
+  faqs={faqs}
   hasTables={hasTables}
 >
   <h1>Vietnam Payments System</h1>
+
+  <p class="topic-definition">
+    <strong>Vietnam's payment system</strong> is the infrastructure, instruments, and regulations that move money between consumers, businesses, banks, and government. It runs on the <strong>NAPAS national switch</strong> and connects banks (Vietcombank, BIDV, VietinBank, Techcombank), card schemes (NAPAS, Visa, Mastercard, JCB), and e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay). The <strong>VietQR standard</strong> enables instant interoperable QR transfers across all participating institutions. As of 2024, non-cash transaction volumes have grown at high double-digit rates year over year, though cash and cash-on-delivery remain significant in rural areas.
+  </p>
 
   <section id="definition" class="content-section">
     <h2>Definition and Scope</h2>

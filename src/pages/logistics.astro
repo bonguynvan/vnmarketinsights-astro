@@ -1,11 +1,41 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Logistics";
+const title = "Vietnam Logistics — Infrastructure, Last-Mile & Major Players (2026)";
 const lastUpdated = "February 2026";
+
+const relatedTopics = getRelatedTopics('logistics');
+
+const faqs = [
+  {
+    question: "How does logistics work in Vietnam?",
+    answer: "Vietnam's logistics network combines state-owned operators (Vietnam Post, Viettel Post), major private couriers (GHN, GHTK, J&T Express, Ninja Van), and platform-owned logistics arms (SPX, LEX, TikiNOW). Maritime trade flows through major ports such as Cat Lai (HCMC) and Hai Phong; road transport handles most domestic distribution."
+  },
+  {
+    question: "What are the major logistics companies in Vietnam?",
+    answer: "Top last-mile and parcel players include GHN (Giao Hang Nhanh), GHTK (Giao Hang Tiet Kiem), J&T Express, Ninja Van, Viettel Post, and Vietnam Post. Platform logistics — SPX Express (Shopee), LEX (Lazada), TikiNOW — handle in-house volumes for marketplace orders."
+  },
+  {
+    question: "How long does delivery take in Vietnam?",
+    answer: "Intra-city delivery in Hanoi and Ho Chi Minh City is commonly same-day or next-day. Intercity standard delivery between major hubs takes 1–3 days; tier-2/3 cities and rural districts typically receive parcels in 2–5 days depending on carrier and route."
+  },
+  {
+    question: "What is the logistics infrastructure in Vietnam?",
+    answer: "Key infrastructure includes the North-South Expressway, the Ho Chi Minh Highway, deep-sea ports (Cai Mep–Thi Vai, Hai Phong, Cat Lai), Noi Bai and Tan Son Nhat international airports, and an expanding network of bonded warehouses, industrial zones, and 3PL fulfillment centers concentrated around Hanoi and HCMC."
+  },
+  {
+    question: "How does cash-on-delivery affect Vietnamese logistics?",
+    answer: "COD remains a significant share of e-commerce parcels. It adds operational complexity for couriers — cash handling, settlement cycles, higher refusal rates, and reverse-logistics costs for returns — and impacts working capital for cross-border sellers."
+  }
+];
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated}>
+<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics} faqs={faqs}>
+  <p class="topic-definition">
+    <strong>Vietnam's logistics sector</strong> covers the movement, storage, and distribution of goods across domestic and cross-border supply chains — from deep-sea ports and the North-South expressway to last-mile parcel delivery for e-commerce. As of 2024, logistics costs represent roughly <strong>16–18% of GDP</strong>, with the express and parcel segment growing in step with e-commerce. The network combines state-owned operators (Vietnam Post, Viettel Post), private couriers (GHN, GHTK, J&T, Ninja Van), and platform-integrated logistics (SPX, LEX, TikiNOW).
+  </p>
+
   <section>
     <h2>Overview</h2>
     <p>

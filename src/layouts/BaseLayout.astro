@@ -4,9 +4,13 @@ export interface Props {
   description?: string;
   image?: string;
   canonicalURL?: string;
-  structuredData?: object;
+  structuredData?: object | object[];
   noindex?: boolean;
   mainClass?: string;
+  pageType?: 'WebPage' | 'Article' | 'CollectionPage';
+  publishedDate?: string;
+  lastUpdated?: string;
+  articleSection?: string;
 }
 
 const {
@@ -16,13 +20,122 @@ const {
   canonicalURL,
   structuredData,
   noindex = false,
-  mainClass = "page-content"
+  mainClass = "page-content",
+  pageType = 'WebPage',
+  publishedDate,
+  lastUpdated,
+  articleSection,
 } = Astro.props;
 
 const site = "https://vnmarketinsights.com";
 const canonical = canonicalURL || new URL(Astro.url.pathname, site).href;
 const ogImage = new URL(image, site).href;
 const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
+
+const SEGMENT_LABELS: Record<string, string> = {
+  topics: 'Topics',
+  insights: 'Insights',
+  glossary: 'Glossary',
+  tools: 'Tools',
+  about: 'About',
+  changelog: 'Changelog',
+  trends: 'Trends',
+  weekly: 'Weekly',
+  payments: 'Payments',
+  ecommerce: 'E-commerce',
+  logistics: 'Logistics',
+  consumers: 'Consumers',
+  regulations: 'Regulations',
+  platforms: 'Platforms',
+  'financial-markets': 'Financial Markets',
+};
+
+function humanizeSegment(slug: string): string {
+  if (SEGMENT_LABELS[slug]) return SEGMENT_LABELS[slug];
+  return slug
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+const pathname = Astro.url.pathname.replace(/\/+$/, '') || '/';
+const segments = pathname === '/' ? [] : pathname.split('/').filter(Boolean);
+
+const breadcrumbItems = [
+  { name: 'Home', url: `${site}/` },
+  ...segments.map((seg, idx) => ({
+    name: humanizeSegment(seg),
+    url: `${site}/${segments.slice(0, idx + 1).join('/')}/`,
+  })),
+];
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: breadcrumbItems.map((item, idx) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    name: item.name,
+    item: item.url,
+  })),
+};
+
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  name: 'Vietnam Market Insights',
+  url: site,
+  logo: `${site}/logo.svg`,
+  sameAs: [],
+};
+
+const isHome = pathname === '/';
+const websiteSchema = isHome
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Vietnam Market Insights',
+      url: site,
+      potentialAction: {
+        '@type': 'SearchAction',
+        target: `${site}/search?q={search_term_string}`,
+        'query-input': 'required name=search_term_string',
+      },
+    }
+  : null;
+
+const shouldEmitArticle = pageType === 'Article' || Boolean(publishedDate);
+const articleSchema = shouldEmitArticle
+  ? {
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      headline: title,
+      description,
+      url: canonical,
+      mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
+      ...(publishedDate ? { datePublished: publishedDate } : {}),
+      ...(lastUpdated || publishedDate ? { dateModified: lastUpdated || publishedDate } : {}),
+      ...(articleSection ? { articleSection } : {}),
+      image: ogImage,
+      publisher: {
+        '@type': 'Organization',
+        name: 'Vietnam Market Insights',
+        url: site,
+        logo: { '@type': 'ImageObject', url: `${site}/logo.svg` },
+      },
+    }
+  : null;
+
+const pageExtras = Array.isArray(structuredData)
+  ? structuredData
+  : (structuredData ? [structuredData] : []);
+
+const allSchemas = [
+  organizationSchema,
+  websiteSchema,
+  breadcrumbItems.length > 1 ? breadcrumbSchema : null,
+  articleSchema,
+  ...pageExtras,
+].filter(Boolean);
 ---
 
 <!DOCTYPE html>
@@ -41,6 +154,15 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="icon" type="image/png" href="/favicon.png">
 
+  <!-- Performance: warm DNS + TLS for Google Analytics so the deferred GA
+       script doesn't add a fresh handshake to the critical request path. -->
+  {gaId && (
+    <>
+      <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+      <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    </>
+  )}
+
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content={canonical}>
@@ -57,11 +179,13 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
   <meta property="twitter:description" content={description}>
   <meta property="twitter:image" content={ogImage}>
 
-  <!-- JSON-LD Structured Data -->
-  {structuredData && (
-    <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
-  )}
+  <!-- JSON-LD Structured Data: Organization, WebSite (home), Breadcrumb, Article, page extras -->
+  {allSchemas.map((schema) => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
 
+  <!-- RSS feed for insights -->
+  <link rel="alternate" type="application/rss+xml" title="Vietnam Market Insights — Articles" href={`${site}/rss.xml`}>
 
   <link rel="stylesheet" href="/global.css">
   {gaId && (
@@ -80,7 +204,7 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
   <header class="site-header">
     <div class="site-header__inner">
       <a href="/" class="site-header__brand">
-        <img src="/logo.svg" alt="Vietnam Market Insights" width="32" height="32" />
+        <img src="/logo.svg" alt="Vietnam Market Insights" width="32" height="32" decoding="async" fetchpriority="high" />
         <span>Vietnam Market Insights</span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
@@ -89,6 +213,7 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
         <a href="/insights" data-track-event="nav_click" data-track-label="insights">Insights</a>
         <a href="/glossary" data-track-event="nav_click" data-track-label="glossary">Glossary</a>
         <a href="/tools" data-track-event="nav_click" data-track-label="tools">Tools</a>
+        <a href="/search" class="nav-smart-search" data-track-event="nav_click" data-track-label="smart_search">Smart Search <span class="nav-new-badge">Mới</span></a>
         <a href="/start" data-track-event="nav_click" data-track-label="starter_flows">Start</a>
         <a href="/workspace" data-track-event="nav_click" data-track-label="workspace">Workspace</a>
         <a href="/about" data-track-event="nav_click" data-track-label="about">About</a>
@@ -152,6 +277,7 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
         <nav class="site-footer__nav" aria-label="Footer navigation">
           <a href="/about">About</a>
           <a href="/glossary">Glossary</a>
+          <a href="/search">Smart Search</a>
           <a href="/changelog">Changelog</a>
         </nav>
       </div>
@@ -626,14 +752,56 @@ const gaId = import.meta.env.PUBLIC_GA_MEASUREMENT_ID;
           });
         });
 
+        // Track page views per session so we don't pester first-time visitors
+        // before they've had a chance to read anything.
+        const sessionViewsKey = 'vmi_session_page_views';
+        const currentSessionViews = (() => {
+          try {
+            const raw = window.sessionStorage.getItem(sessionViewsKey);
+            const parsed = raw ? parseInt(raw, 10) : 0;
+            const next = Number.isFinite(parsed) ? parsed + 1 : 1;
+            window.sessionStorage.setItem(sessionViewsKey, String(next));
+            return next;
+          } catch {
+            return 1;
+          }
+        })();
+
+        const minSessionViewsForModal = 2;
+        const minTimeOnPageMs = 60000;
+        const minScrollDepthPct = 60;
+        const pageEnteredAt = Date.now();
+        let maxScrollDepthPct = 0;
+
+        function computeScrollDepthPct() {
+          const doc = document.documentElement;
+          const viewport = window.innerHeight || doc.clientHeight || 0;
+          const scrolled = window.scrollY || doc.scrollTop || 0;
+          const total = Math.max((doc.scrollHeight || 0) - viewport, 1);
+          return Math.min(100, Math.round((scrolled / total) * 100));
+        }
+
+        function tryOpenForEngagement() {
+          if (currentSessionViews < minSessionViewsForModal) return;
+          if (Date.now() - pageEnteredAt < minTimeOnPageMs) return;
+          if (maxScrollDepthPct < minScrollDepthPct) return;
+          openGrowthModal('engaged_reader');
+        }
+
+        window.addEventListener('scroll', () => {
+          const depth = computeScrollDepthPct();
+          if (depth > maxScrollDepthPct) {
+            maxScrollDepthPct = depth;
+            tryOpenForEngagement();
+          }
+        }, { passive: true });
+
+        // Exit-intent: only after the visitor is past their first pageview.
         document.addEventListener('mouseleave', (event) => {
           if (event.clientY > 20) return;
+          if (currentSessionViews < minSessionViewsForModal) return;
           openGrowthModal('exit_intent');
         });
-
-        window.setTimeout(() => {
-          openGrowthModal('time_on_page');
-        }, 45000);
       }
     });
   </script>

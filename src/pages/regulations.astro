@@ -1,11 +1,18 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Regulations";
+const title = "Vietnam Digital Business Regulations — Licensing & Compliance (2026)";
 const lastUpdated = "February 2026";
+
+const relatedTopics = getRelatedTopics('regulations');
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated}>
+<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics}>
+  <p class="topic-definition">
+    <strong>Vietnam's digital business regulations</strong> are the legal framework governing e-commerce, fintech, data protection, content, and foreign investment for digital operators. Core instruments include <strong>Decree 52/2013/ND-CP</strong> (e-commerce), <strong>Circular 19/2016/TT-NHNN</strong> (intermediary payment services), the <strong>2018 Cybersecurity Law</strong>, and the <strong>2023 Personal Data Protection Decree</strong>. Primary regulators are the Ministry of Industry and Trade (MOIT), Ministry of Information and Communications (MIC), and the State Bank of Vietnam (SBV).
+  </p>
+
   <section>
     <h2>Overview</h2>
     <p>

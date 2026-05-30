@@ -1,11 +1,18 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Consumers";
+const title = "Vietnam Consumers — Demographics, Behavior & Spending (2026)";
 const lastUpdated = "February 2026";
+
+const relatedTopics = getRelatedTopics('consumers');
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated}>
+<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics}>
+  <p class="topic-definition">
+    <strong>Vietnamese consumers</strong> are a market of approximately <strong>100 million people</strong> characterized by a young median age (~33), rapid urbanization, and rising disposable incomes. Gen Z and Millennials drive digital-first spending across e-commerce, food delivery, mobile payments, and entertainment, while traditional retail formats remain significant in tier-2 and tier-3 cities. Household spending is concentrated in food, transport, housing, and increasingly on personal care, electronics, and travel.
+  </p>
+
   <section>
     <h2>Overview</h2>
     <p>

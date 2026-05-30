@@ -1,9 +1,42 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 
-const title = "Vietnam Financial Markets";
+const title = "Vietnam Financial Markets — Exchanges, Indices & Investment (2026)";
 const description = "Overview of Vietnam's stock market, exchanges (HOSE, HNX, UPCoM), key indices (VN30, VN100), and investment landscape.";
 const canonicalURL = "https://vnmarketinsights.com/financial-markets";
+
+const faqs = [
+  {
+    question: "What stock exchanges are in Vietnam?",
+    answer: "Vietnam has three trading venues: the Ho Chi Minh City Stock Exchange (HOSE) — the main listed market for large caps; the Hanoi Stock Exchange (HNX) — listed mid-caps and bonds; and the Unlisted Public Company Market (UPCoM) — a secondary venue for public but unlisted companies. All operate under the Vietnam Exchange holding structure."
+  },
+  {
+    question: "What is the VN30 index?",
+    answer: "The VN30 tracks the 30 largest and most liquid stocks listed on HOSE by market capitalization and free float. It is the underlying index for VN30 futures and many ETFs, and is commonly used as a benchmark for institutional investors and structured products in Vietnam."
+  },
+  {
+    question: "Who regulates Vietnam's stock market?",
+    answer: "The State Securities Commission of Vietnam (SSC), under the Ministry of Finance, is the primary regulator. Clearing and settlement run through the Vietnam Securities Depository (VSD). The Securities Law and supporting decrees define listing, disclosure, and trading rules."
+  },
+  {
+    question: "Can foreign investors trade Vietnamese stocks?",
+    answer: "Yes — foreign investors can buy and sell securities through licensed local brokers after obtaining a securities trading code from VSD. Foreign ownership limits apply per sector and per security (often 49% baseline, lower in regulated sectors such as banking), and certain prudential and reporting rules apply."
+  },
+  {
+    question: "How big is the Vietnam stock market?",
+    answer: "Combined HOSE, HNX, and UPCoM market capitalization places Vietnam among the larger Southeast Asian equity markets. Retail investors account for a high share of daily trading turnover relative to institutional participants, a structural feature versus more developed markets."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map((f) => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
 ---
 
 <BaseLayout
@@ -11,12 +44,21 @@ const canonicalURL = "https://vnmarketinsights.com/financial-markets";
   description={description}
   canonicalURL={canonicalURL}
   mainClass="container"
+  pageType="Article"
+  articleSection="Financial Markets"
+  publishedDate="2026-02-22"
+  lastUpdated="2026-02-22"
+  structuredData={faqSchema}
 >
   <article class="topic-page">
     <header class="topic-header">
       <h1>{title}</h1>
       <p class="topic-lead">Reference overview of Vietnam's equity and securities markets. This page covers exchanges, indices, and market structure—not investment advice.</p>
     </header>
+
+    <p class="topic-definition">
+      <strong>Vietnam's financial markets</strong> comprise the equity, fixed-income, and derivatives venues that channel capital between issuers and investors. The equity market is operated by the <strong>Ho Chi Minh City Stock Exchange (HOSE)</strong>, the <strong>Hanoi Stock Exchange (HNX)</strong>, and the <strong>UPCoM</strong> board for unlisted public companies. The flagship benchmarks are the VN-Index and VN30, with retail investors providing the bulk of daily trading turnover and foreign investors operating under sector-specific ownership caps.
+    </p>
 
     <section>
       <h2>Overview</h2>
@@ -61,6 +103,20 @@ const canonicalURL = "https://vnmarketinsights.com/financial-markets";
     </section>
 
     <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
       <h2>Sources</h2>
       <ul class="sources-list">
         <li><a href="https://www.ssc.gov.vn" target="_blank" rel="noopener noreferrer">State Securities Commission of Vietnam (SSC)</a></li>
@@ -75,6 +131,18 @@ const canonicalURL = "https://vnmarketinsights.com/financial-markets";
     </p>
   </article>
 </BaseLayout>
+
+<style>
+  .topic-definition { font-size: 1.0625rem; line-height: 1.7; margin: 1rem 0 2.5rem; padding: 1rem 1.25rem; border-left: 3px solid var(--color-accent); background: var(--color-bg-subtle); border-radius: 0 6px 6px 0; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+</style>
 
 <style>
   .topic-page { width: 100%; }

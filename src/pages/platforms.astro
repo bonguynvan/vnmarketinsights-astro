@@ -1,11 +1,41 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Platforms";
+const title = "Vietnam Digital Platforms — Super-Apps, Social & Marketplaces (2026)";
 const lastUpdated = "February 2026";
+
+const relatedTopics = getRelatedTopics('platforms');
+
+const faqs = [
+  {
+    question: "What is a super-app in Vietnam?",
+    answer: "A super-app combines multiple consumer services — messaging, payments, ride-hailing, food delivery, e-commerce — into a single mobile application. Grab and Zalo are the dominant super-apps in Vietnam, with MoMo and ShopeePay expanding from payments into broader services."
+  },
+  {
+    question: "Which mobile apps are popular in Vietnam?",
+    answer: "By daily active users, top apps include Zalo (messaging), Facebook and Messenger, TikTok, YouTube, Shopee, Grab, MoMo, and Lazada. Local-built apps Zalo and MoMo lead in their categories against global competitors."
+  },
+  {
+    question: "How is digital advertising structured in Vietnam?",
+    answer: "Digital ad spend is concentrated on Facebook, Google (Search and YouTube), TikTok, and Zalo. E-commerce platforms (Shopee, Lazada, TikTok Shop) capture growing budgets via on-platform ads tied to live commerce and merchant tools."
+  },
+  {
+    question: "Are foreign platforms regulated in Vietnam?",
+    answer: "Yes — cross-border platforms operating in Vietnam are subject to local laws on data localization, content moderation, advertising disclosure, and tax obligations. The 2018 Cybersecurity Law, the 2023 Personal Data Protection Decree, and sector-specific decrees apply to foreign tech platforms reaching Vietnamese users."
+  },
+  {
+    question: "What role does Zalo play in Vietnam?",
+    answer: "Zalo, developed by VNG, is the most widely used messaging app in Vietnam with broad penetration across age groups. It hosts Official Accounts for brands, integrates ZaloPay for payments, and is a primary channel for customer service, social commerce, and government service notifications."
+  }
+];
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated}>
+<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics} faqs={faqs}>
+  <p class="topic-definition">
+    <strong>Vietnam's digital platforms</strong> are the apps and services that mediate communication, payments, commerce, transportation, and content for a base of <strong>~77 million internet users and ~72 million smartphone users</strong>. Domestic super-apps Zalo (messaging + payments) and MoMo (wallet + lifestyle) compete with international platforms Grab, Facebook, TikTok, Shopee, and Lazada. The platform layer increasingly bundles services — wallet, commerce, delivery, content — into single mobile experiences.
+  </p>
+
   <section>
     <h2>Overview</h2>
     <p>

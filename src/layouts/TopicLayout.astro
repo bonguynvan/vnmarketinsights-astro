@@ -5,6 +5,8 @@ export interface Props {
   title: string;
   description?: string;
   lastUpdated?: string;
+  publishedDate?: string;
+  articleSection?: string;
   faqs?: Array<{ question: string; answer: string }>;
   relatedTopics?: Array<{ slug: string; title: string; description: string }>;
 }
@@ -13,6 +15,8 @@ const {
   title,
   description,
   lastUpdated = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' }),
+  publishedDate,
+  articleSection,
   faqs,
   relatedTopics
 } = Astro.props;
@@ -20,28 +24,22 @@ const {
 const site = "https://vnmarketinsights.com";
 const canonical = new URL(Astro.url.pathname, site).href;
 
-// Build structured data for this page
-const structuredData = {
-  "@context": "https://schema.org",
-  "@type": faqs ? "FAQPage" : "WebPage",
-  "mainEntity": faqs ? faqs.map(faq => ({
-    "@type": "Question",
-    "name": faq.question,
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": faq.answer
+// FAQ schema lives in its own JSON-LD block, separate from the Article schema
+// that BaseLayout emits automatically. Mixing them on one node confuses parsers.
+const faqStructuredData = faqs && faqs.length > 0
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map(faq => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.answer
+        }
+      }))
     }
-  })) : undefined,
-  "headline": title,
-  "description": description,
-  "url": canonical,
-  "dateModified": lastUpdated,
-  "publisher": {
-    "@type": "Organization",
-    "name": "Vietnam Market Insights",
-    "url": site
-  }
-};
+  : undefined;
 
 // Citation text
 const citeText = `${title}. Vietnam Market Insights. ${lastUpdated}. ${canonical}`;
@@ -51,7 +49,11 @@ const citeText = `${title}. Vietnam Market Insights. ${lastUpdated}. ${canonical
   title={title}
   description={description}
   canonicalURL={canonical}
-  structuredData={structuredData}
+  pageType="Article"
+  publishedDate={publishedDate}
+  lastUpdated={lastUpdated}
+  articleSection={articleSection}
+  structuredData={faqStructuredData}
   mainClass="container-wide"
 >
   <div class="topic-page-layout">

@@ -1,0 +1,139 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import {
+  GLOSSARY_TERMS,
+  getGlossaryTermBySlug,
+  getRelatedGlossaryTerms,
+} from '../../data/glossary-terms';
+
+export async function getStaticPaths() {
+  return GLOSSARY_TERMS.map((term) => ({
+    params: { term: term.slug },
+  }));
+}
+
+const { term: slug } = Astro.params;
+const entry = getGlossaryTermBySlug(slug as string);
+
+if (!entry) {
+  return Astro.redirect('/glossary/');
+}
+
+const relatedTerms = getRelatedGlossaryTerms(entry, 6);
+const canonical = `https://vnmarketinsights.com/glossary/${entry.slug}/`;
+const title = `${entry.term} — Vietnam Market Glossary`;
+const description = entry.definition;
+
+const definedTermSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  '@id': canonical,
+  name: entry.term,
+  description: entry.definition,
+  inDefinedTermSet: 'https://vnmarketinsights.com/glossary/',
+  termCode: entry.slug,
+  url: canonical,
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Glossary"
+  structuredData={definedTermSchema}
+  mainClass="container"
+>
+  <article class="glossary-term-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/glossary/">Glossary</a>
+      <span aria-hidden="true">/</span>
+      <span class="breadcrumb__current">{entry.term}</span>
+    </nav>
+
+    <header class="term-header">
+      <span class="term-category">{entry.category}</span>
+      <h1>{entry.term}</h1>
+      <p class="term-definition">{entry.definition}</p>
+    </header>
+
+    {entry.relatedTopics.length > 0 && (
+      <section class="term-section">
+        <h2>Related topic references</h2>
+        <ul class="topic-link-list">
+          {entry.relatedTopics.map((topicSlug) => (
+            <li>
+              <a href={`/${topicSlug}/`}>{topicSlug.charAt(0).toUpperCase() + topicSlug.slice(1)}</a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {relatedTerms.length > 0 && (
+      <section class="term-section">
+        <h2>Related terms in {entry.category}</h2>
+        <ul class="related-term-list">
+          {relatedTerms.map((other) => (
+            <li>
+              <a href={`/glossary/${other.slug}/`}>
+                <span class="related-term__name">{other.term}</span>
+                <span class="related-term__hint">{other.definition.slice(0, 110)}{other.definition.length > 110 ? '…' : ''}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <footer class="term-footer">
+      <a href="/glossary/">← Back to glossary</a>
+    </footer>
+  </article>
+</BaseLayout>
+
+<style>
+  .glossary-term-page { max-width: 720px; }
+  .breadcrumb {
+    display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap;
+    font-size: var(--text-sm); color: var(--color-text-muted);
+    margin-bottom: var(--space-6);
+  }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .breadcrumb__current { color: var(--color-text); }
+  .term-header { margin-bottom: var(--space-8); }
+  .term-category {
+    display: inline-block; font-size: var(--text-xs); font-weight: 600;
+    padding: var(--space-1) var(--space-2); border-radius: 4px;
+    background: var(--color-bg-subtle); color: var(--color-text-muted);
+    margin-bottom: var(--space-3);
+  }
+  .term-header h1 { border: none; margin: 0 0 var(--space-3); }
+  .term-definition { font-size: var(--text-lg); color: var(--color-text); line-height: 1.6; }
+  .term-section { margin: var(--space-8) 0; padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); }
+  .term-section h2 { font-size: var(--text-xl); margin: 0 0 var(--space-4); border: none; }
+  .topic-link-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+  .topic-link-list a {
+    display: inline-block; padding: var(--space-2) var(--space-3);
+    background: var(--color-bg-subtle); border: 1px solid var(--color-border-light);
+    border-radius: 999px; text-decoration: none; color: var(--color-text);
+    font-size: var(--text-sm);
+  }
+  .topic-link-list a:hover { border-color: var(--color-accent); color: var(--color-accent); }
+  .related-term-list { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-3); }
+  .related-term-list a {
+    display: flex; flex-direction: column; gap: var(--space-1);
+    padding: var(--space-3); border: 1px solid var(--color-border-light);
+    border-radius: 8px; text-decoration: none; background: var(--color-bg-subtle);
+  }
+  .related-term-list a:hover { border-color: var(--color-accent); background: var(--color-bg); }
+  .related-term__name { font-weight: 600; color: var(--color-text); }
+  .related-term__hint { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .term-footer { margin-top: var(--space-10); font-size: var(--text-sm); }
+  .term-footer a { color: var(--color-text-muted); text-decoration: none; }
+  .term-footer a:hover { color: var(--color-accent); }
+</style>
