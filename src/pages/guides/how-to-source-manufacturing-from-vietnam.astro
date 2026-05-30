@@ -1,0 +1,204 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Source Manufacturing from Vietnam (2026) — Sourcing & Supplier Guide";
+const description = "How to source products and manufacturing from Vietnam: why Vietnam, finding and vetting suppliers, key sectors, quality control, trade agreements, logistics, and a practical step-by-step path.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-source-manufacturing-from-vietnam/";
+
+const steps = [
+  {
+    name: 'Decide why Vietnam fits',
+    text: 'Vietnam is the leading "China + 1" destination — competitive labor, a fast-growing manufacturing base, and preferential market access via trade agreements (CPTPP, EVFTA, RCEP). Confirm your product category and volume match Vietnam’s strengths before committing.',
+  },
+  {
+    name: 'Identify the right sector and cluster',
+    text: 'Vietnam is strong in electronics, textiles and apparel, footwear, furniture, and increasingly higher-value components. Production clusters concentrate around the north (Hanoi/Bac Ninh/Hai Phong) and south (HCMC/Binh Duong/Dong Nai); match your product to the right cluster.',
+  },
+  {
+    name: 'Find suppliers',
+    text: 'Use B2B marketplaces, trade fairs (e.g. VietnamExpo), industry associations, sourcing agents, and referrals. Shortlist multiple suppliers and request company registration, certifications, and references before deeper engagement.',
+  },
+  {
+    name: 'Vet and audit',
+    text: 'Verify legal status, capacity, certifications (ISO, sector-specific), and export experience. Conduct factory audits (in person or via a third-party inspection firm), and start with a sample order before scaling.',
+  },
+  {
+    name: 'Negotiate terms and IP protection',
+    text: 'Agree on pricing, MOQ, lead times, payment terms, and Incoterms. Put specifications, quality standards, and intellectual-property protections in a written contract; register trademarks where relevant.',
+  },
+  {
+    name: 'Set up quality control',
+    text: 'Define inspection points — incoming materials, in-process, and pre-shipment. Use a third-party QC/inspection partner for objective checks, especially before paying balances or shipping.',
+  },
+  {
+    name: 'Plan logistics, duties, and trade agreements',
+    text: 'Arrange freight (sea/air), customs clearance, and documentation. Check whether trade agreements (EVFTA, CPTPP, RCEP) give your destination market preferential duties — and ensure rules-of-origin requirements are met to claim them.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Why source manufacturing from Vietnam?",
+    answer: "Vietnam is the leading 'China + 1' manufacturing destination: competitive labor costs, a rapidly expanding industrial base, political stability, and preferential market access through trade agreements like CPTPP, EVFTA, and RCEP. It's especially strong in electronics, textiles, footwear, and furniture, and benefits from supply-chain diversification away from concentration in China."
+  },
+  {
+    question: "What products is Vietnam known for manufacturing?",
+    answer: "Vietnam is a major producer of electronics and electronic components, textiles and apparel, footwear, furniture and wood products, and increasingly higher-value goods. Global brands across consumer electronics, fashion, and home goods manufacture in Vietnam, often as part of diversifying production beyond China."
+  },
+  {
+    question: "How do I find and vet suppliers in Vietnam?",
+    answer: "Use B2B marketplaces, trade fairs, industry associations, sourcing agents, and referrals to build a shortlist. Vet each supplier by verifying legal registration, capacity, certifications (ISO and sector-specific), and export track record, then conduct a factory audit (in person or via a third-party inspection firm) and place a sample order before scaling."
+  },
+  {
+    question: "Do trade agreements lower duties on goods made in Vietnam?",
+    answer: "Often yes. Agreements like the EU–Vietnam FTA (EVFTA), CPTPP, and RCEP progressively reduce or eliminate tariffs for qualifying goods. To claim preferential duties, your products must meet the agreement's rules-of-origin requirements, so confirm eligibility and documentation with a customs broker or trade adviser."
+  },
+  {
+    question: "How do I protect quality and IP when sourcing from Vietnam?",
+    answer: "Put specifications, quality standards, and intellectual-property terms in a written contract, register relevant trademarks, and avoid sharing more design detail than necessary early on. Use defined inspection points (incoming, in-process, pre-shipment) and an independent QC/inspection partner to verify quality before releasing payments or shipping."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Source Manufacturing from Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Source Manufacturing from Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Vietnam has become the world's go-to "China + 1" manufacturing base — competitive labor, a
+        fast-growing industrial sector, and preferential trade access. This guide walks buyers
+        through sourcing from Vietnam: choosing the right sector and cluster, finding and vetting
+        suppliers, quality control, IP protection, and using trade agreements to lower duties.
+        It's an orientation, not legal or customs advice — engage local experts before committing.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Why Vietnam for sourcing</h2>
+      <p>
+        The <a href="/glossary/china-1/">China + 1</a> strategy — diversifying production beyond
+        China — has made Vietnam a primary beneficiary of manufacturing
+        <a href="/glossary/fdi/">FDI</a>. Combined with trade agreements like
+        <a href="/glossary/evfta/">EVFTA</a> and <a href="/glossary/cptpp/">CPTPP</a> that lower
+        tariffs into major markets, Vietnam offers both cost competitiveness and preferential
+        export access — provided your goods meet rules-of-origin requirements.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/compare/vietnam-vs-china-manufacturing/">Vietnam vs China manufacturing — comparison</a></li>
+        <li><a href="/stats/vietnam-manufacturing-fdi-2026/">Vietnam Manufacturing &amp; FDI Statistics 2026</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/regulations/">Regulatory environment — overview</a></li>
+        <li><a href="/glossary/china-1/">China + 1</a> · <a href="/glossary/fdi/">FDI</a> · <a href="/glossary/evfta/">EVFTA</a> · <a href="/glossary/cptpp/">CPTPP</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

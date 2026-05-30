@@ -251,6 +251,27 @@ const RAW_TERMS: Array<Omit<GlossaryTerm, 'slug'>> = [
       'The maximum stake a foreign investor may hold in a Vietnamese company in a given sector, set by WTO commitments and trade agreements. Limits vary by industry; some sectors allow 100% foreign ownership while others require a local partner.',
     relatedTopics: ['regulations', 'financial-markets'],
   },
+  {
+    term: 'China + 1',
+    category: 'Regulations',
+    definition:
+      'A supply-chain strategy where manufacturers keep operations in China but add production in another country — frequently Vietnam — to diversify risk from tariffs, costs, and concentration. A primary driver of foreign direct investment into Vietnamese manufacturing.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'EVFTA (EU–Vietnam Free Trade Agreement)',
+    category: 'Regulations',
+    definition:
+      'A free trade agreement between the European Union and Vietnam, in force since 2020, that progressively eliminates most tariffs on goods traded between the two. It improves Vietnamese exporters’ access to the EU market and vice versa.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'CPTPP',
+    category: 'Regulations',
+    definition:
+      'The Comprehensive and Progressive Agreement for Trans-Pacific Partnership, a multilateral free trade pact among 11 Pacific-rim economies including Vietnam. It lowers tariffs and harmonizes trade rules, expanding preferential market access for Vietnamese exports.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
 ];
 
 export const GLOSSARY_TERMS: GlossaryTerm[] = RAW_TERMS.map((entry) => ({

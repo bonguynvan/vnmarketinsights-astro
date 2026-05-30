@@ -1,0 +1,209 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam vs China Manufacturing (2026) — Sourcing Comparison";
+const description = "Compare manufacturing in Vietnam vs China: labor costs, scale, supply-chain depth, sectors, trade agreements, and why 'China + 1' brings production to Vietnam.";
+const canonical = "https://vnmarketinsights.com/compare/vietnam-vs-china-manufacturing/";
+
+const dims = [
+  {
+    name: 'Vietnam',
+    labor: 'Lower wages; younger, growing workforce',
+    scale: 'Smaller total capacity; rapidly expanding',
+    depth: 'Maturing supply chains; some inputs still imported',
+    sectors: 'Electronics, textiles, footwear, furniture',
+    trade: 'CPTPP, EVFTA, RCEP — broad preferential access',
+    edge: 'Cost + diversification; the "+1" destination',
+  },
+  {
+    name: 'China',
+    labor: 'Higher wages than Vietnam; vast skilled workforce',
+    scale: 'Enormous capacity; unmatched output',
+    depth: 'Deepest, most complete supply chains globally',
+    sectors: 'Everything — full-spectrum manufacturing',
+    trade: 'RCEP; large domestic market',
+    edge: 'Scale, speed, component ecosystem',
+  },
+];
+
+const faqs = [
+  {
+    question: "Is manufacturing cheaper in Vietnam than China?",
+    answer: "Labor costs in Vietnam are generally lower than in China, which is a key reason manufacturers add Vietnamese production. However, total landed cost depends on more than wages — China's deeper supply chains, component availability, scale, and infrastructure can offset Vietnam's labor savings for complex products. For many goods, Vietnam is cost-competitive; for others, China's ecosystem still wins."
+  },
+  {
+    question: "Why are manufacturers moving from China to Vietnam?",
+    answer: "The 'China + 1' strategy drives diversification: manufacturers keep China operations but add Vietnam to reduce exposure to tariffs, rising Chinese labor costs, and supply-chain concentration risk. Vietnam offers lower wages, political stability, and preferential trade access through agreements like CPTPP and EVFTA, making it the leading '+1' destination."
+  },
+  {
+    question: "What can't Vietnam manufacture as well as China?",
+    answer: "China retains advantages in supply-chain depth and scale — particularly the availability of components, raw materials, and specialized sub-suppliers in dense industrial clusters. Vietnam still imports many inputs (often from China), and its total capacity is far smaller. Highly complex products needing a deep local component ecosystem can be harder to fully localize in Vietnam today."
+  },
+  {
+    question: "Does Vietnam have better trade access than China?",
+    answer: "For exports to certain markets, yes. Vietnam is part of CPTPP and has the EU–Vietnam FTA (EVFTA), giving its qualifying exports preferential tariff access to markets where Chinese goods may face higher duties. Both countries are in RCEP. This trade-agreement advantage is a major reason brands manufacture in Vietnam for export to the EU and CPTPP members."
+  },
+  {
+    question: "Should I choose Vietnam or China for manufacturing?",
+    answer: "It depends on your product, volume, and markets. China suits complex products needing deep supply chains, huge scale, or fast iteration. Vietnam suits cost-sensitive goods, diversification away from China concentration, and exports benefiting from EVFTA/CPTPP tariffs. Many companies use both — China as the core and Vietnam as the '+1.'"
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Comparison"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="compare-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/regulations/">Regulations</a>
+      <span aria-hidden="true">/</span>
+      <span>Manufacturing Comparison</span>
+    </nav>
+
+    <header class="compare-header">
+      <h1>{title}</h1>
+      <p class="compare-lead">
+        Vietnam and China are the two poles of the "China + 1" sourcing decision. This page
+        compares them on labor cost, scale, supply-chain depth, sectors, and trade access — and
+        explains why so many manufacturers add Vietnamese production rather than replacing China
+        outright. Figures are directional reference estimates; the right choice depends on product,
+        volume, and destination markets.
+      </p>
+    </header>
+
+    <section>
+      <h2>At a glance</h2>
+      <div class="compare-table-wrap">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Dimension</th>
+              {dims.map(d => <th>{d.name}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th>Labor</th>{dims.map(d => <td>{d.labor}</td>)}</tr>
+            <tr><th>Scale</th>{dims.map(d => <td>{d.scale}</td>)}</tr>
+            <tr><th>Supply-chain depth</th>{dims.map(d => <td>{d.depth}</td>)}</tr>
+            <tr><th>Sectors</th>{dims.map(d => <td>{d.sectors}</td>)}</tr>
+            <tr><th>Trade access</th>{dims.map(d => <td>{d.trade}</td>)}</tr>
+            <tr><th>Distinct edge</th>{dims.map(d => <td>{d.edge}</td>)}</tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Vietnam</h2>
+      <p>
+        Vietnam is the leading <a href="/glossary/china-1/">China + 1</a> destination: lower labor
+        costs, a young workforce, and preferential export access via
+        <a href="/glossary/cptpp/">CPTPP</a> and <a href="/glossary/evfta/">EVFTA</a>. Its
+        manufacturing base — strong in electronics, textiles, footwear, and furniture — has
+        expanded rapidly on the back of foreign direct investment. The main limitation is
+        supply-chain depth: many components are still imported, often from China.
+      </p>
+    </section>
+
+    <section>
+      <h2>China</h2>
+      <p>
+        China remains the world's manufacturing core, with unmatched scale, the deepest and most
+        complete supply chains, and dense industrial clusters where almost any component is
+        available locally. Wages are higher than Vietnam's, but for complex products the ecosystem,
+        speed, and capacity often outweigh the labor-cost gap. China's huge domestic market is an
+        added draw.
+      </p>
+    </section>
+
+    <section>
+      <h2>How to choose</h2>
+      <ul>
+        <li><strong>Complex products, deep components, max scale:</strong> China — the supply-chain ecosystem is hard to replicate.</li>
+        <li><strong>Cost-sensitive goods + diversification:</strong> Vietnam — lower wages and reduced concentration risk.</li>
+        <li><strong>Exporting to the EU / CPTPP markets:</strong> Vietnam — EVFTA and CPTPP tariff advantages, if you meet rules of origin.</li>
+        <li><strong>Reality:</strong> Most large buyers run both — China as the core, Vietnam as the "+1" — rather than choosing one exclusively.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-source-manufacturing-from-vietnam/">How to source manufacturing from Vietnam</a></li>
+        <li><a href="/stats/vietnam-manufacturing-fdi-2026/">Vietnam Manufacturing &amp; FDI Statistics 2026</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/regulations/">Regulatory environment — overview</a></li>
+        <li><a href="/glossary/china-1/">China + 1</a> · <a href="/glossary/fdi/">FDI</a> · <a href="/glossary/cptpp/">CPTPP</a> · <a href="/glossary/evfta/">EVFTA</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="compare-footer">
+      <a href="/regulations/">← Regulations overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .compare-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .compare-header { margin-bottom: var(--space-8); }
+  .compare-header h1 { border: none; margin-bottom: var(--space-3); }
+  .compare-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .compare-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .compare-table th, .compare-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; vertical-align: top; }
+  .compare-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .compare-table tbody th { background: var(--color-bg-subtle); font-weight: 500; white-space: nowrap; }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .compare-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .compare-footer a { color: var(--color-text-muted); }
+  .compare-footer a:hover { color: var(--color-accent); }
+</style>

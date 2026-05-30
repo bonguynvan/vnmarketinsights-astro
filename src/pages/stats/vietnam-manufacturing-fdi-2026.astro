@@ -1,0 +1,186 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Manufacturing & FDI Statistics 2026 — Industry & Investment Data";
+const description = "A curated roundup of Vietnam manufacturing and FDI statistics for 2026: foreign investment, key export sectors, trade agreements, industrial clusters, and the 'China + 1' shift — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-manufacturing-fdi-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Foreign direct investment',
+    intro: 'FDI is the engine of Vietnam’s manufacturing rise, led by export-oriented factories.',
+    stats: [
+      { value: 'Strong', label: 'Annual FDI inflows', note: 'Registered and disbursed capital both growing.' },
+      { value: 'Manufacturing', label: 'Largest FDI sector', note: 'Processing & manufacturing dominate.' },
+      { value: 'Korea/Japan/SG/China', label: 'Top source economies', note: 'Plus Taiwan and others.' },
+      { value: 'Export-led', label: 'FDI orientation', note: 'Factories built to export.' },
+      { value: 'China + 1', label: 'Key structural driver', note: 'Supply-chain diversification.' },
+    ],
+  },
+  {
+    heading: 'Key export sectors',
+    intro: 'A handful of sectors account for the bulk of Vietnam’s manufacturing exports.',
+    stats: [
+      { value: 'Electronics', label: 'Largest export category', note: 'Phones, components, assembly.' },
+      { value: 'Textiles & apparel', label: 'Major employer & exporter', note: 'Long-established sector.' },
+      { value: 'Footwear', label: 'Global production hub', note: 'Major brands manufacture here.' },
+      { value: 'Furniture & wood', label: 'Significant export sector', note: 'Strong to US/EU markets.' },
+      { value: 'Rising', label: 'Higher-value components', note: 'Moving up the value chain.' },
+    ],
+  },
+  {
+    heading: 'Trade & market access',
+    intro: 'A dense web of trade agreements underpins Vietnam’s export competitiveness.',
+    stats: [
+      { value: 'CPTPP', label: 'Trans-Pacific agreement', note: '11 Pacific-rim economies.' },
+      { value: 'EVFTA', label: 'EU–Vietnam FTA (since 2020)', note: 'Tariff access to the EU.' },
+      { value: 'RCEP', label: 'Asia-Pacific mega-agreement', note: 'Includes China, ASEAN, more.' },
+      { value: '15+', label: 'Free trade agreements signed', note: 'Broad preferential access.' },
+      { value: 'Surplus', label: 'Goods trade position', note: 'Persistent trade surpluses.' },
+    ],
+  },
+  {
+    heading: 'Industrial base & clusters',
+    intro: 'Production concentrates in northern and southern industrial corridors.',
+    stats: [
+      { value: 'North & South', label: 'Main manufacturing corridors', note: 'Around Hanoi and HCMC.' },
+      { value: 'Bac Ninh/Hai Phong', label: 'Northern electronics cluster', note: 'Major FDI factories.' },
+      { value: 'Binh Duong/Dong Nai', label: 'Southern industrial belt', note: 'Diverse manufacturing.' },
+      { value: 'Industrial parks', label: 'Primary FDI vehicle', note: 'Zones with incentives.' },
+    ],
+  },
+  {
+    heading: 'Workforce & costs',
+    intro: 'Competitive labor and a young workforce anchor Vietnam’s cost advantage.',
+    stats: [
+      { value: 'Lower', label: 'Labor cost vs China', note: 'A core draw for "+1" investment.' },
+      { value: 'Young', label: 'Workforce demographics', note: 'Large working-age population.' },
+      { value: 'Rising', label: 'Wages & productivity', note: 'Climbing with the value chain.' },
+      { value: 'Skills gap', label: 'Ongoing challenge', note: 'Higher-value roles need training.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Manufacturing & FDI Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam manufacturing", "FDI", "foreign direct investment", "China + 1", "exports", "CPTPP", "EVFTA", "industrial parks"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/regulations/">Regulations</a>
+      <span aria-hidden="true">/</span>
+      <span>Manufacturing &amp; FDI Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's manufacturing boom and foreign investment
+        in 2026 — FDI inflows, key export sectors, trade agreements, industrial clusters, and the
+        "China + 1" shift. Figures are reference estimates and qualitative descriptors compiled from
+        public sources; values vary across analysts and periods. See
+        <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference points intended to give a directional picture of Vietnam's
+        manufacturing and FDI landscape. Where hard figures vary across analysts and reporting
+        periods, we use qualitative descriptors rather than spurious precision. For definitions of
+        terms like FDI, China + 1, CPTPP, and EVFTA, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/regulations/">Regulatory environment — full overview</a></li>
+        <li><a href="/compare/vietnam-vs-china-manufacturing/">Vietnam vs China manufacturing — comparison</a></li>
+        <li><a href="/guides/how-to-source-manufacturing-from-vietnam/">How to source manufacturing from Vietnam</a> · <a href="/guides/vietnam-market-entry-guide/">Market entry guide</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">E-commerce</a> · <a href="/stats/vietnam-stock-market-2026/">Stock Market</a> statistics</li>
+        <li><a href="/glossary/fdi/">FDI</a> · <a href="/glossary/china-1/">China + 1</a> · <a href="/glossary/cptpp/">CPTPP</a> · <a href="/glossary/evfta/">EVFTA</a> (glossary)</li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/regulations/">← Regulations overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>
