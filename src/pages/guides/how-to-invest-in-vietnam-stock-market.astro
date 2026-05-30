@@ -1,0 +1,210 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Invest in the Vietnam Stock Market (2026) — Foreign Investor Guide";
+const description = "A practical guide for foreign investors entering Vietnam's stock market: exchanges, the VN-Index and VN30, how to open an account, foreign ownership limits, ETFs, and key risks.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-invest-in-vietnam-stock-market/";
+
+const steps = [
+  {
+    name: 'Understand the market structure',
+    text: 'Vietnam has two main exchanges: HOSE (Ho Chi Minh City Stock Exchange) and HNX (Hanoi Stock Exchange), plus UPCoM for unlisted public companies. The benchmark is the VN-Index; the VN30 tracks the 30 largest, most liquid stocks on HOSE.',
+  },
+  {
+    name: 'Get a securities trading code',
+    text: 'Foreign investors must obtain a securities trading code from the Vietnam Securities Depository (VSD) before trading. This requires identity and entity documentation, typically arranged through a local brokerage or custodian bank.',
+  },
+  {
+    name: 'Open a brokerage and capital account',
+    text: 'Open an account with a licensed Vietnamese securities brokerage and an indirect investment capital account (IICA) at a local bank to move funds in and out in compliance with foreign-exchange rules.',
+  },
+  {
+    name: 'Check foreign ownership limits',
+    text: 'Each stock has a foreign ownership limit (a cap on the percentage foreigners may collectively hold). When a stock hits its cap (fully "foreign-owned room"), foreigners can only buy from other foreigners, often at a premium.',
+  },
+  {
+    name: 'Choose direct stocks or ETFs',
+    text: 'You can buy individual stocks, or gain exposure via Vietnam-focused ETFs (domestic and offshore) that track the VN-Index, VN30, or diversified baskets — a simpler route for many foreign investors.',
+  },
+  {
+    name: 'Fund, trade, and manage risk',
+    text: 'Move capital through your IICA, trade through your broker, and account for currency (VND) exposure, liquidity, and concentration. Settlement cycles and trading bands differ from Western markets.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Can foreigners invest in the Vietnam stock market?",
+    answer: "Yes. Foreign individuals and institutions can invest, but they must first obtain a securities trading code from the Vietnam Securities Depository (VSD), open an account with a licensed local brokerage, and set up an indirect investment capital account (IICA) at a Vietnamese bank to handle fund flows under foreign-exchange rules."
+  },
+  {
+    question: "What is the VN-Index and VN30?",
+    answer: "The VN-Index is the benchmark index of all stocks listed on the Ho Chi Minh City Stock Exchange (HOSE), reflecting overall market performance. The VN30 is a sub-index of the 30 largest and most liquid stocks on HOSE — a blue-chip gauge that also underlies futures and many ETFs."
+  },
+  {
+    question: "What are foreign ownership limits in Vietnam stocks?",
+    answer: "Most Vietnamese listed companies cap the total stake foreigners may collectively hold — commonly up to 49% for many sectors, lower for sensitive industries like banking, and up to 100% for some. When a stock's 'foreign room' is fully used, foreigners can typically only buy shares from other foreign holders, sometimes at a premium."
+  },
+  {
+    question: "What is the easiest way for a foreigner to invest in Vietnam?",
+    answer: "For many foreign investors, Vietnam-focused ETFs are the simplest entry — both domestic ETFs (tracking the VN-Index or VN30) and offshore ETFs listed in markets like the US or Europe. ETFs avoid the account-setup and foreign-room complexity of buying individual Vietnamese stocks directly."
+  },
+  {
+    question: "What are the main risks of investing in Vietnam's stock market?",
+    answer: "Key risks include currency (VND) exposure, lower liquidity in smaller names, market volatility, concentration in a few large sectors (banks, real estate), corporate-governance variability, and regulatory/foreign-room constraints. Vietnam is classified as a frontier market by major index providers, with a potential emerging-market upgrade as a watch item."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Invest in the Vietnam Stock Market",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Invest in Vietnam Stock Market</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Vietnam's stock market is one of Asia's most-watched frontier markets, with a young
+        economy, strong growth, and a potential emerging-market upgrade on the horizon. This guide
+        explains the market structure, how foreign investors open accounts and trade, how foreign
+        ownership limits work, and the main risks. It's an orientation, not investment advice —
+        consult a licensed adviser before investing.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Direct stocks vs ETFs</h2>
+      <p>
+        Buying individual Vietnamese stocks gives precision but means navigating account setup,
+        foreign-room limits, and local settlement rules. Vietnam-focused ETFs — both domestic
+        funds tracking the VN-Index or VN30 and offshore ETFs listed abroad — offer diversified
+        exposure with far less administrative friction, which is why many foreign investors start
+        there before going direct.
+      </p>
+    </section>
+
+    <section>
+      <h2>Foreign ownership limits in practice</h2>
+      <p>
+        Most listed companies cap how much of their stock foreigners may collectively own — the
+        <a href="/glossary/foreign-ownership-limit/">foreign ownership limit</a>. Once a stock's
+        "foreign room" is exhausted, new foreign buyers can usually only acquire shares from
+        existing foreign holders, often at a premium to the local price. Checking available foreign
+        room is a routine part of trading attractive blue-chips in Vietnam.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a></li>
+        <li><a href="/insights/vietnam-stock-market-overview/">Vietnam stock market overview — insights article</a></li>
+        <li><a href="/insights/vn30-index-intro/">VN30 index — introduction</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/glossary/fdi/">FDI (glossary)</a> · <a href="/glossary/foreign-ownership-limit/">Foreign ownership limit (glossary)</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

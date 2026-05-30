@@ -1,0 +1,184 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Logistics & Delivery Statistics 2026 — Last-Mile Market Data";
+const description = "A curated roundup of Vietnam logistics statistics for 2026: last-mile carriers, delivery speed, COD share, e-commerce parcel volume, warehousing, and market structure — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-logistics-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Last-mile carriers',
+    intro: 'A competitive field of independent and platform-owned carriers keeps delivery fast and cheap.',
+    stats: [
+      { value: '3+', label: 'Major independent carriers (GHN, GHTK, J&T)', note: 'Plus Ninja Van and others.' },
+      { value: 'SPX, LEX', label: 'Platform-owned networks', note: 'Shopee\'s SPX Express and Lazada\'s LEX.' },
+      { value: 'Cheapest', label: 'GHTK positioning for light parcels', note: '"Economical delivery" model.' },
+      { value: 'Speed-led', label: 'GHN positioning', note: '"Fast delivery" with strong metro density.' },
+      { value: 'Volume-led', label: 'J&T Express positioning', note: 'Aggressive pricing, fast hub expansion.' },
+    ],
+  },
+  {
+    heading: 'Delivery speed & coverage',
+    intro: 'Metro delivery rivals regional peers; rural reach is the competitive frontier.',
+    stats: [
+      { value: '1–2 days', label: 'Typical intra-city delivery (HCMC, Hanoi)', note: 'Same-day available in core areas.' },
+      { value: '2–4 days', label: 'Typical inter-region delivery', note: 'Longer to remote provinces.' },
+      { value: 'Nationwide', label: 'Coverage of leading carriers', note: 'Deep tier-2/3 and rural networks.' },
+      { value: 'Growing', label: 'Rural and remote-area service', note: 'Key battleground for carriers.' },
+    ],
+  },
+  {
+    heading: 'E-commerce & parcels',
+    intro: 'E-commerce growth is the primary driver of parcel volume and last-mile investment.',
+    stats: [
+      { value: 'High growth', label: 'E-commerce parcel volume trend', note: 'Tracks ~20%+ e-commerce GMV growth.' },
+      { value: 'Declining', label: 'Cash-on-delivery (COD) share', note: 'Still significant but shrinking yearly.' },
+      { value: 'Fast remit', label: 'COD remittance as a differentiator', note: 'Faster payback wins larger sellers.' },
+      { value: 'Multi-carrier', label: 'Common seller strategy', note: 'Split by route, weight, and parcel value.' },
+    ],
+  },
+  {
+    heading: 'Warehousing & infrastructure',
+    intro: 'Fulfillment infrastructure is scaling to support faster delivery and returns.',
+    stats: [
+      { value: 'Expanding', label: 'Sorting hub and fulfillment-center capacity', note: 'Carrier and platform investment.' },
+      { value: 'Automation', label: 'Trend in large sorting centers', note: 'Conveyor and scan automation.' },
+      { value: 'Urban', label: 'Concentration of fulfillment capacity', note: 'HCMC and Hanoi industrial zones.' },
+      { value: 'Rising', label: 'Demand for modern logistics real estate', note: 'Driven by e-commerce and manufacturing.' },
+    ],
+  },
+  {
+    heading: 'Market structure',
+    intro: 'Vietnam\'s logistics market spans last-mile, freight, and cross-border, attracting capital.',
+    stats: [
+      { value: 'Fragmented', label: 'Overall logistics market structure', note: 'Many providers across segments.' },
+      { value: 'Consolidating', label: 'Last-mile competitive trend', note: 'Scale and capital favor larger carriers.' },
+      { value: 'FDI-backed', label: 'Funding of leading carriers', note: 'Regional and global investors.' },
+      { value: 'Cross-border', label: 'Growth segment', note: 'Linked to cross-border e-commerce.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Logistics & Delivery Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam logistics", "last-mile delivery", "GHN", "GHTK", "J&T Express", "COD", "e-commerce parcels", "warehousing"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/logistics/">Logistics</a>
+      <span aria-hidden="true">/</span>
+      <span>Logistics Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's logistics and last-mile delivery market
+        in 2026 — carriers, delivery speed, COD trends, e-commerce parcel volume, warehousing, and
+        market structure. Figures are reference estimates compiled from public industry reports and
+        primary sources; ranges and qualitative descriptors reflect differences across analysts.
+        See <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference estimates intended to give a directional picture of
+        Vietnam's logistics market. Where hard figures vary across analysts, we use qualitative
+        descriptors rather than spurious precision. For definitions of terms like last-mile
+        delivery, COD, and fulfillment, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/logistics/">Vietnam Logistics &amp; Delivery — full overview</a></li>
+        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express — carrier comparison</a></li>
+        <li><a href="/stats/vietnam-ecommerce-2026/">Vietnam E-commerce Statistics 2026</a></li>
+        <li><a href="/insights/logistics-last-mile/">Logistics &amp; last-mile delivery — insights article</a></li>
+        <li><a href="/glossary/last-mile-delivery/">Last-mile delivery (glossary)</a> · <a href="/glossary/cod/">COD (glossary)</a></li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/logistics/">← Logistics overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>

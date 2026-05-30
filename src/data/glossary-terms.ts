@@ -202,6 +202,55 @@ const RAW_TERMS: Array<Omit<GlossaryTerm, 'slug'>> = [
       "E-wallet integrated with Grab's super-app in Vietnam, focused on transportation, food delivery, and lifestyle payments.",
     relatedTopics: ['payments', 'platforms', 'logistics'],
   },
+  {
+    term: 'GMV (Gross Merchandise Value)',
+    category: 'E-commerce',
+    definition:
+      'The total value of goods sold through a marketplace or platform over a period, before deducting fees, discounts, or returns. The headline metric used to size Vietnam e-commerce platforms like Shopee, Lazada, and TikTok Shop.',
+    relatedTopics: ['ecommerce', 'platforms'],
+  },
+  {
+    term: 'Marketplace',
+    category: 'E-commerce',
+    definition:
+      'An online platform that connects many third-party sellers with buyers, handling discovery, checkout, and often logistics. In Vietnam the major marketplaces are Shopee, Lazada, TikTok Shop, and Tiki.',
+    relatedTopics: ['ecommerce', 'platforms'],
+  },
+  {
+    term: 'Live Commerce',
+    category: 'E-commerce',
+    definition:
+      'Selling products through live video streams where hosts demonstrate items and viewers buy in real time. A fast-growing channel in Vietnam, driven by TikTok, Facebook, and platform-native livestreams.',
+    relatedTopics: ['ecommerce', 'platforms', 'consumers'],
+  },
+  {
+    term: 'Fintech',
+    category: 'Payments',
+    definition:
+      'Financial technology — companies using software to deliver payments, lending, wealth, and insurance services. In Vietnam, fintech is led by e-wallets and QR payments, expanding into digital lending and BNPL.',
+    relatedTopics: ['payments', 'regulations'],
+  },
+  {
+    term: 'FDI (Foreign Direct Investment)',
+    category: 'Regulations',
+    definition:
+      'Investment by a foreign company or individual into business operations in Vietnam — building factories, establishing entities, or taking equity. A major driver of Vietnam\'s manufacturing growth and "China + 1" supply-chain role.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'SME (Small and Medium Enterprise)',
+    category: 'Regulations',
+    definition:
+      'Small and medium-sized enterprises — the backbone of Vietnam\'s economy by business count and employment. Many Vietnamese online sellers and merchants are micro-SMEs operating on marketplaces and social platforms.',
+    relatedTopics: ['regulations', 'ecommerce'],
+  },
+  {
+    term: 'Foreign Ownership Limit',
+    category: 'Regulations',
+    definition:
+      'The maximum stake a foreign investor may hold in a Vietnamese company in a given sector, set by WTO commitments and trade agreements. Limits vary by industry; some sectors allow 100% foreign ownership while others require a local partner.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
 ];
 
 export const GLOSSARY_TERMS: GlossaryTerm[] = RAW_TERMS.map((entry) => ({

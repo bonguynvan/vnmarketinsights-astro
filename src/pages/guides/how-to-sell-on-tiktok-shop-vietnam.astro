@@ -1,0 +1,214 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Sell on TikTok Shop in Vietnam (2026) — Step-by-Step Guide";
+const description = "A practical step-by-step guide to selling on TikTok Shop Vietnam: seller registration, listing products, livestream commerce, fees, logistics, and creator collaborations.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-sell-on-tiktok-shop-vietnam/";
+
+const steps = [
+  {
+    name: 'Register a TikTok Shop seller account',
+    text: 'Sign up in TikTok Shop Seller Center with a Vietnamese business registration or eligible individual seller documents, plus a Vietnamese phone number and bank account. Complete KYC verification before listing.',
+  },
+  {
+    name: 'Link your TikTok content account',
+    text: 'Connect the seller account to your TikTok profile so products can be tagged in videos and livestreams. This link is what turns content into shoppable commerce.',
+  },
+  {
+    name: 'List products with video in mind',
+    text: 'Create listings with clear images, keyword-rich titles, accurate categories, weight, and dimensions. Prioritize SKUs that demonstrate well on video — fashion, beauty, accessories, FMCG novelties.',
+  },
+  {
+    name: 'Set up logistics',
+    text: 'Enable integrated carriers (GHN, GHTK, J&T, Ninja Van) and TikTok\'s fulfillment options where available. Accurate parcel weight and dimensions determine shipping fees and carrier eligibility.',
+  },
+  {
+    name: 'Plan livestreams and short videos',
+    text: 'TikTok Shop\'s engine is content. Schedule regular livestreams, post product short-videos, and build a content calendar around launches and campaigns. Demonstration and urgency drive conversion.',
+  },
+  {
+    name: 'Collaborate with creators (affiliates)',
+    text: 'Use the TikTok Shop affiliate program to let creators promote your products for commission. Creator-led livestreams are the single biggest volume driver on the platform in Vietnam.',
+  },
+  {
+    name: 'Launch, fulfill, and optimize',
+    text: 'Ship within the required window to protect your rating, then iterate on titles, price, and content based on views-to-conversion. Strong fulfillment and engagement compound into ranking and recommendation.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Can foreigners sell on TikTok Shop Vietnam?",
+    answer: "Generally, sellers need a Vietnamese business registration (or eligible individual documents), a Vietnamese bank account, phone number, and KYC verification. Foreign brands typically operate through a registered Vietnamese entity, a local partner, or an authorized distributor/agency that runs the TikTok Shop on their behalf."
+  },
+  {
+    question: "How much does it cost to sell on TikTok Shop in Vietnam?",
+    answer: "There's no listing fee, but TikTok Shop charges a per-order commission (category-dependent, broadly similar to other marketplaces at roughly 2–5%), payment-processing fees, and affiliate commissions you set for creators. Add the cost of ads and livestream production, and the effective take rate is meaningfully higher than the headline commission."
+  },
+  {
+    question: "What is the difference between TikTok Shop and Shopee?",
+    answer: "Shopee is a search-and-browse marketplace where buyers actively look for products; TikTok Shop is discovery-driven, surfacing products inside the for-you feed and livestreams before buyers are actively searching. Shopee wins on breadth and price-led demand; TikTok Shop wins on content-led impulse demand, especially for video-friendly categories."
+  },
+  {
+    question: "What sells best on TikTok Shop Vietnam?",
+    answer: "Categories that demonstrate well on video over-index: fashion and accessories, beauty and personal care, FMCG and novelty products, and low-to-mid ticket impulse buys. High-consideration or complex products that require comparison shopping tend to convert better on traditional marketplaces."
+  },
+  {
+    question: "How important is livestream selling on TikTok Shop?",
+    answer: "Very. Livestream commerce is the core growth engine of TikTok Shop in Vietnam. Regular seller livestreams plus creator/affiliate livestreams during campaigns can drive a disproportionate share of total sales, far more than static listings alone."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Sell on TikTok Shop in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Sell on TikTok Shop Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        TikTok Shop is the fastest-growing e-commerce channel in Vietnam, built on livestream and
+        short-video commerce rather than traditional search. This guide walks through how to start
+        selling on TikTok Shop Vietnam — registration, listings, fees, logistics, and the content
+        and creator mechanics that actually drive sales. Details and fees change, so confirm
+        current terms in TikTok Shop Seller Center.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Why content is the engine</h2>
+      <p>
+        Unlike a search-first marketplace, TikTok Shop surfaces products through the for-you feed
+        and <a href="/glossary/live-commerce/">live commerce</a>. That means your sales are a
+        function of content output and creator reach, not just listing quality. Sellers who treat
+        TikTok Shop like a static catalog underperform; those who run consistent livestreams and
+        recruit affiliates through the creator program capture the platform's real upside.
+      </p>
+    </section>
+
+    <section>
+      <h2>Logistics and fees</h2>
+      <p>
+        TikTok Shop integrates major carriers — <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T Express</a> —
+        plus Ninja Van and its own fulfillment pilots. Costs stack across per-order commission,
+        payment processing, affiliate commissions you set for creators, and ad/production spend.
+        Price with enough margin to fund creator commissions and promotions, which are central to
+        the channel rather than optional.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a></li>
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop — platform comparison</a></li>
+        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express — carrier comparison</a></li>
+        <li><a href="/insights/social-live-commerce/">Social and live commerce — insights article</a></li>
+        <li><a href="/glossary/live-commerce/">Live commerce (glossary)</a> · <a href="/glossary/gmv/">GMV (glossary)</a> · <a href="/glossary/marketplace/">Marketplace (glossary)</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
