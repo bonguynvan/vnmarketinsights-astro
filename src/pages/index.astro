@@ -24,20 +24,43 @@ import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
 
   <section class="hero">
     <div class="hero__content">
-      <h1 class="hero__title">Understand Vietnam's market in minutes</h1>
+      <span class="hero__eyebrow">
+        <svg class="hero__star" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2l2.9 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 7.1-1.01L12 2z"/></svg>
+        Vietnam Market Insights
+      </span>
+      <h1 class="hero__title">Understand Vietnam's market, <span class="hero__title-accent">made legible</span></h1>
       <p class="hero__subtitle">
-        Trusted reference pages and free tools for operators, founders, and researchers.
+        Structured reference pages, real data, and free tools for operators, founders, and
+        researchers — across e-commerce, payments, logistics, and financial markets.
       </p>
       <div class="hero__actions">
-        <a href="/snapshot" class="hero__primary-btn" data-track-event="homepage_cta_click" data-track-category="acquisition" data-track-label="analyze_first_website">Analyze your first website</a>
-      </div>
-      <div class="hero__secondary-links">
-        <a href="/topics" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="explore_topics">Explore topics</a>
-        <a href="/tools" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="browse_tools">Browse all tools</a>
-        <a href="/insights" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="read_insights">Read insights</a>
-        <a href="/workspace" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="open_workspace">Open workspace</a>
+        <a href="/topics" class="hero__primary-btn" data-track-event="homepage_cta_click" data-track-category="acquisition" data-track-label="explore_topics">Explore the market</a>
+        <a href="/snapshot" class="hero__secondary-btn" data-track-event="homepage_secondary_click" data-track-category="acquisition" data-track-label="analyze_first_website">Analyze a website</a>
       </div>
     </div>
+
+    <dl class="hero__stats" aria-label="Vietnam at a glance (2024)">
+      <div class="hero-stat">
+        <dt class="hero-stat__label">GDP (2024)</dt>
+        <dd class="hero-stat__value">$476B</dd>
+        <dd class="hero-stat__sub">+7.09% growth</dd>
+      </div>
+      <div class="hero-stat">
+        <dt class="hero-stat__label">Population</dt>
+        <dd class="hero-stat__value">~101M</dd>
+        <dd class="hero-stat__sub">young, mobile-first</dd>
+      </div>
+      <div class="hero-stat">
+        <dt class="hero-stat__label">E-commerce</dt>
+        <dd class="hero-stat__value">$25B+</dd>
+        <dd class="hero-stat__sub">#3 in Southeast Asia</dd>
+      </div>
+      <div class="hero-stat">
+        <dt class="hero-stat__label">Internet users</dt>
+        <dd class="hero-stat__value">78.4M</dd>
+        <dd class="hero-stat__sub">79% penetration</dd>
+      </div>
+    </dl>
   </section>
 
   <section class="quick-starts">
@@ -96,29 +119,63 @@ import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
 </BaseLayout>
 
 <style>
-  .hero { text-align: center; margin-bottom: var(--space-12); }
-  .hero__title { margin-bottom: var(--space-3); border: none; }
-  .hero__subtitle { font-size: var(--text-lg); color: var(--color-text-muted); max-width: 560px; margin: 0 auto var(--space-8); }
-  .hero__actions { display: flex; flex-wrap: wrap; gap: var(--space-4); justify-content: center; }
+  .hero {
+    text-align: center;
+    margin-bottom: var(--space-12);
+    padding: var(--space-12) var(--space-6) var(--space-10);
+    border-radius: 18px;
+    background:
+      radial-gradient(60% 70% at 50% -10%, color-mix(in srgb, var(--color-accent) 9%, transparent), transparent 70%),
+      var(--color-bg-subtle);
+    border: 1px solid var(--color-border-light);
+  }
+  .hero__eyebrow {
+    display: inline-flex; align-items: center; gap: 0.45rem;
+    font-size: var(--text-sm); font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;
+    color: var(--color-accent);
+    margin-bottom: var(--space-4);
+  }
+  .hero__star { width: 16px; height: 16px; color: var(--color-gold); }
+  .hero__title {
+    margin: 0 auto var(--space-4); border: none;
+    font-size: clamp(2rem, 1.2rem + 3.5vw, 3.25rem); line-height: 1.1; letter-spacing: -0.02em;
+    max-width: 720px;
+  }
+  .hero__title-accent { color: var(--color-accent); }
+  .hero__subtitle { font-size: var(--text-lg); color: var(--color-text-muted); max-width: 620px; margin: 0 auto var(--space-8); line-height: 1.6; }
+  .hero__actions { display: flex; flex-wrap: wrap; gap: var(--space-3); justify-content: center; }
   .hero__primary-btn {
-    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-8);
-    background: #1a1a1a; color: white; border-radius: 50px; font-weight: 700; text-decoration: none;
+    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-6);
+    background: var(--color-accent); color: white; border-radius: 50px; font-weight: 700; text-decoration: none;
     transition: all 0.2s ease;
   }
-  .hero__primary-btn:hover { background: #000; transform: translateY(-2px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); color: white; }
+  .hero__primary-btn:hover { background: var(--color-accent-hover); transform: translateY(-2px); box-shadow: 0 10px 24px color-mix(in srgb, var(--color-accent) 30%, transparent); color: white; }
   .hero__secondary-btn {
-    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-8);
-    background: white; color: #1a1a1a; border: 1px solid var(--color-border); border-radius: 50px; font-weight: 600; text-decoration: none;
+    display: inline-flex; align-items: center; padding: var(--space-3) var(--space-6);
+    background: var(--color-bg); color: var(--color-ink); border: 1px solid var(--color-border); border-radius: 50px; font-weight: 600; text-decoration: none;
     transition: all 0.2s ease;
   }
-  .hero__secondary-btn:hover { border-color: #1a1a1a; background: var(--color-bg-subtle); transform: translateY(-2px); color: #1a1a1a; }
-  .hero__secondary-links {
-    margin-top: var(--space-4);
-    display: flex;
-    justify-content: center;
-    gap: var(--space-4);
-    flex-wrap: wrap;
-    font-size: var(--text-sm);
+  .hero__secondary-btn:hover { border-color: var(--color-ink); background: var(--color-bg-subtle); transform: translateY(-2px); color: var(--color-ink); }
+
+  .hero__stats {
+    display: grid; grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-3);
+    max-width: 760px; margin: var(--space-10) auto 0;
+  }
+  .hero-stat {
+    padding: var(--space-4) var(--space-3);
+    background: var(--color-bg);
+    border: 1px solid var(--color-border-light);
+    border-radius: 12px;
+    text-align: center;
+  }
+  .hero-stat__label { margin: 0; font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-text-light); }
+  .hero-stat__value { margin: var(--space-2) 0 0; font-size: var(--text-2xl); font-weight: 800; line-height: 1; color: var(--color-accent); font-variant-numeric: tabular-nums; }
+  .hero-stat__sub { margin: var(--space-1) 0 0; font-size: var(--text-xs); color: var(--color-text-muted); }
+
+  @media (max-width: 640px) {
+    .hero { padding: var(--space-8) var(--space-4) var(--space-6); }
+    .hero__stats { grid-template-columns: repeat(2, 1fr); }
   }
 
   .quick-starts { margin-bottom: var(--space-12); }
