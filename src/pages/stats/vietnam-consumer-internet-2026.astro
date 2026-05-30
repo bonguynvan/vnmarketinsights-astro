@@ -13,8 +13,8 @@ const groups: Group[] = [
     heading: 'Population & demographics',
     intro: 'A large, young population is the foundation of Vietnam\'s consumer and digital growth.',
     stats: [
-      { value: '~100M', label: 'Total population', note: 'Large, young consumer base.' },
-      { value: 'Young', label: 'Median age (early 30s)', note: 'Digital-native skew.' },
+      { value: '~101M', label: 'Total population (2024)', note: '15th most populous country.', source: 'GSO, 2024' },
+      { value: '~33', label: 'Median age', note: 'Young, working-age-heavy.', source: 'UN / GSO est.' },
       { value: 'Gen Z / Y', label: 'Core online-shopping demographic', note: 'Brand-curious and mobile-first.' },
       { value: 'Urbanizing', label: 'Population trend', note: 'Growing urban middle class.' },
       { value: 'Rising', label: 'Tier-2/3 city consumption', note: 'Next wave of demand.' },
@@ -24,18 +24,18 @@ const groups: Group[] = [
     heading: 'Internet & connectivity',
     intro: 'Connectivity is high and overwhelmingly mobile, shaping how Vietnamese consume and shop.',
     stats: [
-      { value: '~78M+', label: 'Internet users', note: 'High penetration of the population.' },
-      { value: '~75%+', label: 'Internet penetration rate', note: 'Among the highest in the region.' },
-      { value: 'Mobile-first', label: 'Dominant access device', note: 'Smartphones lead internet use.' },
-      { value: 'High', label: 'Smartphone penetration', note: 'Affordable Android devices widespread.' },
-      { value: 'Hours/day', label: 'Significant daily time online', note: 'Heavy social and video usage.' },
+      { value: '78.4M', label: 'Internet users (Jan 2024)', note: 'Up ~0.6% YoY.', source: 'DataReportal, 2024' },
+      { value: '79.1%', label: 'Internet penetration (Jan 2024)', note: 'Among the highest in the region.', source: 'DataReportal, 2024' },
+      { value: '168.5M', label: 'Mobile connections (Jan 2024)', note: '169.8% of population.', source: 'DataReportal, 2024' },
+      { value: 'Mobile-first', label: 'Dominant access device', note: 'Most internet use is on phones.' },
+      { value: '~84M', label: 'Smartphone users (est.)', note: 'Affordable Android devices widespread.', source: 'Industry est., 2024' },
     ],
   },
   {
     heading: 'Social media & content',
     intro: 'Vietnamese consumers are heavy social and short-video users, driving social commerce.',
     stats: [
-      { value: 'Very high', label: 'Social media usage', note: 'Facebook, TikTok, YouTube, Zalo.' },
+      { value: '72.7M', label: 'Social media users (Jan 2024)', note: '73.3% of the population.', source: 'DataReportal, 2024' },
       { value: 'Zalo', label: 'Leading domestic messaging app', note: 'Near-universal local reach.' },
       { value: 'Short-video', label: 'Fastest-growing content format', note: 'TikTok and Reels dominate attention.' },
       { value: 'Creator-led', label: 'Key purchase influence', note: 'Influencers and livestreams shape demand.' },
@@ -45,7 +45,7 @@ const groups: Group[] = [
     heading: 'Online shopping behavior',
     intro: 'Online shopping is mainstream, social-influenced, and increasingly cashless.',
     stats: [
-      { value: 'Mainstream', label: 'Online shopping adoption', note: 'Especially in urban areas.' },
+      { value: '$16B', label: 'Spent online via top platforms (2024)', note: 'Across Shopee, Lazada, TikTok Shop, Tiki.', source: 'Metric, 2024' },
       { value: 'Social-first', label: 'Discovery channel', note: 'Shopping often starts on social feeds.' },
       { value: 'Price-sensitive', label: 'Core buyer behavior', note: 'Vouchers and free shipping drive choice.' },
       { value: 'Declining COD', label: 'Payment trend', note: 'Shift toward wallets and QR at checkout.' },
@@ -56,9 +56,9 @@ const groups: Group[] = [
     heading: 'Spending & economy',
     intro: 'Rising incomes and a growing middle class expand the addressable consumer market.',
     stats: [
-      { value: 'Growing', label: 'Middle class', note: 'Expanding discretionary spending.' },
-      { value: 'Rising', label: 'Household incomes', note: 'Supports premiumization over time.' },
-      { value: 'Strong', label: 'GDP growth trajectory', note: 'Among Asia\'s faster-growing economies.' },
+      { value: '~$4,700', label: 'GDP per capita (2024)', note: 'Rising discretionary spending.', source: 'GSO, 2024' },
+      { value: '7.09%', label: 'GDP growth (2024)', note: 'Among Asia\'s faster-growing economies.', source: 'GSO, 2024' },
+      { value: 'Growing', label: 'Middle class', note: 'Expanding consumption and premiumization.' },
       { value: 'Digital', label: 'Direction of consumer spend', note: 'More commerce, payments, services online.' },
     ],
   },
@@ -139,6 +139,11 @@ const datasetSchema = {
         Vietnam's digital consumer. Where hard figures vary across analysts, we use ranges or
         qualitative descriptors rather than spurious precision. For definitions of terms like
         super-app, social commerce, and live commerce, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> DataReportal "Digital 2024: Vietnam" (We Are Social ·
+        Meltwater); General Statistics Office (GSO); Metric. Figures are early/full-year 2024
+        unless noted; verify against the primary source before relying on a specific number.
       </p>
     </section>
 
