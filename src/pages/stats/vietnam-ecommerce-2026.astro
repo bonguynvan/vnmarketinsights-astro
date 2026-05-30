@@ -1,0 +1,199 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam E-Commerce Statistics 2026 — 35+ Key Numbers & Market Data";
+const description = "A curated roundup of 35+ Vietnam e-commerce statistics for 2026: market size, GMV, platform share, digital payments, logistics, social commerce, and consumer behavior — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-ecommerce-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Market size & growth',
+    intro: 'Vietnam remains one of the fastest-growing digital economies in Southeast Asia, led by e-commerce.',
+    stats: [
+      { value: '~$25–30B', label: 'Estimated e-commerce GMV in 2025–2026', note: 'Goods only; growing double digits year over year.' },
+      { value: '~20%+', label: 'Annual e-commerce GMV growth rate', note: 'Among the highest in the region.' },
+      { value: '~$45B', label: 'Total digital economy GMV (incl. travel, transport, media)', note: 'e-Conomy SEA reference range.' },
+      { value: '#3', label: 'Rank by digital economy size in Southeast Asia', note: 'Behind Indonesia and Thailand.' },
+      { value: '~10%', label: 'E-commerce share of total retail sales', note: 'Headroom remains vs. mature markets.' },
+    ],
+  },
+  {
+    heading: 'Platforms & marketplaces',
+    intro: 'Three platforms — Shopee, Lazada, and TikTok Shop — capture most marketplace GMV.',
+    stats: [
+      { value: '~60–65%', label: 'Shopee share of marketplace GMV', note: 'Clear market leader.' },
+      { value: '~20–25%', label: 'Lazada share of marketplace GMV', note: 'Strong in authorized-brand (LazMall) channel.' },
+      { value: 'Double-digit', label: 'TikTok Shop GMV share since 2022 launch', note: 'Fastest-growing platform.' },
+      { value: '~800K+', label: 'Active merchants on the largest platform', note: 'Long tail of micro-sellers dominates count.' },
+      { value: '4', label: 'Major marketplaces (Shopee, Lazada, TikTok Shop, Tiki)', note: 'Tiki holds a smaller domestic niche.' },
+    ],
+  },
+  {
+    heading: 'Digital payments & fintech',
+    intro: 'Cash is declining as e-wallets, QR, and bank transfers take share — but COD still matters.',
+    stats: [
+      { value: '~50M+', label: 'E-wallet users (active accounts)', note: 'MoMo, ZaloPay, ViettelPay lead.' },
+      { value: '~60%+', label: 'MoMo share of the e-wallet market', note: 'Dominant super-app wallet.' },
+      { value: 'Falling', label: 'Cash-on-delivery share of e-commerce payments', note: 'Still significant but declining yearly.' },
+      { value: 'Rapid', label: 'Growth of QR-code payments', note: 'VietQR interoperability accelerated adoption.' },
+      { value: 'Emerging', label: 'Buy-now-pay-later (BNPL) adoption', note: 'Early but growing among younger buyers.' },
+    ],
+  },
+  {
+    heading: 'Logistics & fulfillment',
+    intro: 'A competitive last-mile market keeps delivery fast and cheap relative to peers.',
+    stats: [
+      { value: '1–2 days', label: 'Typical intra-city delivery (HCMC, Hanoi)', note: 'GHN, J&T competitive on metro speed.' },
+      { value: '2–4 days', label: 'Typical inter-region delivery', note: 'Longer to rural / remote areas.' },
+      { value: '3+', label: 'Major independent carriers (GHN, GHTK, J&T)', note: 'Plus platform-owned SPX and LEX.' },
+      { value: 'Nationwide', label: 'Coverage of leading carriers', note: 'Deep tier-2/3 and rural reach.' },
+      { value: 'Cheapest', label: 'GHTK positioning for light parcels', note: 'Built for low-value e-commerce parcels.' },
+    ],
+  },
+  {
+    heading: 'Social & live commerce',
+    intro: 'Vietnam over-indexes on social and livestream selling versus Western markets.',
+    stats: [
+      { value: 'Mainstream', label: 'Livestream shopping adoption', note: 'TikTok, Facebook, platform-native live.' },
+      { value: 'High', label: 'Share of sales influenced by social channels', note: 'Discovery often starts on social feeds.' },
+      { value: 'Fashion/beauty/FMCG', label: 'Top live-commerce categories', note: 'Demonstrate well on video.' },
+      { value: 'Creators', label: 'Key driver of TikTok Shop volume', note: 'Influencer-led livestream events.' },
+    ],
+  },
+  {
+    heading: 'Internet & consumer behavior',
+    intro: 'A young, mobile-first, highly connected population underpins the whole market.',
+    stats: [
+      { value: '~78M+', label: 'Internet users', note: 'High penetration of the population.' },
+      { value: '~75%+', label: 'Internet penetration rate', note: 'Among the highest in the region.' },
+      { value: 'Mobile-first', label: 'Dominant access device', note: 'Most shopping happens on smartphones.' },
+      { value: '~100M', label: 'Total population', note: 'Large, young consumer base.' },
+      { value: 'Gen Z / Millennials', label: 'Core online-shopping demographic', note: 'Digital-native and brand-curious.' },
+      { value: 'Rising', label: 'Tier-2/3 city online shopping growth', note: 'Next wave of e-commerce demand.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam E-Commerce Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam e-commerce", "GMV", "digital payments", "logistics", "social commerce", "market statistics"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-30"
+  lastUpdated="2026-05-30"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/ecommerce/">E-commerce</a>
+      <span aria-hidden="true">/</span>
+      <span>Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers that define Vietnam's e-commerce market in 2026 —
+        spanning market size, platform share, digital payments, logistics, social commerce,
+        and consumer behavior. Figures are reference estimates compiled from public industry
+        reports and primary sources; ranges reflect differences across analysts. See
+        <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference estimates intended to give a directional picture of
+        Vietnam's e-commerce market. Where analysts disagree, we present ranges rather than
+        single figures. GMV (gross merchandise value) numbers in particular vary by whether
+        services, travel, and informal social-commerce sales are included. For definitions of
+        terms like GMV, COD, and live commerce, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/ecommerce/">Vietnam E-commerce Market — full overview</a></li>
+        <li><a href="/payments/">Digital Payments &amp; Fintech — overview</a> · <a href="/logistics/">Logistics &amp; Delivery — overview</a></li>
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a></li>
+        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express</a></li>
+        <li><a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay</a></li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/ecommerce/">← E-commerce overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>
