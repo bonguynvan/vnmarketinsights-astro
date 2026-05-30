@@ -5,7 +5,7 @@ const title = "Vietnam Economy Statistics 2026 — GDP, Trade, FDI & Macro Data"
 const description = "A curated roundup of Vietnam economy statistics for 2026: GDP and growth, trade and exports, FDI, inflation, currency, population, and the structure of the economy — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-economy-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
@@ -13,39 +13,39 @@ const groups: Group[] = [
     heading: 'Growth & output',
     intro: 'Vietnam is among Asia\'s faster-growing economies, led by manufacturing and services.',
     stats: [
-      { value: 'Fast', label: 'Real GDP growth', note: 'Among the highest in the region.' },
-      { value: 'Mid-income', label: 'Income classification', note: 'Lower-middle-income, rising.' },
+      { value: '7.09%', label: 'Real GDP growth (2024)', note: 'Among Asia\'s fastest; up from 5.05% in 2023.', source: 'GSO, 2024' },
+      { value: '~$476B', label: 'Nominal GDP (2024)', note: 'Roughly the world\'s ~35th-largest economy.', source: 'GSO / IMF, 2024' },
+      { value: '~$4,700', label: 'GDP per capita (2024)', note: 'Lower-middle-income and rising.', source: 'GSO, 2024' },
       { value: 'Manufacturing', label: 'Key growth engine', note: 'Plus services and exports.' },
-      { value: 'Resilient', label: 'Post-pandemic recovery', note: 'Export- and FDI-driven.' },
     ],
   },
   {
     heading: 'Trade & exports',
     intro: 'A highly open, trade-dependent economy with persistent goods surpluses.',
     stats: [
-      { value: 'High', label: 'Trade-to-GDP ratio', note: 'One of the most open economies.' },
-      { value: 'Surplus', label: 'Goods trade balance', note: 'Recurring trade surpluses.' },
-      { value: 'Electronics', label: 'Top export category', note: 'Phones, components, machinery.' },
-      { value: 'US/China/EU', label: 'Largest trade partners', note: 'Plus Korea, Japan, ASEAN.' },
-      { value: '15+', label: 'Free trade agreements', note: 'CPTPP, EVFTA, RCEP and more.' },
+      { value: '~$786B', label: 'Total trade turnover (2024)', note: 'One of the most open economies in the world.', source: 'GSO / Customs, 2024' },
+      { value: '~$24.8B', label: 'Goods trade surplus (2024)', note: 'Ninth consecutive annual surplus.', source: 'GSO, 2024' },
+      { value: '~$405B', label: 'Total exports (2024)', note: 'Electronics, phones, and machinery lead.', source: 'GSO, 2024' },
+      { value: 'US / China / EU', label: 'Largest trade partners', note: 'US is the top export market; China the top import source.', source: 'GSO, 2024' },
+      { value: '16+', label: 'Free trade agreements', note: 'Incl. CPTPP, EVFTA, RCEP.', source: 'MoIT' },
     ],
   },
   {
     heading: 'Investment',
     intro: 'Foreign direct investment remains a structural pillar of the economy.',
     stats: [
-      { value: 'Strong', label: 'FDI inflows', note: 'Manufacturing-led.' },
+      { value: '~$38.2B', label: 'Registered FDI (2024)', note: 'Total newly registered, adjusted, and capital contributions.', source: 'MPI / FIA, 2024' },
+      { value: '~$25.4B', label: 'Disbursed FDI (2024)', note: 'A record high.', source: 'MPI / FIA, 2024' },
+      { value: '~60%+', label: 'Manufacturing share of FDI', note: 'Processing & manufacturing dominate.', source: 'MPI / FIA, 2024' },
       { value: 'China + 1', label: 'Investment driver', note: 'Supply-chain diversification.' },
-      { value: 'Rising', label: 'Public infrastructure spend', note: 'Roads, ports, energy.' },
-      { value: 'Growing', label: 'Domestic private sector', note: 'SMEs and corporates.' },
     ],
   },
   {
     heading: 'Prices & currency',
     intro: 'Macroeconomic management focuses on inflation and a managed currency.',
     stats: [
-      { value: 'Managed', label: 'Inflation policy', note: 'SBV targets stability.' },
-      { value: 'VND', label: 'Currency (Vietnamese dong)', note: 'Managed float vs USD.' },
+      { value: '3.63%', label: 'Average CPI inflation (2024)', note: 'Within the government\'s target band.', source: 'GSO, 2024' },
+      { value: '~24,000–25,000', label: 'VND per USD (2024)', note: 'Managed float against the dollar.', source: 'SBV, 2024' },
       { value: 'SBV', label: 'Central bank', note: 'State Bank of Vietnam.' },
       { value: 'Stable', label: 'Macro policy stance', note: 'Growth with stability.' },
     ],
@@ -54,8 +54,8 @@ const groups: Group[] = [
     heading: 'People & structure',
     intro: 'A large, young, urbanizing population underpins long-run demand.',
     stats: [
-      { value: '~100M', label: 'Population', note: 'Large domestic market.' },
-      { value: 'Young', label: 'Demographics', note: 'Sizable working-age share.' },
+      { value: '~101.3M', label: 'Population (2024)', note: '15th most populous country.', source: 'GSO, 2024' },
+      { value: '~33', label: 'Median age', note: 'Young, working-age-heavy.', source: 'UN / GSO est.' },
       { value: 'Urbanizing', label: 'Population trend', note: 'Growing urban middle class.' },
       { value: 'Digital', label: 'Economy direction', note: 'Fast-growing internet economy.' },
     ],
@@ -123,6 +123,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -136,6 +137,12 @@ const datasetSchema = {
         economy. Where hard figures vary across analysts and reporting periods, we use qualitative
         descriptors rather than spurious precision. This is not investment advice. For definitions
         of terms like FDI, China + 1, CPTPP, and EVFTA, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> General Statistics Office of Vietnam (GSO); Ministry of
+        Planning and Investment / Foreign Investment Agency (MPI/FIA); State Bank of Vietnam (SBV);
+        Ministry of Industry and Trade (MoIT); IMF and World Bank. Figures are full-year 2024
+        unless noted; verify against the primary source before relying on a specific number.
       </p>
     </section>
 
@@ -173,6 +180,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .stats-section p a { color: var(--color-accent); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }

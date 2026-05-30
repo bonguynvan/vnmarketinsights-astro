@@ -5,7 +5,7 @@ const title = "Vietnam Stock Market Statistics 2026 — VN-Index, Investors & Ma
 const description = "A curated roundup of Vietnam stock market statistics for 2026: exchanges, the VN-Index and VN30, market capitalization, investor base, foreign ownership, sectors, and classification — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-stock-market-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
@@ -24,8 +24,8 @@ const groups: Group[] = [
     heading: 'Size & listings',
     intro: 'The market has grown into a meaningful regional venue by capitalization and listings.',
     stats: [
-      { value: 'Hundreds', label: 'Listed companies across HOSE/HNX', note: 'Plus many on UPCoM.' },
-      { value: 'Large', label: 'Total market capitalization', note: 'A significant share of GDP.' },
+      { value: '~400', label: 'Companies listed on HOSE', note: '401 stocks as of early 2024.', source: 'HOSE, 2024' },
+      { value: '~$320B', label: 'HOSE market capitalization', note: '~VND 8,500tn; HOSE is >90% of trading value.', source: 'HOSE, 2025/26' },
       { value: 'Growing', label: 'Market cap-to-GDP trend', note: 'Deepening capital markets.' },
       { value: 'Concentrated', label: 'Index weighting', note: 'Banks and real estate dominate.' },
     ],
@@ -123,6 +123,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -136,6 +137,12 @@ const datasetSchema = {
         equity market. Price- and flow-based figures change continuously, so we favor structural
         descriptors over spurious precision. This is not investment advice. For definitions of
         terms like FDI and foreign ownership limit, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> Ho Chi Minh City Stock Exchange (HOSE); State Securities
+        Commission (SSC); Vietnam Securities Depository (VSD); MSCI and FTSE Russell classification
+        notes. Market-cap and price figures move continuously; verify against the primary source
+        before relying on a specific number.
       </p>
     </section>
 
@@ -173,6 +180,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .stats-section p a { color: var(--color-accent); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }

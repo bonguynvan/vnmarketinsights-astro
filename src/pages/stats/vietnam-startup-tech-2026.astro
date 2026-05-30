@@ -13,7 +13,7 @@ const groups: Group[] = [
     heading: 'Ecosystem & hubs',
     intro: 'Vietnam has one of Southeast Asia\'s most active startup ecosystems, centered on two cities.',
     stats: [
-      { value: 'Top-tier SEA', label: 'Regional ecosystem ranking', note: 'Among the most active in the region.' },
+      { value: '#3', label: 'SEA ranking by VC deal value', note: 'Behind Singapore and Indonesia.', source: 'NIC / Do Ventures, 2023' },
       { value: 'HCMC', label: 'Largest startup hub', note: 'Most investors and consumer tech.' },
       { value: 'Hanoi', label: 'Second hub', note: 'Deep-tech and engineering strength.' },
       { value: 'Da Nang', label: 'Emerging tech city', note: 'Growing engineering base.' },
@@ -22,12 +22,12 @@ const groups: Group[] = [
   },
   {
     heading: 'Funding',
-    intro: 'Venture funding has matured from early seed activity to larger growth rounds.',
+    intro: 'Venture funding is cyclical: it dipped in 2023, then recovered sharply in 2024.',
     stats: [
-      { value: 'Significant', label: 'Annual VC funding', note: 'Cyclical with global markets.' },
-      { value: 'Fintech-led', label: 'Top-funded sector', note: 'Plus e-commerce and logistics.' },
-      { value: 'Regional + local', label: 'Investor base', note: 'SEA, regional, and global VCs.' },
-      { value: 'Maturing', label: 'Round sizes', note: 'More Series A/B than before.' },
+      { value: '$529M', label: 'VC funding (2023)', note: 'Across 122 deals; −17% YoY in a −35% global year.', source: 'NIC / Do Ventures, 2023' },
+      { value: '~$2.3B', label: 'Capital deployed (2024)', note: 'Across 141 deals — a sharp recovery.', source: 'Industry data, 2024' },
+      { value: 'Fintech-led', label: 'Top-funded sector', note: 'Plus healthcare, education, e-commerce.', source: 'NIC / Do Ventures' },
+      { value: '~100', label: 'Active investors (2023)', note: 'Singapore and Vietnam most active.', source: 'NIC / Do Ventures, 2023' },
     ],
   },
   {
@@ -124,6 +124,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -137,6 +138,11 @@ const datasetSchema = {
         startup and tech scene. Venture-funding figures are cyclical and vary across data
         providers, so we favor qualitative descriptors over spurious precision. For definitions of
         terms like fintech, super-app, and neobank, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> National Innovation Center (NIC) and Do Ventures (Vietnam
+        Innovation &amp; Tech Investment Report); industry deal trackers. Venture figures are
+        2023–2024 and cyclical; verify against the primary source before relying on a specific number.
       </p>
     </section>
 
@@ -173,6 +179,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .stats-section p a { color: var(--color-accent); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }

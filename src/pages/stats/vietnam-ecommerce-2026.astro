@@ -5,7 +5,7 @@ const title = "Vietnam E-Commerce Statistics 2026 — 35+ Key Numbers & Market D
 const description = "A curated roundup of 35+ Vietnam e-commerce statistics for 2026: market size, GMV, platform share, digital payments, logistics, social commerce, and consumer behavior — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-ecommerce-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
@@ -13,32 +13,32 @@ const groups: Group[] = [
     heading: 'Market size & growth',
     intro: 'Vietnam remains one of the fastest-growing digital economies in Southeast Asia, led by e-commerce.',
     stats: [
-      { value: '~$25–30B', label: 'Estimated e-commerce GMV in 2025–2026', note: 'Goods only; growing double digits year over year.' },
-      { value: '~20%+', label: 'Annual e-commerce GMV growth rate', note: 'Among the highest in the region.' },
-      { value: '~$45B', label: 'Total digital economy GMV (incl. travel, transport, media)', note: 'e-Conomy SEA reference range.' },
-      { value: '#3', label: 'Rank by digital economy size in Southeast Asia', note: 'Behind Indonesia and Thailand.' },
-      { value: '~10%', label: 'E-commerce share of total retail sales', note: 'Headroom remains vs. mature markets.' },
+      { value: '$25B+', label: 'E-commerce market size (2024)', note: 'Up ~20% YoY; above the $22B e-Conomy SEA estimate.', source: 'MoIT, 2024' },
+      { value: '~$16B', label: 'GMV across top 4 platforms (2024)', note: 'VND 318.9tn across Shopee, TikTok Shop, Lazada, Tiki; +37% YoY.', source: 'Metric, 2024' },
+      { value: '18%', label: 'E-commerce GMV growth (e-Conomy SEA)', note: '3rd-fastest in SEA after Philippines and Thailand.', source: 'e-Conomy SEA 2024' },
+      { value: '#3', label: 'E-commerce rank in Southeast Asia', note: 'Behind Indonesia (~$65B) and Thailand (~$26B).', source: 'e-Conomy SEA 2024' },
+      { value: '~$63B', label: 'Projected GMV by 2030', note: '~19% CAGR; on track to pass Thailand for #2.', source: 'e-Conomy SEA 2024' },
     ],
   },
   {
     heading: 'Platforms & marketplaces',
-    intro: 'Three platforms — Shopee, Lazada, and TikTok Shop — capture most marketplace GMV.',
+    intro: 'Shopee and TikTok Shop together take the overwhelming majority of marketplace GMV.',
     stats: [
-      { value: '~60–65%', label: 'Shopee share of marketplace GMV', note: 'Clear market leader.' },
-      { value: '~20–25%', label: 'Lazada share of marketplace GMV', note: 'Strong in authorized-brand (LazMall) channel.' },
-      { value: 'Double-digit', label: 'TikTok Shop GMV share since 2022 launch', note: 'Fastest-growing platform.' },
-      { value: '~800K+', label: 'Active merchants on the largest platform', note: 'Long tail of micro-sellers dominates count.' },
-      { value: '4', label: 'Major marketplaces (Shopee, Lazada, TikTok Shop, Tiki)', note: 'Tiki holds a smaller domestic niche.' },
+      { value: '65%', label: 'Shopee share of platform GMV (2024)', note: '~$10.4B; eased toward ~56% during 2025.', source: 'Metric, 2024' },
+      { value: '28%', label: 'TikTok Shop share (2024)', note: '~$4.5B; surged toward ~41% in 2025 (+69%).', source: 'Metric, 2024' },
+      { value: '6%', label: 'Lazada share of platform GMV (2024)', note: '~$1B; LazMall authorized-brand channel.', source: 'Metric, 2024' },
+      { value: '97%', label: 'Shopee + TikTok Shop combined share', note: 'The two leaders dominate; Tiki ~1%.', source: 'Metric, 2024/2025' },
+      { value: '4', label: 'Major marketplaces', note: 'Shopee, TikTok Shop, Lazada, Tiki.', source: 'Metric' },
     ],
   },
   {
     heading: 'Digital payments & fintech',
     intro: 'Cash is declining as e-wallets, QR, and bank transfers take share — but COD still matters.',
     stats: [
-      { value: '~50M+', label: 'E-wallet users (active accounts)', note: 'MoMo, ZaloPay, ViettelPay lead.' },
-      { value: '~60%+', label: 'MoMo share of the e-wallet market', note: 'Dominant super-app wallet.' },
-      { value: 'Falling', label: 'Cash-on-delivery share of e-commerce payments', note: 'Still significant but declining yearly.' },
-      { value: 'Rapid', label: 'Growth of QR-code payments', note: 'VietQR interoperability accelerated adoption.' },
+      { value: '~50M', label: 'E-wallet users (2024 est.)', note: 'MoMo, ZaloPay, VNPay, ViettelPay lead.', source: 'Industry est., 2024' },
+      { value: '62–68%', label: 'MoMo share of e-wallet users', note: 'Most-used wallet in user surveys.', source: 'Decision Lab, 2024' },
+      { value: 'Falling', label: 'Cash-on-delivery share of e-commerce', note: 'Still significant but declining yearly.' },
+      { value: 'Rapid', label: 'Growth of QR-code payments', note: 'VietQR interoperability accelerated adoption.', source: 'SBV/NAPAS' },
       { value: 'Emerging', label: 'Buy-now-pay-later (BNPL) adoption', note: 'Early but growing among younger buyers.' },
     ],
   },
@@ -67,12 +67,12 @@ const groups: Group[] = [
     heading: 'Internet & consumer behavior',
     intro: 'A young, mobile-first, highly connected population underpins the whole market.',
     stats: [
-      { value: '~78M+', label: 'Internet users', note: 'High penetration of the population.' },
-      { value: '~75%+', label: 'Internet penetration rate', note: 'Among the highest in the region.' },
-      { value: 'Mobile-first', label: 'Dominant access device', note: 'Most shopping happens on smartphones.' },
-      { value: '~100M', label: 'Total population', note: 'Large, young consumer base.' },
+      { value: '78.4M', label: 'Internet users (Jan 2024)', note: 'Up ~0.6% YoY.', source: 'DataReportal, 2024' },
+      { value: '79.1%', label: 'Internet penetration rate (Jan 2024)', note: 'Among the highest in the region.', source: 'DataReportal, 2024' },
+      { value: '72.7M', label: 'Social media users (Jan 2024)', note: '73.3% of the population.', source: 'DataReportal, 2024' },
+      { value: '~101M', label: 'Total population (2024)', note: 'Large, young consumer base.', source: 'GSO, 2024' },
+      { value: '168.5M', label: 'Mobile connections (Jan 2024)', note: '169.8% of population.', source: 'DataReportal, 2024' },
       { value: 'Gen Z / Millennials', label: 'Core online-shopping demographic', note: 'Digital-native and brand-curious.' },
-      { value: 'Rising', label: 'Tier-2/3 city online shopping growth', note: 'Next wave of e-commerce demand.' },
     ],
   },
 ];
@@ -138,6 +138,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -152,6 +153,13 @@ const datasetSchema = {
         single figures. GMV (gross merchandise value) numbers in particular vary by whether
         services, travel, and informal social-commerce sales are included. For definitions of
         terms like GMV, COD, and live commerce, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> Vietnam Ministry of Industry and Trade (MoIT); Metric
+        (Online Retail Platform Market Report); Google · Temasek · Bain "e-Conomy SEA 2024";
+        DataReportal "Digital 2024: Vietnam"; Decision Lab; General Statistics Office (GSO).
+        Figures are 2024 unless noted; verify against the primary source before relying on a
+        specific number.
       </p>
     </section>
 
@@ -190,6 +198,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
   .related-list a { color: var(--color-accent); text-decoration: none; }
