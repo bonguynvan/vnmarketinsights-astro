@@ -5,15 +5,15 @@
 // minutes. Google does NOT yet support IndexNow but Bing is significant for the
 // English Vietnam-research audience.
 //
-// Setup:
-// 1. Generate a 32-char hex key (e.g. crypto.randomUUID without dashes).
-// 2. Set INDEXNOW_KEY env var in Vercel (Project Settings -> Environment Variables).
-// 3. Create public/<key>.txt with the same key as file contents — IndexNow
-//    will fetch this to verify domain ownership.
-// 4. This script runs in postbuild and reads the sitemap to figure out URLs.
+// Setup (already done for this repo):
+// - A committed key lives in DEFAULT_KEY below and is served at public/<key>.txt,
+//   which IndexNow fetches to verify domain ownership. The key is public by design.
+// - INDEXNOW_KEY env var overrides DEFAULT_KEY if you ever rotate the key
+//   (remember to add the matching public/<new-key>.txt and remove the old one).
+// - This script runs in postbuild and reads the sitemap to figure out URLs.
 //
-// If INDEXNOW_KEY is not set, the script no-ops with a friendly message so
-// local builds are unaffected.
+// It only pings on production/CI builds (VERCEL/CI/INDEXNOW_FORCE), so local
+// `npm run build` is unaffected, and it no-ops when no URL lastmod changed.
 
 import fs from 'node:fs';
 import path from 'node:path';
@@ -27,10 +27,27 @@ const SITE_URL = `https://${HOST}`;
 const STATE_FILE = path.join(DIST_DIR, '.indexnow-state.json');
 const ENDPOINT = 'https://api.indexnow.org/IndexNow';
 
+// IndexNow key. Not a secret — it is served publicly at /<key>.txt (see
+// public/<key>.txt). The committed default lets production builds work with no
+// extra config; INDEXNOW_KEY env var overrides it if you rotate the key.
+const DEFAULT_KEY = '81a0d7ee2a17262bb65d748893a389b2';
+
+// Only ping from production / CI builds (e.g. Vercel) so local `npm run build`
+// doesn't spam the IndexNow API. Set INDEXNOW_FORCE=1 to override locally.
+const IS_PROD_BUILD =
+  process.env.VERCEL === '1' ||
+  process.env.CI === 'true' ||
+  process.env.INDEXNOW_FORCE === '1';
+
 async function main() {
-  const key = process.env.INDEXNOW_KEY;
+  const key = process.env.INDEXNOW_KEY || DEFAULT_KEY;
   if (!key) {
-    console.log('[indexnow] INDEXNOW_KEY not set — skipping. See scripts/indexnow-ping.mjs for setup.');
+    console.log('[indexnow] no key configured — skipping.');
+    return;
+  }
+
+  if (!IS_PROD_BUILD) {
+    console.log('[indexnow] not a production build (VERCEL/CI/INDEXNOW_FORCE unset) — skipping.');
     return;
   }
 
