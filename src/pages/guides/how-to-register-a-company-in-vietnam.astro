@@ -1,0 +1,204 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Register a Company in Vietnam (2026) — Foreign Investor Guide";
+const description = "How foreigners register a company in Vietnam: entity types, the investment registration and enterprise registration steps, charter capital, licenses, timelines, and ongoing compliance.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-register-a-company-in-vietnam/";
+
+const steps = [
+  {
+    name: 'Choose an entity type',
+    text: 'The common vehicle for foreign investors is a limited liability company (LLC) — single- or multi-member — or a joint-stock company (JSC) if you need shares/many investors. A representative office is an option for non-revenue market research.',
+  },
+  {
+    name: 'Confirm the business line and ownership limits',
+    text: 'Check whether your industry allows 100% foreign ownership or is subject to a foreign ownership limit or conditions. The applicable line determines licensing, capital, and whether a local partner is required.',
+  },
+  {
+    name: 'Obtain the Investment Registration Certificate (IRC)',
+    text: 'Foreign-invested projects first apply for an IRC from the provincial Department of Planning and Investment (or the relevant authority), describing the project, capital, and location.',
+  },
+  {
+    name: 'Obtain the Enterprise Registration Certificate (ERC)',
+    text: 'After the IRC, apply for the ERC, which legally establishes the company and issues its tax code. This is the equivalent of incorporating the business entity.',
+  },
+  {
+    name: 'Set charter capital and open accounts',
+    text: 'Register charter (registered) capital appropriate to your business line, open a capital account and operating bank account, and contribute capital within the statutory deadline.',
+  },
+  {
+    name: 'Complete post-licensing steps',
+    text: 'Register the company seal, tax declarations, e-invoicing, social insurance for employees, and any sector-specific sub-licenses (e.g. e-commerce, payments, education) before operating.',
+  },
+  {
+    name: 'Stay compliant',
+    text: 'Maintain accounting per Vietnamese standards, file taxes (VAT, CIT) and reports on schedule, renew sub-licenses, and observe labor and foreign-exchange rules. Most foreign investors use a local accounting/legal firm.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Can a foreigner own 100% of a company in Vietnam?",
+    answer: "In many sectors, yes — a foreign investor can establish a 100% foreign-owned limited liability company. However, certain industries are restricted, capped by a foreign ownership limit, or require a joint venture with a local partner. The exact rule depends on your specific business line under Vietnam's WTO commitments and trade agreements, so confirm it before choosing a structure."
+  },
+  {
+    question: "What are the steps to register a company in Vietnam?",
+    answer: "For a foreign-invested company: (1) choose an entity type (usually an LLC), (2) confirm the business line and ownership rules, (3) obtain the Investment Registration Certificate (IRC), (4) obtain the Enterprise Registration Certificate (ERC) and tax code, (5) register charter capital and open bank accounts, (6) complete post-licensing steps (seal, tax, insurance, sub-licenses), and (7) maintain ongoing compliance."
+  },
+  {
+    question: "How long does it take to set up a company in Vietnam?",
+    answer: "Timelines vary by sector and locality, but a straightforward foreign-invested LLC commonly takes several weeks to a few months end to end — the IRC and ERC stages each take a few weeks, plus time for bank accounts, capital contribution, and any sub-licenses. Conditional business lines that need extra approvals take longer."
+  },
+  {
+    question: "How much charter capital is needed to register a company in Vietnam?",
+    answer: "There is no universal minimum for most business lines — charter capital should be realistic for your operations and is assessed by the licensing authority. Certain regulated sectors (e.g. finance, real estate, education) have specific minimum capital requirements. Set capital you can actually contribute within the statutory deadline, since it signals credibility and funds operations."
+  },
+  {
+    question: "Do I need a local partner or local director in Vietnam?",
+    answer: "A local partner is only required where the business line restricts foreign ownership. A company must have a legal representative resident in Vietnam, but that person can be a foreigner with the appropriate work permit and residence. Many foreign investors appoint a resident director or use professional services to satisfy the requirement."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Register a Company in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Register a Company in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Setting up a company in Vietnam as a foreign investor follows a two-certificate path — the
+        Investment Registration Certificate (IRC) then the Enterprise Registration Certificate
+        (ERC) — plus capital, licensing, and compliance steps. This guide walks through entity
+        types, the registration sequence, charter capital, and ongoing obligations. It's an
+        orientation, not legal advice — engage Vietnamese counsel before incorporating.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Ownership rules shape everything</h2>
+      <p>
+        Before choosing a structure, confirm your sector's
+        <a href="/glossary/foreign-ownership-limit/">foreign ownership limit</a>. Many lines allow
+        100% foreign-owned <a href="/glossary/fdi/">FDI</a> entities; others require a local
+        partner or extra approvals. Trade agreements like <a href="/glossary/cptpp/">CPTPP</a> and
+        <a href="/glossary/evfta/">EVFTA</a> have progressively opened sectors, but the rule that
+        matters is the one for your exact business line.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/guides/how-to-source-manufacturing-from-vietnam/">How to source manufacturing from Vietnam</a></li>
+        <li><a href="/regulations/">Regulatory environment — overview</a></li>
+        <li><a href="/stats/vietnam-economy-2026/">Vietnam Economy Statistics 2026</a></li>
+        <li><a href="/glossary/fdi/">FDI</a> · <a href="/glossary/foreign-ownership-limit/">Foreign ownership limit</a> · <a href="/glossary/sme/">SME</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

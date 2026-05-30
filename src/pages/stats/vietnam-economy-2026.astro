@@ -1,0 +1,184 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Economy Statistics 2026 — GDP, Trade, FDI & Macro Data";
+const description = "A curated roundup of Vietnam economy statistics for 2026: GDP and growth, trade and exports, FDI, inflation, currency, population, and the structure of the economy — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-economy-2026/";
+
+type Stat = { value: string; label: string; note?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Growth & output',
+    intro: 'Vietnam is among Asia\'s faster-growing economies, led by manufacturing and services.',
+    stats: [
+      { value: 'Fast', label: 'Real GDP growth', note: 'Among the highest in the region.' },
+      { value: 'Mid-income', label: 'Income classification', note: 'Lower-middle-income, rising.' },
+      { value: 'Manufacturing', label: 'Key growth engine', note: 'Plus services and exports.' },
+      { value: 'Resilient', label: 'Post-pandemic recovery', note: 'Export- and FDI-driven.' },
+    ],
+  },
+  {
+    heading: 'Trade & exports',
+    intro: 'A highly open, trade-dependent economy with persistent goods surpluses.',
+    stats: [
+      { value: 'High', label: 'Trade-to-GDP ratio', note: 'One of the most open economies.' },
+      { value: 'Surplus', label: 'Goods trade balance', note: 'Recurring trade surpluses.' },
+      { value: 'Electronics', label: 'Top export category', note: 'Phones, components, machinery.' },
+      { value: 'US/China/EU', label: 'Largest trade partners', note: 'Plus Korea, Japan, ASEAN.' },
+      { value: '15+', label: 'Free trade agreements', note: 'CPTPP, EVFTA, RCEP and more.' },
+    ],
+  },
+  {
+    heading: 'Investment',
+    intro: 'Foreign direct investment remains a structural pillar of the economy.',
+    stats: [
+      { value: 'Strong', label: 'FDI inflows', note: 'Manufacturing-led.' },
+      { value: 'China + 1', label: 'Investment driver', note: 'Supply-chain diversification.' },
+      { value: 'Rising', label: 'Public infrastructure spend', note: 'Roads, ports, energy.' },
+      { value: 'Growing', label: 'Domestic private sector', note: 'SMEs and corporates.' },
+    ],
+  },
+  {
+    heading: 'Prices & currency',
+    intro: 'Macroeconomic management focuses on inflation and a managed currency.',
+    stats: [
+      { value: 'Managed', label: 'Inflation policy', note: 'SBV targets stability.' },
+      { value: 'VND', label: 'Currency (Vietnamese dong)', note: 'Managed float vs USD.' },
+      { value: 'SBV', label: 'Central bank', note: 'State Bank of Vietnam.' },
+      { value: 'Stable', label: 'Macro policy stance', note: 'Growth with stability.' },
+    ],
+  },
+  {
+    heading: 'People & structure',
+    intro: 'A large, young, urbanizing population underpins long-run demand.',
+    stats: [
+      { value: '~100M', label: 'Population', note: 'Large domestic market.' },
+      { value: 'Young', label: 'Demographics', note: 'Sizable working-age share.' },
+      { value: 'Urbanizing', label: 'Population trend', note: 'Growing urban middle class.' },
+      { value: 'Digital', label: 'Economy direction', note: 'Fast-growing internet economy.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Economy Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam economy", "GDP", "trade", "exports", "FDI", "inflation", "VND", "macroeconomics"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/financial-markets/">Financial markets</a>
+      <span aria-hidden="true">/</span>
+      <span>Economy Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers behind Vietnam's macroeconomy in 2026 — growth, trade and
+        exports, foreign investment, prices and currency, and the structure of the economy. Figures
+        are reference points and qualitative descriptors compiled from public sources; precise
+        values move and vary across analysts. See <a href="/sources/">our sources</a> for
+        methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference points intended to give a directional picture of Vietnam's
+        economy. Where hard figures vary across analysts and reporting periods, we use qualitative
+        descriptors rather than spurious precision. This is not investment advice. For definitions
+        of terms like FDI, China + 1, CPTPP, and EVFTA, see our <a href="/glossary/">glossary</a>.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/financial-markets/">Vietnam financial markets — full overview</a></li>
+        <li><a href="/stats/vietnam-manufacturing-fdi-2026/">Manufacturing &amp; FDI</a> · <a href="/stats/vietnam-stock-market-2026/">Stock Market</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce</a> statistics</li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Market entry guide</a> · <a href="/guides/how-to-register-a-company-in-vietnam/">Register a company in Vietnam</a></li>
+        <li><a href="/compare/vietnam-vs-china-manufacturing/">Vietnam vs China manufacturing</a></li>
+        <li><a href="/glossary/fdi/">FDI</a> · <a href="/glossary/china-1/">China + 1</a> · <a href="/glossary/cptpp/">CPTPP</a> · <a href="/glossary/evfta/">EVFTA</a> (glossary)</li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/financial-markets/">← Financial markets overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>

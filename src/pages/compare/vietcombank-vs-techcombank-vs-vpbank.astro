@@ -1,0 +1,224 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietcombank vs Techcombank vs VPBank — Vietnam Banks Compared (2026)";
+const description = "Compare Vietcombank, Techcombank, and VPBank — three of Vietnam's leading banks. Ownership, positioning, digital banking, retail vs corporate focus, and which suits which customer.";
+const canonical = "https://vnmarketinsights.com/compare/vietcombank-vs-techcombank-vs-vpbank/";
+
+const banks = [
+  {
+    name: 'Vietcombank',
+    type: 'State-controlled commercial bank',
+    position: 'Largest by market value; blue-chip stability',
+    strength: 'Trade finance, corporate, FX, broad branch network',
+    digital: 'VCB Digibank; steadily modernizing',
+    bestFor: 'Corporates, trade/FX, customers prioritizing stability',
+  },
+  {
+    name: 'Techcombank',
+    type: 'Private joint-stock bank',
+    position: 'Leading private bank; affluent retail focus',
+    strength: 'Digital banking, mortgages, wealth, bonds',
+    digital: 'Among the most advanced retail apps in Vietnam',
+    bestFor: 'Affluent retail, digital-first users, mortgages',
+  },
+  {
+    name: 'VPBank',
+    type: 'Private joint-stock bank',
+    position: 'Retail & SME growth; consumer finance via FE Credit',
+    strength: 'Consumer lending, SME banking, mass-retail reach',
+    digital: 'VPBank NEO; strong digital onboarding',
+    bestFor: 'SMEs, consumer credit, mass-retail customers',
+  },
+];
+
+const faqs = [
+  {
+    question: "Which is the biggest bank in Vietnam?",
+    answer: "By market capitalization, Vietcombank is consistently the largest and most valuable bank in Vietnam, and one of the most valuable listed companies overall. State-owned banks (Vietcombank, BIDV, VietinBank, Agribank) dominate by total assets, while Techcombank and VPBank are among the largest and most influential private banks."
+  },
+  {
+    question: "What is the difference between Vietcombank, Techcombank, and VPBank?",
+    answer: "Vietcombank is a state-controlled bank known for stability, corporate and trade finance, and a broad network. Techcombank is a leading private bank focused on affluent retail, digital banking, mortgages, and wealth. VPBank is a private bank strong in consumer finance (via FE Credit), SME banking, and mass-retail reach. Roughly: Vietcombank for stability/corporate, Techcombank for affluent digital retail, VPBank for SME and consumer credit."
+  },
+  {
+    question: "Which Vietnamese bank has the best digital banking?",
+    answer: "Techcombank is widely regarded as having one of the most advanced retail digital banking experiences in Vietnam, with VPBank's NEO app and Vietcombank's Digibank also competitive. The private banks have generally led on digital UX and onboarding, while state banks have been modernizing rapidly."
+  },
+  {
+    question: "Can foreigners open a bank account in Vietnam?",
+    answer: "Yes. Foreign residents can typically open accounts with major Vietnamese banks (including Vietcombank, Techcombank, and VPBank) by providing a passport, visa/residence documentation, and sometimes proof of address or employment. Requirements vary by bank and account type; businesses open accounts as part of company registration, including a capital account for foreign-invested entities."
+  },
+  {
+    question: "Which Vietnamese bank is best for businesses and SMEs?",
+    answer: "For trade finance, FX, and large-corporate needs, Vietcombank is a common choice. For SME banking and consumer-finance-linked services, VPBank is strong. Techcombank serves businesses too, especially those wanting advanced digital cash management. The best fit depends on your size, sector, and whether you prioritize trade/FX, SME lending, or digital tools."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Comparison"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="compare-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/financial-markets/">Financial markets</a>
+      <span aria-hidden="true">/</span>
+      <span>Banks Comparison</span>
+    </nav>
+
+    <header class="compare-header">
+      <h1>{title}</h1>
+      <p class="compare-lead">
+        Vietcombank, Techcombank, and VPBank are three of Vietnam's most prominent banks — one
+        state-controlled blue-chip and two leading private banks with distinct strategies. This
+        page compares them on ownership, positioning, digital banking, and customer fit. It is an
+        orientation for understanding the market, not financial advice; product terms change, so
+        confirm details with each bank.
+      </p>
+    </header>
+
+    <section>
+      <h2>At a glance</h2>
+      <div class="compare-table-wrap">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Dimension</th>
+              {banks.map(b => <th>{b.name}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th>Type</th>{banks.map(b => <td>{b.type}</td>)}</tr>
+            <tr><th>Position</th>{banks.map(b => <td>{b.position}</td>)}</tr>
+            <tr><th>Core strength</th>{banks.map(b => <td>{b.strength}</td>)}</tr>
+            <tr><th>Digital banking</th>{banks.map(b => <td>{b.digital}</td>)}</tr>
+            <tr><th>Best for</th>{banks.map(b => <td>{b.bestFor}</td>)}</tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Vietcombank</h2>
+      <p>
+        Vietcombank is a state-controlled commercial bank and consistently Vietnam's most valuable
+        bank by market capitalization. Its strengths are trade finance, foreign exchange, corporate
+        banking, and a broad nationwide network, making it a default for businesses and customers
+        who prioritize stability and reach. It is also a heavyweight component of the
+        <a href="/glossary/foreign-ownership-limit/">foreign-ownership-limited</a> banking sector
+        on the stock market.
+      </p>
+    </section>
+
+    <section>
+      <h2>Techcombank</h2>
+      <p>
+        Techcombank is a leading private joint-stock bank that built its reputation on affluent
+        retail banking, mortgages, wealth management, and one of the most advanced digital banking
+        apps in Vietnam. It targets higher-value customers and has been a pioneer in the country's
+        bond and bancassurance markets, competing on experience rather than branch count.
+      </p>
+    </section>
+
+    <section>
+      <h2>VPBank</h2>
+      <p>
+        VPBank is a private bank known for retail and SME growth and a powerful consumer-finance
+        arm (FE Credit). It reaches a broad mass-retail base, invests heavily in digital onboarding
+        via its NEO app, and is a key player in <a href="/glossary/fintech/">fintech</a>-adjacent
+        consumer lending. It suits SMEs and customers seeking accessible credit and digital
+        convenience.
+      </p>
+    </section>
+
+    <section>
+      <h2>How to choose</h2>
+      <ul>
+        <li><strong>Stability, trade finance, corporate/FX:</strong> Vietcombank.</li>
+        <li><strong>Affluent retail, mortgages, best digital UX:</strong> Techcombank.</li>
+        <li><strong>SME banking and consumer credit:</strong> VPBank.</li>
+        <li><strong>Reality:</strong> Many Vietnamese keep accounts at more than one — a state bank for stability and a private bank for digital convenience — and pick per need.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a></li>
+        <li><a href="/payments/">Vietnam payments system — overview</a></li>
+        <li><a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay — wallet comparison</a></li>
+        <li><a href="/stats/vietnam-economy-2026/">Vietnam Economy Statistics 2026</a> · <a href="/stats/vietnam-stock-market-2026/">Stock Market Statistics 2026</a></li>
+        <li><a href="/glossary/sbv/">SBV</a> · <a href="/glossary/cic/">CIC</a> · <a href="/glossary/neobank/">Neobank</a> · <a href="/glossary/fintech/">Fintech</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="compare-footer">
+      <a href="/financial-markets/">← Financial markets overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .compare-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .compare-header { margin-bottom: var(--space-8); }
+  .compare-header h1 { border: none; margin-bottom: var(--space-3); }
+  .compare-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .compare-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .compare-table th, .compare-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; vertical-align: top; }
+  .compare-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .compare-table tbody th { background: var(--color-bg-subtle); font-weight: 500; white-space: nowrap; }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .compare-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .compare-footer a { color: var(--color-text-muted); }
+  .compare-footer a:hover { color: var(--color-accent); }
+</style>
