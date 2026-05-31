@@ -1,0 +1,204 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "VN-Index vs VN30 — Vietnam Stock Index Comparison (2026)";
+const description = "VN-Index vs VN30 explained: what each Vietnamese stock index measures, how they differ in scope, weighting, and use, and which to follow or invest in.";
+const canonical = "https://vnmarketinsights.com/compare/vn-index-vs-vn30/";
+
+const indices = [
+  {
+    name: 'VN-Index',
+    scope: 'All stocks listed on HOSE (~400 companies)',
+    weighting: 'Market-capitalization weighted (full)',
+    role: 'Headline benchmark for the whole HOSE market',
+    derivatives: 'Reference index; broad sentiment gauge',
+    bestFor: 'Tracking overall Vietnamese market performance',
+  },
+  {
+    name: 'VN30',
+    scope: 'Top 30 largest, most liquid HOSE stocks',
+    weighting: 'Cap-weighted with free-float & liquidity screens + caps',
+    role: 'Blue-chip large-cap benchmark',
+    derivatives: 'Underlies VN30 futures and many ETFs',
+    bestFor: 'Liquid blue-chip exposure; derivatives and ETFs',
+  },
+];
+
+const faqs = [
+  {
+    question: "What is the difference between VN-Index and VN30?",
+    answer: "The VN-Index tracks all stocks listed on the Ho Chi Minh City Stock Exchange (HOSE) — roughly 400 companies — as a full market-cap-weighted benchmark of the whole market. The VN30 is a sub-index of just the 30 largest and most liquid HOSE stocks, with free-float and liquidity adjustments plus weighting caps. VN-Index measures the broad market; VN30 measures blue-chip large-caps."
+  },
+  {
+    question: "Which is better to invest in, VN-Index or VN30?",
+    answer: "Neither is inherently 'better' — it depends on your goal. VN30 offers concentrated, highly liquid blue-chip exposure and underlies most futures and many ETFs, making it the practical choice for tradable products. The VN-Index gives broader diversification across the whole HOSE market. Many foreign investors get VN30 or VN-Index exposure through ETFs rather than buying constituents directly."
+  },
+  {
+    question: "Does the VN30 use the same weighting as the VN-Index?",
+    answer: "Not exactly. The VN-Index is a full market-capitalization-weighted index of all HOSE stocks. The VN30 also weights by capitalization but applies free-float adjustments, liquidity screening, and weighting caps (to prevent any single stock from dominating), so a few mega-caps don't overwhelm the index. This makes VN30 a cleaner large-cap, tradable benchmark."
+  },
+  {
+    question: "Can I trade futures on the VN-Index or VN30?",
+    answer: "Vietnam's main equity-index futures are based on the VN30, not the broad VN-Index. The VN30's liquidity and capped weighting make it suitable for derivatives, so the VN30 index future is the primary listed equity derivative on the Vietnamese market. The VN-Index serves mainly as the headline market gauge."
+  },
+  {
+    question: "How do foreign investors get exposure to these indices?",
+    answer: "Most foreign investors use ETFs — both domestic Vietnamese ETFs tracking the VN30 or VN-Index and offshore Vietnam-focused ETFs listed abroad. ETFs sidestep the account-setup, foreign-ownership-limit, and settlement complexities of buying individual Vietnamese stocks directly, while still tracking the chosen index."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Comparison"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="compare-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/financial-markets/">Financial markets</a>
+      <span aria-hidden="true">/</span>
+      <span>Index Comparison</span>
+    </nav>
+
+    <header class="compare-header">
+      <h1>{title}</h1>
+      <p class="compare-lead">
+        The VN-Index and VN30 are Vietnam's two most-watched stock indices, and they're often
+        confused. This page explains what each measures, how they differ in scope and weighting,
+        and which to follow or invest in. This is an orientation, not investment advice — index
+        methodology and constituents are reviewed periodically by HOSE.
+      </p>
+    </header>
+
+    <section>
+      <h2>At a glance</h2>
+      <div class="compare-table-wrap">
+        <table class="compare-table">
+          <thead>
+            <tr>
+              <th>Dimension</th>
+              {indices.map(i => <th>{i.name}</th>)}
+            </tr>
+          </thead>
+          <tbody>
+            <tr><th>Scope</th>{indices.map(i => <td>{i.scope}</td>)}</tr>
+            <tr><th>Weighting</th>{indices.map(i => <td>{i.weighting}</td>)}</tr>
+            <tr><th>Role</th>{indices.map(i => <td>{i.role}</td>)}</tr>
+            <tr><th>Derivatives / products</th>{indices.map(i => <td>{i.derivatives}</td>)}</tr>
+            <tr><th>Best for</th>{indices.map(i => <td>{i.bestFor}</td>)}</tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>VN-Index</h2>
+      <p>
+        The VN-Index is Vietnam's headline benchmark — a full market-capitalization-weighted index
+        of every stock listed on the Ho Chi Minh City Stock Exchange (HOSE), around 400 companies.
+        When the financial press reports "Vietnam's stock market rose," they almost always mean the
+        VN-Index. Because it includes everything on HOSE, it's the broadest single gauge of
+        Vietnamese equity performance, though large-caps (banks, real estate) dominate its movement.
+      </p>
+    </section>
+
+    <section>
+      <h2>VN30</h2>
+      <p>
+        The VN30 narrows to the 30 largest and most liquid HOSE stocks, with free-float
+        adjustments, liquidity screening, and weighting caps so no single mega-cap dominates. That
+        discipline makes it the practical blue-chip benchmark — and crucially, it underlies
+        Vietnam's main index futures and many ETFs. For investors who want liquid, tradable
+        large-cap exposure rather than the whole market, the VN30 is the reference point.
+      </p>
+    </section>
+
+    <section>
+      <h2>How to choose</h2>
+      <ul>
+        <li><strong>Want the broad market gauge:</strong> Follow the VN-Index — it reflects the whole HOSE.</li>
+        <li><strong>Want liquid blue-chip exposure:</strong> Use the VN30 — concentrated, capped, and tradable.</li>
+        <li><strong>Want to trade derivatives:</strong> VN30 — it underlies Vietnam's main equity-index futures.</li>
+        <li><strong>Investing as a foreigner:</strong> ETFs tracking either index are usually simpler than buying constituents directly, given foreign-room and account-setup constraints.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a></li>
+        <li><a href="/guides/how-to-invest-in-vietnam-stock-market/">How to invest in the Vietnam stock market</a></li>
+        <li><a href="/insights/vietnam-stock-market-overview/">Vietnam stock market overview</a> · <a href="/insights/vn30-index-intro/">VN30 index introduction</a></li>
+        <li><a href="/stats/vietnam-stock-market-2026/">Vietnam Stock Market Statistics 2026</a></li>
+        <li><a href="/glossary/foreign-ownership-limit/">Foreign ownership limit</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="compare-footer">
+      <a href="/financial-markets/">← Financial markets overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .compare-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .compare-header { margin-bottom: var(--space-8); }
+  .compare-header h1 { border: none; margin-bottom: var(--space-3); }
+  .compare-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .compare-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .compare-table th, .compare-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; vertical-align: top; }
+  .compare-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .compare-table tbody th { background: var(--color-bg-subtle); font-weight: 500; white-space: nowrap; }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .compare-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .compare-footer a { color: var(--color-text-muted); }
+  .compare-footer a:hover { color: var(--color-accent); }
+</style>

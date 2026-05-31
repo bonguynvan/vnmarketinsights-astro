@@ -1,0 +1,192 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Real Estate Statistics 2026 — Property Market & Foreign Ownership Data";
+const description = "A curated roundup of Vietnam real estate statistics for 2026: market segments, foreign ownership rules, key cities, prices, supply, and what drives demand — with sources.";
+const canonical = "https://vnmarketinsights.com/stats/vietnam-real-estate-2026/";
+
+type Stat = { value: string; label: string; note?: string; source?: string };
+type Group = { heading: string; intro: string; stats: Stat[] };
+
+const groups: Group[] = [
+  {
+    heading: 'Market structure',
+    intro: 'Real estate is a major pillar of Vietnam\'s economy and a heavyweight on its stock market.',
+    stats: [
+      { value: 'Major', label: 'Share of GDP & investment', note: 'Construction + real estate are large GDP contributors.' },
+      { value: 'Top-weight', label: 'Sector weight on the stock market', note: 'Real estate + banks dominate the VN-Index.' },
+      { value: 'Residential', label: 'Largest segment', note: 'Apartments and landed housing lead activity.' },
+      { value: 'Cyclical', label: 'Recent market behavior', note: 'Credit-sensitive; cooled then stabilizing.' },
+    ],
+  },
+  {
+    heading: 'Foreign ownership',
+    intro: 'Foreigners can own dwellings but not land, within strict per-project quotas.',
+    stats: [
+      { value: 'No land', label: 'Foreign land ownership', note: 'Land is collectively owned; only land-use rights exist.' },
+      { value: '50 years', label: 'Foreign ownership term', note: 'Renewable leasehold on the dwelling.' },
+      { value: '~30%', label: 'Max foreign units per apartment building', note: 'Per-project foreign quota ("foreign room").' },
+      { value: '~250', label: 'Max foreign houses per ward (typical)', note: 'Cap on landed homes in an area.' },
+    ],
+  },
+  {
+    heading: 'Key cities',
+    intro: 'Demand and prices concentrate in the two big metros plus coastal and industrial hubs.',
+    stats: [
+      { value: 'HCMC', label: 'Largest property market', note: 'Highest prices and deepest demand.' },
+      { value: 'Hanoi', label: 'Second major market', note: 'Strong end-user and investor demand.' },
+      { value: 'Da Nang', label: 'Leading coastal/resort market', note: 'Tourism-linked and second homes.' },
+      { value: 'Industrial belts', label: 'Fastest-growing segment', note: 'Binh Duong, Dong Nai, Bac Ninh, Hai Phong.' },
+    ],
+  },
+  {
+    heading: 'Demand drivers',
+    intro: 'Urbanization, a young population, and FDI underpin long-run property demand.',
+    stats: [
+      { value: 'Urbanizing', label: 'Population trend', note: 'Rising urban middle class.' },
+      { value: 'Young', label: 'First-time buyer demographics', note: 'Large working-age cohort forming households.' },
+      { value: 'FDI-led', label: 'Industrial real estate demand', note: 'China + 1 factory investment.' },
+      { value: 'Infrastructure', label: 'Value catalyst', note: 'Metro lines, ring roads, airports.' },
+    ],
+  },
+  {
+    heading: 'Industrial & logistics property',
+    intro: 'The strongest structural story: factories and warehouses serving export manufacturing.',
+    stats: [
+      { value: 'High demand', label: 'Industrial park occupancy', note: 'Driven by manufacturing FDI.' },
+      { value: 'Rising rents', label: 'Industrial land & warehouse rents', note: 'Supply lags demand in key zones.' },
+      { value: 'E-commerce', label: 'Warehouse demand driver', note: 'Fulfillment and last-mile growth.' },
+      { value: 'North & South', label: 'Main industrial corridors', note: 'Around Hanoi and HCMC.' },
+    ],
+  },
+];
+
+const allStats = groups.flatMap(g => g.stats);
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam Real Estate Statistics 2026",
+  "description": description,
+  "url": canonical,
+  "keywords": ["Vietnam real estate", "property market", "foreign ownership", "industrial real estate", "HCMC", "Hanoi", "housing"],
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/"
+  },
+  "isAccessibleForFree": true,
+  "license": "https://vnmarketinsights.com/sources/",
+  "variableMeasured": allStats.map(s => s.label)
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Statistics"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="stats-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/financial-markets/">Financial markets</a>
+      <span aria-hidden="true">/</span>
+      <span>Real Estate Statistics 2026</span>
+    </nav>
+
+    <header class="stats-header">
+      <h1>{title}</h1>
+      <p class="stats-lead">
+        A curated roundup of the numbers and rules behind Vietnam's real estate market in 2026 —
+        market structure, foreign ownership limits, key cities, demand drivers, and the strong
+        industrial-property story. Figures are reference points and qualitative descriptors
+        compiled from public sources; property data varies by segment, city, and period. See
+        <a href="/sources/">our sources</a> for methodology and citations.
+      </p>
+    </header>
+
+    {groups.map(group => (
+      <section class="stats-section">
+        <h2>{group.heading}</h2>
+        <p class="stats-section-intro">{group.intro}</p>
+        <div class="stats-grid">
+          {group.stats.map(stat => (
+            <div class="stat-card">
+              <div class="stat-value">{stat.value}</div>
+              <div class="stat-label">{stat.label}</div>
+              {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
+            </div>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <section class="stats-section">
+      <h2>Notes on methodology</h2>
+      <p>
+        These statistics are reference points intended to give a directional picture of Vietnam's
+        property market and its foreign-ownership rules. Hard figures vary widely by segment, city,
+        and reporting period, so we favor structural descriptors over spurious precision. This is
+        not investment or legal advice. For definitions of terms like foreign ownership limit and
+        FDI, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> Vietnam's Law on Housing and Land Law; Ministry of
+        Construction; CBRE, Savills, and JLL Vietnam market reports; General Statistics Office
+        (GSO). Verify ownership rules and quotas against current law and a local lawyer before
+        transacting.
+      </p>
+    </section>
+
+    <section class="stats-section">
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-buy-property-in-vietnam-as-a-foreigner/">How to buy property in Vietnam as a foreigner</a></li>
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a> · <a href="/regulations/">Regulatory environment</a></li>
+        <li><a href="/stats/vietnam-manufacturing-fdi-2026/">Manufacturing &amp; FDI</a> · <a href="/stats/vietnam-economy-2026/">Economy</a> statistics</li>
+        <li><a href="/compare/vietnam-vs-china-manufacturing/">Vietnam vs China manufacturing</a></li>
+        <li><a href="/glossary/foreign-ownership-limit/">Foreign ownership limit</a> · <a href="/glossary/fdi/">FDI</a> · <a href="/glossary/china-1/">China + 1</a> (glossary)</li>
+        <li><a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="stats-footer">
+      <a href="/financial-markets/">← Financial markets overview</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .stats-page { max-width: 920px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .stats-header { margin-bottom: var(--space-8); }
+  .stats-header h1 { border: none; margin-bottom: var(--space-3); }
+  .stats-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .stats-lead a { color: var(--color-accent); }
+  .stats-section { margin-bottom: var(--space-10); }
+  .stats-section-intro { color: var(--color-text-muted); margin-bottom: var(--space-4); line-height: 1.55; }
+  .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: var(--space-4); }
+  .stat-card { border: 1px solid var(--color-border-light); border-radius: 10px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
+  .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
+  .stats-section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .stats-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .stats-footer a { color: var(--color-text-muted); }
+  .stats-footer a:hover { color: var(--color-accent); }
+</style>

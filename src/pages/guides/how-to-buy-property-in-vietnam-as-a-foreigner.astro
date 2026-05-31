@@ -1,0 +1,200 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Buy Property in Vietnam as a Foreigner (2026) — Ownership Guide";
+const description = "Can foreigners buy property in Vietnam? A practical guide to foreign property ownership: what's allowed, the 50-year leasehold, building quotas, the buying process, payments, and risks.";
+const canonical = "https://vnmarketinsights.com/guides/how-to-buy-property-in-vietnam-as-a-foreigner/";
+
+const steps = [
+  {
+    name: 'Understand what foreigners can own',
+    text: 'Foreigners can buy apartments and houses in commercial developments, but cannot own land directly — land in Vietnam is collectively owned and held via land-use rights. Foreign buyers receive ownership of the dwelling on a long-term, renewable leasehold basis.',
+  },
+  {
+    name: 'Know the quotas and limits',
+    text: 'Foreign ownership is capped per project: foreigners may own up to ~30% of units in a single apartment building, and a limited number of houses/villas in a given area. Confirm a project still has foreign quota ("foreign room") before committing.',
+  },
+  {
+    name: 'Check eligibility and documents',
+    text: 'You generally need a valid passport and legal entry to Vietnam. Verify the developer\'s legal right to sell to foreigners, the project\'s ownership certificate (pink book) status, and that the unit falls within the foreign quota.',
+  },
+  {
+    name: 'Reserve and sign the SPA',
+    text: 'Pay a reservation deposit, then sign a Sale and Purchase Agreement (SPA) with the developer. Have the SPA reviewed by an independent Vietnamese lawyer — check payment schedule, handover date, penalties, and the leasehold term.',
+  },
+  {
+    name: 'Pay through compliant channels',
+    text: 'Payments are typically staged against construction milestones and must flow through a Vietnamese bank, ideally from a foreign-currency or capital account, with documentation — this matters for repatriating proceeds when you later sell.',
+  },
+  {
+    name: 'Register ownership and plan the exit',
+    text: 'On handover, obtain the ownership certificate. The foreign leasehold runs ~50 years and is renewable. Plan your exit: foreigners can sell to locals or other foreigners (subject to quota) and repatriate proceeds if the original inflow was documented.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Can foreigners buy property in Vietnam?",
+    answer: "Yes, but with limits. Foreigners can buy and own apartments and houses within eligible commercial developments, but they cannot own land outright — land is collectively owned in Vietnam and held through land-use rights. Foreign buyers receive ownership of the dwelling on a renewable long-term leasehold, subject to per-project quotas."
+  },
+  {
+    question: "How long can a foreigner own property in Vietnam?",
+    answer: "Foreign individuals typically receive ownership for a 50-year term from the date stated on the ownership certificate, and this is renewable. Foreigners married to Vietnamese citizens, and certain entities, may receive different (often longer or stable) terms. The dwelling can be sold or inherited within the rules during that period."
+  },
+  {
+    question: "What are the foreign ownership limits on Vietnamese property?",
+    answer: "Foreign buyers may collectively own up to about 30% of the units in a single apartment building, and a capped number of landed houses/villas within a defined administrative area (commonly cited around 250 houses per ward). Each project has a finite foreign quota, so it's essential to confirm availability before buying."
+  },
+  {
+    question: "Can foreigners own land in Vietnam?",
+    answer: "No. Land in Vietnam is owned collectively by the people and administered by the state; individuals and companies hold land-use rights rather than freehold land. Foreigners can own the buildings/apartments on eligible projects but not the underlying land, which is the key structural difference from many Western markets."
+  },
+  {
+    question: "Can a foreigner sell Vietnamese property and take the money out?",
+    answer: "Yes, foreigners can resell to eligible buyers (locals, or other foreigners within quota) and repatriate the proceeds — but smooth repatriation depends on having brought the original purchase funds in through proper banking channels with documentation. Keep clean records of every inbound payment from the start."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Buy Property in Vietnam as a Foreigner",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-05-31"
+  lastUpdated="2026-05-31"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Buy Property as a Foreigner</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Foreigners can own property in Vietnam — apartments and houses in eligible developments —
+        but not land, and only within per-project quotas and a renewable 50-year leasehold. This
+        guide explains what's allowed, the buying process, payment and repatriation rules, and the
+        risks to watch. It's an orientation, not legal advice — engage an independent Vietnamese
+        property lawyer before signing anything.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>The key distinction: buildings vs land</h2>
+      <p>
+        The single most important thing to understand is that Vietnam has no freehold land for
+        anyone — land is collectively owned and held via land-use rights. Foreigners can own the
+        <em>dwelling</em> (apartment or house) in an eligible commercial project on a renewable
+        leasehold, subject to a <a href="/glossary/foreign-ownership-limit/">foreign ownership limit</a>
+        per building. This is closer to how foreign-owned condos work elsewhere in Asia than to
+        Western freehold ownership.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/guides/how-to-register-a-company-in-vietnam/">How to register a company in Vietnam</a></li>
+        <li><a href="/stats/vietnam-real-estate-2026/">Vietnam Real Estate Statistics 2026</a></li>
+        <li><a href="/regulations/">Regulatory environment — overview</a> · <a href="/financial-markets/">Financial markets — overview</a></li>
+        <li><a href="/glossary/foreign-ownership-limit/">Foreign ownership limit</a> · <a href="/glossary/fdi/">FDI</a> (glossary)</li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: 860px; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 8px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
