@@ -132,9 +132,11 @@ const {
     font: inherit;
     font-weight: 600;
     color: white;
-    background: #1a1a1a;
+    background: var(--color-accent);
     cursor: pointer;
+    transition: background 0.2s ease;
   }
+  .lead-capture__form button:hover { background: var(--color-accent-hover); }
   .lead-capture__form button:disabled {
     opacity: 0.7;
     cursor: not-allowed;

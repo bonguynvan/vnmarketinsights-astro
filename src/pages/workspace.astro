@@ -534,12 +534,14 @@ const quickActions = [
     border: none;
     border-radius: 8px;
     padding: 0.45rem 0.75rem;
-    background: #1a1a1a;
+    background: var(--color-accent);
     color: #fff;
     font: inherit;
     font-size: var(--text-sm);
     cursor: pointer;
+    transition: background 0.2s ease;
   }
+  .goal-form button:hover { background: var(--color-accent-hover); }
   .goal-item {
     display: flex;
     justify-content: space-between;
