@@ -100,6 +100,14 @@ h6 {
   color: var(--color-text);
 }
 
+/* Editorial serif for the major headings; smaller headings stay sans. */
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  letter-spacing: -0.01em;
+}
+
 h1 {
   font-size: var(--text-3xl);
   margin-bottom: var(--space-6);
@@ -135,6 +143,18 @@ a {
 a:hover {
   color: var(--color-accent-hover);
   text-decoration: underline;
+}
+
+/* Refined detail touches: branded text selection + accessible focus rings. */
+::selection {
+  background: color-mix(in srgb, var(--color-accent) 18%, transparent);
+  color: var(--color-text);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 
 /* Lists */
