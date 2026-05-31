@@ -153,7 +153,7 @@ const { title = 'Your growth journey' } = Astro.props;
     display: block;
     height: 100%;
     width: 0%;
-    background: linear-gradient(90deg, #2563eb, #0ea5e9);
+    background: linear-gradient(90deg, var(--color-accent), var(--color-gold));
     transition: width 0.25s ease;
   }
   .growth-journey__next-action {
@@ -165,16 +165,16 @@ const { title = 'Your growth journey' } = Astro.props;
     gap: var(--space-1);
     padding: var(--space-4);
     border-radius: 10px;
-    border: 1px solid #bfdbfe;
-    background: #eff6ff;
+    border: 1px solid color-mix(in srgb, var(--color-accent) 25%, transparent);
+    background: color-mix(in srgb, var(--color-accent) 6%, var(--color-bg));
     text-decoration: none;
-    color: #1e3a8a;
+    color: var(--color-text);
   }
   .growth-next-action__label {
     font-size: var(--text-xs);
     text-transform: uppercase;
     letter-spacing: 0.04em;
-    color: #1d4ed8;
+    color: var(--color-accent-hover);
   }
   .growth-journey__checklist {
     list-style: none;
