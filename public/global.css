@@ -612,7 +612,7 @@ hr {
   border-color: var(--color-accent);
   color: var(--color-accent);
   background: var(--color-bg);
-  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.1);
+  box-shadow: 0 2px 8px color-mix(in srgb, var(--color-accent) 12%, transparent);
 }
 
 .search-trigger__icon {
@@ -767,7 +767,7 @@ hr {
 #search .pagefind-ui__search-input:focus {
   background: var(--color-bg);
   border-color: var(--color-accent);
-  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 15%, transparent);
 }
 
 /* Clear Button Alignment */
