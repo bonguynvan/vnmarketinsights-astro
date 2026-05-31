@@ -21,8 +21,8 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" v
       <stop offset="100%" stop-color="#111c33"/>
     </linearGradient>
     <radialGradient id="glow" cx="88%" cy="-5%" r="70%">
-      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.35"/>
-      <stop offset="60%" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#c8102e" stop-opacity="0.40"/>
+      <stop offset="60%" stop-color="#c8102e" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
@@ -32,20 +32,20 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" v
   <rect width="1200" height="630" fill="url(#bg)"/>
   <rect width="1200" height="630" fill="url(#grid)"/>
   <rect width="1200" height="630" fill="url(#glow)"/>
-  <rect x="0" y="0" width="14" height="630" fill="#2563eb"/>
+  <rect x="0" y="0" width="14" height="630" fill="#c8102e"/>
 
-  <!-- star motif -->
-  <g transform="translate(1016 96)" fill="#2563eb" opacity="0.85">
+  <!-- star motif (gold) -->
+  <g transform="translate(1016 96)" fill="#e0a106" opacity="0.9">
     <path d="M84 0 L104.3 43.8 L154 47.7 L116 81.8 L127.3 130.5 L84 105 L40.7 130.5 L52 81.8 L14 47.7 L63.7 43.8 Z"/>
   </g>
 
   <!-- eyebrow -->
-  <circle cx="104" cy="150" r="7" fill="#2563eb"/>
-  <text x="124" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3" fill="#9db8f0">VIETNAM MARKET INSIGHTS</text>
+  <circle cx="104" cy="150" r="7" fill="#c8102e"/>
+  <text x="124" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="3" fill="#f0a9b4">VIETNAM MARKET INSIGHTS</text>
 
   <!-- headline -->
   <text x="92" y="296" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="86" font-weight="800" fill="#ffffff">Vietnam&#8217;s digital</text>
-  <text x="92" y="392" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="86" font-weight="800" fill="#ffffff">economy, <tspan fill="#5b8bf5">made legible.</tspan></text>
+  <text x="92" y="392" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="86" font-weight="800" fill="#ffffff">economy, <tspan fill="#ff5a6e">made legible.</tspan></text>
 
   <!-- tagline -->
   <text x="92" y="456" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="400" fill="#b6c2d4">Structured references on e-commerce, payments,</text>
