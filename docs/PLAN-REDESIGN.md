@@ -128,12 +128,12 @@ Thứ tự đề xuất:
 ### Phase 1 — Nền tảng & dọn homepage (ưu tiên cao)
 
 - [x] **1.1** Tạo `/topics`: `src/pages/topics/index.astro`, list 6 topic + Financial markets (link tới trang financial-markets).
-- [ ] **1.2** Tạo `/tools`: `src/pages/tools/index.astro`, grid 3 tool (Snapshot, Keywords, Trend Radar); không link Weekly trên nav/tools hoặc link kèm label "Sample".
-- [ ] **1.3** Cập nhật **BaseLayout** nav: Home | Topics | Glossary | Tools | About | Changelog (+ Search). Bỏ link trực tiếp Payments…Platforms khỏi nav chính (chỉ trong /topics). Thêm Financial markets vào /topics.
-- [ ] **1.4** Làm lại **index.astro**: Hero (2 CTA: Topics, Tools); 2 pillars; Trend Radar preview + disclaimer; Methodology ngắn; Mission. Bỏ: stats, topic grid, What's New, How to Use.
-- [ ] **1.5** Thêm **disclaimer** trên `/trends`: "Data from sample and aggregated sources; for illustration."
-- [ ] **1.6** **Weekly:** Hoặc ẩn khỏi nav và /tools, hoặc giữ route + thêm banner "Sample report" + noindex nếu muốn.
-- [ ] **1.7** Cập nhật **about.astro**: Thêm câu mở rộng sang financial market/tools.
+- [x] **1.2** Tạo `/tools`: `src/pages/tools/index.astro`, grid 3 tool (Snapshot, Keywords, Trend Radar); không link Weekly trên nav/tools hoặc link kèm label "Sample".
+- [x] **1.3** Cập nhật **BaseLayout** nav: Home | Topics | Glossary | Tools | About | Changelog (+ Search). Bỏ link trực tiếp Payments…Platforms khỏi nav chính (chỉ trong /topics). Thêm Financial markets vào /topics.
+- [x] **1.4** Làm lại **index.astro**: Hero (2 CTA: Topics, Tools); 2 pillars; Trend Radar preview + disclaimer; Methodology ngắn; Mission. Bỏ: stats, topic grid, What's New, How to Use.
+- [x] **1.5** Thêm **disclaimer** trên `/trends`: "Data from sample and aggregated sources; for illustration."
+- [x] **1.6** **Weekly:** Hoặc ẩn khỏi nav và /tools, hoặc giữ route + thêm banner "Sample report" + noindex nếu muốn.
+- [x] **1.7** Cập nhật **about.astro**: Thêm câu mở rộng sang financial market/tools.
 
 **Kết quả Phase 1:** Homepage gọn, rõ hai trụ; nav chuẩn; có /topics và /tools; Trend Radar minh bạch là demo/sample.
 
@@ -141,12 +141,12 @@ Thứ tự đề xuất:
 
 ### Phase 2 — Content & Financial hub
 
-- [ ] **2.1** Cấu hình **Content Collections** cho `src/content/articles` (config + type).
-- [ ] **2.2** Tạo trang **/insights** (hoặc /articles): list bài, sort theo date; link tới từng bài (có thể dynamic route cho từng article).
-- [ ] **2.3** Tạo trang **financial-markets.astro**: structure giống topic (Overview, Key characteristics, Major players, Sources); nội dung tổng quan thị trường chứng khoán VN, VN30, HOSE, HNX, nguồn SSI, VSD, etc.
+- [x] **2.1** Cấu hình **Content Collections** cho `src/content/articles` (config + type).
+- [x] **2.2** Tạo trang **/insights** (hoặc /articles): list bài, sort theo date; link tới từng bài (có thể dynamic route cho từng article).
+- [x] **2.3** Tạo trang **financial-markets.astro**: structure giống topic (Overview, Key characteristics, Major players, Sources); nội dung tổng quan thị trường chứng khoán VN, VN30, HOSE, HNX, nguồn SSI, VSD, etc.
 - [x] **2.4** Thêm 1–2 bài trong `content/articles` về stock market (ví dụ overview, VN30); link từ financial-markets và từ /insights.
-- [ ] **2.5** Thêm **Financial markets** vào array topics trong `src/pages/topics/index.astro` (đã có link ở 1.1, chỉ cần đảm bảo slug đúng).
-- [ ] **2.6** Internal linking: từ homepage pillars → /topics, /tools; từ topic pages → /insights, /tools (1–2 chỗ tự nhiên).
+- [x] **2.5** Thêm **Financial markets** vào array topics trong `src/pages/topics/index.astro` (đã có link ở 1.1, chỉ cần đảm bảo slug đúng).
+- [x] **2.6** Internal linking: từ homepage pillars → /topics, /tools; từ topic pages → /insights, /tools (1–2 chỗ tự nhiên).
 
 **Kết quả Phase 2:** Có hub Financial/Stock; có listing articles; content sẵn sàng cho SEO và mở rộng sau.
 
