@@ -154,7 +154,17 @@ pipeline/
 - **hreflang** for EN/VI brief pairs: `BaseLayout` gained an `alternateLanguages`
   prop; brief pages emit `en` / `vi` / `x-default` links when both variants exist.
 
-## Next (Phase 9 ideas)
+## Phase 9 — homepage + discovery
 
-A homepage "This week in Vietnam markets" strip, author/Organization sameAs
-schema, and an OPML/feeds discovery page listing rss.xml + briefs.xml.
+- **"This week in Vietnam markets"** strip on the homepage (`WeekInMarkets`):
+  top recent items across topics from `recent-by-topic.json`; hidden until data.
+- **Richer Organization schema**: `description`, `areaServed` (Vietnam),
+  `knowsAbout`, and a `sameAs`/`ORG_SAME_AS` list (seeded with both feeds; add
+  real social profiles as they launch). Briefs feed added as `<link rel=alternate>`.
+- **`/feeds` discovery page** + `/feeds.opml`: subscribe links, copy-URL, and a
+  one-click OPML import for rss.xml + briefs.xml.
+
+## Next (Phase 10 ideas)
+
+A nav/footer link to `/feeds` and `/trends`, a sitemap entry for the news
+sitemap via a sitemap index, and per-topic RSS feeds.

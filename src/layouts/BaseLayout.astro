@@ -84,13 +84,30 @@ const breadcrumbSchema = {
   })),
 };
 
+// Organization identity links. Add real profiles (X, LinkedIn, etc.) here as
+// they go live — they strengthen entity recognition in search.
+const ORG_SAME_AS: string[] = [
+  `${site}/rss.xml`,
+  `${site}/briefs.xml`,
+];
+
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Vietnam Market Insights',
   url: site,
   logo: `${site}/logo.svg`,
-  sameAs: [],
+  description:
+    "Structured reference and AI-summarized news on Vietnam's market: e-commerce, payments, logistics, and financial markets.",
+  areaServed: { '@type': 'Country', name: 'Vietnam' },
+  knowsAbout: [
+    'Vietnam e-commerce',
+    'Vietnam digital payments',
+    'Vietnam logistics',
+    'Vietnam financial markets',
+    'Vietnam macroeconomy',
+  ],
+  sameAs: ORG_SAME_AS,
 };
 
 const isHome = pathname === '/';
@@ -195,6 +212,7 @@ const allSchemas = [
 
   <!-- RSS feed for insights -->
   <link rel="alternate" type="application/rss+xml" title="Vietnam Market Insights — Articles" href={`${site}/rss.xml`}>
+  <link rel="alternate" type="application/rss+xml" title="Vietnam Market Insights — Weekly Briefs" href={`${site}/briefs.xml`}>
 
   <!-- Editorial heading font (body stays on the fast system stack) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">

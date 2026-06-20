@@ -1,0 +1,91 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const feeds = [
+  {
+    title: 'Articles & Insights',
+    description: 'Reference articles plus AI-summarized briefs and company coverage.',
+    href: '/rss.xml',
+  },
+  {
+    title: 'Weekly Briefs',
+    description: 'Just the weekly AI-summarized digest of Vietnam market news.',
+    href: '/briefs.xml',
+  },
+];
+---
+
+<BaseLayout
+  title="Feeds — Vietnam Market Insights"
+  description="Subscribe to Vietnam Market Insights via RSS: articles, insights, and the weekly market brief. OPML available."
+  canonicalURL="https://vnmarketinsights.com/feeds/"
+  mainClass="container"
+>
+  <div class="feeds-page">
+    <header class="feeds-header">
+      <h1>Feeds</h1>
+      <p class="feeds-lead">
+        Subscribe in any RSS reader. Import everything at once with the
+        <a href="/feeds.opml">OPML file</a>.
+      </p>
+    </header>
+
+    <ul class="feeds-list">
+      {feeds.map((feed) => (
+        <li class="feed-card">
+          <div class="feed-meta">
+            <h2 class="feed-title">{feed.title}</h2>
+            <p class="feed-desc">{feed.description}</p>
+          </div>
+          <div class="feed-actions">
+            <a class="feed-btn" href={feed.href}>Open feed</a>
+            <button type="button" class="feed-copy" data-url={`https://vnmarketinsights.com${feed.href}`}>
+              Copy URL
+            </button>
+          </div>
+        </li>
+      ))}
+    </ul>
+
+    <p class="feeds-footer"><a href="/insights">← Articles</a> · <a href="/">Home</a></p>
+  </div>
+
+  <script is:inline>
+    document.querySelectorAll('.feed-copy').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(btn.getAttribute('data-url') || '');
+          const original = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(() => { btn.textContent = original; }, 1500);
+        } catch {
+          /* clipboard unavailable */
+        }
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  .feeds-header { margin-bottom: var(--space-8, 2rem); }
+  .feeds-header h1 { border: none; margin-bottom: var(--space-2, 0.5rem); }
+  .feeds-lead { color: var(--color-text-muted, #5a5a5a); font-size: var(--text-lg, 1.125rem); }
+  .feeds-list { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-4, 1rem); }
+  .feed-card {
+    display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between;
+    padding: var(--space-5, 1.25rem); border: 1px solid var(--color-border, #e5e5e5); border-radius: 12px;
+    background: var(--color-bg, #fff);
+  }
+  .feed-title { margin: 0 0 0.25rem; border: none; font-size: var(--text-lg, 1.125rem); }
+  .feed-desc { margin: 0; color: var(--color-text-muted, #5a5a5a); font-size: var(--text-sm, 0.875rem); }
+  .feed-actions { display: flex; gap: 0.5rem; }
+  .feed-btn, .feed-copy {
+    padding: 0.5rem 0.9rem; border-radius: 8px; font-size: var(--text-sm, 0.875rem); font-weight: 600;
+    text-decoration: none; cursor: pointer; border: 1px solid var(--color-border, #e5e5e5);
+    background: var(--color-bg, #fff); color: var(--color-text, #1a1a1a);
+  }
+  .feed-btn { background: var(--color-text, #1a1a1a); color: var(--color-bg, #fff); border-color: var(--color-text, #1a1a1a); }
+  .feed-btn:hover { background: var(--color-accent, #2563eb); border-color: var(--color-accent, #2563eb); color: #fff; }
+  .feed-copy:hover { border-color: var(--color-accent, #2563eb); color: var(--color-accent, #2563eb); }
+  .feeds-footer { margin-top: var(--space-8, 2rem); font-size: var(--text-sm, 0.875rem); color: var(--color-text-muted, #5a5a5a); }
+</style>
