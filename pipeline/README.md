@@ -137,7 +137,17 @@ pipeline/
 - **Weekly email guard**: `notify.py` sends a brief to `LEAD_WEBHOOK_URL` at most
   once per ISO week, tracked in `data/notify-state.json` (committed by CI).
 
-## Next (Phase 7 ideas)
+## Phase 7 — discoverability
 
-OG images for entity pages, a JSON-LD `NewsArticle` schema on briefs, and a
-sitemap news extension for faster brief indexing.
+- **OG images for entity pages**: `make-brief-og.mjs` now also renders cards for
+  `company-*.md` (Company eyebrow); `[slug].astro` sets the image for Company too.
+- **`NewsArticle` JSON-LD on briefs**: emitted via `BaseLayout`'s `structuredData`
+  for Market Brief pages (headline, dates, image, publisher).
+- **Google News sitemap**: `scripts/generate-news-sitemap.mjs` (postbuild) writes
+  `news-sitemap.xml` with briefs published in the last ~2 days (EN + VI by
+  language). Submit it separately in Search Console.
+
+## Next (Phase 8 ideas)
+
+A `/insights` "Latest brief" hero, breadcrumb JSON-LD on topic pages, and
+hreflang tags linking EN/VI brief pairs.
