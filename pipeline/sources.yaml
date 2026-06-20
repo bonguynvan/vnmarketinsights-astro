@@ -1,0 +1,47 @@
+# Source registry for the VN market news pipeline.
+# RSS-first. `fetch_full` controls whether we also download the linked
+# article HTML for clean main-text extraction (Phase 0 keeps a small set on
+# to validate extraction; expand later).
+#
+# Etiquette: respect robots.txt, descriptive User-Agent, per-domain rate limit.
+# We store only summaries + links, never republish full article bodies.
+
+defaults:
+  per_domain_delay_seconds: 2.5
+  request_timeout_seconds: 20
+  max_items_per_feed: 25
+  fetch_full: true
+
+sources:
+  - name: VnExpress
+    lang: vi
+    topic_hint: business
+    feeds:
+      - https://vnexpress.net/rss/kinh-doanh.rss
+      - https://vnexpress.net/rss/doanh-nghiep.rss
+
+  - name: CafeF
+    lang: vi
+    topic_hint: business
+    feeds:
+      - https://cafef.vn/thi-truong-chung-khoan.rss
+      - https://cafef.vn/vi-mo-dau-tu.rss
+      - https://cafef.vn/tai-chinh-ngan-hang.rss
+
+  - name: VietnamNet
+    lang: vi
+    topic_hint: business
+    feeds:
+      - https://vietnamnet.vn/rss/kinh-doanh.rss
+
+  - name: TuoiTre
+    lang: vi
+    topic_hint: business
+    feeds:
+      - https://tuoitre.vn/rss/kinh-doanh.rss
+
+  - name: ThanhNien
+    lang: vi
+    topic_hint: economy
+    feeds:
+      - https://thanhnien.vn/rss/kinh-te.rss

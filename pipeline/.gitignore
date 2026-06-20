@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+# Phase 2: the DB is committed so trend history persists across CI runs.
+# (Swap to Turso later if binary diffs become annoying.) Transient SQLite
+# sidecar files stay ignored.
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm

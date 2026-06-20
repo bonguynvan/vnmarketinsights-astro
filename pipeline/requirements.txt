@@ -1,0 +1,9 @@
+# Phase 0 — crawl → extract → dedup → store
+httpx[http2]==0.27.2
+feedparser==6.0.11
+trafilatura==1.12.2
+PyYAML==6.0.2
+python-dotenv==1.0.1
+
+# Phase 1 — LLM enrichment + brief generation (Claude Haiku)
+anthropic==0.39.0
