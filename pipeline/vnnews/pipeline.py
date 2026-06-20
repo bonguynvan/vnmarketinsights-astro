@@ -3,11 +3,12 @@
 Commands:
   crawl      crawl -> extract -> dedup -> store               (Phase 0, no key)
   enrich     Claude Haiku enrichment of un-enriched articles  (Phase 1, needs key)
+  embed      Gemini embeddings for enriched articles          (Phase 3, needs key)
   brief      generate weekly Markdown brief into Astro content (Phase 1)
   aggregate  rebuild daily trend_snapshots from enrichment     (Phase 2)
-  publish    write recent-by-topic.json, trends.json, entities (Phase 2)
+  publish    recent-by-topic.json, trends.json, entities, index(Phase 2/3)
   notify     POST latest brief to LEAD_WEBHOOK_URL             (Phase 2)
-  all        crawl -> enrich -> aggregate -> brief -> publish -> notify
+  all        crawl -> enrich -> embed -> aggregate -> brief -> publish -> notify
 """
 
 from __future__ import annotations
@@ -20,6 +21,7 @@ from .brief import run_brief
 from .config import Settings, load_settings
 from .crawl import crawl_all
 from .dedup import dedup
+from .embed import run_embed
 from .enrich import run_enrich
 from .notify import run_notify
 from .publish import run_publish
@@ -52,7 +54,7 @@ def run(command: str = "crawl") -> None:
     settings = load_settings()
     print(f"DB: {settings.db_path}")
 
-    commands = ("crawl", "enrich", "brief", "aggregate", "publish", "notify", "all")
+    commands = ("crawl", "enrich", "embed", "brief", "aggregate", "publish", "notify", "all")
     if command not in commands:
         print(f"Unknown command: {command}. Use: {' | '.join(commands)}")
         return
@@ -62,6 +64,9 @@ def run(command: str = "crawl") -> None:
     if command in ("enrich", "all"):
         print("\n== Enrich ==")
         run_enrich(settings)
+    if command in ("embed", "all"):
+        print("\n== Embed ==")
+        run_embed(settings)
     if command in ("aggregate", "all"):
         print("\n== Aggregate ==")
         run_aggregate(settings)

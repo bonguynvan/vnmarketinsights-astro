@@ -154,6 +154,29 @@ def upsert_enrichment(
     )
 
 
+def articles_needing_embedding(conn: sqlite3.Connection, limit: int) -> list[sqlite3.Row]:
+    """Enriched articles that have no embedding yet."""
+    return conn.execute(
+        """
+        SELECT a.id, a.title, e.summary_en
+        FROM articles a
+        JOIN enrichment e ON e.article_id = a.id
+        WHERE a.embedding IS NULL
+        ORDER BY a.fetched_at DESC
+        LIMIT ?
+        """,
+        (limit,),
+    ).fetchall()
+
+
+def set_embedding(conn: sqlite3.Connection, article_id: str, blob: bytes) -> None:
+    conn.execute("UPDATE articles SET embedding = ? WHERE id = ?", (blob, article_id))
+
+
+def count_embedded(conn: sqlite3.Connection) -> int:
+    return conn.execute("SELECT COUNT(*) FROM articles WHERE embedding IS NOT NULL").fetchone()[0]
+
+
 def enriched_since(conn: sqlite3.Connection, since_iso: str, limit: int) -> list[sqlite3.Row]:
     """Enriched articles fetched on/after `since_iso`, ranked for the brief."""
     return conn.execute(

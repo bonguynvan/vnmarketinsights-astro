@@ -10,6 +10,7 @@ All outputs are derived data + source links (never full article bodies).
 
 from __future__ import annotations
 
+import array
 import json
 import re
 from collections import defaultdict
@@ -29,6 +30,7 @@ RECENT_PER_TOPIC = 6
 RECENT_WINDOW = 60          # most recent N enriched articles to consider
 MIN_COMPANY_MENTIONS = 3    # build an entity page only past this threshold
 COMPANY_PAGE_ITEMS = 12
+SEARCH_INDEX_SIZE = 400     # most recent N embedded articles in the search index
 
 
 def _slugify(name: str) -> str:
@@ -194,6 +196,55 @@ def _write_entity_pages(conn, settings: Settings) -> int:
     return written
 
 
+def _write_search_index(conn, settings: Settings) -> int:
+    """Export embedded articles for semantic search (server-side cosine).
+
+    Vectors are normalized at embed time, so cosine == dot product. Stored
+    rounded to 5 decimals to keep the index compact.
+    """
+    rows = conn.execute(
+        """
+        SELECT a.id, a.title, a.url, a.source, a.pub_date, a.embedding,
+               e.summary_en, e.summary_vn, e.topic, e.sentiment
+        FROM articles a JOIN enrichment e ON e.article_id = a.id
+        WHERE a.embedding IS NOT NULL
+        ORDER BY a.fetched_at DESC
+        LIMIT ?
+        """,
+        (SEARCH_INDEX_SIZE,),
+    ).fetchall()
+
+    items = []
+    for r in rows:
+        vec = array.array("f")
+        vec.frombytes(r["embedding"])
+        items.append({
+            "title": r["title"],
+            "url": r["url"],
+            "source": r["source"],
+            "pubDate": r["pub_date"],
+            "summary_en": r["summary_en"],
+            "summary_vn": r["summary_vn"],
+            "topic": r["topic"],
+            "siteSlug": SITE_TOPIC.get(r["topic"] or "other", ""),
+            "sentiment": r["sentiment"],
+            "vec": [round(x, 5) for x in vec],
+        })
+
+    payload = {
+        "generatedAt": _now(),
+        "model": settings.embed_model,
+        "dims": settings.embed_dims,
+        "items": items,
+    }
+    data_dir = settings.articles_dir.parent.parent / "data"
+    data_dir.mkdir(parents=True, exist_ok=True)
+    out = data_dir / "news-index.json"
+    out.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+    print(f"  wrote {out} ({len(items)} embedded items)")
+    return len(items)
+
+
 def run_publish(settings: Settings) -> None:
     with db.connect(settings.db_path) as conn:
         db.init_db(conn)
@@ -204,3 +255,4 @@ def run_publish(settings: Settings) -> None:
         _write_recent_by_topic(rows, settings)
         _write_trends(conn, settings)
         _write_entity_pages(conn, settings)
+        _write_search_index(conn, settings)

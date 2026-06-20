@@ -4,9 +4,9 @@ name: News Pipeline
 # JSON/entity pages, and commit the results back. Vercel rebuilds on push.
 on:
   schedule:
-    # Weekly, Monday 23:00 UTC ≈ Tuesday 06:00 ICT. Start weekly; move to daily
-    # ("0 23 * * *") once quality is proven.
-    - cron: "0 23 * * 1"
+    # Daily 23:00 UTC ≈ 06:00 ICT. (The weekly brief naturally rolls over its
+    # 7-day window; daily keeps trends + recent-developments fresh.)
+    - cron: "0 23 * * *"
   workflow_dispatch: {}
 
 concurrency:
@@ -34,9 +34,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run pipeline (crawl → enrich → aggregate → brief → publish → notify)
+      - name: Run pipeline (crawl → enrich → embed → aggregate → brief → publish → notify)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           LEAD_WEBHOOK_URL: ${{ secrets.LEAD_WEBHOOK_URL }}
           VNNEWS_ENRICH_LIMIT: "40"
         run: python run.py all
@@ -46,7 +47,8 @@ jobs:
           cd "${GITHUB_WORKSPACE}"
           git config user.name "vnmarket-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add pipeline/data/news.db src/content/articles src/data/recent-by-topic.json src/data/trends.json
+          git add pipeline/data/news.db src/content/articles \
+            src/data/recent-by-topic.json src/data/trends.json src/data/news-index.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

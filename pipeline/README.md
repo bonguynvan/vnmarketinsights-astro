@@ -24,11 +24,12 @@ pip install -r requirements.txt
 ```bash
 python run.py            # crawl + store (Phase 0); safe to re-run (dedups)
 python run.py enrich     # Claude Haiku enrichment of un-enriched articles
+python run.py embed      # Gemini embeddings for semantic search (needs GEMINI_API_KEY)
 python run.py aggregate  # rebuild daily trend_snapshots from enrichment
-python run.py brief      # write weekly brief into ../src/content/articles/
-python run.py publish    # recent-by-topic.json, trends.json, entity pages
+python run.py brief      # write EN + VI weekly briefs into ../src/content/articles/
+python run.py publish    # recent-by-topic.json, trends.json, entity pages, news-index.json
 python run.py notify     # POST latest brief to LEAD_WEBHOOK_URL (if set)
-python run.py all        # crawl → enrich → aggregate → brief → publish → notify
+python run.py all        # crawl → enrich → embed → aggregate → brief → publish → notify
 python inspect_db.py     # show counts + recent titles
 ```
 
@@ -94,7 +95,22 @@ pipeline/
   committed so trend history accumulates. Set repo secrets `ANTHROPIC_API_KEY`
   and (optionally) `LEAD_WEBHOOK_URL`.
 
-## Next (Phase 3)
+## Phase 3 — semantic search, EN/VN, daily
 
-Semantic search over the enriched corpus (embeddings), EN/VN split surfaces,
-move to daily cadence, and retire the live LLM path in `src/utils/newsFeed.ts`.
+- **Semantic search**: `embed` step stores Gemini `text-embedding-004` vectors
+  (normalized, 256-dim) in `articles.embedding`; `publish` exports the top-N to
+  `src/data/news-index.json`. The endpoint `src/pages/api/search/news.ts` →
+  `src/utils/newsSearch.ts` embeds the query once and ranks by cosine, with a
+  keyword fallback when no key/embedding is available. Needs `GEMINI_API_KEY`.
+- **Retired** the live RSS-fetch + Gemini *generation* path: `newsFeed.ts` is
+  removed; search now reads the precomputed corpus (no per-view LLM generation).
+- **EN/VN**: `brief` emits `brief-<date>.md` (EN) and `brief-<date>-vi.md` (VI);
+  the search endpoint accepts `?lang=vi` to return Vietnamese summaries.
+- **Daily cadence**: the GitHub Actions cron runs daily. Add repo secret
+  `GEMINI_API_KEY` alongside `ANTHROPIC_API_KEY`.
+
+## Next (Phase 4 ideas)
+
+A dedicated `/insights/search` page (currently `/search` uses the endpoint),
+embeddings-based "related articles" on entity pages, and wiring `trends.json`
+into the `/trends` page UI.

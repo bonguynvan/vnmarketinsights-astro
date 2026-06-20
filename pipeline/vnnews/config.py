@@ -37,6 +37,9 @@ class Settings:
     enrich_limit: int
     articles_dir: Path
     lead_webhook_url: str
+    gemini_api_key: str
+    embed_model: str
+    embed_dims: int
 
 
 def _load_sources(path: Path) -> tuple[Source, ...]:
@@ -83,4 +86,7 @@ def load_settings(sources_file: str = "sources.yaml") -> Settings:
         enrich_limit=int(os.getenv("VNNEWS_ENRICH_LIMIT", "40")),
         articles_dir=_resolve(os.getenv("VNNEWS_ARTICLES_DIR", "../src/content/articles")),
         lead_webhook_url=os.getenv("LEAD_WEBHOOK_URL", ""),
+        gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
+        embed_model=os.getenv("VNNEWS_EMBED_MODEL", "text-embedding-004"),
+        embed_dims=int(os.getenv("VNNEWS_EMBED_DIMS", "256")),
     )
