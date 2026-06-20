@@ -1,5 +1,6 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Logistics — Infrastructure, Last-Mile & Major Players (2026)";
@@ -152,6 +153,8 @@ const faqs = [
       <li>Civil Aviation Authority of Vietnam air cargo statistics</li>
     </ul>
   </section>
+
+  <RecentDevelopments topic="logistics" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>

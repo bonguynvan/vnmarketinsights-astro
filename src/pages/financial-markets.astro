@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import RecentDevelopments from '@components/RecentDevelopments.astro';
 
 const title = "Vietnam Financial Markets — Exchanges, Indices & Investment (2026)";
 const description = "Overview of Vietnam's stock market, exchanges (HOSE, HNX, UPCoM), key indices (VN30, VN100), and investment landscape.";
@@ -130,6 +131,8 @@ const faqSchema = {
       <a href="/topics">All topics</a> · <a href="/regulations">Regulations</a> · <a href="/">Home</a>
     </p>
   </article>
+
+  <RecentDevelopments topic="financial-markets" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>

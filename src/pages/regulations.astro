@@ -1,5 +1,6 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Digital Business Regulations — Licensing & Compliance (2026)";
@@ -128,6 +129,8 @@ const relatedTopics = getRelatedTopics('regulations');
       <li>International law firm Vietnam regulatory updates</li>
     </ul>
   </section>
+
+  <RecentDevelopments topic="regulations" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>

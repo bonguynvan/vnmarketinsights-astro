@@ -119,7 +119,15 @@ pipeline/
 - **EN/VI toggle** on `/search`: switches summary language via `?lang=`; page
   copy updated to reflect semantic search over the enriched corpus.
 
-## Next (Phase 5 ideas)
+## Phase 5 — content surfacing
 
-Wire `recent-by-topic` into the remaining topic pages, an `/insights` filter by
-topic, and an embeddings-based "related insights" block on article pages.
+- **Recent developments** now wired into all topic pages (payments, ecommerce,
+  logistics, consumers, platforms, regulations, financial-markets).
+- **`/insights` topic filter**: client-side category chips with counts.
+- **Related insights** on article pages: build-time, same-category-first with a
+  recent fallback (no pipeline dependency).
+
+## Next (Phase 6 ideas)
+
+Per-article OG images for briefs, an RSS feed of the latest briefs, and a
+weekly email send wired through `LEAD_WEBHOOK_URL`.

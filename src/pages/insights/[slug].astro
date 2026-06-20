@@ -12,6 +12,21 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const title = entry.data.title ?? 'Article';
 const description = entry.data.description ?? 'Vietnam market insights article';
+
+// Related insights: same category first (newest), topped up with other recent
+// articles so the block is always populated. Computed at build time.
+const RELATED_COUNT = 4;
+const byDate = (a: typeof entry, b: typeof entry) => {
+  const da = a.data.publishedDate ? new Date(a.data.publishedDate).valueOf() : 0;
+  const db = b.data.publishedDate ? new Date(b.data.publishedDate).valueOf() : 0;
+  return db - da;
+};
+const all = (await getCollection('articles')).filter((a) => a.slug !== entry.slug);
+const sameCategory = all
+  .filter((a) => entry.data.category && a.data.category === entry.data.category)
+  .sort(byDate);
+const fillers = all.filter((a) => !sameCategory.includes(a)).sort(byDate);
+const related = [...sameCategory, ...fillers].slice(0, RELATED_COUNT);
 ---
 
 <BaseLayout
@@ -36,6 +51,22 @@ const description = entry.data.description ?? 'Vietnam market insights article';
     <div class="article-body prose">
       <Content />
     </div>
+    {related.length > 0 && (
+      <aside class="related-insights" aria-label="Related insights">
+        <h2>Related insights</h2>
+        <ul class="related-grid">
+          {related.map((rel) => (
+            <li>
+              <a href={`/insights/${rel.slug}`} class="related-card">
+                {rel.data.category && <span class="related-cat">{rel.data.category}</span>}
+                <span class="related-title">{rel.data.title}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </aside>
+    )}
+
     <footer class="article-footer">
       <a href="/insights">← All articles</a> · <a href="/topics">Topics</a>
     </footer>
@@ -57,4 +88,13 @@ const description = entry.data.description ?? 'Vietnam market insights article';
   .article-body :global(h3) { margin-top: var(--space-6); }
   .article-body :global(ul), .article-body :global(ol) { padding-left: var(--space-6); }
   .article-footer { margin-top: var(--space-10); padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); font-size: var(--text-sm); color: var(--color-text-muted); }
+
+  .related-insights { margin-top: var(--space-12); padding-top: var(--space-8); border-top: 1px solid var(--color-border-light); }
+  .related-insights h2 { border: none; margin-bottom: var(--space-5); font-size: var(--text-xl); }
+  .related-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-4); }
+  .related-grid li { margin: 0; }
+  .related-card { display: flex; flex-direction: column; gap: var(--space-2); height: 100%; padding: var(--space-4); border: 1px solid var(--color-border-light); border-radius: 10px; text-decoration: none; color: inherit; transition: border-color 0.18s ease, transform 0.18s ease; }
+  .related-card:hover { border-color: var(--color-accent); transform: translateY(-2px); text-decoration: none; color: inherit; }
+  .related-cat { font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-accent); font-weight: 600; }
+  .related-title { font-weight: 600; line-height: 1.35; color: var(--color-text); }
 </style>

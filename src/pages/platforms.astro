@@ -1,5 +1,6 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Digital Platforms — Super-Apps, Social & Marketplaces (2026)";
@@ -166,6 +167,8 @@ const faqs = [
       <li>Company press releases and investor filings</li>
     </ul>
   </section>
+
+  <RecentDevelopments topic="platforms" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>
