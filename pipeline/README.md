@@ -127,7 +127,17 @@ pipeline/
 - **Related insights** on article pages: build-time, same-category-first with a
   recent fallback (no pipeline dependency).
 
-## Next (Phase 6 ideas)
+## Phase 6 — distribution
 
-Per-article OG images for briefs, an RSS feed of the latest briefs, and a
-weekly email send wired through `LEAD_WEBHOOK_URL`.
+- **Weekly-stable brief slugs**: `brief-YYYY-wWW[-vi].md`. Daily runs refresh the
+  current week's brief instead of creating a near-duplicate each day.
+- **Per-brief OG images**: `scripts/make-brief-og.mjs` (npm `prebuild`) renders a
+  1200×630 PNG per brief into `public/og/<slug>.png`; brief pages reference it.
+- **Dedicated briefs feed**: `/briefs.xml` (EN market briefs only).
+- **Weekly email guard**: `notify.py` sends a brief to `LEAD_WEBHOOK_URL` at most
+  once per ISO week, tracked in `data/notify-state.json` (committed by CI).
+
+## Next (Phase 7 ideas)
+
+OG images for entity pages, a JSON-LD `NewsArticle` schema on briefs, and a
+sitemap news extension for faster brief indexing.

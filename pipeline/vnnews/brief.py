@@ -38,7 +38,7 @@ INTRO_INPUT_ITEMS = 12
 LANG = {
     "en": {
         "labels": TOPIC_LABELS,
-        "title": lambda d: f"Vietnam Market Brief — {d.strftime('%B %d, %Y')}",
+        "title": lambda w, y: f"Vietnam Market Brief — Week {w}, {y}",
         "desc": lambda w, y: f"Weekly digest of Vietnam market and business news, week {w} {y}, grouped by topic with sources.",
         "overview": "Overview",
         "summary_key": "summary_en",
@@ -51,7 +51,7 @@ LANG = {
     },
     "vi": {
         "labels": TOPIC_LABELS_VI,
-        "title": lambda d: f"Bản tin Thị trường Việt Nam — {d.strftime('%d/%m/%Y')}",
+        "title": lambda w, y: f"Bản tin Thị trường Việt Nam — Tuần {w}/{y}",
         "desc": lambda w, y: f"Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần {w} năm {y}, phân nhóm theo chủ đề kèm nguồn.",
         "overview": "Tổng quan",
         "summary_key": "summary_vn",
@@ -98,10 +98,12 @@ def _render(date: datetime, overview: str, grouped: dict[str, list], lang: str) 
     cfg = LANG[lang]
     date_str = date.strftime("%Y-%m-%d")
     iso_week = date.isocalendar()
-    title = cfg["title"](date)
+    title = cfg["title"](iso_week.week, iso_week.year)
     description = cfg["desc"](iso_week.week, iso_week.year)
-    # EN keeps the canonical slug; VN gets a -vi suffix.
-    slug = f"brief-{date_str}" if lang == "en" else f"brief-{date_str}-vi"
+    # One file per ISO week: daily runs refresh the current week's brief instead
+    # of creating a near-duplicate every day. VN variant gets a -vi suffix.
+    base = f"brief-{iso_week.year}-w{iso_week.week:02d}"
+    slug = base if lang == "en" else f"{base}-vi"
     summary_key = cfg["summary_key"]
 
     lines = [
