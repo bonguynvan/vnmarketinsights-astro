@@ -13,6 +13,17 @@ const feeds = [
     href: '/briefs.xml',
   },
 ];
+
+// Per-topic feeds — recent AI-summarized news for a single topic.
+const topicFeeds = [
+  { label: 'Payments', slug: 'payments' },
+  { label: 'E-commerce', slug: 'ecommerce' },
+  { label: 'Logistics', slug: 'logistics' },
+  { label: 'Consumers', slug: 'consumers' },
+  { label: 'Regulation', slug: 'regulations' },
+  { label: 'Financial Markets', slug: 'financial-markets' },
+  { label: 'Platforms', slug: 'platforms' },
+];
 ---
 
 <BaseLayout
@@ -46,6 +57,16 @@ const feeds = [
         </li>
       ))}
     </ul>
+
+    <section class="topic-feeds" aria-labelledby="topic-feeds-heading">
+      <h2 id="topic-feeds-heading">Per-topic feeds</h2>
+      <p class="topic-feeds-note">Recent AI-summarized news for a single topic.</p>
+      <ul class="topic-feeds-list">
+        {topicFeeds.map((tf) => (
+          <li><a href={`/feeds/${tf.slug}.xml`}>{tf.label} <span aria-hidden="true">›</span></a></li>
+        ))}
+      </ul>
+    </section>
 
     <p class="feeds-footer"><a href="/insights">← Articles</a> · <a href="/">Home</a></p>
   </div>
@@ -87,5 +108,15 @@ const feeds = [
   .feed-btn { background: var(--color-text, #1a1a1a); color: var(--color-bg, #fff); border-color: var(--color-text, #1a1a1a); }
   .feed-btn:hover { background: var(--color-accent, #2563eb); border-color: var(--color-accent, #2563eb); color: #fff; }
   .feed-copy:hover { border-color: var(--color-accent, #2563eb); color: var(--color-accent, #2563eb); }
+  .topic-feeds { margin-top: var(--space-10, 2.5rem); }
+  .topic-feeds h2 { border: none; margin-bottom: var(--space-1, 0.25rem); font-size: var(--text-xl, 1.25rem); }
+  .topic-feeds-note { color: var(--color-text-muted, #5a5a5a); font-size: var(--text-sm, 0.875rem); margin: 0 0 var(--space-4, 1rem); }
+  .topic-feeds-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: var(--space-2, 0.5rem); }
+  .topic-feeds-list a {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.4rem 0.85rem; border-radius: 999px; border: 1px solid var(--color-border, #e5e5e5);
+    font-size: var(--text-sm, 0.875rem); font-weight: 600; text-decoration: none; color: var(--color-text, #1a1a1a);
+  }
+  .topic-feeds-list a:hover { border-color: var(--color-accent, #2563eb); color: var(--color-accent, #2563eb); }
   .feeds-footer { margin-top: var(--space-8, 2rem); font-size: var(--text-sm, 0.875rem); color: var(--color-text-muted, #5a5a5a); }
 </style>

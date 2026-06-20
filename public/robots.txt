@@ -15,4 +15,5 @@ Disallow: /search/
 Disallow: /start
 Disallow: /start/
 
-Sitemap: https://vnmarketinsights.com/sitemap.xml
+Sitemap: https://vnmarketinsights.com/sitemap-index.xml
+Sitemap: https://vnmarketinsights.com/news-sitemap.xml

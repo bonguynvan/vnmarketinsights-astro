@@ -164,7 +164,15 @@ pipeline/
 - **`/feeds` discovery page** + `/feeds.opml`: subscribe links, copy-URL, and a
   one-click OPML import for rss.xml + briefs.xml.
 
-## Next (Phase 10 ideas)
+## Phase 10 — navigation & feed coverage
 
-A nav/footer link to `/feeds` and `/trends`, a sitemap entry for the news
-sitemap via a sitemap index, and per-topic RSS feeds.
+- **Footer links** to Trend Radar (`/trends`) and Feeds (`/feeds`).
+- **Sitemap index**: `generate-news-sitemap.mjs` also writes `sitemap-index.xml`
+  (main + news sitemaps); `robots.txt` points to the index + news sitemap.
+- **Per-topic RSS**: `/feeds/<topic>.xml` for each site topic, from
+  `recent-by-topic.json`; listed on the `/feeds` page.
+
+## Next (Phase 11 ideas)
+
+A homepage JSON-LD `ItemList` of the week's items, `/feeds` linked in the header
+nav, and a small "Subscribe" affordance on the latest-brief hero.

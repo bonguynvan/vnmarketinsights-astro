@@ -93,4 +93,30 @@ ${body}
   console.log(`[news-sitemap] wrote news-sitemap.xml with ${entries.length} brief(s).`);
 }
 
+// Sitemap index referencing the main sitemap + the news sitemap. Runs after
+// generate-sitemap.mjs, so sitemap.xml already exists.
+function writeSitemapIndex() {
+  const children = ['sitemap.xml', 'news-sitemap.xml'].filter((f) =>
+    fs.existsSync(path.join(DIST_DIR, f)),
+  );
+  const sitemaps = children
+    .map((f) => {
+      const mtime = fs.statSync(path.join(DIST_DIR, f)).mtime.toISOString();
+      return `  <sitemap>
+    <loc>${SITE_URL}/${f}</loc>
+    <lastmod>${mtime}</lastmod>
+  </sitemap>`;
+    })
+    .join('\n');
+
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemaps}
+</sitemapindex>
+`;
+  fs.writeFileSync(path.join(DIST_DIR, 'sitemap-index.xml'), xml);
+  console.log(`[news-sitemap] wrote sitemap-index.xml (${children.length} sitemaps).`);
+}
+
 generate();
+writeSitemapIndex();
