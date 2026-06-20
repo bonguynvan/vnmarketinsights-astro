@@ -147,7 +147,14 @@ pipeline/
   `news-sitemap.xml` with briefs published in the last ~2 days (EN + VI by
   language). Submit it separately in Search Console.
 
-## Next (Phase 8 ideas)
+## Phase 8 — SEO polish
 
-A `/insights` "Latest brief" hero, breadcrumb JSON-LD on topic pages, and
-hreflang tags linking EN/VI brief pairs.
+- **Latest-brief hero** on `/insights`: surfaces the newest EN weekly brief.
+- **Breadcrumb JSON-LD** on topic pages (Home / Topics / topic) via `TopicLayout`.
+- **hreflang** for EN/VI brief pairs: `BaseLayout` gained an `alternateLanguages`
+  prop; brief pages emit `en` / `vi` / `x-default` links when both variants exist.
+
+## Next (Phase 9 ideas)
+
+A homepage "This week in Vietnam markets" strip, author/Organization sameAs
+schema, and an OPML/feeds discovery page listing rss.xml + briefs.xml.

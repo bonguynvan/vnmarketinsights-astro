@@ -48,12 +48,29 @@ const byDate = (a: typeof entry, b: typeof entry) => {
   const db = b.data.publishedDate ? new Date(b.data.publishedDate).valueOf() : 0;
   return db - da;
 };
-const all = (await getCollection('articles')).filter((a) => a.slug !== entry.slug);
+const collection = await getCollection('articles');
+const all = collection.filter((a) => a.slug !== entry.slug);
 const sameCategory = all
   .filter((a) => entry.data.category && a.data.category === entry.data.category)
   .sort(byDate);
 const fillers = all.filter((a) => !sameCategory.includes(a)).sort(byDate);
 const related = [...sameCategory, ...fillers].slice(0, RELATED_COUNT);
+
+// hreflang for EN/VI brief pairs (VI variant slug = <en>-vi).
+const slugs = new Set(collection.map((a) => a.slug));
+const briefUrl = (s: string) => `${SITE}/insights/${s}/`;
+let alternateLanguages: Array<{ hreflang: string; href: string }> = [];
+if (entry.data.category === 'Market Brief') {
+  const enSlug = entry.slug.endsWith('-vi') ? entry.slug.slice(0, -3) : entry.slug;
+  const viSlug = `${enSlug}-vi`;
+  if (slugs.has(enSlug) && slugs.has(viSlug)) {
+    alternateLanguages = [
+      { hreflang: 'en', href: briefUrl(enSlug) },
+      { hreflang: 'vi', href: briefUrl(viSlug) },
+      { hreflang: 'x-default', href: briefUrl(enSlug) },
+    ];
+  }
+}
 ---
 
 <BaseLayout
@@ -64,6 +81,7 @@ const related = [...sameCategory, ...fillers].slice(0, RELATED_COUNT);
   pageType="Article"
   {...(ogImage ? { image: ogImage } : {})}
   {...(newsSchema ? { structuredData: newsSchema } : {})}
+  {...(alternateLanguages.length ? { alternateLanguages } : {})}
   publishedDate={entry.data.publishedDate}
   lastUpdated={entry.data.lastUpdated}
   articleSection={entry.data.category}

@@ -11,6 +11,7 @@ export interface Props {
   publishedDate?: string;
   lastUpdated?: string;
   articleSection?: string;
+  alternateLanguages?: Array<{ hreflang: string; href: string }>;
 }
 
 const {
@@ -25,6 +26,7 @@ const {
   publishedDate,
   lastUpdated,
   articleSection,
+  alternateLanguages = [],
 } = Astro.props;
 
 const site = "https://vnmarketinsights.com";
@@ -152,6 +154,10 @@ const allSchemas = [
 
   <!-- Canonical URL -->
   <link rel="canonical" href={canonical}>
+
+  {alternateLanguages.map((alt) => (
+    <link rel="alternate" hreflang={alt.hreflang} href={alt.href} />
+  ))}
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
