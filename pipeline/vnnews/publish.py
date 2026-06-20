@@ -134,6 +134,43 @@ def _write_trends(conn, settings: Settings) -> int:
     return len(trends)
 
 
+RELATED_PER_ENTITY = 4
+
+
+def _load_embedded(conn) -> list[dict]:
+    """All embedded articles with decoded vectors (normalized, so dot == cosine)."""
+    rows = conn.execute(
+        """
+        SELECT a.url, a.title, a.source, a.embedding, e.summary_en
+        FROM articles a JOIN enrichment e ON e.article_id = a.id
+        WHERE a.embedding IS NOT NULL
+        """
+    ).fetchall()
+    out = []
+    for r in rows:
+        vec = array.array("f")
+        vec.frombytes(r["embedding"])
+        out.append({
+            "url": r["url"], "title": r["title"], "source": r["source"],
+            "summary_en": r["summary_en"], "vec": list(vec),
+        })
+    return out
+
+
+def _dot(a: list[float], b: list[float]) -> float:
+    return sum(x * y for x, y in zip(a, b))
+
+
+def _related_for(centroid: list[float], embedded: list[dict], exclude: set[str]) -> list[dict]:
+    scored = [
+        (e, _dot(centroid, e["vec"]))
+        for e in embedded
+        if e["url"] not in exclude
+    ]
+    scored.sort(key=lambda x: x[1], reverse=True)
+    return [e for e, _ in scored[:RELATED_PER_ENTITY]]
+
+
 def _write_entity_pages(conn, settings: Settings) -> int:
     counts = conn.execute(
         """
@@ -143,6 +180,9 @@ def _write_entity_pages(conn, settings: Settings) -> int:
         """,
         (MIN_COMPANY_MENTIONS,),
     ).fetchall()
+
+    embedded = _load_embedded(conn)
+    embedded_by_url = {e["url"]: e for e in embedded}
 
     written = 0
     for row in counts:
@@ -181,10 +221,25 @@ def _write_entity_pages(conn, settings: Settings) -> int:
             "## Recent mentions",
             "",
         ]
+        mention_urls = {m["url"] for m in mentions}
         for m in mentions:
             lines.append(f"**{m['title']}**  ")
             lines.append(f"\n{m['summary_en']}\n")
             lines.append(f"- Source: [{m['source']}]({m['url']})\n")
+
+        # Related coverage via embedding similarity (centroid of this entity's
+        # mentions vs the rest of the corpus). Only when embeddings exist.
+        mention_vecs = [embedded_by_url[u]["vec"] for u in mention_urls if u in embedded_by_url]
+        if mention_vecs:
+            dims = len(mention_vecs[0])
+            centroid = [sum(v[i] for v in mention_vecs) / len(mention_vecs) for i in range(dims)]
+            related = _related_for(centroid, embedded, exclude=mention_urls)
+            if related:
+                lines.append("## Related coverage\n")
+                for rel in related:
+                    lines.append(f"- [{rel['title']}]({rel['url']}) — {rel['source']}")
+                lines.append("")
+
         lines.append("---\n")
         lines.append("*Aggregated from public news sources. Neutral, not investment advice.*\n")
 

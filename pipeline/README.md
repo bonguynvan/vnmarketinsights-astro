@@ -109,8 +109,17 @@ pipeline/
 - **Daily cadence**: the GitHub Actions cron runs daily. Add repo secret
   `GEMINI_API_KEY` alongside `ANTHROPIC_API_KEY`.
 
-## Next (Phase 4 ideas)
+## Phase 4 — site surfaces for the data
 
-A dedicated `/insights/search` page (currently `/search` uses the endpoint),
-embeddings-based "related articles" on entity pages, and wiring `trends.json`
-into the `/trends` page UI.
+- **Trend Radar** (`/trends`): rebuilt from `src/data/trends.json` — topic
+  momentum cards (mentions, growth, sentiment, tag) with pure-CSS sparklines.
+  `noindex` flips off automatically once the corpus has data.
+- **Related coverage** on entity pages: `publish.py` computes a per-company
+  centroid from its mention embeddings and links the nearest other articles.
+- **EN/VI toggle** on `/search`: switches summary language via `?lang=`; page
+  copy updated to reflect semantic search over the enriched corpus.
+
+## Next (Phase 5 ideas)
+
+Wire `recent-by-topic` into the remaining topic pages, an `/insights` filter by
+topic, and an embeddings-based "related insights" block on article pages.
