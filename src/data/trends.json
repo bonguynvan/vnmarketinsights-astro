@@ -1,123 +1,168 @@
 {
-  "generatedAt": "2026-06-21T17:01:29.548284+00:00",
+  "generatedAt": "2026-06-21T17:13:12.070155+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 19,
+      "total": 27,
       "growthRate": 0.0,
-      "avgSentiment": -0.184,
+      "avgSentiment": -0.27,
       "tag": "Stable",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 19,
-          "sentiment": -0.184
+          "count": 27,
+          "sentiment": -0.27
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 9,
+      "total": 23,
       "growthRate": 0.0,
-      "avgSentiment": 0.156,
+      "avgSentiment": -0.009,
       "tag": "Stable",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 9,
-          "sentiment": 0.156
+          "count": 23,
+          "sentiment": -0.009
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 4,
+      "total": 11,
       "growthRate": 0.0,
-      "avgSentiment": 0.0,
-      "tag": "Emerging",
+      "avgSentiment": -0.1,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 4,
-          "sentiment": 0.0
+          "count": 11,
+          "sentiment": -0.1
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 3,
+      "total": 4,
       "growthRate": 0.0,
-      "avgSentiment": 0.367,
+      "avgSentiment": 0.4,
       "tag": "Emerging",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 3,
-          "sentiment": 0.367
-        }
-      ]
-    },
-    {
-      "topic": "infrastructure",
-      "siteSlug": "",
-      "total": 2,
-      "growthRate": 0.0,
-      "avgSentiment": 0.0,
-      "tag": "Emerging",
-      "series": [
-        {
-          "date": "2026-06-21",
-          "count": 2,
-          "sentiment": 0.0
+          "count": 4,
+          "sentiment": 0.4
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 1,
+      "total": 3,
       "growthRate": 0.0,
-      "avgSentiment": 0.0,
+      "avgSentiment": 0.1,
       "tag": "Emerging",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 1,
-          "sentiment": 0.0
+          "count": 3,
+          "sentiment": 0.1
+        }
+      ]
+    },
+    {
+      "topic": "infrastructure",
+      "siteSlug": "",
+      "total": 3,
+      "growthRate": 0.0,
+      "avgSentiment": 0.067,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 3,
+          "sentiment": 0.067
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 1,
+      "total": 3,
       "growthRate": 0.0,
-      "avgSentiment": 0.0,
+      "avgSentiment": 0.167,
       "tag": "Emerging",
       "series": [
         {
           "date": "2026-06-21",
-          "count": 1,
-          "sentiment": 0.0
+          "count": 3,
+          "sentiment": 0.167
         }
       ]
     },
     {
       "topic": "payments",
       "siteSlug": "payments",
+      "total": 3,
+      "growthRate": 0.0,
+      "avgSentiment": 0.233,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 3,
+          "sentiment": 0.233
+        }
+      ]
+    },
+    {
+      "topic": "commodities",
+      "siteSlug": "",
       "total": 1,
       "growthRate": 0.0,
-      "avgSentiment": 0.2,
+      "avgSentiment": -0.1,
       "tag": "Emerging",
       "series": [
         {
           "date": "2026-06-21",
           "count": 1,
-          "sentiment": 0.2
+          "sentiment": -0.1
+        }
+      ]
+    },
+    {
+      "topic": "ecommerce",
+      "siteSlug": "ecommerce",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.6,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.6
+        }
+      ]
+    },
+    {
+      "topic": "platforms",
+      "siteSlug": "platforms",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.7,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.7
         }
       ]
     }

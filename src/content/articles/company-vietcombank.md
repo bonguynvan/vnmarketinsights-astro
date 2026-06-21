@@ -9,7 +9,7 @@ readingTime: 3
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
 
@@ -36,6 +36,19 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 Multiple Vietnamese banks have received approval from the State Bank and their shareholders to increase charter capital. The article references several major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank undertaking capital increases. An Ernst & Young expert commented that the future of digital banking depends on transaction presence rather than customer quantity.
 
 - Source: [CafeF](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn)
+
+**Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm**  
+
+The US dollar strengthened against the Vietnamese dong on June 21, 2026, with Vietcombank raising its USD transfer buy rate to 26,120 dong and sell rate to 26,440 dong, up 28 dong from the previous week. ACB bank similarly increased its USD rates by 10 dong on the buy side to 26,130 dong and 28 dong on the sell side to 26,440 dong over the same period. Other foreign currencies including the euro and Japanese yen declined against the dong during the week.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm)
+
+## Related coverage
+
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
+- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
+- [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
 
 ---
 
