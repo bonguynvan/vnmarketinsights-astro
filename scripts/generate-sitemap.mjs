@@ -18,7 +18,6 @@ const EXCLUDED_PATHS = new Set([
   '/keywords',
   '/workspace',
   '/start',
-  '/search',
 ]);
 
 const EXCLUDED_PREFIXES = ['/admin/', '/api/'];

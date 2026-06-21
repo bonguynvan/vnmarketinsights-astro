@@ -10,8 +10,6 @@ Disallow: /snapshot
 Disallow: /snapshot/
 Disallow: /keywords
 Disallow: /keywords/
-Disallow: /search
-Disallow: /search/
 Disallow: /start
 Disallow: /start/
 

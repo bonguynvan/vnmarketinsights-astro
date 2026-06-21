@@ -1,0 +1,168 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Lazada vs Shopee in Vietnam (2026) — Which Marketplace Wins?";
+const description = "Lazada vs Shopee in Vietnam: market share, seller economics, logistics, brand vs mass-market positioning, and which platform to sell on first.";
+const canonical = "https://vnmarketinsights.com/compare/lazada-vs-shopee/";
+
+const rows = [
+  ['Parent', 'Alibaba Group (China)', 'Sea Group (Singapore)'],
+  ['Launched (VN)', '2012', '2016'],
+  ['Position', 'Smaller, brand-led (LazMall)', 'Market leader, mass-market'],
+  ['Market share (GMV)', 'Single-digit to ~20% (varies by source)', '~56–65% (largest)'],
+  ['Strength', 'Authorized-brand channel, cross-border from China', 'Reach, promotion engine, SPX logistics'],
+  ['Best for', 'Authorized / mid-premium brands', 'High-velocity, value-priced merchandise'],
+];
+
+const faqs = [
+  {
+    question: "Is Shopee or Lazada bigger in Vietnam?",
+    answer: "Shopee is significantly larger, holding roughly 56–65% of e-commerce marketplace GMV depending on the source and period. Lazada is smaller — narrow platform-GMV trackers put it in the single digits, while broader analyst estimates place it higher — and it competes on brand quality rather than raw scale.",
+  },
+  {
+    question: "What is the main difference between Lazada and Shopee?",
+    answer: "Shopee runs a mass-market, promotion-driven model — free-shipping subsidies, gamified campaigns, and the widest buyer base. Lazada (Alibaba) positions higher with LazMall, a verified-brand channel, and leans on Alibaba's cross-border infrastructure for imports from China. Shopee's seller pool is broader; Lazada's is more curated.",
+  },
+  {
+    question: "Should I sell on Lazada or Shopee in Vietnam?",
+    answer: "For reach and general merchandise, Shopee is the usual first listing — fast onboarding and the largest audience. For authorized brands that want authenticity signals and a more premium environment, LazMall on Lazada can convert better. Many sellers list on both and let each platform's audience and economics decide where they invest.",
+  },
+  {
+    question: "Which has lower fees, Lazada or Shopee?",
+    answer: "Both charge a mix of category commission (typically ~2–5%), payment processing, and optional ads/voucher spend. Headline commissions are broadly comparable; the effective take rate is driven more by how much you spend on promotions than by base fees on either platform. Always confirm current rate cards in each seller centre.",
+  },
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Comparison"
+  publishedDate="2026-06-22"
+  lastUpdated="2026-06-22"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="compare-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span aria-hidden="true">/</span>
+      <a href="/ecommerce/">E-commerce</a> <span aria-hidden="true">/</span>
+      <span>Lazada vs Shopee</span>
+    </nav>
+
+    <header class="compare-header">
+      <span class="kicker">Comparison · 2026</span>
+      <h1>{title}</h1>
+      <p class="compare-lead">
+        Lazada and Shopee are two of Vietnam's largest e-commerce marketplaces, but they play
+        different games — Shopee on mass-market scale, Lazada on brand quality. Here's how they
+        compare on share, economics, and fit. Figures are 2024–2025 reference estimates; precise
+        GMV splits vary across analysts. For the three-way picture, see
+        <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a>.
+      </p>
+    </header>
+
+    <section>
+      <h2>At a glance</h2>
+      <div class="compare-table-wrap">
+        <table class="compare-table">
+          <thead><tr><th>Dimension</th><th>Lazada</th><th>Shopee</th></tr></thead>
+          <tbody>
+            {rows.map(([dim, lz, sp]) => (
+              <tr><th>{dim}</th><td>{lz}</td><td>{sp}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2>Shopee — the scale leader</h2>
+      <p>
+        Shopee (Sea Group) has led Vietnam's marketplace since around 2018 on the back of
+        free-shipping subsidies, gamified daily campaigns, and its in-house SPX Express logistics.
+        For most sellers it offers the widest reach and the fastest path to volume, at the cost of
+        heavy promotional competition.
+      </p>
+    </section>
+
+    <section>
+      <h2>Lazada — the brand channel</h2>
+      <p>
+        Lazada (Alibaba) is smaller but leans into quality: <strong>LazMall</strong> gives
+        authorized brands a verified storefront, and Alibaba's cross-border rails ease imports from
+        China. It tends to suit mid-premium and authorized-brand sellers more than bargain-driven
+        mass merchandise.
+      </p>
+    </section>
+
+    <section>
+      <h2>Which should you choose?</h2>
+      <ul class="related-list">
+        <li><strong>Pick Shopee</strong> for reach, general merchandise, and fast onboarding.</li>
+        <li><strong>Pick Lazada (LazMall)</strong> for authorized brands wanting authenticity and a premium feel.</li>
+        <li><strong>List on both</strong> if you have the operational capacity — they reach overlapping but distinct buyers.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently asked questions</h2>
+      <div class="faq-list">
+        {faqs.map(f => (
+          <details class="faq-item">
+            <summary class="faq-question">{f.question}</summary>
+            <div class="faq-answer-container"><p class="faq-answer">{f.answer}</p></div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop (3-way)</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a> · <a href="/ecommerce/">Vietnam e-commerce market</a></li>
+      </ul>
+    </section>
+
+    <p class="compare-footer"><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">← All platform comparisons</a></p>
+  </article>
+</BaseLayout>
+
+<style>
+  .compare-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .compare-header { margin-bottom: var(--space-8); }
+  .compare-header h1 { border: none; margin: var(--space-2) 0 var(--space-3); }
+  .compare-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .compare-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .compare-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .compare-table th, .compare-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; vertical-align: top; }
+  .compare-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .compare-table tbody th { background: var(--color-bg-subtle); font-weight: 500; white-space: nowrap; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .compare-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .compare-footer a { color: var(--color-text-muted); }
+  .compare-footer a:hover { color: var(--color-accent); }
+</style>
