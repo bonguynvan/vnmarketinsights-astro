@@ -1,11 +1,12 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 import GrowthJourneyPanel from '@components/GrowthJourneyPanel.astro';
+import Icon from '@components/Icon.astro';
 
 const tools = [
-  { href: '/snapshot', icon: '📸', title: 'Website Snapshot', description: 'Detect tech stack and SEO score for any Vietnamese domain.' },
-  { href: '/keywords', icon: '🔍', title: 'Keyword Miner', description: 'Discover related search terms and demand clusters from a seed keyword. AI-assisted suggestions coming soon.' },
-  { href: '/trends', icon: '🔥', title: 'Trend Radar', description: 'Product trend dashboard for Vietnam ecommerce. Temporarily unavailable due to platform API limits.' },
+  { href: '/snapshot', icon: 'camera', title: 'Website Snapshot', description: 'Detect tech stack and SEO score for any Vietnamese domain.' },
+  { href: '/keywords', icon: 'search', title: 'Keyword Miner', description: 'Discover related search terms and demand clusters from a seed keyword. AI-assisted suggestions coming soon.' },
+  { href: '/trends', icon: 'trending-up', title: 'Trend Radar', description: 'Product trend dashboard for Vietnam ecommerce. Temporarily unavailable due to platform API limits.' },
 ];
 ---
 
@@ -28,7 +29,7 @@ const tools = [
       <div class="tools-grid">
         {tools.map((tool) => (
           <a href={tool.href} class="tool-card" data-track-event="tools_hub_click" data-track-category="acquisition" data-track-label={tool.href}>
-            <div class="tool-icon">{tool.icon}</div>
+            <div class="tool-icon"><Icon name={tool.icon} size={28} /></div>
             <h3>{tool.title}</h3>
             <p>{tool.description}</p>
           </a>

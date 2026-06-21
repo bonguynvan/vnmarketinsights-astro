@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import Icon from '@components/Icon.astro';
 import { generateMarketBrief } from '../utils/briefGenerator';
 import { SIMULATED_TREND_DATA } from '../utils/trendEngine';
 
@@ -31,14 +32,14 @@ const brief = generateMarketBrief(SIMULATED_TREND_DATA);
         <!-- Left Column: Highlights -->
         <div class="highlights-col">
           <section class="report-section">
-            <h3>🚀 Top Growing Categories</h3>
+            <h3><Icon name="trending-up" /> Top Growing Categories</h3>
             <ul class="tag-list">
               {brief.topCategories.map(c => <li class="tag">{c}</li>)}
             </ul>
           </section>
 
           <section class="report-section">
-            <h3>📦 Trending Products</h3>
+            <h3><Icon name="package" /> Trending Products</h3>
             <div class="product-list">
               {brief.topProducts.map((p, i) => (
                 <div class="product-item">
@@ -50,7 +51,7 @@ const brief = generateMarketBrief(SIMULATED_TREND_DATA);
           </section>
 
           <section class="report-section">
-            <h3>⚠️ Market Risks</h3>
+            <h3><Icon name="warning" /> Market Risks</h3>
             <ul class="risk-list">
               {brief.riskWarnings.map(r => <li>{r}</li>)}
             </ul>

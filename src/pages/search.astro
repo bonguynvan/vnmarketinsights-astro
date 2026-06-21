@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import Icon from '@components/Icon.astro';
 ---
 
 <BaseLayout
@@ -45,22 +46,22 @@ import BaseLayout from '@layouts/BaseLayout.astro';
         <span class="prompts-label">Quick prompts:</span>
         <div class="prompts-grid">
           <button type="button" class="prompt-chip" data-query="FDI foreign direct investment Vietnam">
-            🏭 FDI & Investment
+            <Icon name="factory" size={16} /> FDI & Investment
           </button>
           <button type="button" class="prompt-chip" data-query="interest rates banking Vietnam">
-            🏦 Rates & Banking
+            <Icon name="bank" size={16} /> Rates & Banking
           </button>
           <button type="button" class="prompt-chip" data-query="exports trade Vietnam">
-            📦 Trade & Exports
+            <Icon name="package" size={16} /> Trade & Exports
           </button>
           <button type="button" class="prompt-chip" data-query="stock market VN-Index">
-            📈 Stock Market
+            <Icon name="trending-up" size={16} /> Stock Market
           </button>
           <button type="button" class="prompt-chip" data-query="retail consumer spending Vietnam">
-            🛒 Retail & Consumer
+            <Icon name="cart" size={16} /> Retail & Consumer
           </button>
           <button type="button" class="prompt-chip" data-query="real estate property Vietnam">
-            🏠 Real Estate
+            <Icon name="home" size={16} /> Real Estate
           </button>
         </div>
       </div>
@@ -88,11 +89,11 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       <!-- Stats Row -->
       <div class="results-stats" id="stats-row">
         <div class="stat-chip" id="stat-count">
-          <span class="stat-icon">📰</span>
+          <span class="stat-icon"><Icon name="newspaper" size={16} /></span>
           <strong id="stat-count-val">0</strong> articles
         </div>
         <div class="stat-chip" id="stat-sentiment">
-          <span class="stat-icon" id="sentiment-icon">📊</span>
+          <span class="sentiment-dot sentiment-neu" id="sentiment-icon" aria-hidden="true"></span>
           <strong id="stat-sentiment-val">Neutral</strong>
         </div>
         <div class="stat-chip" id="stat-score">
@@ -165,22 +166,22 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     <div id="search-empty" class="search-empty">
       <div class="empty-grid">
         <div class="info-card">
-          <div class="info-card-icon">📰</div>
+          <div class="info-card-icon"><Icon name="newspaper" size={26} /></div>
           <h3>Vietnamese-source coverage</h3>
           <p>Aggregates VnExpress, CafeF, and other Vietnamese business publications — domestic primary sources.</p>
         </div>
         <div class="info-card">
-          <div class="info-card-icon">🤖</div>
+          <div class="info-card-icon"><Icon name="cpu" size={26} /></div>
           <h3>AI-generated analysis</h3>
           <p>Auto-summarizes articles and scores market sentiment so English readers don't need to read each source piece.</p>
         </div>
         <div class="info-card">
-          <div class="info-card-icon">📊</div>
+          <div class="info-card-icon"><Icon name="bar-chart" size={26} /></div>
           <h3>Neutral framing</h3>
           <p>No editorial spin — only factual aggregation from verified public sources.</p>
         </div>
       </div>
-      <p class="disclaimer">⚠️ Aggregated from public RSS feeds. Not financial advice. Always consult the original sources before making any decision.</p>
+      <p class="disclaimer"><Icon name="warning" size={15} /> Aggregated from public RSS feeds. Not financial advice. Always consult the original sources before making any decision.</p>
     </div>
 
   </div>
@@ -276,7 +277,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       scoreEl.className = 'score-val ' + (score > 20 ? 'score-positive' : score < -20 ? 'score-negative' : 'score-neutral');
 
       const sentimentIcon = document.getElementById('sentiment-icon');
-      sentimentIcon.textContent = score > 20 ? '🟢' : score < -20 ? '🔴' : '🟡';
+      sentimentIcon.className = 'sentiment-dot ' + (score > 20 ? 'sentiment-pos' : score < -20 ? 'sentiment-neg' : 'sentiment-neu');
 
       // Gauge bar
       const gaugePercent = Math.min(100, Math.max(0, (score + 100) / 2)); // map -100..100 to 0..100
@@ -564,7 +565,11 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       font-size: 0.875rem;
       color: #334155;
     }
-    .stat-icon { font-size: 1rem; }
+    .stat-icon { font-size: 1rem; display: inline-flex; align-items: center; }
+    .sentiment-dot { width: 11px; height: 11px; border-radius: 50%; display: inline-block; background: #b8860b; }
+    .sentiment-dot.sentiment-pos { background: #1f9d57; }
+    .sentiment-dot.sentiment-neg { background: var(--color-accent, #c0392b); }
+    .sentiment-dot.sentiment-neu { background: #b8860b; }
     .score-val { font-weight: 700; }
     .score-positive { color: #16a34a; }
     .score-negative { color: #dc2626; }

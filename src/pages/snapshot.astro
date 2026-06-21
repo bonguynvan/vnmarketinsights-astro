@@ -471,13 +471,13 @@ import LeadCapture from '@components/LeadCapture.astro';
         data.seo.issues.forEach((issue) => {
           const pill = document.createElement('div');
           pill.className = 'issue-pill';
-          pill.textContent = `× ${issue}`;
+          pill.textContent = issue;
           issueWrap.appendChild(pill);
         });
       } else {
         const success = document.createElement('div');
         success.className = 'success-pill';
-        success.textContent = '✓ No major issues found';
+        success.textContent = 'No major issues found';
         issueWrap.appendChild(success);
       }
       seoDetails.append(seoStat, issueWrap);
@@ -488,7 +488,7 @@ import LeadCapture from '@components/LeadCapture.astro';
       const metricRows = [
         ['Estimated Traffic:', data.metrics.trafficTier],
         ['Page Size:', data.metrics.pageSize],
-        ['Mobile Friendly:', data.metrics.isMobileFriendly ? 'Yes ✓' : 'No ×']
+        ['Mobile Friendly:', data.metrics.isMobileFriendly ? 'Yes' : 'No']
       ];
       metricRows.forEach(([label, value]) => {
         const row = document.createElement('div');

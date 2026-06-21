@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import Icon from '@components/Icon.astro';
 import trendsData from '../../data/trends.json';
 
 interface TrendPoint {
@@ -103,7 +104,7 @@ const updated = data.generatedAt
       </div>
     ) : (
       <div class="trend-empty">
-        <span class="trend-empty-icon" aria-hidden="true">📡</span>
+        <Icon name="radar" size={44} class="trend-empty-icon" />
         <h2>Collecting signal…</h2>
         <p>The trend corpus is being populated by the news pipeline. Check back shortly, or explore the reference topics in the meantime.</p>
         <div class="trend-empty-actions">
@@ -163,7 +164,7 @@ const updated = data.generatedAt
 
   .trend-empty { max-width: 520px; margin: 3rem auto; text-align: center; padding: 2.5rem;
     background: var(--color-bg-subtle, #f8f8f8); border: 1px solid var(--color-border, #e5e5e5); border-radius: 2px; }
-  .trend-empty-icon { font-size: 3rem; display: block; margin-bottom: 1rem; }
+  .trend-empty-icon { color: var(--color-text-light, #7b8694); margin-bottom: 1rem; }
   .trend-empty-actions { display: flex; gap: 0.75rem; justify-content: center; margin-top: 1.5rem; flex-wrap: wrap; }
   .trend-btn { padding: 0.6rem 1.1rem; border-radius: 2px; font-weight: 600; text-decoration: none;
     border: 1px solid var(--color-border, #e5e5e5); color: var(--color-text, #1a1a1a); }

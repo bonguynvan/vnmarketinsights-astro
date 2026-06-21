@@ -85,7 +85,7 @@ const { title = 'Your growth journey' } = Astro.props;
       checklistEl.innerHTML = journeySteps.map((step) => `
         <li class="${(step.key === 'lead_confirmed' ? Boolean(milestones.lead_confirmed || milestones.lead_submitted) : Boolean(milestones[step.key])) ? 'is-completed' : ''}">
           <a href="${step.href}" data-growth-step-key="${step.key}">
-            <span class="growth-checkmark">${(step.key === 'lead_confirmed' ? Boolean(milestones.lead_confirmed || milestones.lead_submitted) : Boolean(milestones[step.key])) ? '✓' : '○'}</span>
+            <span class="growth-checkmark">${(step.key === 'lead_confirmed' ? Boolean(milestones.lead_confirmed || milestones.lead_submitted) : Boolean(milestones[step.key])) ? '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m4 12 5 5L20 6"/></svg>' : '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="8"/></svg>'}</span>
             <span>${escapeHtml(step.label)}</span>
           </a>
         </li>

@@ -38,13 +38,13 @@ export function generateMarketBrief(products: ProductTrend[]): MarketBrief {
 ## Executive Summary
 ${summary}
 
-## 🚀 Top Growing Categories
+## Top Growing Categories
 ${topCategories.map(c => `- **${c}**`).join('\n')}
 
-## 📦 Top 5 Trending Products
+## Top 5 Trending Products
 ${sorted.slice(0, 5).map(p => `- ${p.name} (Trend Score: ${p.trendScore}, Growth: ${p.growthRate}%)`).join('\n')}
 
-## ⚠️ Market Risks & Warnings
+## Market Risks & Warnings
 ${riskWarnings.map(r => `- ${r}`).join('\n')}
 
 ---
