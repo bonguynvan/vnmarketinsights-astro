@@ -493,7 +493,7 @@ hr {
   padding: var(--space-6);
   background: var(--color-bg);
   border: 1px solid var(--color-border-light);
-  border-radius: 12px;
+  border-radius: 2px;
   text-decoration: none;
   transition: all 0.2s ease;
   height: 100%;
@@ -643,7 +643,7 @@ hr {
   padding: 0.4rem 0.55rem 0.4rem 0.7rem;
   background: var(--color-bg-subtle);
   border: 1px solid var(--color-border);
-  border-radius: 8px;
+  border-radius: 2px;
   font-size: var(--text-sm);
   color: var(--color-text-muted);
   cursor: pointer;
@@ -718,7 +718,7 @@ hr {
   max-height: 80vh;
   margin: 0 var(--space-4);
   background: var(--color-bg);
-  border-radius: 12px;
+  border-radius: 2px;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.05);
   display: flex;
   flex-direction: column;
@@ -801,7 +801,7 @@ hr {
   padding: var(--space-3) var(--space-4) var(--space-3) 2.8rem;
   background: var(--color-bg-subtle);
   border: 1px solid var(--color-border);
-  border-radius: 8px;
+  border-radius: 2px;
   font-weight: 500;
   outline: none;
   transition: all 0.2s ease;
@@ -934,7 +934,7 @@ hr {
   position: relative;
   width: min(540px, calc(100% - 2rem));
   background: var(--color-bg);
-  border-radius: 12px;
+  border-radius: 2px;
   padding: var(--space-8);
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -973,14 +973,14 @@ hr {
   flex: 1;
   min-width: 220px;
   border: 1px solid var(--color-border);
-  border-radius: 8px;
+  border-radius: 2px;
   padding: var(--space-3);
   font: inherit;
 }
 
 .growth-modal__form button {
   border: none;
-  border-radius: 8px;
+  border-radius: 2px;
   padding: var(--space-3) var(--space-4);
   font: inherit;
   font-weight: 600;
@@ -1077,7 +1077,7 @@ hr {
   padding: var(--space-3) var(--space-5);
   background: var(--color-bg-subtle);
   border: 1px solid var(--color-border);
-  border-radius: 8px;
+  border-radius: 2px;
   font-size: var(--text-base);
   color: var(--color-text-muted);
   cursor: pointer;
@@ -1116,7 +1116,7 @@ hr {
   text-align: center;
   padding: var(--space-6);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .stat-card__value {
@@ -1145,7 +1145,7 @@ hr {
 .whats-new {
   background: var(--color-bg-subtle);
   padding: var(--space-6);
-  border-radius: 8px;
+  border-radius: 2px;
   margin-bottom: var(--space-12);
 }
 
@@ -1215,7 +1215,7 @@ hr {
 .how-to-use__item {
   padding: var(--space-4);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .how-to-use__item h3 {
@@ -1309,7 +1309,7 @@ hr {
 
 .faq-item {
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
@@ -1368,7 +1368,7 @@ hr {
   display: block;
   padding: var(--space-4);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
   text-decoration: none;
   color: var(--color-text);
   transition: all 0.15s ease;
@@ -1397,7 +1397,7 @@ hr {
   margin-top: var(--space-12);
   padding: var(--space-8);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .page-actions h2 {
@@ -1433,7 +1433,7 @@ hr {
   justify-content: center;
   width: 36px;
   height: 36px;
-  border-radius: 6px;
+  border-radius: 2px;
   color: var(--color-text-muted);
   background: var(--color-bg);
   border: 1px solid var(--color-border);
@@ -1465,7 +1465,7 @@ hr {
   padding: var(--space-3) var(--space-4);
   background: var(--color-bg);
   border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border-radius: 2px;
   font-size: var(--text-sm);
   color: var(--color-text-muted);
   cursor: pointer;
@@ -1550,7 +1550,7 @@ hr {
   margin-top: var(--space-6);
   padding: var(--space-4);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .glossary-nav__link {
@@ -1640,7 +1640,7 @@ hr {
 .glossary-item {
   padding: var(--space-4);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .glossary-item__term {
@@ -1700,7 +1700,7 @@ hr {
   margin-top: var(--space-6);
   padding: var(--space-4);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
   font-size: var(--text-sm);
 }
 
@@ -1770,7 +1770,7 @@ hr {
   flex: 1;
   padding: var(--space-5);
   background: var(--color-bg-subtle);
-  border-radius: 8px;
+  border-radius: 2px;
 }
 
 .changelog-entry__header {
@@ -1833,7 +1833,7 @@ hr {
   gap: 0.5rem;
   background: var(--color-bg);
   border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border-radius: 2px;
   padding: 0.5rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   z-index: 100;
@@ -1993,7 +1993,7 @@ h3:hover .anchor-link {
   font-size: 0.875rem;
   background: var(--color-bg);
   border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
@@ -2048,7 +2048,7 @@ h3:hover .anchor-link {
   padding: 1.25rem;
   background: var(--color-bg-subtle);
   border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border-radius: 2px;
   text-decoration: none;
   transition: all 0.15s ease;
 }
@@ -2075,7 +2075,7 @@ h3:hover .anchor-link {
 .sources-details {
   margin-top: 1rem;
   border: 1px solid var(--color-border);
-  border-radius: 6px;
+  border-radius: 2px;
   overflow: hidden;
 }
 
@@ -2321,7 +2321,7 @@ h3:hover .anchor-link {
     padding: 0.75rem 1rem;
     font-size: 0.9375rem;
     border: 1px solid var(--color-border);
-    border-radius: 6px;
+    border-radius: 2px;
     background: var(--color-bg);
     color: var(--color-text);
     cursor: pointer;
