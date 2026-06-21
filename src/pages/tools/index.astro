@@ -80,17 +80,17 @@ const tools = [
     display: flex;
     flex-direction: column;
     padding: 2.5rem 2rem;
-    background: white;
-    border: 1px solid var(--color-border-light);
+    background: var(--color-bg);
+    border: 1px solid var(--color-border);
+    border-top: 2px solid var(--color-ink);
     border-radius: 2px;
     text-decoration: none;
     color: inherit;
-    transition: all 0.3s ease;
+    transition: border-color 0.18s ease;
   }
   .tool-card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 20px 40px rgba(0,0,0,0.04);
-    border-color: rgba(37, 99, 235, 0.2);
+    border-color: var(--color-accent);
+    border-top-color: var(--color-accent);
   }
   .tool-icon {
     width: 50px;

@@ -501,8 +501,6 @@ hr {
 
 .topic-card:hover {
   border-color: var(--color-accent);
-  box-shadow: 0 6px 18px color-mix(in srgb, var(--color-accent) 12%, transparent);
-  transform: translateY(-2px);
   text-decoration: none;
 }
 
@@ -657,7 +655,6 @@ hr {
   border-color: var(--color-accent);
   color: var(--color-accent);
   background: var(--color-bg);
-  box-shadow: 0 2px 8px color-mix(in srgb, var(--color-accent) 12%, transparent);
 }
 
 .search-trigger__icon {
@@ -2515,8 +2512,7 @@ h3:hover .anchor-link {
   opacity: 0.85;
 }
 .stat-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.06);
+  border-color: var(--color-accent);
 }
 .stat-value {
   font-variant-numeric: tabular-nums;
