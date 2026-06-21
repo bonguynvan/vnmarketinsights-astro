@@ -48,8 +48,9 @@ const INDEX = newsIndex as unknown as {
   items: IndexItem[];
 };
 const TOP_K = 12;
+const EMBED_MODEL = 'gemini-embedding-001';
 const EMBED_ENDPOINT =
-  'https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:embedContent';
+  `https://generativelanguage.googleapis.com/v1beta/models/${EMBED_MODEL}:embedContent`;
 
 function sentimentLabel(score: number): ResultArticle['sentiment'] {
   if (score > 0.2) return 'positive';
@@ -75,7 +76,7 @@ async function embedQuery(query: string, apiKey: string): Promise<number[] | nul
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
-      model: 'models/text-embedding-004',
+      model: `models/${EMBED_MODEL}`,
       content: { parts: [{ text: query.slice(0, 2000) }] },
       outputDimensionality: INDEX.dims,
     }),
