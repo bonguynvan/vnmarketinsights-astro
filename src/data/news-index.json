@@ -1,6 +1,1 @@
-{
-  "generatedAt": null,
-  "model": "text-embedding-004",
-  "dims": 256,
-  "items": []
-}
+{"generatedAt": "2026-06-21T17:01:29.550402+00:00", "model": "text-embedding-004", "dims": 256, "items": []}

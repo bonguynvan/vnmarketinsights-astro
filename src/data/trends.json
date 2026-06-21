@@ -1,4 +1,125 @@
 {
-  "generatedAt": null,
-  "trends": []
+  "generatedAt": "2026-06-21T17:01:29.548284+00:00",
+  "trends": [
+    {
+      "topic": "regulation",
+      "siteSlug": "regulations",
+      "total": 19,
+      "growthRate": 0.0,
+      "avgSentiment": -0.184,
+      "tag": "Stable",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 19,
+          "sentiment": -0.184
+        }
+      ]
+    },
+    {
+      "topic": "macro",
+      "siteSlug": "financial-markets",
+      "total": 9,
+      "growthRate": 0.0,
+      "avgSentiment": 0.156,
+      "tag": "Stable",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 9,
+          "sentiment": 0.156
+        }
+      ]
+    },
+    {
+      "topic": "stocks",
+      "siteSlug": "financial-markets",
+      "total": 4,
+      "growthRate": 0.0,
+      "avgSentiment": 0.0,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 4,
+          "sentiment": 0.0
+        }
+      ]
+    },
+    {
+      "topic": "logistics",
+      "siteSlug": "logistics",
+      "total": 3,
+      "growthRate": 0.0,
+      "avgSentiment": 0.367,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 3,
+          "sentiment": 0.367
+        }
+      ]
+    },
+    {
+      "topic": "infrastructure",
+      "siteSlug": "",
+      "total": 2,
+      "growthRate": 0.0,
+      "avgSentiment": 0.0,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 2,
+          "sentiment": 0.0
+        }
+      ]
+    },
+    {
+      "topic": "consumers",
+      "siteSlug": "consumers",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.0,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.0
+        }
+      ]
+    },
+    {
+      "topic": "other",
+      "siteSlug": "",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.0,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.0
+        }
+      ]
+    },
+    {
+      "topic": "payments",
+      "siteSlug": "payments",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.2,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.2
+        }
+      ]
+    }
+  ]
 }
