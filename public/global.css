@@ -256,6 +256,17 @@ hr {
   padding-right: var(--content-padding-x);
 }
 
+/* Inner page wrappers set their own narrower reading measure but must stay
+   centered within the container (otherwise they pin to the left edge). */
+.guides-index,
+.guide-page,
+.compare-page,
+.stats-page,
+.glossary-term-page,
+.sources-page {
+  margin-inline: auto;
+}
+
 /* Header */
 .site-header {
   position: sticky;
