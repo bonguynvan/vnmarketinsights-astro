@@ -1,0 +1,56 @@
+---
+// Reusable horizontal bar chart — pure CSS, no library, accessible.
+// Use for market reports (shares, growth rates, sizes). Values scale to `max`
+// (defaults to the largest value). Each row is label + bar + display value.
+interface Bar {
+  label: string;
+  value: number;
+  display?: string; // overrides the printed value (e.g. "+159.6%")
+  note?: string;
+}
+interface Props {
+  title?: string;
+  unit?: string;       // e.g. "%" shown in the caption
+  data: Bar[];
+  max?: number;
+  source?: string;
+  caption?: string;
+}
+const { title, unit, data, max, source, caption } = Astro.props;
+const peak = max ?? Math.max(...data.map((d) => d.value), 1);
+const pct = (v: number) => Math.max(2, Math.round((v / peak) * 100));
+---
+
+<figure class="barchart">
+  {title && <figcaption class="barchart__title">{title}{unit ? ` (${unit})` : ''}</figcaption>}
+  <div class="barchart__rows" role="img" aria-label={title ?? 'Bar chart'}>
+    {data.map((d) => (
+      <div class="barchart__row">
+        <span class="barchart__label">{d.label}</span>
+        <span class="barchart__track">
+          <span class="barchart__bar" style={`width:${pct(d.value)}%`}></span>
+        </span>
+        <span class="barchart__value">{d.display ?? d.value}</span>
+      </div>
+    ))}
+  </div>
+  {(caption || source) && (
+    <p class="barchart__caption">{caption}{caption && source ? ' · ' : ''}{source && <span>Source: {source}</span>}</p>
+  )}
+</figure>
+
+<style>
+  .barchart { margin: var(--space-6, 1.5rem) 0; }
+  .barchart__title { font-family: var(--font-serif, Georgia, serif); font-weight: 600; font-size: var(--text-lg, 1.125rem); margin-bottom: var(--space-4, 1rem); }
+  .barchart__rows { display: grid; gap: 0.6rem; }
+  .barchart__row { display: grid; grid-template-columns: minmax(8rem, 14rem) 1fr auto; align-items: center; gap: 0.75rem; }
+  .barchart__label { font-size: var(--text-sm, 0.875rem); color: var(--color-text, #1a1a1a); }
+  .barchart__track { height: 1.1rem; background: var(--color-bg-subtle, #eef1f5); border: 1px solid var(--color-border, #d7dde5); border-radius: 2px; overflow: hidden; }
+  .barchart__bar { display: block; height: 100%; background: var(--color-accent, #c0392b); }
+  .barchart__value { font-variant-numeric: tabular-nums; font-weight: 600; font-size: var(--text-sm, 0.875rem); color: var(--color-text, #1a1a1a); white-space: nowrap; }
+  .barchart__caption { margin-top: var(--space-3, 0.75rem); font-size: var(--text-xs, 0.75rem); color: var(--color-text-muted, #5c554a); }
+  @media (max-width: 560px) {
+    .barchart__row { grid-template-columns: 1fr auto; }
+    .barchart__track { grid-column: 1 / -1; order: 3; }
+  }
+</style>

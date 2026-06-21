@@ -1,11 +1,12 @@
 ---
 import CanonicalLayout from '../layouts/CanonicalLayout.astro';
 import DataTable from '../components/DataTable.astro';
+import BarChart from '../components/BarChart.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Payments System — Methods, Infrastructure & Statistics (2026)";
-const description = "Comprehensive reference guide to Vietnam's payment infrastructure, methods, regulations, and market dynamics. Covers digital payments, banking, e-wallets, and regulatory framework.";
+const title = "Vietnam Payments Market 2026 — Size, Players, Trends & Data";
+const description = "Vietnam payments market report: size and growth, e-wallets (MoMo, ZaloPay, ViettelPay), QR/VietQR adoption, banking rails, regulation, and 2025 data with sources.";
 const canonicalURL = "https://vnmarketinsights.com/payments";
 
 const sections = [
@@ -139,6 +140,18 @@ const faqs = [
         ['Cashless target', '80% of transactions', 'by 2030']
       ]}
       caption="Vietnam Payment System Key Metrics (latest available; see Sources)"
+    />
+
+    <BarChart
+      title="Vietnam cashless growth — year-on-year"
+      unit="%"
+      data={[
+        { label: 'Non-cash transactions (2024)', value: 56, display: '+56%' },
+        { label: 'QR volume (7M 2025)', value: 66.7, display: '+66.7%' },
+        { label: 'QR value (7M 2025)', value: 159.6, display: '+159.6%' },
+      ]}
+      source="State Bank of Vietnam (SBV), 2024–2025"
+      caption="QR-code payments are the breakout rail, with value growing far faster than volume."
     />
 
     <h3>Transaction Volume Breakdown</h3>
