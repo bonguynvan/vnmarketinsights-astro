@@ -88,12 +88,13 @@ if (entry.data.category === 'Market Brief') {
 >
   <article class="article-page">
     <header class="article-header">
+      {entry.data.category && <span class="kicker article-kicker">{entry.data.category}</span>}
+      <h1>{title}</h1>
       {entry.data.publishedDate && (
         <time class="article-meta" datetime={new Date(entry.data.publishedDate).toISOString()}>
           {new Date(entry.data.publishedDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
         </time>
       )}
-      <h1>{title}</h1>
     </header>
     <div class="article-body prose">
       <Content />
@@ -126,22 +127,33 @@ if (entry.data.category === 'Market Brief') {
 </BaseLayout>
 
 <style>
-  .article-page { width: 100%; }
-  .article-header { margin-bottom: var(--space-8); }
-  .article-meta { font-size: var(--text-sm); color: var(--color-text-light); display: block; margin-bottom: var(--space-2); }
-  .article-header h1 { border: none; margin-bottom: 0; }
-  .article-body { margin: var(--space-8) 0; }
-  .article-body :global(h2) { margin-top: var(--space-10); }
+  /* Editorial article column: centered measure, serif long-form body. */
+  .article-page { width: 100%; max-width: 46rem; margin: 0 auto; }
+  .article-header { margin-bottom: var(--space-8); padding-bottom: var(--space-6); border-bottom: 1px solid var(--color-border); }
+  .article-kicker { display: block; margin-bottom: var(--space-3); }
+  .article-header h1 { border: none; margin-bottom: var(--space-4); font-size: var(--text-4xl); }
+  .article-meta { font-size: var(--text-sm); color: var(--color-text-light); display: block; text-transform: uppercase; letter-spacing: 0.08em; }
+
+  .article-body { margin: var(--space-8) 0; font-family: var(--font-serif); font-size: 1.25rem; line-height: 1.7; }
+  .article-body :global(p) { margin-bottom: var(--space-5); }
+  /* Drop cap on the opening paragraph. */
+  .article-body :global(p:first-of-type::first-letter) {
+    float: left; font-weight: 600; font-size: 3.4em; line-height: 0.82;
+    padding: 0.05em 0.12em 0 0; color: var(--color-accent);
+  }
+  .article-body :global(h2) { margin-top: var(--space-10); font-size: var(--text-2xl); }
   .article-body :global(h3) { margin-top: var(--space-6); }
   .article-body :global(ul), .article-body :global(ol) { padding-left: var(--space-6); }
-  .article-footer { margin-top: var(--space-10); padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .article-body :global(a) { text-decoration: underline; text-underline-offset: 0.15em; }
+  .article-footer { margin-top: var(--space-10); padding-top: var(--space-6); border-top: 1px solid var(--color-border-light); font-size: var(--text-sm); color: var(--color-text-muted); font-family: var(--font-sans); }
 
-  .related-insights { margin-top: var(--space-12); padding-top: var(--space-8); border-top: 1px solid var(--color-border-light); }
-  .related-insights h2 { border: none; margin-bottom: var(--space-5); font-size: var(--text-xl); }
-  .related-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-4); }
-  .related-grid li { margin: 0; }
-  .related-card { display: flex; flex-direction: column; gap: var(--space-2); height: 100%; padding: var(--space-4); border: 1px solid var(--color-border-light); border-radius: 10px; text-decoration: none; color: inherit; transition: border-color 0.18s ease, transform 0.18s ease; }
-  .related-card:hover { border-color: var(--color-accent); transform: translateY(-2px); text-decoration: none; color: inherit; }
-  .related-cat { font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-accent); font-weight: 600; }
-  .related-title { font-weight: 600; line-height: 1.35; color: var(--color-text); }
+  .related-insights { margin-top: var(--space-12); padding-top: var(--space-6); border-top: 3px solid var(--color-ink); }
+  .related-insights h2 { border: none; margin: 0 0 var(--space-5); font-size: var(--text-xl); }
+  .related-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0; }
+  .related-grid li { margin: 0; border-top: 1px solid var(--color-border); }
+  .related-card { display: flex; flex-direction: column; gap: var(--space-2); height: 100%; padding: var(--space-4) var(--space-4) var(--space-4) 0; text-decoration: none; color: inherit; transition: color 0.18s ease; }
+  .related-card:hover { text-decoration: none; }
+  .related-card:hover .related-title { color: var(--color-accent); }
+  .related-cat { font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.1em; color: var(--color-accent); font-weight: 700; }
+  .related-title { font-family: var(--font-serif); font-weight: 600; font-size: var(--text-lg); line-height: 1.3; color: var(--color-text); transition: color 0.18s ease; }
 </style>
