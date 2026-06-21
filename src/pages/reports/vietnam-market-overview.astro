@@ -1,0 +1,147 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import BarChart from '@components/BarChart.astro';
+
+const title = "Vietnam Market Overview 2026 — Economy, Sectors & Data Report";
+const description = "A free Vietnam market overview for 2026: GDP and macro data, trade and FDI, and sector reports on payments, e-commerce, financial markets, logistics, and consumers — with sources.";
+const canonical = "https://vnmarketinsights.com/reports/vietnam-market-overview/";
+
+// Verified 2025 macro figures (GSO/NSO, MoIT, SBV, HOSE).
+const macro = [
+  { value: '~$514B', label: 'Nominal GDP (2025)', note: '+8.02% real growth' },
+  { value: '$5,026', label: 'GDP per capita (2025)', note: 'lower-middle income, rising' },
+  { value: '~101M', label: 'Population', note: 'young, mobile-first' },
+  { value: '~$475B', label: 'Exports (2025)', note: '+17% YoY' },
+  { value: '~$27.6B', label: 'Disbursed FDI (2025)', note: 'record; +9% YoY' },
+  { value: '~$31B', label: 'E-commerce (2025)', note: '~10% of retail' },
+];
+
+const sectors = [
+  { href: '/payments/', name: 'Payments & Fintech', stat: 'QR payment value +159.6% YoY (2025)', blurb: 'E-wallets, VietQR, banking rails, and the cashless transition.' },
+  { href: '/ecommerce/', name: 'E-commerce', stat: '~$31B revenue (2025)', blurb: 'Shopee, TikTok Shop, Lazada, social and live commerce.' },
+  { href: '/financial-markets/', name: 'Financial Markets', stat: 'VN-Index +41% (2025)', blurb: 'HOSE/HNX/UPCoM, VN-Index & VN30, foreign ownership.' },
+  { href: '/logistics/', name: 'Logistics', stat: '1–2 day metro delivery', blurb: 'Last-mile carriers, fulfillment, and coverage.' },
+  { href: '/consumers/', name: 'Consumers & Internet', stat: '79.8M internet users (2025)', blurb: 'Demographics, connectivity, and spending behavior.' },
+  { href: '/platforms/', name: 'Platforms', stat: 'Super-app ecosystems', blurb: 'Grab, Zalo, and integrated digital ecosystems.' },
+  { href: '/regulations/', name: 'Regulations', stat: 'Licensing & compliance', blurb: 'Foreign ownership, data, and sector rules.' },
+];
+
+const reportSchema = {
+  "@context": "https://schema.org",
+  "@type": "Report",
+  "name": title,
+  "description": description,
+  "url": canonical,
+  "datePublished": "2026-06-22",
+  "dateModified": "2026-06-22",
+  "publisher": { "@type": "Organization", "name": "Vietnam Market Insights", "url": "https://vnmarketinsights.com/" },
+  "about": "Vietnam market and economy",
+  "isAccessibleForFree": true,
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Report"
+  publishedDate="2026-06-22"
+  lastUpdated="2026-06-22"
+  structuredData={reportSchema}
+  mainClass="container"
+>
+  <article class="report-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Vietnam Market Overview</span>
+    </nav>
+
+    <header class="report-header">
+      <span class="kicker">Market Report · Reviewed June 2026</span>
+      <h1>{title}</h1>
+      <p class="report-lead">
+        A free, regularly updated overview of Vietnam's market — the macro picture plus
+        sector-by-sector reports. Figures are the latest publicly available (2025 where
+        published), each labelled with its source year. For methodology and citations see
+        <a href="/sources/">our sources</a>.
+      </p>
+    </header>
+
+    <section>
+      <h2>Vietnam at a glance (2025)</h2>
+      <div class="macro-grid">
+        {macro.map((m) => (
+          <div class="macro-card">
+            <div class="macro-value">{m.value}</div>
+            <div class="macro-label">{m.label}</div>
+            <div class="macro-note">{m.note}</div>
+          </div>
+        ))}
+      </div>
+      <BarChart
+        title="Vietnam growth, year-on-year (2025)"
+        unit="%"
+        data={[
+          { label: 'GDP (real)', value: 8.02, display: '+8.02%' },
+          { label: 'Exports', value: 17, display: '+17%' },
+          { label: 'Total trade', value: 18.2, display: '+18.2%' },
+          { label: 'Disbursed FDI', value: 9, display: '+9%' },
+        ]}
+        source="GSO / NSO, 2025"
+        caption="Vietnam was among Asia's fastest-growing economies in 2025."
+      />
+    </section>
+
+    <section>
+      <h2>Sector reports</h2>
+      <ul class="sector-grid">
+        {sectors.map((s) => (
+          <li>
+            <a href={s.href} class="sector-card">
+              <span class="sector-name">{s.name}</span>
+              <span class="sector-stat">{s.stat}</span>
+              <span class="sector-blurb">{s.blurb}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2>More data & tools</h2>
+      <ul class="more-list">
+        <li><a href="/stats/vietnam-economy-2026/">Vietnam economy statistics 2026</a> · <a href="/trends/">Trend Radar</a> · <a href="/insights/">Latest insights & weekly briefs</a></li>
+        <li><a href="/topics/">All topic hubs</a> · <a href="/glossary/">Glossary</a> · <a href="/feeds/">Feeds (RSS)</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<style>
+  .report-page { max-width: var(--reading-width); margin-inline: auto; }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); }
+  .report-header { margin-bottom: var(--space-8); padding-bottom: var(--space-5); border-bottom: 1px solid var(--color-border); }
+  .report-header h1 { border: none; margin: var(--space-3) 0; }
+  .report-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text-muted); max-width: 70ch; }
+
+  .macro-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 0; border-top: 1px solid var(--color-border); border-left: 1px solid var(--color-border); margin: var(--space-4) 0; }
+  .macro-card { padding: var(--space-4); border-right: 1px solid var(--color-border); border-bottom: 1px solid var(--color-border); }
+  .macro-value { font-family: var(--font-serif); font-size: var(--text-2xl); font-weight: 600; color: var(--color-ink); font-variant-numeric: tabular-nums; line-height: 1; }
+  .macro-label { font-size: var(--text-sm); font-weight: 600; margin-top: var(--space-2); }
+  .macro-note { font-size: var(--text-xs); color: var(--color-text-muted); margin-top: 0.15rem; }
+
+  .sector-grid { list-style: none; padding: 0; margin: var(--space-4) 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: var(--space-4); }
+  .sector-card { display: flex; flex-direction: column; height: 100%; padding: var(--space-4) 0 var(--space-4) var(--space-4); border-left: 3px solid var(--color-ink); text-decoration: none; color: inherit; transition: border-color 0.15s ease; }
+  .sector-card:hover { border-left-color: var(--color-accent); }
+  .sector-card:hover .sector-name { color: var(--color-accent); }
+  .sector-name { font-family: var(--font-serif); font-size: var(--text-lg); font-weight: 600; color: var(--color-text); transition: color 0.15s ease; }
+  .sector-stat { font-size: var(--text-sm); font-weight: 600; color: var(--color-accent); margin: 0.2rem 0 0.4rem; }
+  .sector-blurb { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+
+  .more-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .more-list li { margin-bottom: var(--space-2); line-height: 1.6; }
+  .more-list a { color: var(--color-accent); text-decoration: none; }
+  .more-list a:hover { text-decoration: underline; }
+</style>

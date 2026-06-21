@@ -1,11 +1,12 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
+import BarChart from '../components/BarChart.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 // Title is year-pinned to signal freshness and capture year-based queries.
 // Bump the year + lastUpdated date during the annual content refresh.
-const title = "Vietnam E-commerce Market — Platforms, Players & Statistics (2026)";
+const title = "Vietnam E-commerce Market 2026 — Size, Platforms, GMV & Data";
 const lastUpdated = "February 2026";
 
 const relatedTopics = getRelatedTopics('ecommerce');
@@ -111,6 +112,19 @@ const faqs = [
       <li><strong>Sendo</strong>: FPT Corporation-backed, strong in tier-2/3 cities</li>
       <li><strong>Cho Tot</strong>: Carousell-owned classifieds, C2C focus</li>
     </ul>
+
+    <BarChart
+      title="Platform share of marketplace GMV (Vietnam)"
+      unit="%"
+      data={[
+        { label: 'Shopee', value: 65, display: '65%' },
+        { label: 'TikTok Shop', value: 28, display: '28%' },
+        { label: 'Lazada', value: 6, display: '6%' },
+        { label: 'Tiki', value: 1, display: '1%' },
+      ]}
+      source="Metric, 2024"
+      caption="2024 shares across the top four marketplaces. Through 2025, TikTok Shop gained rapidly (toward ~41%) while Shopee eased (toward ~56%)."
+    />
 
     <h3>Social and Live Commerce</h3>
     <ul>
