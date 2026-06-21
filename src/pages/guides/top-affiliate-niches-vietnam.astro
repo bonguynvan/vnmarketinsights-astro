@@ -1,0 +1,150 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import DataTable from '@components/DataTable.astro';
+
+const title = "Top Affiliate Niches in Vietnam (2026) — TikTok Shop, Shopee & Lazada";
+const description = "The highest-demand affiliate marketing niches in Vietnam across TikTok Shop, Shopee, and Lazada — categories, typical commission ranges, and which platform fits each niche.";
+const canonical = "https://vnmarketinsights.com/guides/top-affiliate-niches-vietnam/";
+
+// Neutral, reference-style overview. Commission ranges are indicative and
+// change frequently — always confirm current rates in each platform's
+// affiliate/creator centre.
+const niches = [
+  ['Beauty & personal care', 'Skincare, cosmetics, haircare', 'High', 'TikTok Shop, Shopee'],
+  ['Fashion & accessories', 'Apparel, bags, jewelry, watches', 'High', 'Shopee, TikTok Shop'],
+  ['Health & wellness', 'Supplements, functional food, fitness', 'Medium–High', 'TikTok Shop, Shopee'],
+  ['Home & living', 'Kitchenware, décor, storage, small appliances', 'Medium', 'Shopee, Lazada'],
+  ['Mom & baby', 'Diapers, formula, toys, baby care', 'Medium', 'Shopee, Lazada'],
+  ['Consumer electronics & accessories', 'Phone accessories, audio, gadgets', 'Low–Medium', 'Lazada, Shopee'],
+  ['FMCG & groceries', 'Packaged food, household staples', 'Low', 'Shopee, TikTok Shop'],
+  ['Mobile & digital services', 'Top-ups, apps, subscriptions', 'Varies', 'Platform programs'],
+];
+const platforms = [
+  ['TikTok Shop', 'Content + live commerce; creators drive discovery. Strongest for beauty, fashion, and impulse categories with short-video demos and livestream selling.'],
+  ['Shopee', 'Largest marketplace and affiliate base; broad catalog, voucher-driven. Reliable for mass-market everyday categories and high purchase intent.'],
+  ['Lazada', 'Brand and electronics lean (LazMall); useful for higher-ticket and official-store products where trust matters.'],
+];
+
+const faqs = [
+  {
+    question: "What are the best affiliate niches in Vietnam right now?",
+    answer: "Beauty and personal care, fashion and accessories, and health and wellness consistently see the highest affiliate demand in Vietnam, driven by short-video and livestream commerce. Home and living, mom and baby, and electronics accessories are strong secondary niches. The best niche depends on your audience and the platform you create on."
+  },
+  {
+    question: "Which platform is best for affiliates — TikTok Shop, Shopee, or Lazada?",
+    answer: "TikTok Shop suits content creators using short video and livestreams, especially for beauty, fashion, and impulse buys. Shopee has the largest affiliate program and broad mass-market reach. Lazada leans toward brands and higher-ticket electronics via LazMall. Many Vietnamese affiliates run across all three and route each product to the platform where it converts best."
+  },
+  {
+    question: "How much commission do Vietnam affiliate programs pay?",
+    answer: "Commission rates vary widely by category and platform and change frequently. Beauty, fashion, and wellness typically pay higher rates, while electronics, FMCG, and groceries pay lower. Always check the current rate card in each platform's affiliate or creator centre before promoting, as rates and bonus campaigns are adjusted regularly."
+  },
+  {
+    question: "Do I need a business to be an affiliate in Vietnam?",
+    answer: "Individuals can join the major affiliate and creator programs, but payouts require a Vietnamese bank account and identity verification, and affiliate income is subject to Vietnamese personal income tax. Creators operating at scale often register a business or household business for tax and invoicing purposes."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", position: 1, name: "Home", item: "https://vnmarketinsights.com" },
+    { "@type": "ListItem", position: 2, name: "Guides", item: "https://vnmarketinsights.com/guides" },
+    { "@type": "ListItem", position: 3, name: "Top Affiliate Niches in Vietnam", item: canonical },
+  ],
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-21"
+  lastUpdated="2026-06-21"
+  structuredData={[faqSchema, breadcrumbSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Top Affiliate Niches in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <span class="kicker">Guide · Updated June 2026</span>
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Affiliate and creator commerce is one of the fastest-growing channels in Vietnam's
+        e-commerce market, led by TikTok Shop's live and short-video selling alongside Shopee and
+        Lazada's affiliate programs. This neutral overview maps the highest-demand niches, where
+        each one tends to convert, and how commissions broadly compare — for creators and
+        affiliates evaluating the Vietnamese market. Rates change often; always confirm current
+        terms in each platform's affiliate or creator centre.
+      </p>
+    </header>
+
+    <section>
+      <h2>Highest-demand affiliate niches</h2>
+      <DataTable
+        headers={['Niche', 'Examples', 'Typical commission', 'Best-fit platforms']}
+        rows={niches}
+        caption="Indicative affiliate niche demand in Vietnam (commission varies by category and campaign)"
+      />
+    </section>
+
+    <section>
+      <h2>Platform fit: TikTok Shop vs Shopee vs Lazada</h2>
+      {platforms.map(([name, note]) => (
+        <p><strong>{name}.</strong> {note}</p>
+      ))}
+      <p>
+        For a deeper side-by-side, see <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>How to choose a niche</h2>
+      <ul class="characteristics-list">
+        <li><strong>Match niche to platform.</strong> Visual, demo-friendly products (beauty, fashion) thrive on TikTok Shop; everyday value categories convert on Shopee; higher-ticket and branded electronics suit Lazada/LazMall.</li>
+        <li><strong>Weigh commission against volume.</strong> Beauty and wellness pay more per sale; FMCG and electronics pay less but move in volume.</li>
+        <li><strong>Follow seasonality.</strong> Mega-sale dates (Tết, 9.9, 10.10, 11.11, 12.12) concentrate demand and bonus commissions.</li>
+        <li><strong>Build trust.</strong> Vietnamese buyers rely on reviews, livestreams, and creator credibility more than banner ads.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently asked questions</h2>
+      <div class="faq-list">
+        {faqs.map(f => (
+          <details class="faq-item">
+            <summary class="faq-question">{f.question}</summary>
+            <div class="faq-answer-container"><p class="faq-answer">{f.answer}</p></div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related</h2>
+      <ul>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">How to sell on TikTok Shop Vietnam</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a></li>
+        <li><a href="/ecommerce/">Vietnam e-commerce market overview</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>

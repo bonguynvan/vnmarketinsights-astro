@@ -23,7 +23,7 @@ const sections = [
 ];
 
 const sources = [
-  { name: 'State Bank of Vietnam Annual Report 2024', url: 'https://sbv.gov.vn', description: 'Official central bank statistics on payment systems' },
+  { name: 'State Bank of Vietnam — non-cash payment & QR statistics (2024–2025)', url: 'https://sbv.gov.vn', description: 'Official central bank data: 17.7bn non-cash transactions 2024 (+56%); QR value +159.6% YoY in 7M 2025; 80% cashless target by 2030' },
   { name: 'NAPAS Payment Statistics', url: 'https://napas.com.vn', description: 'National payment switch transaction data' },
   { name: 'Ministry of Industry and Trade E-commerce Report', url: 'https://moit.gov.vn', description: 'E-commerce and digital payment indicators' },
   { name: 'World Bank Global Findex 2021', url: 'https://worldbank.org', description: 'Financial inclusion and payment access data' },
@@ -100,7 +100,7 @@ const faqs = [
   <h1>Vietnam Payments System</h1>
 
   <p class="topic-definition">
-    <strong>Vietnam's payment system</strong> is the infrastructure, instruments, and regulations that move money between consumers, businesses, banks, and government. It runs on the <strong>NAPAS national switch</strong> and connects banks (Vietcombank, BIDV, VietinBank, Techcombank), card schemes (NAPAS, Visa, Mastercard, JCB), and e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay). The <strong>VietQR standard</strong> enables instant interoperable QR transfers across all participating institutions. As of 2024, non-cash transaction volumes have grown at high double-digit rates year over year, though cash and cash-on-delivery remain significant in rural areas.
+    <strong>Vietnam's payment system</strong> is the infrastructure, instruments, and regulations that move money between consumers, businesses, banks, and government. It runs on the <strong>NAPAS national switch</strong> and connects banks (Vietcombank, BIDV, VietinBank, Techcombank), card schemes (NAPAS, Visa, Mastercard, JCB), and e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay). The <strong>VietQR standard</strong> enables instant interoperable QR transfers across all participating institutions. Non-cash transactions reached 17.7 billion in 2024 (up 56% year over year) and continued to accelerate through 2025 — QR-code payment value rose roughly 160% year on year in the first seven months of 2025 — though cash and cash-on-delivery remain significant in rural areas.
   </p>
 
   <section id="definition" class="content-section">
@@ -127,18 +127,18 @@ const faqs = [
     <DataTable
       headers={['Metric', 'Value', 'Period']}
       rows={[
-        ['Digital payment value', '$400-450 billion annually', '2024'],
+        ['Non-cash transactions (count)', '17.7 billion (+56% YoY)', '2024'],
+        ['Non-cash transactions (H1)', '12+ billion', 'H1 2025'],
+        ['QR transaction value growth', '+159.6% YoY', '7M 2025'],
+        ['QR transaction volume growth', '+66.7% YoY', '7M 2025'],
+        ['E-wallet market share (of payments)', '36.1%', '2025'],
+        ['Active e-wallets', '34+ million', '2025'],
+        ['Licensed payment-service providers', '53 (49 e-wallets)', '2025'],
         ['Digital share of transactions', '60-65%', '2024'],
-        ['Mobile payment users', '60+ million', '2024'],
-        ['E-wallet users', '45+ million', '2024'],
-        ['QR code transactions (monthly)', '200+ million', '2024'],
-        ['NAPAS daily transactions', '2+ million', '2024'],
-        ['Credit cards issued', '6-8 million', '2024'],
         ['Debit cards issued', '80+ million', '2024'],
-        ['POS terminals deployed', '250,000+', '2024'],
-        ['Merchant QR acceptance points', '500,000+', '2024']
+        ['Cashless target', '80% of transactions', 'by 2030']
       ]}
-      caption="Vietnam Payment System Key Metrics, 2024"
+      caption="Vietnam Payment System Key Metrics (latest available; see Sources)"
     />
 
     <h3>Transaction Volume Breakdown</h3>
