@@ -9,6 +9,19 @@ const articles = (await getCollection('articles')).sort((a, b) => {
   return dateB - dateA;
 });
 
+// Topic filter chips, derived from article categories (most common first).
+const categoryCounts = articles.reduce<Record<string, number>>((acc, entry) => {
+  const cat = entry.data.category;
+  if (cat) acc[cat] = (acc[cat] ?? 0) + 1;
+  return acc;
+}, {});
+const categories = Object.keys(categoryCounts).sort((a, b) => categoryCounts[b] - categoryCounts[a]);
+
+// Latest weekly brief (EN), surfaced as a hero. `articles` is newest-first.
+const latestBrief = articles.find(
+  (entry) => entry.data.category === 'Market Brief' && !entry.slug.endsWith('-vi'),
+);
+
 const site = "https://vnmarketinsights.com";
 const itemListSchema = {
   "@context": "https://schema.org",
@@ -38,10 +51,34 @@ const itemListSchema = {
       <p class="insights-lead">In-depth reference articles on Vietnam's market: digital economy, ecommerce, fintech, logistics, and regulations.</p>
     </header>
 
+    {latestBrief && (
+      <a href={`/insights/${latestBrief.slug}`} class="brief-hero" data-track-event="insight_click" data-track-category="acquisition" data-track-label={latestBrief.slug}>
+        <div class="brief-hero-tag">
+          <span class="brief-hero-dot"></span> Latest weekly brief
+        </div>
+        <h2 class="brief-hero-title">{latestBrief.data.title}</h2>
+        {latestBrief.data.description && <p class="brief-hero-desc">{latestBrief.data.description}</p>}
+        <span class="brief-hero-cta">Read the brief →</span>
+      </a>
+    )}
+
+    {categories.length > 1 && (
+      <nav class="insights-filter" aria-label="Filter by topic">
+        <button type="button" class="filter-chip is-active" data-filter="all">
+          All <span class="filter-count">{articles.length}</span>
+        </button>
+        {categories.map((cat) => (
+          <button type="button" class="filter-chip" data-filter={cat}>
+            {cat} <span class="filter-count">{categoryCounts[cat]}</span>
+          </button>
+        ))}
+      </nav>
+    )}
+
     <section class="insights-list">
       <ul class="article-grid">
         {articles.map((entry) => (
-          <li class="article-card-item">
+          <li class="article-card-item" data-category={entry.data.category ?? 'Uncategorized'}>
             <a href={`/insights/${entry.slug}`} class="article-card" data-track-event="insight_click" data-track-category="acquisition" data-track-label={entry.slug}>
               {entry.data.publishedDate && (
                 <time class="article-date" datetime={new Date(entry.data.publishedDate).toISOString()}>
@@ -66,13 +103,58 @@ const itemListSchema = {
       description="Get one practical market brief with links to new articles and datasets."
     />
   </article>
+
+  <script is:inline>
+    (() => {
+      const chips = document.querySelectorAll('.filter-chip');
+      const items = document.querySelectorAll('.article-card-item');
+      chips.forEach((chip) => {
+        chip.addEventListener('click', () => {
+          const filter = chip.getAttribute('data-filter');
+          chips.forEach((c) => c.classList.toggle('is-active', c === chip));
+          items.forEach((item) => {
+            const match = filter === 'all' || item.getAttribute('data-category') === filter;
+            item.style.display = match ? '' : 'none';
+          });
+        });
+      });
+    })();
+  </script>
 </BaseLayout>
 
 <style>
   .insights-page { }
+  .insights-filter {
+    display: flex; flex-wrap: wrap; gap: var(--space-2);
+    margin-bottom: var(--space-6);
+  }
+  .filter-chip {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.4rem 0.85rem; border-radius: 999px;
+    border: 1px solid var(--color-border); background: var(--color-bg);
+    color: var(--color-text-muted); font-size: var(--text-sm); font-weight: 600;
+    cursor: pointer; transition: all 0.15s ease;
+  }
+  .filter-chip:hover { border-color: var(--color-accent); color: var(--color-text); }
+  .filter-chip.is-active { background: var(--color-text); color: var(--color-bg); border-color: var(--color-text); }
+  .filter-count { font-size: var(--text-xs); opacity: 0.7; }
   .insights-header { margin-bottom: var(--space-10); }
   .insights-header h1 { margin-bottom: var(--space-3); border: none; }
   .insights-lead { color: var(--color-text-muted); font-size: var(--text-lg); max-width: 640px; }
+  .brief-hero {
+    display: block; margin: var(--space-6) 0 var(--space-8);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border); border-radius: 16px;
+    background: linear-gradient(135deg, color-mix(in srgb, var(--color-accent) 8%, var(--color-bg)), var(--color-bg));
+    text-decoration: none; color: inherit;
+    transition: transform 0.18s ease, border-color 0.18s ease, box-shadow 0.18s ease;
+  }
+  .brief-hero:hover { transform: translateY(-3px); border-color: var(--color-accent); text-decoration: none; color: inherit; box-shadow: 0 8px 24px color-mix(in srgb, var(--color-accent) 14%, transparent); }
+  .brief-hero-tag { display: inline-flex; align-items: center; gap: 0.4rem; font-size: var(--text-xs); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-accent); margin-bottom: var(--space-3); }
+  .brief-hero-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-accent); }
+  .brief-hero-title { font-size: var(--text-2xl); font-weight: 800; line-height: 1.25; margin: 0 0 var(--space-2); border: none; color: var(--color-text); }
+  .brief-hero-desc { color: var(--color-text-muted); margin: 0 0 var(--space-3); max-width: 70ch; line-height: 1.55; }
+  .brief-hero-cta { font-weight: 600; color: var(--color-accent); font-size: var(--text-sm); }
   .insights-list { margin: var(--space-8) 0; }
   .article-grid {
     list-style: none; padding: 0; margin: 0;

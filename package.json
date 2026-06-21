@@ -8,9 +8,10 @@
   },
   "scripts": {
     "dev": "astro dev",
+    "prebuild": "node scripts/make-brief-og.mjs",
     "build": "astro build",
     "preview": "astro preview",
-    "postbuild": "pagefind --site .vercel/output/static && node scripts/generate-sitemap.mjs ../.vercel/output/static && node scripts/indexnow-ping.mjs ../.vercel/output/static && node scripts/fix-vercel-runtime.mjs"
+    "postbuild": "pagefind --site .vercel/output/static && node scripts/generate-sitemap.mjs ../.vercel/output/static && node scripts/generate-news-sitemap.mjs ../.vercel/output/static && node scripts/indexnow-ping.mjs ../.vercel/output/static && node scripts/fix-vercel-runtime.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.0",

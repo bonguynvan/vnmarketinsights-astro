@@ -1,5 +1,6 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Consumers — Demographics, Behavior & Spending (2026)";
@@ -146,6 +147,8 @@ const relatedTopics = getRelatedTopics('consumers');
       <li>Ministry of Planning and Investment socioeconomic data</li>
     </ul>
   </section>
+
+  <RecentDevelopments topic="consumers" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>

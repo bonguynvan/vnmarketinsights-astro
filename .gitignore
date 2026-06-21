@@ -22,6 +22,9 @@ pnpm-debug.log*
 # local data / runtime artifacts
 data/leads.json
 
+# generated per-brief OG images (built in prebuild from brief markdown)
+public/og/
+
 # macOS
 .DS_Store
 

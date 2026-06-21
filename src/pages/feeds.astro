@@ -1,0 +1,122 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const feeds = [
+  {
+    title: 'Articles & Insights',
+    description: 'Reference articles plus AI-summarized briefs and company coverage.',
+    href: '/rss.xml',
+  },
+  {
+    title: 'Weekly Briefs',
+    description: 'Just the weekly AI-summarized digest of Vietnam market news.',
+    href: '/briefs.xml',
+  },
+];
+
+// Per-topic feeds — recent AI-summarized news for a single topic.
+const topicFeeds = [
+  { label: 'Payments', slug: 'payments' },
+  { label: 'E-commerce', slug: 'ecommerce' },
+  { label: 'Logistics', slug: 'logistics' },
+  { label: 'Consumers', slug: 'consumers' },
+  { label: 'Regulation', slug: 'regulations' },
+  { label: 'Financial Markets', slug: 'financial-markets' },
+  { label: 'Platforms', slug: 'platforms' },
+];
+---
+
+<BaseLayout
+  title="Feeds — Vietnam Market Insights"
+  description="Subscribe to Vietnam Market Insights via RSS: articles, insights, and the weekly market brief. OPML available."
+  canonicalURL="https://vnmarketinsights.com/feeds/"
+  mainClass="container"
+>
+  <div class="feeds-page">
+    <header class="feeds-header">
+      <h1>Feeds</h1>
+      <p class="feeds-lead">
+        Subscribe in any RSS reader. Import everything at once with the
+        <a href="/feeds.opml">OPML file</a>.
+      </p>
+    </header>
+
+    <ul class="feeds-list">
+      {feeds.map((feed) => (
+        <li class="feed-card">
+          <div class="feed-meta">
+            <h2 class="feed-title">{feed.title}</h2>
+            <p class="feed-desc">{feed.description}</p>
+          </div>
+          <div class="feed-actions">
+            <a class="feed-btn" href={feed.href}>Open feed</a>
+            <button type="button" class="feed-copy" data-url={`https://vnmarketinsights.com${feed.href}`}>
+              Copy URL
+            </button>
+          </div>
+        </li>
+      ))}
+    </ul>
+
+    <section class="topic-feeds" aria-labelledby="topic-feeds-heading">
+      <h2 id="topic-feeds-heading">Per-topic feeds</h2>
+      <p class="topic-feeds-note">Recent AI-summarized news for a single topic.</p>
+      <ul class="topic-feeds-list">
+        {topicFeeds.map((tf) => (
+          <li><a href={`/feeds/${tf.slug}.xml`}>{tf.label} <span aria-hidden="true">›</span></a></li>
+        ))}
+      </ul>
+    </section>
+
+    <p class="feeds-footer"><a href="/insights">← Articles</a> · <a href="/">Home</a></p>
+  </div>
+
+  <script is:inline>
+    document.querySelectorAll('.feed-copy').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(btn.getAttribute('data-url') || '');
+          const original = btn.textContent;
+          btn.textContent = 'Copied!';
+          setTimeout(() => { btn.textContent = original; }, 1500);
+        } catch {
+          /* clipboard unavailable */
+        }
+      });
+    });
+  </script>
+</BaseLayout>
+
+<style>
+  .feeds-header { margin-bottom: var(--space-8, 2rem); }
+  .feeds-header h1 { border: none; margin-bottom: var(--space-2, 0.5rem); }
+  .feeds-lead { color: var(--color-text-muted, #5a5a5a); font-size: var(--text-lg, 1.125rem); }
+  .feeds-list { list-style: none; padding: 0; margin: 0; display: grid; gap: var(--space-4, 1rem); }
+  .feed-card {
+    display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between;
+    padding: var(--space-5, 1.25rem); border: 1px solid var(--color-border, #e5e5e5); border-radius: 12px;
+    background: var(--color-bg, #fff);
+  }
+  .feed-title { margin: 0 0 0.25rem; border: none; font-size: var(--text-lg, 1.125rem); }
+  .feed-desc { margin: 0; color: var(--color-text-muted, #5a5a5a); font-size: var(--text-sm, 0.875rem); }
+  .feed-actions { display: flex; gap: 0.5rem; }
+  .feed-btn, .feed-copy {
+    padding: 0.5rem 0.9rem; border-radius: 8px; font-size: var(--text-sm, 0.875rem); font-weight: 600;
+    text-decoration: none; cursor: pointer; border: 1px solid var(--color-border, #e5e5e5);
+    background: var(--color-bg, #fff); color: var(--color-text, #1a1a1a);
+  }
+  .feed-btn { background: var(--color-text, #1a1a1a); color: var(--color-bg, #fff); border-color: var(--color-text, #1a1a1a); }
+  .feed-btn:hover { background: var(--color-accent, #2563eb); border-color: var(--color-accent, #2563eb); color: #fff; }
+  .feed-copy:hover { border-color: var(--color-accent, #2563eb); color: var(--color-accent, #2563eb); }
+  .topic-feeds { margin-top: var(--space-10, 2.5rem); }
+  .topic-feeds h2 { border: none; margin-bottom: var(--space-1, 0.25rem); font-size: var(--text-xl, 1.25rem); }
+  .topic-feeds-note { color: var(--color-text-muted, #5a5a5a); font-size: var(--text-sm, 0.875rem); margin: 0 0 var(--space-4, 1rem); }
+  .topic-feeds-list { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: var(--space-2, 0.5rem); }
+  .topic-feeds-list a {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    padding: 0.4rem 0.85rem; border-radius: 999px; border: 1px solid var(--color-border, #e5e5e5);
+    font-size: var(--text-sm, 0.875rem); font-weight: 600; text-decoration: none; color: var(--color-text, #1a1a1a);
+  }
+  .topic-feeds-list a:hover { border-color: var(--color-accent, #2563eb); color: var(--color-accent, #2563eb); }
+  .feeds-footer { margin-top: var(--space-8, 2rem); font-size: var(--text-sm, 0.875rem); color: var(--color-text-muted, #5a5a5a); }
+</style>

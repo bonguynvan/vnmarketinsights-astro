@@ -1,0 +1,80 @@
+---
+// Homepage "This week in Vietnam markets" strip. Reads the pipeline-generated
+// recent-by-topic.json, flattens the most important recent items across topics,
+// and renders a compact strip. Renders nothing until the corpus is populated.
+import recent from '../data/recent-by-topic.json';
+
+interface RecentItem {
+  title: string;
+  url: string;
+  source: string;
+  summary_en: string;
+  pubDate: string;
+  sentiment: number;
+  importance: number;
+}
+
+const MAX_ITEMS = 6;
+const topics = ((recent as any).topics ?? {}) as Record<string, RecentItem[]>;
+
+// Flatten across topics, dedupe by URL, rank by importance then recency.
+const seen = new Set<string>();
+const items: RecentItem[] = Object.values(topics)
+  .flat()
+  .filter((it) => (it.url && !seen.has(it.url) ? (seen.add(it.url), true) : false))
+  .sort((a, b) => (b.importance ?? 0) - (a.importance ?? 0))
+  .slice(0, MAX_ITEMS);
+
+const sentClass = (s: number): string => (s > 0.2 ? 'pos' : s < -0.2 ? 'neg' : 'neu');
+const fmtDate = (d: string): string => {
+  const parsed = new Date(d);
+  return Number.isNaN(parsed.getTime())
+    ? ''
+    : parsed.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+};
+---
+
+{items.length > 0 && (
+  <section class="week-strip" aria-labelledby="week-strip-heading">
+    <div class="week-strip-head">
+      <h2 id="week-strip-heading">This week in Vietnam markets</h2>
+      <a href="/insights" class="week-strip-all">All insights →</a>
+    </div>
+    <ul class="week-strip-list">
+      {items.map((item) => (
+        <li class="week-card">
+          <a href={item.url} target="_blank" rel="noopener nofollow">
+            <span class={`week-dot ${sentClass(item.sentiment)}`} aria-hidden="true"></span>
+            <span class="week-card-title">{item.title}</span>
+            <span class="week-card-meta">{item.source}{fmtDate(item.pubDate) && ` · ${fmtDate(item.pubDate)}`}</span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .week-strip { margin: var(--space-8, 2rem) 0; }
+  .week-strip-head { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: var(--space-4, 1rem); }
+  .week-strip-head h2 { margin: 0; border: none; font-size: var(--text-xl, 1.25rem); }
+  .week-strip-all { font-size: var(--text-sm, 0.875rem); font-weight: 600; color: var(--color-accent, #2563eb); text-decoration: none; white-space: nowrap; }
+  .week-strip-all:hover { text-decoration: underline; }
+  .week-strip-list {
+    list-style: none; padding: 0; margin: 0;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: var(--space-3, 0.75rem);
+  }
+  .week-card { margin: 0; }
+  .week-card a {
+    display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto;
+    column-gap: 0.5rem; align-items: start; height: 100%;
+    padding: 0.9rem 1rem; border: 1px solid var(--color-border, #e5e5e5); border-radius: 10px;
+    background: var(--color-bg, #fff); text-decoration: none; color: inherit;
+    transition: border-color 0.18s ease, transform 0.18s ease;
+  }
+  .week-card a:hover { border-color: var(--color-accent, #2563eb); transform: translateY(-2px); }
+  .week-dot { width: 9px; height: 9px; border-radius: 50%; margin-top: 0.35rem; grid-row: 1 / span 2; }
+  .week-dot.pos { background: #22c55e; } .week-dot.neg { background: #ef4444; } .week-dot.neu { background: #f59e0b; }
+  .week-card-title { font-weight: 600; line-height: 1.35; color: var(--color-text, #1a1a1a); }
+  .week-card-meta { font-size: var(--text-xs, 0.75rem); color: var(--color-text-muted, #5a5a5a); grid-column: 2; margin-top: 0.25rem; }
+</style>

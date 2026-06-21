@@ -11,6 +11,7 @@ export interface Props {
   publishedDate?: string;
   lastUpdated?: string;
   articleSection?: string;
+  alternateLanguages?: Array<{ hreflang: string; href: string }>;
 }
 
 const {
@@ -25,6 +26,7 @@ const {
   publishedDate,
   lastUpdated,
   articleSection,
+  alternateLanguages = [],
 } = Astro.props;
 
 const site = "https://vnmarketinsights.com";
@@ -82,13 +84,30 @@ const breadcrumbSchema = {
   })),
 };
 
+// Organization identity links. Add real profiles (X, LinkedIn, etc.) here as
+// they go live — they strengthen entity recognition in search.
+const ORG_SAME_AS: string[] = [
+  `${site}/rss.xml`,
+  `${site}/briefs.xml`,
+];
+
 const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'Vietnam Market Insights',
   url: site,
   logo: `${site}/logo.svg`,
-  sameAs: [],
+  description:
+    "Structured reference and AI-summarized news on Vietnam's market: e-commerce, payments, logistics, and financial markets.",
+  areaServed: { '@type': 'Country', name: 'Vietnam' },
+  knowsAbout: [
+    'Vietnam e-commerce',
+    'Vietnam digital payments',
+    'Vietnam logistics',
+    'Vietnam financial markets',
+    'Vietnam macroeconomy',
+  ],
+  sameAs: ORG_SAME_AS,
 };
 
 const isHome = pathname === '/';
@@ -153,6 +172,10 @@ const allSchemas = [
   <!-- Canonical URL -->
   <link rel="canonical" href={canonical}>
 
+  {alternateLanguages.map((alt) => (
+    <link rel="alternate" hreflang={alt.hreflang} href={alt.href} />
+  ))}
+
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <link rel="icon" type="image/png" href="/favicon.png">
@@ -189,6 +212,7 @@ const allSchemas = [
 
   <!-- RSS feed for insights -->
   <link rel="alternate" type="application/rss+xml" title="Vietnam Market Insights — Articles" href={`${site}/rss.xml`}>
+  <link rel="alternate" type="application/rss+xml" title="Vietnam Market Insights — Weekly Briefs" href={`${site}/briefs.xml`}>
 
   <!-- Editorial heading font (body stays on the fast system stack) -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -295,8 +319,10 @@ const allSchemas = [
           <h2 class="site-footer__heading">Tools &amp; data</h2>
           <a href="/tools">Tools</a>
           <a href="/search">Smart Search</a>
+          <a href="/trends">Trend Radar</a>
           <a href="/snapshot">Website snapshot</a>
           <a href="/sources">Data sources</a>
+          <a href="/feeds">Feeds (RSS)</a>
         </div>
         <div class="site-footer__col">
           <h2 class="site-footer__heading">About</h2>

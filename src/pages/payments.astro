@@ -1,6 +1,7 @@
 ---
 import CanonicalLayout from '../layouts/CanonicalLayout.astro';
 import DataTable from '../components/DataTable.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Payments System — Methods, Infrastructure & Statistics (2026)";
@@ -350,6 +351,8 @@ const faqs = [
       caption="Payment System Projections"
     />
   </section>
+
+  <RecentDevelopments topic="payments" />
 
   <section id="history" class="content-section">
     <h2>Historical Context</h2>

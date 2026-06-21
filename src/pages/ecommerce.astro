@@ -1,5 +1,6 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 // Title is year-pinned to signal freshness and capture year-based queries.
@@ -160,6 +161,8 @@ const faqs = [
       <li>Vietnam News Agency and VnExpress business coverage</li>
     </ul>
   </section>
+
+  <RecentDevelopments topic="ecommerce" />
 
   <section class="further-reading" aria-label="Further reading">
     <h2>Further reading</h2>

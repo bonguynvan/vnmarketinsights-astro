@@ -15,10 +15,10 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     <div class="search-header">
       <div class="search-badge">
         <span class="badge-dot"></span>
-        Real-time data
+        Semantic · AI-enriched
       </div>
       <h1 class="search-title">Smart Search</h1>
-      <p class="search-subtitle">Aggregates Vietnam economic news from VnExpress, CafeF and official Vietnamese sources, then runs AI sentiment and key-stat analysis. Source articles remain in Vietnamese; AI summary is in English.</p>
+      <p class="search-subtitle">Semantic search over an AI-summarized corpus of Vietnam market news. Ranks by meaning, not just keywords, with sentiment per result. Summaries available in English or Vietnamese.</p>
     </div>
 
     <!-- Search Input -->
@@ -63,6 +63,13 @@ import BaseLayout from '@layouts/BaseLayout.astro';
             🏠 Real Estate
           </button>
         </div>
+      </div>
+
+      <!-- Language toggle: switches summary language (EN / VI) -->
+      <div class="lang-toggle" role="group" aria-label="Summary language">
+        <span class="lang-label">Summaries:</span>
+        <button type="button" class="lang-btn is-active" data-lang="en">EN</button>
+        <button type="button" class="lang-btn" data-lang="vi">VI</button>
       </div>
     </div>
 
@@ -188,11 +195,21 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     const resultsEl = document.getElementById('search-results');
     const emptyEl = document.getElementById('search-empty');
     const promptChips = document.querySelectorAll('.prompt-chip');
+    const langBtns = document.querySelectorAll('.lang-btn');
+    let currentLang = 'en';
 
     promptChips.forEach(chip => {
       chip.addEventListener('click', () => {
         searchInput.value = chip.dataset.query || '';
         runSearch();
+      });
+    });
+
+    langBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        currentLang = btn.dataset.lang || 'en';
+        langBtns.forEach(b => b.classList.toggle('is-active', b === btn));
+        if (searchInput.value.trim()) runSearch(); // re-run in the chosen language
       });
     });
 
@@ -214,7 +231,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       }
 
       try {
-        const response = await fetch(`/api/search/news?q=${encodeURIComponent(query)}`);
+        const response = await fetch(`/api/search/news?q=${encodeURIComponent(query)}&lang=${currentLang}`);
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const data = await response.json();
 
@@ -456,6 +473,28 @@ import BaseLayout from '@layouts/BaseLayout.astro';
       display: block;
       margin-bottom: 0.75rem;
     }
+    .lang-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid #f1f5f9;
+    }
+    .lang-label { font-size: 0.8125rem; font-weight: 600; color: #64748b; }
+    .lang-btn {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      padding: 0.3rem 0.7rem;
+      border-radius: 999px;
+      border: 1px solid #e2e8f0;
+      background: #fff;
+      color: #475569;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .lang-btn:hover { border-color: #94a3b8; }
+    .lang-btn.is-active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
     .prompts-grid {
       display: flex;
       flex-wrap: wrap;
