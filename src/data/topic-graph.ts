@@ -13,7 +13,13 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'ecommerce',
     title: 'E-commerce',
     description: 'Online marketplaces, retail platforms, and digital commerce patterns.',
-    related: ['payments', 'logistics', 'platforms', 'consumers'],
+    related: ['retail', 'payments', 'logistics', 'platforms'],
+  },
+  retail: {
+    slug: 'retail',
+    title: 'Retail',
+    description: 'Modern and traditional trade, grocery and convenience chains, and consumer retail.',
+    related: ['ecommerce', 'consumers', 'logistics'],
   },
   payments: {
     slug: 'payments',
