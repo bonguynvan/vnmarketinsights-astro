@@ -62,6 +62,9 @@
 
   /* Layout - single page width for balanced, consistent desktop layout */
   --page-width: 960px;
+  /* Shared content measure for guide/compare/stats/sources/hub pages so the
+     content block width stays consistent as you navigate between them. */
+  --reading-width: 900px;
   --max-width: var(--page-width);
   --max-width-wide: var(--page-width);
   --header-height: 60px;
