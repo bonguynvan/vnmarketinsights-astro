@@ -1,69 +1,121 @@
 {
-  "generatedAt": "2026-06-21T17:13:12.069599+00:00",
+  "generatedAt": "2026-06-22T00:09:10.952807+00:00",
   "topics": {
-    "financial-markets": [
+    "consumers": [
       {
-        "title": "Chuyên gia dự báo thời điểm Việt Nam có thể vào \"watch list\" MSCI, chỉ ra bài học từ Thái Lan và Indonesia",
-        "url": "https://cafef.vn/chuyen-gia-du-bao-thoi-diem-viet-nam-co-the-vao-watch-list-msci-chi-ra-bai-hoc-tu-thai-lan-va-indonesia-188260621214934962.chn",
-        "source": "CafeF",
-        "summary_en": "Experts predict Vietnam could potentially be added to MSCI's watch list and highlight lessons from Thailand and Indonesia's experience with index inclusion. MSCI has acknowledged Vietnam's efforts to reform infrastructure and operating mechanisms, though no positive indicators have appeared yet on its assessment scorecard. Thailand's NVDR mechanism, which allows foreign investors to access fully-subscribed stocks, is cited as a notable precedent from regional peers.",
-        "summary_vn": "Các chuyên gia dự báo Việt Nam có thể vào \"watch list\" của MSCI và chỉ ra bài học từ kinh nghiệm của Thái Lan và Indonesia trong việc được nâng hạng. MSCI đã ghi nhận rõ hơn những nỗ lực cải tổ hạ tầng và cơ chế vận hành của Việt Nam, tuy nhiên \"bảng điểm\" của MSCI vẫn chưa xuất hiện thêm dấu tích cực nào. Cơ chế NVDR của Thái Lan, cho phép nhà đầu tư nước ngoài tiếp cận các cổ phiếu đã kín room, được xem là kinh nghiệm đáng chú ý từ các thị trường khu vực.",
-        "pubDate": "Mon, 22 Jun 26 00:01:00 +0700",
-        "sentiment": 0.0,
+        "title": "&amp;apos;Đã mua kim cương là lỗ&amp;apos;: Thị trường chao đảo, nhiều tiệm đóng cửa",
+        "url": "https://vietnamnet.vn/thi-truong-kim-cuong-chao-dao-sau-loat-nghi-van-nhieu-cua-hang-dong-cua-2527281.html",
+        "source": "VietnamNet",
+        "summary_en": "A diamond and precious metals company, Thực Lan Diamond, announced an unexpected closure and suspension of operations from June 16. The company was established in May 2023 and operated three branches in Bắc Ninh, Hà Nội, and Ho Chi Minh City. The market for diamonds has become unstable, with multiple jewelry stores closing their operations.",
+        "summary_vn": "Công ty TNHH Vàng Bạc Đá Quý Thực Lan Diamond vừa thông báo đóng cửa và tạm ngừng hoạt động từ ngày 16/6. Công ty được thành lập vào tháng 5/2023 và hoạt động 3 chi nhánh tại Bắc Ninh, Hà Nội và TPHCM. Thị trường vàng bạc đá quý đang chao đảo với nhiều tiệm đóng cửa.",
+        "pubDate": "Mon, 22 Jun 2026 05:03:00 +0700",
+        "sentiment": -0.8,
         "importance": 3
       },
       {
-        "title": "Chuyên gia gợi ý 3 nhóm ngành dòng tiền tìm tới trong mùa kết quả kinh doanh quý 2",
-        "url": "https://cafef.vn/chuyen-gia-goi-y-3-nhom-nganh-dong-tien-tim-toi-trong-mua-ket-qua-kinh-doanh-quy-2-188260621222008245.chn",
+        "title": "Ngành đồ uống trước yêu cầu mới: Không chỉ bán sản phẩm, mà còn phải góp phần thay đổi hành vi tiêu dùng",
+        "url": "https://cafef.vn/nganh-do-uong-truoc-yeu-cau-moi-khong-chi-ban-san-pham-ma-con-phai-gop-phan-thay-doi-hanh-vi-tieu-dung-188260621105036872.chn",
         "source": "CafeF",
-        "summary_en": "An expert discusses three industry groups expected to attract capital inflows during the Q2 earnings season. The Vietnamese stock market has not been included in MSCI's short-term monitoring list, requiring priority focus on meeting FTSE Russell upgrade criteria. During the final trading week of June 2026, the market is experiencing low information flow with significantly reduced liquidity.",
-        "summary_vn": "Một chuyên gia gợi ý ba nhóm ngành được kỳ vọng sẽ nhận dòng tiền trong mùa công bố kết quả kinh doanh quý 2. Chứng khoán Việt Nam chưa được MSCI đưa vào danh sách giám sát ngắn hạn, đòi hỏi phải ưu tiên đáp ứng tiêu chuẩn nâng hạng của FTSE Russell. Vào tuần giao dịch cuối tháng 6/2026, thị trường đang trải qua giai đoạn thiếu thông tin với thanh khoản sụt giảm đáng kể.",
-        "pubDate": "Mon, 22 Jun 26 00:03:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Giá vàng hôm nay 21/6: Đi ngang chờ tín hiệu mới",
-        "url": "https://cafef.vn/gia-vang-hom-nay-21-6-di-ngang-cho-tin-hieu-moi-188260621064339114.chn",
-        "source": "CafeF",
-        "summary_en": "Global gold prices quoted on Kitco stand at 4,154 USD/ounce on June 21, unchanged from the previous morning session. The U.S. Federal Reserve held its target federal funds rate range at 3.5%-3.75% in its Wednesday meeting. Markets have shifted focus from rate cut expectations to pricing in the risk of Fed rate increases in 2026.",
-        "summary_vn": "Sáng 21/6, giá vàng thế giới được niêm yết trên Kitco ở mức 4.154 USD/ounce, không đổi so với phiên sáng trước. Cục Dự trữ Liên bang Mỹ (Fed) đã giữ nguyên phạm vi lãi suất mục tiêu quỹ liên bang ở mức 3,5% - 3,75% trong cuộc họp hôm thứ Tư. Thị trường đã chuyển trọng tâm từ kỳ vọng cắt giảm lãi suất sang định giá rủi ro Fed sẽ tăng lãi suất trong năm 2026.",
-        "pubDate": "Sun, 21 Jun 26 07:25:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ",
-        "url": "https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese banking sector's Q2 2026 profit forecasts show divergent growth trajectories across institutions. MSB is projected to achieve the fastest growth at 48%, while VietinBank is expected to lead the system in absolute profit scale with approximately 15,000 billion Vietnamese dong in pre-tax profit. The banking sector continues to display varied performance across different players.",
-        "summary_vn": "Dự báo lợi nhuận ngân hàng quý II/2026 cho thấy các trang thái tăng trưởng khác nhau giữa các tổ chức. MSB được dự báo đạt tăng trưởng nhanh nhất ở mức 48%, trong khi VietinBank kỳ vọng dẫn đầu hệ thống về quy mô lợi nhuận với khoảng 15.000 tỷ đồng trước thuế. Ngành ngân hàng tiếp tục thể hiện hiệu suất đa dạng giữa các tổ chức khác nhau.",
-        "pubDate": "Sun, 21 Jun 26 10:01:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Sacombank muốn huy động lượng tiền lớn từ trái phiếu",
-        "url": "https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn",
-        "source": "CafeF",
-        "summary_en": "Sacombank approved a plan to issue a maximum of 20,000 billion Vietnamese dong in bonds during 2026. The bank is seeking to raise a substantial amount of capital through private bond offerings. This decision was made by the bank's board as part of its 2026 financing strategy.",
-        "summary_vn": "Sacombank vừa phê duyệt kế hoạch chào bán tối đa 20.000 tỷ đồng trái phiếu riêng lẻ trong năm 2026. Ngân hàng đang tìm cách huy động một lượng vốn đáng kể thông qua phát hành trái phiếu. Quyết định này được Hội đồng quản trị đưa ra như một phần của chiến lược tài chính năm 2026 của ngân hàng.",
-        "pubDate": "Sun, 21 Jun 26 11:00:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn",
-        "source": "CafeF",
-        "summary_en": "On June 21st, a survey of online deposit interest rates shows ACB leading the market at 7.3% per annum for a 12-month term. The Big4 banking group maintains a rate of 6.8% per annum, while other banks are quoting rates between 6.9-7% per annum for medium and long-term deposits.",
-        "summary_vn": "Theo khảo sát lãi suất huy động trực tuyến ngày 21/6, ACB dẫn đầu thị trường với mức lãi suất 7,3%/năm cho kỳ hạn 12 tháng. Nhóm Big4 duy trì mức 6,8%/năm, trong khi nhiều ngân hàng khác niêm yết từ 6,9-7%/năm cho các khoản tiền gửi trung và dài hạn.",
-        "pubDate": "Sun, 21 Jun 26 17:21:00 +0700",
+        "summary_en": "The beverages industry faces new requirements to go beyond selling products and contribute to changing consumer behavior. As preventive health care becomes increasingly important, equipping young people with specific health knowledge—such as understanding nutrition needs, reading food labels, identifying sugar content, alcohol concentration, and responsible consumption—is becoming a key part of modern lifestyle. A forum addressing these topics was held on June 18, 2026 at a university.",
+        "summary_vn": "Ngành đồ uống phải đáp ứng yêu cầu mới không chỉ bán sản phẩm mà còn phải góp phần thay đổi hành vi tiêu dùng. Khi y tế dự phòng ngày càng được coi trọng, việc cung cấp kiến thức sức khỏe cụ thể cho thanh niên—như hiểu nhu cầu dinh dưỡng, đọc nhãn thực phẩm, nhận diện lượng đường, nồng độ cồn và tiêu dùng có trách nhiệm—đang trở thành phần quan trọng của lối sống hiện đại. Một diễn đàn về chủ đề này đã được tổ chức vào ngày 18/6/2026 tại một trường đại học.",
+        "pubDate": "Sun, 21 Jun 26 10:50:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       }
     ],
+    "financial-markets": [
+      {
+        "title": "Giá vàng lao dốc, giới đầu tư tranh cãi về cơ hội nghìn tỷ",
+        "url": "https://vietnamnet.vn/gia-vang-lao-doc-gioi-dau-tu-tranh-cai-ve-co-hoi-nghin-ty-2527920.html",
+        "source": "VietnamNet",
+        "summary_en": "Gold prices have declined significantly from a historic peak of $5,589 per ounce in January to approximately $4,157 per ounce, representing a loss of around 26% in value over a short period. Despite the price drop, gold mining companies are experiencing record cash flows, creating an unusual market paradox where mining stocks are trading at unusually low valuations. This contradiction is generating debate among investors about potential opportunities worth billions of dollars.",
+        "summary_vn": "Giá vàng đã giảm mạnh từ mức đỉnh lịch sử 5.589 USD/ounce vào tháng 1 xuống còn khoảng 4.157 USD/ounce, mất đi khoảng 26% giá trị trong thời gian ngắn. Bất chấp giá giảm, các công ty khai thác vàng đang có dòng tiền kỷ lục, tạo ra một nghịch lý thị trường hiếm có khi cổ phiếu khai thác vàng được định giá rẻ bất thường. Sự mâu thuẫn này đang tạo ra cuộc tranh cãi giữa các nhà đầu tư về các cơ hội tiềm năng trị giá hàng tỷ đô la.",
+        "pubDate": "Mon, 22 Jun 2026 05:30:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Giá xăng dầu giảm sâu nhưng nguy cơ tăng trở lại khi ưu đãi thuế hết hiệu lực",
+        "url": "https://vietnamnet.vn/xang-dau-giam-sau-nhung-nguy-co-tang-gia-tro-lai-khi-uu-dai-thue-het-hieu-luc-2527463.html",
+        "source": "VietnamNet",
+        "summary_en": "Gasoline and diesel prices in Vietnam have declined significantly from their peaks in March following geopolitical tensions in the Middle East. Currently, E5 RON92 gasoline is priced at 20,126 VND/liter, E10 RON95-III at 20,753 VND/liter, diesel at 23,534 VND/liter, and mazut at 16,680 VND/kg. Price increases may resume when tax incentives expire, creating renewed upward pressure on fuel costs.",
+        "summary_vn": "Giá xăng dầu tại Việt Nam đã giảm mạnh kể từ đỉnh cao vào tháng 3 do ảnh hưởng từ căng thẳng địa chính trị ở Trung Đông. Hiện tại, xăng E5 RON92 có giá 20.126 đồng/lít, xăng E10 RON95-III là 20.753 đồng/lít, dầu diesel là 23.534 đồng/lít, và dầu mazut là 16.680 đồng/kg. Giá có thể tăng trở lại khi các ưu đãi về thuế hết hiệu lực, tạo áp lực tăng giá mới cho nhiên liệu.",
+        "pubDate": "Mon, 22 Jun 2026 05:30:00 +0700",
+        "sentiment": -0.2,
+        "importance": 3
+      },
+      {
+        "title": "6 ngân hàng giảm lãi suất cho vay trong tháng 5",
+        "url": "https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html",
+        "source": "VietnamNet",
+        "summary_en": "Six banks reduced their average lending rates in May compared to April. GPBank led with the largest reduction of 1.63 percentage points to 8.84% per annum, followed by TPBank's 1.01 percentage point decrease to 9.93% per annum. MBV and VIB each reduced rates by 0.55 percentage points, announcing average lending rates of 8.86% and 8.58% per annum respectively.",
+        "summary_vn": "Sáu ngân hàng hạ lãi suất cho vay bình quân trong tháng 5 so với tháng 4. GPBank giảm nhiều nhất 1,63 điểm phần trăm xuống 8,84%/năm, theo sau là TPBank giảm 1,01 điểm phần trăm xuống 9,93%/năm. MBV và VIB cùng giảm 0,55 điểm phần trăm, công bố lãi suất cho vay bình quân tháng 5 lần lượt là 8,86%/năm và 8,58%/năm.",
+        "pubDate": "Mon, 22 Jun 2026 05:45:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Thế hệ thứ 2 lộ diện, con trai ông Nguyễn Đức Thụy nắm loạt công ty lớn, khối tài sản khủng",
+        "url": "https://vietnamnet.vn/the-he-thu-2-lo-dien-con-bau-thuy-nam-loat-dn-lon-co-khoi-tai-san-khung-2527512.html",
+        "source": "VietnamNet",
+        "summary_en": "LPBank Securities (LPBS), part of businessman Nguyễn Đức Thụy's family holdings, completed its initial public offering (IPO) by distributing over 141.75 million shares at 30,000 đồng per share, raising over 4.256 trillion đồng. The IPO increased LPBS's charter capital to over 14.086 trillion đồng, elevating it to the group of major securities companies. The second generation of the Nguyễn Đức Thụy family is gaining prominence in managing a large portfolio of companies and assets valued at significant scale.",
+        "summary_vn": "CTCP Chứng khoán LPBank (LPBS), thuộc khối tài sản của doanh nhân Nguyễn Đức Thụy, hoàn tất đợt chào bán cổ phiếu lần đầu ra công chúng (IPO) bằng cách phân phối hơn 141,75 triệu cổ phiếu với giá 30.000 đồng/cổ phiếu, thu về hơn 4.256 tỷ đồng. Đợt IPO nâng vốn điều lệ của LPBS lên trên 14.086 tỷ đồng, giúp công ty gia nhập nhóm các công ty chứng khoán hàng đầu. Thế hệ kế cận của gia đình Nguyễn Đức Thụy đang nổi lên trong vai trò quản lý một danh mục công ty và tài sản quy mô lớn.",
+        "pubDate": "Mon, 22 Jun 2026 06:39:36 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Giá vàng hôm nay 22/6/2026: Fed gây sức ép, vàng SJC khó tăng mạnh",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-22-6-2026-fed-gay-suc-ep-vang-sjc-kho-tang-manh-2527891.html",
+        "source": "VietnamNet",
+        "summary_en": "Global gold prices opened Monday at $4,210 USD/ounce and surged to a peak of $4,382 USD/ounce, driven by safe-haven demand amid U.S.-Iran tensions. The rally reversed after the U.S. Federal Reserve maintained interest rates at 3.5%-3.75% but signaled openness to further rate hikes. The Fed remains the primary driver of near-term gold price trends.",
+        "summary_vn": "Giá vàng thế giới mở phiên hôm thứ Hai ở mức 4.210 USD/ounce và tăng mạnh lên đỉnh 4.382 USD/ounce, được thúc đẩy bởi nhu cầu trú ẩn an toàn giữa căng thẳng Mỹ-Iran. Đà tăng đảo chiều sau khi Cục Dự trữ Liên bang Mỹ giữ lãi suất ở mức 3,5%-3,75% nhưng dâng hiệu để ngỏ khả năng nâng lãi suất. Fed tiếp tục là yếu tố chính chi phối xu hướng giá vàng trong ngắn hạn.",
+        "pubDate": "Mon, 22 Jun 2026 06:00:00 +0700",
+        "sentiment": -0.1,
+        "importance": 3
+      },
+      {
+        "title": "MSCI “trừ điểm” Indonesia, cơ hội nào cho Việt Nam?",
+        "url": "https://cafef.vn/msci-tru-diem-indonesia-co-hoi-nao-cho-viet-nam-188260621223633817.chn",
+        "source": "CafeF",
+        "summary_en": "MSCI has downgraded Indonesia's capital flow accessibility criteria to negative in its 2026 Market Accessibility Assessment, citing concerns about foreign investment capacity and transparency issues in shareholding structures. Vietnam remains positioned to potentially benefit from Indonesia's setback, though it must still demonstrate it meets MSCI's Emerging Markets classification standards. The assessment highlights structural challenges in Indonesia's investment environment that may create opportunities for competing markets.",
+        "summary_vn": "MSCI đã hạ tiêu chí luồng thông tin của Indonesia xuống mức tiêu cực trong báo cáo Đánh giá Khả năng Tiếp cận Thị trường Toàn cầu 2026, với lo ngại về khả năng đầu tư nước ngoài và vấn đề minh bạch trong cơ cấu sở hữu cổ phần. Việt Nam có cơ hội hưởng lợi từ những bất lợi của Indonesia, tuy nhiên vẫn phải chứng minh đạt tiêu chuẩn phân hạng Emerging Markets của MSCI. Báo cáo nhấn mạnh những thách thức cơ cấu trong môi trường đầu tư Indonesia có thể tạo cơ hội cho các thị trường cạnh tranh.",
+        "pubDate": "Mon, 22 Jun 26 00:05:00 +0700",
+        "sentiment": 0.0,
+        "importance": 4
+      }
+    ],
     "regulations": [
+      {
+        "title": "Kh&oacute;a SIM quyết liệt, v&igrave; sao SIM r&aacute;c vẫn c&ograve;n?",
+        "url": "https://thanhnien.vn/khoa-sim-quyet-liet-vi-sao-sim-rac-van-con-185260621220828021.htm",
+        "source": "ThanhNien",
+        "summary_en": "Following enforcement measures to block SIM cards, many Vietnamese mobile users are visiting carrier service centers to unlock their accounts. On Sunday June 21, MobiFone and other network operator outlets reported significant customer traffic seeking assistance with locked SIM cards. Some subscribers report having their SIM locked despite registering under their own names.",
+        "summary_vn": "Sau các biện pháp khóa SIM quyết liệt, nhiều thuê bao di động Việt Nam đến các điểm dịch vụ của nhà mạng để mở khóa tài khoản. Vào sáng chủ nhật 21.6, các cửa hàng MobiFone và các nhà mạng khác ghi nhận lượng khách hàng đông đúc đến tìm hỗ trợ về SIM bị khóa. Một số thuê bao báo cáo SIM của họ bị khóa mặc dù đã đăng ký chính chủ.",
+        "pubDate": "Mon, 22 Jun 26 06:00:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
+      {
+        "title": "Điện mặt trời gắn pin lưu trữ c&oacute; hiệu quả?",
+        "url": "https://thanhnien.vn/dien-mat-troi-gan-pin-luu-tru-co-hieu-qua-185260621222620653.htm",
+        "source": "ThanhNien",
+        "summary_en": "EVN states that installing energy storage systems on solar projects will increase total project investment costs, resulting in higher electricity prices compared to conventional solar plants. However, the investment efficiency and operational effectiveness of storage systems remain unclear. EVN recommends the Ministry of Industry and Trade clarify control rights, installation targets, and dispatch mechanisms for such projects.",
+        "summary_vn": "EVN cho rằng lắp đặt hệ thống lưu trữ năng lượng trên các dự án điện mặt trời sẽ làm tăng tổng chi phí đầu tư dự án, dẫn đến giá điện cao hơn so với các nhà máy điện mặt trời thông thường. Tuy nhiên, hiệu quả đầu tư và hiệu quả hoạt động của hệ thống lưu trữ vẫn chưa rõ ràng. EVN kiến nghị Bộ Công thương làm rõ các quyền kiểm soát, mục tiêu lắp đặt và các cơ chế điều khiển cho những dự án này.",
+        "pubDate": "Mon, 22 Jun 26 06:03:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Tin tức sáng 22-6: Từ ngày 1-7, người livestream bán hàng phải xác thực danh tính",
+        "url": "https://tuoitre.vn/tin-tuc-sang-22-6-tu-ngay-1-7-nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-100260621232355823.htm",
+        "source": "TuoiTre",
+        "summary_en": "Vietnam's new E-commerce Law will take effect on July 1, 2026, introducing stricter regulations on livestream selling and affiliate marketing. The law specifies responsibilities for e-commerce platform operators, including requirements for electronic identity verification of livestream sellers. Platforms must verify the identity of livestream sellers using VNeID (Vietnam's national digital identification system) before allowing sales broadcasts.",
+        "summary_vn": "Luật Thương mại điện tử sẽ có hiệu lực từ ngày 1-7-2026, áp dụng những quy định chặt chẽ hơn đối với livestream bán hàng và tiếp thị liên kết. Luật quy định trách nhiệm của chủ quản nền tảng thương mại điện tử, bao gồm yêu cầu xác thực danh tính điện tử người livestream bán hàng. Các nền tảng phải xác thực danh tính bằng VNeID (hệ thống định danh số quốc gia) trước khi cho phép thực hiện livestream bán hàng.",
+        "pubDate": "6/22/2026 4:48:00 AM",
+        "sentiment": 0.0,
+        "importance": 4
+      },
       {
         "title": "Toàn cảnh vụ lừa đảo kỳ nghỉ rúng động dư luận năm 2026",
         "url": "https://cafef.vn/toan-canh-vu-lua-dao-ky-nghi-rung-dong-du-luan-nam-2026-188260620214545124.chn",
@@ -93,36 +145,28 @@
         "pubDate": "Sun, 21 Jun 26 16:36:00 +0700",
         "sentiment": -0.8,
         "importance": 4
+      }
+    ],
+    "platforms": [
+      {
+        "title": "Cuộc chạy đua gom các trạm sạc lên app chung",
+        "url": "https://tuoitre.vn/cuoc-chay-dua-gom-cac-tram-sac-len-app-chung-100260621231243778.htm",
+        "source": "TuoiTre",
+        "summary_en": "Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam with at least 53,685 electric vehicles. V-Green, part of the Vingroup ecosystem, operates approximately 150,000 charging ports for electric cars and motorcycles across 34 provinces and cities, representing the largest market coverage. The article discusses the rapid growth of electric vehicles and the fragmented charging experience across different platforms.",
+        "summary_vn": "Thái Lan ghi nhận 57.147 ô tô thuần điện trong quý 1-2026, tiếp đó là Việt Nam với ít nhất 53.685 ô tô điện. V-Green thuộc hệ sinh thái Vingroup đang vận hành khoảng 150.000 cổng sạc ô tô và xe máy điện tại 34 tỉnh thành, tạo độ phủ sóng lớn nhất thị trường. Bài viết thảo luận về sự tăng trưởng nhanh của xe điện và trải nghiệm sạc không thống nhất trên các nền tảng khác nhau.",
+        "pubDate": "6/22/2026 4:30:00 AM",
+        "sentiment": 0.0,
+        "importance": 3
       },
       {
-        "title": "Nới trần vốn ngắn hạn cho vay dài hạn: Cơ hội đi kèm rủi ro thanh khoản",
-        "url": "https://cafef.vn/noi-tran-von-ngan-han-cho-vay-dai-han-co-hoi-di-kem-rui-ro-thanh-khoan-188260621144901632.chn",
-        "source": "CafeF",
-        "summary_en": "The proposal to increase the ratio of short-term capital for medium and long-term lending from 30% to 40% is assessed by experts as an appropriate adjustment to current conditions, creating additional credit headroom for the economy. However, alongside opportunities to support growth are liquidity risks and maturity mismatches that the banking system must control carefully. The article discusses both the opportunities and risks associated with this regulatory adjustment.",
-        "summary_vn": "Đề xuất nâng tỷ lệ vốn ngắn hạn cho vay trung, dài hạn từ 30% lên 40% được các chuyên gia đánh giá là bước điều chỉnh phù hợp với bối cảnh mới, tạo thêm dư địa tín dụng cho nền kinh tế. Tuy nhiên, đi cùng cơ hội hỗ trợ tăng trưởng là những rủi ro về thanh khoản và chênh lệch kỳ hạn mà hệ thống ngân hàng cần kiểm soát chặt chẽ. Bài viết thảo luận cả cơ hội và rủi ro liên quan đến điều chỉnh quy định này.",
-        "pubDate": "Sun, 21 Jun 26 16:44:00 +0700",
-        "sentiment": 0.0,
-        "importance": 4
-      },
-      {
-        "title": "Đồng Nai sẽ giảm hơn 1.170 thôn, ấp, khu phố sau sắp xếp",
-        "url": "https://cafef.vn/dong-nai-se-giam-hon-1170-thon-ap-khu-pho-sau-sap-xep-188260621073017578.chn",
-        "source": "CafeF",
-        "summary_en": "Dong Nai province plans to reduce administrative subdivisions as part of a consolidation initiative. According to the comprehensive plan, the province will decrease 1,172 hamlets, sub-hamlets, and urban wards, representing a 66.18% reduction from the current 1,771 units down to 599 units. This restructuring aims to streamline local governance.",
-        "summary_vn": "Tỉnh Đồng Nai lên kế hoạch giảm số lượng các đơn vị hành chính nhỏ trong một sáng kiến sắp xếp. Theo phương án tổng hợp, tỉnh sẽ giảm 1.172 thôn, ấp, khu phố, tương đương 66,18%, từ 1.771 đơn vị hiện tại xuống còn 599 đơn vị. Việc tái cấu trúc này nhằm hợp lý hóa quản lý địa phương.",
-        "pubDate": "Sun, 21 Jun 26 08:08:00 +0700",
-        "sentiment": 0.0,
+        "title": "Hàng nghìn bạn trẻ rủ nhau đi trải nghiệm AI, chơi e-sport tại ngày hội TechWorld",
+        "url": "https://tuoitre.vn/hang-nghin-ban-tre-ru-nhau-di-trai-nghiem-ai-choi-e-sport-tai-ngay-hoi-techworld-100260620180156509.htm",
+        "source": "TuoiTre",
+        "summary_en": "TechWorld by Thế Giới Di Động opened on June 20th as a large-scale technology festival featuring over 20 global laptop and smartphone brands including HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi, and vivo. The event, themed \"Opening the AI Era,\" offered young attendees opportunities to experience AI demonstrations, participate in e-sports tournaments, and receive promotional gifts. The festival served as an exhibition space showcasing technology exploration and gaming activities.",
+        "summary_vn": "Ngày hội TechWorld của Thế Giới Di Động khai mạc vào ngày 20-6 với quy mô lớn quy tụ hơn 20 thương hiệu laptop và điện thoại hàng đầu thế giới như HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi và vivo. Sự kiện có chủ đề \"Khai mở kỷ nguyên AI\" cung cấp cho khách tham quan những trải nghiệm AI, giải đấu e-sport và các ưu đãi quà tặng. Đây là một triển lãm quy mô lớn tập trung vào khám phá công nghệ và hoạt động giải trí.",
+        "pubDate": "6/21/2026 6:51:00 AM",
+        "sentiment": 0.7,
         "importance": 2
-      },
-      {
-        "title": "Gia hạn thuế 125.000 tỉ đồng: Hiệu quả nhưng chưa đủ",
-        "url": "https://cafef.vn/gia-han-thue-125000-ti-dong-hieu-qua-nhung-chua-du-188260621084234235.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's Finance Ministry is drafting a regulation to extend tax and land rental payment deadlines worth 125,000 billion Vietnamese dong. The extension is viewed as a flexible fiscal policy that improves cash flow and creates operational room for production and business activities. However, the measure is considered effective but insufficient to fully address current economic challenges.",
-        "summary_vn": "Bộ Tài chính Việt Nam đang soạn thảo Nghị định gia hạn thời hạn nộp thuế giá trị gia tăng và tiền thuê đất trị giá 125.000 tỉ đồng. Chính sách gia hạn này được xem là biện pháp tài khóa linh hoạt, cải thiện dòng tiền và tạo dư địa cho hoạt động sản xuất, kinh doanh. Tuy nhiên, biện pháp được đánh giá là có hiệu quả nhưng chưa đủ để giải quyết hoàn toàn thách thức kinh tế hiện tại.",
-        "pubDate": "Sun, 21 Jun 26 09:04:00 +0700",
-        "sentiment": 0.3,
-        "importance": 4
       }
     ],
     "payments": [
@@ -135,16 +179,6 @@
         "pubDate": "Sun, 21 Jun 26 16:49:00 +0700",
         "sentiment": 0.2,
         "importance": 3
-      },
-      {
-        "title": "Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng",
-        "url": "https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html",
-        "source": "VnExpress",
-        "summary_en": "Techcombank customers can accumulate U-Points from daily financial activities including bill payments, transfers, card spending, international money transfers, and use of ecosystem products like Techcombank Mobile and OneU. The points program allows customers to earn rewards alongside regular transaction needs without requiring changes to spending habits. Each U-Point equals one Vietnamese dong and can be used for QR code payments at stores or redeemed for vouchers.",
-        "summary_vn": "Khách hàng Techcombank có thể tích lũy U-Point từ các hoạt động tài chính hàng ngày như thanh toán hóa đơn, chuyển khoản, chi tiêu qua thẻ, chuyển tiền quốc tế và sử dụng các sản phẩm hệ sinh thái như Techcombank Mobile và OneU. Chương trình điểm thưởng cho phép khách hàng tích lũy phần thưởng song song với các nhu cầu giao dịch thường nhật mà không cần thay đổi thói quen chi tiêu. Mỗi U-Point có giá trị tương đương một đồng và có thể dùng thanh toán QR tại các cửa hàng hoặc đổi lấy voucher.",
-        "pubDate": "Sun, 21 Jun 2026 19:00:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
       }
     ],
     "logistics": [
@@ -177,50 +211,6 @@
         "pubDate": "Sun, 21 Jun 26 14:45:00 +0700",
         "sentiment": 0.3,
         "importance": 3
-      },
-      {
-        "title": "Toàn cảnh đường vượt biển Cần Giờ - Vũng Tàu: Khép vòng hạ tầng chiến lược TP.HCM",
-        "url": "https://tuoitre.vn/toan-canh-duong-vuot-bien-can-gio-vung-tau-khep-vong-ha-tang-chien-luoc-tphcm-100260619142943654.htm",
-        "source": "TuoiTre",
-        "summary_en": "Ho Chi Minh City's People's Council has approved an investment plan for the Can Gio-Vung Tau sea bridge, which will connect the two shores of Ghanh Rai Bay. This is Vietnam's first project combining a bridge, tunnel entrance area, and undersea tunnel. The project represents Ho Chi Minh City's ambition to complete a modern infrastructure loop following its recent administrative merger.",
-        "summary_vn": "HĐND TP.HCM vừa thông qua chủ trương đầu tư cho đường vượt biển Cần Giờ - Vũng Tàu, nối hai bờ vịnh Ghềnh Rái. Đây là công trình đầu tiên tại Việt Nam kết hợp cầu, khu vực cửa hầm và hầm vượt biển. Dự án thể hiện khát vọng của TP.HCM trong việc khép vòng hạ tầng hiện đại sau sáp nhập hành chính gần đây.",
-        "pubDate": "6/21/2026 8:16:00 AM",
-        "sentiment": 0.5,
-        "importance": 4
-      }
-    ],
-    "consumers": [
-      {
-        "title": "Ngành đồ uống trước yêu cầu mới: Không chỉ bán sản phẩm, mà còn phải góp phần thay đổi hành vi tiêu dùng",
-        "url": "https://cafef.vn/nganh-do-uong-truoc-yeu-cau-moi-khong-chi-ban-san-pham-ma-con-phai-gop-phan-thay-doi-hanh-vi-tieu-dung-188260621105036872.chn",
-        "source": "CafeF",
-        "summary_en": "The beverages industry faces new requirements to go beyond selling products and contribute to changing consumer behavior. As preventive health care becomes increasingly important, equipping young people with specific health knowledge—such as understanding nutrition needs, reading food labels, identifying sugar content, alcohol concentration, and responsible consumption—is becoming a key part of modern lifestyle. A forum addressing these topics was held on June 18, 2026 at a university.",
-        "summary_vn": "Ngành đồ uống phải đáp ứng yêu cầu mới không chỉ bán sản phẩm mà còn phải góp phần thay đổi hành vi tiêu dùng. Khi y tế dự phòng ngày càng được coi trọng, việc cung cấp kiến thức sức khỏe cụ thể cho thanh niên—như hiểu nhu cầu dinh dưỡng, đọc nhãn thực phẩm, nhận diện lượng đường, nồng độ cồn và tiêu dùng có trách nhiệm—đang trở thành phần quan trọng của lối sống hiện đại. Một diễn đàn về chủ đề này đã được tổ chức vào ngày 18/6/2026 tại một trường đại học.",
-        "pubDate": "Sun, 21 Jun 26 10:50:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Sản phẩm giới hạn, chiến dịch tương tác đua 'bắt sóng' World Cup 2026",
-        "url": "https://tuoitre.vn/san-pham-gioi-han-chien-dich-tuong-tac-dua-bat-song-world-cup-2026-100260621074650441.htm",
-        "source": "TuoiTre",
-        "summary_en": "Food and beverage companies are releasing exclusive products with limited packaging and interactive campaigns tied to World Cup 2026, aiming to deepen long-term customer brand loyalty rather than pursue short-term sales spikes. A 34-year-old football fan from Vietnam shares that despite inconvenient broadcast times preventing him from watching live matches, he and his family actively collect limited-edition World Cup product variants. The strategy extends the tournament's brief promotional window into a longer engagement period through collectible merchandise.",
-        "summary_vn": "Các công ty thực phẩm và đồ uống đang phát hành sản phẩm độc quyền với bao bì giới hạn và các chiến dịch tương tác liên quan đến World Cup 2026, nhằm tăng cường lòng trung thành thương hiệu của khách hàng dài hạn hơn là theo đuổi mục tiêu tăng doanh số ngắn hạn. Một fan bóng đá 34 tuổi từ Việt Nam chia sẻ rằng mặc dù thời gian phát sóng không thuận tiện khiến anh không thể xem trực tiếp, anh và gia đình vẫn chủ động sưu tập các phiên bản giới hạn của sản phẩm World Cup. Chiến lược này kéo dài cơ hội quảng cáo ngắn hạn của giải đấu thành một giai đoạn gắn kết lâu dài thông qua hàng hóa có thể sưu tập.",
-        "pubDate": "6/21/2026 9:37:00 AM",
-        "sentiment": 0.3,
-        "importance": 2
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Hàng nghìn bạn trẻ rủ nhau đi trải nghiệm AI, chơi e-sport tại ngày hội TechWorld",
-        "url": "https://tuoitre.vn/hang-nghin-ban-tre-ru-nhau-di-trai-nghiem-ai-choi-e-sport-tai-ngay-hoi-techworld-100260620180156509.htm",
-        "source": "TuoiTre",
-        "summary_en": "TechWorld by Thế Giới Di Động opened on June 20th as a large-scale technology festival featuring over 20 global laptop and smartphone brands including HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi, and vivo. The event, themed \"Opening the AI Era,\" offered young attendees opportunities to experience AI demonstrations, participate in e-sports tournaments, and receive promotional gifts. The festival served as an exhibition space showcasing technology exploration and gaming activities.",
-        "summary_vn": "Ngày hội TechWorld của Thế Giới Di Động khai mạc vào ngày 20-6 với quy mô lớn quy tụ hơn 20 thương hiệu laptop và điện thoại hàng đầu thế giới như HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi và vivo. Sự kiện có chủ đề \"Khai mở kỷ nguyên AI\" cung cấp cho khách tham quan những trải nghiệm AI, giải đấu e-sport và các ưu đãi quà tặng. Đây là một triển lãm quy mô lớn tập trung vào khám phá công nghệ và hoạt động giải trí.",
-        "pubDate": "6/21/2026 6:51:00 AM",
-        "sentiment": 0.7,
-        "importance": 2
       }
     ]
   }

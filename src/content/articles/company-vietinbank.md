@@ -1,8 +1,8 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-06-21"
-lastUpdated: "2026-06-21"
+publishedDate: "2026-06-22"
+lastUpdated: "2026-06-22"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Chuyên gia Ernst & Young: Tương lai ngân hàng số không nằm ở số lượng khách hàng, mà ở khả năng hiện diện trong từng giao dịch](https://cafef.vn/chuyen-gia-ernst-young-tuong-lai-ngan-hang-so-khong-nam-o-so-luong-khach-hang-ma-o-kha-nang-hien-dien-trong-tung-giao-dich-18826062116522503.chn) — CafeF
 - [Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm) — ThanhNien
-- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 
