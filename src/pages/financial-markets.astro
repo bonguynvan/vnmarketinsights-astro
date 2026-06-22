@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 import BarChart from '@components/BarChart.astro';
+import CiteThis from '@components/CiteThis.astro';
 import RecentDevelopments from '@components/RecentDevelopments.astro';
 
 const title = "Vietnam Stock Market 2026 — VN-Index, Exchanges & Investment Data";
@@ -144,6 +145,8 @@ const faqSchema = {
       <a href="/topics">All topics</a> · <a href="/regulations">Regulations</a> · <a href="/">Home</a>
     </p>
   </article>
+
+  <CiteThis title="Vietnam Stock Market 2026" url={canonicalURL} updated="June 2026" />
 
   <RecentDevelopments topic="financial-markets" />
 

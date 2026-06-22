@@ -1,0 +1,55 @@
+---
+// "Cite this" block — gives journalists/bloggers a ready-to-copy citation so
+// they attribute with a link. A Track-1 authority asset (see
+// docs/AUTHORITY-AND-OUTREACH-PLAN.md).
+interface Props {
+  title: string;
+  url: string;        // canonical URL of the page
+  updated?: string;   // e.g. "June 2026"
+}
+const { title, url, updated } = Astro.props;
+const year = (updated && /\d{4}/.exec(updated)?.[0]) || '2026';
+const citation = `Vietnam Market Insights. (${year}). ${title}. Retrieved from ${url}`;
+---
+
+<aside class="cite-this" aria-label="Cite this report">
+  <div class="cite-this__head">
+    <span class="kicker">Cite this report</span>
+    <button type="button" class="cite-this__copy" data-cite={citation}>Copy citation</button>
+  </div>
+  <p class="cite-this__text">{citation}</p>
+  {updated && <p class="cite-this__meta">Last reviewed {updated}. Free to cite with attribution and a link.</p>}
+</aside>
+
+<script is:inline>
+  document.querySelectorAll('.cite-this__copy').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(btn.getAttribute('data-cite') || '');
+        const t = btn.textContent;
+        btn.textContent = 'Copied';
+        setTimeout(() => { btn.textContent = t; }, 1500);
+      } catch { /* clipboard unavailable */ }
+    });
+  });
+</script>
+
+<style>
+  .cite-this {
+    margin: var(--space-8, 2rem) 0;
+    padding: var(--space-5, 1.25rem);
+    border: 1px solid var(--color-border, #d7dde5);
+    border-left: 3px solid var(--color-accent, #c0392b);
+    border-radius: 2px;
+    background: var(--color-bg-subtle, #eef1f5);
+  }
+  .cite-this__head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-bottom: var(--space-3, 0.75rem); }
+  .cite-this__copy {
+    font-size: var(--text-xs, 0.75rem); font-weight: 600; padding: 0.35rem 0.7rem;
+    border: 1px solid var(--color-border, #d7dde5); border-radius: 2px; background: var(--color-bg, #fff);
+    color: var(--color-text, #11161d); cursor: pointer;
+  }
+  .cite-this__copy:hover { border-color: var(--color-accent, #c0392b); color: var(--color-accent, #c0392b); }
+  .cite-this__text { margin: 0; font-family: var(--font-serif, Georgia, serif); font-size: var(--text-sm, 0.875rem); line-height: 1.55; color: var(--color-text, #11161d); }
+  .cite-this__meta { margin: var(--space-2, 0.5rem) 0 0; font-size: var(--text-xs, 0.75rem); color: var(--color-text-muted, #5c554a); }
+</style>

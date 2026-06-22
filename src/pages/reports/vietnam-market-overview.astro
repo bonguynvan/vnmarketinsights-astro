@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 import BarChart from '@components/BarChart.astro';
+import CiteThis from '@components/CiteThis.astro';
 
 const title = "Vietnam Market Overview 2026 — Economy, Sectors & Data Report";
 const description = "A free Vietnam market overview for 2026: GDP and macro data, trade and FDI, and sector reports on payments, e-commerce, financial markets, logistics, and consumers — with sources.";
@@ -107,6 +108,8 @@ const reportSchema = {
         ))}
       </ul>
     </section>
+
+    <CiteThis title="Vietnam Market Overview 2026" url={canonical} updated="June 2026" />
 
     <section>
       <h2>More data & tools</h2>

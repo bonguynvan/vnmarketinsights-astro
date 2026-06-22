@@ -2,6 +2,7 @@
 import CanonicalLayout from '../layouts/CanonicalLayout.astro';
 import DataTable from '../components/DataTable.astro';
 import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
@@ -364,6 +365,8 @@ const faqs = [
       caption="Payment System Projections"
     />
   </section>
+
+  <CiteThis title="Vietnam Payments Market 2026" url={canonicalURL} updated="June 2026" />
 
   <RecentDevelopments topic="payments" />
 

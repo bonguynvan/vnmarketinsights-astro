@@ -1,6 +1,7 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
 import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
@@ -100,6 +101,8 @@ const faqs = [
       <li>The Investor / Vietnam News — 2025 retail market value and growth</li>
     </ul>
   </section>
+
+  <CiteThis title="Vietnam Retail Market 2026" url={canonicalURL} updated="June 2026" />
 
   <RecentDevelopments topic="ecommerce" title="Recent retail & commerce developments" />
 </TopicLayout>

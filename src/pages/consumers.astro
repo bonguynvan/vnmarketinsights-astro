@@ -1,6 +1,7 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
 import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
@@ -161,6 +162,8 @@ const relatedTopics = getRelatedTopics('consumers');
       <li>Ministry of Planning and Investment socioeconomic data</li>
     </ul>
   </section>
+
+  <CiteThis title="Vietnam Consumer Market 2026" url="https://vnmarketinsights.com/consumers" updated="June 2026" />
 
   <RecentDevelopments topic="consumers" />
 

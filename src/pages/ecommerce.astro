@@ -2,6 +2,7 @@
 import TopicLayout from '../layouts/TopicLayout.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 // Title is year-pinned to signal freshness and capture year-based queries.
@@ -175,6 +176,8 @@ const faqs = [
       <li>Vietnam News Agency and VnExpress business coverage</li>
     </ul>
   </section>
+
+  <CiteThis title="Vietnam E-commerce Market 2026" url="https://vnmarketinsights.com/ecommerce" updated="June 2026" />
 
   <RecentDevelopments topic="ecommerce" />
 
