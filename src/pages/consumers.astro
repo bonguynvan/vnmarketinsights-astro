@@ -1,15 +1,17 @@
 ---
 import TopicLayout from '../layouts/TopicLayout.astro';
+import BarChart from '../components/BarChart.astro';
 import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
-const title = "Vietnam Consumers — Demographics, Behavior & Spending (2026)";
-const lastUpdated = "February 2026";
+const title = "Vietnam Consumer Market 2026 — Demographics, Spending & Digital Behavior";
+const description = "Vietnam consumer market report: population and demographics, internet and social reach, online shopping behavior, spending, and 2025 data with sources.";
+const lastUpdated = "June 2026";
 
 const relatedTopics = getRelatedTopics('consumers');
 ---
 
-<TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics}>
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} relatedTopics={relatedTopics}>
   <p class="topic-definition">
     <strong>Vietnamese consumers</strong> are a market of approximately <strong>100 million people</strong> characterized by a young median age (~33), rapid urbanization, and rising disposable incomes. Gen Z and Millennials drive digital-first spending across e-commerce, food delivery, mobile payments, and entertainment, while traditional retail formats remain significant in tier-2 and tier-3 cities. Household spending is concentrated in food, transport, housing, and increasingly on personal care, electronics, and travel.
   </p>
@@ -27,6 +29,18 @@ const relatedTopics = getRelatedTopics('consumers');
       Digital adoption is high across all age groups, with mobile devices serving as the
       primary access point for information, social connection, and commerce.
     </p>
+    <BarChart
+      title="Vietnam digital reach (millions, early 2025)"
+      data={[
+        { label: 'Mobile connections', value: 127, display: '127M' },
+        { label: 'Population', value: 101, display: '~101M' },
+        { label: 'Smartphone users', value: 84, display: '~84M' },
+        { label: 'Internet users', value: 79.8, display: '79.8M' },
+        { label: 'Social media identities', value: 76.2, display: '76.2M' },
+      ]}
+      source="DataReportal Digital 2025; GSO"
+      caption="A young, mobile-first population: internet penetration is ~79% and social reach ~75%."
+    />
   </section>
 
   <section>
