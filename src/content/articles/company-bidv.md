@@ -9,9 +9,21 @@ readingTime: 3
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**BIDV phối hợp tổ chức vận hành sàn giao dịch các-bon trong nước**  
+
+BIDV participated in a coordination agreement signing ceremony on June 22, 2026, in Hanoi for organizing operations of Vietnam's domestic carbon trading exchange. The ceremony was chaired by the Climate Change Department (Ministry of Agriculture and Environment) and involved relevant government agencies and market participants. The agreement establishes the framework for operating the carbon trading exchange in Vietnam.
+
+- Source: [CafeF](https://cafef.vn/bidv-phoi-hop-to-chuc-van-hanh-san-giao-dich-cac-bon-trong-nuoc-188260622190704925.chn)
+
+**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
 
 **Việt Nam có ngân hàng thứ hai đạt mốc tài sản 3 triệu tỷ đồng**  
 
@@ -71,8 +83,8 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
-- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
+- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 
 ---
 

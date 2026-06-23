@@ -9,9 +9,21 @@ readingTime: 3
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**CEO Techcombank: Biến động năng lượng toàn cầu không làm chệch hướng tăng trưởng của Việt Nam**  
+
+Techcombank CEO Jens Lottner stated in a CNBC interview that Vietnam's economy remains on a growth trajectory despite inflationary pressures and volatility in global energy markets. He noted that major economic drivers and large businesses in Vietnam have not yet recorded significant impacts from these external pressures. The CEO emphasized that Vietnam's economic leadership remains committed to their strategic directions.
+
+- Source: [CafeF](https://cafef.vn/ceo-techcombank-bien-dong-nang-luong-toan-cau-khong-lam-chech-huong-tang-truong-cua-viet-nam-188260623121345033.chn)
+
+**LPBank có gì đặc biệt?**  
+
+LPBank is described as a private bank with Vietnam's largest transaction network among private banks, operating over 1,000 service points nationwide. The bank has attracted attention for consistently leading the banking sector in cash dividend distributions. Related developments include share price movements and shareholder dividend announcements in the 2026 period.
+
+- Source: [CafeF](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn)
 
 **Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng**  
 
@@ -33,10 +45,10 @@ Techcombank OneU is promoting its credit card with a World Cup 2026 campaign tha
 
 ## Related coverage
 
+- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Sacombank muốn huy động lượng tiền lớn từ trái phiếu](https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn) — CafeF
-- [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
-- [Tin tức sáng 21-6: Chủ tịch nước tặng quà dịp 27-7 cho hơn 1,56 triệu người có công](https://tuoitre.vn/tin-tuc-sang-21-6-chu-tich-nuoc-tang-qua-dip-27-7-cho-hon-156-trieu-nguoi-co-cong-100260620165730075.htm) — TuoiTre
-- [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

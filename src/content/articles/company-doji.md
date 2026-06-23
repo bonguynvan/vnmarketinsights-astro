@@ -41,8 +41,8 @@ Gold prices in Vietnam fell sharply on the morning of June 19, with bar gold dec
 
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn) — CafeF
-- [Gi&aacute; v&agrave;ng h&ocirc;m nay 21.6.2026: Tăng sau một tuần nhưng người mua vẫn lỗ gần 3 triệu](https://thanhnien.vn/gia-vang-hom-nay-2162026-tang-sau-mot-tuan-nhung-nguoi-mua-van-lo-gan-3-trieu-1852606201648044.htm) — ThanhNien
-- [Giá vàng hôm nay tiếp tục tăng dựng đứng, người cầm vàng lãi đậm chỉ sau một đêm](https://cafef.vn/gia-vang-hom-nay-tiep-tuc-tang-dung-dung-nguoi-cam-vang-lai-dam-chi-sau-mot-dem-188251224141910578.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn ngày 23/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-23-6-188260623075116912.chn) — CafeF
 
 ---
 

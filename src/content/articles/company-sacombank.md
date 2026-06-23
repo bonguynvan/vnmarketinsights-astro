@@ -9,9 +9,15 @@ readingTime: 3
 
 # Sacombank
 
-Recent Vietnam market news mentioning **Sacombank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sacombank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
 
 **Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
 

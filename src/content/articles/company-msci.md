@@ -35,8 +35,8 @@ An expert discusses three industry groups expected to attract capital inflows du
 
 - [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
 - [Góc nhìn chuyên gia: Chứng khoán đối diện "cơn gió ngược", tập trung đi tìm những nhóm ngành tăng trưởng lợi nhuận 2 chữ số trong quý 2](https://cafef.vn/goc-nhin-chuyen-gia-chung-khoan-doi-dien-con-gio-nguoc-tap-trung-di-tim-nhung-nhom-nganh-tang-truong-loi-nhuan-2-chu-so-trong-quy-2-188260621114824756.chn) — CafeF
+- ['Chìa khóa' giúp Việt Nam mở 'cánh cửa' tăng trưởng hai con số](https://cafef.vn/chia-khoa-giup-viet-nam-mo-canh-cua-tang-truong-hai-con-so-188260623095330913.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Chuyên gia Ba Lan: 95% nền kinh tế thế giới mong có những lợi thế như Việt Nam](https://cafef.vn/chuyen-gia-ba-lan-95-nen-kinh-te-the-gioi-mong-co-nhung-loi-the-nhu-viet-nam-18826062214245758.chn) — CafeF
 
 ---
 

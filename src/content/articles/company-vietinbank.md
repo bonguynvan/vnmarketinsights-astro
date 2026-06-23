@@ -9,9 +9,21 @@ readingTime: 3
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
+
+**EVN phát cảnh báo khẩn, người dân cả nước cần đặc biệt cẩn thận để tránh mất trắng tiền trong tài khoản**  
+
+EVN issued an urgent national warning about a new fraud scheme targeting consumers. The alert advises people nationwide to be cautious to avoid losing money from their bank accounts. Additional warnings mentioned potential closure of accounts at banks including Agribank, MB, Vietcombank, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/evn-phat-canh-bao-khan-nguoi-dan-ca-nuoc-can-dac-biet-can-than-de-tranh-mat-trang-tien-trong-tai-khoan-188260623161609226.chn)
 
 **Một ngân hàng được dự báo lợi nhuận tăng gấp đôi trong năm 2026**  
 
@@ -65,8 +77,8 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
-- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
-- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
+- [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
+- [Một cổ phiếu ngân hàng được thỏa thuận đột biến trong phiên 23/6, hơn 7.500 tỷ đồng được trao tay](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-thoa-thuan-dot-bien-trong-phien-23-6-hon-7500-ty-dong-duoc-trao-tay-18826062316154226.chn) — CafeF
 
 ---
 

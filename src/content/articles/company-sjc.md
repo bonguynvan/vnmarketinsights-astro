@@ -52,9 +52,9 @@ Domestic gold prices fell further by approximately 600,000 VND per tael on the a
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn ngày 23/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-23-6-188260623075116912.chn) — CafeF
 - [Giá vàng hôm nay tiếp tục tăng dựng đứng, người cầm vàng lãi đậm chỉ sau một đêm](https://cafef.vn/gia-vang-hom-nay-tiep-tuc-tang-dung-dung-nguoi-cam-vang-lai-dam-chi-sau-mot-dem-188251224141910578.chn) — CafeF
-- [Giá vàng hôm nay 21/6/2026 đà giảm, vàng miếng SJC hụt hơi trước mốc 150 triệu đồng](https://vietnamnet.vn/gia-vang-hom-nay-21-6-2026-da-giam-vang-mieng-sjc-hut-hoi-truoc-moc-150-trieu-2527782.html) — VietnamNet
-- [Giá bạc hôm nay 22/6/2026 giảm mạnh 3 triệu/kg, bạc thế giới thủng đáy 6 tháng](https://vietnamnet.vn/gia-bac-hom-nay-22-6-2026-giam-manh-3-trieu-kg-bac-the-gioi-thung-day-6-thang-2527932.html) — VietnamNet
 
 ---
 

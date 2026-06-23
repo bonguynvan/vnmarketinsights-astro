@@ -9,9 +9,15 @@ readingTime: 3
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**EVN phát cảnh báo khẩn, người dân cả nước cần đặc biệt cẩn thận để tránh mất trắng tiền trong tài khoản**  
+
+EVN issued an urgent national warning about a new fraud scheme targeting consumers. The alert advises people nationwide to be cautious to avoid losing money from their bank accounts. Additional warnings mentioned potential closure of accounts at banks including Agribank, MB, Vietcombank, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/evn-phat-canh-bao-khan-nguoi-dan-ca-nuoc-can-dac-biet-can-than-de-tranh-mat-trang-tien-trong-tai-khoan-188260623161609226.chn)
 
 **Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng**  
 
@@ -35,8 +41,8 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 
 ---
 
