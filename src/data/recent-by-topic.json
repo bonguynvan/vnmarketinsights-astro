@@ -1,7 +1,175 @@
 {
-  "generatedAt": "2026-06-22T00:09:10.952807+00:00",
+  "generatedAt": "2026-06-23T00:04:49.199501+00:00",
   "topics": {
+    "regulations": [
+      {
+        "title": "Tiếp cận vốn ngân hàng: Vì sao doanh nghiệp nhỏ và vừa vẫn gặp khó?",
+        "url": "https://cafef.vn/tiep-can-von-ngan-hang-vi-sao-doanh-nghiep-nho-va-vua-van-gap-kho-18826062015431861.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese small and medium enterprises (SMEs) continue to face difficulties in accessing bank capital. A conference on SME financing brought together government agencies, financial organizations, experts, and businesses to discuss solutions and policy orientation. The dialogue highlighted both capital access challenges and the need for enterprises to quickly adapt to changing economic and financial policies.",
+        "summary_vn": "Doanh nghiệp nhỏ và vừa (SME) Việt Nam tiếp tục gặp khó khăn trong việc tiếp cận vốn từ các ngân hàng. Một hội nghị về tài chính SME đã tập hợp các cơ quan chính phủ, tổ chức tài chính, chuyên gia và doanh nghiệp để thảo luận các giải pháp và định hướng chính sách. Cuộc đối thoại nhấn mạnh cả những thách thức trong tiếp cận vốn và nhu cầu của doanh nghiệp phải thích ứng nhanh với những thay đổi trong chính sách kinh tế và tài chính.",
+        "pubDate": "Mon, 22 Jun 26 07:41:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "TPHCM: Giám đốc ngân hàng dùng hợp đồng giả cách \"bẫy\" khách hàng",
+        "url": "https://cafef.vn/tphcm-giam-doc-ngan-hang-dung-hop-dong-gia-cach-bay-khach-hang-188260622150101093.chn",
+        "source": "CafeF",
+        "summary_en": "A bank director in Ho Chi Minh City used fraudulent contracts to deceive customers and misappropriate 17.3 billion Vietnamese dong. Trần Tuấn exploited his position and customer trust to commit a series of fraudulent acts. The case was brought to trial at the Ho Chi Minh City People's Court on June 22, with charges of fraud and embezzlement.",
+        "summary_vn": "Một giám đốc ngân hàng tại TPHCM đã sử dụng các hợp đồng giả để lừa dối khách hàng và chiếm đoạt 17,3 tỉ đồng. Trần Tuấn lợi dụng vị trí công tác và lòng tin của khách hàng để thực hiện chuỗi hành vi gian dối. Vụ án được đưa ra xét xử tại TAND TPHCM ngày 22-6 với tội danh lừa đảo chiếm đoạt tài sản.",
+        "pubDate": "Mon, 22 Jun 26 15:58:00 +0700",
+        "sentiment": -1.0,
+        "importance": 4
+      },
+      {
+        "title": "Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%",
+        "url": "https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's State Bank officially raised the maximum ratio of short-term capital that banks can use for medium and long-term lending from 30% to 40%, effective July 1st. The central bank also adjusted the calculation method for the loan-to-deposit ratio (LDR). This regulatory change aims to improve banks' ability to finance longer-term lending needs.",
+        "summary_vn": "Ngân hàng Nhà nước Việt Nam chính thức nâng tỷ lệ tối đa nguồn vốn ngắn hạn được sử dụng cho vay trung và dài hạn từ 30% lên 40%, có hiệu lực từ ngày 1/7. Đồng thời, ngân hàng trung ương cũng điều chỉnh cách tính tỷ lệ dư nợ cho vay trên tổng tiền gửi (LDR). Thay đổi quy định này nhằm nâng cao khả năng cấp tín dụng dài hạn của các ngân hàng.",
+        "pubDate": "Mon, 22 Jun 26 17:14:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Chi tiết lịch chi trả lương hưu, trợ cấp của 34 tỉnh, thành",
+        "url": "https://cafef.vn/chi-tiet-lich-chi-tra-luong-huu-tro-cap-cua-34-tinh-thanh-18826062208010752.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's social insurance (BHXH) has announced a unified schedule for disbursing pensions and allowances in July 2026 across 34 provinces and cities. Payments will be transferred to personal accounts or distributed directly at designated payment points starting from the beginning of the month. Social insurance branches in 21 provinces and cities will process transfers to personal accounts on the first working day of the month.",
+        "summary_vn": "Bảo hiểm xã hội Việt Nam công bố lịch chi trả lương hưu, trợ cấp BHXH tháng 7-2026 theo lịch thống nhất trên 34 tỉnh, thành phố. Các khoản chi trả sẽ được chuyển vào tài khoản cá nhân hoặc phát trực tiếp tại các điểm chi trả từ đầu tháng. Chi nhánh BHXH tại 21 tỉnh, thành phố sẽ thực hiện chuyển khoản vào ngày làm việc đầu tiên của tháng.",
+        "pubDate": "Mon, 22 Jun 26 08:02:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Quy định mới: Chung cư bắt buộc phải có khu riêng cho ô tô, xe máy điện",
+        "url": "https://cafef.vn/quy-dinh-moi-chung-cu-bat-buoc-phai-co-khu-rieng-cho-o-to-xe-may-dien-188260622081140438.chn",
+        "source": "CafeF",
+        "summary_en": "Starting December 15, 2026, new and existing apartment buildings in Vietnam must comply with new requirements for dedicated parking areas, charging stations, and battery-swapping facilities for electric vehicles. These regulations aim to strengthen fire safety standards as the number of electric vehicles continues to increase. The new rules apply to all apartment complexes regardless of whether they are newly constructed or already operational.",
+        "summary_vn": "Từ ngày 15/12/2026, các chung cư mới và hiện hữu sẽ phải tuân thủ các yêu cầu mới về bố trí khu vực đỗ xe, sạc điện và đổi pin dành cho phương tiện điện. Các quy định này nhằm tăng cường an toàn phòng cháy chữa cháy trong bối cảnh số lượng xe điện ngày càng gia tăng. Những quy định mới này áp dụng cho tất cả các chung cư, bất kể là chung cư mới xây hay chung cư hiện hữu.",
+        "pubDate": "Mon, 22 Jun 26 08:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Suy giảm khả năng lao động, điều kiện nào để hưởng lương hưu?",
+        "url": "https://cafef.vn/suy-giam-kha-nang-lao-dong-dieu-kien-nao-de-huong-luong-huu-188260622081553484.chn",
+        "source": "CafeF",
+        "summary_en": "Workers with reduced work capacity of 61% or higher must still meet social insurance contribution duration requirements to receive pension benefits. The article clarifies conditions for pension eligibility among those with work capacity decline. Administrative procedures and payment schedules for pension benefits across 34 provinces and cities are detailed.",
+        "summary_vn": "Người lao động suy giảm khả năng lao động từ 61% trở lên vẫn phải đáp ứng điều kiện về thời gian đóng BHXH để hưởng lương hưu. Bài viết làm rõ các điều kiện được hưởng lương hưu đối với những người suy giảm khả năng lao động. Lịch chi trả lương hưu và trợ cấp được công bố chi tiết cho 34 tỉnh, thành phố.",
+        "pubDate": "Mon, 22 Jun 26 09:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "KienlongBank chốt ngày chia cổ tức 29,5%",
+        "url": "https://cafef.vn/kienlongbank-chot-ngay-chia-co-tuc-295-188260621221215517.chn",
+        "source": "CafeF",
+        "summary_en": "KienlongBank announced a dividend payout ratio of 29.5% scheduled for early July 2026. The bank's stock (KLB) will mark six months of listing on HOSE from its first trading day on January 15, 2026, becoming eligible for margin trading. The record date for dividend eligibility is set for July 6, 2026, with the bank planning to issue over 170 million shares.",
+        "summary_vn": "KienlongBank công bố kế hoạch chia cổ tức với tỷ lệ 29,5% vào đầu tháng 7/2026. Cổ phiếu KLB sẽ đạt mức 6 tháng niêm yết trên HOSE kể từ ngày giao dịch đầu tiên 15/01/2026, đủ điều kiện cấp margin. Ngày chốt danh sách cổ đông hưởng quyền nhận cổ tức bằng cổ phiếu là 06/07/2026, với Ngân hàng dự kiến phát hành hơn 170 triệu cổ phiếu.",
+        "pubDate": "Mon, 22 Jun 26 07:56:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
+      {
+        "title": "Top 1.000 nhà băng lớn nhất thế giới: Singapore có 7, Thái Lan có 10, Việt Nam gây bất ngờ lớn",
+        "url": "https://cafef.vn/top-1000-nha-bang-lon-nhat-the-gioi-singapore-co-7-thai-lan-co-10-viet-nam-gay-bat-ngo-lon-188260621182954991.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam has 23 banks ranked among the top 1,000 largest banks in the world according to The Asian Banker's 2025 rankings (AB1000), significantly ahead of other ASEAN nations. The nine ASEAN countries collectively have 84 banks in the global rankings. Vietnamese banks show average return on equity (ROE) performance that outperforms many peers in the ASEAN region, though the article notes two significant weaknesses.",
+        "summary_vn": "Theo bảng xếp hạng 1000 ngân hàng lớn nhất thế giới năm 2025 của The Asian Banker (AB1000), Việt Nam có 23 ngân hàng nằm trong danh sách này, vượt xa các nước ASEAN khác. Chín quốc gia ASEAN cộng lại có 84 ngân hàng trong bảng xếp hạng toàn cầu. Các ngân hàng Việt Nam có lợi suất trên vốn chủ sở hữu (ROE) trung bình vượt trội so với nhiều đối thủ cạnh tranh trong khu vực ASEAN, tuy nhiên bài viết cũng chỉ ra hai điểm yếu đáng kể.",
+        "pubDate": "Mon, 22 Jun 26 09:12:00 +0700",
+        "sentiment": 0.3,
+        "importance": 4
+      },
+      {
+        "title": "Một ngân hàng được dự báo lợi nhuận tăng gấp đôi trong năm 2026",
+        "url": "https://cafef.vn/mot-ngan-hang-duoc-du-bao-loi-nhuan-tang-gap-doi-trong-nam-2026-188260622105713761.chn",
+        "source": "CafeF",
+        "summary_en": "A bank is projected to see pre-tax profit of 15.232 trillion Vietnamese dong in 2026, representing a 100% increase compared to the previous year. The projection indicates significant earnings growth for the financial institution in the forecast period. Additional banking sector forecasts suggest varied performance across different banks in the same timeframe.",
+        "summary_vn": "Một ngân hàng được dự báo lợi nhuận trước thuế năm 2026 đạt 15.232 tỷ đồng, tăng 100% so với năm trước. Dự báo cho thấy sự tăng trưởng lợi nhuận đáng kể của tổ chức tài chính này trong giai đoạn dự báo. Các dự báo khác về ngành ngân hàng cho thấy hiệu suất khác nhau giữa các ngân hàng trong cùng kỳ.",
+        "pubDate": "Mon, 22 Jun 26 10:54:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Việt Nam có ngân hàng thứ hai đạt mốc tài sản 3 triệu tỷ đồng",
+        "url": "https://cafef.vn/viet-nam-co-ngan-hang-thu-hai-dat-moc-tai-san-3-trieu-ty-dong-188260622112650125.chn",
+        "source": "CafeF",
+        "summary_en": "VietinBank has reached a total asset milestone of 3 trillion Vietnamese dong, becoming the second bank in Vietnam to achieve this scale after BIDV. This achievement reflects the bank's growth and asset accumulation. The development places VietinBank among the largest financial institutions in the country.",
+        "summary_vn": "VietinBank đã chạm mốc tổng tài sản 3 triệu tỷ đồng, trở thành ngân hàng thứ hai tại Việt Nam đạt quy mô này chỉ sau BIDV. Thành tích này phản ánh sự tăng trưởng và tích lũy tài sản của ngân hàng. Sự phát triển này đặt VietinBank vào nhóm các tổ chức tài chính lớn nhất trong nước.",
+        "pubDate": "Mon, 22 Jun 26 11:25:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
+      {
+        "title": "BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam",
+        "url": "https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn",
+        "source": "CafeF",
+        "summary_en": "BIDV received the Best Customer Experience Initiative in Vietnam 2026 award from The Asian Banker magazine. The award recognizes BIDV's efforts to establish new standards in premium customer experience through synchronized integration of banking services and privileged ecosystem offerings on its digital platform. The recognition reflects the bank's focus on customer experience as a key competitive factor in the banking industry amid technological advancement.",
+        "summary_vn": "BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam 2026 từ tạp chí The Asian Banker. Giải thưởng ghi nhận nỗ lực của BIDV trong việc thiết lập chuẩn mực mới về trải nghiệm khách hàng cao cấp thông qua tích hợp đồng bộ các dịch vụ ngân hàng và hệ sinh thái đặc quyền trên nền tảng số. Sự công nhận này phản ánh tập trung của ngân hàng vào trải nghiệm khách hàng như một yếu tố cạnh tranh chính trong ngành ngân hàng.",
+        "pubDate": "Mon, 22 Jun 26 13:30:00 +0700",
+        "sentiment": 0.7,
+        "importance": 2
+      },
+      {
+        "title": "Giá vàng SJC, vàng nhẫn trơn chiều 22/6",
+        "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn",
+        "source": "CafeF",
+        "summary_en": "Gold prices in Vietnam declined slightly in the afternoon of June 22 after a strong rise in the early morning session. Multiple enterprises adjusted prices downward for both SJC gold bars and plain gold rings by 0.1–0.7 million VND per tael during the afternoon trading period. The exact price levels were not fully specified in the available excerpt.",
+        "summary_vn": "Giá vàng trong nước giảm nhẹ vào chiều ngày 22/6 sau nhịp tăng mạnh vào sáng sớm. Nhiều doanh nghiệp đã điều chỉnh giảm giá vàng miếng SJC và vàng nhẫn trơn từ 0,1 - 0,7 triệu đồng/lượng trong buổi chiều. Mức giá cụ thể không được nêu rõ trong đoạn trích có sẵn.",
+        "pubDate": "Mon, 22 Jun 26 13:59:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "payments": [
+      {
+        "title": "SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương",
+        "url": "https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn",
+        "source": "CafeF",
+        "summary_en": "SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the \"Best Merchant Service (Category Micro-Merchant)\" award from The Asian Banker at the Vietnam Awards 2026 ceremony. The award recognizes SHB's financial solutions designed for micro-merchants and small traders in Vietnam. The Asian Banker is a leading financial evaluation and ranking organization in Asia's banking sector.",
+        "summary_vn": "Ngân hàng TMCP Sài Gòn – Hà Nội (SHB) được tổ chức The Asian Banker – một tổ chức đánh giá uy tín hàng đầu trong lĩnh vực tài chính ngân hàng châu Á – trao giải thưởng \"Best Merchant Service (Category Micro-Merchant)\" tại lễ Vietnam Awards 2026. Giải thưởng này ghi nhận những nỗ lực của SHB trong cung cấp các giải pháp tài chính cho tiểu thương và hộ kinh doanh. Đây là sự công nhận cho đóng góp của SHB đối với việc hỗ trợ tài chính cho các doanh nhân nhỏ tại Việt Nam.",
+        "pubDate": "Mon, 22 Jun 26 16:00:00 +0700",
+        "sentiment": 0.7,
+        "importance": 3
+      }
+    ],
+    "logistics": [
+      {
+        "title": "Quốc lộ 13 rộng 8 làn xe trước ngày về đích",
+        "url": "https://cafef.vn/quoc-lo-13-rong-8-lan-xe-truoc-ngay-ve-dich-188260622085245486.chn",
+        "source": "CafeF",
+        "summary_en": "A project to upgrade and expand National Highway 13 through the former Binh Duong province area is entering its final completion phase after nearly 4 years of construction. The highway is being expanded to 8 lanes. The project aims to improve connectivity between Ho Chi Minh City and the surrounding provinces of Binh Duong and Binh Phuoc.",
+        "summary_vn": "Dự án nâng cấp và mở rộng Quốc lộ 13 đoạn qua khu vực tỉnh Bình Dương cũ đang bước vào giai đoạn hoàn thiện cuối cùng sau gần 4 năm thi công. Tuyến đường được mở rộng từ 6 làn lên 8 làn xe. Dự án nhằm cải thiện kết nối giữa TP HCM và các tỉnh lân cận Bình Dương và Bình Phước.",
+        "pubDate": "Mon, 22 Jun 26 09:00:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Từ 15/7, cao tốc Bắc - Nam sẽ thu phí những đoạn nào?",
+        "url": "https://cafef.vn/tu-15-7-cao-toc-bac-nam-se-thu-phi-nhung-doan-nao-188260622150850258.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's Road Administration announced that multiple component projects of the North-South Expressway (phase 2021-2025) will begin toll collection from July 15. The announcement specifies which road sections will implement tolling from this date. Several infrastructure projects are progressing as part of the national highway development plan.",
+        "summary_vn": "Cục Đường bộ Việt Nam thông báo rằng nhiều dự án thành phần cao tốc Bắc-Nam giai đoạn 2021-2025 sẽ bắt đầu thu phí từ ngày 15/7. Thông báo chi tiết những đoạn đường sẽ áp dụng thu phí từ ngày này. Nhiều dự án hạ tầng đang triển khai theo kế hoạch phát triển đường cao tốc quốc gia.",
+        "pubDate": "Mon, 22 Jun 26 17:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
     "consumers": [
+      {
+        "title": "Thành phố di sản Huế và bài toán tăng giá trị kinh tế ngành du lịch",
+        "url": "https://cafef.vn/thanh-pho-di-san-hue-va-bai-toan-tang-gia-tri-kinh-te-nganh-du-lich-188260622111620787.chn",
+        "source": "CafeF",
+        "summary_en": "Hue, a heritage city with a distinctive cultural heritage system and established brand identity, is entering a new development phase for its tourism sector. Rather than focusing primarily on attracting visitors, the city now aims to increase stay duration, spending levels, and economic value per tourist journey. The article discusses how digital platforms can be leveraged to connect local experiences and enhance the tourism economy.",
+        "summary_vn": "Thành phố di sản Huế sở hữu hệ thống di sản văn hóa đặc sắc và thương hiệu du lịch được định hình lâu năm, đang bước vào giai đoạn phát triển mới. Thay vì tập trung vào việc thu hút khách du lịch, Huế hiện nay tập trung vào gia tăng thời gian lưu trú, mức chi tiêu và giá trị kinh tế trên mỗi hành trình. Kết nối các trải nghiệm bản địa với nền tảng số được xem là một cách tiếp cận để nâng cao giá trị kinh tế ngành du lịch.",
+        "pubDate": "Mon, 22 Jun 26 11:16:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "&amp;apos;Đã mua kim cương là lỗ&amp;apos;: Thị trường chao đảo, nhiều tiệm đóng cửa",
         "url": "https://vietnamnet.vn/thi-truong-kim-cuong-chao-dao-sau-loat-nghi-van-nhieu-cua-hang-dong-cua-2527281.html",
@@ -11,140 +179,18 @@
         "pubDate": "Mon, 22 Jun 2026 05:03:00 +0700",
         "sentiment": -0.8,
         "importance": 3
-      },
-      {
-        "title": "Ngành đồ uống trước yêu cầu mới: Không chỉ bán sản phẩm, mà còn phải góp phần thay đổi hành vi tiêu dùng",
-        "url": "https://cafef.vn/nganh-do-uong-truoc-yeu-cau-moi-khong-chi-ban-san-pham-ma-con-phai-gop-phan-thay-doi-hanh-vi-tieu-dung-188260621105036872.chn",
-        "source": "CafeF",
-        "summary_en": "The beverages industry faces new requirements to go beyond selling products and contribute to changing consumer behavior. As preventive health care becomes increasingly important, equipping young people with specific health knowledge—such as understanding nutrition needs, reading food labels, identifying sugar content, alcohol concentration, and responsible consumption—is becoming a key part of modern lifestyle. A forum addressing these topics was held on June 18, 2026 at a university.",
-        "summary_vn": "Ngành đồ uống phải đáp ứng yêu cầu mới không chỉ bán sản phẩm mà còn phải góp phần thay đổi hành vi tiêu dùng. Khi y tế dự phòng ngày càng được coi trọng, việc cung cấp kiến thức sức khỏe cụ thể cho thanh niên—như hiểu nhu cầu dinh dưỡng, đọc nhãn thực phẩm, nhận diện lượng đường, nồng độ cồn và tiêu dùng có trách nhiệm—đang trở thành phần quan trọng của lối sống hiện đại. Một diễn đàn về chủ đề này đã được tổ chức vào ngày 18/6/2026 tại một trường đại học.",
-        "pubDate": "Sun, 21 Jun 26 10:50:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
       }
     ],
-    "financial-markets": [
+    "ecommerce": [
       {
-        "title": "Giá vàng lao dốc, giới đầu tư tranh cãi về cơ hội nghìn tỷ",
-        "url": "https://vietnamnet.vn/gia-vang-lao-doc-gioi-dau-tu-tranh-cai-ve-co-hoi-nghin-ty-2527920.html",
-        "source": "VietnamNet",
-        "summary_en": "Gold prices have declined significantly from a historic peak of $5,589 per ounce in January to approximately $4,157 per ounce, representing a loss of around 26% in value over a short period. Despite the price drop, gold mining companies are experiencing record cash flows, creating an unusual market paradox where mining stocks are trading at unusually low valuations. This contradiction is generating debate among investors about potential opportunities worth billions of dollars.",
-        "summary_vn": "Giá vàng đã giảm mạnh từ mức đỉnh lịch sử 5.589 USD/ounce vào tháng 1 xuống còn khoảng 4.157 USD/ounce, mất đi khoảng 26% giá trị trong thời gian ngắn. Bất chấp giá giảm, các công ty khai thác vàng đang có dòng tiền kỷ lục, tạo ra một nghịch lý thị trường hiếm có khi cổ phiếu khai thác vàng được định giá rẻ bất thường. Sự mâu thuẫn này đang tạo ra cuộc tranh cãi giữa các nhà đầu tư về các cơ hội tiềm năng trị giá hàng tỷ đô la.",
-        "pubDate": "Mon, 22 Jun 2026 05:30:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Giá xăng dầu giảm sâu nhưng nguy cơ tăng trở lại khi ưu đãi thuế hết hiệu lực",
-        "url": "https://vietnamnet.vn/xang-dau-giam-sau-nhung-nguy-co-tang-gia-tro-lai-khi-uu-dai-thue-het-hieu-luc-2527463.html",
-        "source": "VietnamNet",
-        "summary_en": "Gasoline and diesel prices in Vietnam have declined significantly from their peaks in March following geopolitical tensions in the Middle East. Currently, E5 RON92 gasoline is priced at 20,126 VND/liter, E10 RON95-III at 20,753 VND/liter, diesel at 23,534 VND/liter, and mazut at 16,680 VND/kg. Price increases may resume when tax incentives expire, creating renewed upward pressure on fuel costs.",
-        "summary_vn": "Giá xăng dầu tại Việt Nam đã giảm mạnh kể từ đỉnh cao vào tháng 3 do ảnh hưởng từ căng thẳng địa chính trị ở Trung Đông. Hiện tại, xăng E5 RON92 có giá 20.126 đồng/lít, xăng E10 RON95-III là 20.753 đồng/lít, dầu diesel là 23.534 đồng/lít, và dầu mazut là 16.680 đồng/kg. Giá có thể tăng trở lại khi các ưu đãi về thuế hết hiệu lực, tạo áp lực tăng giá mới cho nhiên liệu.",
-        "pubDate": "Mon, 22 Jun 2026 05:30:00 +0700",
-        "sentiment": -0.2,
-        "importance": 3
-      },
-      {
-        "title": "6 ngân hàng giảm lãi suất cho vay trong tháng 5",
-        "url": "https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html",
-        "source": "VietnamNet",
-        "summary_en": "Six banks reduced their average lending rates in May compared to April. GPBank led with the largest reduction of 1.63 percentage points to 8.84% per annum, followed by TPBank's 1.01 percentage point decrease to 9.93% per annum. MBV and VIB each reduced rates by 0.55 percentage points, announcing average lending rates of 8.86% and 8.58% per annum respectively.",
-        "summary_vn": "Sáu ngân hàng hạ lãi suất cho vay bình quân trong tháng 5 so với tháng 4. GPBank giảm nhiều nhất 1,63 điểm phần trăm xuống 8,84%/năm, theo sau là TPBank giảm 1,01 điểm phần trăm xuống 9,93%/năm. MBV và VIB cùng giảm 0,55 điểm phần trăm, công bố lãi suất cho vay bình quân tháng 5 lần lượt là 8,86%/năm và 8,58%/năm.",
-        "pubDate": "Mon, 22 Jun 2026 05:45:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Thế hệ thứ 2 lộ diện, con trai ông Nguyễn Đức Thụy nắm loạt công ty lớn, khối tài sản khủng",
-        "url": "https://vietnamnet.vn/the-he-thu-2-lo-dien-con-bau-thuy-nam-loat-dn-lon-co-khoi-tai-san-khung-2527512.html",
-        "source": "VietnamNet",
-        "summary_en": "LPBank Securities (LPBS), part of businessman Nguyễn Đức Thụy's family holdings, completed its initial public offering (IPO) by distributing over 141.75 million shares at 30,000 đồng per share, raising over 4.256 trillion đồng. The IPO increased LPBS's charter capital to over 14.086 trillion đồng, elevating it to the group of major securities companies. The second generation of the Nguyễn Đức Thụy family is gaining prominence in managing a large portfolio of companies and assets valued at significant scale.",
-        "summary_vn": "CTCP Chứng khoán LPBank (LPBS), thuộc khối tài sản của doanh nhân Nguyễn Đức Thụy, hoàn tất đợt chào bán cổ phiếu lần đầu ra công chúng (IPO) bằng cách phân phối hơn 141,75 triệu cổ phiếu với giá 30.000 đồng/cổ phiếu, thu về hơn 4.256 tỷ đồng. Đợt IPO nâng vốn điều lệ của LPBS lên trên 14.086 tỷ đồng, giúp công ty gia nhập nhóm các công ty chứng khoán hàng đầu. Thế hệ kế cận của gia đình Nguyễn Đức Thụy đang nổi lên trong vai trò quản lý một danh mục công ty và tài sản quy mô lớn.",
-        "pubDate": "Mon, 22 Jun 2026 06:39:36 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Giá vàng hôm nay 22/6/2026: Fed gây sức ép, vàng SJC khó tăng mạnh",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-22-6-2026-fed-gay-suc-ep-vang-sjc-kho-tang-manh-2527891.html",
-        "source": "VietnamNet",
-        "summary_en": "Global gold prices opened Monday at $4,210 USD/ounce and surged to a peak of $4,382 USD/ounce, driven by safe-haven demand amid U.S.-Iran tensions. The rally reversed after the U.S. Federal Reserve maintained interest rates at 3.5%-3.75% but signaled openness to further rate hikes. The Fed remains the primary driver of near-term gold price trends.",
-        "summary_vn": "Giá vàng thế giới mở phiên hôm thứ Hai ở mức 4.210 USD/ounce và tăng mạnh lên đỉnh 4.382 USD/ounce, được thúc đẩy bởi nhu cầu trú ẩn an toàn giữa căng thẳng Mỹ-Iran. Đà tăng đảo chiều sau khi Cục Dự trữ Liên bang Mỹ giữ lãi suất ở mức 3,5%-3,75% nhưng dâng hiệu để ngỏ khả năng nâng lãi suất. Fed tiếp tục là yếu tố chính chi phối xu hướng giá vàng trong ngắn hạn.",
-        "pubDate": "Mon, 22 Jun 2026 06:00:00 +0700",
-        "sentiment": -0.1,
-        "importance": 3
-      },
-      {
-        "title": "MSCI “trừ điểm” Indonesia, cơ hội nào cho Việt Nam?",
-        "url": "https://cafef.vn/msci-tru-diem-indonesia-co-hoi-nao-cho-viet-nam-188260621223633817.chn",
+        "title": "Thủ tướng phát lệnh, Hà Nội tiên phong xây dựng một mô hình, Vinhomes, Him Lam cùng tham gia",
+        "url": "https://cafef.vn/thu-tuong-phat-lenh-ha-noi-tien-phong-xay-dung-mot-mo-hinh-vinhomes-him-lam-cung-tham-gia-188260622140059917.chn",
         "source": "CafeF",
-        "summary_en": "MSCI has downgraded Indonesia's capital flow accessibility criteria to negative in its 2026 Market Accessibility Assessment, citing concerns about foreign investment capacity and transparency issues in shareholding structures. Vietnam remains positioned to potentially benefit from Indonesia's setback, though it must still demonstrate it meets MSCI's Emerging Markets classification standards. The assessment highlights structural challenges in Indonesia's investment environment that may create opportunities for competing markets.",
-        "summary_vn": "MSCI đã hạ tiêu chí luồng thông tin của Indonesia xuống mức tiêu cực trong báo cáo Đánh giá Khả năng Tiếp cận Thị trường Toàn cầu 2026, với lo ngại về khả năng đầu tư nước ngoài và vấn đề minh bạch trong cơ cấu sở hữu cổ phần. Việt Nam có cơ hội hưởng lợi từ những bất lợi của Indonesia, tuy nhiên vẫn phải chứng minh đạt tiêu chuẩn phân hạng Emerging Markets của MSCI. Báo cáo nhấn mạnh những thách thức cơ cấu trong môi trường đầu tư Indonesia có thể tạo cơ hội cho các thị trường cạnh tranh.",
-        "pubDate": "Mon, 22 Jun 26 00:05:00 +0700",
-        "sentiment": 0.0,
-        "importance": 4
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Kh&oacute;a SIM quyết liệt, v&igrave; sao SIM r&aacute;c vẫn c&ograve;n?",
-        "url": "https://thanhnien.vn/khoa-sim-quyet-liet-vi-sao-sim-rac-van-con-185260621220828021.htm",
-        "source": "ThanhNien",
-        "summary_en": "Following enforcement measures to block SIM cards, many Vietnamese mobile users are visiting carrier service centers to unlock their accounts. On Sunday June 21, MobiFone and other network operator outlets reported significant customer traffic seeking assistance with locked SIM cards. Some subscribers report having their SIM locked despite registering under their own names.",
-        "summary_vn": "Sau các biện pháp khóa SIM quyết liệt, nhiều thuê bao di động Việt Nam đến các điểm dịch vụ của nhà mạng để mở khóa tài khoản. Vào sáng chủ nhật 21.6, các cửa hàng MobiFone và các nhà mạng khác ghi nhận lượng khách hàng đông đúc đến tìm hỗ trợ về SIM bị khóa. Một số thuê bao báo cáo SIM của họ bị khóa mặc dù đã đăng ký chính chủ.",
-        "pubDate": "Mon, 22 Jun 26 06:00:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      },
-      {
-        "title": "Điện mặt trời gắn pin lưu trữ c&oacute; hiệu quả?",
-        "url": "https://thanhnien.vn/dien-mat-troi-gan-pin-luu-tru-co-hieu-qua-185260621222620653.htm",
-        "source": "ThanhNien",
-        "summary_en": "EVN states that installing energy storage systems on solar projects will increase total project investment costs, resulting in higher electricity prices compared to conventional solar plants. However, the investment efficiency and operational effectiveness of storage systems remain unclear. EVN recommends the Ministry of Industry and Trade clarify control rights, installation targets, and dispatch mechanisms for such projects.",
-        "summary_vn": "EVN cho rằng lắp đặt hệ thống lưu trữ năng lượng trên các dự án điện mặt trời sẽ làm tăng tổng chi phí đầu tư dự án, dẫn đến giá điện cao hơn so với các nhà máy điện mặt trời thông thường. Tuy nhiên, hiệu quả đầu tư và hiệu quả hoạt động của hệ thống lưu trữ vẫn chưa rõ ràng. EVN kiến nghị Bộ Công thương làm rõ các quyền kiểm soát, mục tiêu lắp đặt và các cơ chế điều khiển cho những dự án này.",
-        "pubDate": "Mon, 22 Jun 26 06:03:00 +0700",
-        "sentiment": -0.3,
+        "summary_en": "Hanoi is pioneering a new housing rental model under government initiative, with major real estate companies including Vinhomes and Him Lam participating. The model aims to provide rental housing and represents a first-of-its-kind initiative in Vietnam. The launch coincides with groundbreaking ceremonies for five new urban railway projects led by consortiums including Vinhomes.",
+        "summary_vn": "Hà Nội tiên phong xây dựng mô hình nhà ở cho thuê mới theo chỉ đạo của Thủ tướng, với sự tham gia của các công ty bất động sản lớn như Vinhomes và Him Lam. Mô hình này là tiên phong ở Việt Nam nhằm cung cấp nhà ở cho thuê. Sự khởi công xảy ra cùng ngày với lễ khởi công năm dự án đường sắt đô thị do liên danh Vinhomes dẫn đầu.",
+        "pubDate": "Mon, 22 Jun 26 14:30:00 +0700",
+        "sentiment": 0.3,
         "importance": 3
-      },
-      {
-        "title": "Tin tức sáng 22-6: Từ ngày 1-7, người livestream bán hàng phải xác thực danh tính",
-        "url": "https://tuoitre.vn/tin-tuc-sang-22-6-tu-ngay-1-7-nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-100260621232355823.htm",
-        "source": "TuoiTre",
-        "summary_en": "Vietnam's new E-commerce Law will take effect on July 1, 2026, introducing stricter regulations on livestream selling and affiliate marketing. The law specifies responsibilities for e-commerce platform operators, including requirements for electronic identity verification of livestream sellers. Platforms must verify the identity of livestream sellers using VNeID (Vietnam's national digital identification system) before allowing sales broadcasts.",
-        "summary_vn": "Luật Thương mại điện tử sẽ có hiệu lực từ ngày 1-7-2026, áp dụng những quy định chặt chẽ hơn đối với livestream bán hàng và tiếp thị liên kết. Luật quy định trách nhiệm của chủ quản nền tảng thương mại điện tử, bao gồm yêu cầu xác thực danh tính điện tử người livestream bán hàng. Các nền tảng phải xác thực danh tính bằng VNeID (hệ thống định danh số quốc gia) trước khi cho phép thực hiện livestream bán hàng.",
-        "pubDate": "6/22/2026 4:48:00 AM",
-        "sentiment": 0.0,
-        "importance": 4
-      },
-      {
-        "title": "Toàn cảnh vụ lừa đảo kỳ nghỉ rúng động dư luận năm 2026",
-        "url": "https://cafef.vn/toan-canh-vu-lua-dao-ky-nghi-rung-dong-du-luan-nam-2026-188260620214545124.chn",
-        "source": "CafeF",
-        "summary_en": "A large-scale systematic holiday fraud scheme affecting over 3,300 Vietnamese citizens has been exposed, with authorities prosecuting nearly 400 suspects nationwide. The scheme resulted in losses exceeding 3.3 trillion VND, with many victims losing their life savings. A VTV journalist team's investigation spanning over 4 years helped uncover what is described as the largest systematic fraud case in the country, primarily targeting middle-aged and elderly individuals.",
-        "summary_vn": "Một vụ lừa đảo kỳ nghỉ có hệ thống lớn được phơi bày, ảnh hưởng đến hơn 3.300 nạn nhân và làm mất hơn 3.3 nghìn tỷ đồng. Gần 400 bị can đã bị khởi tố trên cả nước, nhiều nạn nhân mất trắng tiền tiết kiệm cả đời. Ê-kíp nhà báo VTV đã điều tra suốt hơn 4 năm để phát hiện ra vụ lừa đảo được coi là lớn nhất từng được tìm thấy, nhắm vào người trung niên và cao tuổi.",
-        "pubDate": "Sat, 20 Jun 26 21:45:00 +0700",
-        "sentiment": -1.0,
-        "importance": 5
-      },
-      {
-        "title": "Ngăn chặn tình trạng mua bán trái phép hóa đơn, chứng từ",
-        "url": "https://cafef.vn/ngan-chan-tinh-trang-mua-ban-trai-phep-hoa-don-chung-tu-188260621061839448.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese police have launched investigations and arrests targeting illegal invoice and document trading schemes. The Economic Police Department of Ho Chi Minh City arrested several subjects on April 30 for printing, distributing, and trading fraudulent invoices and government revenue documents. The schemes involve shell companies engaged in illegal invoice trafficking that has resulted in losses to the state budget in the hundreds of billions of dong.",
-        "summary_vn": "Cảnh sát kinh tế Việt Nam đã khởi tố và bắt tạm giam các đối tượng liên quan đến việc mua bán trái phép hóa đơn và chứng từ. Phòng Cảnh sát kinh tế Công an TPHCM ngày 30/4 bắt tạm giam một số đối tượng để điều tra hành vi in, phát hành và mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách. Các thủ đoạn gian lận này liên quan đến doanh nghiệp ma và đã gây thất thoát hàng nghìn tỷ đồng cho ngân sách nhà nước.",
-        "pubDate": "Sun, 21 Jun 26 06:18:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
-      },
-      {
-        "title": "Vietcombank cảnh báo khẩn về tin nhắn gửi tới khách hàng",
-        "url": "https://cafef.vn/vietcombank-canh-bao-khan-ve-tin-nhan-gui-toi-khach-hang-18826062114510981.chn",
-        "source": "CafeF",
-        "summary_en": "Vietcombank has issued an urgent warning about fraudulent SMS messages being sent to customers impersonating the bank. Users have reported receiving SMS messages claiming to be from Vietcombank with notifications about expiring loyalty points, account information changes, and account lockouts. These messages typically request customers to access suspicious links.",
-        "summary_vn": "Vietcombank đã cảnh báo khẩn về các tin nhắn SMS giả mạo ngân hàng được gửi tới khách hàng. Người dùng đã báo cáo nhận được tin nhắn SMS giả danh Vietcombank với thông báo về điểm thưởng sắp hết hạn, thay đổi thông tin tài khoản và khóa tài khoản. Những tin nhắn này thường yêu cầu khách hàng truy cập vào các liên kết đáng ngờ.",
-        "pubDate": "Sun, 21 Jun 26 16:36:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
       }
     ],
     "platforms": [
@@ -156,60 +202,6 @@
         "summary_vn": "Thái Lan ghi nhận 57.147 ô tô thuần điện trong quý 1-2026, tiếp đó là Việt Nam với ít nhất 53.685 ô tô điện. V-Green thuộc hệ sinh thái Vingroup đang vận hành khoảng 150.000 cổng sạc ô tô và xe máy điện tại 34 tỉnh thành, tạo độ phủ sóng lớn nhất thị trường. Bài viết thảo luận về sự tăng trưởng nhanh của xe điện và trải nghiệm sạc không thống nhất trên các nền tảng khác nhau.",
         "pubDate": "6/22/2026 4:30:00 AM",
         "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Hàng nghìn bạn trẻ rủ nhau đi trải nghiệm AI, chơi e-sport tại ngày hội TechWorld",
-        "url": "https://tuoitre.vn/hang-nghin-ban-tre-ru-nhau-di-trai-nghiem-ai-choi-e-sport-tai-ngay-hoi-techworld-100260620180156509.htm",
-        "source": "TuoiTre",
-        "summary_en": "TechWorld by Thế Giới Di Động opened on June 20th as a large-scale technology festival featuring over 20 global laptop and smartphone brands including HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi, and vivo. The event, themed \"Opening the AI Era,\" offered young attendees opportunities to experience AI demonstrations, participate in e-sports tournaments, and receive promotional gifts. The festival served as an exhibition space showcasing technology exploration and gaming activities.",
-        "summary_vn": "Ngày hội TechWorld của Thế Giới Di Động khai mạc vào ngày 20-6 với quy mô lớn quy tụ hơn 20 thương hiệu laptop và điện thoại hàng đầu thế giới như HP, ASUS, Lenovo, Dell, Acer, MSI, Samsung, OPPO, Xiaomi và vivo. Sự kiện có chủ đề \"Khai mở kỷ nguyên AI\" cung cấp cho khách tham quan những trải nghiệm AI, giải đấu e-sport và các ưu đãi quà tặng. Đây là một triển lãm quy mô lớn tập trung vào khám phá công nghệ và hoạt động giải trí.",
-        "pubDate": "6/21/2026 6:51:00 AM",
-        "sentiment": 0.7,
-        "importance": 2
-      }
-    ],
-    "payments": [
-      {
-        "title": "Chuyên gia Ernst & Young: Tương lai ngân hàng số không nằm ở số lượng khách hàng, mà ở khả năng hiện diện trong từng giao dịch",
-        "url": "https://cafef.vn/chuyen-gia-ernst-young-tuong-lai-ngan-hang-so-khong-nam-o-so-luong-khach-hang-ma-o-kha-nang-hien-dien-trong-tung-giao-dich-18826062116522503.chn",
-        "source": "CafeF",
-        "summary_en": "EY expert Ravi Kittane discusses the future of digital banking, stating that profitability depends not on customer quantity but on transaction presence. Digital banks globally are transitioning from customer acquisition to monetization strategies. The solution involves transaction-centric banking models where embedded finance, data, and real-time experiences drive growth.",
-        "summary_vn": "Chuyên gia EY Ravi Kittane nhận định tương lai ngân hàng số không phụ thuộc vào số lượng khách hàng mà vào khả năng hiện diện trong từng giao dịch. Các ngân hàng số toàn cầu đang chuyển từ giai đoạn mở rộng quy mô sang bài toán sinh lợi nhuận. Giải pháp nằm ở mô hình ngân hàng lấy giao dịch làm trung tâm, với dữ liệu, tài chính nhúng và trải nghiệm thời gian thực là động lực tăng trưởng.",
-        "pubDate": "Sun, 21 Jun 26 16:49:00 +0700",
-        "sentiment": 0.2,
-        "importance": 3
-      }
-    ],
-    "logistics": [
-      {
-        "title": "Tấp nập thi công đường huyết mạch kết nối sân bay Long Thành",
-        "url": "https://cafef.vn/tap-nap-thi-cong-duong-huyet-mach-ket-noi-san-bay-long-thanh-188260621081331973.chn",
-        "source": "CafeF",
-        "summary_en": "Construction is progressing on Provincial Road 25C, a critical transportation artery connecting Long Thanh Airport in Dong Nai Province. Contractors have accelerated work by increasing shifts and labor following land acquisition. The project aims to establish key infrastructure linking the airport to the surrounding region.",
-        "summary_vn": "Công tác thi công đường tỉnh 25C, tuyến giao thông huyết mạch kết nối sân bay Long Thành ở tỉnh Đồng Nai, đang được đẩy nhanh. Nhà thầu tăng ca, tăng kíp làm việc sau khi hoàn tất bàn giao mặt bằng. Dự án nhằm xây dựng cơ sở hạ tầng giao thông quan trọng nối sân bay với các khu vực xung quanh.",
-        "pubDate": "Sun, 21 Jun 26 08:36:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Ngày mai, hơn 8 triệu người dân Hà Nội sẽ chứng kiến một cột mốc quan trọng lần đầu tiên xảy ra",
-        "url": "https://cafef.vn/ngay-mai-hon-8-trieu-nguoi-dan-ha-noi-se-chung-kien-mot-cot-moc-quan-trong-lan-dau-tien-xay-ra-188260621084926054.chn",
-        "source": "CafeF",
-        "summary_en": "Hanoi announced plans to simultaneously begin construction on five strategic urban rail transit lines (metro lines 1, 2, 8, 10, and 14) on June 22. This milestone marks a significant moment in the city's transportation infrastructure development history. The five lines are described as having strategic roles in the city's transportation network.",
-        "summary_vn": "Ngày 22/6, thành phố Hà Nội dự kiến khởi công đồng loạt 5 tuyến đường sắt đô thị (metro) trọng điểm, gồm các tuyến số 1, 2, 8, 10 và 14. Đây là dấu mốc đặc biệt trong lịch sử phát triển hạ tầng giao thông của Hà Nội. Các tuyến metro này có vai trò chiến lược trong mạng lưới giao thông của thành phố.",
-        "pubDate": "Sun, 21 Jun 26 08:49:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "Siêu nút giao gần 2.400 tỷ đồng dần lộ diện ở phía Tây Hà Nội",
-        "url": "https://cafef.vn/sieu-nut-giao-gan-2400-ty-dong-dan-lo-dien-o-phia-tay-ha-noi-188260621133444629.chn",
-        "source": "CafeF",
-        "summary_en": "A major interchange between Ring Road 3.5 and Thang Long Boulevard in western Hanoi is gradually taking shape after over a year of construction. The project includes a turbine-style branching bridge system and an underground tunnel approximately 1 km long. The Hanoi city government approved the project for implementation in the 2022-2026 period, with the goal of alleviating traffic congestion at the city's western gateway.",
-        "summary_vn": "Nút giao khác mức giữa Vành đai 3,5 và Đại lộ Thăng Long ở phía Tây Hà Nội dần lộ diện sau hơn một năm thi công. Dự án bao gồm hệ thống cầu nhánh tuabin và hầm chui dài gần 1 km. UBND TP Hà Nội đã phê duyệt triển khai dự án giai đoạn 2022-2026, nhằm giải quyết ùn tắc giao thông tại cửa ngõ phía Tây Thủ đô.",
-        "pubDate": "Sun, 21 Jun 26 14:45:00 +0700",
-        "sentiment": 0.3,
         "importance": 3
       }
     ]

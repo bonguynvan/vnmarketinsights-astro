@@ -1,17 +1,41 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-06-22"
-lastUpdated: "2026-06-22"
+publishedDate: "2026-06-23"
+lastUpdated: "2026-06-23"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng được dự báo lợi nhuận tăng gấp đôi trong năm 2026**  
+
+A bank is projected to see pre-tax profit of 15.232 trillion Vietnamese dong in 2026, representing a 100% increase compared to the previous year. The projection indicates significant earnings growth for the financial institution in the forecast period. Additional banking sector forecasts suggest varied performance across different banks in the same timeframe.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-duoc-du-bao-loi-nhuan-tang-gap-doi-trong-nam-2026-188260622105713761.chn)
+
+**Việt Nam có ngân hàng thứ hai đạt mốc tài sản 3 triệu tỷ đồng**  
+
+VietinBank has reached a total asset milestone of 3 trillion Vietnamese dong, becoming the second bank in Vietnam to achieve this scale after BIDV. This achievement reflects the bank's growth and asset accumulation. The development places VietinBank among the largest financial institutions in the country.
+
+- Source: [CafeF](https://cafef.vn/viet-nam-co-ngan-hang-thu-hai-dat-moc-tai-san-3-trieu-ty-dong-188260622112650125.chn)
+
+**Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
+
+On 22 June, a survey of online deposit interest rates showed the market continuing to segment into distinct groups, with some banks quoting rates of 7% per annum or higher while state-owned banks maintained a stable level at 6.8% per annum. The rate disparity reflects differentiated pricing strategies across banking institutions. Multiple major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank were surveyed for this market monitoring.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
+
+**Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng**  
+
+Multiple banks are preparing to distribute dividends and issue bonus shares to shareholders. Some banks have already set implementation schedules, while others are completing necessary procedures to increase charter capital in the coming period. This reflects ongoing capital management and shareholder return activities across the banking sector.
+
+- Source: [CafeF](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn)
 
 **Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ**  
 
@@ -41,8 +65,8 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
-- [Chuyên gia Ernst & Young: Tương lai ngân hàng số không nằm ở số lượng khách hàng, mà ở khả năng hiện diện trong từng giao dịch](https://cafef.vn/chuyen-gia-ernst-young-tuong-lai-ngan-hang-so-khong-nam-o-so-luong-khach-hang-ma-o-kha-nang-hien-dien-trong-tung-giao-dich-18826062116522503.chn) — CafeF
-- [Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm) — ThanhNien
+- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
+- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 

@@ -1,17 +1,53 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-06-22"
-lastUpdated: "2026-06-22"
+publishedDate: "2026-06-23"
+lastUpdated: "2026-06-23"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam có ngân hàng thứ hai đạt mốc tài sản 3 triệu tỷ đồng**  
+
+VietinBank has reached a total asset milestone of 3 trillion Vietnamese dong, becoming the second bank in Vietnam to achieve this scale after BIDV. This achievement reflects the bank's growth and asset accumulation. The development places VietinBank among the largest financial institutions in the country.
+
+- Source: [CafeF](https://cafef.vn/viet-nam-co-ngan-hang-thu-hai-dat-moc-tai-san-3-trieu-ty-dong-188260622112650125.chn)
+
+**BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam**  
+
+BIDV received the Best Customer Experience Initiative in Vietnam 2026 award from The Asian Banker magazine. The award recognizes BIDV's efforts to establish new standards in premium customer experience through synchronized integration of banking services and privileged ecosystem offerings on its digital platform. The recognition reflects the bank's focus on customer experience as a key competitive factor in the banking industry amid technological advancement.
+
+- Source: [CafeF](https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn)
+
+**Giá vàng SJC, vàng nhẫn trơn chiều 22/6**  
+
+Gold prices in Vietnam declined slightly in the afternoon of June 22 after a strong rise in the early morning session. Multiple enterprises adjusted prices downward for both SJC gold bars and plain gold rings by 0.1–0.7 million VND per tael during the afternoon trading period. The exact price levels were not fully specified in the available excerpt.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn)
+
+**Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
+
+On 22 June, a survey of online deposit interest rates showed the market continuing to segment into distinct groups, with some banks quoting rates of 7% per annum or higher while state-owned banks maintained a stable level at 6.8% per annum. The rate disparity reflects differentiated pricing strategies across banking institutions. Multiple major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank were surveyed for this market monitoring.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
+
+**Giá trị vượt trội từ sản phẩm "Tiền gửi bền vững" của BIDV**  
+
+BIDV has launched a "Sustainable Deposits" product as part of its strategy to support businesses in building a green future and sustainable development. The product reflects a broader economic trend where capital flows are oriented not only toward profitability but also toward creating sustainable value. The initiative positions BIDV as a pioneer in offering sustainability-focused financial products to the Vietnamese market.
+
+- Source: [CafeF](https://cafef.vn/gia-tri-vuot-troi-tu-san-pham-tien-gui-ben-vung-cua-bidv-18826062218321681.chn)
+
+**Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng**  
+
+Multiple banks are preparing to distribute dividends and issue bonus shares to shareholders. Some banks have already set implementation schedules, while others are completing necessary procedures to increase charter capital in the coming period. This reflects ongoing capital management and shareholder return activities across the banking sector.
+
+- Source: [CafeF](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn)
 
 **Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
 
@@ -36,7 +72,7 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Chuyên gia Ernst & Young: Tương lai ngân hàng số không nằm ở số lượng khách hàng, mà ở khả năng hiện diện trong từng giao dịch](https://cafef.vn/chuyen-gia-ernst-young-tuong-lai-ngan-hang-so-khong-nam-o-so-luong-khach-hang-ma-o-kha-nang-hien-dien-trong-tung-giao-dich-18826062116522503.chn) — CafeF
+- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 

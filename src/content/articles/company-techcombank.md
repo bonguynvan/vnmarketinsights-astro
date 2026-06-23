@@ -1,8 +1,8 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-06-22"
-lastUpdated: "2026-06-22"
+publishedDate: "2026-06-23"
+lastUpdated: "2026-06-23"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ Techcombank OneU is promoting its credit card with a World Cup 2026 campaign tha
 - [Sacombank muốn huy động lượng tiền lớn từ trái phiếu](https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn) — CafeF
 - [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
 - [Tin tức sáng 21-6: Chủ tịch nước tặng quà dịp 27-7 cho hơn 1,56 triệu người có công](https://tuoitre.vn/tin-tuc-sang-21-6-chu-tich-nuoc-tang-qua-dip-27-7-cho-hon-156-trieu-nguoi-co-cong-100260620165730075.htm) — TuoiTre
-- [Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm) — ThanhNien
+- [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
 
 ---
 
