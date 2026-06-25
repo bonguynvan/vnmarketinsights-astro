@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-06-23"
-lastUpdated: "2026-06-23"
+publishedDate: "2026-06-25"
+lastUpdated: "2026-06-25"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng tại SJC, Bảo Tín Mạnh Hải, DOJI, Phú Quý,... ngày 24/6**  
+
+Domestic gold prices remain at their lowest levels in recent days after declining approximately 1.5-1.6 million VND per tael on June 23. Gold prices from major Vietnamese dealers including SJC, Bảo Tín Mạnh Hải, DOJI, and Phú Quý are being tracked. As of the morning of June 24, gold bar prices have not yet shown adjustment following recent declines.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-tai-sjc-bao-tin-manh-hai-doji-phu-quy-ngay-24-6-188260624072201184.chn)
 
 **Giá vàng SJC, vàng nhẫn trơn ngày 22/6: Tăng gần 2,5 triệu đồng/lượng**  
 
@@ -54,7 +60,7 @@ Domestic gold prices fell further by approximately 600,000 VND per tael on the a
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn ngày 23/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-23-6-188260623075116912.chn) — CafeF
-- [Giá vàng hôm nay tiếp tục tăng dựng đứng, người cầm vàng lãi đậm chỉ sau một đêm](https://cafef.vn/gia-vang-hom-nay-tiep-tuc-tang-dung-dung-nguoi-cam-vang-lai-dam-chi-sau-mot-dem-188251224141910578.chn) — CafeF
+- [Vàng quay đầu giảm sâu, bạc mất toàn bộ tích lũy phiên trước](https://cafef.vn/vang-quay-dau-giam-sau-bac-mat-toan-bo-tich-luy-phien-truoc-188260624133935199.chn) — CafeF
 
 ---
 

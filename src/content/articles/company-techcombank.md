@@ -1,8 +1,8 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-06-23"
-lastUpdated: "2026-06-23"
+publishedDate: "2026-06-25"
+lastUpdated: "2026-06-25"
 category: "Company"
 readingTime: 3
 ---

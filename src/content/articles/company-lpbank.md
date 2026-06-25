@@ -1,8 +1,8 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-06-23"
-lastUpdated: "2026-06-23"
+publishedDate: "2026-06-25"
+lastUpdated: "2026-06-25"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ On June 23rd, LPBank's LPB stock experienced a sharp surge with over 7.5 trillio
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lịch chốt quyền cổ tức tuần 22/6–26/6: Cổ tức cao nhất 78%, một “ông lớn” sắp chi gần 4.000 tỷ đồng](https://cafef.vn/lich-chot-quyen-co-tuc-tuan-22-626-6-co-tuc-cao-nhat-78-mot-ong-lon-sap-chi-gan-4000-ty-dong-188260620212506946.chn) — CafeF
-- [KienlongBank chốt ngày chia cổ tức 29,5%](https://cafef.vn/kienlongbank-chot-ngay-chia-co-tuc-295-188260621221215517.chn) — CafeF
+- [Một cổ phiếu ngân hàng tăng hơn 9% trong phiên 24/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-9-trong-phien-24-6-18826062414544357.chn) — CafeF
 
 ---
 

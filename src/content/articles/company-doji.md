@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-06-23"
-lastUpdated: "2026-06-23"
+publishedDate: "2026-06-25"
+lastUpdated: "2026-06-25"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng tại SJC, Bảo Tín Mạnh Hải, DOJI, Phú Quý,... ngày 24/6**  
+
+Domestic gold prices remain at their lowest levels in recent days after declining approximately 1.5-1.6 million VND per tael on June 23. Gold prices from major Vietnamese dealers including SJC, Bảo Tín Mạnh Hải, DOJI, and Phú Quý are being tracked. As of the morning of June 24, gold bar prices have not yet shown adjustment following recent declines.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-tai-sjc-bao-tin-manh-hai-doji-phu-quy-ngay-24-6-188260624072201184.chn)
 
 **Giá vàng SJC, vàng nhẫn trơn ngày 22/6: Tăng gần 2,5 triệu đồng/lượng**  
 

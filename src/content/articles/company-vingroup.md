@@ -1,17 +1,23 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-06-23"
-lastUpdated: "2026-06-23"
+publishedDate: "2026-06-25"
+lastUpdated: "2026-06-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chuyên gia: Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm 1 triệu tỷ đồng vốn trung và dài hạn, lĩnh vực bất động sản hưởng lợi**  
+
+Circular 25 policy may enable the banking system to inject approximately 1 million billion Vietnamese dong in medium and long-term capital to the economy, supporting credit growth and improving net interest margins. The policy could simultaneously increase liquidity risk management requirements. The circular is expected to benefit the real estate sector.
+
+- Source: [CafeF](https://cafef.vn/chuyen-gia-thong-tu-25-co-the-giup-he-thong-ngan-hang-bom-them-1-trieu-ty-dong-von-trung-va-dai-han-linh-vuc-bat-dong-san-huong-loi-188260624024703421.chn)
 
 **Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?**  
 
@@ -34,9 +40,9 @@ Vinpearl Corporation (ticker VPL), a member of Vingroup, announced a Board of Di
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Quy định mới: Chung cư bắt buộc phải có khu riêng cho ô tô, xe máy điện](https://cafef.vn/quy-dinh-moi-chung-cu-bat-buoc-phai-co-khu-rieng-cho-o-to-xe-may-dien-188260622081140438.chn) — CafeF
+- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [Đại diện duy nhất của Việt Nam lọt TOP "hòn đảo tuyệt vời nhất châu Á", vượt loạt điểm đến nổi tiếng của Indonesia, Philippines, Malaysia](https://cafef.vn/dai-dien-duy-nhat-cua-viet-nam-lot-top-hon-dao-tuyet-voi-nhat-chau-a-vuot-loat-diem-den-noi-tieng-cua-indonesia-philippines-malaysia-188260623142428024.chn) — CafeF
 
 ---
 
