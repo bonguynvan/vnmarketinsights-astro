@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **SJC** (7 mentions tracked). Summaries ar
 
 ## Recent mentions
 
+**Lý do tiếp tục hoãn xét xử phúc thẩm cựu Tổng giám đốc SJC**  
+
+The appellate court hearing for the former CEO of SJC (Saigon Precious Metals Company) was postponed again on June 26 due to the emergence of new information. The court panel received additional documents and evidence submitted by the defendants. The exact date for reconvening the hearing will be announced later.
+
+- Source: [CafeF](https://cafef.vn/ly-do-tiep-tuc-hoan-xet-xu-phuc-tham-cuu-tong-giam-doc-sjc-18826062615314816.chn)
+
 **Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng**  
 
 Gold and silver prices fell sharply in both domestic and international markets on the morning of June 25, causing investors who bought at peak prices significant losses. Despite world gold prices breaking through the $4,000 per ounce level, Saigon Gold Silver Jewelry Company (SJC) and other gold trading businesses reduced SJC gold bar prices by approximately 800,000 VND to 143.2 million VND per tael for buying and 146.2 million VND per tael for selling. Gold ring and 99.99% jewelry gold prices also adjusted downward accordingly.

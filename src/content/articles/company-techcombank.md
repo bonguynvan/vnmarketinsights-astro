@@ -9,9 +9,15 @@ readingTime: 3
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**‘Việt Nam duy trì nền tảng tăng trưởng trước những biến động toàn cầu’**  
+
+Vietnam's economy maintains its long-term growth drivers despite global volatility, according to Techcombank leadership. Major economic anchors and large enterprises in Vietnam have not reported significant adverse effects and remain committed to long-term investment plans. Techcombank's observations suggest that Vietnam's economy shows resilience by sustaining long-term growth momentum even amid external environmental uncertainties.
+
+- Source: [VietnamNet](https://vietnamnet.vn/viet-nam-duy-tri-nen-tang-tang-truong-truoc-nhung-bien-dong-toan-cau-2529676.html)
 
 **CEO Techcombank: Biến động năng lượng toàn cầu không làm chệch hướng tăng trưởng của Việt Nam**  
 
@@ -45,10 +51,10 @@ Techcombank OneU is promoting its credit card with a World Cup 2026 campaign tha
 
 ## Related coverage
 
-- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
+- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 - [Sacombank muốn huy động lượng tiền lớn từ trái phiếu](https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn) — CafeF
-- [BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn) — CafeF
 
 ---
 

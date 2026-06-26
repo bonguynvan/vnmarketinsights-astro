@@ -9,9 +9,15 @@ readingTime: 3
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống**  
+
+TPBank served as the Diamond Sponsor for Tinh Hà "Say Hi," an event launched by DatVietVAC on June 23, 2026, at Thiso Mall in Ho Chi Minh City. TPBank positions itself as a "bank for young people" with a "lifestyle banking" strategy that integrates banking services into modern daily life. Tinh Hà "Say Hi" represents a new initiative combining pioneering experience and lifestyle positioning.
+
+- Source: [CafeF](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn)
 
 **TPBank được Bộ Công an trao Bằng khen vì thành tích xuất sắc trong phòng, chống tội phạm công nghệ cao**  
 
@@ -34,9 +40,9 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 ## Related coverage
 
 - [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://cafef.vn/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-188260623213753156.chn) — CafeF
-- [MSB nhận bằng khen của Bộ Công an về phòng chống tội phạm công nghệ cao](https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [MSB nhận bằng khen của Bộ Công an về phòng chống tội phạm công nghệ cao](https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn) — CafeF
 
 ---
 

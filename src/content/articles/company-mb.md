@@ -9,9 +9,15 @@ readingTime: 3
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng Nhà nước ra khuyến cáo khẩn đến toàn bộ người dân mua bán ngoại tệ**  
+
+The State Bank of Vietnam's Regional Branch 1 issued an urgent advisory to the public regarding foreign exchange transactions. The article references multiple Vietnamese commercial banks including Vietcombank, Agribank, BIDV, VietinBank, and MB. Additional news items are mentioned including banking promotions for customers under 35 years old starting July 1 and law enforcement action related to banking fraud involving multiple accounts.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ra-khuyen-cao-khan-den-toan-bo-nguoi-dan-mua-ban-ngoai-te-188260626152142177.chn)
 
 **Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -57,10 +63,10 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 
 ## Related coverage
 
+- [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 
 ---
 

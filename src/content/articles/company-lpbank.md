@@ -9,9 +9,15 @@ readingTime: 3
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tổng Giám đốc LPBank được vinh danh “Lãnh đạo Sáng tạo và Chuyển đổi số”**  
+
+LPBank received recognition at the Vietnam I4 Impact Awards 2026 in two categories. CEO Vũ Quốc Khánh was honored as "Innovative Leader and Digital Transformation Leader." The bank's technology products LPBank Plus and LocPhat Pay received the "Outstanding Digital Service" award. Vietnam I4 Impact Award is presented by the Ministry of Science and Technology in conjunction with the Vietnam Science and Technology Association.
+
+- Source: [CafeF](https://cafef.vn/tong-giam-doc-lpbank-duoc-vinh-danh-lanh-dao-sang-tao-va-chuyen-doi-so-188260626123828619.chn)
 
 **Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất**  
 
@@ -40,8 +46,8 @@ On June 23rd, LPBank's LPB stock experienced a sharp surge with over 7.5 trillio
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Một ngân hàng được dự báo lợi nhuận tăng gấp đôi trong năm 2026](https://cafef.vn/mot-ngan-hang-duoc-du-bao-loi-nhuan-tang-gap-doi-trong-nam-2026-188260622105713761.chn) — CafeF
 
 ---

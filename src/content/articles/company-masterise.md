@@ -9,9 +9,15 @@ readingTime: 3
 
 # Masterise
 
-Recent Vietnam market news mentioning **Masterise** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Masterise** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng được mở rộng cho vay dài hạn có thể gây sức ép lên thanh khoản và lãi suất**  
+
+Banks have been granted expanded permissions for medium and long-term lending, but the banking system lacks additional sources of capital mobilization to support this expansion. This mismatch could prolong liquidity pressure and upward pressure on deposit interest rates.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-duoc-mo-rong-cho-vay-dai-han-co-the-gay-suc-ep-len-thanh-khoan-va-lai-suat-188260626103811982.chn)
 
 **Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?**  
 
@@ -41,8 +47,8 @@ The State Bank of Vietnam has permitted commercial banks to exclude new debt fro
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
 - [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
-- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
 - [Nới trần vốn ngắn hạn cho vay dài hạn: Cơ hội đi kèm rủi ro thanh khoản](https://cafef.vn/noi-tran-von-ngan-han-cho-vay-dai-han-co-hoi-di-kem-rui-ro-thanh-khoan-188260621144901632.chn) — CafeF
+- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
 
 ---
 

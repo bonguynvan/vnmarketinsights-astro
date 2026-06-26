@@ -9,9 +9,15 @@ readingTime: 3
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit rates on 26 June shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintains rates at 6.8% per annum, while several other banks quote rates between 6.9-7% per annum for the same maturity.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn)
 
 **Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -77,8 +83,8 @@ HDBank and Vietnam's Tax Authority signed a cooperation memorandum on June 12 in
 
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Ngân hàng Nhà nước ra khuyến cáo khẩn đến toàn bộ người dân mua bán ngoại tệ](https://cafef.vn/ngan-hang-nha-nuoc-ra-khuyen-cao-khan-den-toan-bo-nguoi-dan-mua-ban-ngoai-te-188260626152142177.chn) — CafeF
 - [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
-- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 
 ---
 

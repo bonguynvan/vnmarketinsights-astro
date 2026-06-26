@@ -9,9 +9,27 @@ readingTime: 3
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng Nhà nước ra khuyến cáo khẩn đến toàn bộ người dân mua bán ngoại tệ**  
+
+The State Bank of Vietnam's Regional Branch 1 issued an urgent advisory to the public regarding foreign exchange transactions. The article references multiple Vietnamese commercial banks including Vietcombank, Agribank, BIDV, VietinBank, and MB. Additional news items are mentioned including banking promotions for customers under 35 years old starting July 1 and law enforcement action related to banking fraud involving multiple accounts.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ra-khuyen-cao-khan-den-toan-bo-nguoi-dan-mua-ban-ngoai-te-188260626152142177.chn)
+
+**Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit rates on 26 June shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintains rates at 6.8% per annum, while several other banks quote rates between 6.9-7% per annum for the same maturity.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn)
+
+**Cảnh báo thủ đoạn chiếm quyền tài khoản ngân hàng bằng công nghệ cao**  
+
+Police in Thanh Hoa province dismantled a network engaged in illegal trading of over 1,000 bank accounts using advanced technology to bypass biometric authentication. A suspect named Nguyễn Tiến Đạt (born 2004) was arrested in connection with a special investigation involving 1,000 bank accounts. The article reports on police warnings about unauthorized bank account takeover schemes using high-tech methods.
+
+- Source: [CafeF](https://cafef.vn/canh-bao-thu-doan-chiem-quyen-tai-khoan-ngan-hang-bang-cong-nghe-cao-188260626141539164.chn)
 
 **Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -67,18 +85,12 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 
 - Source: [CafeF](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn)
 
-**Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng**  
-
-Multiple Vietnamese banks have received approval from the State Bank and their shareholders to increase charter capital. The article references several major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank undertaking capital increases. An Ernst & Young expert commented that the future of digital banking depends on transaction presence rather than customer quantity.
-
-- Source: [CafeF](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn)
-
 ## Related coverage
 
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
+- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 
 ---
 
