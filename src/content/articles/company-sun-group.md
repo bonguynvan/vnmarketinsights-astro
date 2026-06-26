@@ -1,15 +1,15 @@
 ---
-title: "Vingroup — Vietnam Market Coverage"
-description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
+title: "Sun Group — Vietnam Market Coverage"
+description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
 publishedDate: "2026-06-26"
 lastUpdated: "2026-06-26"
 category: "Company"
 readingTime: 3
 ---
 
-# Vingroup
+# Sun Group
 
-Recent Vietnam market news mentioning **Vingroup** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
 
@@ -37,24 +37,12 @@ The State Bank of Vietnam has permitted commercial banks to exclude new debt fro
 
 - Source: [CafeF](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn)
 
-**Cuộc chạy đua gom các trạm sạc lên app chung**  
-
-Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam with at least 53,685 electric vehicles. V-Green, part of the Vingroup ecosystem, operates approximately 150,000 charging ports for electric cars and motorcycles across 34 provinces and cities, representing the largest market coverage. The article discusses the rapid growth of electric vehicles and the fragmented charging experience across different platforms.
-
-- Source: [TuoiTre](https://tuoitre.vn/cuoc-chay-dua-gom-cac-tram-sac-len-app-chung-100260621231243778.htm)
-
-**Vinpearl ch&agrave;o b&aacute;n 100 triệu cổ phiếu gi&aacute; ưu đ&atilde;i**  
-
-Vinpearl Corporation (ticker VPL), a member of Vingroup, announced a Board of Directors resolution to execute and implement a preferential share offering contract with professional securities investors. This continues the implementation of a shareholder-approved private placement plan for preferred dividend shares with conversion rights. At the 2026 Annual General Meeting, Vinpearl shareholders approved a plan to offer a maximum of 100 million preferred shares.
-
-- Source: [ThanhNien](https://thanhnien.vn/vinpearl-chao-ban-100-trieu-co-phieu-gia-uu-dai-185260621093036426.htm)
-
 ## Related coverage
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
+- [Nới trần vốn ngắn hạn cho vay dài hạn: Cơ hội đi kèm rủi ro thanh khoản](https://cafef.vn/noi-tran-von-ngan-han-cho-vay-dai-han-co-hoi-di-kem-rui-ro-thanh-khoan-188260621144901632.chn) — CafeF
 
 ---
 

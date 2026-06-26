@@ -1,91 +1,185 @@
 {
-  "generatedAt": "2026-06-25T00:02:17.370949+00:00",
+  "generatedAt": "2026-06-26T00:09:31.671037+00:00",
   "topics": {
-    "regulations": [
+    "financial-markets": [
       {
-        "title": "Chuyên gia: Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm 1 triệu tỷ đồng vốn trung và dài hạn, lĩnh vực bất động sản hưởng lợi",
-        "url": "https://cafef.vn/chuyen-gia-thong-tu-25-co-the-giup-he-thong-ngan-hang-bom-them-1-trieu-ty-dong-von-trung-va-dai-han-linh-vuc-bat-dong-san-huong-loi-188260624024703421.chn",
+        "title": "Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất",
+        "url": "https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn",
         "source": "CafeF",
-        "summary_en": "Circular 25 policy may enable the banking system to inject approximately 1 million billion Vietnamese dong in medium and long-term capital to the economy, supporting credit growth and improving net interest margins. The policy could simultaneously increase liquidity risk management requirements. The circular is expected to benefit the real estate sector.",
-        "summary_vn": "Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm khoảng 1 triệu tỷ đồng vốn trung và dài hạn cho nền kinh tế, hỗ trợ tăng trưởng tín dụng và cải thiện lợi suất. Chính sách này đồng thời cũng làm gia tăng yêu cầu quản trị rủi ro thanh khoản. Lĩnh vực bất động sản được dự kiến sẽ hưởng lợi từ thông tư này.",
-        "pubDate": "Wed, 24 Jun 26 07:00:00 +0700",
+        "summary_en": "Over the 2015-2025 period, several Vietnamese banks experienced significant profit growth, with SeABank, MSB, and LPBank showing the fastest expansion among the banking system. Many private banks are also narrowing the performance gap with leading competitors. The data reflects a 10-year trend of substantial earnings increases across multiple institutions.",
+        "summary_vn": "Trong giai đoạn 2015-2025, nhiều ngân hàng Việt Nam đạt mức tăng trưởng lợi nhuận đáng kể, với SeABank, MSB và LPBank tăng trưởng nhanh nhất trong hệ thống ngân hàng. Nhiều ngân hàng tư nhân khác cũng đang thu hẹp khoảng cách so với các đối thủ hàng đầu. Dữ liệu phản ánh xu hướng tăng thu nhập đáng kể trong 10 năm qua trên nhiều tổ chức.",
+        "pubDate": "Thu, 25 Jun 26 07:09:00 +0700",
         "sentiment": 0.6,
         "importance": 4
       },
       {
-        "title": "TPBank được Bộ Công an trao Bằng khen vì thành tích xuất sắc trong phòng, chống tội phạm công nghệ cao",
-        "url": "https://cafef.vn/tpbank-duoc-bo-cong-an-trao-bang-khen-vi-thanh-tich-xuat-sac-trong-phong-chong-toi-pham-cong-nghe-cao-188260624073249433.chn",
+        "title": "Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng",
+        "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn",
         "source": "CafeF",
-        "summary_en": "TPBank received a commendation certificate from the Ministry of Public Security for outstanding achievements in combating high-tech crime. The certificate was presented by the Minister of Public Security at a meeting to finalize a cooperation plan between the Ministry of Public Security and the State Bank of Vietnam on preventing online fraud. The meeting took place at the Ministry of Public Security headquarters.",
-        "summary_vn": "TPBank được Bộ Công an trao Bằng khen vì thành tích xuất sắc trong triển khai các giải pháp phòng, chống tội phạm sử dụng công nghệ cao. Bằng khen được trao bởi Bộ trưởng Bộ Công an tại cuộc họp ký kết Kế hoạch thực hiện Quy chế phối hợp giữa Bộ Công an và Ngân hàng Nhà nước Việt Nam trong công tác phòng, chống lừa đảo trực tuyến. Buổi họp diễn ra tại trụ sở Bộ Công an.",
-        "pubDate": "Wed, 24 Jun 26 08:30:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "Gold prices in Vietnam declined sharply on June 25, with spreads between buy and sell prices for SJC bullion and ring gold widening to 3-4.5 million VND per tael. International gold prices fell below the $4,000 per ounce threshold on June 24. Buyers who purchased gold faced immediate losses of up to 4.5 million VND per tael.",
+        "summary_vn": "Giá vàng trong nước giảm mạnh vào ngày 25/6, với chênh lệch giữa giá mua và bán vàng miếng, vàng nhẫn dao động từ 3-4,5 triệu đồng/lượng. Giá vàng quốc tế giảm dưới mức 4.000 USD/ounce vào ngày 24/6. Những nhà đầu tư vừa mua vàng đã phải chịu lỗ ngay lập tức lên tới 4,5 triệu đồng/lượng.",
+        "pubDate": "Thu, 25 Jun 26 09:44:00 +0700",
+        "sentiment": -0.8,
         "importance": 3
       },
       {
-        "title": "Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?",
-        "url": "https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn",
+        "title": "Lý do dự trữ ngoại hối từ kỷ lục hơn 111 tỷ USD 'rơi' xuống gần 88 tỷ USD",
+        "url": "https://cafef.vn/ly-do-du-tru-ngoai-hoi-tu-ky-luc-hon-111-ty-usd-roi-xuong-gan-88-ty-usd-188260625110033168.chn",
         "source": "CafeF",
-        "summary_en": "Since late May, the State Bank of Vietnam has made successive adjustments to important regulations governing credit operations. These changes aim to provide banks with additional lending capacity and facilitate capital flow into priority sectors, key projects, and economic growth drivers. Experts suggest that Circular 25 could help the banking system inject an additional 1 quadrillion dong in capital.",
-        "summary_vn": "Từ cuối tháng 5 đến nay, Ngân hàng Nhà nước liên tiếp điều chỉnh nhiều quy định quan trọng liên quan đến hoạt động tín dụng. Các thay đổi nhằm cung cấp cho ngân hàng thêm dư địa cho vay và tạo điều kiện cho dòng vốn chảy vào các lĩnh vực ưu tiên, dự án trọng điểm và các động lực tăng trưởng kinh tế. Chuyên gia cho rằng Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm 1 triệu tỷ đồng vốn.",
-        "pubDate": "Wed, 24 Jun 26 08:47:00 +0700",
-        "sentiment": 0.3,
+        "summary_en": "Vietnam's foreign exchange reserves have declined from a record high of over $111 billion in early 2022 to approximately $88 billion. The State Bank of Vietnam is seeking feedback on draft amendments to Decree 50/2014 regarding state foreign exchange reserve management. The declining reserves reflect pressures on Vietnam's external position and currency stability.",
+        "summary_vn": "Dự trữ ngoại hối của Việt Nam đã giảm từ mức kỷ lục hơn 111 tỷ USD vào đầu năm 2022 xuống còn khoảng 88 tỷ USD. Ngân hàng Nhà nước đang lấy ý kiến sửa đổi Nghị định 50/2014 về quản lý dự trữ ngoại hối nhà nước. Sự suy giảm dự trữ phản ánh áp lực lên tình hình ngoài tệ và ổn định tỷ giá của Việt Nam.",
+        "pubDate": "Thu, 25 Jun 26 11:52:00 +0700",
+        "sentiment": -0.3,
         "importance": 4
       },
       {
-        "title": "Công an điều tra số tiền giao dịch hơn 1 tỷ đồng/ngày: Tạm giữ hình sự Nguyễn Anh Duy SN 2000",
-        "url": "https://cafef.vn/cong-an-dieu-tra-so-tien-giao-dich-hon-1-ty-dong-ngay-tam-giu-hinh-su-nguyen-anh-duy-sn-2000-188260624115750248.chn",
+        "title": "Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng",
+        "url": "https://cafef.vn/sang-25-6-gia-vang-bac-lao-doc-nha-dau-tu-soc-nang-188260625105005435.chn",
         "source": "CafeF",
-        "summary_en": "Police in Hai Phong launched an investigation into a football betting operation with daily transaction volumes exceeding 1 billion VND. Nguyen Anh Duy (born 2000) and another individual were identified as ringleaders of a betting ring with total amounts reaching tens of billions of VND. On June 23rd, authorities issued criminal detention decisions against 6 individuals for organizing gambling and participating in illegal football betting.",
-        "summary_vn": "Công an Hải Phòng điều tra một đường dây cá độ bóng đá với lượng giao dịch hàng ngày vượt quá 1 tỷ đồng. Nguyễn Anh Duy (sinh năm 2000) và một đối tượng khác được xác định là những kẻ cầm đầu đường dây cá độ với tổng số tiền lên tới hàng chục tỷ đồng. Vào ngày 23/6, cơ quan chức năng đã ra quyết định tạm giữ hình sự 6 đối tượng vì tội tổ chức đánh bạc và đánh bạc dưới hình thức cá độ bóng đá.",
-        "pubDate": "Wed, 24 Jun 26 11:59:00 +0700",
-        "sentiment": -1.0,
+        "summary_en": "Gold and silver prices fell sharply in both domestic and international markets on the morning of June 25, causing investors who bought at peak prices significant losses. Despite world gold prices breaking through the $4,000 per ounce level, Saigon Gold Silver Jewelry Company (SJC) and other gold trading businesses reduced SJC gold bar prices by approximately 800,000 VND to 143.2 million VND per tael for buying and 146.2 million VND per tael for selling. Gold ring and 99.99% jewelry gold prices also adjusted downward accordingly.",
+        "summary_vn": "Giá vàng và bạc lao dốc mạnh trên cả thị trường trong nước và quốc tế vào sáng 25-6, gây ra tổn thất lớn cho những nhà đầu tư mua ở vùng đỉnh. Bất chấp giá vàng thế giới thủng mốc 4.000 USD/ounce, Công ty Vàng bạc - Đá quý Sài Gòn (SJC) và các doanh nghiệp kinh doanh vàng khác giảm giá vàng miếng SJC khoảng 800.000 đồng xuống mức 143,2 triệu đồng/lượng mua vào và 146,2 triệu đồng/lượng bán ra. Giá vàng nhẫn và vàng trang sức 99,99% cũng được điều chỉnh giảm tương ứng.",
+        "pubDate": "Thu, 25 Jun 26 11:53:00 +0700",
+        "sentiment": -0.8,
         "importance": 3
       },
       {
-        "title": "MSB nhận bằng khen của Bộ Công an về phòng chống tội phạm công nghệ cao",
-        "url": "https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn",
+        "title": "Chuyên gia lý giải vì sao vàng rớt thê thảm như hiện tại là hợp lý",
+        "url": "https://cafef.vn/chuyen-gia-ly-giai-vi-sao-vang-rot-the-tham-nhu-hien-tai-la-hop-ly-188260625140612614.chn",
         "source": "CafeF",
-        "summary_en": "MSB received a commendation from the Ministry of Public Security on June 23, 2026 for its contributions to combating high-tech crimes. The award was presented at a coordination conference between the Ministry of Public Security and the State Bank of Vietnam on preventing online fraud. MSB was recognized for its research and testing of solutions to prevent and combat high-tech crimes in the context of advancing digital transformation and electronic payments.",
-        "summary_vn": "MSB nhận Bằng khen từ Bộ Công an vào ngày 23/6/2026 để ghi nhận những đóng góp trong phòng chống tội phạm công nghệ cao. Giải thưởng được trao tại hội nghị phối hợp giữa Bộ Công an và Ngân hàng Nhà nước về phòng chống lừa đảo trực tuyến. MSB được công nhận vì những nỗ lực nghiên cứu và thử nghiệm các giải pháp phòng chống tội phạm công nghệ cao trong bối cảnh chuyển đổi số và thanh toán điện tử phát triển.",
-        "pubDate": "Wed, 24 Jun 26 17:30:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "Gold prices have declined nearly 30% from their historical peak set in January, but experts argue this correction is normal when compared with previous price cycles. The gold market is struggling to hold the $4,000 per ounce support level, which has drawn particular investor attention in recent weeks. Experts believe the current market adjustment does not yet signal a reversal of the broader upward trend.",
+        "summary_vn": "Giá vàng đã giảm gần 30% từ đỉnh lịch sử được thiết lập vào tháng 1, nhưng các chuyên gia cho rằng đợt điều chỉnh này là bình thường khi so sánh với các chu kỳ tăng giá trước đây. Thị trường vàng đang chật vật giữ ngưỡng hỗ trợ 4.000 USD/ounce, mốc giá được nhà đầu tư đặc biệt quan tâm trong những tuần gần đây. Các chuyên gia cho rằng đợt điều chỉnh hiện tại chưa phải là dấu hiệu cho thấy xu hướng tăng sẽ bị đảo chiều.",
+        "pubDate": "Thu, 25 Jun 26 14:05:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Sau Quảng Ninh, thêm một địa phương sắp nâng hạng lên thành phố trực thuộc Trung ương thứ 9 của Việt Nam",
-        "url": "https://cafef.vn/sau-quang-ninh-them-mot-dia-phuong-sap-nang-hang-len-thanh-pho-truc-thuoc-trung-uong-thu-9-cua-viet-nam-188260624093529595.chn",
+        "title": "Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn",
         "source": "CafeF",
-        "summary_en": "The Politburo has approved a plan to establish Bac Ninh as the ninth centrally-controlled city in Vietnam, following a similar earlier decision regarding Quang Ninh. This decision represents a significant administrative milestone for Bac Ninh province. The decision was made in response to a formal proposal submitted by the Bac Ninh Party Committee on May 19, 2026.",
-        "summary_vn": "Bộ Chính trị đã thống nhất chủ trương thành lập thành phố Bắc Ninh trực thuộc Trung ương, trở thành thành phố trực thuộc Trung ương thứ 9 của Việt Nam. Quyết định này được đưa ra sau khi Bộ Chính trị cũng ban hành kết luận tương tự đối với thành phố Quảng Ninh. Quyết định được đưa ra dựa trên Tờ trình của Tỉnh uỷ Bắc Ninh gửi ngày 19/5/2026.",
-        "pubDate": "Wed, 24 Jun 26 09:34:00 +0700",
+        "summary_en": "On June 25, a survey of online deposit interest rates showed Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 bank group maintained 6.8% per annum, while other banks quoted rates between 6.9-7.0% per annum for medium and long-term deposits.",
+        "summary_vn": "Khảo sát lãi suất huy động trực tuyến ngày 25/6 cho thấy Saigonbank dẫn đầu thị trường với lãi suất 7,2%/năm cho kỳ hạn 12 tháng. Nhóm Big4 duy trì mức 6,8%/năm, trong khi nhiều ngân hàng khác niêm yết từ 6,9-7%/năm cho các khoản tiền gửi trung, dài hạn.",
+        "pubDate": "Thu, 25 Jun 26 16:55:00 +0700",
         "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Tổng Giám đốc ACB: \"Cấp vốn cho doanh nghiệp không chỉ dừng ở tài sản đảm bảo\"",
+        "url": "https://cafef.vn/tong-giam-doc-acb-cap-von-cho-doanh-nghiep-khong-chi-dung-o-tai-san-dam-bao-188260625081219773.chn",
+        "source": "CafeF",
+        "summary_en": "ACB's CEO discussed capital access for small and medium enterprises (SMEs) at a conference titled \"SME Dialogue 2026: Open Policy – Business Takes Off,\" organized jointly with Hanoi Business Association (HBA) and Vietnam Consumer Goods Development Association (VACOD). The discussion addressed capital financing challenges faced by SMEs, particularly when expanding operations while having limited collateral assets. The CEO emphasized that capital provision for businesses extends beyond reliance on collateral assets.",
+        "summary_vn": "Tổng Giám đốc ACB thảo luận về vấn đề tiếp cận vốn cho doanh nghiệp vừa và nhỏ tại hội nghị \"Đối thoại SME 2026: Chính sách mở đường – Doanh nghiệp cất cánh\", được tổ chức phối hợp với Hiệp hội Doanh nghiệp Thành phố Hà Nội và Hiệp hội Phát triển Hàng tiêu dùng Việt Nam. Cuộc thảo luận tập trung vào những thách thức tài chính mà các doanh nghiệp vừa và nhỏ gặp phải, đặc biệt khi mở rộng sản xuất kinh doanh nhưng tài sản đảm bảo còn hạn chế. Tổng Giám đốc nhấn mạnh rằng cấp vốn cho doanh nghiệp không chỉ dừng ở tài sản đảm bảo.",
+        "pubDate": "Thu, 25 Jun 26 08:12:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?",
+        "url": "https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn",
+        "source": "CafeF",
+        "summary_en": "The State Bank of Vietnam has implemented special mechanisms for 18 projects of Vingroup, Sun Group, and Masterise. The article notes that credit limits are no longer the primary constraint facing Vietnam's banking system. The State Bank has been signaling policy adjustments through measures such as expanding loan-to-deposit ratios, opening credit room, and raising caps on long-term lending.",
+        "summary_vn": "Ngân hàng Nhà nước đã áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise. Bài viết lưu ý rằng hạn mức tín dụng không còn là ràng buộc chính của hệ thống ngân hàng Việt Nam. Ngân hàng Nhà nước đang phát tín hiệu điều chỉnh chính sách thông qua các biện pháp như mở rộng tỷ lệ cho vay trên tiền gửi, mở thêm phòng tín dụng và nâng trần cho vay dài hạn.",
+        "pubDate": "Thu, 25 Jun 26 14:46:00 +0700",
+        "sentiment": 0.0,
+        "importance": 4
+      },
+      {
+        "title": "Quy định mới về hoạt động bay từ ngày 1-7",
+        "url": "https://cafef.vn/quy-dinh-moi-ve-hoat-dong-bay-tu-ngay-1-7-188260625081931758.chn",
+        "source": "CafeF",
+        "summary_en": "A new regulation on aviation operations, Decree 222/2026/NĐ-CP, takes effect on July 1, 2026, introducing changes to airspace management and flight licensing authority. The decree clarifies operational procedures in shared-use airports under the Ministry of Construction's jurisdiction, with the Civil Aviation Authority of Vietnam issuing flight procedures after consultation with relevant agencies including the Air Defense-Air Force branch. Specific operational details for shared-use airports will be determined through a coordinated approval process.",
+        "summary_vn": "Nghị định 222/2026/NĐ-CP quy định về hoạt động bay có hiệu lực từ ngày 1-7-2026, đưa ra những thay đổi về quản lý vùng trời và thẩm quyền cấp phép bay. Nghị định làm rõ quy chế hoạt động tại các sân bay dùng chung thuộc phạm vi quản lý của Bộ Xây dựng, với Cục Hàng không Việt Nam công bố phương thức bay sau khi lấy ý kiến từ các cơ quan liên quan bao gồm Quân chủng Phòng không - Không quân. Các chi tiết cụ thể về hoạt động tại sân bay dùng chung sẽ được xác định thông qua quy trình phê duyệt có sự phối hợp.",
+        "pubDate": "Thu, 25 Jun 26 08:26:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Từ ngày 1/7/2026, tiền về tài khoản cá nhân lớn nhưng không kinh doanh thì có phải nộp thuế TNCN không?",
+        "url": "https://cafef.vn/tu-ngay-1-7-2026-tien-ve-tai-khoan-ca-nhan-lon-nhung-khong-kinh-doanh-thi-co-phai-nop-thue-tncn-khong-18826062508454584.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's new Personal Income Tax Law 2025 will take effect from July 1, 2026, with provisions on income taxation and reporting requirements. Certain income categories, including business income and wages, have an earlier implementation date of January 1, 2026. The article addresses whether large personal account deposits without business activity are subject to personal income tax under the new regulations.",
+        "summary_vn": "Luật Thuế thu nhập cá nhân 2025 của Việt Nam sẽ có hiệu lực từ ngày 1/7/2026 với các quy định về nộp thuế và khai báo thu nhập. Một số loại thu nhập như thu nhập kinh doanh và tiền lương được áp dụng sớm từ ngày 1/1/2026. Bài viết đề cập đến việc liệu tiền nộp vào tài khoản cá nhân lớn mà không có hoạt động kinh doanh có phải chịu thuế thu nhập cá nhân hay không.",
+        "pubDate": "Thu, 25 Jun 26 08:44:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Đề xuất giảm tuổi hưởng trợ cấp hưu trí xã hội xuống 70",
+        "url": "https://cafef.vn/de-xuat-giam-tuoi-huong-tro-cap-huu-tri-xa-hoi-xuong-70-188260625081637562.chn",
+        "source": "CafeF",
+        "summary_en": "A draft amendment to the Social Insurance Law is under consultation to reduce the eligibility age for social insurance benefits from 75 to 70 years old. People aged 70 and above without pension income could receive monthly social insurance benefits under the proposed change. The Ministry of Interior is leading the drafting of this legislation.",
+        "summary_vn": "Một dự thảo sửa đổi Luật Bảo hiểm xã hội đang được lấy ý kiến để giảm độ tuổi hưởng trợ cấp hưu trí xã hội từ 75 xuống 70 tuổi. Những người từ 70 tuổi trở lên không có lương hưu có thể nhận trợ cấp hưu trí xã hội hằng tháng theo đề xuất này. Bộ Nội vụ là cơ quan chủ trì soạn thảo pháp luật.",
+        "pubDate": "Thu, 25 Jun 26 09:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Hà Nội: 98% hộ kinh doanh có tài khoản giao dịch điện tử",
+        "url": "https://cafef.vn/ha-noi-98-ho-kinh-doanh-co-tai-khoan-giao-dich-dien-tu-188260625081553486.chn",
+        "source": "CafeF",
+        "summary_en": "Hanoi reported that after 6 months of implementing a new tax management model, approximately 98% of business households have established electronic transaction accounts and installed the eTax Mobile application. The progress includes 60% of business households now conducting electronic tax filing. A coordination board held a conference on June 24 to evaluate the results of tax management for business households and individuals following the abolishment of the fixed tax quota system in Hanoi.",
+        "summary_vn": "Hà Nội báo cáo rằng sau 6 tháng triển khai mô hình quản lý thuế mới, khoảng 98% hộ kinh doanh đã thiết lập tài khoản giao dịch điện tử và cài đặt ứng dụng eTax Mobile. Tiến triển bao gồm 60% hộ kinh doanh hiện đang thực hiện nộp thuế điện tử. Một ban chỉ đạo đã tổ chức hội nghị vào ngày 24/6 để đánh giá kết quả quản lý thuế đối với các hộ kinh doanh và cá nhân sau khi xóa bỏ hệ thống thuế khoán cố định ở Hà Nội.",
+        "pubDate": "Thu, 25 Jun 26 09:30:00 +0700",
+        "sentiment": 0.5,
         "importance": 3
       }
     ],
-    "platforms": [
+    "payments": [
       {
-        "title": "Maxtopia: Khi Gen Alpha học tài chính bằng trò chơi thay vì những bài giảng khô khan",
-        "url": "https://cafef.vn/maxtopia-khi-gen-alpha-hoc-tai-chinh-bang-tro-choi-thay-vi-nhung-bai-giang-kho-khan-188260624083238994.chn",
+        "title": "BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa",
+        "url": "https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn",
         "source": "CafeF",
-        "summary_en": "VIB has launched Maxtopia, a gamified financial education platform as part of its VIB Junior Banking solution for Vietnamese families. The platform teaches financial literacy to Gen Alpha children aged 6–15 through interactive activities, missions, and point-based reward mechanics instead of traditional instruction methods. VIB Junior Banking is positioned as Vietnam's pioneering digital financial ecosystem designed specifically for young people and families.",
-        "summary_vn": "VIB đã ra mắt Maxtopia, một nền tảng giáo dục tài chính theo hình thức trò chơi như một phần của giải pháp VIB Junior Banking dành cho gia đình Việt Nam. Nền tảng này dạy kiến thức tài chính cho trẻ Gen Alpha từ 6–15 tuổi thông qua các hoạt động tương tác, nhiệm vụ và cơ chế tích điểm thay vì phương pháp giảng dạy truyền thống. VIB Junior Banking được định vị là hệ sinh thái tài chính số tiên phong tại Việt Nam được thiết kế riêng cho trẻ em và gia đình.",
-        "pubDate": "Wed, 24 Jun 26 08:32:00 +0700",
-        "sentiment": 0.3,
+        "summary_en": "BVBank officially launched Google Wallet payment service for BVBank Visa credit cardholders, marking a step forward in its digital payment ecosystem expansion. The launch includes an attractive promotional offer of 100,000 VND cashback for customers. The service aims to provide customers with modern, secure, and convenient payment experiences.",
+        "summary_vn": "Ngân hàng Bản Việt chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho chủ thẻ tín dụng BVBank Visa, đánh dấu bước tiến trong mở rộng hệ sinh thái thanh toán số. Nhân dịp ra mắt, BVBank triển khai chương trình ưu đãi hoàn tiền 100.000 VND cho khách hàng. Dịch vụ nhằm mang đến trải nghiệm thanh toán hiện đại, an toàn và thuận tiện.",
+        "pubDate": "Thu, 25 Jun 26 13:30:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Quản lý chi phí doanh nghiệp thông minh cùng thẻ TPBank Visa FlashBiz",
+        "url": "https://cafef.vn/quan-ly-chi-phi-doanh-nghiep-thong-minh-cung-the-tpbank-visa-flashbiz-188260624105947389.chn",
+        "source": "CafeF",
+        "summary_en": "TPBank launched the Visa FlashBiz card with a 2-in-1 design to help businesses manage expenses efficiently while maintaining growth. The card enables flexible spending allocation and effective cost control for each team member. The product targets businesses in retail, logistics, and construction sectors that face frequent small expenses.",
+        "summary_vn": "TPBank phát hành thẻ Visa FlashBiz với thiết kế 2 trong 1 nhằm giúp doanh nghiệp quản lý chi phí hiệu quả trong khi vẫn đảm bảo tăng trưởng. Thẻ cho phép doanh nghiệp linh hoạt nguồn chi và quản lý chi tiêu hiệu quả đến từng thành viên. Sản phẩm hướng tới các doanh nghiệp trong lĩnh vực bán lẻ, vận tải và xây dựng phải đối mặt với các khoản chi phí nhỏ phát sinh thường xuyên.",
+        "pubDate": "Wed, 24 Jun 26 13:30:00 +0700",
+        "sentiment": 0.6,
+        "importance": 2
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Hải Hà Kotobuki về tay OCH: Hoàn thiện mảnh ghép chiến lược trong hệ sinh thái tiêu dùng",
+        "url": "https://cafef.vn/hai-ha-kotobuki-ve-tay-och-hoan-thien-manh-ghep-chien-luoc-trong-he-sinh-thai-tieu-dung-188260625090421156.chn",
+        "source": "CafeF",
+        "summary_en": "One Capital Consumer (OCC), a subsidiary of One Capital Hospitality (OCH), has completed the acquisition of 70% equity stake in Hai Ha - Kotobuki Company Limited (HKC). The transaction is described as a strategic move to strengthen OCH's consumer goods ecosystem alongside its established brands such as Kem Trần. This acquisition represents an M&A activity within OCH's broader consumer-focused business portfolio.",
+        "summary_vn": "One Capital Consumer (OCC), công ty con của One Capital Hospitality (OCH), vừa hoàn tất việc mua lại 70% vốn góp tại Công ty TNHH Hải Hà - Kotobuki (HKC). Giao dịch được coi là bước đi chiến lược nhằm tăng cường hệ sinh thái hàng tiêu dùng của OCH bên cạnh các thương hiệu lâu đời như Kem Tràn. Hoạt động này là một phần của chiến lược M&A trong danh mục kinh doanh hướng tới người tiêu dùng của OCH.",
+        "pubDate": "Thu, 25 Jun 26 08:30:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "BUSMAP - Ứng dụng giao thông thông minh - Thành phố thông minh",
-        "url": "https://vnexpress.net/busmap-ung-dung-giao-thong-thong-minh-thanh-pho-thong-minh-4281096.html",
-        "source": "VnExpress",
-        "summary_en": "Phenikaa MAAS, formerly known as Busmap, is a technology startup founded in 2013 that became a member unit of the Phenikaa Group in 2020. The company is undergoing restructuring to become a leading provider of smart mobility solutions, leveraging support from the Phenikaa Group and its ecosystem. Phenikaa MAAS is positioning itself to align with technology development trends and capitalize on the strengths of the Phenikaa ecosystem.",
-        "summary_vn": "Phenikaa MAAS, có tiền thân là Busmap, là một công ty công nghệ khởi nghiệp được thành lập năm 2013 và trở thành đơn vị thành viên của Tập đoàn Phenikaa từ năm 2020. Công ty đang tái cấu trúc để trở thành nhà cung cấp giải pháp di chuyển thông minh hàng đầu, được hỗ trợ từ Tập đoàn Phenikaa và hệ sinh thái của nó. Phenikaa MAAS đang định vị lại mình để phù hợp với các xu hướng phát triển công nghệ và tận dụng sức mạnh của hệ sinh thái Phenikaa.",
-        "pubDate": "Sat, 15 May 2021 00:00:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
+        "title": "VietinBank tăng cường kết nối cộng đồng kinh doanh số tại TikTok Agency Partner Vietnam Summit 2026",
+        "url": "https://cafef.vn/vietinbank-tang-cuong-ket-noi-cong-dong-kinh-doanh-so-tai-tiktok-agency-partner-vietnam-summit-2026-188260624185447919.chn",
+        "source": "CafeF",
+        "summary_en": "VietinBank is strengthening connections with the digital business community at the TikTok Agency Partner Vietnam Summit 2026. The growth of e-commerce and online sales platforms is creating new growth opportunities for businesses, traders, and sellers in Vietnam. Financial institutions are increasingly called upon to develop financial solutions tailored to the needs of the digital economy.",
+        "summary_vn": "VietinBank tăng cường kết nối cộng đồng kinh doanh số tại TikTok Agency Partner Vietnam Summit 2026. Sự phát triển mạnh mẽ của thương mại điện tử và các nền tảng bán hàng trực tuyến đang mở ra những cơ hội tăng trưởng mới cho doanh nghiệp, hộ kinh doanh và cộng đồng nhà bán hàng tại Việt Nam. Việc xây dựng các giải pháp tài chính phù hợp với nhu cầu của nền kinh tế số ngày càng trở thành yêu cầu quan trọng đối với các tổ chức tài chính.",
+        "pubDate": "Wed, 24 Jun 26 18:54:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
       }
     ],
     "consumers": [
+      {
+        "title": "Việt Nam thăng hạng điểm đến",
+        "url": "https://cafef.vn/viet-nam-thang-hang-diem-den-188260625153153034.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam is emerging as an attractive destination for travelers in the Asia-Pacific region according to Visa's Global Travel Intentions 2026 research. The study shows that travelers are becoming more intentional, choosing closer destinations, planning more thoroughly, and relying on seamless digital payment methods to navigate uncertainty. Vietnam's rise reflects a broader trend where visitors prioritize proximity and digital payment convenience.",
+        "summary_vn": "Theo nghiên cứu Global Travel Intentions 2026 của Visa, Việt Nam đang nổi lên như điểm đến hấp dẫn cho khách du lịch khu vực châu Á-Thái Bình Dương. Những du khách ngày nay có chủ đích hơn, lựa chọn điểm đến gần hơn, lập kế hoạch chi tiết và dựa vào các phương thức thanh toán số liền mạch để ứng phó với yếu tố bất định. Xu hướng này cho thấy sự ưu tiên của du khách đối với sự gần gũi và tính thuận tiện của thanh toán kỹ thuật số.",
+        "pubDate": "Thu, 25 Jun 26 15:31:00 +0700",
+        "sentiment": 0.7,
+        "importance": 3
+      },
       {
         "title": "Xu hướng du lịch thông minh của người Việt: quản lý chi tiêu để hành trình thêm trọn vẹn",
         "url": "https://cafef.vn/xu-huong-du-lich-thong-minh-cua-nguoi-viet-quan-ly-chi-tieu-de-hanh-trinh-them-tron-ven-188260624092404919.chn",
@@ -105,143 +199,29 @@
         "pubDate": "Wed, 24 Jun 26 13:30:00 +0700",
         "sentiment": 0.0,
         "importance": 2
-      },
-      {
-        "title": "Loại giấy tờ hàng triệu người đang dùng sẽ hết hạn vào 1/7",
-        "url": "https://cafef.vn/loai-giay-to-hang-trieu-nguoi-dang-dung-se-het-han-vao-1-7-188260623161300968.chn",
-        "source": "CafeF",
-        "summary_en": "Paper monthly bus tickets in Hanoi will expire on July 1, 2026, and will no longer be accepted on bus routes. The change affects millions of regular public transport users, including students, workers, and commuters. Passengers will need to transition to alternative ticketing methods.",
-        "summary_vn": "Vé tháng giấy xe buýt tại Hà Nội sẽ hết giá trị sử dụng từ ngày 1/7/2026 và không còn được chấp nhận trên các tuyến xe buýt. Thay đổi này ảnh hưởng đến hàng triệu người sử dụng phương tiện công cộng thường xuyên, bao gồm học sinh, sinh viên, công nhân và người lao động. Hành khách sẽ cần chuyển sang các phương thức vé khác.",
-        "pubDate": "Wed, 24 Jun 26 08:03:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Khách quốc tế đến Việt Nam cao chưa từng có, 'ông lớn' du lịch toàn cầu lập tức hành động",
-        "url": "https://cafef.vn/khach-quoc-te-den-viet-nam-cao-chua-tung-co-ong-lon-du-lich-toan-cau-lap-tuc-hanh-dong-188260624102451273.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's tourism is attracting unprecedented numbers of international visitors. Major global tourism companies are taking immediate action in response to the surge. Vietnam's tourism sector is demonstrating increasing appeal to foreign investors and international tourists.",
-        "summary_vn": "Khách quốc tế đến Việt Nam đạt mức cao chưa từng có. Các công ty du lịch toàn cầu lớn lập tức có phản ứng trước xu hướng này. Du lịch Việt Nam ngày càng thể hiện sức hấp dẫn với các nhà đầu tư nước ngoài và khách du lịch quốc tế.",
-        "pubDate": "Wed, 24 Jun 26 10:50:00 +0700",
-        "sentiment": 0.7,
-        "importance": 3
-      }
-    ],
-    "financial-markets": [
-      {
-        "title": "Giá vàng thế giới giảm mạnh, nhà đầu tư chờ dữ liệu lạm phát Mỹ",
-        "url": "https://cafef.vn/gia-vang-the-gioi-giam-manh-nha-dau-tu-cho-du-lieu-lam-phat-my-188260624083459089.chn",
-        "source": "CafeF",
-        "summary_en": "Global gold prices declined sharply on June 24 as the US dollar strengthened to its highest level in a year due to expectations that the US Federal Reserve would raise interest rates. Spot gold fell to $4,091.18 per ounce while August futures rose to $4,204.90 per ounce. The decline in oil prices from US-Iran negotiations provided limited support for the gold market.",
-        "summary_vn": "Giá vàng thế giới giảm mạnh vào ngày 24/6 khi đồng USD tăng lên mức cao nhất trong một năm do kỳ vọng về việc Fed sẽ nâng lãi suất. Giá vàng giao ngay giảm xuống 4.091,18 USD/oz trong khi vàng tương lai tháng 8 tăng lên 4.204,90 USD/oz. Giá dầu giảm từ các cuộc đàm phán Mỹ-Iran chỉ cung cấp hỗ trợ hạn chế cho thị trường vàng.",
-        "pubDate": "Wed, 24 Jun 26 09:34:00 +0700",
-        "sentiment": -0.6,
-        "importance": 3
-      },
-      {
-        "title": "Dự trữ ngoại hối còn 87,6 tỷ USD: Ngân hàng Nhà nước muốn sửa đổi nhiều quy định",
-        "url": "https://cafef.vn/du-tru-ngoai-hoi-con-876-ty-usd-ngan-hang-nha-nuoc-muon-sua-doi-nhieu-quy-dinh-188260624112155679.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's foreign exchange reserves declined to $87.6 billion in June 2026 from a record high of nearly $112 billion in 2022. The State Bank of Vietnam is seeking public comment on a draft regulation to amend Decree 50/2014 on state foreign exchange reserve management. The 2014 decree established the legal framework for reserve management and addressed shortcomings in prior regulations.",
-        "summary_vn": "Dự trữ ngoại hối của Việt Nam giảm xuống còn 87,6 tỷ USD vào tháng 6/2026 từ mức cao kỷ lục gần 112 tỷ USD năm 2022. Ngân hàng Nhà nước đang lấy ý kiến dự thảo Nghị định sửa đổi Nghị định 50/2014 về quản lý dự trữ ngoại hối nhà nước. Nghị định 2014 đã thiết lập khuôn khổ pháp lý cho hoạt động quản lý dự trữ và khắc phục những hạn chế của các quy định trước đó.",
-        "pubDate": "Wed, 24 Jun 26 11:21:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Giá vàng sắp tới sẽ tăng hay giảm?",
-        "url": "https://cafef.vn/gia-vang-sap-toi-se-tang-hay-giam-188260624112721427.chn",
-        "source": "CafeF",
-        "summary_en": "Domestic gold prices are hovering around the 150 million dong per tael level, with investors uncertain about future price direction. Gold expert Trần Duy Phương predicts a continued downward trend, noting that domestic SJC gold is currently 11-12 million dong per tael higher than global gold prices. The price gap is expected to narrow further by several million dong per tael if global gold prices fall to the 4,350-4,500 USD range.",
-        "summary_vn": "Giá vàng trong nước tiếp tục giằng co quanh ngưỡng 150 triệu đồng/lượng, khiến nhiều nhà đầu tư băn khoăn về xu hướng giá trong thời gian tới. Chuyên gia vàng Trần Duy Phương dự báo xu hướng giảm sẽ tiếp tục, do vàng miếng SJC hiện cao hơn giá vàng thế giới 11-12 triệu đồng. Khoảng cách này dự kiến sẽ thu hẹp thêm vài ba triệu đồng/lượng nếu giá vàng thế giới xuống 4.350 - 4.500 USD.",
-        "pubDate": "Wed, 24 Jun 26 12:26:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      },
-      {
-        "title": "Vàng quay đầu giảm sâu, bạc mất toàn bộ tích lũy phiên trước",
-        "url": "https://cafef.vn/vang-quay-dau-giam-sau-bac-mat-toan-bo-tich-luy-phien-truoc-188260624133935199.chn",
-        "source": "CafeF",
-        "summary_en": "Gold prices reversed sharply downward on June 24, 2026, breaking a streak of sustained highs in Vietnam's precious metals market. Silver also declined, erasing all gains from the previous session. The broad-based correction across both gold and silver products was noted in official pricing data from Bảo Tín Minh Châu.",
-        "summary_vn": "Giá vàng đảo chiều giảm sâu vào ngày 24/6/2026 sau một chuỗi ngày liên tục neo cao ở thị trường kim loại quý trong nước. Bạc cũng giảm và mất toàn bộ tích lũy từ phiên trước. Sự điều chỉnh giảm này xuất hiện đồng loạt trên cả vàng lẫn bạc theo dữ liệu chính thức từ Bảo Tín Minh Châu.",
-        "pubDate": "Wed, 24 Jun 26 14:30:00 +0700",
-        "sentiment": -0.6,
-        "importance": 2
-      },
-      {
-        "title": "Một cổ phiếu ngân hàng tăng hơn 9% trong phiên 24/6",
-        "url": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-9-trong-phien-24-6-18826062414544357.chn",
-        "source": "CafeF",
-        "summary_en": "NCB (National Citizen Bank) stock with ticker NVB surged 9.38% on June 24, closing at 14,000 VND per share during a volatile trading session. Trading volume increased significantly with over 2 million shares matched, representing a 5-10 fold increase compared to recent trading sessions. The stock surge occurred amid the bank's ongoing private placement offering.",
-        "summary_vn": "Cổ phiếu NVB của Ngân hàng Quốc Dân (NCB) tăng kịch trần 9,38% vào ngày 24/6, đóng cửa ở mức 14.000 đồng/cổ phiếu. Thanh khoản tăng mạnh với hơn 2 triệu cổ phiếu được khớp lệnh, tăng 5-10 lần so với các phiên giao dịch gần đây. Mức tăng này diễn ra trong bối cảnh Ngân hàng Quốc Dân đang triển khai đợt chào bán cổ phiếu riêng lẻ.",
-        "pubDate": "Wed, 24 Jun 26 14:54:00 +0700",
-        "sentiment": 0.6,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn",
-        "source": "CafeF",
-        "summary_en": "A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.",
-        "summary_vn": "Khảo sát lãi suất huy động trực tuyến ngày 24/6 cho thấy Saigonbank dẫn đầu thị trường với lãi suất 7,2%/năm cho kỳ hạn 12 tháng. Nhóm Big4 duy trì mức 6,8%/năm, còn phần lớn ngân hàng niêm yết lãi suất trong khoảng 6,5-6,9%/năm.",
-        "pubDate": "Wed, 24 Jun 26 16:56:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      }
-    ],
-    "payments": [
-      {
-        "title": "Quản lý chi phí doanh nghiệp thông minh cùng thẻ TPBank Visa FlashBiz",
-        "url": "https://cafef.vn/quan-ly-chi-phi-doanh-nghiep-thong-minh-cung-the-tpbank-visa-flashbiz-188260624105947389.chn",
-        "source": "CafeF",
-        "summary_en": "TPBank launched the Visa FlashBiz card with a 2-in-1 design to help businesses manage expenses efficiently while maintaining growth. The card enables flexible spending allocation and effective cost control for each team member. The product targets businesses in retail, logistics, and construction sectors that face frequent small expenses.",
-        "summary_vn": "TPBank phát hành thẻ Visa FlashBiz với thiết kế 2 trong 1 nhằm giúp doanh nghiệp quản lý chi phí hiệu quả trong khi vẫn đảm bảo tăng trưởng. Thẻ cho phép doanh nghiệp linh hoạt nguồn chi và quản lý chi tiêu hiệu quả đến từng thành viên. Sản phẩm hướng tới các doanh nghiệp trong lĩnh vực bán lẻ, vận tải và xây dựng phải đối mặt với các khoản chi phí nhỏ phát sinh thường xuyên.",
-        "pubDate": "Wed, 24 Jun 26 13:30:00 +0700",
-        "sentiment": 0.6,
-        "importance": 2
-      },
-      {
-        "title": "MB cung cấp Ngoại tệ mặt hợp pháp, sẵn sàng cho hành trình quốc tế",
-        "url": "https://cafef.vn/mb-cung-cap-ngoai-te-mat-hop-phap-san-sang-cho-hanh-trinh-quoc-te-18826062312131072.chn",
-        "source": "CafeF",
-        "summary_en": "MB Bank offers legal foreign currency cash exchange services for customers planning international travel and overseas studies. The bank positions itself as a safe and legitimate option for exchanging Vietnamese currency into foreign cash. The service addresses customer concerns about obtaining legal foreign currency for travel expenses and initial costs abroad.",
-        "summary_vn": "MB Bank cung cấp dịch vụ đổi ngoại tệ mặt hợp pháp cho khách hàng có kế hoạch du lịch quốc tế và du học nước ngoài. Ngân hàng định vị mình là lựa chọn an toàn và hợp pháp để đổi tiền Việt Nam thành tiền mặt ngoại tệ. Dịch vụ giải quyết mối lo ngại của khách hàng về việc có được ngoại tệ hợp pháp cho chi phí du lịch và chi phí ban đầu ở nước ngoài.",
-        "pubDate": "Tue, 23 Jun 26 13:30:00 +0700",
-        "sentiment": 0.3,
-        "importance": 1
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "VietinBank tăng cường kết nối cộng đồng kinh doanh số tại TikTok Agency Partner Vietnam Summit 2026",
-        "url": "https://cafef.vn/vietinbank-tang-cuong-ket-noi-cong-dong-kinh-doanh-so-tai-tiktok-agency-partner-vietnam-summit-2026-188260624185447919.chn",
-        "source": "CafeF",
-        "summary_en": "VietinBank is strengthening connections with the digital business community at the TikTok Agency Partner Vietnam Summit 2026. The growth of e-commerce and online sales platforms is creating new growth opportunities for businesses, traders, and sellers in Vietnam. Financial institutions are increasingly called upon to develop financial solutions tailored to the needs of the digital economy.",
-        "summary_vn": "VietinBank tăng cường kết nối cộng đồng kinh doanh số tại TikTok Agency Partner Vietnam Summit 2026. Sự phát triển mạnh mẽ của thương mại điện tử và các nền tảng bán hàng trực tuyến đang mở ra những cơ hội tăng trưởng mới cho doanh nghiệp, hộ kinh doanh và cộng đồng nhà bán hàng tại Việt Nam. Việc xây dựng các giải pháp tài chính phù hợp với nhu cầu của nền kinh tế số ngày càng trở thành yêu cầu quan trọng đối với các tổ chức tài chính.",
-        "pubDate": "Wed, 24 Jun 26 18:54:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
       }
     ],
     "logistics": [
       {
-        "title": "Phó Thủ tướng Thường trực Phạm Gia Túc tiếp lãnh đạo tập đoàn vận tải biển hàng đầu thế giới",
-        "url": "https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-tiep-lanh-dao-tap-doan-van-tai-bien-hang-dau-the-gioi-188260624134242288.chn",
+        "title": "5 tuyến metro mới sẽ thay đổi Hà Nội thế nào?",
+        "url": "https://cafef.vn/5-tuyen-metro-moi-se-thay-doi-ha-noi-the-nao-188260625145307376.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's Deputy Prime Minister Phạm Gia Túc met with Robert Maersk Uggla, Chairman of A.P. Moller Holding and the Maersk Group, on June 23. The Deputy Prime Minister praised Maersk's investment activities in Vietnam over recent years. Vietnam is developing a growth strategy that appears to involve dialogue with major global shipping groups.",
-        "summary_vn": "Chiều 23/6, Phó Thủ tướng Thường trực Phạm Gia Túc tiếp xã giao ông Robert Maersk Uggla, Chủ tịch Tập đoàn A.P. Moller Holding (APM Holding) kiêm Chủ tịch Tập đoàn Maersk. Phó Thủ tướng Phạm Gia Túc đánh giá cao các hoạt động đầu tư của Maersk tại Việt Nam trong những năm qua. Việt Nam đang xây dựng chiến lược tăng trưởng với sự tham gia của các tập đoàn vận tải biển hàng đầu thế giới.",
-        "pubDate": "Wed, 24 Jun 26 14:00:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      },
+        "summary_en": "Hanoi has begun construction on 5 new metro lines simultaneously. These lines are expected to improve infrastructure and change the appearance of the capital city, which has long faced congestion issues. The project aims to address transportation challenges in the densely populated city.",
+        "summary_vn": "Hà Nội đồng loạt khởi công 5 tuyến đường sắt đô thị (metro) mới. Các tuyến này được kỳ vọng sẽ góp phần thay đổi hạ tầng và diện mạo của Thủ đô, giải quyết vấn đề chật chội kéo dài. Dự án nhằm cải thiện tình hình giao thông của thành phố.",
+        "pubDate": "Thu, 25 Jun 26 15:36:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      }
+    ],
+    "platforms": [
       {
-        "title": "Tàu dịch vụ",
-        "url": "https://vnexpress.net/tau-dich-vu-4281072.html",
-        "source": "VnExpress",
-        "summary_en": "PTSC Thanh Hóa is a member unit of PTSC (Vietnam Petroleum Technical Services Corporation) operating integrated infrastructure at a deep-water port with favorable geographic positioning. The facility can accommodate vessels up to 70,000 DWT for lightering and operates bonded warehouses, container yards, storage areas, and mechanical and painting workshops. The unit operates a fleet of nine vessels.",
-        "summary_vn": "PTSC Thanh Hóa là đơn vị thành viên của Tổng công ty Cổ phần Dịch vụ Kỹ thuật Dầu khí Việt Nam (PTSC) với hệ thống cơ sở hạ tầng tại cảng nước sâu có vị trí địa lý thuận lợi. Cơ sở có thể tiếp nhận tàu 70,000 DWT giảm tải và vận hành các kho ngoại quan, bãi container, khu chứa hàng và các xưởng cơ khí, sơn tự động. Đơn vị sở hữu đội tàu gồm 09 tàu.",
-        "pubDate": "Sat, 15 May 2021 00:00:00 +0700",
-        "sentiment": 0.0,
+        "title": "Maxtopia: Khi Gen Alpha học tài chính bằng trò chơi thay vì những bài giảng khô khan",
+        "url": "https://cafef.vn/maxtopia-khi-gen-alpha-hoc-tai-chinh-bang-tro-choi-thay-vi-nhung-bai-giang-kho-khan-188260624083238994.chn",
+        "source": "CafeF",
+        "summary_en": "VIB has launched Maxtopia, a gamified financial education platform as part of its VIB Junior Banking solution for Vietnamese families. The platform teaches financial literacy to Gen Alpha children aged 6–15 through interactive activities, missions, and point-based reward mechanics instead of traditional instruction methods. VIB Junior Banking is positioned as Vietnam's pioneering digital financial ecosystem designed specifically for young people and families.",
+        "summary_vn": "VIB đã ra mắt Maxtopia, một nền tảng giáo dục tài chính theo hình thức trò chơi như một phần của giải pháp VIB Junior Banking dành cho gia đình Việt Nam. Nền tảng này dạy kiến thức tài chính cho trẻ Gen Alpha từ 6–15 tuổi thông qua các hoạt động tương tác, nhiệm vụ và cơ chế tích điểm thay vì phương pháp giảng dạy truyền thống. VIB Junior Banking được định vị là hệ sinh thái tài chính số tiên phong tại Việt Nam được thiết kế riêng cho trẻ em và gia đình.",
+        "pubDate": "Wed, 24 Jun 26 08:32:00 +0700",
+        "sentiment": 0.3,
         "importance": 2
       }
     ]

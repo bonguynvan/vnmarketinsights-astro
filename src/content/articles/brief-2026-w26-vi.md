@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 26/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 26 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-06-25"
-lastUpdated: "2026-06-25"
+publishedDate: "2026-06-26"
+lastUpdated: "2026-06-26"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,9 +11,9 @@ readingTime: 15
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan tin tức thị trường Việt Nam tuần này
 
-Thị trường chứng khoán ghi nhận hoạt động M&A và phát hành riêng lẻ tăng cường với các giao dịch lớn tại ngành ngân hàng, trong khi Ngân hàng Nhà nước tiếp tục điều chỉnh quy định tín dụng nhằm tăng cung cấp vốn trung dài hạn cho nền kinh tế. Bên cạnh đó, các vụ lừa đảo tài chính quy mô lớn liên tiếp bị phơi bày, trong đó vụ lừa đảo kỳ nghỉ ảnh hưởng đến hơn 3.300 nạn nhân với tổn thất vượt 3.300 tỷ đồng, và Uỷ ban Chứng khoán Nhà nước phát hiện sai sót kế toán trọng yếu tại doanh nghiệp thép lớn.
+Thị trường tài chính Việt Nam trong tuần ghi nhận những biến động trái chiều: các ngân hàng tư nhân tiếp tục tăng trưởng lợi nhuận mạnh mẽ trong 10 năm qua, trong khi dự trữ ngoại hối giảm từ 111 tỷ USD xuống còn 88 tỷ USD. Ngân hàng Nhà nước liên tiếp điều chỉnh các quy định tín dụng nhằm bơm thêm thanh khoản cho nền kinh tế, dự kiến cung cấp khoảng 1 triệu tỷ đồng vốn trung và dài hạn. Bên cạnh đó, thị trường ghi nhận sự giảm mạnh của giá dầu và vàng quốc tế, nhưng cũng phát hiện các vấn đề về kiểm toán trong một số công ty niêm yết và vụ lừa đảo quy mô lớn liên quan đến các giao dịch kỳ nghỉ.
 
 ## Pháp lý
 
@@ -29,6 +29,13 @@ Một vụ lừa đảo kỳ nghỉ có hệ thống lớn được phơi bày, 
 Uỷ ban Chứng khoán Nhà nước (UBCKNN) phát hiện sai sót kế toán trọng yếu tại một doanh nghiệp thép lớn, hai kiểm toán viên PwC bị đình chỉ. Mặc dù báo cáo tài chính hợp nhất tồn tại sai sót kế toán trọng yếu nhưng báo cáo của công ty này vẫn nhận được ý kiến "chấp nhận toàn phần". CTCP Thép Nam Kim (mã: NKG) vừa công bố nhận được công văn của UBCKNN liên quan tới BCTC năm 2025 được kiểm toán bởi Công ty TNHH PwC Việt Nam.
 
 - Nguồn: [CafeF](https://cafef.vn/ubcknn-phat-hien-sai-sot-trong-yeu-tai-mot-doanh-nghiep-thep-lon-hai-kiem-toan-vien-pwc-bi-dinh-chi-188260620220815878.chn)
+
+**Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?**  
+
+Ngân hàng Nhà nước đã áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise. Bài viết lưu ý rằng hạn mức tín dụng không còn là ràng buộc chính của hệ thống ngân hàng Việt Nam. Ngân hàng Nhà nước đang phát tín hiệu điều chỉnh chính sách thông qua các biện pháp như mở rộng tỷ lệ cho vay trên tiền gửi, mở thêm phòng tín dụng và nâng trần cho vay dài hạn.
+
+- Số liệu chính: Số dự án được áp dụng cơ chế đặc biệt: 18 dự án
+- Nguồn: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn)
 
 **Chuyên gia: Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm 1 triệu tỷ đồng vốn trung và dài hạn, lĩnh vực bất động sản hưởng lợi**  
 
@@ -78,19 +85,6 @@ Một giám đốc ngân hàng tại TPHCM đã sử dụng các hợp đồng g
 - Số liệu chính: Amount defrauded: 17.3 billion Vietnamese dong
 - Nguồn: [CafeF](https://cafef.vn/tphcm-giam-doc-ngan-hang-dung-hop-dong-gia-cach-bay-khach-hang-188260622150101093.chn)
 
-**Tin tức sáng 22-6: Từ ngày 1-7, người livestream bán hàng phải xác thực danh tính**  
-
-Luật Thương mại điện tử sẽ có hiệu lực từ ngày 1-7-2026, áp dụng những quy định chặt chẽ hơn đối với livestream bán hàng và tiếp thị liên kết. Luật quy định trách nhiệm của chủ quản nền tảng thương mại điện tử, bao gồm yêu cầu xác thực danh tính điện tử người livestream bán hàng. Các nền tảng phải xác thực danh tính bằng VNeID (hệ thống định danh số quốc gia) trước khi cho phép thực hiện livestream bán hàng.
-
-- Số liệu chính: Law effective date: July 1, 2026
-- Nguồn: [TuoiTre](https://tuoitre.vn/tin-tuc-sang-22-6-tu-ngay-1-7-nguoi-livestream-ban-hang-phai-xac-thuc-danh-tinh-100260621232355823.htm)
-
-**Ngăn chặn tình trạng mua bán trái phép hóa đơn, chứng từ**  
-
-Cảnh sát kinh tế Việt Nam đã khởi tố và bắt tạm giam các đối tượng liên quan đến việc mua bán trái phép hóa đơn và chứng từ. Phòng Cảnh sát kinh tế Công an TPHCM ngày 30/4 bắt tạm giam một số đối tượng để điều tra hành vi in, phát hành và mua bán trái phép hóa đơn, chứng từ thu nộp ngân sách. Các thủ đoạn gian lận này liên quan đến doanh nghiệp ma và đã gây thất thoát hàng nghìn tỷ đồng cho ngân sách nhà nước.
-
-- Nguồn: [CafeF](https://cafef.vn/ngan-chan-tinh-trang-mua-ban-trai-phep-hoa-don-chung-tu-188260621061839448.chn)
-
 ## Chứng khoán
 
 **Những ai sở hữu cổ phần tỷ USD trong SpaceX?**  
@@ -99,6 +93,12 @@ Thương vụ IPO kỷ lục của SpaceX đã nâng giá trị cổ phần củ
 
 - Số liệu chính: Elon Musk's SpaceX shareholding value post-IPO: over USD 1 trillion
 - Nguồn: [VnExpress](https://vnexpress.net/nhung-ai-so-huu-co-phan-ty-usd-trong-spacex-5088211.html)
+
+**Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất**  
+
+Trong giai đoạn 2015-2025, nhiều ngân hàng Việt Nam đạt mức tăng trưởng lợi nhuận đáng kể, với SeABank, MSB và LPBank tăng trưởng nhanh nhất trong hệ thống ngân hàng. Nhiều ngân hàng tư nhân khác cũng đang thu hẹp khoảng cách so với các đối thủ hàng đầu. Dữ liệu phản ánh xu hướng tăng thu nhập đáng kể trong 10 năm qua trên nhiều tổ chức.
+
+- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
 
 **Loạt cá nhân chuẩn bị bỏ ra hơn 300 - 500 tỷ, có người 880 tỷ đồng để mua một cổ phiếu ngân hàng**  
 
@@ -128,13 +128,21 @@ BVBank vừa được HoSE chấp thuận niêm yết hơn 640,8 triệu cổ ph
 - Số liệu chính: Approved shares for listing: over 640.8 million shares
 - Nguồn: [CafeF](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn)
 
-**MSCI “trừ điểm” Indonesia, cơ hội nào cho Việt Nam?**  
-
-MSCI đã hạ tiêu chí luồng thông tin của Indonesia xuống mức tiêu cực trong báo cáo Đánh giá Khả năng Tiếp cận Thị trường Toàn cầu 2026, với lo ngại về khả năng đầu tư nước ngoài và vấn đề minh bạch trong cơ cấu sở hữu cổ phần. Việt Nam có cơ hội hưởng lợi từ những bất lợi của Indonesia, tuy nhiên vẫn phải chứng minh đạt tiêu chuẩn phân hạng Emerging Markets của MSCI. Báo cáo nhấn mạnh những thách thức cơ cấu trong môi trường đầu tư Indonesia có thể tạo cơ hội cho các thị trường cạnh tranh.
-
-- Nguồn: [CafeF](https://cafef.vn/msci-tru-diem-indonesia-co-hoi-nao-cho-viet-nam-188260621223633817.chn)
-
 ## Kinh tế vĩ mô
+
+**Lý do dự trữ ngoại hối từ kỷ lục hơn 111 tỷ USD 'rơi' xuống gần 88 tỷ USD**  
+
+Dự trữ ngoại hối của Việt Nam đã giảm từ mức kỷ lục hơn 111 tỷ USD vào đầu năm 2022 xuống còn khoảng 88 tỷ USD. Ngân hàng Nhà nước đang lấy ý kiến sửa đổi Nghị định 50/2014 về quản lý dự trữ ngoại hối nhà nước. Sự suy giảm dự trữ phản ánh áp lực lên tình hình ngoài tệ và ổn định tỷ giá của Việt Nam.
+
+- Số liệu chính: Dự trữ ngoại hối hiện tại: 88 tỷ USD; Mức đỉnh dự trữ ngoại hối: 111 tỷ USD; Thời kỳ mức đỉnh: đầu năm 2022; Dự trữ ngoại hối (cập nhật): 87.6 tỷ USD
+- Nguồn: [CafeF](https://cafef.vn/ly-do-du-tru-ngoai-hoi-tu-ky-luc-hon-111-ty-usd-roi-xuong-gan-88-ty-usd-188260625110033168.chn)
+
+**Giá xăng dầu hôm nay 25/6: Thế giới lao dốc, trong nước chiều nay có giá mới**  
+
+Giá dầu quốc tế giảm mạnh vào ngày 24/6, với dầu Brent giảm 4,3% xuống 73,74 USD/thùng và dầu WTI giảm 3,9% xuống 70,34 USD/thùng theo Reuters. Dầu Brent chạm mức thấp nhất kể từ ngày 27/2, một ngày trước khi Mỹ và Israel tiến hành các cuộc tấn công đầu tiên vào Iran. Giá xăng dầu trong nước được dự kiến có giá mới vào chiều ngày 25/6.
+
+- Số liệu chính: Brent crude price change: -4.3% percent; Brent crude closing price: 73.74 USD/barrel; WTI crude price change: -3.9% percent; WTI crude closing price: 70.34 USD/barrel
+- Nguồn: [VietnamNet](https://vietnamnet.vn/gia-xang-dau-hom-nay-25-6-the-gioi-lao-doc-trong-nuoc-chieu-nay-co-gia-moi-2529137.html)
 
 **Giá vàng lao dốc tối 24/6, mất mốc quan trọng 4.000 USD/ounce**  
 
@@ -177,19 +185,14 @@ Thủ tướng Chính phủ Lê Minh Hưng dự lễ khởi công 5 tuyến đư
 - Số liệu chính: Tổng vốn đầu tư: hơn 1,3 triệu tỷ đồng đồng; Số tuyến đường sắt đô thị: 5 tuyến; Số dự án nhà ở cho thuê: 3 dự án
 - Nguồn: [CafeF](https://cafef.vn/thu-tuong-du-le-khoi-cong-5-tuyen-duong-sat-3-du-an-nha-o-cho-thue-tai-ha-noi-voi-tong-von-hon-13-trieu-ty-dong-188260622095113621.chn)
 
-**Hà Nội vừa chứng kiến kỷ lục trị giá hơn 1,3 triệu tỷ đồng, DN của tỷ phú Phạm Nhật Vượng trực tiếp làm**  
+## Khác
 
-Hà Nội vừa chứng kiến kỷ lục đầu tư vượt quá 1,3 triệu tỷ đồng, với các dự án liên quan đến công ty của tỷ phú Phạm Nhật Vượng. Thủ tướng dự lễ khởi công 5 tuyến đường sắt và 3 dự án nhà ở cho thuê ở Hà Nội với tổng vốn hơn 1,3 triệu tỷ đồng. Các lãnh đạo tỉnh được yêu cầu cam kết bằng văn bản về tiến độ hoàn thành dự án.
+**TP.HCM sắp đồng loạt khởi công 10 dự án trọng điểm hơn 381.000 tỉ đồng**  
 
-- Số liệu chính: Total investment capital: 1.3 million billion VND VND; Number of railway lines: 5 lines; Number of rental housing projects: 3 projects
-- Nguồn: [CafeF](https://cafef.vn/ha-noi-vua-chung-kien-ky-luc-tri-gia-hon-13-trieu-ty-dong-dn-cua-ty-phu-pham-nhat-vuong-truc-tiep-lam-188260622121531901.chn)
+TP.HCM dự kiến khởi công đồng loạt 10 dự án trọng điểm trước ngày 2-7 với tổng mức đầu tư hơn 381.000 tỉ đồng. Các dự án bao gồm các lĩnh vực hạ tầng giao thông, đô thị, môi trường, cảng biển và nhà ở xã hội. Lễ khởi công các dự án được lên kế hoạch diễn ra trước ngày 2 tháng 7 năm 2026.
 
-**Nhập siêu tăng 2,8 tỷ USD chỉ sau nửa tháng**  
-
-Theo dữ liệu sơ bộ từ Cục Hải quan, nhập siêu của Việt Nam tăng 2,8 tỷ USD trong nửa đầu tháng 6. Mức nhập siêu lũy kế từ đầu năm đến nửa tháng 6 đạt khoảng 16,8 tỷ USD. Việt Nam ghi nhận nhập siêu cao nhất trong 10 năm, với tổng nhập khẩu gần 90 tỷ USD trong 5 tháng đầu năm.
-
-- Số liệu chính: Trade deficit increase in first half of June: 2.8 billion USD; Cumulative trade deficit from start of year to mid-June: 16.8 billion USD; Total imports in first five months of year: 90 billion USD
-- Nguồn: [CafeF](https://cafef.vn/nhap-sieu-tang-28-ty-usd-chi-sau-nua-thang-188260622133542426.chn)
+- Số liệu chính: Total investment value: 381,000 billion dong dong; Number of major projects: 10 projects
+- Nguồn: [CafeF](https://cafef.vn/tphcm-sap-dong-loat-khoi-cong-10-du-an-trong-diem-hon-381000-ti-dong-188260625141032359.chn)
 
 ---
 

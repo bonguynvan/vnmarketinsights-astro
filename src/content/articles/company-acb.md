@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-06-25"
-lastUpdated: "2026-06-25"
+publishedDate: "2026-06-26"
+lastUpdated: "2026-06-26"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tổng Giám đốc ACB: "Cấp vốn cho doanh nghiệp không chỉ dừng ở tài sản đảm bảo"**  
+
+ACB's CEO discussed capital access for small and medium enterprises (SMEs) at a conference titled "SME Dialogue 2026: Open Policy – Business Takes Off," organized jointly with Hanoi Business Association (HBA) and Vietnam Consumer Goods Development Association (VACOD). The discussion addressed capital financing challenges faced by SMEs, particularly when expanding operations while having limited collateral assets. The CEO emphasized that capital provision for businesses extends beyond reliance on collateral assets.
+
+- Source: [CafeF](https://cafef.vn/tong-giam-doc-acb-cap-von-cho-doanh-nghiep-khong-chi-dung-o-tai-san-dam-bao-188260625081219773.chn)
 
 **ACB cảnh báo 30 kịch bản lừa đảo trực tuyến phổ biến tại Việt Nam**  
 
@@ -39,10 +45,10 @@ Nguyễn Thiên Hương Jenny, daughter of Âu Lạc chairman, completed a share
 
 ## Related coverage
 
+- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 - [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 
