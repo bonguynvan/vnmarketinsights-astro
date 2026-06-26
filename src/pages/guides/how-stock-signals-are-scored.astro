@@ -1,0 +1,316 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How Stock Signals Are Scored — VN Market Signal Methodology (2026)";
+const description = "A transparent, rules-based methodology for scoring Vietnamese stocks 0–100: how the fundamental and technical components work, what each indicator (P/E, ROE, MA200, Golden Cross, RSI) contributes, and how verdicts are assigned.";
+const canonical = "https://vnmarketinsights.com/guides/how-stock-signals-are-scored/";
+
+// The numbers below mirror the live scoring engine (src/utils/stockSignals.ts),
+// so the documented methodology matches the real implementation.
+const fundamentalRules = [
+  { metric: 'P/E (valuation)', max: 10, rule: '< 15× → +10 · 15–25× → +5 · ≥ 25× or negative → 0' },
+  { metric: 'ROE (profitability)', max: 10, rule: '≥ 20% → +10 · 15–20% → +7 · 10–15% → +3 · < 10% → 0' },
+  { metric: 'Debt / Equity (leverage)', max: 10, rule: '< 0.5× → +10 · 0.5–1.0× → +7 · 1.0–1.5× → +3 · ≥ 1.5× → 0' },
+  { metric: 'EPS / profit growth', max: 10, rule: '≥ 20% YoY → +10 · 10–20% → +7 · 0–10% → +3 · negative → 0' },
+  { metric: 'Dividend yield', max: 10, rule: '≥ 5% → +10 · 2–5% → +5 · 0–2% → +2 · none → 0' },
+];
+
+const technicalRules = [
+  { metric: 'Price vs MA200 (trend)', max: 15, rule: 'Above MA200 → +15 · below → 0' },
+  { metric: 'MA50 vs MA200 (structure)', max: 15, rule: 'Golden Cross (MA50 > MA200) → +15 · Death Cross → 0' },
+  { metric: 'RSI(14) zone (momentum)', max: 10, rule: '40–65 ideal → +10 · < 30 oversold → +7 · neutral → +5 · > 75 overbought → +3' },
+  { metric: '52-week position', max: 10, rule: '≥ 70% of range → +10 · 40–70% → +6 · < 40% → +2' },
+];
+
+const verdictBands = [
+  { range: '75–100', verdict: 'Strong Buy', color: 'green' },
+  { range: '55–74', verdict: 'Accumulate', color: 'yellow' },
+  { range: '35–54', verdict: 'Watch', color: 'orange' },
+  { range: '0–34', verdict: 'Avoid', color: 'red' },
+];
+
+const steps = [
+  {
+    name: 'Score fundamentals (0–50)',
+    text: 'Five balance-sheet and valuation metrics each contribute up to 10 points: P/E (valuation), ROE (profitability), Debt/Equity (leverage), EPS or net-profit growth, and dividend yield. Each metric is bucketed into thresholds rather than scored continuously, so the result is explainable.',
+  },
+  {
+    name: 'Score technicals (0–50)',
+    text: 'Four price-based checks contribute the other 50 points: price versus the 200-day moving average (15), the MA50/MA200 Golden-vs-Death Cross structure (15), the RSI(14) momentum zone (10), and where price sits within its 52-week range (10).',
+  },
+  {
+    name: 'Combine into a 0–100 composite',
+    text: 'The fundamental and technical sub-scores are summed into a single 0–100 number. A balanced 50/50 weighting deliberately stops a great story stock with weak technicals — or strong momentum on shaky fundamentals — from scoring top marks on one leg alone.',
+  },
+  {
+    name: 'Map the score to a verdict',
+    text: 'The composite maps to one of four verdicts: Strong Buy (75+), Accumulate (55–74), Watch (35–54), or Avoid (under 35). Every verdict ships with the bullet-point reasons that produced it, so the rating can be audited rather than trusted blindly.',
+  },
+];
+
+const faqs = [
+  {
+    question: "How is a stock signal score calculated?",
+    answer: "Each stock is scored out of 100: up to 50 points from fundamentals (P/E, ROE, Debt/Equity, profit growth, dividend yield) and up to 50 from technicals (price vs MA200, MA50/MA200 cross, RSI zone, and 52-week range position). Each metric is bucketed into thresholds that add a fixed number of points, and the two halves are summed. The methodology is rules-based and deterministic — the same inputs always produce the same score."
+  },
+  {
+    question: "What do the verdicts (Strong Buy, Accumulate, Watch, Avoid) mean?",
+    answer: "They are labels for score bands, not advice: 75–100 = Strong Buy, 55–74 = Accumulate, 35–54 = Watch, 0–34 = Avoid. A verdict simply summarizes where a stock falls on the 0–100 scale under this fixed rule set; it does not account for your goals, risk tolerance, or market timing."
+  },
+  {
+    question: "Why split the score 50/50 between fundamentals and technicals?",
+    answer: "A 50/50 split keeps either dimension from dominating. A cheap, profitable company in a clear downtrend, or a high-flying momentum stock with weak fundamentals, will each cap out near 50 — flagging the tension instead of hiding it. Long-term value investors can read the fundamental half; traders can read the technical half."
+  },
+  {
+    question: "What is a Golden Cross and why does it score points?",
+    answer: "A Golden Cross is when the 50-day moving average rises above the 200-day moving average, a widely-watched signal of a strengthening long-term trend (the opposite, MA50 below MA200, is a Death Cross). In this methodology a Golden Cross adds 15 of the 50 technical points because trend structure is one of the most reliable, low-noise technical reads."
+  },
+  {
+    question: "Is this stock scoring investment advice?",
+    answer: "No. It is a transparent, educational summary of common indicators applied with fixed rules. It does not consider your financial situation, and indicators describe the past, not the future. Always do your own research and consult a licensed adviser before investing in Vietnamese equities."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How Stock Signals Are Scored",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-27"
+  lastUpdated="2026-06-27"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>How Stock Signals Are Scored</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        A stock signal is only useful if you can see how it was made. This page documents the exact,
+        rules-based methodology used to score Vietnamese stocks on a 0–100 scale — what each metric
+        contributes, where the thresholds sit, and how a composite score becomes a verdict. It's an
+        explanation of method, not investment advice.
+      </p>
+    </header>
+
+    <section>
+      <h2>The two halves of the score</h2>
+      <p>
+        Every stock is scored out of 100, split evenly into a <strong>fundamental</strong> half
+        (0–50) and a <strong>technical</strong> half (0–50). The fundamental half asks "is this a
+        good business at a fair price?"; the technical half asks "is the market structure currently
+        with you or against you?". Keeping them equal means a strong score requires both — a deep
+        moat trading in a downtrend, or a hot chart on a fragile balance sheet, each caps out around
+        half marks.
+      </p>
+    </section>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Fundamental scoring (0–50)</h2>
+      <p>Five metrics, each worth up to 10 points, bucketed into fixed thresholds:</p>
+      <table class="score-table">
+        <thead>
+          <tr><th>Metric</th><th>Max</th><th>Thresholds</th></tr>
+        </thead>
+        <tbody>
+          {fundamentalRules.map((r) => (
+            <tr>
+              <td>{r.metric}</td>
+              <td class="num">+{r.max}</td>
+              <td class="rule">{r.rule}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Technical scoring (0–50)</h2>
+      <p>
+        Four price-based checks. Trend structure (price vs <a href="/glossary/moving-average/">MA200</a>
+        and the <a href="/glossary/golden-cross/">Golden Cross</a>) carries the most weight because it
+        is the least noisy; <a href="/glossary/rsi/">RSI</a> and the 52-week position add momentum and
+        context.
+      </p>
+      <table class="score-table">
+        <thead>
+          <tr><th>Check</th><th>Max</th><th>Rule</th></tr>
+        </thead>
+        <tbody>
+          {technicalRules.map((r) => (
+            <tr>
+              <td>{r.metric}</td>
+              <td class="num">+{r.max}</td>
+              <td class="rule">{r.rule}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>From score to verdict</h2>
+      <p>The composite 0–100 maps to one of four bands:</p>
+      <div class="verdict-grid">
+        {verdictBands.map((v) => (
+          <div class={`verdict-card v-${v.color}`}>
+            <span class="verdict-range">{v.range}</span>
+            <span class="verdict-label">{v.verdict}</span>
+          </div>
+        ))}
+      </div>
+      <p class="note">
+        Every score is delivered with the bullet-point reasons that built it (for example,
+        "✅ Golden Cross: MA50 &gt; MA200" or "⚠️ High P/E — needs strong growth to justify
+        valuation"), so a rating can always be traced back to the inputs.
+      </p>
+    </section>
+
+    <section>
+      <h2>Short-term signals are scored separately</h2>
+      <p>
+        The 0–100 composite is built for a long-term, value-investing lens. Short-term trading
+        signals — MACD crossovers, RSI oversold/overbought reversals, EMA9/EMA21 crosses, Bollinger
+        squeezes, and volume spikes — are detected on their own track, each tagged bullish or bearish
+        with a strength of 1–3 and an expected timeframe, then tallied into a short-term bias. They
+        answer a different question (days, not quarters) and should not be confused with the
+        long-term score.
+      </p>
+    </section>
+
+    <section>
+      <h2>Limitations</h2>
+      <p>
+        This is a deterministic summary of well-known indicators, not a forecast. Thresholds are
+        deliberately simple and apply the same way to every stock, which means sector nuance (a bank's
+        leverage is not a manufacturer's), one-off accounting items, and forward-looking catalysts are
+        not captured. Indicators describe the past. Treat the score as a fast, auditable first read —
+        a starting point for research, never a substitute for it.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-invest-in-vietnam-stock-market/">How to invest in the Vietnam stock market</a></li>
+        <li><a href="/financial-markets/">Vietnam financial markets — overview</a></li>
+        <li><a href="/compare/vn-index-vs-vn30/">VN-Index vs VN30 compared</a></li>
+        <li>
+          Glossary: <a href="/glossary/moving-average/">Moving average</a> ·
+          <a href="/glossary/rsi/">RSI</a> · <a href="/glossary/macd/">MACD</a> ·
+          <a href="/glossary/golden-cross/">Golden Cross</a> ·
+          <a href="/glossary/bollinger-bands/">Bollinger Bands</a>
+        </li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a, .related-list a { color: var(--color-accent); }
+  .score-table { width: 100%; border-collapse: collapse; margin: var(--space-4) 0; font-size: var(--text-sm); }
+  .score-table th, .score-table td { text-align: left; padding: var(--space-2) var(--space-3); border-bottom: 1px solid var(--color-border-light); vertical-align: top; }
+  .score-table thead th { border-bottom: 2px solid var(--color-border); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); }
+  .score-table td.num { font-weight: 700; color: var(--color-accent); white-space: nowrap; }
+  .score-table td.rule { color: var(--color-text-muted); }
+  .verdict-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: var(--space-3); margin: var(--space-4) 0; }
+  .verdict-card { border: 1px solid var(--color-border-light); border-left-width: 4px; border-radius: 2px; padding: var(--space-3) var(--space-4); display: flex; flex-direction: column; gap: 0.25rem; background: var(--color-bg-subtle); }
+  .verdict-range { font-size: var(--text-xs); color: var(--color-text-muted); font-variant-numeric: tabular-nums; }
+  .verdict-label { font-weight: 700; }
+  .v-green { border-left-color: #16a34a; }
+  .v-yellow { border-left-color: #ca8a04; }
+  .v-orange { border-left-color: #ea580c; }
+  .v-red { border-left-color: var(--color-accent); }
+  .note { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

@@ -13,7 +13,8 @@ export type GlossaryCategory =
   | 'Platforms'
   | 'Regulations'
   | 'Infrastructure'
-  | 'Consumers';
+  | 'Consumers'
+  | 'Markets';
 
 export const GLOSSARY_CATEGORIES: GlossaryCategory[] = [
   'Payments',
@@ -23,6 +24,7 @@ export const GLOSSARY_CATEGORIES: GlossaryCategory[] = [
   'Regulations',
   'Infrastructure',
   'Consumers',
+  'Markets',
 ];
 
 function slugify(value: string): string {
@@ -271,6 +273,41 @@ const RAW_TERMS: Array<Omit<GlossaryTerm, 'slug'>> = [
     definition:
       'The Comprehensive and Progressive Agreement for Trans-Pacific Partnership, a multilateral free trade pact among 11 Pacific-rim economies including Vietnam. It lowers tariffs and harmonizes trade rules, expanding preferential market access for Vietnamese exports.',
     relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'Moving Average (MA)',
+    category: 'Markets',
+    definition:
+      'The average closing price of a stock over a fixed number of sessions, recalculated each day to smooth out noise and reveal trend. Common windows are MA20 (short term), MA50 (medium), and MA200 (long term); price trading above its MA200 is widely read as a long-term uptrend.',
+    relatedTopics: ['financial-markets'],
+  },
+  {
+    term: 'Golden Cross',
+    category: 'Markets',
+    definition:
+      'A bullish chart pattern where the 50-day moving average rises above the 200-day moving average, signaling strengthening long-term momentum. The opposite — MA50 falling below MA200 — is a "Death Cross", read as long-term weakness.',
+    relatedTopics: ['financial-markets'],
+  },
+  {
+    term: 'RSI (Relative Strength Index)',
+    category: 'Markets',
+    definition:
+      'A momentum oscillator from 0 to 100 that compares the size of recent gains to recent losses, usually over 14 sessions. Readings above 70 are considered overbought (correction risk) and below 30 oversold (potential rebound); the 40–65 band is often treated as healthy neutral momentum.',
+    relatedTopics: ['financial-markets'],
+  },
+  {
+    term: 'MACD (Moving Average Convergence Divergence)',
+    category: 'Markets',
+    definition:
+      'A trend-and-momentum indicator built from the difference between a 12-period and 26-period EMA (the MACD line) and its 9-period EMA (the signal line). The MACD line crossing above the signal line is a bullish short-term cue; crossing below is bearish.',
+    relatedTopics: ['financial-markets'],
+  },
+  {
+    term: 'Bollinger Bands',
+    category: 'Markets',
+    definition:
+      'A volatility band drawn two standard deviations above and below a 20-period moving average. When the bands narrow sharply (a "squeeze") volatility is compressed and a breakout often follows; price pushing outside a band signals a strong move in that direction.',
+    relatedTopics: ['financial-markets'],
   },
 ];
 
