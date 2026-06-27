@@ -45,3 +45,12 @@ sources:
     topic_hint: economy
     feeds:
       - https://thanhnien.vn/rss/kinh-te.rss
+
+  # Law / regulation coverage. VnEconomy's "policy" feed carries economic-law,
+  # decree, and business-regulation news; the enrich step classifies each item
+  # into the `regulation` topic, which feeds the /regulations hub + trends.
+  - name: VnEconomy
+    lang: vi
+    topic_hint: regulation
+    feeds:
+      - https://vneconomy.vn/chinh-sach.rss
