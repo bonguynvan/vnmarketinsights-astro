@@ -42,6 +42,19 @@ jobs:
           VNNEWS_ENRICH_LIMIT: "40"
         run: python run.py all
 
+      # Refresh the committed stock OHLC snapshot. Best-effort: VietCap's gateway
+      # may rate-limit or geo-block GitHub's runners; on failure the script leaves
+      # the existing snapshot untouched, so the news pipeline never breaks on it.
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Refresh stock snapshot (best-effort)
+        continue-on-error: true
+        working-directory: ${{ github.workspace }}
+        run: node scripts/fetch-stock-snapshot.mjs
+
       - name: Commit results
         run: |
           cd "${GITHUB_WORKSPACE}"
