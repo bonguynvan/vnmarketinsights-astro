@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-06-26"
-lastUpdated: "2026-06-26"
+publishedDate: "2026-06-27"
+lastUpdated: "2026-06-27"
 category: "Company"
 readingTime: 3
 ---

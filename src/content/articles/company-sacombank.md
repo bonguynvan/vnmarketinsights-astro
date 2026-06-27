@@ -1,17 +1,29 @@
 ---
 title: "Sacombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sacombank, with neutral summaries and source links."
-publishedDate: "2026-06-26"
-lastUpdated: "2026-06-26"
+publishedDate: "2026-06-27"
+lastUpdated: "2026-06-27"
 category: "Company"
 readingTime: 3
 ---
 
 # Sacombank
 
-Recent Vietnam market news mentioning **Sacombank** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sacombank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
+
+Over the past 10 years, banks have issued an additional 66.6 billion shares, increasing the total system's charter capital by over 666,000 billion Vietnamese dong. The article examines which banks have led in share issuance during this period. The expansion of bank lending activities and regulatory changes are mentioned as factors affecting liquidity and interest rates.
+
+- Source: [CafeF](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn)
+
+**Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...**  
+
+On June 27, ACB led the online deposit rate survey with 7.3% per annum for 12-month terms. The Big4 banks maintained 6.8% per annum, while other banks quoted rates between 6.9-7% per annum. The survey covered multiple banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn)
 
 **Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -73,24 +85,12 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 
 - Source: [CafeF](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn)
 
-**Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng**  
-
-Multiple Vietnamese banks have received approval from the State Bank and their shareholders to increase charter capital. The article references several major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank undertaking capital increases. An Ernst & Young expert commented that the future of digital banking depends on transaction presence rather than customer quantity.
-
-- Source: [CafeF](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn)
-
-**SACOMBANK triển khai tính năng “Chấp nhận thanh toán thẻ Visa” – Nhận thanh toán ngay trên ứng dụng SACOMBANK PAY**  
-
-SACOMBANK has launched a feature enabling Visa card payments to be accepted directly through the SACOMBANK PAY application. The feature is designed to provide convenient, modern, and cost-efficient payment solutions for retail shops, small businesses, and independent business owners. Card holders can receive payments from Visa cards through the application.
-
-- Source: [CafeF](https://cafef.vn/sacombank-trien-khai-tinh-nang-chap-nhan-thanh-toan-the-visa-nhan-thanh-toan-ngay-tren-ung-dung-sacombank-pay-188260619112625118.chn)
-
 ## Related coverage
 
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Ngân hàng Nhà nước ra khuyến cáo khẩn đến toàn bộ người dân mua bán ngoại tệ](https://cafef.vn/ngan-hang-nha-nuoc-ra-khuyen-cao-khan-den-toan-bo-nguoi-dan-mua-ban-ngoai-te-188260626152142177.chn) — CafeF
 
 ---
 

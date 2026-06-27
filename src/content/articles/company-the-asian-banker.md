@@ -1,17 +1,23 @@
 ---
 title: "The Asian Banker — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning The Asian Banker, with neutral summaries and source links."
-publishedDate: "2026-06-26"
-lastUpdated: "2026-06-26"
+publishedDate: "2026-06-27"
+lastUpdated: "2026-06-27"
 category: "Company"
 readingTime: 3
 ---
 
 # The Asian Banker
 
-Recent Vietnam market news mentioning **The Asian Banker** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **The Asian Banker** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026**  
+
+Techcombank and Techcom Life received three awards from The Asian Banker 2026, a leading financial evaluation and ranking organization in Asia. The awards affirm Techcombank's leading position as a national enterprise in its field. The achievements underscore the company's prominence within the financial and banking sector in Asia.
+
+- Source: [CafeF](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn)
 
 **Ứng dụng vay tiêu dùng đạt hơn 1 triệu người dùng của Ngân hàng CUBHCM được The Asian Banker vinh danh**  
 
@@ -42,7 +48,7 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
 

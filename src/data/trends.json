@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-26T23:58:48.332622+00:00",
+  "generatedAt": "2026-06-27T23:57:26.519665+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 129,
-      "growthRate": 19.0,
-      "avgSentiment": -0.151,
+      "total": 155,
+      "growthRate": 12.0,
+      "avgSentiment": -0.145,
       "tag": "Rising Star",
       "series": [
         {
@@ -38,15 +38,20 @@
           "date": "2026-06-26",
           "count": 40,
           "sentiment": -0.107
+        },
+        {
+          "date": "2026-06-27",
+          "count": 26,
+          "sentiment": -0.108
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 77,
-      "growthRate": 4.667,
-      "avgSentiment": -0.087,
+      "total": 85,
+      "growthRate": 1.667,
+      "avgSentiment": -0.035,
       "tag": "Rising Star",
       "series": [
         {
@@ -78,15 +83,20 @@
           "date": "2026-06-26",
           "count": 17,
           "sentiment": 0.024
+        },
+        {
+          "date": "2026-06-27",
+          "count": 8,
+          "sentiment": 0.275
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 37,
-      "growthRate": -0.733,
-      "avgSentiment": 0.162,
+      "total": 42,
+      "growthRate": -0.667,
+      "avgSentiment": 0.205,
       "tag": "Stable",
       "series": [
         {
@@ -113,16 +123,21 @@
           "date": "2026-06-26",
           "count": 4,
           "sentiment": 0.125
+        },
+        {
+          "date": "2026-06-27",
+          "count": 5,
+          "sentiment": 0.42
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 22,
-      "growthRate": 4.0,
-      "avgSentiment": 0.04,
-      "tag": "Rising Star",
+      "total": 23,
+      "growthRate": -0.5,
+      "avgSentiment": 0.12,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -153,6 +168,11 @@
           "date": "2026-06-26",
           "count": 10,
           "sentiment": 0.19
+        },
+        {
+          "date": "2026-06-27",
+          "count": 1,
+          "sentiment": 0.6
         }
       ]
     },

@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-06-26"
-lastUpdated: "2026-06-26"
+publishedDate: "2026-06-27"
+lastUpdated: "2026-06-27"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
+
+The State Bank of Vietnam is signaling a focused credit expansion cycle through a series of policy measures, including special room allocations for 18 priority projects from Vingroup, Sun Group, and Masterise. The central bank is adjusting systemic management indicators and preparing to inject approximately 1.5 quadrillion Vietnamese dong into the economy. These measures represent a significant policy shift toward strategic credit loosening.
+
+- Source: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
 
 **Ngân hàng được mở rộng cho vay dài hạn có thể gây sức ép lên thanh khoản và lãi suất**  
 
@@ -46,9 +52,9 @@ The State Bank of Vietnam has permitted commercial banks to exclude new debt fro
 ## Related coverage
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 - [NHNN nới tỷ lệ vốn ngắn hạn cho vay trung dài hạn: Những ngân hàng nào hưởng lợi nhất?](https://cafef.vn/nhnn-noi-ty-le-von-ngan-han-cho-vay-trung-dai-han-nhung-ngan-hang-nao-huong-loi-nhat-188260623140545657.chn) — CafeF
 - [Nới trần vốn ngắn hạn cho vay dài hạn: Cơ hội đi kèm rủi ro thanh khoản](https://cafef.vn/noi-tran-von-ngan-han-cho-vay-dai-han-co-hoi-di-kem-rui-ro-thanh-khoan-188260621144901632.chn) — CafeF
-- [Chính thức: Từ 1/7, các ngân hàng được nới trần vốn ngắn hạn cho vay trung dài hạn lên 40%](https://cafef.vn/chinh-thuc-tu-1-7-cac-ngan-hang-duoc-noi-tran-von-ngan-han-cho-vay-trung-dai-han-len-40-188260622171737771.chn) — CafeF
 
 ---
 

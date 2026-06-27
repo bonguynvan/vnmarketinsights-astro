@@ -1,17 +1,29 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-06-26"
-lastUpdated: "2026-06-26"
+publishedDate: "2026-06-27"
+lastUpdated: "2026-06-27"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
+
+Over the past 10 years, banks have issued an additional 66.6 billion shares, increasing the total system's charter capital by over 666,000 billion Vietnamese dong. The article examines which banks have led in share issuance during this period. The expansion of bank lending activities and regulatory changes are mentioned as factors affecting liquidity and interest rates.
+
+- Source: [CafeF](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn)
+
+**Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...**  
+
+On June 27, ACB led the online deposit rate survey with 7.3% per annum for 12-month terms. The Big4 banks maintained 6.8% per annum, while other banks quoted rates between 6.9-7% per annum. The survey covered multiple banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn)
 
 **Ngân hàng Nhà nước ra khuyến cáo khẩn đến toàn bộ người dân mua bán ngoại tệ**  
 
@@ -73,24 +85,12 @@ BIDV received the Best Customer Experience Initiative in Vietnam 2026 award from
 
 - Source: [CafeF](https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn)
 
-**Giá vàng SJC, vàng nhẫn trơn chiều 22/6**  
-
-Gold prices in Vietnam declined slightly in the afternoon of June 22 after a strong rise in the early morning session. Multiple enterprises adjusted prices downward for both SJC gold bars and plain gold rings by 0.1–0.7 million VND per tael during the afternoon trading period. The exact price levels were not fully specified in the available excerpt.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn)
-
-**Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
-
-On 22 June, a survey of online deposit interest rates showed the market continuing to segment into distinct groups, with some banks quoting rates of 7% per annum or higher while state-owned banks maintained a stable level at 6.8% per annum. The rate disparity reflects differentiated pricing strategies across banking institutions. Multiple major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank were surveyed for this market monitoring.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
 - [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 
 ---
 
