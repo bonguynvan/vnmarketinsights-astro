@@ -1,0 +1,185 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Business Tax Guide for Foreign Companies (2026) — CIT, VAT, FCT & Global Minimum Tax";
+const description = "The taxes a foreign business in Vietnam needs to understand in 2026: corporate income tax (CIT) under the new 2025 law, VAT, foreign contractor tax (FCT), the 15% global minimum tax, and personal income tax for expats — explained in plain English.";
+const canonical = "https://vnmarketinsights.com/guides/vietnam-business-tax-guide/";
+
+const taxes = [
+  { tax: 'Corporate Income Tax (CIT)', rate: 'Standard 20%; SMEs 15–17%; incentives 10% / 17%', note: 'New Law on CIT (No. 67/2025/QH15) in force from 1 Oct 2025. Lower tiered rates for qualifying small firms; preferential rates and holidays for encouraged sectors/locations.' },
+  { tax: 'Value-Added Tax (VAT)', rate: '0%, 5%, or 10% (standard 10%)', note: 'Most goods/services 10%; essentials 5%; exports 0%. Foreign digital suppliers without a PE charge 10% on e-commerce/digital services.' },
+  { tax: 'Foreign Contractor Tax (FCT)', rate: 'CIT portion 0.1–10% + VAT portion 2–5%', note: 'Withheld by the Vietnamese payer on payments to foreign organizations earning Vietnam-sourced income without a local entity.' },
+  { tax: 'Global Minimum Tax (GMT)', rate: 'Top-up to a 15% effective rate', note: 'Applies to multinational groups with ≥ €750m consolidated revenue (OECD Pillar Two). Resolution 107/2023, effective 1 Jan 2024; Decree 236/2025 implementing.' },
+  { tax: 'Personal Income Tax (PIT)', rate: 'Residents 5–35% (progressive); non-residents 20% flat', note: 'Tax residents (183+ days, or a permanent residence) are taxed on worldwide income; non-residents on Vietnam-sourced income only.' },
+];
+
+const faqs = [
+  {
+    question: "What is the corporate income tax rate in Vietnam?",
+    answer: "The standard corporate income tax (CIT) rate is 20%. Under the new Law on Corporate Income Tax (No. 67/2025/QH15), in force from 1 October 2025, qualifying small and medium enterprises pay tiered rates of 15–17%, and encouraged projects can access preferential rates of 10% or 17% plus tax holidays. Oil, gas, and certain natural-resource activities are taxed at higher rates."
+  },
+  {
+    question: "What is foreign contractor tax (FCT)?",
+    answer: "FCT is a withholding tax on payments to foreign organizations that earn income in Vietnam without setting up a local entity — for example a foreign company providing services, software, or interest/royalties to a Vietnamese business. It bundles a CIT element (commonly 0.1–10% depending on the activity) and a VAT element (commonly 2–5%), withheld by the Vietnamese payer. It is one of the most commonly overlooked costs in cross-border contracts."
+  },
+  {
+    question: "Does the global minimum tax apply in Vietnam?",
+    answer: "Yes. Vietnam adopted the OECD Pillar Two global minimum tax via Resolution 107/2023/QH15 (effective 1 January 2024), with Decree 236/2025 implementing it. Multinational groups with consolidated revenue of €750 million or more must ensure their Vietnam profits are taxed at an effective rate of at least 15%; where incentives push the effective rate below 15%, a top-up applies. It mainly affects large multinationals, not typical SMEs."
+  },
+  {
+    question: "How is VAT charged in Vietnam?",
+    answer: "VAT has three positive rates — 0% (exports), 5% (essential goods and services), and 10% (the standard rate) — plus exempt categories. Foreign suppliers selling digital services or e-commerce into Vietnam without a permanent establishment register and charge VAT at 10%. Businesses generally use the credit method, offsetting input VAT against output VAT."
+  },
+  {
+    question: "How are expatriate employees taxed in Vietnam?",
+    answer: "Individuals who are Vietnam tax residents — present 183+ days in a 12-month period, or with a permanent/registered residence — are taxed on worldwide employment income at progressive rates from 5% to 35%. Non-residents are taxed at a flat 20% on Vietnam-sourced income. Many expat packages also need to account for compulsory insurance and tax-equalization arrangements."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-27"
+  lastUpdated="2026-06-27"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Business Tax Guide</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Tax is where many foreign businesses in Vietnam get caught out — not by the headline corporate
+        rate, but by withholding taxes on cross-border payments and fast-moving reform. This guide
+        covers the taxes that matter in 2026: CIT, VAT, foreign contractor tax, the new global minimum
+        tax, and expat personal income tax. It's an orientation, not tax advice.
+      </p>
+      <p class="lawnote">
+        ⚖️ <strong>Recently changed.</strong> A new <strong>Law on Corporate Income Tax (No. 67/2025/QH15)</strong>
+        took effect <strong>1 October 2025</strong>, and the <strong>global minimum tax</strong> applies from
+        <strong>2024</strong>. Figures below reflect rules as of June 2026 — confirm current rates with a
+        licensed tax adviser.
+      </p>
+    </header>
+
+    <section>
+      <h2>The taxes at a glance</h2>
+      <table class="score-table">
+        <thead>
+          <tr><th>Tax</th><th>Rate</th><th>What to know</th></tr>
+        </thead>
+        <tbody>
+          {taxes.map((t) => (
+            <tr>
+              <td><strong>{t.tax}</strong></td>
+              <td class="rate">{t.rate}</td>
+              <td class="rule">{t.note}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>The one most foreigners miss: FCT</h2>
+      <p>
+        When a Vietnamese company pays a foreign supplier for services, software, royalties, or interest,
+        it usually must withhold <a href="/glossary/foreign-contractor-tax/">Foreign Contractor Tax (FCT)</a> —
+        a blend of a CIT element (often 0.1–10%) and a VAT element (often 2–5%). FCT is easy to forget when
+        drafting a cross-border contract, and grossing-up for it after the fact erodes margins. Price it in
+        from the start.
+      </p>
+    </section>
+
+    <section>
+      <h2>Incentives — and the global-minimum-tax ceiling</h2>
+      <p>
+        Vietnam offers generous CIT incentives (rates of 10% or 17% and multi-year holidays) for
+        high-tech, large-scale manufacturing, R&D, and disadvantaged locations. But for large multinationals,
+        the <a href="/glossary/global-minimum-tax/">global minimum tax</a> now sets a floor: if incentives
+        drop the effective rate below 15%, a top-up brings it back to 15%. The interaction means incentive
+        planning and Pillar Two exposure have to be modeled together.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/vietnam-foreign-investment-law/">Vietnam foreign investment law explained</a></li>
+        <li><a href="/guides/how-to-register-a-company-in-vietnam/">How to register a company in Vietnam</a></li>
+        <li><a href="/guides/work-permits-for-expats-in-vietnam/">Work permits for expats in Vietnam</a></li>
+        <li><a href="/regulations/">Regulations &amp; legal framework hub</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lawnote { font-size: var(--text-sm); color: var(--color-text-muted); background: color-mix(in srgb, var(--color-accent) 7%, transparent); border-left: 3px solid var(--color-accent); padding: var(--space-2) var(--space-3); border-radius: 2px; margin-top: var(--space-3); line-height: 1.55; }
+  .score-table { width: 100%; border-collapse: collapse; margin: var(--space-4) 0; font-size: var(--text-sm); }
+  .score-table th, .score-table td { text-align: left; padding: var(--space-2) var(--space-3); border-bottom: 1px solid var(--color-border-light); vertical-align: top; }
+  .score-table thead th { border-bottom: 2px solid var(--color-border); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); }
+  .score-table td.rate { font-weight: 600; white-space: nowrap; color: var(--color-accent); }
+  .score-table td.rule { color: var(--color-text-muted); }
+  section p a, .related-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

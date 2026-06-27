@@ -1,0 +1,199 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Work Permits for Expats in Vietnam (2026) — Rules, Exemptions & Residence Cards";
+const description = "How foreigners get the legal right to work in Vietnam in 2026: who needs a work permit, the employer approval and document steps, the new Decree 219/2025 rules, work-permit exemptions, and the temporary residence card (TRC).";
+const canonical = "https://vnmarketinsights.com/guides/work-permits-for-expats-in-vietnam/";
+
+const steps = [
+  {
+    name: 'Employer files the demand-for-foreign-labour report',
+    text: 'Before hiring a foreigner, the employer must report the need to the labour authority (Ministry/Department of Labour). Recent reform shortened the lead time — the explanation report is filed at least 15 days before the intended start date (down from 30).',
+  },
+  {
+    name: 'Confirm the role qualifies and gather documents',
+    text: "Foreign hires generally must be managers, executives, experts, or technical workers. Rules were relaxed: an 'expert' now needs a university degree (or equivalent) plus 3 years of relevant experience, and the experience no longer has to be in exactly the same field. Documents include a health check, criminal-record check, qualifications, and passport.",
+  },
+  {
+    name: 'Apply for the work permit',
+    text: 'The employer applies to the labour authority for the work permit, typically valid up to 2 years and tied to the specific employer and position. Vietnamese enterprises can now self-certify copies of a foreigner’s passport, removing some notarization steps.',
+  },
+  {
+    name: 'Convert to a temporary residence card (TRC)',
+    text: 'With a work permit (or exemption certificate), the foreigner can apply for a Temporary Residence Card — a multi-year residence permit that replaces repeated visa renewals and usually matches the work-permit validity.',
+  },
+  {
+    name: 'Track renewals and changes',
+    text: 'Work permits are re-issued/renewed before expiry, and a change of employer, position, or location generally requires a new or amended permit. Staying ahead of expiry avoids gaps that can invalidate residence status.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Do foreigners need a work permit to work in Vietnam?",
+    answer: "Yes, unless they fall under a specific exemption. Most foreign employees must hold a valid work permit, generally issued to managers, executives, experts, and technical workers, valid for up to two years and tied to a specific employer and role. Working without a permit (or exemption certificate) exposes both the worker and employer to penalties."
+  },
+  {
+    question: "What law governs work permits in Vietnam now?",
+    answer: "The framework was set by Decree 152/2020/ND-CP, amended by Decree 70/2023/ND-CP, and then substantially reformed by Decree 219/2025/ND-CP, promulgated in August 2025, which supersedes the earlier decrees and further streamlines hiring foreign workers. Because the rules changed recently, confirm the current procedure with a licensed adviser before applying."
+  },
+  {
+    question: "Who is exempt from a Vietnam work permit?",
+    answer: "Common exemptions include foreigners married to a Vietnamese citizen and living in Vietnam; certain owners/capital-contributing members and board members above a capital threshold; intra-corporate transferees in some service sectors; and short visits — experts, managers, or technical workers entering for up to 30 days, no more than three times a year. Exempt individuals still typically need a work-permit-exemption certificate."
+  },
+  {
+    question: "What is a temporary residence card (TRC)?",
+    answer: "A Temporary Residence Card is a multi-year residence permit that lets a foreigner live in Vietnam without renewing a visa each time. Foreign workers usually obtain a work permit (or exemption certificate) first, then apply for a TRC whose validity tracks the work permit. It can also extend to dependents in defined cases."
+  },
+  {
+    question: "How long does a Vietnam work permit take and last?",
+    answer: "A work permit is generally valid for up to two years and can be re-issued. Processing depends on the province and on having the demand report approved in advance; the recent reforms cut the pre-notification window to 15 days and reduced some document-certification steps, shortening the overall timeline."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Get a Work Permit in Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-27"
+  lastUpdated="2026-06-27"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Expat Work Permits</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        If you're sending staff to Vietnam or hiring foreigners locally, the work permit is the document
+        that makes it legal — and the rules just got simpler. This guide covers who needs a permit, the
+        employer steps, exemptions, and how the work permit connects to a residence card. It's an
+        orientation, not legal advice.
+      </p>
+      <p class="lawnote">
+        ⚖️ <strong>Recently reformed.</strong> <strong>Decree 219/2025/ND-CP</strong> (promulgated August 2025)
+        supersedes Decree 152/2020 and Decree 70/2023 and further streamlines foreign-worker management.
+        Details below reflect the regime as of June 2026.
+      </p>
+    </header>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Permit vs exemption vs residence card</h2>
+      <p>
+        Three documents often get conflated. The <a href="/glossary/work-permit/">work permit</a> is the
+        right to work, tied to an employer and role. An exemption certificate covers people who legally
+        don't need a permit but still must be registered. The
+        <a href="/glossary/temporary-residence-card/">temporary residence card (TRC)</a> is the right to
+        live in Vietnam long-term without repeated visa renewals — obtained after the work permit. You
+        generally need the work-permit step settled before the residence step.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-hire-employees-in-vietnam/">How to hire employees in Vietnam</a></li>
+        <li><a href="/guides/vietnam-business-tax-guide/">Vietnam business tax guide (incl. expat PIT)</a></li>
+        <li><a href="/guides/vietnam-foreign-investment-law/">Vietnam foreign investment law explained</a></li>
+        <li><a href="/regulations/">Regulations &amp; legal framework hub</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lawnote { font-size: var(--text-sm); color: var(--color-text-muted); background: color-mix(in srgb, var(--color-accent) 7%, transparent); border-left: 3px solid var(--color-accent); padding: var(--space-2) var(--space-3); border-radius: 2px; margin-top: var(--space-3); line-height: 1.55; }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a, .related-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

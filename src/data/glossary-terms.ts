@@ -309,6 +309,55 @@ const RAW_TERMS: Array<Omit<GlossaryTerm, 'slug'>> = [
       'A volatility band drawn two standard deviations above and below a 20-period moving average. When the bands narrow sharply (a "squeeze") volatility is compressed and a breakout often follows; price pushing outside a band signals a strong move in that direction.',
     relatedTopics: ['financial-markets'],
   },
+  {
+    term: 'Conditional Business Lines',
+    category: 'Regulations',
+    definition:
+      'Sectors where investment is permitted only if specific conditions are met — foreign ownership caps, minimum capital, licenses, or approvals — listed in an appendix to Vietnam’s Law on Investment. The 2025 reform reduces the count (from 234 toward ~196), easing market entry in many service sectors.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'Investment Registration Certificate (IRC)',
+    category: 'Regulations',
+    definition:
+      'The approval a foreign-invested project obtains from the provincial investment authority in Vietnam, recording the project’s scope, capital, and location. Traditionally the first step before company registration; the 2025 Law on Investment streamlines it and, in some cases, allows setting up a company without an upfront IRC.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'Enterprise Registration Certificate (ERC)',
+    category: 'Regulations',
+    definition:
+      'The certificate that formally establishes a company in Vietnam — the equivalent of incorporation — issued after the IRC for foreign-invested entities. It records the company name, registered capital, legal representative, and business lines.',
+    relatedTopics: ['regulations'],
+  },
+  {
+    term: 'Foreign Contractor Tax (FCT)',
+    category: 'Regulations',
+    definition:
+      'A withholding tax on payments to foreign organizations earning Vietnam-sourced income without a local entity (e.g. services, software, royalties, interest). It combines a corporate-income-tax element (commonly 0.1–10%) and a VAT element (commonly 2–5%), withheld by the Vietnamese payer.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'Global Minimum Tax (GMT)',
+    category: 'Regulations',
+    definition:
+      'The OECD Pillar Two rule requiring multinational groups with €750m+ consolidated revenue to be taxed at an effective rate of at least 15% in each country. Vietnam adopted it via Resolution 107/2023/QH15 (effective 1 Jan 2024); where tax incentives push the effective rate below 15%, a top-up applies.',
+    relatedTopics: ['regulations', 'financial-markets'],
+  },
+  {
+    term: 'Work Permit',
+    category: 'Regulations',
+    definition:
+      'The document granting a foreigner the legal right to work in Vietnam, generally issued to managers, executives, experts, and technical workers for up to two years and tied to a specific employer and role. Governed by Decree 219/2025/ND-CP (which replaced Decrees 152/2020 and 70/2023).',
+    relatedTopics: ['regulations'],
+  },
+  {
+    term: 'Temporary Residence Card (TRC)',
+    category: 'Regulations',
+    definition:
+      'A multi-year residence permit allowing a foreigner to live in Vietnam without renewing a visa repeatedly. Foreign workers usually obtain a work permit (or exemption certificate) first, then apply for a TRC whose validity tracks the work permit; it can extend to dependents in defined cases.',
+    relatedTopics: ['regulations'],
+  },
 ];
 
 export const GLOSSARY_TERMS: GlossaryTerm[] = RAW_TERMS.map((entry) => ({

@@ -1,0 +1,227 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Foreign Investment Law Explained (2026) — Market Access, IRC & Conditional Sectors";
+const description = "How Vietnam's foreign investment law works in 2026: the new Law on Investment, market-access rules, conditional business lines, foreign ownership caps, the Investment Registration Certificate (IRC), and incentives — a plain-English orientation for foreign investors.";
+const canonical = "https://vnmarketinsights.com/guides/vietnam-foreign-investment-law/";
+
+const steps = [
+  {
+    name: 'Check the market-access list for your sector',
+    text: "Vietnam applies a 'negative list' approach: foreign investors can do anything not restricted. Sectors fall into three buckets — open (treated like domestic investors), conditional (allowed with conditions such as ownership caps, licenses, or local-partner requirements), and prohibited. Confirming which bucket your activity sits in is the first and most important step.",
+  },
+  {
+    name: 'Confirm the foreign ownership cap',
+    text: 'Many conditional sectors cap how much foreigners may own — for example, 49% or 51% in certain logistics and telecoms services, lower in sensitive areas, and up to 100% in most manufacturing and many services. Caps come from the WTO commitments, sector laws, and trade agreements like the CPTPP and EVFTA.',
+  },
+  {
+    name: 'Obtain an Investment Registration Certificate (IRC)',
+    text: "Foreign-invested projects have traditionally needed an IRC from the provincial investment authority before setting up the company. The 2025 overhaul streamlines this — including letting foreign investors establish an enterprise in some cases without an upfront project/IRC — but for most greenfield projects the IRC remains the gateway document.",
+  },
+  {
+    name: 'Register the enterprise (ERC) and licenses',
+    text: 'After the IRC, you register the company itself to get an Enterprise Registration Certificate (ERC), then any sub-licenses your conditional sector requires (e.g. trading, distribution, fintech, or education permits). The ERC is the equivalent of incorporation.',
+  },
+  {
+    name: 'Use incentives where you qualify',
+    text: 'Encouraged sectors and locations (high-tech, large manufacturing, disadvantaged areas, R&D) can access preferential corporate income tax rates and tax holidays. Structuring the project to fit an incentive category, where genuine, materially changes the after-tax economics.',
+  },
+];
+
+const faqs = [
+  {
+    question: "What law governs foreign investment in Vietnam?",
+    answer: "The core framework is the Law on Investment together with the Law on Enterprises. Vietnam passed a major overhaul — the Law on Investment No. 143/2025/QH15 — which replaces the 2020 Law on Investment from 1 March 2026, with the updated list of conditional business lines (Appendix IV) taking effect from 1 July 2026. The reform narrows the projects needing investment-policy approval, removes dozens of conditional business lines, and in some cases lets foreign investors set up a company without first obtaining an Investment Registration Certificate. Because the regime is in transition, always confirm the current rule for your specific sector with a licensed adviser."
+  },
+  {
+    question: "Can a foreigner own 100% of a company in Vietnam?",
+    answer: "In many sectors, yes — most manufacturing and a wide range of services allow 100% foreign-owned enterprises (a WFOE). But 'conditional' sectors impose foreign ownership caps (commonly 49% or 51%) or require a local joint-venture partner. Whether 100% ownership is possible depends entirely on the specific business line, so the sector check comes before any structuring decision."
+  },
+  {
+    question: "What are conditional business lines?",
+    answer: "Conditional business lines are sectors where investment is allowed only if specific conditions are met — ownership limits, minimum capital, licenses, or approvals. They are listed in an appendix to the Law on Investment. The 2025 reform reduces the count (from 234 toward roughly 196), removing or easing dozens of mostly-service sectors to make market entry simpler."
+  },
+  {
+    question: "What is an IRC and do I still need one?",
+    answer: "An Investment Registration Certificate (IRC) is the approval a foreign-invested project obtains from the provincial investment authority, recording the project's scope, capital, and location. It has been the standard first step before company registration. The 2025 Law on Investment streamlines the process and, in defined cases, allows establishing an enterprise without an upfront IRC — but for most greenfield foreign projects the IRC is still the gateway."
+  },
+  {
+    question: "How do trade agreements affect foreign ownership?",
+    answer: "Vietnam's commitments under the WTO, CPTPP, and EVFTA progressively open sectors and, in some cases, allow higher foreign ownership or faster liberalization than the baseline. Investors from CPTPP or EU member states may benefit from more favorable market access in specific services, which is worth checking alongside the domestic conditional-sector list."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How Vietnam's Foreign Investment Law Works",
+  "description": description,
+  "step": steps.map((s, i) => ({
+    "@type": "HowToStep",
+    "position": i + 1,
+    "name": s.name,
+    "text": s.text
+  }))
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-27"
+  lastUpdated="2026-06-27"
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Foreign Investment Law</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Vietnam is one of Asia's most open emerging markets for foreign capital — but "open" is
+        sector-specific. This guide explains how the foreign investment regime works in 2026: the
+        market-access buckets, ownership caps, the IRC/ERC pathway, and incentives. It's an
+        orientation, not legal advice — and the law is actively changing, so confirm specifics with a
+        licensed adviser.
+      </p>
+      <p class="lawnote">
+        ⚖️ <strong>Law in transition.</strong> The new <strong>Law on Investment (No. 143/2025/QH15)</strong>
+        replaces the 2020 law from <strong>1 March 2026</strong>; the updated conditional-business-lines
+        list takes effect <strong>1 July 2026</strong>. Details below reflect the framework as of June 2026.
+      </p>
+    </header>
+
+    <section>
+      <h2>The negative-list principle</h2>
+      <p>
+        Vietnam regulates foreign investment by exception: investors may do anything that isn't on a
+        restricted list. Activities sort into <strong>open</strong> (foreigners treated like domestic
+        investors), <strong>conditional</strong> (allowed subject to ownership caps, licenses, or
+        local-partner rules), and <strong>prohibited</strong>. Everything downstream — ownership,
+        licensing, structure — flows from which bucket your business line lands in.
+      </p>
+    </section>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Foreign ownership caps in practice</h2>
+      <p>
+        The <a href="/glossary/foreign-ownership-limit/">foreign ownership limit</a> is the number that
+        decides whether you can build a wholly foreign-owned enterprise or need a local partner. Most
+        manufacturing and many services allow 100%; <a href="/glossary/conditional-business-lines/">conditional
+        business lines</a> such as certain logistics, telecoms, advertising, and distribution carry caps
+        (often 49% or 51%) or extra licensing. Vietnam's commitments under the
+        <a href="/glossary/cptpp/">CPTPP</a> and <a href="/glossary/evfta/">EVFTA</a> can open sectors
+        faster than the baseline for qualifying investors.
+      </p>
+    </section>
+
+    <section>
+      <h2>The IRC → ERC pathway</h2>
+      <p>
+        A foreign-invested greenfield project typically obtains an
+        <a href="/glossary/investment-registration-certificate/">Investment Registration Certificate (IRC)</a>
+        recording its scope, capital, and location, then registers the company to receive an
+        <a href="/glossary/enterprise-registration-certificate/">Enterprise Registration Certificate (ERC)</a> —
+        the equivalent of incorporation — followed by any sector sub-licenses. The 2025 reform streamlines
+        this and, in defined cases, lets investors skip the upfront IRC, but for most projects the IRC is
+        still the entry document. See the step-by-step in our
+        <a href="/guides/how-to-register-a-company-in-vietnam/">company registration guide</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-register-a-company-in-vietnam/">How to register a company in Vietnam</a></li>
+        <li><a href="/guides/best-sectors-for-foreign-investment-in-vietnam/">Best sectors for foreign investment in Vietnam</a></li>
+        <li><a href="/guides/vietnam-business-tax-guide/">Vietnam business tax guide</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/regulations/">Regulations &amp; legal framework hub</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lawnote { font-size: var(--text-sm); color: var(--color-text-muted); background: color-mix(in srgb, var(--color-accent) 7%, transparent); border-left: 3px solid var(--color-accent); padding: var(--space-2) var(--space-3); border-radius: 2px; margin-top: var(--space-3); line-height: 1.55; }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  section p a, .related-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

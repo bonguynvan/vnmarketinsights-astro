@@ -1,0 +1,180 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Best Sectors for Foreign Investment in Vietnam (2026) — Where FDI Is Going";
+const description = "Where foreign direct investment is flowing in Vietnam in 2026: manufacturing, high-tech and semiconductors, renewable energy, real estate, and consumer sectors — with the latest FDI data, why each is attractive, and the market-access caveats.";
+const canonical = "https://vnmarketinsights.com/guides/best-sectors-for-foreign-investment-in-vietnam/";
+
+const sectors = [
+  {
+    name: 'Manufacturing & processing',
+    why: 'The dominant FDI magnet — electronics, components, textiles, and assembly riding the "China + 1" shift. Took the majority of newly registered capital in 2025 and the bulk of disbursed FDI.',
+    access: 'Mostly open to 100% foreign ownership.',
+  },
+  {
+    name: 'High-tech, semiconductors & R&D',
+    why: 'Vietnam is courting chip packaging/testing, electronics, and software, backed by tax incentives. The constraint is skilled labour and R&D depth, which the government is pushing to upgrade.',
+    access: 'Open; often eligible for preferential CIT and holidays.',
+  },
+  {
+    name: 'Renewable energy & utilities',
+    why: 'Strong appetite for solar, wind, and grid/utility projects as Vietnam pursues its energy-transition targets; utilities were a notable share of new capital entering 2026.',
+    access: 'Open but project-by-project; power agreements and licensing matter.',
+  },
+  {
+    name: 'Real estate & industrial parks',
+    why: 'The second-largest FDI sector — industrial property, logistics facilities, and urban development tied to the manufacturing boom.',
+    access: 'Conditional; foreign land-use and project rules apply.',
+  },
+  {
+    name: 'Consumer, retail & digital',
+    why: "Riding a young, urbanizing, digital-first population — e-commerce, retail, fintech, and professional services. High growth, though some sub-sectors carry ownership caps.",
+    access: 'Mixed — some conditional (distribution, fintech, advertising).',
+  },
+];
+
+const faqs = [
+  {
+    question: "Which sectors attract the most FDI in Vietnam?",
+    answer: "Manufacturing and processing dominates — it accounted for roughly 56% of newly registered capital in 2025 and the large majority of disbursed FDI, driven by electronics and the 'China + 1' supply-chain shift. Real estate is consistently second (around a fifth of new capital), followed by utilities/energy and professional, scientific and technological activities. Total FDI into Vietnam exceeded US$38 billion in 2025."
+  },
+  {
+    question: "Why is Vietnam attractive for foreign investment?",
+    answer: "A competitive cost base, a young and growing workforce, political stability, an expanding free-trade network (CPTPP, EVFTA, RCEP), and proximity to regional supply chains. The 'China + 1' strategy — diversifying production out of China — has made Vietnam a primary beneficiary, especially in electronics and light manufacturing."
+  },
+  {
+    question: "Can foreigners invest 100% in these sectors?",
+    answer: "In most manufacturing and many service sectors, yes — 100% foreign-owned enterprises are permitted. But 'conditional' sectors (certain distribution, logistics, telecoms, fintech, advertising, and real estate activities) impose foreign ownership caps or licensing requirements. Always check the sector's market-access rule before committing; see our foreign investment law guide."
+  },
+  {
+    question: "What incentives are available for priority sectors?",
+    answer: "Encouraged sectors and locations — high-tech, large-scale manufacturing, R&D, renewable energy, and disadvantaged areas — can access preferential corporate income tax rates (10% or 17%) and multi-year tax holidays. For very large multinationals, the global minimum tax sets a 15% effective-rate floor that can offset some incentive value, so model both together."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({
+    "@type": "Question",
+    "name": f.question,
+    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
+  }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate="2026-06-27"
+  lastUpdated="2026-06-27"
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Best Sectors for Foreign Investment</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Vietnam pulled in more than US$38 billion of foreign direct investment in 2025, and the mix tells
+        you where the opportunity — and the competition — sits. This guide maps the sectors drawing the
+        most capital in 2026, why each is attractive, and the market-access caveats to check before you
+        commit. It's an orientation, not investment advice.
+      </p>
+    </header>
+
+    <section>
+      <h2>Where the money is going</h2>
+      <div class="sector-grid">
+        {sectors.map((s) => (
+          <div class="sector-card">
+            <h3>{s.name}</h3>
+            <p>{s.why}</p>
+            <p class="access"><strong>Market access:</strong> {s.access}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Opportunity vs market access</h2>
+      <p>
+        The hottest sector isn't automatically the easiest to enter. Manufacturing is largely open to
+        100% foreign ownership, while parts of retail, distribution, fintech, and logistics are
+        <a href="/glossary/conditional-business-lines/">conditional business lines</a> with
+        <a href="/glossary/foreign-ownership-limit/">ownership caps</a> or extra licensing. Read the
+        opportunity and the <a href="/guides/vietnam-foreign-investment-law/">legal market-access rule</a>
+        together before choosing a structure.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/vietnam-foreign-investment-law/">Vietnam foreign investment law explained</a></li>
+        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
+        <li><a href="/stats/vietnam-manufacturing-fdi-2026/">Vietnam manufacturing &amp; FDI statistics 2026</a></li>
+        <li><a href="/guides/how-to-source-manufacturing-from-vietnam/">How to source manufacturing from Vietnam</a></li>
+        <li><a href="/guides/vietnam-business-tax-guide/">Vietnam business tax guide</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .sector-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: var(--space-4); margin: var(--space-4) 0; }
+  .sector-card { border: 1px solid var(--color-border-light); border-top: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .sector-card h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .sector-card p { margin: 0 0 var(--space-2); line-height: 1.55; color: var(--color-text); font-size: var(--text-sm); }
+  .sector-card .access { color: var(--color-text-muted); margin-bottom: 0; }
+  section p a, .related-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
