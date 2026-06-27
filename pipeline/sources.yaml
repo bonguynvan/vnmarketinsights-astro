@@ -54,3 +54,12 @@ sources:
     topic_hint: regulation
     feeds:
       - https://vneconomy.vn/chinh-sach.rss
+
+  # Government e-newspaper "Policy & Life" feed — authoritative source for new
+  # decrees, tax rules, and business-regulation proposals straight from the
+  # state. Enrich classifies items into the `regulation` topic.
+  - name: BaoChinhPhu
+    lang: vi
+    topic_hint: regulation
+    feeds:
+      - https://baochinhphu.vn/chinh-sach-va-cuoc-song.rss
