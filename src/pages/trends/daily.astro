@@ -1,0 +1,202 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "What's Trending in Vietnam Today — Search & Video Trends";
+const description = "A daily read on what Vietnam is searching and watching: Google search trends, YouTube trending videos, and an AI synthesis of the themes that matter for business and market watchers.";
+const canonical = "https://vnmarketinsights.com/trends/daily/";
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  mainClass="container"
+>
+  <div class="daily-trends">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/trends/">Trends</a>
+      <span aria-hidden="true">/</span>
+      <span>Daily</span>
+    </nav>
+
+    <header class="dt-header">
+      <div class="dt-badge"><span class="badge-dot"></span> Search &amp; video signals</div>
+      <h1>What's trending in Vietnam today</h1>
+      <p class="dt-lead">
+        Beyond the market news: what Vietnam is actually searching and watching. Google search
+        trends and YouTube trending videos, with a daily AI synthesis of the themes worth a
+        business or market watcher's attention.
+      </p>
+      <p class="dt-asof" id="dt-asof" hidden></p>
+    </header>
+
+    <div id="dt-loading" class="dt-state">
+      <div class="dt-spinner" aria-hidden="true"></div>
+      <span>Loading today's trends…</span>
+    </div>
+
+    <div id="dt-unavailable" class="dt-state" hidden>
+      <h2>Daily trends are being set up</h2>
+      <p>
+        This feed is powered by a dedicated trend service that's not connected yet. Once it's live,
+        Vietnam's daily search and video trends will appear here. In the meantime, see
+        <a href="/trends/">topic momentum across market news</a>.
+      </p>
+    </div>
+
+    <div id="dt-content" hidden>
+      <section id="dt-summary-wrap" class="dt-section" hidden>
+        <h2>Today's synthesis</h2>
+        <div id="dt-summary" class="dt-summary"></div>
+      </section>
+
+      <div class="dt-grid">
+        <section id="dt-keywords-wrap" class="dt-card" hidden>
+          <h2>Top searches</h2>
+          <ol id="dt-keywords" class="dt-kw-list"></ol>
+        </section>
+
+        <section id="dt-youtube-wrap" class="dt-card" hidden>
+          <h2>Trending on YouTube</h2>
+          <ol id="dt-youtube" class="dt-yt-list"></ol>
+        </section>
+      </div>
+
+      <p id="dt-stale" class="dt-stale" hidden>
+        ⚠️ Showing the last cached snapshot — the live service is temporarily unreachable.
+      </p>
+    </div>
+
+    <section class="dt-more">
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/trends/">Trend Radar — market topic momentum</a></li>
+        <li><a href="/insights/">Insights</a> · <a href="/weekly/">Weekly brief</a></li>
+        <li><a href="/markets/">Stock technical outlook board</a></li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  // @ts-nocheck
+  (async () => {
+    const $ = (id) => document.getElementById(id);
+    const loading = $('dt-loading');
+    const unavailable = $('dt-unavailable');
+    const content = $('dt-content');
+
+    const show = (el) => el && el.removeAttribute('hidden');
+    const hide = (el) => el && el.setAttribute('hidden', '');
+    const esc = (s) =>
+      String(s ?? '').replace(/[&<>"']/g, (c) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+      ));
+
+    function render(data) {
+      hide(loading);
+      if (!data || !data.available) {
+        show(unavailable);
+        return;
+      }
+      show(content);
+
+      if (data.date) {
+        const asof = $('dt-asof');
+        try {
+          const d = new Date(data.date + 'T00:00:00Z');
+          asof.textContent = 'As of ' + d.toLocaleDateString('en-US', {
+            year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC',
+          });
+        } catch { asof.textContent = 'As of ' + data.date; }
+        show(asof);
+      }
+
+      if (data.summary) {
+        $('dt-summary').innerHTML = data.summary
+          .split(/\n{2,}/)
+          .map((p) => '<p>' + esc(p.trim()) + '</p>')
+          .join('');
+        show($('dt-summary-wrap'));
+      }
+
+      if (Array.isArray(data.keywords) && data.keywords.length) {
+        $('dt-keywords').innerHTML = data.keywords
+          .slice(0, 20)
+          .map((k) => '<li>' + esc(k.keyword) + '</li>')
+          .join('');
+        show($('dt-keywords-wrap'));
+      }
+
+      if (Array.isArray(data.youtube) && data.youtube.length) {
+        $('dt-youtube').innerHTML = data.youtube
+          .slice(0, 12)
+          .map((v) => {
+            const views = v.views ? ' · ' + Number(v.views).toLocaleString('en-US') + ' views' : '';
+            const meta = esc(v.channel || '') + views;
+            const title = esc(v.title);
+            const inner = '<span class="yt-title">' + title + '</span><span class="yt-meta">' + meta + '</span>';
+            return v.url
+              ? '<li><a href="' + esc(v.url) + '" target="_blank" rel="noopener nofollow">' + inner + '</a></li>'
+              : '<li>' + inner + '</li>';
+          })
+          .join('');
+        show($('dt-youtube-wrap'));
+      }
+
+      if (data.stale) show($('dt-stale'));
+    }
+
+    try {
+      const res = await fetch('/api/vn-trends', { headers: { Accept: 'application/json' } });
+      render(await res.json());
+    } catch {
+      hide(loading);
+      show(unavailable);
+    }
+  })();
+</script>
+
+<style>
+  .daily-trends { max-width: var(--container-width, 72rem); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .dt-header { margin-bottom: var(--space-6); max-width: var(--reading-width); }
+  .dt-badge { display: inline-flex; align-items: center; gap: 0.4rem; font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent); font-weight: 600; margin-bottom: var(--space-3); }
+  .badge-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-accent); }
+  .dt-header h1 { border: none; margin-bottom: var(--space-3); }
+  .dt-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .dt-asof { font-size: var(--text-sm); color: var(--color-text-muted); margin-top: var(--space-2); }
+
+  .dt-state { display: flex; flex-direction: column; align-items: flex-start; gap: var(--space-3); padding: var(--space-6) 0; color: var(--color-text-muted); }
+  .dt-state h2 { margin: 0; }
+  .dt-state a { color: var(--color-accent); }
+  .dt-spinner { width: 22px; height: 22px; border: 2px solid var(--color-border); border-top-color: var(--color-accent); border-radius: 50%; animation: dt-spin 0.7s linear infinite; }
+  @keyframes dt-spin { to { transform: rotate(360deg); } }
+
+  .dt-section { margin-bottom: var(--space-6); }
+  .dt-summary { max-width: var(--reading-width); }
+  .dt-summary p { line-height: 1.7; margin: 0 0 var(--space-3); }
+
+  .dt-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-4); }
+  .dt-card { border: 1px solid var(--color-border-light); border-radius: 4px; padding: var(--space-5); background: var(--color-bg-subtle); }
+  .dt-card h2 { margin: 0 0 var(--space-3); font-size: var(--text-lg); border: none; }
+  .dt-kw-list { margin: 0; padding-left: 1.25rem; display: flex; flex-direction: column; gap: 0.4rem; }
+  .dt-kw-list li { line-height: 1.4; }
+  .dt-yt-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.6rem; }
+  .dt-yt-list a { display: flex; flex-direction: column; gap: 0.15rem; text-decoration: none; color: inherit; }
+  .dt-yt-list a:hover .yt-title { color: var(--color-accent); text-decoration: underline; }
+  .yt-title { font-weight: 600; line-height: 1.35; font-size: var(--text-sm); }
+  .yt-meta { font-size: var(--text-xs); color: var(--color-text-muted); }
+
+  .dt-stale { margin-top: var(--space-4); font-size: var(--text-sm); color: var(--color-text-muted); background: color-mix(in srgb, var(--color-accent) 7%, transparent); border-left: 3px solid var(--color-accent); padding: var(--space-2) var(--space-3); border-radius: 2px; }
+
+  .dt-more { margin-top: var(--space-10); max-width: var(--reading-width); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+</style>
