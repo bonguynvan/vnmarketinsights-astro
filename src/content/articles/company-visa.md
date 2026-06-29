@@ -9,9 +9,15 @@ readingTime: 3
 
 # Visa
 
-Recent Vietnam market news mentioning **Visa** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Visa** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
+
+Visa partnered with VPBank, Shinhan Bank Vietnam, and MB to launch a Global Trade Payment Platform (GTPP), offering the first cross-border commercial card payment service in Vietnam. The platform initially focuses on the Vietnam-South Korea trade corridor, enabling Vietnamese importers to pay South Korean suppliers using Visa business cards. The initiative aims to optimize cross-border payments for businesses.
+
+- Source: [TuoiTre](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm)
 
 **BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa**  
 
@@ -39,9 +45,9 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 
 ## Related coverage
 
-- [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
+- [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
-- [Giá trị vượt trội từ sản phẩm "Tiền gửi bền vững" của BIDV](https://cafef.vn/gia-tri-vuot-troi-tu-san-pham-tien-gui-ben-vung-cua-bidv-18826062218321681.chn) — CafeF
+- [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
 - [Săn sale mùa hè, đón ưu đãi hấp dẫn cùng Napas](https://tuoitre.vn/san-sale-mua-he-don-uu-dai-hap-dan-cung-napas-100260621095349096.htm) — TuoiTre
 
 ---

@@ -11,9 +11,15 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường tuần này
+Thị trường Việt Nam tuần này ghi nhận nhiều động thái chính sách hỗ trợ tín dụng và tăng trưởng, bao gồm nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn lên 40% từ ngày 1/7/2026 và các biện pháp bơm thanh khoản khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm để đạt mức hai chữ số cho cả năm 2026, đồng thời thị trường bất động sản bắt đầu cho thấy những dấu hiệu phục hồi với dòng tiền quay trở lại các sản phẩm có giá trị thực. Ngoài ra, dự án Cảng hàng không quốc tế Long Thành đã hoàn thành 77,6% tiến độ, cam kết khai thác thương mại vào tháng 12 năm nay.
 
-Ngân hàng Nhà nước tiếp tục thực hiện các biện pháp nới lỏng tín dụng, trong đó nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40% từ ngày 1/7/2026 và loại trừ 18 dự án ưu tiên khỏi hạn mức tăng trưởng tín dụng. Song song đó, thị trường bất động sản cho thấy những tín hiệu tích cực khi dòng tiền bắt đầu quay trở lại các sản phẩm có pháp lý rõ ràng, trong khi Dự án Cảng hàng không quốc tế Long Thành đạt 77,6% tiến độ thực hiện. Tuy nhiên, các cảnh báo về gian lận ngân hàng tiếp tục gia tăng với những chiêu thức lừa đảo mới nhằm vào khách hàng qua tin nhắn SMS và mạo danh trang web.
+## Thanh toán
+
+**Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
+
+Visa phối hợp cùng VPBank, Shinhan Bank Việt Nam và MB ra mắt nền tảng thanh toán thương mại toàn cầu (GTPP), là dịch vụ thanh toán thẻ thương mại xuyên biên giới đầu tiên tại Việt Nam. Nền tảng ban đầu tập trung vào hành lang thương mại Việt Nam - Hàn Quốc, cho phép doanh nghiệp nhập khẩu Việt Nam thanh toán cho nhà cung cấp Hàn Quốc bằng thẻ doanh nghiệp Visa. Sáng kiến nhằm tối ưu hóa thanh toán xuyên biên giới cho các doanh nghiệp.
+
+- Nguồn: [TuoiTre](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm)
 
 ## Thương mại điện tử
 
@@ -41,6 +47,13 @@ Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng t
 
 - Số liệu chính: Short-term to medium/long-term lending ratio increase: 30% to 40%; Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn)
+
+**DNSE hoàn tất chuẩn bị cho phiên giao dịch đầu tiên của thị trường carbon**  
+
+DNSE đã hoàn tất chuẩn bị hạ tầng giao dịch, lưu ký và thanh toán trước phiên giao dịch chính thức đầu tiên của thị trường carbon Việt Nam diễn ra ngày 29/6. DNSE được Sở Giao dịch Chứng khoán Việt Nam (VNX) chấp thuận tham gia hệ thống giao dịch carbon và nằm trong nhóm 5 công ty chứng khoán đầu tiên được Tổng Công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) chấp thuận tư cách thành viên lưu ký và thanh toán.
+
+- Số liệu chính: First official carbon market trading session date: June 29; Number of securities companies approved as custody and settlement members: 5
+- Nguồn: [VnExpress](https://vnexpress.net/dnse-hoan-tat-chuan-bi-cho-phien-giao-dich-dau-tien-cua-thi-truong-carbon-5090578.html)
 
 **Vietcombank cảnh báo: Khách hàng có thể mất sạch tiền trong thẻ nếu làm theo tin nhắn này**  
 
@@ -117,13 +130,6 @@ Từ cuối tháng 5 đến nay, Ngân hàng Nhà nước liên tiếp điều c
 - Số liệu chính: Potential additional capital injection: 1 quadrillion dong VND
 - Nguồn: [CafeF](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn)
 
-**TPHCM: Dùng hợp đồng giả cách "bẫy" khách hàng**  
-
-Giám đốc quan hệ khách hàng của một ngân hàng tại TPHCM đã dùng hợp đồng giả để lừa đảo khách hàng và chiếm đoạt 17,3 tỉ đồng. Bị cáo Trần Tuấn (sinh năm 1987) bắt đầu tham gia các sàn giao dịch vàng ảo từ đầu năm 2023 và phải chịu lỗ nặng. Để có tiền gỡ gạc và trang trải chi tiêu, Tuấn đã lợi dụng vị trí Giám đốc Quan hệ khách hàng cá nhân tại ngân hàng để thực hiện các hành vi gian dối.
-
-- Số liệu chính: Amount defrauded: 17.3 billion Vietnamese dong; Defendant birth year: 1987 year; Fraud period start: early 2023 time; Court hearing date: June 22 date
-- Nguồn: [CafeF](https://cafef.vn/tphcm-dung-hop-dong-gia-cach-bay-khach-hang-188260622150101093.chn)
-
 ## Chứng khoán
 
 **Vietnam Airlines đặt mục tiêu có lãi năm 2026 dù chi phí nhiên liệu tăng**  
@@ -139,13 +145,6 @@ Trong giai đoạn 2015-2025, nhiều ngân hàng Việt Nam đạt mức tăng 
 
 - Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
 
-**Loạt cá nhân chuẩn bị bỏ ra hơn 300 - 500 tỷ, có người 880 tỷ đồng để mua một cổ phiếu ngân hàng**  
-
-Ngân hàng TMCP Quốc dân (NCB, HNX: NVB) vừa phê duyệt danh sách 22 nhà đầu tư tham gia đợt chào bán cổ phiếu riêng lẻ năm 2026. Các cá nhân nhà đầu tư chuẩn bị chi 300-500 tỷ đồng, có người chi đến 880 tỷ đồng. Đây là một trong những giao dịch phát hành riêng lẻ lớn nhất ngành ngân hàng trong vài năm gần đây.
-
-- Số liệu chính: Number of investors in private placement: 22; Individual investment amount range: 300-500 billion dong; Largest single investor commitment: 880 billion dong
-- Nguồn: [CafeF](https://cafef.vn/loat-ca-nhan-chuan-bi-bo-ra-hon-300-500-ty-co-nguoi-880-ty-dong-de-mua-mot-co-phieu-ngan-hang-188260624165104186.chn)
-
 ## Kinh tế vĩ mô
 
 **"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
@@ -154,6 +153,13 @@ Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng
 
 - Số liệu chính: Number of priority projects receiving special allocation: 18; Credit injection amount: 1.5 quadrillion Vietnamese dong
 - Nguồn: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
+
+**Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm**  
+
+Chính phủ Việt Nam đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm 2026 để đạt mức tăng trưởng hai chữ số cho cả năm. Chính phủ đã áp dụng kịch bản tăng trưởng này để hỗ trợ các mục tiêu tăng trưởng GDP hàng năm. Thông báo được công bố vào ngày 29 tháng 6 năm 2026.
+
+- Số liệu chính: GDP growth target for final 6 months of 2026: 11.9% percent; Target for full year 2026: double-digit range
+- Nguồn: [CafeF](https://cafef.vn/chinh-phu-dat-muc-tieu-tang-truong-gdp-119-trong-6-thang-cuoi-nam-188260629071737922.chn)
 
 **Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước**  
 
@@ -181,13 +187,6 @@ Giá dầu quốc tế giảm mạnh vào ngày 24/6, với dầu Brent giảm 4
 
 - Số liệu chính: Brent crude price change: -4.3% percent; Brent crude closing price: 73.74 USD/barrel; WTI crude price change: -3.9% percent; WTI crude closing price: 70.34 USD/barrel
 - Nguồn: [VietnamNet](https://vietnamnet.vn/gia-xang-dau-hom-nay-25-6-the-gioi-lao-doc-trong-nuoc-chieu-nay-co-gia-moi-2529137.html)
-
-**Giá vàng lao dốc tối 24/6, mất mốc quan trọng 4.000 USD/ounce**  
-
-Giá vàng rớt mạnh vào tối ngày 24/6, tuột mốc quan trọng 4.000 USD/ounce. Giá vàng đã bốc hơi tới 120 USD/ounce xuống còn 3.971 USD/ounce do sự kết hợp giữa đồng USD mạnh, triển vọng lãi suất cao kéo dài và căng thẳng địa chính trị hạ nhiệt. So với đỉnh gần 5.600 USD/ounce đạt được đầu năm, giá vàng đã giảm hơn 1.600 USD/ounce.
-
-- Số liệu chính: Gold price drop on June 24 evening: 120 USD/ounce; Gold price on June 24 evening: 3,971 USD/ounce; Peak gold price earlier in the year: 5,600 USD/ounce; Total decline from peak: 1,600 USD/ounce
-- Nguồn: [CafeF](https://cafef.vn/gia-vang-lao-doc-toi-24-6-mat-moc-quan-trong-4000-usd-ounce-188260624201321679.chn)
 
 ## Khác
 

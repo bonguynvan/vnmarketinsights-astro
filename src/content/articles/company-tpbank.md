@@ -39,10 +39,10 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 
 ## Related coverage
 
+- [Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm) — TuoiTre
 - [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://cafef.vn/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-188260623213753156.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [MSB nhận bằng khen của Bộ Công an về phòng chống tội phạm công nghệ cao](https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn) — CafeF
 
 ---
 

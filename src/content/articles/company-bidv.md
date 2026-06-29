@@ -9,9 +9,33 @@ readingTime: 3
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (24 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on June 29 shows continued market segmentation. The article presents rankings of bank profitability changes over a decade and analyst predictions for Q2 profit growth among major banks. No specific interest rates or financial figures are detailed in this excerpt.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
+
+**Cơ quan Thuế yêu cầu BIDV, VPBank, ACB... trừ tiền từ tài khoản ngân hàng của loạt cá nhân, hộ kinh doanh có tên sau đây**  
+
+Tax authorities requested several banks including BIDV, VPBank, and ACB to deduct money from bank accounts of individuals and business households with overdue taxes exceeding 90 days past the payment deadline. On June 26, the Base Tax Authority of Dong Thap Province issued enforcement decisions to compel payment through account deductions at the State Treasury and credit institutions. The enforcement action targets taxpayers who have failed to settle their tax obligations within the prescribed period.
+
+- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-bidv-vpbank-acb-tru-tien-tu-tai-khoan-ngan-hang-cua-loat-ca-nhan-ho-kinh-doanh-co-ten-sau-day-188260629011009118.chn)
+
+**Bí thư Hà Nội kiểm tra các dự án giao thông hướng tâm quan trọng**  
+
+Hanoi Party Secretary Tran Duc Thang inspected major transport projects and directed contractors to mobilize sufficient labor and equipment to accelerate progress once clean land is handed over. The project to upgrade and improve National Highway 6 from Ha Dong to Xuan Mai is targeted for technical opening before Tet 2027 and full completion in Q1 2027. The Tax Authority requested BIDV, VPBank, ACB and other banks to deduct funds from accounts of multiple individuals.
+
+- Source: [CafeF](https://cafef.vn/bi-thu-ha-noi-kiem-tra-cac-du-an-giao-thong-huong-tam-quan-trong-18826062907191871.chn)
+
+**Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm**  
+
+The Vietnamese government has set a GDP growth target of 11.9% for the final six months of 2026 to achieve double-digit growth for the full year. The government adopted this scenario projection to support its annual GDP growth objectives. The announcement was made on 29 June 2026.
+
+- Source: [CafeF](https://cafef.vn/chinh-phu-dat-muc-tieu-tang-truong-gdp-119-trong-6-thang-cuoi-nam-188260629071737922.chn)
 
 **Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -61,36 +85,12 @@ Gold prices for SJC bullion bars and gold rings have declined by over 15 million
 
 - Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
 
-**Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
-
-**BIDV phối hợp tổ chức vận hành sàn giao dịch các-bon trong nước**  
-
-BIDV participated in a coordination agreement signing ceremony on June 22, 2026, in Hanoi for organizing operations of Vietnam's domestic carbon trading exchange. The ceremony was chaired by the Climate Change Department (Ministry of Agriculture and Environment) and involved relevant government agencies and market participants. The agreement establishes the framework for operating the carbon trading exchange in Vietnam.
-
-- Source: [CafeF](https://cafef.vn/bidv-phoi-hop-to-chuc-van-hanh-san-giao-dich-cac-bon-trong-nuoc-188260622190704925.chn)
-
-**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
-
-**Việt Nam có ngân hàng thứ hai đạt mốc tài sản 3 triệu tỷ đồng**  
-
-VietinBank has reached a total asset milestone of 3 trillion Vietnamese dong, becoming the second bank in Vietnam to achieve this scale after BIDV. This achievement reflects the bank's growth and asset accumulation. The development places VietinBank among the largest financial institutions in the country.
-
-- Source: [CafeF](https://cafef.vn/viet-nam-co-ngan-hang-thu-hai-dat-moc-tai-san-3-trieu-ty-dong-188260622112650125.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
-- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 
 ---
 

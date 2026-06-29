@@ -9,9 +9,15 @@ readingTime: 3
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân**  
+
+VIB Bank is shifting from a product-centric approach to an experience-based model in personal finance services. The bank recognizes that different customer segments have distinct financial needs—such as homebuyers managing mortgage payments, investors seeking yield optimization, and frequent business travelers. Rather than competing solely through additional products and promotions, VIB is implementing a membership-based model to deliver personalized financial experiences.
+
+- Source: [CafeF](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn)
 
 **Maxtopia: Khi Gen Alpha học tài chính bằng trò chơi thay vì những bài giảng khô khan**  
 
@@ -33,10 +39,10 @@ VIB launched VIB Up, a tiered financial solution package allowing customers to u
 
 ## Related coverage
 
+- [TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn) — CafeF
+- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
-- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
-- [TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn) — CafeF
 
 ---
 

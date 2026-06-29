@@ -9,9 +9,27 @@ readingTime: 3
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm**  
+
+A securities company forecasts that VPBank and HDBank will lead profit growth in Q2 2026, while three banks may see profit declines. The overall banking sector is expected to see after-tax profits increase around 15% compared to the same period last year, driven by positive credit growth. However, results will be highly divergent, with some banks projected to grow over 20-50% while others face pressure from narrowing net interest margins and rising costs.
+
+- Source: [CafeF](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn)
+
+**Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng**  
+
+The rankings of Vietnamese banks by profitability have shifted significantly over a decade, with changes reflecting differences in growth strategies, operational efficiency, and expansion pace among institutions. VPBank and HDBank are predicted to lead profit growth in the second quarter, according to securities analysts. Several banks have experienced notable rank changes, including HDBank and LPBank moving up impressively while another bank fell 10 positions.
+
+- Source: [CafeF](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn)
+
+**Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on June 29 shows continued market segmentation. The article presents rankings of bank profitability changes over a decade and analyst predictions for Q2 profit growth among major banks. No specific interest rates or financial figures are detailed in this excerpt.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
 
 **Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -67,30 +85,12 @@ On 22 June, a survey of online deposit interest rates showed the market continui
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
 
-**Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng**  
-
-Multiple banks are preparing to distribute dividends and issue bonus shares to shareholders. Some banks have already set implementation schedules, while others are completing necessary procedures to increase charter capital in the coming period. This reflects ongoing capital management and shareholder return activities across the banking sector.
-
-- Source: [CafeF](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn)
-
-**Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...**  
-
-On June 21st, a survey of online deposit interest rates shows ACB leading the market at 7.3% per annum for a 12-month term. The Big4 banking group maintains a rate of 6.8% per annum, while other banks are quoting rates between 6.9-7% per annum for medium and long-term deposits.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn)
-
-**Lãi suất tiết kiệm biến động trái chiều**  
-
-Vietnamese banks are adjusting savings interest rates in conflicting directions, indicating an ongoing competitive capital mobilization race. Interest rate changes are being reported across major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank. Ernst & Young experts note that digital banking's future success depends on transaction presence rather than customer volume alone.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
+- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
 - [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 
 ---
 

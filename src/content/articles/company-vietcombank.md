@@ -9,9 +9,15 @@ readingTime: 3
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on June 29 shows continued market segmentation. The article presents rankings of bank profitability changes over a decade and analyst predictions for Q2 profit growth among major banks. No specific interest rates or financial figures are detailed in this excerpt.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
 
 **Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ Police in Thanh Hoa province dismantled a network engaged in illegal trading of 
 On June 25, a survey of online deposit interest rates showed Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 bank group maintained 6.8% per annum, while other banks quoted rates between 6.9-7.0% per annum for medium and long-term deposits.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn)
-
-**Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng**  
-
-Gold prices for SJC bullion bars and gold rings have declined by over 15 million Vietnamese dong per tael in nearly one month. Experts suggest that gold prices may face difficulty declining sharply further following the recent downtrend. The article discusses banking interest rates and lending activities by major banks for projects by Vingroup, Sun Group, and Masterise.
-
-- Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
 
 ## Related coverage
 

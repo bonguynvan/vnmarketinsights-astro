@@ -9,9 +9,33 @@ readingTime: 3
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chuyên gia hiến kế giúp SME tận dụng chính sách, tiếp cận vốn và tăng trưởng**  
+
+A conference titled "SME Dialogue 2026: Open Policies – Businesses Take Flight" was held with participation from experts discussing how small and medium-sized enterprises (SMEs) can leverage government policies and access capital for growth. The event was organized by ACB in collaboration with the Hanoi Business Association (HBA) and the Vietnam Consumer Goods Development Association (VACOD). Experts provided recommendations for SMEs on policy utilization and growth strategies.
+
+- Source: [CafeF](https://cafef.vn/chuyen-gia-hien-ke-giup-sme-tan-dung-chinh-sach-tiep-can-von-va-tang-truong-188260627134459832.chn)
+
+**Cơ quan Thuế yêu cầu BIDV, VPBank, ACB... trừ tiền từ tài khoản ngân hàng của loạt cá nhân, hộ kinh doanh có tên sau đây**  
+
+Tax authorities requested several banks including BIDV, VPBank, and ACB to deduct money from bank accounts of individuals and business households with overdue taxes exceeding 90 days past the payment deadline. On June 26, the Base Tax Authority of Dong Thap Province issued enforcement decisions to compel payment through account deductions at the State Treasury and credit institutions. The enforcement action targets taxpayers who have failed to settle their tax obligations within the prescribed period.
+
+- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-bidv-vpbank-acb-tru-tien-tu-tai-khoan-ngan-hang-cua-loat-ca-nhan-ho-kinh-doanh-co-ten-sau-day-188260629011009118.chn)
+
+**Bí thư Hà Nội kiểm tra các dự án giao thông hướng tâm quan trọng**  
+
+Hanoi Party Secretary Tran Duc Thang inspected major transport projects and directed contractors to mobilize sufficient labor and equipment to accelerate progress once clean land is handed over. The project to upgrade and improve National Highway 6 from Ha Dong to Xuan Mai is targeted for technical opening before Tet 2027 and full completion in Q1 2027. The Tax Authority requested BIDV, VPBank, ACB and other banks to deduct funds from accounts of multiple individuals.
+
+- Source: [CafeF](https://cafef.vn/bi-thu-ha-noi-kiem-tra-cac-du-an-giao-thong-huong-tam-quan-trong-18826062907191871.chn)
+
+**Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm**  
+
+The Vietnamese government has set a GDP growth target of 11.9% for the final six months of 2026 to achieve double-digit growth for the full year. The government adopted this scenario projection to support its annual GDP growth objectives. The announcement was made on 29 June 2026.
+
+- Source: [CafeF](https://cafef.vn/chinh-phu-dat-muc-tieu-tang-truong-gdp-119-trong-6-thang-cuoi-nam-188260629071737922.chn)
 
 **Gi&aacute; USD h&ocirc;m nay 28.6.2026: Tăng suốt tuần trong khi yen Nhật lao dốc**  
 
@@ -57,10 +81,10 @@ Nguyễn Thiên Hương Jenny, daughter of Âu Lạc chairman, completed a share
 
 ## Related coverage
 
-- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
-- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
-- [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
+- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
+- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 
 ---
 
