@@ -71,6 +71,14 @@ import Icon from '@components/Icon.astro';
         <button type="button" class="lang-btn is-active" data-lang="en">EN</button>
         <button type="button" class="lang-btn" data-lang="vi">VI</button>
       </div>
+
+      <!-- Deep research: hand the current query to /research (live-web + citations) -->
+      <div class="deep-research-row">
+        <span class="deep-research-text">Need fresh, cited answers from the live web?</span>
+        <a href="/research" id="deep-research-link" class="deep-research-btn" data-track-event="deep_research_click" data-track-category="tools">
+          Deep research (live web) →
+        </a>
+      </div>
     </div>
 
     <!-- Loading State -->
@@ -215,6 +223,18 @@ import Icon from '@components/Icon.astro';
 
     searchBtn.addEventListener('click', runSearch);
     searchInput.addEventListener('keypress', (e) => { if (e.key === 'Enter') runSearch(); });
+
+    // Keep the "Deep research" link pointed at /research with the current query,
+    // so it runs the same /api/research flow (live web + citations) over there.
+    const deepResearchLink = document.getElementById('deep-research-link');
+    if (deepResearchLink) {
+      const syncDeepResearch = () => {
+        const q = searchInput.value.trim();
+        deepResearchLink.href = q ? `/research?q=${encodeURIComponent(q)}` : '/research';
+      };
+      searchInput.addEventListener('input', syncDeepResearch);
+      syncDeepResearch();
+    }
 
     async function runSearch() {
       const query = searchInput.value.trim();
@@ -519,6 +539,38 @@ import Icon from '@components/Icon.astro';
       border-color: color-mix(in srgb, var(--color-accent) 35%, transparent);
       color: var(--color-accent-hover);
       transform: translateY(-1px);
+    }
+
+    /* Deep research row */
+    .deep-research-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1rem;
+      padding-top: 1rem;
+      border-top: 1px solid #f1f5f9;
+    }
+    .deep-research-text { font-size: 0.8125rem; color: #64748b; }
+    .deep-research-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      font-size: 0.8125rem;
+      font-weight: 700;
+      color: var(--color-accent);
+      text-decoration: none;
+      padding: 0.35rem 0.85rem;
+      border: 1px solid color-mix(in srgb, var(--color-accent) 35%, transparent);
+      border-radius: 999px;
+      transition: all 0.18s;
+      white-space: nowrap;
+    }
+    .deep-research-btn:hover {
+      background: color-mix(in srgb, var(--color-accent) 8%, var(--color-bg));
+      color: var(--color-accent-hover);
+      text-decoration: none;
     }
 
     /* Loading */
