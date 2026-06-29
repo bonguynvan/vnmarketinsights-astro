@@ -1,0 +1,242 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Market Research — Ask & Get Cited Answers";
+const description = "Ask a question about Vietnam's market, economy, or business landscape and get a concise, cited answer — drawn from live web sources or our AI-enriched Vietnam news corpus.";
+const canonical = "https://vnmarketinsights.com/research/";
+
+const examples = [
+  'Ho Chi Minh City real estate market Q2 2026',
+  'Vietnam e-commerce growth and top platforms 2026',
+  'Foreign investment law changes in Vietnam 2026',
+  'Vietnam stock market outlook and the VN-Index',
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  mainClass="container"
+>
+  <div class="research">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <span>Research</span>
+    </nav>
+
+    <header class="rs-header">
+      <div class="rs-badge"><span class="badge-dot"></span> On-demand research</div>
+      <h1>Vietnam market research</h1>
+      <p class="rs-lead">
+        Ask anything about Vietnam's market, economy, or business landscape and get a concise,
+        cited answer. When live-web research is enabled you'll get fresh sources; otherwise answers
+        draw on our AI-enriched Vietnam news corpus.
+      </p>
+    </header>
+
+    <form id="rs-form" class="rs-form" role="search">
+      <input
+        id="rs-input"
+        type="search"
+        name="q"
+        placeholder="e.g. Ho Chi Minh City real estate market Q2 2026"
+        aria-label="Research question"
+        autocomplete="off"
+        required
+      />
+      <button type="submit" id="rs-submit">Research</button>
+    </form>
+
+    <div class="rs-examples" aria-label="Example questions">
+      {examples.map((ex) => (
+        <button type="button" class="rs-chip" data-q={ex}>{ex}</button>
+      ))}
+    </div>
+
+    <div id="rs-loading" class="rs-state" hidden>
+      <div class="rs-spinner" aria-hidden="true"></div>
+      <span>Researching…</span>
+    </div>
+
+    <div id="rs-error" class="rs-state" hidden>
+      <p>Research is temporarily unavailable. Please try again in a moment.</p>
+    </div>
+
+    <article id="rs-result" class="rs-result" hidden>
+      <div class="rs-result-head">
+        <span id="rs-source" class="rs-source"></span>
+      </div>
+      <div id="rs-answer" class="rs-answer"></div>
+      <p id="rs-note" class="rs-note" hidden></p>
+      <section id="rs-citations-wrap" class="rs-citations" hidden>
+        <h2>Sources</h2>
+        <ol id="rs-citations"></ol>
+      </section>
+      <p class="rs-disclaimer">Informational only — not investment advice.</p>
+    </article>
+
+    <section class="rs-more">
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/search">Smart Search across the site</a></li>
+        <li><a href="/trends/">Trend Radar</a> · <a href="/insights/">Insights</a></li>
+        <li><a href="/guides/">Guides</a> · <a href="/glossary/">Glossary</a></li>
+      </ul>
+    </section>
+  </div>
+</BaseLayout>
+
+<script>
+  // @ts-nocheck
+  (() => {
+    const $ = (id) => document.getElementById(id);
+    const form = $('rs-form');
+    const input = $('rs-input');
+    const submit = $('rs-submit');
+    const loading = $('rs-loading');
+    const errorEl = $('rs-error');
+    const result = $('rs-result');
+
+    const show = (el) => el && el.removeAttribute('hidden');
+    const hide = (el) => el && el.setAttribute('hidden', '');
+    const esc = (s) =>
+      String(s ?? '').replace(/[&<>"']/g, (c) => (
+        { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
+      ));
+
+    function render(data) {
+      hide(loading);
+      if (!data || !data.success || !data.available) {
+        show(errorEl);
+        return;
+      }
+      hide(errorEl);
+
+      const source = $('rs-source');
+      if (data.source === 'sonar') {
+        source.textContent = '● Live web';
+        source.className = 'rs-source rs-source--live';
+      } else {
+        source.textContent = '● From our news corpus';
+        source.className = 'rs-source rs-source--corpus';
+      }
+
+      $('rs-answer').innerHTML = String(data.answer || '')
+        .split(/\n{2,}/)
+        .filter(Boolean)
+        .map((p) => '<p>' + esc(p.trim()) + '</p>')
+        .join('');
+
+      const note = $('rs-note');
+      if (data.note) { note.textContent = data.note; show(note); } else { hide(note); }
+
+      const cites = Array.isArray(data.citations) ? data.citations : [];
+      if (cites.length) {
+        $('rs-citations').innerHTML = cites
+          .map((c) => {
+            const t = esc(c.title || c.url);
+            const src = c.source ? ' <span class="cite-src">(' + esc(c.source) + ')</span>' : '';
+            return '<li><a href="' + esc(c.url) + '" target="_blank" rel="noopener nofollow">' + t + '</a>' + src + '</li>';
+          })
+          .join('');
+        show($('rs-citations-wrap'));
+      } else {
+        hide($('rs-citations-wrap'));
+      }
+
+      show(result);
+    }
+
+    async function runQuery(q) {
+      const query = (q || '').trim();
+      if (!query) return;
+      input.value = query;
+      hide(errorEl);
+      hide(result);
+      show(loading);
+      submit.setAttribute('disabled', 'disabled');
+
+      // Reflect the query in the URL so results are shareable.
+      try {
+        const u = new URL(window.location.href);
+        u.searchParams.set('q', query);
+        window.history.replaceState({}, '', u);
+      } catch {}
+
+      try {
+        const res = await fetch('/api/research?q=' + encodeURIComponent(query), {
+          headers: { Accept: 'application/json' },
+        });
+        render(await res.json());
+      } catch {
+        hide(loading);
+        show(errorEl);
+      } finally {
+        submit.removeAttribute('disabled');
+      }
+    }
+
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      runQuery(input.value);
+    });
+
+    document.querySelectorAll('.rs-chip').forEach((chip) => {
+      chip.addEventListener('click', () => runQuery(chip.dataset.q));
+    });
+
+    // Run a query passed via ?q= on load (shareable links).
+    const initial = new URLSearchParams(window.location.search).get('q');
+    if (initial) runQuery(initial);
+  })();
+</script>
+
+<style>
+  .research { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .rs-header { margin-bottom: var(--space-5); }
+  .rs-badge { display: inline-flex; align-items: center; gap: 0.4rem; font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-accent); font-weight: 600; margin-bottom: var(--space-3); }
+  .badge-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-accent); }
+  .rs-header h1 { border: none; margin-bottom: var(--space-3); }
+  .rs-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+
+  .rs-form { display: flex; gap: var(--space-2); margin: var(--space-5) 0 var(--space-3); }
+  .rs-form input { flex: 1; padding: 0.75rem 1rem; border: 1px solid var(--color-border); border-radius: 4px; font-size: var(--text-base); background: var(--color-bg); color: var(--color-text); }
+  .rs-form input:focus { outline: none; border-color: var(--color-accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 20%, transparent); }
+  .rs-form button { padding: 0.75rem 1.5rem; border: none; border-radius: 4px; background: var(--color-accent); color: #fff; font-weight: 600; cursor: pointer; white-space: nowrap; transition: background var(--duration-fast, 150ms) ease; }
+  .rs-form button:hover { background: var(--color-accent-hover, #a60d26); }
+  .rs-form button[disabled] { opacity: 0.6; cursor: default; }
+
+  .rs-examples { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-bottom: var(--space-5); }
+  .rs-chip { font-size: var(--text-sm); padding: 0.35rem 0.75rem; border: 1px solid var(--color-border-light); border-radius: 999px; background: var(--color-bg-subtle); color: var(--color-text-muted); cursor: pointer; transition: all var(--duration-fast, 150ms) ease; }
+  .rs-chip:hover { border-color: var(--color-accent); color: var(--color-accent); }
+
+  .rs-state { display: flex; align-items: center; gap: var(--space-3); padding: var(--space-5) 0; color: var(--color-text-muted); }
+  .rs-spinner { width: 20px; height: 20px; border: 2px solid var(--color-border); border-top-color: var(--color-accent); border-radius: 50%; animation: rs-spin 0.7s linear infinite; }
+  @keyframes rs-spin { to { transform: rotate(360deg); } }
+
+  .rs-result { border: 1px solid var(--color-border-light); border-radius: 4px; padding: var(--space-5) var(--space-6); background: var(--color-bg-subtle); margin-top: var(--space-2); }
+  .rs-result-head { margin-bottom: var(--space-3); }
+  .rs-source { font-size: var(--text-xs); font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+  .rs-source--live { color: #15803d; }
+  .rs-source--corpus { color: var(--color-text-muted); }
+  .rs-answer p { line-height: 1.7; margin: 0 0 var(--space-3); }
+  .rs-note { font-size: var(--text-sm); color: var(--color-text-muted); font-style: italic; margin: var(--space-2) 0 0; }
+  .rs-citations { margin-top: var(--space-5); }
+  .rs-citations h2 { font-size: var(--text-base); margin: 0 0 var(--space-2); border: none; }
+  .rs-citations ol { margin: 0; padding-left: 1.25rem; display: flex; flex-direction: column; gap: 0.4rem; }
+  .rs-citations a { color: var(--color-accent); text-decoration: none; }
+  .rs-citations a:hover { text-decoration: underline; }
+  .cite-src { color: var(--color-text-muted); font-size: var(--text-sm); }
+  .rs-disclaimer { margin-top: var(--space-5); font-size: var(--text-sm); color: var(--color-text-muted); }
+
+  .rs-more { margin-top: var(--space-10); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+</style>
