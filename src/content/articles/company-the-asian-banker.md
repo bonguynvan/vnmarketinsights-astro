@@ -1,8 +1,8 @@
 ---
 title: "The Asian Banker — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning The Asian Banker, with neutral summaries and source links."
-publishedDate: "2026-06-27"
-lastUpdated: "2026-06-27"
+publishedDate: "2026-06-29"
+lastUpdated: "2026-06-29"
 category: "Company"
 readingTime: 3
 ---

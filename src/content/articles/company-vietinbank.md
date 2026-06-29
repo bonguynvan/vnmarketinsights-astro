@@ -1,17 +1,29 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-06-27"
-lastUpdated: "2026-06-27"
+publishedDate: "2026-06-29"
+lastUpdated: "2026-06-29"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+On June 28, a survey of online deposit interest rates showed that only 6 banks were offering rates of 7% per annum or higher for 12-month terms. Most banks were applying typical rates of 6.8-6.9% per annum, while the Big 4 banking group maintained stable interest rate schedules.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn)
+
+**VietinBank tiếp tục bán bất thành hơn 19 triệu cổ phiếu SGP**  
+
+VietinBank failed to sell any of its registered 19.31 million SGP shares due to unfavorable market conditions. The bank had registered these Saigon Port shares for sale but did not complete any transactions during the trading period. The shares remain unsold as market conditions did not support the divestment.
+
+- Source: [CafeF](https://cafef.vn/vietinbank-tiep-tuc-ban-bat-thanh-hon-19-trieu-co-phieu-sgp-18826062814294375.chn)
 
 **Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
 
@@ -72,18 +84,6 @@ VietinBank is strengthening connections with the digital business community at t
 A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
-
-**EVN phát cảnh báo khẩn, người dân cả nước cần đặc biệt cẩn thận để tránh mất trắng tiền trong tài khoản**  
-
-EVN issued an urgent national warning about a new fraud scheme targeting consumers. The alert advises people nationwide to be cautious to avoid losing money from their bank accounts. Additional warnings mentioned potential closure of accounts at banks including Agribank, MB, Vietcombank, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/evn-phat-canh-bao-khan-nguoi-dan-ca-nuoc-can-dac-biet-can-than-de-tranh-mat-trang-tien-trong-tai-khoan-188260623161609226.chn)
-
-**Một ngân hàng được dự báo lợi nhuận tăng gấp đôi trong năm 2026**  
-
-A bank is projected to see pre-tax profit of 15.232 trillion Vietnamese dong in 2026, representing a 100% increase compared to the previous year. The projection indicates significant earnings growth for the financial institution in the forecast period. Additional banking sector forecasts suggest varied performance across different banks in the same timeframe.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-duoc-du-bao-loi-nhuan-tang-gap-doi-trong-nam-2026-188260622105713761.chn)
 
 ## Related coverage
 

@@ -1,17 +1,23 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-06-27"
-lastUpdated: "2026-06-27"
+publishedDate: "2026-06-29"
+lastUpdated: "2026-06-29"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+On June 28, a survey of online deposit interest rates showed that only 6 banks were offering rates of 7% per annum or higher for 12-month terms. Most banks were applying typical rates of 6.8-6.9% per annum, while the Big 4 banking group maintained stable interest rate schedules.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn)
 
 **Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
 
@@ -78,12 +84,6 @@ A survey of online deposit rates on June 23 shows that multiple banks maintained
 VietinBank has reached a total asset milestone of 3 trillion Vietnamese dong, becoming the second bank in Vietnam to achieve this scale after BIDV. This achievement reflects the bank's growth and asset accumulation. The development places VietinBank among the largest financial institutions in the country.
 
 - Source: [CafeF](https://cafef.vn/viet-nam-co-ngan-hang-thu-hai-dat-moc-tai-san-3-trieu-ty-dong-188260622112650125.chn)
-
-**BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam**  
-
-BIDV received the Best Customer Experience Initiative in Vietnam 2026 award from The Asian Banker magazine. The award recognizes BIDV's efforts to establish new standards in premium customer experience through synchronized integration of banking services and privileged ecosystem offerings on its digital platform. The recognition reflects the bank's focus on customer experience as a key competitive factor in the banking industry amid technological advancement.
-
-- Source: [CafeF](https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn)
 
 ## Related coverage
 

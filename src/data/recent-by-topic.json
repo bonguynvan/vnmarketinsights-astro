@@ -1,140 +1,224 @@
 {
-  "generatedAt": "2026-06-27T23:57:26.518993+00:00",
+  "generatedAt": "2026-06-29T00:03:44.313769+00:00",
   "topics": {
     "regulations": [
       {
-        "title": "Nhận được tin nhắn này từ Vietcombank, tuyệt đối không bấm vào",
-        "url": "https://cafef.vn/nhan-duoc-tin-nhan-nay-tu-vietcombank-tuyet-doi-khong-bam-vao-188260626155141838.chn",
+        "title": "Cục Thuế phát công điện hỏa tốc: Triển khai gia hạn thuế, tiền thuê đất trên toàn quốc",
+        "url": "https://cafef.vn/cuc-thue-phat-cong-dien-hoa-toc-trien-khai-gia-han-thue-tien-thue-dat-tren-toan-quoc-188260628073254165.chn",
         "source": "CafeF",
-        "summary_en": "Vietcombank has warned customers about fraudulent SMS messages impersonating the bank. Scammers commonly use messages claiming that accumulated reward points are about to expire to manipulate users psychologically into following instructions that could compromise their assets. The bank has documented multiple cases of such fraudulent communications targeting its customers.",
-        "summary_vn": "Vietcombank đã cảnh báo khách hàng về các tin nhắn SMS giả mạo mạnh danh ngân hàng. Các kẻ lừa đảo thường sử dụng thông báo về điểm thưởng tích lũy sắp hết hạn để tác động tâm lý và dụ dỗ người dùng thực hiện các bước có thể ảnh hưởng đến tài sản của họ. Ngân hàng đã ghi nhận nhiều trường hợp các tin nhắn giả mạo này nhắm tới khách hàng.",
-        "pubDate": "Sat, 27 Jun 26 07:52:00 +0700",
-        "sentiment": -0.7,
+        "summary_en": "The Tax Department issued an urgent directive following the Government's Decree 245/2026/NĐ-CP, instructing local tax authorities to expedite the implementation of a tax and land rent payment extension policy nationwide for 2026. The policy applies to value-added tax (VAT), corporate income tax (CIT), personal income tax for households and self-employed individuals, and land rent payments.",
+        "summary_vn": "Cục Thuế đã phát công điện hỏa tốc sau khi Chính phủ ban hành Nghị định 245/2026/NĐ-CP, yêu cầu các cơ quan thuế địa phương khẩn trương triển khai chính sách gia hạn thời hạn nộp thuế và tiền thuê đất cho năm 2026. Chính sách này áp dụng đối với thuế GTGT, thuế TNDN, thuế TNCN của hộ, cá nhân kinh doanh và tiền thuê đất.",
+        "pubDate": "Sun, 28 Jun 26 07:30:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Thủ đoạn ‘qua mặt’ sinh trắc học, chiếm đoạt hơn 1.000 tài khoản ngân hàng",
-        "url": "https://cafef.vn/thu-doan-qua-mat-sinh-trac-hoc-chiem-doat-hon-1000-tai-khoan-ngan-hang-188260627073805735.chn",
+        "title": "Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng",
+        "url": "https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn",
         "source": "CafeF",
-        "summary_en": "A criminal ring led by Nguyễn Tiến Đạt used software to spoof facial recognition data and circumvent biometric authentication systems at banks to illicitly acquire, trade, and control over 1,000 bank accounts. On June 26, police in Thanh Hóa province initiated prosecution and detention of 8 suspects related to illegal bank account trading and abuse of advanced technology. The case represents a scheme combining account fraud and biometric system manipulation for criminal purposes.",
-        "summary_vn": "Nhóm tội phạm do Nguyễn Tiến Đạt cầm đầu đã sử dụng phần mềm giả mạo dữ liệu khuôn mặt để vượt qua cơ chế xác thực sinh trắc học của các ngân hàng nhằm chiếm đoạt, mua bán và kiểm soát hơn 1.000 tài khoản ngân hàng. Ngày 26/6, Công an tỉnh Thanh Hóa khởi tố và bắt tạm giam 8 đối tượng liên quan đến hoạt động mua bán trái phép thông tin tài khoản ngân hàng và lạm dụng công nghệ cao. Vụ án kết hợp giữa gian lận tài khoản và tác động vào hệ thống sinh trắc học nhằm phục vụ mục đích tội phạm.",
-        "pubDate": "Sat, 27 Jun 26 08:35:00 +0700",
-        "sentiment": -1.0,
+        "summary_en": "Vietnam's State Bank will allow banks to increase the loan-to-deposit ratio (LDR) for converting short-term capital into medium and long-term lending from 30% to 40%, effective July 1, 2026. This regulatory change is expected to significantly expand credit availability across real estate, infrastructure, and business production sectors. The measure could potentially unlock trillions of Vietnamese dong in additional lending capacity.",
+        "summary_vn": "Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng tỷ lệ sử dụng vốn ngắn hạn để cho vay trung và dài hạn từ 30% lên 40%. Thay đổi quy định này được kỳ vọng sẽ mở rộng đáng kể dư địa cho vay trong các lĩnh vực bất động sản, hạ tầng và sản xuất kinh doanh. Biện pháp này có thể giải phóng hàng triệu tỷ đồng dư địa tín dụng bổ sung cho hệ thống ngân hàng.",
+        "pubDate": "Sun, 28 Jun 26 11:16:00 +0700",
+        "sentiment": 0.6,
+        "importance": 5
+      },
+      {
+        "title": "Cảnh báo mới nhất tới người dùng loa thanh toán",
+        "url": "https://cafef.vn/canh-bao-moi-nhat-toi-nguoi-dung-loa-thanh-toan-188260628152653319.chn",
+        "source": "CafeF",
+        "summary_en": "Co-opBank issued a warning about fraudulent schemes in which bad actors impersonate bank employees or technical staff to deceive customers under the guise of helping install or upgrade payment announcement speakers. The article also mentions upcoming changes to banking sector lending limits for real estate, infrastructure, and business production. Additional banking news is referenced but not detailed in the excerpt.",
+        "summary_vn": "Ngân hàng Hợp tác xã Việt Nam (Co-opBank) đã cảnh báo về các trường hợp người xấu giả mạo nhân viên ngân hàng hoặc kỹ thuật để lừa đảo khách hàng dưới vỏ bọc hỗ trợ cài đặt hoặc nâng cấp loa thông báo thanh toán. Bài viết cũng đề cập đến những thay đổi sắp tới về giới hạn cho vay của ngành ngân hàng đối với bất động sản, hạ tầu và sản xuất kinh doanh. Thêm một số tin tức ngân hàng khác được đề cập nhưng không được chi tiết trong đoạn trích này.",
+        "pubDate": "Sun, 28 Jun 26 16:25:00 +0700",
+        "sentiment": -0.5,
+        "importance": 2
+      },
+      {
+        "title": "Vietcombank cảnh báo: Khách hàng có thể mất sạch tiền trong thẻ nếu làm theo tin nhắn này",
+        "url": "https://cafef.vn/vietcombank-canh-bao-khach-hang-co-the-mat-sach-tien-trong-the-neu-lam-theo-tin-nhan-nay-188260628174644696.chn",
+        "source": "CafeF",
+        "summary_en": "Vietcombank issued a warning about a new fraud scheme where scammers send SMS messages impersonating the bank with notifications about expiring reward points to trick customers into visiting fake websites and providing card information and OTP codes. The warning alerts customers to this fraudulent tactic targeting cardholders. The source date indicates this alert was issued on June 28, 2026.",
+        "summary_vn": "Vietcombank đã phát cảnh báo về một chiêu thức lừa đảo mới khi những đối tượng mạo danh ngân hàng gửi tin nhắn SMS thông báo về điểm thưởng sắp hết hạn để dụ khách hàng vào website giả mạo và cung cấp thông tin thẻ cũng như mã OTP. Cảnh báo nhằm mục đích cảnh báo khách hàng về chiêu thức gian lận này nhắm đến các chủ thẻ. Ngày đăng tải cho thấy cảnh báo này được phát hành vào ngày 28 tháng 6 năm 2026.",
+        "pubDate": "Sun, 28 Jun 26 18:43:00 +0700",
+        "sentiment": -0.7,
         "importance": 4
       },
       {
-        "title": "Giảm lãi suất cho người dưới 35 tuổi vay mua nhà ở xã hội",
-        "url": "https://cafef.vn/giam-lai-suat-cho-nguoi-duoi-35-tuoi-vay-mua-nha-o-xa-hoi-188260627120454146.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's central bank has issued guidance to commercial banks to reduce interest rates for borrowers under 35 years old purchasing affordable housing, with rates set at 6.5% per annum during the first 5 years from the initial disbursement date. The policy aims to support younger homebuyers in accessing social housing. This initiative reflects continued efforts to address affordable housing challenges and support first-time homebuyers in Vietnam.",
-        "summary_vn": "Ngân hàng Nhà nước Việt Nam đã yêu cầu các ngân hàng thương mại giảm lãi suất cho những người dưới 35 tuổi vay mua nhà ở xã hội, với mức lãi suất 6,5%/năm trong 5 năm đầu kể từ ngày giải ngân đầu tiên. Chính sách này nhằm hỗ trợ người trẻ tuổi tiếp cận nhà ở giá rẻ. Đây là một trong những bước tiếp tục của Nhà nước để giải quyết vấn đề nhà ở giá rẻ và hỗ trợ những người mua nhà lần đầu tại Việt Nam.",
-        "pubDate": "Sat, 27 Jun 26 12:04:00 +0700",
+        "title": "Việt Nam tăng tốc ph&aacute;t triển kinh tế tầm thấp",
+        "url": "https://thanhnien.vn/viet-nam-tang-toc-phat-trien-kinh-te-tam-thap-185260627224857195.htm",
+        "source": "ThanhNien",
+        "summary_en": "Dien Bien province in Vietnam issued Decision No. 1291 establishing a sandbox mechanism for testing controlled digital technology products and services using unmanned aerial vehicles (UAVs/drones) for low-altitude economy development. The initiative is positioned as a pioneering effort to explore the potential of low-altitude economic operations and create a practical foundation for refining mechanisms and policies in this emerging sector. The province has set targets as part of the implementation strategy.",
+        "summary_vn": "Tỉnh Điện Biên đã ban hành Quyết định số 1291 thiết lập cơ chế sandbox để thử nghiệm có kiểm soát các sản phẩm và dịch vụ công nghệ số sử dụng phương tiện bay không người lái (UAV/drone) nhằm phát triển kinh tế tầm thấp. Sáng kiến này được coi là bước đi tiên phong để khai thác tiềm năng của hoạt động kinh tế không gian tầm thấp và tạo cơ sở thực tiễn để hoàn thiện cơ chế, chính sách cho lĩnh vực mới. Tỉnh đã đặt các mục tiêu cụ thể như một phần của chiến lược triển khai.",
+        "pubDate": "Sun, 28 Jun 26 07:24:00 +0700",
         "sentiment": 0.5,
         "importance": 3
       },
       {
-        "title": "Ngân hàng cảnh báo loại hình ảnh tuyệt đối không nên lưu trong điện thoại",
-        "url": "https://cafef.vn/ngan-hang-canh-bao-loai-hinh-anh-tuyet-doi-khong-nen-luu-trong-dien-thoai-188260626155836049.chn",
-        "source": "CafeF",
-        "summary_en": "Banks and security experts warn users against storing photos of identity documents and bank cards on smartphones. This habit is considered extremely risky as it can enable fraudsters to exploit the images for unauthorized access to assets. Multiple cases have been documented where users fell victim to scams due to seemingly harmless actions on their mobile devices.",
-        "summary_vn": "Các ngân hàng và chuyên gia bảo mật cảnh báo người dùng không nên lưu ảnh chụp giấy tờ tùy thân và thẻ ngân hàng trên điện thoại. Thói quen này rất nguy hiểm vì có thể cho phép những kẻ gian lợi dụng những bức ảnh để chiếm đoạt tài sản. Nhiều trường hợp người dùng đã bị lừa do những thao tác tưởng chừng vô hại trên di động.",
-        "pubDate": "Sat, 27 Jun 26 13:12:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
-      },
-      {
-        "title": "Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng",
-        "url": "https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn",
-        "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam has implemented several policy adjustments since the beginning of the year to support credit growth while maintaining financial system stability. These measures include relaxing the short-term capital ratio for medium- and long-term lending, adjusting credit room calculation methods, and excluding debt of 18 major projects from credit growth limits. The central bank's actions signal a clear policy direction: supporting economic growth without compromising financial stability.",
-        "summary_vn": "Ngân hàng Nhà nước đã thực hiện nhiều điều chỉnh chính sách kể từ đầu năm để hỗ trợ tăng trưởng tín dụng đồng thời duy trì sự ổn định của hệ thống tài chính. Các biện pháp này bao gồm nới lỏng tỷ lệ vốn ngắn hạn cho vay trung-dài hạn, điều chỉnh cách tính room tín dụng, và loại trừ dư nợ của 18 dự án lớn khỏi hạn mức tăng trưởng tín dụng. Các hành động của Ngân hàng Nhà nước gửi thông điệp chính sách rõ ràng: hỗ trợ tăng trưởng kinh tế mà không ảnh hưởng đến sự ổn định tài chính.",
-        "pubDate": "Sat, 27 Jun 26 18:35:00 +0700",
-        "sentiment": 0.3,
-        "importance": 4
-      },
-      {
-        "title": "Phó Thủ tướng yêu cầu không để tái diễn vụ \"yêu cầu cụ 97 tuổi đến phường làm thủ tục\"",
-        "url": "https://cafef.vn/pho-thu-tuong-yeu-cau-khong-de-tai-dien-vu-yeu-cau-cu-97-tuoi-den-phuong-lam-thu-tuc-188260627073728618.chn",
-        "source": "CafeF",
-        "summary_en": "The Deputy Prime Minister has directed provinces and cities to review a case where a 97-year-old was required to appear in person at a ward office to complete administrative procedures. The Government Office issued Document No. 6051/VPCP-CĐS transmitting Deputy Prime Minister Phạm Thị Thanh Trà's views on reviewing and simplifying authorization procedures for receiving pensions and social insurance allowances. The directive was issued based on media reports of the incident.",
-        "summary_vn": "Phó Thủ tướng yêu cầu các tỉnh, thành phố rút kinh nghiệm từ vụ việc yêu cầu một người 97 tuổi đến phường làm thủ tục. Văn phòng Chính phủ đã truyền đạt ý kiến của Phó Thủ tướng Phạm Thị Thanh Trà về rà soát, đơn giản hóa thủ tục ủy quyền nhận lương hưu và trợ cấp bảo hiểm xã hội. Văn bản được ban hành trên cơ sở phản ánh của các cơ quan báo chí về sự việc này.",
-        "pubDate": "Sat, 27 Jun 26 07:50:00 +0700",
-        "sentiment": -0.4,
+        "title": "Tái chế bắt đầu từ thiết kế",
+        "url": "https://tuoitre.vn/tai-che-bat-dau-tu-thiet-ke-100260626171920311.htm",
+        "source": "TuoiTre",
+        "summary_en": "The article discusses how environmental considerations in waste management are shifting from end-of-chain processing to the beginning of the production process. TH true MILK, as one of nine founding members of the Vietnam Packaging Recycling Alliance (PRO Vietnam) since 2019, is participating in collaborative networks to promote circular economy in packaging. The company's approach focuses on designing products to reduce waste rather than managing waste after it is generated.",
+        "summary_vn": "Bài viết thảo luận về cách mà các yếu tố môi trường trong quản lý chất thải đang chuyển từ xử lý cuối chuỗi sang đầu quy trình sản xuất. TH true MILK, với tư cách là một trong chín thành viên sáng lập của Liên minh Tái chế Bao bì Việt Nam (PRO Việt Nam) từ năm 2019, đang tham gia vào các mạng lưới hợp tác để thúc đẩy kinh tế tuần hoàn trong lĩnh vực bao bì. Cách tiếp cận của công ty tập trung vào thiết kế sản phẩm để giảm chất thải thay vì quản lý chất thải sau khi nó được phát sinh.",
+        "pubDate": "6/28/2026 8:15:00 AM",
+        "sentiment": 0.6,
         "importance": 3
       }
     ],
     "financial-markets": [
       {
-        "title": "Giá vàng SJC, vàng nhẫn ngày 27/6 quay đầu tăng mạnh",
-        "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-27-6-quay-dau-tang-manh-188260627091129451.chn",
+        "title": "Giá vàng SJC, vàng nhẫn ngày 28/6",
+        "url": "https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-28-6-188260628081046492.chn",
         "source": "CafeF",
-        "summary_en": "SJC gold and gold ring prices rebounded sharply on June 27 after a period of stability. World gold prices were hovering around 4,088 USD per ounce. Domestic gold prices had previously declined by more than 15 million dong per tael before this reversal.",
-        "summary_vn": "Giá vàng SJC và vàng nhẫn tăng mạnh trở lại vào ngày 27/6 sau một giai đoạn giữ ổn định. Giá vàng thế giới đang dao động quanh mốc 4.088 USD/ounce. Giá vàng trong nước trước đó đã giảm hơn 15 triệu đồng/lượng trước khi có sự đảo chiều này.",
-        "pubDate": "Sat, 27 Jun 26 09:11:00 +0700",
-        "sentiment": 0.4,
+        "summary_en": "Vietnamese domestic gold prices remained unchanged on June 28, 2026, as the market entered a holiday period. SJC gold bar prices and gold ring prices were quoted but experienced significant volatility during the preceding week. Global gold prices broke through the $4,000 per ounce threshold during this period.",
+        "summary_vn": "Giá vàng trong nước giữ nguyên vào ngày 28/6/2026 do thị trường bước vào kỳ nghỉ. Giá vàng miếng SJC và vàng nhẫn ghi nhận sự biến động mạnh trong suốt tuần trước. Giá vàng thế giới đã vượt qua mốc 4.000 USD/ounce trong giai đoạn này.",
+        "pubDate": "Sun, 28 Jun 26 08:10:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Một cổ phiếu ngân hàng tăng hơn 14% trong tuần qua",
-        "url": "https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-14-trong-tuan-qua-188260627081824533.chn",
+        "title": "Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%",
+        "url": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn",
         "source": "CafeF",
-        "summary_en": "A bank stock rose more than 14% over the past week, with LPB gaining 10% alongside other small bank stocks showing strong increases. The market recorded its second consecutive week of gains (June 22-26), though gains were primarily driven by a few large-cap stocks such as VIC and VHM, while overall liquidity remained unchanged. The VN-Index closed the week up 47.38 points, equivalent to +2.59%, reaching 1,871.91 points, marking the second consecutive week of gains following a nearly 33-point increase in the previous week.",
-        "summary_vn": "Một cổ phiếu ngân hàng tăng hơn 14% trong tuần qua, trong khi LPB tăng 10% kèm theo các cổ phiếu ngân hàng nhỏ khác tăng mạnh. Thị trường ghi nhận tuần thứ hai liên tiếp tăng điểm (22-26/6), nhưng lợi suất chủ yếu đến từ một số ít cổ phiếu lớn như VIC và VHM, trong khi thanh khoản chung vẫn chưa được cải thiện. VN-Index đóng cửa tuần tăng 47,38 điểm, tương đương +2,59%, đạt 1.871,91 điểm, ghi nhận tuần tăng thứ hai liên tiếp sau mức tăng gần 33 điểm trong tuần trước.",
-        "pubDate": "Sat, 27 Jun 26 09:19:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Ngân hàng Trung ương Thái Lan nâng dự báo tăng trưởng GDP năm 2026 từ 1,5% lên 2,3%",
-        "url": "https://cafef.vn/ngan-hang-trung-uong-thai-lan-nang-du-bao-tang-truong-gdp-nam-2026-tu-15-len-23-188260627082327008.chn",
-        "source": "CafeF",
-        "summary_en": "Thailand's Central Bank (BoT) raised its GDP growth forecast for 2026 from 1.5% to 2.3%. The revision reflects expectations of strong exports, government economic stimulus measures, and reduced geopolitical tensions in the Middle East. The adjustment signals improved economic outlook compared to the previous projection.",
-        "summary_vn": "Ngân hàng Trung ương Thái Lan (BoT) đã nâng dự báo tăng trưởng GDP năm 2026 từ 1,5% lên 2,3%. Sự điều chỉnh này phản ánh kỳ vọng về xuất khẩu mạnh mẽ, các biện pháp kích thích kinh tế của chính phủ, và căng thẳng địa chính trị ở Trung Đông giảm bớt. Điều chỉnh này cho thấy triển vọng kinh tế tích cực hơn so với dự báo trước đó.",
-        "pubDate": "Sat, 27 Jun 26 09:22:00 +0700",
-        "sentiment": 0.6,
+        "summary_en": "A bank will set the record date for a nearly 30% dividend payout in the coming week. Shareholders of Kiên Long Bank (ticker: KLB) are expected to receive significant dividend information in the first trading week of July. This follows recent dividend announcements from other banks including VPBank and Techcombank.",
+        "summary_vn": "Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%. Cổ đông Ngân hàng TMCP Kiên Long (KLB) sẽ nhận thông tin đáng chú ý trong tuần giao dịch đầu tiên của tháng 7. Thông tin này xuất hiện sau các thông báo chia cổ tức của các ngân hàng khác như VPBank và Techcombank.",
+        "pubDate": "Sun, 28 Jun 26 09:16:00 +0700",
+        "sentiment": 0.2,
         "importance": 3
       },
       {
-        "title": "Ngân hàng UOB hỗ trợ Hà Nội thu hút FDI chất lượng cao",
-        "url": "https://cafef.vn/ngan-hang-uob-ho-tro-ha-noi-thu-hut-fdi-chat-luong-cao-18826062710024771.chn",
+        "title": "Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn",
         "source": "CafeF",
-        "summary_en": "UOB Bank Vietnam signed a memorandum of understanding with Hanoi's Department of Finance to strengthen cooperation in attracting high-quality foreign direct investment (FDI) into the capital. The agreement also aims to support Vietnamese enterprises in expanding their investment and business operations in the region and internationally.",
-        "summary_vn": "Ngân hàng UOB Việt Nam ký kết biên bản ghi nhớ với Sở Tài chính Thành phố Hà Nội nhằm tăng cường hợp tác trong thu hút dòng vốn FDI chất lượng cao vào Thủ đô. Thỏa thuận cũng nhằm hỗ trợ doanh nghiệp Việt Nam mở rộng hoạt động đầu tư và kinh doanh ra khu vực và quốc tế.",
-        "pubDate": "Sat, 27 Jun 26 10:02:00 +0700",
-        "sentiment": 0.5,
+        "summary_en": "On June 28, a survey of online deposit interest rates showed that only 6 banks were offering rates of 7% per annum or higher for 12-month terms. Most banks were applying typical rates of 6.8-6.9% per annum, while the Big 4 banking group maintained stable interest rate schedules.",
+        "summary_vn": "Khảo sát lãi suất huy động trực tuyến ngày 28/6 cho thấy chỉ có 6 ngân hàng niêm yết lãi suất từ 7%/năm trở lên cho kỳ hạn 12 tháng. Phần lớn ngân hàng đang áp dụng mức lãi suất phổ biến từ 6,8-6,9%/năm và nhóm Big4 tiếp tục duy trì biểu lãi suất ổn định.",
+        "pubDate": "Sun, 28 Jun 26 17:23:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026",
-        "url": "https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn",
+        "title": "Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước",
+        "url": "https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn",
         "source": "CafeF",
-        "summary_en": "Techcombank and Techcom Life received three awards from The Asian Banker 2026, a leading financial evaluation and ranking organization in Asia. The awards affirm Techcombank's leading position as a national enterprise in its field. The achievements underscore the company's prominence within the financial and banking sector in Asia.",
-        "summary_vn": "Ngân hàng Techcombank và Techcom Life vừa nhận 3 giải thưởng uy tín từ The Asian Banker 2026, một tổ chức đánh giá và xếp hạng hàng đầu trong lĩnh vực tài chính ngân hàng tại châu Á. Các giải thưởng này khẳng định vị thế dẫn dắt của Techcombank với tư cách là doanh nghiệp quốc gia. Thành tích này phản ánh sự nổi bật của công ty trong lĩnh vực tài chính và ngân hàng ở châu Á.",
-        "pubDate": "Sat, 27 Jun 26 11:00:00 +0700",
-        "sentiment": 0.8,
-        "importance": 3
+        "summary_en": "The Government has requested the State Bank of Vietnam to study measures to increase liquidity sources for the banking system from State Treasury deposits in commercial banks during 2026. The Government issued Resolution 168/NQ-CP on June 27, 2026, updating growth scenarios and key solutions for the remaining quarters of the year. The objective is to supplement liquidity for the banking system by raising the proportion of State Treasury fixed-term deposits at commercial banks as part of their capital mobilization sources.",
+        "summary_vn": "Chính phủ yêu cầu Ngân hàng Nhà nước nghiên cứu các biện pháp tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi của Kho bạc Nhà nước tại các ngân hàng thương mại trong năm 2026. Chính phủ đã ban hành Nghị quyết 168/NQ-CP ngày 27/6/2026 cập nhật kịch bản tăng trưởng và các giải pháp trọng tâm cho các quý còn lại của năm. Mục đích là bổ sung thanh khoản cho hệ thống ngân hàng thông qua việc nâng tỷ lệ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại các ngân hàng thương mại.\"",
+        "pubDate": "Sun, 28 Jun 26 19:28:00 +0700",
+        "sentiment": 0.0,
+        "importance": 4
       },
       {
-        "title": "\"Tháo van\" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng",
-        "url": "https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn",
+        "title": "Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ",
+        "url": "https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam is signaling a focused credit expansion cycle through a series of policy measures, including special room allocations for 18 priority projects from Vingroup, Sun Group, and Masterise. The central bank is adjusting systemic management indicators and preparing to inject approximately 1.5 quadrillion Vietnamese dong into the economy. These measures represent a significant policy shift toward strategic credit loosening.",
-        "summary_vn": "Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng tín dụng có trọng tâm thông qua các biện pháp chính sách, bao gồm cấp phép đặc biệt cho 18 dự án ưu tiên của Vingroup, Sun Group và Masterise. Ngân hàng trung ương điều chỉnh các chỉ số quản trị hệ thống và chuẩn bị bơm khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Những biện pháp này đại diện cho một sự thay đổi chính sách quan trọng hướng tới nới lỏng tín dụng chiến lược.",
-        "pubDate": "Sat, 27 Jun 26 13:18:00 +0700",
-        "sentiment": 0.4,
-        "importance": 5
+        "summary_en": "Vietnamese gold prices exceeded world gold prices by 19 million dong per tael on June 28, 2026. SJC gold bars were quoted at 145.5-148.5 million dong per tael (buy-sell spread) as of 5 PM that day. Gold prices in Vietnam experienced significant fluctuations throughout the week, with SJC bars and gold rings reaching weekly highs on June 27.",
+        "summary_vn": "Giá vàng Việt Nam vượt giá vàng thế giới 19 triệu đồng/lượng vào ngày 28/6/2026. Vàng miếng SJC được niêm yết ở mức 145,5-148,5 triệu đồng/lượng (giá mua - giá bán) tính đến 17h chiều hôm đó. Giá vàng tại Việt Nam có nhiều biến động trong suốt cả tuần, với vàng miếng SJC và vàng nhẫn đạt mức cao nhất trong tuần vào ngày 27/6.",
+        "pubDate": "Sun, 28 Jun 26 21:53:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Vietjet li&ecirc;n tiếp hai năm được vinh danh trong Top Doanh nghiệp ESG Việt Nam Xanh",
+        "url": "https://thanhnien.vn/vietjet-lien-tiep-hai-nam-duoc-vinh-danh-trong-top-doanh-nghiep-esg-viet-nam-xanh-185260628073010257.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietjet has been recognized for the second consecutive year in the Top ESG Enterprises Vietnam Green ranking in 2026. The company is acknowledged for achievements in Environmental, Social, and Governance standards. The recognition reflects Vietjet's sustainable development strategy and affirms its management capabilities.",
+        "summary_vn": "Vietjet được vinh danh lần thứ hai liên tiếp trong bảng xếp hạng Doanh nghiệp ESG Việt Nam Xanh năm 2026. Công ty được công nhận về những thành tựu trong các tiêu chuẩn Môi trường, Xã hội và Quản trị doanh nghiệp. Danh hiệu ghi nhận chiến lược phát triển bền vững của Vietjet và khẳng định năng lực quản trị của công ty.",
+        "pubDate": "Sun, 28 Jun 26 07:22:00 +0700",
+        "sentiment": 0.7,
+        "importance": 3
       }
     ],
-    "payments": [
+    "consumers": [
       {
-        "title": "Nam A Bank hợp tác cùng ADB thúc đẩy tài trợ thương mại",
-        "url": "https://cafef.vn/nam-a-bank-hop-tac-cung-adb-thuc-day-tai-tro-thuong-mai-188260626142818481.chn",
+        "title": "Có nên để toàn bộ tiền trong sổ tiết kiệm?",
+        "url": "https://cafef.vn/cac-ngan-hang-trung-uong-tiep-tuc-tang-manh-du-tru-vang-188260628221702438.chn",
         "source": "CafeF",
-        "summary_en": "On June 25, Nam A Bank signed an Issuing Bank Agreement (IBA) with the Asian Development Bank (ADB). The event marks Nam A Bank's membership in the Trade and Supply Chain Finance Program (TSCFP). This is an important milestone in enhancing trade finance capabilities and expanding operations to international markets.",
-        "summary_vn": "Ngày 25/6, Nam A Bank ký kết Thỏa thuận Ngân hàng phát hành (IBA) với Ngân hàng Phát triển Châu Á (ADB). Sự kiện đánh dấu Nam A Bank trở thành thành viên Chương trình Bảo lãnh Tài trợ Thương mại (TSCFP). Đây là cột mốc quan trọng trong việc nâng cao năng lực tài trợ thương mại và mở rộng quy mô hoạt động ra thị trường quốc tế.",
-        "pubDate": "Fri, 26 Jun 26 15:30:00 +0700",
-        "sentiment": 0.6,
+        "summary_en": "The article discusses whether depositing all savings into a bank savings account is the optimal choice for managing large sums of money. It presents alternative investment options and considerations for financial planning. The piece addresses common savings practices and suggests evaluating different strategies for capital allocation.",
+        "summary_vn": "Bài viết thảo luận về việc gửi toàn bộ tiền tiết kiệm vào sổ tiết kiệm ngân hàng có phải là lựa chọn tối ưu hay không. Nó trình bày các lựa chọn đầu tư thay thế và các cân nhân tố trong quy hoạch tài chính. Bài viết đề cập đến các thực tiễn tiết kiệm phổ biến và gợi ý đánh giá các chiến lược khác nhau để phân bổ vốn.",
+        "pubDate": "Sun, 28 Jun 26 22:16:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Loạt iPhone giảm giá mạnh; máy lọc nước giá hơn 100 triệu đồng",
+        "url": "https://vietnamnet.vn/loat-iphone-giam-gia-manh-may-loc-nuoc-gia-hon-100-trieu-dong-2530205.html",
+        "source": "VietnamNet",
+        "summary_en": "iPhone 13 and iPhone 14 models are experiencing significant price reductions across Apple's authorized retail partners in Vietnam. iPhone 13 128GB is currently priced around 11.99 million VND, while iPhone 14 128GB ranges from 13.99 to 14.59 million VND depending on retailer and color variant. These represent record low prices since the products' launch, substantially lower than original recommended retail prices of 24.99 to 25.99 million VND.",
+        "summary_vn": "iPhone 13 và iPhone 14 đang được giảm giá mạnh tại các hệ thống bán lẻ ủy quyền của Apple ở Việt Nam. iPhone 13 128GB hiện có giá khoảng 11,99 triệu đồng, trong khi iPhone 14 128GB dao động từ 13,99 đến 14,59 triệu đồng tùy theo hệ thống và màu sắc. Những mức giá này là thấp nhất kể từ khi sản phẩm ra mắt, thấp hơn đáng kể so với giá niêm yết ban đầu là 24,99 đến 25,99 triệu đồng.",
+        "pubDate": "Sun, 28 Jun 2026 09:41:35 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      }
+    ],
+    "logistics": [
+      {
+        "title": "&#039;Cửa ng&otilde; bầu trời&#039; định h&igrave;nh trục tăng trưởng Nam Trung bộ",
+        "url": "https://thanhnien.vn/cua-ngo-bau-troi-dinh-hinh-truc-tang-truong-nam-trung-bo-18526061816042077.htm",
+        "source": "ThanhNien",
+        "summary_en": "The construction of the second runway at Phu Cat Airport in Gia Lai province is being carried out at an accelerated pace. The project is expected to create a new growth driver for the local region. Phu Cat Airport plays an important role in the economic development of the South-Central area.",
+        "summary_vn": "Dự án xây dựng đường cất hạ cánh số 2 tại Cảng hàng không Phù Cát ở Gia Lai đang được thực hiện với tiến độ khẩn trương. Công trình này được kỳ vọng sẽ tạo ra một động lực tăng trưởng mới cho địa phương. Sân bay Phù Cát đóng vai trò quan trọng trong quá trình phát triển kinh tế của khu vực Nam Trung bộ.",
+        "pubDate": "Sun, 28 Jun 26 07:44:00 +0700",
+        "sentiment": 0.5,
         "importance": 3
+      },
+      {
+        "title": "Những &#039;mạch m&aacute;u&#039; li&ecirc;n v&ugrave;ng, sức bật mới của Đ&agrave; Nẵng",
+        "url": "https://thanhnien.vn/nhung-mach-mau-lien-vung-suc-bat-moi-cua-da-nang-185260618164852252.htm",
+        "source": "ThanhNien",
+        "summary_en": "Da Nang is developing a new infrastructure system comprising road, port, aviation, and high-speed rail projects to enhance regional competitiveness. These interconnected infrastructure projects aim to position Da Nang as a logistics, services, and technology hub for Southeast Asia. The initiative represents a strategic response to intensifying regional competition among Vietnamese cities.",
+        "summary_vn": "Đà Nẵng đang phát triển một hệ thống hạ tầng mới bao gồm các dự án về đường bộ, cảng biển, hàng không và đường sắt tốc độ cao. Các dự án hạ tầng kết nối này nhằm định vị Đà Nẵng thành trung tâm logistics, dịch vụ và công nghệ của Đông Nam Á. Sáng kiến này đại diện cho một chiến lược ứng phó trước cuộc cạnh tranh ngày càng gay gắt giữa các thành phố Việt Nam.",
+        "pubDate": "Sun, 28 Jun 26 07:45:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
+      {
+        "title": "Lãnh đạo ACV nói về kịch bản chuyển đổi khai thác từ Tân Sơn Nhất sang Long Thành",
+        "url": "https://tuoitre.vn/lanh-dao-acv-noi-ve-kich-ban-chuyen-doi-khai-thac-tu-tan-son-nhat-sang-long-thanh-100260628095823607.htm",
+        "source": "TuoiTre",
+        "summary_en": "ACV leadership reported that the Long Thanh International Airport project has achieved approximately 67.069 trillion dong out of 86.348 trillion dong in total contract value, representing 77.6% completion as of mid-2024. The company's acting General Director Nguyen Duc Hung presented these figures at a state-level conference on June 27. Commercial operations are targeted for December following resolution of outstanding challenges.",
+        "summary_vn": "Lãnh đạo ACV báo cáo dự án Cảng hàng không quốc tế Long Thành đã hoàn thành khoảng 67.069 tỉ đồng trên tổng giá trị hợp đồng 86.348 tỉ đồng, tương đương 77,6% tiến độ thực hiện. Ông Nguyễn Đức Hùng, quyền Tổng giám đốc ACV, đã trình bày những con số này tại hội nghị cấp nhà nước ngày 27-6. Cam kết khai thác thương mại vào tháng 12 sau khi tháo gỡ các khó khăn.",
+        "pubDate": "6/28/2026 10:22:00 AM",
+        "sentiment": 0.2,
+        "importance": 4
+      },
+      {
+        "title": "TP.HCM sắp c&oacute; th&ecirc;m m&ocirc; h&igrave;nh xe đạp điện c&ocirc;ng cộng chưa từng c&oacute; tại Việt Nam",
+        "url": "https://thanhnien.vn/tphcm-sap-co-them-mo-hinh-xe-dap-dien-cong-cong-chua-tung-co-tai-viet-nam-185260628132424802.htm",
+        "source": "ThanhNien",
+        "summary_en": "Ho Chi Minh City's Department of Construction has approved a public electric bike service initiative proposed by the HCMC C4IR (4th Industrial Revolution Center) to connect first-mile and last-mile transportation gaps. The service is designed to provide short, flexible, and environmentally friendly mobility options linking residential areas, schools, workplaces, and commercial zones to major public transportation hubs such as metro, buses, and water transit. The project aligns with the city's broader transportation planning objectives.",
+        "summary_vn": "Sở Xây dựng TP.HCM đã thống nhất triển khai dịch vụ xe đạp điện công cộng do HCMC C4IR đề xuất nhằm kết nối chặng đầu và chặng cuối cho người dân. Dịch vụ này cung cấp phương thức di chuyển ngắn, linh hoạt và thân thiện môi trường, kết nối các khu dân cư, trường học, khu làm việc và khu thương mại đến các đầu mối vận tải công cộng như metro, xe buýt và bến thủy. Dự án này phù hợp với các mục tiêu quy hoạch giao thông của thành phố.",
+        "pubDate": "Sun, 28 Jun 26 13:34:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Ph&acirc;n b&oacute;n C&agrave; Mau vượt xa kế hoạch kinh doanh 6 th&aacute;ng",
+        "url": "https://thanhnien.vn/phan-bon-ca-mau-vuot-xa-ke-hoach-kinh-doanh-6-thang-18526062811161511.htm",
+        "source": "ThanhNien",
+        "summary_en": "Phan Bon Ca Mau (PVCFC) held a mid-year business review conference for the first six months of 2026, attended by company leadership, distributors across Vietnam and Cambodia, and strategic partners. The conference marked the first full-system meeting under newly appointed General Director Nguyen Thanh Tung, who took office in April 2026. The company reported achieving results that exceeded its business plan for the six-month period.",
+        "summary_vn": "Tổng công ty Phân bón Dầu khí Cà Mau (PVCFC) tổ chức hội nghị sơ kết kinh doanh 6 tháng đầu năm 2026 với sự tham dự của Ban lãnh đạo, các nhà phân phối trên toàn quốc và Campuchia, cùng các đối tác chiến lược. Đây là hội nghị toàn hệ thống đầu tiên dưới sự điều hành của Tổng giám đốc mới Nguyễn Thanh Tùng, người được bổ nhiệm vào tháng 4.2026. Công ty ghi nhận kết quả vượt xa so với kế hoạch kinh doanh đề ra cho 6 tháng đầu năm.",
+        "pubDate": "Sun, 28 Jun 26 11:24:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
+      {
+        "title": "Hacom Ocean City 01 đẩy nhanh tiến độ x&acirc;y nh&agrave; ở x&atilde; hội ven biển B&igrave;nh Sơn",
+        "url": "https://thanhnien.vn/hacom-ocean-city-01-day-nhanh-tien-do-xay-nha-o-xa-hoi-ven-bien-binh-son-185260627151306274.htm",
+        "source": "ThanhNien",
+        "summary_en": "The Hacom Ocean City 01 social housing project in Binh Son has made progress on multiple construction phases. Tower B1 has completed beam and third-floor structural work, towers A1 and A2 have completed foundations, and tower B2 has finished foundation work and moved to the next construction phase. Tower A3 is currently undergoing ground preparation and reinforcement work, and the developer is accepting applications for social housing purchases according to regulations.",
+        "summary_vn": "Dự án nhà ở xã hội Hacom Ocean City 01 tại Bình Sơn đã đạt tiến độ trên nhiều hạng mục xây dựng. Tòa B1 hoàn thành kết cấu dầm và công tác tầng 3, các tòa A1 và A2 hoàn thành phần móng, tòa B2 hoàn tất móng và chuyển sang giai đoạn tiếp theo. Khu A3 đang thực hiện san lấp và gia cố nền để chuẩn bị xây dựng, và chủ đầu tư đang tiếp nhận hồ sơ đăng ký mua nhà ở xã hội.",
+        "pubDate": "Sun, 28 Jun 26 11:29:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Bất động sản chu kỳ mới: Người mua chuộng giá trị thực",
+        "url": "https://vietnamnet.vn/bat-dong-san-chu-ky-moi-nguoi-mua-chuong-gia-tri-thuc-2530046.html",
+        "source": "VietnamNet",
+        "summary_en": "Vietnam's real estate market is entering a new cycle after more than two years of strong consolidation, with positive signals emerging. From the end of 2025 to the present, capital inflows have begun returning to products with genuine value, clear legal status, and sustainable value appreciation potential. Buyer behavior is shifting noticeably, with price no longer being the primary concern as market recovery continues.",
+        "summary_vn": "Sau hơn hai năm thanh lọc mạnh mẽ, thị trường bất động sản Việt Nam đang bước vào một giai đoạn mới với nhiều tín hiệu tích cực. Từ cuối năm 2025 đến nay, dòng tiền đã bắt đầu quay trở lại những sản phẩm sở hữu giá trị thực, pháp lý rõ ràng và khả năng gia tăng giá trị bền vững. Hành vi người mua nhà đang thay đổi rõ rệt, với giá bán không còn là yếu tố được quan tâm nhiều nhất.",
+        "pubDate": "Sun, 28 Jun 2026 08:00:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
       }
     ]
   }

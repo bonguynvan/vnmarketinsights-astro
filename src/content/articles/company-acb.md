@@ -1,8 +1,8 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-06-27"
-lastUpdated: "2026-06-27"
+publishedDate: "2026-06-29"
+lastUpdated: "2026-06-29"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **ACB** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; USD h&ocirc;m nay 28.6.2026: Tăng suốt tuần trong khi yen Nhật lao dốc**  
+
+USD strengthened over the week ending June 28, 2026, with Vietcombank quoting transfer purchases at 26,114 VND/USD and sales at 26,454 VND/USD, up 14 VND from the previous week. ACB bank recorded mixed movements: down 20 VND on purchase transfers to 26,110 VND/USD but up 14 VND on sales to 26,454 VND/USD. Conversely, other major currencies including the euro weakened during the same period, with euro declining 210 VND at Vietcombank.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2862026-tang-suot-tuan-trong-khi-yen-nhat-lao-doc-18526062721314551.htm)
 
 **Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...**  
 

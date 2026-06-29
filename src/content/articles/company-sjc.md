@@ -1,17 +1,29 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-06-27"
-lastUpdated: "2026-06-27"
+publishedDate: "2026-06-29"
+lastUpdated: "2026-06-29"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng SJC, vàng nhẫn ngày 28/6**  
+
+Vietnamese domestic gold prices remained unchanged on June 28, 2026, as the market entered a holiday period. SJC gold bar prices and gold ring prices were quoted but experienced significant volatility during the preceding week. Global gold prices broke through the $4,000 per ounce threshold during this period.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-28-6-188260628081046492.chn)
+
+**Gi&aacute; v&agrave;ng h&ocirc;m nay 28.6.2026: Người mua li&ecirc;n tục thua lỗ**  
+
+Gold prices at SJC increased by 1.3 million dong per tael on the morning of June 28, 2026, with buy-in prices at 145.5 million dong and sell prices at 148.5 million dong. Despite the price increase, buyers continue to incur losses due to the 3 million dong bid-ask spread, with losses of 1.7 million dong per tael compared to one week prior. Compared to early June when sell prices reached 159 million dong, gold buyers face cumulative losses of 13.5 million dong per tael.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-vang-hom-nay-2862026-nguoi-mua-lien-tuc-thua-lo-18526062720575088.htm)
 
 **Lý do tiếp tục hoãn xét xử phúc thẩm cựu Tổng giám đốc SJC**  
 
@@ -75,10 +87,10 @@ Domestic gold prices fell further by approximately 600,000 VND per tael on the a
 
 ## Related coverage
 
-- [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
+- [Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ](https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn trơn ngày 23/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-23-6-188260623075116912.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
 
 ---
 
