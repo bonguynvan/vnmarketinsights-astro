@@ -79,6 +79,32 @@ Currently labeled as **illustrative demo data**. To make it real:
 
 ---
 
+## 5. Telegram news channel (public) — build when ready
+
+Push the news digest from the pipeline to a **public Telegram channel** (you
+receive it + it's a distribution/backlink channel). Plumbing is half-built:
+`pipeline/vnnews/notify.py` already finds the latest brief and has a weekly guard.
+
+What you do first:
+- [ ] Decide cadence — **daily headlines** (more engaging for a public channel) vs
+      **weekly brief** (low noise). _Leaning: daily for a public channel._
+- [ ] Create the public channel; add your bot as an **admin** (so it can post).
+- [ ] Grab the bot token and the channel id (`@channelusername`, or the numeric
+      `-100…` id).
+- [ ] Add GitHub Actions secrets: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL`.
+
+Then ask me to build it — I'll add a best-effort Telegram push to `notify.py`
+(env-gated, per-period guard, headlines + link back to the site), wired into the
+existing news-pipeline cron. No-op until the secrets are set.
+
+## 6. X (Twitter) — profile done; auto-posting optional (later)
+
+- [x] Profile linked in the site's Organization schema (`sameAs` →
+      https://x.com/vnmarketinsight). _(done)_
+- [ ] _(optional)_ Auto-post new briefs/insights to X. X API v2 free tier is
+      ~500 writes/month (write-only) — enough for daily. More setup (OAuth +
+      poster module); lower ROI than Telegram. Ask me when you want it.
+
 ## Quick env reference
 
 | Env var | Where | Enables |
@@ -89,6 +115,8 @@ Currently labeled as **illustrative demo data**. To make it real:
 | `ANTHROPIC_API_KEY` | Coolify (service) | Daily AI trend synthesis |
 | `YOUTUBE_API_KEY` | Coolify (service) | YouTube trending collector |
 | `RUN_TOKEN` | Coolify (service) | Protect `POST /api/run-now` |
+| `TELEGRAM_BOT_TOKEN` | GitHub Actions (pipeline) | Telegram digest push _(when built)_ |
+| `TELEGRAM_CHANNEL` | GitHub Actions (pipeline) | Target channel for the push |
 
 All are documented in the respective `.env.example` files (site root and the
 `vn-trend-service` repo). Nothing here is committed — keys live in the host envs only.
