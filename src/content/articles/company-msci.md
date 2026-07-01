@@ -1,8 +1,8 @@
 ---
 title: "MSCI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSCI, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ An expert discusses three industry groups expected to attract capital inflows du
 
 - [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
 - [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
+- [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
 - [Góc nhìn chuyên gia: Chứng khoán đối diện "cơn gió ngược", tập trung đi tìm những nhóm ngành tăng trưởng lợi nhuận 2 chữ số trong quý 2](https://cafef.vn/goc-nhin-chuyen-gia-chung-khoan-doi-dien-con-gio-nguoc-tap-trung-di-tim-nhung-nhom-nganh-tang-truong-loi-nhuan-2-chu-so-trong-quy-2-188260621114824756.chn) — CafeF
-- ['Chìa khóa' giúp Việt Nam mở 'cánh cửa' tăng trưởng hai con số](https://cafef.vn/chia-khoa-giup-viet-nam-mo-canh-cua-tang-truong-hai-con-so-188260623095330913.chn) — CafeF
 
 ---
 

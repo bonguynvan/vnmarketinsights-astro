@@ -1,8 +1,8 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -65,8 +65,8 @@ Techcombank OneU is promoting its credit card with a World Cup 2026 campaign tha
 
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
 - [KienlongBank chốt ngày chia cổ tức 29,5%](https://cafef.vn/kienlongbank-chot-ngay-chia-co-tuc-295-188260621221215517.chn) — CafeF
-- [ĐHĐCĐ PVcomBank: Tăng tốc chuyển đổi, kiến tạo giá trị bền vững](https://cafef.vn/dhdcd-pvcombank-tang-toc-chuyen-doi-kien-tao-gia-tri-ben-vung-188260627134841216.chn) — CafeF
 
 ---
 

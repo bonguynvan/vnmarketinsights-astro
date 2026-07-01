@@ -1,17 +1,29 @@
 ---
 title: "Sacombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sacombank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # Sacombank
 
-Recent Vietnam market news mentioning **Sacombank** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sacombank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates on June 30 shows the interest rate landscape remaining stable, with most banks quoting rates between 6.8-6.9% per annum for 12-month terms. The report covers major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This reflects continued consistency in the banking sector's deposit rate positioning.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
+
+**Sacombank phát hành 20.000 tỷ đồng trái phiếu chuẩn bị cho giai đoạn tăng trưởng tiếp theo**  
+
+Sacombank approved the issuance of 20 trillion Vietnamese dong in bonds, marking its second issuance following a previous 20 trillion dong bond approval in mid-June 2026. The bond issuance aims to strengthen tier 2 capital, reinforce capital adequacy ratios as mandated by the State Bank, and support expansion.
+
+- Source: [CafeF](https://cafef.vn/sacombank-phat-hanh-20000-ty-dong-trai-phieu-chuan-bi-cho-giai-doan-tang-truong-tiep-theo-18826063017544036.chn)
 
 **Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -72,18 +84,6 @@ A survey of online deposit rates on June 23 shows that multiple banks maintained
 On 22 June, a survey of online deposit interest rates showed the market continuing to segment into distinct groups, with some banks quoting rates of 7% per annum or higher while state-owned banks maintained a stable level at 6.8% per annum. The rate disparity reflects differentiated pricing strategies across banking institutions. Multiple major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank were surveyed for this market monitoring.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
-
-**Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng**  
-
-Multiple banks are preparing to distribute dividends and issue bonus shares to shareholders. Some banks have already set implementation schedules, while others are completing necessary procedures to increase charter capital in the coming period. This reflects ongoing capital management and shareholder return activities across the banking sector.
-
-- Source: [CafeF](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn)
-
-**Sacombank muốn huy động lượng tiền lớn từ trái phiếu**  
-
-Sacombank approved a plan to issue a maximum of 20,000 billion Vietnamese dong in bonds during 2026. The bank is seeking to raise a substantial amount of capital through private bond offerings. This decision was made by the bank's board as part of its 2026 financing strategy.
-
-- Source: [CafeF](https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn)
 
 ## Related coverage
 

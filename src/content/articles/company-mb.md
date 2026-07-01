@@ -1,8 +1,8 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -87,10 +87,10 @@ Vietnamese banks are adjusting savings interest rates in conflicting directions,
 
 ## Related coverage
 
+- [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
 - [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

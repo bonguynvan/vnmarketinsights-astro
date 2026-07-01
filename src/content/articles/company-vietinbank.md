@@ -1,17 +1,23 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates on June 30 shows the interest rate landscape remaining stable, with most banks quoting rates between 6.8-6.9% per annum for 12-month terms. The report covers major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This reflects continued consistency in the banking sector's deposit rate positioning.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
 
 **Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ Gold prices for SJC bullion bars and gold rings have declined by over 15 million
 A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
-
-**VietinBank tăng cường kết nối cộng đồng kinh doanh số tại TikTok Agency Partner Vietnam Summit 2026**  
-
-VietinBank is strengthening connections with the digital business community at the TikTok Agency Partner Vietnam Summit 2026. The growth of e-commerce and online sales platforms is creating new growth opportunities for businesses, traders, and sellers in Vietnam. Financial institutions are increasingly called upon to develop financial solutions tailored to the needs of the digital economy.
-
-- Source: [CafeF](https://cafef.vn/vietinbank-tang-cuong-ket-noi-cong-dong-kinh-doanh-so-tai-tiktok-agency-partner-vietnam-summit-2026-188260624185447919.chn)
 
 ## Related coverage
 

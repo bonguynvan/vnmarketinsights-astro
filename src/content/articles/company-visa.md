@@ -1,8 +1,8 @@
 ---
 title: "Visa — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Visa, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -46,9 +46,9 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 ## Related coverage
 
 - [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
+- [SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 - [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
-- [Săn sale mùa hè, đón ưu đãi hấp dẫn cùng Napas](https://tuoitre.vn/san-sale-mua-he-don-uu-dai-hap-dan-cung-napas-100260621095349096.htm) — TuoiTre
 
 ---
 

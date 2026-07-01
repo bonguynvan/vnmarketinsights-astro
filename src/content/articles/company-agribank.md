@@ -1,17 +1,23 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates on June 30 shows the interest rate landscape remaining stable, with most banks quoting rates between 6.8-6.9% per annum for 12-month terms. The report covers major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This reflects continued consistency in the banking sector's deposit rate positioning.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
 
 **Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ A survey of online deposit rates on June 23 shows that multiple banks maintained
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
 
-**EVN phát cảnh báo khẩn, người dân cả nước cần đặc biệt cẩn thận để tránh mất trắng tiền trong tài khoản**  
-
-EVN issued an urgent national warning about a new fraud scheme targeting consumers. The alert advises people nationwide to be cautious to avoid losing money from their bank accounts. Additional warnings mentioned potential closure of accounts at banks including Agribank, MB, Vietcombank, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/evn-phat-canh-bao-khan-nguoi-dan-ca-nuoc-can-dac-biet-can-than-de-tranh-mat-trang-tien-trong-tai-khoan-188260623161609226.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
 - [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "MB Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB Bank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # MB Bank
 
-Recent Vietnam market news mentioning **MB Bank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB Bank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates on June 30 shows the interest rate landscape remaining stable, with most banks quoting rates between 6.8-6.9% per annum for 12-month terms. The report covers major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This reflects continued consistency in the banking sector's deposit rate positioning.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
 
 **Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 

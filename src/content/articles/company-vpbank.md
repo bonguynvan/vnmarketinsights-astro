@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VPBank ký kết khoản vay hợp vốn liên kết bền vững đầu tiên trị giá 1,44 tỷ USD**  
+
+VPBank and 15 international financial institutions signed a sustainability-linked loan (SLL) facility valued at USD 1.44 billion. The banks served as Mandated Lead Arrangers, Underwriters and Bookrunners (MLAUBs) for the transaction. The signing ceremony took place on 30 June 2026 at VPBank's headquarters in Hanoi.
+
+- Source: [CafeF](https://cafef.vn/vpbank-ky-ket-khoan-vay-hop-von-lien-ket-ben-vung-dau-tien-tri-gia-144-ty-usd-188260630191900985.chn)
 
 **Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm**  
 
@@ -69,10 +75,10 @@ LPBank is described as a private bank with Vietnam's largest transaction network
 
 ## Related coverage
 
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 
 ---
 

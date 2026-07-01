@@ -1,8 +1,8 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---

@@ -1,8 +1,8 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -54,7 +54,7 @@ Gold prices in Vietnam fell sharply on the morning of June 19, with bar gold dec
 - [Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn ngày 26/6 tăng trở lại, trong khi giá vàng thế giới "thủng mốc" 4.000 USD/ounce](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-26-6-18826062608020283.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều 30/6 đồng loạt tăng so với mức thấp buổi sáng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-30-6-dong-loat-giam-toi-2-trieu-dong-luong-188260630075319258.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ VIB launched VIB Up, a tiered financial solution package allowing customers to u
 ## Related coverage
 
 - [TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn) — CafeF
+- [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 
 ---
 

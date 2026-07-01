@@ -1,17 +1,23 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhận trợ lực từ Thông tư 25/2026/TT-NHNN, cổ phiếu ngân hàng hồi phục bất chấp đà giảm của VN-Index**  
+
+Banking sector stocks recovered despite downward pressure on the VN-Index, supported by Circular 25/2026/TT-NHNN. Large capital flows moved into banking stocks during trading on June 29. Profit-taking pressure on large-cap Vingroup stocks (VIC and VHM) drove the VN-Index lower at market open.
+
+- Source: [CafeF](https://cafef.vn/nhan-tro-luc-tu-thong-tu-25-2026-tt-nhnn-co-phieu-ngan-hang-hoi-phuc-bat-chap-da-giam-cua-vn-index-188260630065154867.chn)
 
 **"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
 

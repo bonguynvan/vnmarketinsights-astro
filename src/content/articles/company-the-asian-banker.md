@@ -1,8 +1,8 @@
 ---
 title: "The Asian Banker — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning The Asian Banker, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -46,9 +46,9 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 ## Related coverage
 
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [VietABank lập “cú đúp” giải thưởng: Khi đổi mới sáng tạo song hành cùng phát triển bền vững](https://cafef.vn/vietabank-lap-cu-dup-giai-thuong-khi-doi-moi-sang-tao-song-hanh-cung-phat-trien-ben-vung-188260630113952535.chn) — CafeF
 - [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
 

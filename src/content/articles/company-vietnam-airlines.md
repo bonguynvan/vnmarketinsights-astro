@@ -1,8 +1,8 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-06-29"
-lastUpdated: "2026-06-29"
+publishedDate: "2026-07-01"
+lastUpdated: "2026-07-01"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 
 - [ACV đang kiểm soát chặt tiến độ dự án sân bay Long Thành](https://cafef.vn/acv-dang-kiem-soat-chat-tien-do-du-an-san-bay-long-thanh-188260621100038428.chn) — CafeF
 - [ĐHĐCĐ PVcomBank: Tăng tốc chuyển đổi, kiến tạo giá trị bền vững](https://cafef.vn/dhdcd-pvcombank-tang-toc-chuyen-doi-kien-tao-gia-tri-ben-vung-188260627134841216.chn) — CafeF
+- [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
 - [Tiến độ sân bay Long Thành hiện nay ra sao?](https://cafef.vn/tien-do-san-bay-long-thanh-hien-nay-ra-sao-188260622140324676.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 
