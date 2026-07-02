@@ -1,8 +1,8 @@
 ---
 title: "MB Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB Bank, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---

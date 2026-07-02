@@ -1,17 +1,29 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
+
+On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
+
+- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
+
+**Ngân hàng rao bán khoản nợ kèm hàng chục ô tô và biệt thự cao cấp ven biển**  
+
+A bank is auctioning debt and collateral assets including luxury coastal villas and dozens of vehicles. The first debt relates to Thành Công Metal & Materials Supply Company at Agribank's Tây Hồ branch, valued at over 150.2 billion VND as of February 28, 2025. Collateral includes a 786m² beachfront villa and resort land in Da Nang, plus 31 vehicles branded Hyundai and Daewoo.
+
+- Source: [VietnamNet](https://vietnamnet.vn/ngan-hang-rao-ban-khoan-no-kem-hang-chuc-o-to-va-biet-thu-cao-cap-ven-bien-2531013.html)
 
 **Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -73,24 +85,12 @@ Gold prices for SJC bullion bars and gold rings have declined by over 15 million
 
 - Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
 
-**Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
-
-**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
-- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
-- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
+- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
+
+On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
+
+- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
 
 **Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ A survey of online deposit interest rates on June 24 shows Saigonbank leading th
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
 
-**Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit rates on June 23 shows that multiple banks maintained a rate of 4.75% per annum for a 3-month term. The report follows discussions about the Federal Reserve's stricter stance and the State Bank of Vietnam's priority on exchange rate stability. Daily bank interest rate surveys are being conducted across major Vietnamese banks including MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
+- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
 - [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
-- [6 ngân hàng giảm lãi suất cho vay trong tháng 5](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html) — VietnamNet
 
 ---
 

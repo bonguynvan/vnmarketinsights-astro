@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 27/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 27 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -13,7 +13,7 @@ readingTime: 16
 
 # Tổng quan tin tức thị trường tuần này
 
-Tuần này, thị trường Việt Nam ghi nhận nhiều diễn biến chính sách quan trọng, bao gồm nâng tỷ lệ cho vay trung, dài hạn từ 30% lên 40% và phát hành riêng lẻ 1 tỷ cổ phiếu của Ngân hàng Quốc Dân (NCB), đồng thời Chính phủ đặt mục tiêu tăng trưởng GDP 10% cho năm 2026. Đáng chú ý, từ ngày 1/7 sắp tới, Luật Thuế thu nhập cá nhân 2025 chính thức có hiệu lực với các quy định mới về miễn thuế tiền lương làm đêm và làm thêm giờ, cũng như thị trường carbon Việt Nam đã chính thức hoạt động kể từ ngày 29/6. Bên cạnh đó, lĩnh vực thanh toán quốc tế cũng ghi nhận bước tiến mới khi Visa ra mắt nền tảng thanh toán thương mại toàn cầu cùng các ngân hàng Việt Nam.
+Ngân hàng Nhà nước Việt Nam triển khai một loạt điều chỉnh chính sách quan trọng từ ngày 1/7/2026, bao gồm nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung và dài hạn từ 30% lên 40%, cùng với ban hành Thông tư 25/2026 về quản lý an toàn thanh khoản ngân hàng. Đồng thời, Nhà nước triển khai các biện pháp mở rộng tín dụng chiến lược với cấp phép đặc biệt cho 18 dự án ưu tiên và chuẩn bị bơm khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Ngoài lĩnh vực tài chính, các chính sách về lương, bảo hiểm y tế, và luật thuế thu nhập cá nhân cũng có hiệu lực trong thời kỳ này, trong khi thành phố Hồ Chí Minh khởi động 8 dự án xây dựng trọng điểm với tổng mức đầu tư khoảng 253.000 tỷ đồng.
 
 ## Thanh toán
 
@@ -50,6 +50,47 @@ Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng t
 - Số liệu chính: Short-term to medium/long-term lending ratio increase: 30% to 40%; Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn)
 
+**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
+
+Ngày 22/6/2026, Ngân hàng Nhà nước Việt Nam chính thức ban hành Thông tư 25/2026/TT-NHNN, có hiệu lực từ ngày 1/7/2026. Đây là một trong những điều chỉnh chính sách đáng chú ý nhất trong lĩnh vực quản lý an toàn thanh khoản ngân hàng kể từ năm 2019, theo đánh giá của nhóm phân tích MASVN. Nhiều cổ phiếu được hưởng lợi từ quy định mới này.
+
+- Số liệu chính: Circular issuance date: 22/6/2026; Circular effective date: 1/7/2026; Circular number: 25/2026/TT-NHNN
+- Nguồn: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
+
+**Ngăn tài khoản "rác" thành mắt xích của tội phạm mạng**  
+
+Bài viết thảo luận về cách các tài khoản ngân hàng "rác" đang bị khai thác như công cụ cho tội phạm mạng, với những cá nhân bán hoặc cho thuê tài khoản với số tiền nhỏ mà không biết rằng họ đang tạo điều kiện cho gian lận, rửa tiền và tội phạm công nghệ cao. Khi thanh toán không dùng tiền mặt phát triển nhanh chóng, việc loại bỏ các tài khoản "rác" trở thành vấn đề cấp bách để bảo vệ người tiêu dùng và thiết yếu để duy trì niềm tin vào hệ sinh thái tài chính số. Cuộc chiến chống lại tài khoản bị lạm dụng đại diện cho một thách thức quan trọng đối với tính toàn vẹn của hệ thống tài chính.
+
+- Nguồn: [CafeF](https://cafef.vn/ngan-tai-khoan-rac-thanh-mat-xich-cua-toi-pham-mang-18826070109055152.chn)
+
+**Ép khách vay vốn mua bảo hiểm có thể bị phạt đến 500 triệu đồng**  
+
+Các ngân hàng thương mại có thể bị phạt đến 500 triệu đồng vì tạo áp lực buộc khách hàng vay vốn phải mua bảo hiểm thông qua ngân hàng để hưởng hoa hồng. Theo phản ánh của bà Nguyễn Thị Hương Giang, các ngân hàng sử dụng nhiều hình thức gián tiếp để tạo sức ép đối với khách hàng. Hành động này được cho là gây ảnh hưởng đến quyền lợi của khách hàng và môi trường cạnh tranh lành mạnh trên thị trường tài chính, bảo hiểm.
+
+- Số liệu chính: Maximum penalty: 500 million Vietnamese dong
+- Nguồn: [CafeF](https://cafef.vn/ep-khach-vay-von-mua-bao-hiem-co-the-bi-phat-den-500-trieu-dong-188260701155119014.chn)
+
+**Tăng lương từ hôm nay**  
+
+Từ ngày 1/7/2026, nhiều chính sách tiền lương mới có hiệu lực tại Việt Nam. Lương cơ sở tăng lên 2,53 triệu đồng/tháng, lương hưu và trợ cấp BHXH tăng 8%, đồng thời phụ cấp ưu đãi theo nghề cho giáo viên được nâng cao đáng kể. Ngoài ra, các quy định về thuế thu nhập cá nhân cũng được điều chỉnh từ ngày này.
+
+- Số liệu chính: Minimum base salary: 2.53 million VND VND/month; Increase in pensions and social insurance allowances: 8% percent
+- Nguồn: [CafeF](https://cafef.vn/tang-luong-tu-hom-nay-188260701054243569.chn)
+
+**Tất cả người dân có bảo hiểm y tế trên cả nước sẽ được hưởng quyền lợi chưa từng có sau 1 ngày nữa**  
+
+Từ ngày 1/7/2026, những người tham gia bảo hiểm y tế tại Việt Nam sẽ được hưởng các quyền lợi mới. Người dân có thể tự đi khám, chữa bệnh ngoại trú tại các cơ sở y tế cấp cơ bản và chuyên sâu, với quỹ BHYT thanh toán 50% chi phí cho các bệnh chưa được thanh toán trước đây. Đây là một thay đổi quan trọng trong cấu trúc quyền lợi bảo hiểm y tế của Việt Nam.
+
+- Số liệu chính: Effective date: 1/7/2026 date; Insurance fund coverage for previously uncovered diseases: 50% percent
+- Nguồn: [CafeF](https://cafef.vn/tat-ca-nguoi-dan-co-bao-hiem-y-te-tren-ca-nuoc-se-duoc-huong-quyen-loi-chua-tung-co-sau-1-ngay-nua-188260630080123075.chn)
+
+**EU áp phí 3 euro với hàng online giá rẻ, giáng đòn mạnh vào Shein, Temu và AliExpress**  
+
+Liên minh châu Âu bắt đầu áp dụng mức phí 3 euro đối với hàng hóa thương mại điện tử giá thấp nhập khẩu từ Trung Quốc, trước đây được miễn thuế. Phí được tính theo từng mã phân loại hải quan trong một lô hàng, ví dụ một kiện ba loại sản phẩm khác nhau chịu 9 euro trong khi một kiện cùng loại hàng chỉ chịu 3 euro. Biện pháp này nhắm vào các nền tảng như Shein, Temu và AliExpress.
+
+- Số liệu chính: Import fee on low-value e-commerce goods: 3 euro; Equivalent value in Vietnamese dong: 90000 đồng; Total fee for 3 different product types per shipment: 9 euro; Equivalent total fee in Vietnamese dong: 270000 đồng
+- Nguồn: [TuoiTre](https://tuoitre.vn/eu-ap-phi-3-euro-voi-hang-online-gia-re-giang-don-manh-vao-shein-temu-va-aliexpress-100260701112057151.htm)
+
 **10 khoản thu nhập chịu thuế thu nhập cá nhân từ 1/7/2026**  
 
 Luật Thuế thu nhập cá nhân số 109/2025/QH15 sẽ chính thức có hiệu lực từ ngày 1/7/2026. Luật quy định cụ thể 10 khoản thu nhập chịu thuế bao gồm: thu nhập từ kinh doanh, tiền lương, đầu tư vốn, chuyển nhượng vốn và các khoản khác. Luật này thiết lập khung pháp lý toàn diện cho việc tính thuế thu nhập cá nhân tại Việt Nam.
@@ -84,47 +125,6 @@ Khách hàng Vietcombank nhận được các tin nhắn SMS giả mạo thươn
 - Số liệu chính: Number of documented fraud schemes: approximately 30
 - Nguồn: [ThanhNien](https://thanhnien.vn/canh-giac-thu-doan-doi-diem-thuong-den-cuoc-goi-khong-noi-gi-185260628090926779.htm)
 
-**Thủ đoạn ‘qua mặt’ sinh trắc học, chiếm đoạt hơn 1.000 tài khoản ngân hàng**  
-
-Nhóm tội phạm do Nguyễn Tiến Đạt cầm đầu đã sử dụng phần mềm giả mạo dữ liệu khuôn mặt để vượt qua cơ chế xác thực sinh trắc học của các ngân hàng nhằm chiếm đoạt, mua bán và kiểm soát hơn 1.000 tài khoản ngân hàng. Ngày 26/6, Công an tỉnh Thanh Hóa khởi tố và bắt tạm giam 8 đối tượng liên quan đến hoạt động mua bán trái phép thông tin tài khoản ngân hàng và lạm dụng công nghệ cao. Vụ án kết hợp giữa gian lận tài khoản và tác động vào hệ thống sinh trắc học nhằm phục vụ mục đích tội phạm.
-
-- Số liệu chính: Số tài khoản ngân hàng bị chiếm đoạt: hơn 1.000 tài khoản; Số đối tượng bị bắt tạm giam: 8 người; Ngày khởi tố: 26/6 ngày tháng
-- Nguồn: [CafeF](https://cafef.vn/thu-doan-qua-mat-sinh-trac-hoc-chiem-doat-hon-1000-tai-khoan-ngan-hang-188260627073805735.chn)
-
-**Ngân hàng cảnh báo loại hình ảnh tuyệt đối không nên lưu trong điện thoại**  
-
-Các ngân hàng và chuyên gia bảo mật cảnh báo người dùng không nên lưu ảnh chụp giấy tờ tùy thân và thẻ ngân hàng trên điện thoại. Thói quen này rất nguy hiểm vì có thể cho phép những kẻ gian lợi dụng những bức ảnh để chiếm đoạt tài sản. Nhiều trường hợp người dùng đã bị lừa do những thao tác tưởng chừng vô hại trên di động.
-
-- Nguồn: [CafeF](https://cafef.vn/ngan-hang-canh-bao-loai-hinh-anh-tuyet-doi-khong-nen-luu-trong-dien-thoai-188260626155836049.chn)
-
-**Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng**  
-
-Ngân hàng Nhà nước đã thực hiện nhiều điều chỉnh chính sách kể từ đầu năm để hỗ trợ tăng trưởng tín dụng đồng thời duy trì sự ổn định của hệ thống tài chính. Các biện pháp này bao gồm nới lỏng tỷ lệ vốn ngắn hạn cho vay trung-dài hạn, điều chỉnh cách tính room tín dụng, và loại trừ dư nợ của 18 dự án lớn khỏi hạn mức tăng trưởng tín dụng. Các hành động của Ngân hàng Nhà nước gửi thông điệp chính sách rõ ràng: hỗ trợ tăng trưởng kinh tế mà không ảnh hưởng đến sự ổn định tài chính.
-
-- Số liệu chính: Number of major projects excluded from credit growth limits: 18
-- Nguồn: [CafeF](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn)
-
-**Cảnh báo thủ đoạn chiếm quyền tài khoản ngân hàng bằng công nghệ cao**  
-
-Công an tỉnh Thanh Hóa phát hiện và triệt phá đường dây mua bán trái phép hơn 1.000 tài khoản ngân hàng, sử dụng công nghệ cao để vượt qua xác thực sinh trắc học. Nghi phạm Nguyễn Tiến Đạt (sinh năm 2004) được bắt giữ liên quan đến chuyên án đặc biệt về 1.000 tài khoản ngân hàng. Công an đã đưa ra cảnh báo khẩn về các thủ đoạn chiếm quyền tài khoản ngân hàng sử dụng công nghệ cao.
-
-- Số liệu chính: Số tài khoản ngân hàng mua bán trái phép: hơn 1.000 tài khoản
-- Nguồn: [CafeF](https://cafef.vn/canh-bao-thu-doan-chiem-quyen-tai-khoan-ngan-hang-bang-cong-nghe-cao-188260626141539164.chn)
-
-**Một ông lớn xây dựng có chủ tịch HĐQT bị phạt 2 lần vì cùng 1 lỗi**  
-
-Ngày 23/6, Ủy ban Chứng khoán Nhà nước gửi văn bản liên quan đến CTX Holdings và Chủ tịch kiêm Tổng giám đốc Phan Minh Tuấn. Tuấn đã bị xử phạt 2 lần vì cùng một lỗi là giữ đồng thời hai chức vụ Chủ tịch và Tổng giám đốc từ năm 2017 đến nay. Trước đó ngày 8/2/2021, ông Tuấn đã bị xử phạt vì cùng lỗi giữ hai chức vụ này.
-
-- Số liệu chính: Năm bắt đầu giữ hai chức vụ: 2017; Ngày xử phạt lần đầu: 8/2/2021; Ngày công bố của UBCKNN: 23/6
-- Nguồn: [VietnamNet](https://vietnamnet.vn/mot-doanh-nghiep-gay-chu-y-vi-chu-tich-bi-phat-hai-lan-voi-cung-1-loi-2529506.html)
-
-**Tin vui: Từ hôm nay, Việt Nam có thể làm ngay một việc trong nước để thúc đẩy lĩnh vực 1.000 tỷ USD**  
-
-Việt Nam đã thực hiện một bước tiến để cho phép sản xuất bán dẫn và chíp trong nước, giảm bớt nhu cầu các công ty phải thực hiện thử nghiệm sản phẩm ở nước ngoài. Nhiều nhà sản xuất bán dẫn và chíp nước ngoài đang khảo sát cơ hội đầu tư tại tỉnh Bắc Giang. Ngành công nghiệp bán dẫn toàn cầu có giá trị khoảng 1 nghìn tỷ USD theo Hiệp hội Công nghiệp Bán dẫn của Mỹ.
-
-- Số liệu chính: Global semiconductor industry revenue: 1,000 billion USD USD
-- Nguồn: [CafeF](https://cafef.vn/tin-vui-tu-hom-nay-viet-nam-co-the-lam-ngay-mot-viec-trong-nuoc-de-thuc-day-linh-vuc-1000-ty-usd-18826062620353705.chn)
-
 ## Chứng khoán
 
 **NCB hoàn thành đợt tăng vốn lớn nhất lịch sử, bổ nhiệm 2 Phó Tổng giám đốc**  
@@ -148,12 +148,6 @@ Tại Đại hội đồng cổ đông thường niên ngày 28-6, Vietnam Airli
 - Số liệu chính: Targeted passengers in 2026: 27.73 million passengers; Passenger growth target vs 2025: 8.1% percent; Targeted cargo in 2026: 361.4 million tonnes; Cargo growth target vs 2025: 6.2% percent
 - Nguồn: [TuoiTre](https://tuoitre.vn/vietnam-airlines-dat-muc-tieu-co-lai-nam-2026-du-chi-phi-nhien-lieu-tang-100260628141041096.htm)
 
-**Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất**  
-
-Trong giai đoạn 2015-2025, nhiều ngân hàng Việt Nam đạt mức tăng trưởng lợi nhuận đáng kể, với SeABank, MSB và LPBank tăng trưởng nhanh nhất trong hệ thống ngân hàng. Nhiều ngân hàng tư nhân khác cũng đang thu hẹp khoảng cách so với các đối thủ hàng đầu. Dữ liệu phản ánh xu hướng tăng thu nhập đáng kể trong 10 năm qua trên nhiều tổ chức.
-
-- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
-
 ## Kinh tế vĩ mô
 
 **"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
@@ -162,6 +156,13 @@ Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng
 
 - Số liệu chính: Number of priority projects receiving special allocation: 18; Credit injection amount: 1.5 quadrillion Vietnamese dong
 - Nguồn: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
+
+**TPHCM khởi công 8 công trình, dự án trọng điểm gần 10 tỷ USD**  
+
+Thành phố Hồ Chí Minh khởi công 8 dự án xây dựng và các sáng kiến trọng điểm với tổng mức đầu tư khoảng 253.033 tỷ đồng Việt Nam, tương đương khoảng 9,6 tỷ USD. Các nguồn tài trợ đa dạng, bao gồm đầu tư công, các khoản hợp tác công-tư (PPP), và đầu tư trực tiếp vốn tư nhân.
+
+- Số liệu chính: Total investment value (VND): 253.033 billion tỷ đồng; Total investment value (USD): 9.6 billion USD; Number of projects commenced: 8 projects
+- Nguồn: [CafeF](https://cafef.vn/tphcm-khoi-cong-8-cong-trinh-du-an-trong-diem-gan-10-ty-usd-188260701093756622.chn)
 
 **Phó Thủ tướng Thường trực: Chuyển từ thu hút nhiều FDI sang ưu tiên dự án công nghệ tiên tiến**  
 
@@ -190,11 +191,14 @@ Chính phủ yêu cầu Ngân hàng Nhà nước nghiên cứu các biện pháp
 - Số liệu chính: Government Resolution: 168/NQ-CP; Resolution Date: June 27, 2026
 - Nguồn: [CafeF](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn)
 
-**Vì sao cổ phiếu công nghệ toàn cầu lao dốc?**  
+## Nền tảng
 
-Cổ phiếu công nghệ toàn cầu đang lao dốc do khan hiếm nguồn cung chip và kỳ vọng Cục Dự trữ Liên bang Mỹ tiếp tục nâng lãi suất. Các nhà đầu tư cổ phiếu công nghệ đã chuyển từ sốt ruột thành thất vọng khi khoản tiền lớn đổ vào trí tuệ nhân tạo chưa mang lại mức tăng lợi nhuận như kỳ vọng. Chỉ số Nasdaq Composite đại diện cho hàng trăm công ty công nghệ Mỹ đang chịu sức ép từ các yếu tố này.
+**UOB đầu tư 450 triệu USD xây trụ sở trong khu vực Trung tâm Tài chính Quốc tế Việt Nam**  
 
-- Nguồn: [VnExpress](https://vnexpress.net/vi-sao-co-phieu-cong-nghe-toan-cau-lao-doc-5090680.html)
+Ngân hàng UOB Việt Nam khởi công xây dựng UOB Plaza TPHCM - một tòa tháp văn phòng hạng A vào ngày 1/7 với tổng vốn đầu tư 450 triệu USD. Dự án nằm tại số 2 Tôn Đức Thắng, khu Ba Son, phường Sài Gòn, TPHCM, trong khu vực quy hoạch Trung tâm Tài chính Quốc tế Việt Nam (VIFC-HCMC). UOB là định chế tài chính nước ngoài đầu tiên đầu tư và sở hữu trụ sở được xây dựng chuyên biệt trong khu vực VIFC-HCMC.
+
+- Số liệu chính: Total investment amount: 450 million USD USD; Construction commencement date: 1 July date
+- Nguồn: [CafeF](https://cafef.vn/uob-dau-tu-450-trieu-usd-xay-tru-so-trong-khu-vuc-trung-tam-tai-chinh-quoc-te-viet-nam-188260701162509049.chn)
 
 ---
 

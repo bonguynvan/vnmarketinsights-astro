@@ -1,17 +1,23 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
+
+On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
+
+- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
 
 **Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ Multiple banks are preparing to distribute dividends and issue bonus shares to s
 On June 21st, a survey of online deposit interest rates shows ACB leading the market at 7.3% per annum for a 12-month term. The Big4 banking group maintains a rate of 6.8% per annum, while other banks are quoting rates between 6.9-7% per annum for medium and long-term deposits.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn)
-
-**Lãi suất tiết kiệm biến động trái chiều**  
-
-Vietnamese banks are adjusting savings interest rates in conflicting directions, indicating an ongoing competitive capital mobilization race. Interest rate changes are being reported across major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank. Ernst & Young experts note that digital banking's future success depends on transaction presence rather than customer volume alone.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn)
 
 ## Related coverage
 

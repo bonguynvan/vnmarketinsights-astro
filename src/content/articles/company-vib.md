@@ -1,17 +1,29 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VIB tích cực tham gia cùng Bộ Công an trong công tác phòng chống tội phạm**  
+
+VIB (Vietnam International Bank) actively participates with the Ministry of Public Security in crime prevention programs focusing on data, digital identity, and high-tech crime prevention. The bank has developed comprehensive protection measures for customers from initial account opening through daily transactions. VIB's digital identity infrastructure serves as a foundational platform for crime prevention efforts.
+
+- Source: [CafeF](https://cafef.vn/vib-tich-cuc-tham-gia-cung-bo-cong-an-trong-cong-tac-phong-chong-toi-pham-188260701085455977.chn)
+
+**Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm**  
+
+As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7% per annum or higher, primarily for longer terms. ACB, MBV, and VCBNeo offer rates of 7% or above starting from the 6-month term, with ACB offering 7.1% for 6 months, 7.2% for 9 months, and 7.3% for 12 months. MBV and VCBNeo, both under mandatory transfer status, quote 7% per annum for deposit terms ranging from 6 months to 36 months.
+
+- Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html)
 
 **Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân**  
 
@@ -39,10 +51,10 @@ VIB launched VIB Up, a tiered financial solution package allowing customers to u
 
 ## Related coverage
 
-- [TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn) — CafeF
-- [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
-- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
+- [Ngân hàng không chỉ để giao dịch: Xu hướng 'gói tiện ích tài chính kết hợp trải nghiệm Lifestyle' lên ngôi](https://cafef.vn/ngan-hang-khong-chi-de-giao-dich-xu-huong-goi-tien-ich-tai-chinh-ket-hop-trai-nghiem-lifestyle-len-ngoi-188260701105111999.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
+- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 
 ---
 

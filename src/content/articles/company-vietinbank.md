@@ -1,17 +1,35 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
+
+On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
+
+- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
+
+**Ngân hàng không chỉ để giao dịch: Xu hướng 'gói tiện ích tài chính kết hợp trải nghiệm Lifestyle' lên ngôi**  
+
+VietinBank has launched two new financial utility packages, V-Plus and V-Advance, designed to offer comprehensive benefits combining finance, investment, and lifestyle experiences. The packages aim to serve customers interested in modern digital experiences and cost optimization. Users are increasingly focused on practical value beyond traditional banking services.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-khong-chi-de-giao-dich-xu-huong-goi-tien-ich-tai-chinh-ket-hop-trai-nghiem-lifestyle-len-ngoi-188260701105111999.chn)
+
+**Giảm phát thải: Không chỉ là yêu cầu với doanh nghiệp**  
+
+International regulations on greenhouse gas emissions reduction and transparency in ESG data are creating both challenges and opportunities for businesses. Green finance trends are driving new requirements for enterprises. Industry experts discussed emission reduction, opportunities, and challenges at a workshop organized by VietinBank and partners in Hanoi.
+
+- Source: [CafeF](https://cafef.vn/giam-phat-thai-khong-chi-la-yeu-cau-voi-doanh-nghiep-188260701105642541.chn)
 
 **Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -67,30 +85,12 @@ Police in Thanh Hoa province dismantled a network engaged in illegal trading of 
 
 - Source: [CafeF](https://cafef.vn/canh-bao-thu-doan-chiem-quyen-tai-khoan-ngan-hang-bang-cong-nghe-cao-188260626141539164.chn)
 
-**Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-On June 25, a survey of online deposit interest rates showed Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 bank group maintained 6.8% per annum, while other banks quoted rates between 6.9-7.0% per annum for medium and long-term deposits.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn)
-
-**Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng**  
-
-Gold prices for SJC bullion bars and gold rings have declined by over 15 million Vietnamese dong per tael in nearly one month. Experts suggest that gold prices may face difficulty declining sharply further following the recent downtrend. The article discusses banking interest rates and lending activities by major banks for projects by Vingroup, Sun Group, and Masterise.
-
-- Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
-
-**Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
+- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
-- [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
-- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
 
 ---
 

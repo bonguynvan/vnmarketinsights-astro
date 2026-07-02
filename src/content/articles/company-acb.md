@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-01"
-lastUpdated: "2026-07-01"
+publishedDate: "2026-07-02"
+lastUpdated: "2026-07-02"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm**  
+
+As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7% per annum or higher, primarily for longer terms. ACB, MBV, and VCBNeo offer rates of 7% or above starting from the 6-month term, with ACB offering 7.1% for 6 months, 7.2% for 9 months, and 7.3% for 12 months. MBV and VCBNeo, both under mandatory transfer status, quote 7% per annum for deposit terms ranging from 6 months to 36 months.
+
+- Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html)
 
 **Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ The US dollar strengthened against the Vietnamese dong on June 21, 2026, with Vi
 
 - Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm)
 
-**Lộ diện thêm 'ái nữ', 'thiếu gia' Việt: Trẻ măng nhưng khối tài sản nhiều nghìn tỉ**  
-
-Nguyễn Thiên Hương Jenny, daughter of Âu Lạc chairman, completed a share purchase of over 15.74 million ACB Bank shares on June 12, 2026. Her total ACB holdings increased from over 135.67 million to over 151.42 million shares. Her ownership stake in the bank rose from 2.64% to 2.95% of the bank's charter capital.
-
-- Source: [TuoiTre](https://tuoitre.vn/lo-dien-them-ai-nu-thieu-gia-viet-tre-mang-nhung-khoi-tai-san-nhieu-nghin-ti-100260621151720295.htm)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 - [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
-- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 
 ---
 
