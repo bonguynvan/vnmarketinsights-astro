@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-02"
-lastUpdated: "2026-07-02"
+publishedDate: "2026-07-03"
+lastUpdated: "2026-07-03"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ACB: Du lịch hè 2026, khi trải nghiệm trở thành vitamin cho sức khỏe tinh thần**  
+
+ACB launches a summer 2026 travel promotion campaign featuring credit card incentives. Customers who spend 8 million dong within 30 days of card opening receive a 1 million dong Urbox voucher. The campaign positions travel as an investment in mental health and quality of life rather than simple tourism.
+
+- Source: [CafeF](https://cafef.vn/acb-du-lich-he-2026-khi-trai-nghiem-tro-thanh-vitamin-cho-suc-khoe-tinh-than-188260701173602135.chn)
 
 **Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm**  
 
@@ -78,12 +84,6 @@ ACB Bank has issued warnings about 30 common online fraud scenarios in Vietnam, 
 On June 21st, a survey of online deposit interest rates shows ACB leading the market at 7.3% per annum for a 12-month term. The Big4 banking group maintains a rate of 6.8% per annum, while other banks are quoting rates between 6.9-7% per annum for medium and long-term deposits.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn)
-
-**Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm**  
-
-The US dollar strengthened against the Vietnamese dong on June 21, 2026, with Vietcombank raising its USD transfer buy rate to 26,120 dong and sell rate to 26,440 dong, up 28 dong from the previous week. ACB bank similarly increased its USD rates by 10 dong on the buy side to 26,130 dong and 28 dong on the sell side to 26,440 dong over the same period. Other foreign currencies including the euro and Japanese yen declined against the dong during the week.
-
-- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm)
 
 ## Related coverage
 

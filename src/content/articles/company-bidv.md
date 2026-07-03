@@ -1,17 +1,23 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-07-02"
-lastUpdated: "2026-07-02"
+publishedDate: "2026-07-03"
+lastUpdated: "2026-07-03"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gần 300 sai sót được phát hiện qua kiểm toán liên quan đến xác định giá đất**  
+
+State Audit Office of Vietnam organized a seminar on July 2 in Hanoi to discuss land valuation assessment in relation to land management and use. Nearly 300 audit errors related to land price determination were identified. Over 200 representatives from ministries, government agencies, localities, and organizations including BIDV Bank attended the discussion.
+
+- Source: [CafeF](https://cafef.vn/gan-300-sai-sot-duoc-phat-hien-qua-kiem-toan-lien-quan-den-xac-dinh-gia-dat-188260702120555526.chn)
 
 **Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
 
@@ -78,12 +84,6 @@ The State Bank of Vietnam's Regional Branch 1 issued an urgent advisory to the p
 A survey of online deposit rates on 26 June shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintains rates at 6.8% per annum, while several other banks quote rates between 6.9-7% per annum for the same maturity.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn)
-
-**Cảnh báo thủ đoạn chiếm quyền tài khoản ngân hàng bằng công nghệ cao**  
-
-Police in Thanh Hoa province dismantled a network engaged in illegal trading of over 1,000 bank accounts using advanced technology to bypass biometric authentication. A suspect named Nguyễn Tiến Đạt (born 2004) was arrested in connection with a special investigation involving 1,000 bank accounts. The article reports on police warnings about unauthorized bank account takeover schemes using high-tech methods.
-
-- Source: [CafeF](https://cafef.vn/canh-bao-thu-doan-chiem-quyen-tai-khoan-ngan-hang-bang-cong-nghe-cao-188260626141539164.chn)
 
 ## Related coverage
 

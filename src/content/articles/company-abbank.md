@@ -1,8 +1,8 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-02"
-lastUpdated: "2026-07-02"
+publishedDate: "2026-07-03"
+lastUpdated: "2026-07-03"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
 - [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
+- [Từ 1-7: Doanh nghiệp chuyển khoản từ 10 triệu đồng phải xác thực khuôn mặt người đại diện pháp luật](https://cafef.vn/tu-1-7-doanh-nghiep-chuyen-khoan-tu-10-trieu-dong-phai-xac-thuc-khuon-mat-nguoi-dai-dien-phap-luat-188260702072600569.chn) — CafeF
 
 ---
 

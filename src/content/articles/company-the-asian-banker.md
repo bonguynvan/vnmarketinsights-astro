@@ -1,8 +1,8 @@
 ---
 title: "The Asian Banker — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning The Asian Banker, with neutral summaries and source links."
-publishedDate: "2026-07-02"
-lastUpdated: "2026-07-02"
+publishedDate: "2026-07-03"
+lastUpdated: "2026-07-03"
 category: "Company"
 readingTime: 3
 ---
@@ -47,8 +47,8 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [VietABank lập “cú đúp” giải thưởng: Khi đổi mới sáng tạo song hành cùng phát triển bền vững](https://cafef.vn/vietabank-lap-cu-dup-giai-thuong-khi-doi-moi-sang-tao-song-hanh-cung-phat-trien-ben-vung-188260630113952535.chn) — CafeF
-- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
-- [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
+- [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
+- [VPBank đứng đầu nhóm ngân hàng tư nhân Việt Nam trong bảng xếp hạng Forbes Global 2000](https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 27/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 27 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-02"
-lastUpdated: "2026-07-02"
+publishedDate: "2026-07-03"
+lastUpdated: "2026-07-03"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,35 +11,23 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường tuần này
+# Tổng quan thị trường tuần này
 
-Ngân hàng Nhà nước Việt Nam triển khai một loạt điều chỉnh chính sách quan trọng từ ngày 1/7/2026, bao gồm nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung và dài hạn từ 30% lên 40%, cùng với ban hành Thông tư 25/2026 về quản lý an toàn thanh khoản ngân hàng. Đồng thời, Nhà nước triển khai các biện pháp mở rộng tín dụng chiến lược với cấp phép đặc biệt cho 18 dự án ưu tiên và chuẩn bị bơm khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Ngoài lĩnh vực tài chính, các chính sách về lương, bảo hiểm y tế, và luật thuế thu nhập cá nhân cũng có hiệu lực trong thời kỳ này, trong khi thành phố Hồ Chí Minh khởi động 8 dự án xây dựng trọng điểm với tổng mức đầu tư khoảng 253.000 tỷ đồng.
+Ngân hàng Nhà nước điều chỉnh các quy định quản lý thanh khoản và mở rộng dư địa cho vay bằng cách nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40% từ ngày 1/7/2026, dự kiến giải phóng hàng triệu tỷ đồng cho các lĩnh vực bất động sản, hạ tầng và sản xuất kinh doanh. Đồng thời, Việt Nam được Ngân hàng Thế giới thăng hạng lên nhóm quốc gia thu nhập trung bình cao với GNI bình quân đầu người 4.970 USD, và TP HCM lần đầu vào nhóm ba trung tâm tài chính hàng đầu Đông Nam Á. Ngoài ra, từ ngày 1/7/2026 có nhiều chính sách mới có hiệu lực liên quan đến lương cơ sở, bảo hiểm xã hội và bảo hiểm y tế.
 
 ## Thanh toán
+
+**Chủ tịch VietinBank Trần Minh Bình: VietinBank xác định phát triển thanh toán số xuyên biên giới là một trong những mũi nhọn chiến lược quan trọng trong giai đoạn hiện nay**  
+
+Chủ tịch VietinBank Trần Minh Bình khẳng định rằng phát triển thanh toán số xuyên biên giới là một trong những mũi nhọn chiến lược quan trọng của ngân hàng trong giai đoạn hiện nay. Ngân hàng đã thực hiện các khoản đầu tư để chuẩn bị triển khai dịch vụ thanh toán xuyên biên giới với Singapore. Sự kiện ngày 2/7 đã tập hợp các quan chức cấp cao gồm Phó Thống đốc Ngân hàng Nhà nước, Chủ tịch Napas, Chủ tịch VietinBank và Chủ tịch Liquid.
+
+- Nguồn: [CafeF](https://cafef.vn/chu-tich-vietinbank-tran-minh-binh-vietinbank-xac-dinh-phat-trien-thanh-toan-so-xuyen-bien-gioi-la-mot-trong-nhung-mui-nhon-chien-luoc-quan-trong-trong-giai-doan-hien-nay-188260702154426178.chn)
 
 **Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
 
 Visa phối hợp cùng VPBank, Shinhan Bank Việt Nam và MB ra mắt nền tảng thanh toán thương mại toàn cầu (GTPP), là dịch vụ thanh toán thẻ thương mại xuyên biên giới đầu tiên tại Việt Nam. Nền tảng ban đầu tập trung vào hành lang thương mại Việt Nam - Hàn Quốc, cho phép doanh nghiệp nhập khẩu Việt Nam thanh toán cho nhà cung cấp Hàn Quốc bằng thẻ doanh nghiệp Visa. Sáng kiến nhằm tối ưu hóa thanh toán xuyên biên giới cho các doanh nghiệp.
 
 - Nguồn: [TuoiTre](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm)
-
-## Thương mại điện tử
-
-**Bất động sản chu kỳ mới: Người mua chuộng giá trị thực**  
-
-Sau hơn hai năm thanh lọc mạnh mẽ, thị trường bất động sản Việt Nam đang bước vào một giai đoạn mới với nhiều tín hiệu tích cực. Từ cuối năm 2025 đến nay, dòng tiền đã bắt đầu quay trở lại những sản phẩm sở hữu giá trị thực, pháp lý rõ ràng và khả năng gia tăng giá trị bền vững. Hành vi người mua nhà đang thay đổi rõ rệt, với giá bán không còn là yếu tố được quan tâm nhiều nhất.
-
-- Số liệu chính: Market consolidation period: 2022-2024
-- Nguồn: [VietnamNet](https://vietnamnet.vn/bat-dong-san-chu-ky-moi-nguoi-mua-chuong-gia-tri-thuc-2530046.html)
-
-## Logistics
-
-**Lãnh đạo ACV nói về kịch bản chuyển đổi khai thác từ Tân Sơn Nhất sang Long Thành**  
-
-Lãnh đạo ACV báo cáo dự án Cảng hàng không quốc tế Long Thành đã hoàn thành khoảng 67.069 tỉ đồng trên tổng giá trị hợp đồng 86.348 tỉ đồng, tương đương 77,6% tiến độ thực hiện. Ông Nguyễn Đức Hùng, quyền Tổng giám đốc ACV, đã trình bày những con số này tại hội nghị cấp nhà nước ngày 27-6. Cam kết khai thác thương mại vào tháng 12 sau khi tháo gỡ các khó khăn.
-
-- Số liệu chính: Giá trị sản lượng thực hiện dự án Long Thành: 67.069 tỉ đồng tỉ đồng; Tổng giá trị hợp đồng: 86.348 tỉ đồng tỉ đồng; Tỷ lệ hoàn thành: 77,6% %
-- Nguồn: [TuoiTre](https://tuoitre.vn/lanh-dao-acv-noi-ve-kich-ban-chuyen-doi-khai-thac-tu-tan-son-nhat-sang-long-thanh-100260628095823607.htm)
 
 ## Pháp lý
 
@@ -49,6 +37,13 @@ Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng t
 
 - Số liệu chính: Short-term to medium/long-term lending ratio increase: 30% to 40%; Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn)
+
+**Mang sổ đỏ thế chấp cho khoản vay 18,5 tỷ, nhiều người có nguy cơ mất nhà đất**  
+
+Tháng 3/2019, Công ty cổ phần Q ký hợp đồng tín dụng với một ngân hàng để vay tối đa 18,5 tỷ đồng với thời hạn 3 tháng và lãi suất cố định 9,5%/năm nhằm bổ sung vốn lưu động cho hoạt động sản xuất, kinh doanh. Ngân hàng đã giải ngân toàn bộ khoản vay thông qua hai giấy nhận nợ gồm 5 tỷ đồng và 13,5 tỷ đồng. Ngoài cam kết của doanh nghiệp, nhiều cá nhân đã thế chấp tài sản của mình, bao gồm đất đai và bất động sản, để bảo đảm cho khoản vay này.
+
+- Số liệu chính: Loan amount (maximum): 18.5 billion VND; Loan term: 3 months; Fixed interest rate: 9.5 %/year; First promissory note: 5 billion VND
+- Nguồn: [VietnamNet](https://vietnamnet.vn/mang-so-do-the-chap-cho-khoan-vay-18-5-ty-nhieu-nguoi-co-nguy-co-mat-nha-dat-2531499.html)
 
 **Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
 
@@ -118,13 +113,6 @@ Vietcombank đã phát cảnh báo về một chiêu thức lừa đảo mới k
 
 - Nguồn: [CafeF](https://cafef.vn/vietcombank-canh-bao-khach-hang-co-the-mat-sach-tien-trong-the-neu-lam-theo-tin-nhan-nay-188260628174644696.chn)
 
-**Cảnh gi&aacute;c &#039;chi&ecirc;u&#039; đổi điểm thưởng v&agrave; những cuộc gọi &#039;kh&ocirc;ng n&oacute;i g&igrave;&#039;**  
-
-Khách hàng Vietcombank nhận được các tin nhắn SMS giả mạo thương hiệu ngân hàng với nội dung về điểm thưởng sắp hết hạn và các đường dẫn tới trang web giả mạo như https://diem-vietcom-priority.com/web/index.php. Khi truy cập vào các liên kết này, người dùng được chuyển hướng tới các trang chủ Vietcombank giả mạo và bị yêu cầu cung cấp thông tin bảo mật. Đây là một trong khoảng 30 chiêu lừa đảo nhằm vào khách hàng thông qua các cuộc gọi và tin nhắn lừa dối.
-
-- Số liệu chính: Number of documented fraud schemes: approximately 30
-- Nguồn: [ThanhNien](https://thanhnien.vn/canh-giac-thu-doan-doi-diem-thuong-den-cuoc-goi-khong-noi-gi-185260628090926779.htm)
-
 ## Chứng khoán
 
 **NCB hoàn thành đợt tăng vốn lớn nhất lịch sử, bổ nhiệm 2 Phó Tổng giám đốc**  
@@ -141,13 +129,6 @@ VPBank cùng 15 định chế tài chính quốc tế ký kết khoản vay hợ
 - Số liệu chính: Sustainability-Linked Loan facility value: 1.44 billion USD; Number of international financial institutions involved: 15 institutions; Signing ceremony date: 30 June 2026 date
 - Nguồn: [CafeF](https://cafef.vn/vpbank-ky-ket-khoan-vay-hop-von-lien-ket-ben-vung-dau-tien-tri-gia-144-ty-usd-188260630191900985.chn)
 
-**Vietnam Airlines đặt mục tiêu có lãi năm 2026 dù chi phí nhiên liệu tăng**  
-
-Tại Đại hội đồng cổ đông thường niên ngày 28-6, Vietnam Airlines thông qua kế hoạch sản xuất kinh doanh năm 2026 nhằm đạt lãi dù khiêm tốn hơn năm 2025. Hãng đặt mục tiêu vận chuyển 27,73 triệu lượt hành khách và 361,4 triệu tấn hàng hóa, tăng lần lượt 8,1% và 6,2% so với 2025. Doanh thu hợp nhất dự kiến đạt 138.899 tỉ đồng, tăng hơn 12% so với cùng kỳ, mặc dù chi phí nhiên liệu tăng.
-
-- Số liệu chính: Targeted passengers in 2026: 27.73 million passengers; Passenger growth target vs 2025: 8.1% percent; Targeted cargo in 2026: 361.4 million tonnes; Cargo growth target vs 2025: 6.2% percent
-- Nguồn: [TuoiTre](https://tuoitre.vn/vietnam-airlines-dat-muc-tieu-co-lai-nam-2026-du-chi-phi-nhien-lieu-tang-100260628141041096.htm)
-
 ## Kinh tế vĩ mô
 
 **"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
@@ -156,6 +137,20 @@ Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng
 
 - Số liệu chính: Number of priority projects receiving special allocation: 18; Credit injection amount: 1.5 quadrillion Vietnamese dong
 - Nguồn: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
+
+**Việt Nam chính thức được World Bank xếp vào nhóm thu nhập trung bình cao**  
+
+Việt Nam chính thức được Ngân hàng Thế giới (World Bank) thăng hạng vào nhóm quốc gia thu nhập trung bình cao với tổng thu nhập quốc dân (GNI) bình quân đầu người đạt 4.970 USD năm 2025. Việc thăng hạng này phản ánh tiến bộ kinh tế và mức độ phát triển của Việt Nam. Sự nâng cấp đặt Việt Nam vào nhóm các nước thu nhập trung bình cao trên toàn cầu.
+
+- Số liệu chính: GNI per capita: 4,970 USD; Year: 2025
+- Nguồn: [CafeF](https://cafef.vn/viet-nam-chinh-thuc-duoc-world-bank-xep-vao-nhom-thu-nhap-trung-binh-cao-188260702151156387.chn)
+
+**Hạ tầng tài chính - 'hệ tuần hoàn' của nền kinh tế TP HCM**  
+
+TP HCM lần đầu vào nhóm ba trung tâm tài chính hàng đầu Đông Nam Á vào tháng 3/2026, vượt qua Jakarta theo Chỉ số Trung tâm Tài chính Toàn cầu (GFCI) lần thứ 39. Xếp hạng này phản ánh quá trình tích lũy hạ tầng tài chính qua nhiều thập niên, bao gồm hệ thống ngân hàng, thị trường vốn, thanh toán số và fintech. Chỉ số được công bố bởi Z/Yen Partners (Anh) và Viện Phát triển Trung Quốc.
+
+- Số liệu chính: GFCI Index Number: 39; Ranking Month/Year: March 2026
+- Nguồn: [VnExpress](https://vnexpress.net/ha-tang-tai-chinh-he-tuan-hoan-cua-nen-kinh-te-tp-hcm-5092469.html)
 
 **TPHCM khởi công 8 công trình, dự án trọng điểm gần 10 tỷ USD**  
 
