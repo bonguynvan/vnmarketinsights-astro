@@ -33,8 +33,8 @@ const { title = 'Your growth journey' } = Astro.props;
 <script is:inline>
   const journeySteps = [
     { key: 'visited_topics', label: 'Explore one market topic', href: '/topics' },
-    { key: 'snapshot_first_value', label: 'Get first Snapshot result', href: '/snapshot' },
-    { key: 'keywords_first_value', label: 'Get first Keyword result', href: '/keywords' },
+    { key: 'visited_insights', label: 'Read a market insight', href: '/insights' },
+    { key: 'viewed_daily_trends', label: "Check today's Vietnam trends", href: '/trends/daily' },
     { key: 'lead_confirmed', label: 'Confirm weekly brief subscription', href: '/start' }
   ];
 
@@ -47,8 +47,8 @@ const { title = 'Your growth journey' } = Astro.props;
 
   function nextActionForMilestones(milestones) {
     if (!milestones.visited_topics) return journeySteps[0];
-    if (!milestones.snapshot_first_value) return journeySteps[1];
-    if (!milestones.keywords_first_value) return journeySteps[2];
+    if (!milestones.visited_insights) return journeySteps[1];
+    if (!milestones.viewed_daily_trends) return journeySteps[2];
     if (!milestones.lead_confirmed && !milestones.lead_submitted) return journeySteps[3];
     return { key: 'advanced_loop', label: 'Try starter flows and invite a teammate', href: '/start' };
   }

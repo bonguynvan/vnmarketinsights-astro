@@ -179,3 +179,17 @@ const itemListSchema = {
   .article-cta { margin-top: auto; font-size: var(--text-xs); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-accent); }
   .insights-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
 </style>
+
+<script is:inline>
+  // Growth-journey milestone. Polls briefly because the growth context is
+  // initialized in the layout's deferred script, which may run after this one.
+  (function mark(tries) {
+    const ctx = window.vmiGrowthContext;
+    if (ctx && ctx.setMilestone) {
+      ctx.setMilestone('visited_insights', true);
+      ctx.recordRecentAction?.({ label: 'Read market insights', href: '/insights' });
+    } else if (tries < 50) {
+      setTimeout(() => mark(tries + 1), 100);
+    }
+  })(0);
+</script>

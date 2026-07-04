@@ -200,3 +200,17 @@ const canonical = "https://vnmarketinsights.com/trends/daily/";
   .related-list a { color: var(--color-accent); text-decoration: none; }
   .related-list a:hover { text-decoration: underline; }
 </style>
+
+<script is:inline>
+  // Growth-journey milestone. Polls briefly because the growth context is
+  // initialized in the layout's deferred script, which may run after this one.
+  (function mark(tries) {
+    const ctx = window.vmiGrowthContext;
+    if (ctx && ctx.setMilestone) {
+      ctx.setMilestone('viewed_daily_trends', true);
+      ctx.recordRecentAction?.({ label: "Checked today's Vietnam trends", href: '/trends/daily' });
+    } else if (tries < 50) {
+      setTimeout(() => mark(tries + 1), 100);
+    }
+  })(0);
+</script>
