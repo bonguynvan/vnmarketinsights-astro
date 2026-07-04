@@ -6,8 +6,8 @@ import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Consumer Market 2026 — Demographics, Spending & Digital Behavior";
-const description = "Vietnam consumer market report: population and demographics, internet and social reach, online shopping behavior, spending, and 2025 data with sources.";
-const lastUpdated = "June 2026";
+const description = "Vietnam consumer market report: population and demographics, internet and social reach, online shopping behavior, spending, and early-2026 data with sources.";
+const lastUpdated = "July 2026";
 
 const relatedTopics = getRelatedTopics('consumers');
 ---
@@ -31,16 +31,15 @@ const relatedTopics = getRelatedTopics('consumers');
       primary access point for information, social connection, and commerce.
     </p>
     <BarChart
-      title="Vietnam digital reach (millions, early 2025)"
+      title="Vietnam digital reach (millions, early 2026)"
       data={[
-        { label: 'Mobile connections', value: 127, display: '127M' },
-        { label: 'Population', value: 101, display: '~101M' },
-        { label: 'Smartphone users', value: 84, display: '~84M' },
-        { label: 'Internet users', value: 79.8, display: '79.8M' },
-        { label: 'Social media identities', value: 76.2, display: '76.2M' },
+        { label: 'Mobile connections', value: 137, display: '137M' },
+        { label: 'Population', value: 102, display: '~102M' },
+        { label: 'Internet users', value: 85.6, display: '85.6M' },
+        { label: 'Social media identities', value: 79.0, display: '79.0M' },
       ]}
-      source="DataReportal Digital 2025; GSO"
-      caption="A young, mobile-first population: internet penetration is ~79% and social reach ~75%."
+      source="DataReportal Digital 2026; GSO"
+      caption="A young, mobile-first population: internet penetration is ~84% and social reach ~78%, with mobile connections at ~134% of population."
     />
   </section>
 
@@ -163,7 +162,7 @@ const relatedTopics = getRelatedTopics('consumers');
     </ul>
   </section>
 
-  <CiteThis title="Vietnam Consumer Market 2026" url="https://vnmarketinsights.com/consumers" updated="June 2026" />
+  <CiteThis title="Vietnam Consumer Market 2026" url="https://vnmarketinsights.com/consumers" updated="July 2026" />
 
   <RecentDevelopments topic="consumers" />
 
