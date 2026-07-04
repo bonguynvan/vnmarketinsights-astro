@@ -1,0 +1,167 @@
+---
+import TopicLayout from '../layouts/TopicLayout.astro';
+import DataTable from '@components/DataTable.astro';
+import { getRelatedTopics } from '../data/topic-graph';
+
+const title = "Vietnam Fintech Market 2026 — Size, Segments & Key Players";
+const description = "Vietnam fintech market report: market size and growth, segments (payments, lending, digital banking, insurtech, wealthtech, BNPL), key players and unicorns, the SME/B2B pivot, and the Decree 94 regulatory sandbox — with sources.";
+const lastUpdated = "July 2026";
+
+const relatedTopics = getRelatedTopics('fintech', 4);
+
+const segments = [
+  ['Digital payments', 'Largest segment (~60–70% of activity); e-wallets, QR/VietQR, gateways', 'MoMo, ZaloPay, VNPay, Payoo, OnePay'],
+  ['Digital banking / neobanks', 'App-first retail banking, often bank-backed', 'Cake (VPBank), Timo, TNEX (MSB), LiveBank (TPBank)'],
+  ['Consumer & digital lending', 'POS and app-based lending; ~$3–4bn (regulated APR ceiling)', 'FE Credit, Home Credit, HD Saison'],
+  ['SME / B2B finance', 'Fastest-growing focus (~24%/yr); working-capital and FX', 'Lendbiz, Trusting Social, Kredivo, Validus'],
+  ['Insurtech', 'Fastest-growing segment by CAGR (~31%)', 'Papaya, Global Care, Igloo'],
+  ['Wealthtech', 'Retail investing, robo-advisory, online funds', 'Finhay, Infina, TCBS, SSI'],
+  ['BNPL', 'Installments at checkout; ~$500m+', 'Fundiin, Kredivo, Home PayLater'],
+  ['Blockchain / digital assets', 'Web3, gaming; sandbox pilots emerging', 'Sky Mavis (Axie), Coin98/Kyros'],
+];
+
+const faqs = [
+  {
+    question: "How big is Vietnam's fintech market?",
+    answer: "Estimates vary widely by definition. P&S Intelligence valued Vietnam's fintech market at about $19.8 billion in 2025, projecting roughly 17% annual growth toward $60 billion by 2032; narrower transaction- or revenue-based measures run lower. What's consistent across sources is a fast-growing, payments-led market with an expanding lending and digital-banking layer."
+  },
+  {
+    question: "How many fintech companies are in Vietnam?",
+    answer: "More than 200 active fintech firms operate in Vietnam — roughly quadruple the 2015 count — making it the second-largest fintech player base in ASEAN by number of companies (UOB). Counting earlier-stage startups, trackers list 450–650+. The sector has produced four unicorns, led by MoMo, VNPay (VNLIFE), and Sky Mavis."
+  },
+  {
+    question: "What are the main fintech segments in Vietnam?",
+    answer: "Digital payments dominate (roughly 60–70% of activity) via e-wallets and QR/VietQR. Around it sit digital lending (consumer and, increasingly, SME), digital banking / neobanks, insurtech (the fastest-growing segment), wealthtech, buy-now-pay-later, and an emerging blockchain / digital-assets scene."
+  },
+  {
+    question: "Who are the leading fintech companies in Vietnam?",
+    answer: "In payments: MoMo (30M+ users, profitable since 2024), ZaloPay, VNPay, Payoo and OnePay. In digital banking: Cake by VPBank, Timo, TNEX (MSB), and LiveBank (TPBank). In lending: FE Credit, Home Credit, HD Saison, and SME players like Lendbiz and Kredivo. In wealthtech: Finhay, Infina, TCBS and SSI."
+  },
+  {
+    question: "Is there a fintech regulatory sandbox in Vietnam?",
+    answer: "Yes. Decree 94 establishes a regulatory sandbox for the banking sector, supporting supervised pilots in areas such as peer-to-peer lending, credit scoring, and open APIs. It gives new entrants a structured pathway while the State Bank of Vietnam observes risk before broader rules are set."
+  },
+  {
+    question: "What is next for Vietnam's fintech sector?",
+    answer: "With about 87% of adults now holding bank accounts and consumer payments largely commoditized (free instant transfers, ubiquitous VietQR), growth is pivoting to SME and B2B finance — working capital, FX, and embedded finance for Vietnam's roughly one million active enterprises — alongside insurtech, wealthtech, and sandbox-stage digital-asset services."
+  }
+];
+---
+
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} relatedTopics={relatedTopics} faqs={faqs}>
+  <p class="topic-definition">
+    <strong>Vietnam's fintech sector</strong> spans digital payments, lending, digital banking, insurtech, wealthtech, and blockchain-based financial services. Estimates of its size vary widely by definition — P&amp;S Intelligence valued the market at about <strong>$19.8 billion in 2025</strong>, projecting ~17% annual growth toward $60 billion by 2032. Vietnam now hosts <strong>200+ active fintech firms</strong> — the second-largest fintech player base in ASEAN by count — and four unicorns led by MoMo, VNPay and Sky Mavis. <strong>Payments dominate</strong> (~60–70% of activity), but with about 87% of adults now banked and consumer payments maturing, growth is pivoting toward SME and B2B financial services.
+  </p>
+
+  <section>
+    <h2>Overview</h2>
+    <p>
+      Fintech has become one of Vietnam's most dynamic digital sectors, riding high
+      smartphone penetration, a young population, a large previously-underbanked base,
+      and a government push toward a cashless economy. The market matured fast on the
+      back of mobile wallets and QR payments; the next phase is broadening from consumer
+      payments into credit, banking, insurance, and investing.
+    </p>
+    <p>
+      Activity concentrates in Ho Chi Minh City and Hanoi — the south alone accounts for
+      roughly half of the market — with foreign and regional players entering through
+      banking partnerships rather than standalone consumer brands.
+    </p>
+  </section>
+
+  <section>
+    <h2>Key Characteristics</h2>
+    <ul class="characteristics-list">
+      <li>Payments-led: e-wallets and QR/VietQR drive the majority of fintech activity</li>
+      <li>Second-largest fintech player base in ASEAN by number of firms (200+)</li>
+      <li>Four fintech unicorns to date, led by MoMo, VNPay (VNLIFE), and Sky Mavis</li>
+      <li>High banking inclusion (~87% of adults) is commoditizing consumer payments</li>
+      <li>Growth pivoting to SME / B2B finance for ~1 million active enterprises</li>
+      <li>Supervised innovation via the Decree 94 regulatory sandbox</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Market Segments</h2>
+    <DataTable
+      headers={['Segment', 'Notes', 'Example players']}
+      rows={segments}
+      caption="Vietnam fintech segments (indicative; player lists are illustrative, not exhaustive)."
+    />
+  </section>
+
+  <section>
+    <h2>Major Players</h2>
+
+    <h3>Payments &amp; e-wallets</h3>
+    <ul>
+      <li><strong>MoMo</strong>: Market-leading super-wallet, 30M+ users, profitable since 2024</li>
+      <li><strong>ZaloPay</strong>: Wallet embedded in the Zalo messaging ecosystem</li>
+      <li><strong>VNPay</strong>: QR and payment gateway; VNLIFE parent is a unicorn</li>
+      <li><strong>Payoo, OnePay</strong>: Merchant acquiring and gateway services</li>
+    </ul>
+
+    <h3>Digital banks &amp; neobanks</h3>
+    <ul>
+      <li><strong>Cake by VPBank</strong>: Lifestyle neobank with cashback and cards</li>
+      <li><strong>Timo</strong>: Digital-first, savings-focused banking</li>
+      <li><strong>TNEX (MSB)</strong>: Free mobile-only bank targeting younger users</li>
+      <li><strong>LiveBank (TPBank)</strong>: Video-teller and 24/7 self-service banking</li>
+    </ul>
+
+    <h3>Lending, insurtech &amp; wealthtech</h3>
+    <ul>
+      <li><strong>Consumer finance</strong>: FE Credit (VPBank), Home Credit, HD Saison</li>
+      <li><strong>SME / B2B</strong>: Lendbiz, Trusting Social, Kredivo, Validus</li>
+      <li><strong>Insurtech</strong>: Papaya, Global Care, Igloo</li>
+      <li><strong>Wealthtech</strong>: Finhay, Infina; broker apps TCBS and SSI</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Regulation &amp; the fintech sandbox</h2>
+    <p>
+      Fintech in Vietnam is overseen chiefly by the State Bank of Vietnam (SBV), with
+      the Ministry of Finance covering securities and insurance. <strong>Decree 94</strong>
+      establishes a banking-sector regulatory sandbox for supervised pilots in
+      peer-to-peer lending, credit scoring, and open APIs — a structured on-ramp for new
+      entrants while regulators observe risk. Payments, e-money, and cross-border data
+      also fall under evolving rules; see the <a href="/regulations">Vietnam regulations</a>
+      overview for the broader legal framework, including the 2025 Personal Data
+      Protection Law that affects any firm handling customer data.
+    </p>
+  </section>
+
+  <section>
+    <h2>Why This Matters</h2>
+    <ul class="characteristics-list">
+      <li>Payments are commoditized — durable advantage now comes from lending, data, and B2B</li>
+      <li>SME and working-capital finance is the fastest-growing opportunity</li>
+      <li>Bank partnerships are often the fastest route to market for foreign players</li>
+      <li>The Decree 94 sandbox lowers regulatory uncertainty for new models</li>
+      <li>Insurtech and wealthtech remain under-penetrated relative to payments</li>
+      <li>Digital-asset and open-finance rules are still forming — watch the sandbox</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources-list">
+      <li>P&amp;S Intelligence / VnEconomy — Vietnam fintech market size and forecast</li>
+      <li>UOB / Asian Banking &amp; Finance — ASEAN fintech player counts and CAGR</li>
+      <li>Tracxn — Vietnam fintech company and funding database</li>
+      <li>State Bank of Vietnam — Decree 94 regulatory sandbox and payment data</li>
+      <li>Company disclosures (MoMo, VPBank/Cake, VNLIFE/VNPay) and press coverage</li>
+    </ul>
+  </section>
+
+  <section class="further-reading" aria-label="Further reading">
+    <h2>Further reading</h2>
+    <ul>
+      <li><a href="/payments">Vietnam payments market</a> — e-wallets, QR/VietQR, and cashless data</li>
+      <li><a href="/financial-markets">Vietnam stock market</a> — exchanges, the VN-Index, and the FTSE upgrade</li>
+      <li><a href="/regulations">Vietnam digital business regulations</a> — licensing, tax, and data protection</li>
+      <li><a href="/insights/fintech-landscape/">Fintech landscape (deep dive)</a> — segment-by-segment detail</li>
+    </ul>
+  </section>
+</TopicLayout>

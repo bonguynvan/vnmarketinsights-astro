@@ -25,7 +25,13 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'payments',
     title: 'Payments',
     description: 'Payment methods, e-wallets, banking infrastructure, and financial services.',
-    related: ['ecommerce', 'platforms', 'regulations', 'financial-markets'],
+    related: ['fintech', 'ecommerce', 'platforms', 'financial-markets'],
+  },
+  fintech: {
+    slug: 'fintech',
+    title: 'Fintech',
+    description: 'Digital payments, lending, neobanks, insurtech, wealthtech, and the fintech ecosystem.',
+    related: ['payments', 'financial-markets', 'regulations', 'platforms'],
   },
   logistics: {
     slug: 'logistics',
@@ -49,13 +55,13 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'regulations',
     title: 'Regulations',
     description: 'Legal framework, licensing, data protection, and sector-specific compliance.',
-    related: ['payments', 'platforms', 'ecommerce', 'financial-markets'],
+    related: ['fintech', 'payments', 'platforms', 'financial-markets'],
   },
   'financial-markets': {
     slug: 'financial-markets',
     title: 'Financial Markets',
     description: 'Stock market, exchanges, indices, and investment landscape in Vietnam.',
-    related: ['payments', 'regulations', 'consumers'],
+    related: ['fintech', 'payments', 'regulations', 'consumers'],
   },
 };
 
