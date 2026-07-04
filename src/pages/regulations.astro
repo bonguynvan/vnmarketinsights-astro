@@ -4,14 +4,14 @@ import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Digital Business Regulations — Licensing & Compliance (2026)";
-const lastUpdated = "February 2026";
+const lastUpdated = "July 2026";
 
 const relatedTopics = getRelatedTopics('regulations');
 ---
 
 <TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics}>
   <p class="topic-definition">
-    <strong>Vietnam's digital business regulations</strong> are the legal framework governing e-commerce, fintech, data protection, content, and foreign investment for digital operators. Core instruments include <strong>Decree 52/2013/ND-CP</strong> (e-commerce), <strong>Circular 19/2016/TT-NHNN</strong> (intermediary payment services), the <strong>2018 Cybersecurity Law</strong>, and the <strong>2023 Personal Data Protection Decree</strong>. Primary regulators are the Ministry of Industry and Trade (MOIT), Ministry of Information and Communications (MIC), and the State Bank of Vietnam (SBV).
+    <strong>Vietnam's digital business regulations</strong> are the legal framework governing e-commerce, fintech, data protection, content, and foreign investment for digital operators. Core instruments include <strong>Decree 52/2013/ND-CP</strong> (e-commerce, as amended by Decree 85/2021), <strong>Circular 19/2016/TT-NHNN</strong> (intermediary payment services), the <strong>2018 Cybersecurity Law</strong>, and — new for 2026 — the <strong>Personal Data Protection Law (PDPL, Law 91/2025/QH15)</strong>, effective 1 January 2026, which with implementing Decree 356/2025 replaced the 2023 Personal Data Protection Decree. Primary regulators are the Ministry of Industry and Trade (MOIT), Ministry of Science and Technology / Information (MIC), and the State Bank of Vietnam (SBV).
   </p>
 
   <section>
@@ -55,8 +55,8 @@ const relatedTopics = getRelatedTopics('regulations');
     <h3>Digital and Technology</h3>
     <ul>
       <li><strong>Cybersecurity Law 2018</strong>: Data localization, local presence requirements</li>
-      <li><strong>E-commerce Decree 52</strong>: Platform obligations, seller verification</li>
-      <li><strong>Data Protection Decree 13</strong>: Personal data handling, cross-border transfer</li>
+      <li><strong>E-commerce Decree 52</strong> (amended by Decree 85/2021): Platform obligations, seller verification</li>
+      <li><strong>Personal Data Protection Law (PDPL 2025)</strong>: In force 1 Jan 2026 (with Decree 356/2025); consent, cross-border transfer rules, and steep penalties — up to 5% of prior-year revenue for unlawful cross-border transfers</li>
       <li><strong>Telecommunications Law</strong>: Internet service and content regulations</li>
     </ul>
 
@@ -70,11 +70,31 @@ const relatedTopics = getRelatedTopics('regulations');
 
     <h3>Taxation</h3>
     <ul>
-      <li><strong>Corporate Income Tax (CIT)</strong>: Standard 20%, incentives for preferred sectors</li>
-      <li><strong>Value Added Tax (VAT)</strong>: 0%, 5%, 8%, or 10% depending on goods/services</li>
+      <li><strong>Corporate Income Tax (CIT)</strong>: New CIT Law 67/2025/QH15 in force from 1 Oct 2025 — standard rate stays 20%, with tiered 15–17% rates for qualifying small enterprises; industrial zones dropped as an automatically incentivized location</li>
+      <li><strong>Global Minimum Tax (GMT)</strong>: 15% top-up under Resolution 107/2023 (OECD Pillar Two / QDMTT), effective FY2024 for MNE groups with ≥ €750M revenue</li>
+      <li><strong>Value Added Tax (VAT)</strong>: 0%, 5%, or 10%; a 2% cut keeps the standard rate at 8% for many goods/services through 2026</li>
       <li><strong>Personal Income Tax (PIT)</strong>: Progressive rates 5% to 35%</li>
-      <li><strong>Digital services tax</strong>: Emerging regulations for cross-border platforms</li>
+      <li><strong>Digital / cross-border tax</strong>: CIT Law 2025 makes foreign e-commerce and digital-platform suppliers without a permanent establishment taxable on Vietnam-source income</li>
     </ul>
+  </section>
+
+  <section>
+    <h2>Recent regulatory changes (2025–2026)</h2>
+    <p>
+      Vietnam pushed through an unusually large batch of framework laws in 2025 that
+      take effect across 2025–2026. If you last checked the rules before mid-2025,
+      these are the ones that most affect digital and foreign-invested businesses:
+    </p>
+    <ul class="characteristics-list">
+      <li><strong>Personal Data Protection Law (PDPL, Law 91/2025/QH15)</strong> — effective <strong>1 January 2026</strong>, with implementing Decree 356/2025 replacing Decree 13/2023. Introduces tiered penalties (up to 5% of prior-year revenue for unlawful cross-border transfers; up to 10× the gain for illegal data trading), and extends the SME grace period from two to five years.</li>
+      <li><strong>Corporate Income Tax Law (Law 67/2025/QH15)</strong> — in force <strong>1 October 2025</strong> (Decree 320/2025 guidance). Standard 20% rate retained; new 15–17% tiers for small enterprises; industrial zones removed as an automatic incentive location.</li>
+      <li><strong>Global Minimum Tax</strong> — the 15% Pillar Two top-up (Resolution 107/2023) applies from financial year 2024, with compliance obligations from 2025, for MNE groups over €750M revenue.</li>
+      <li><strong>Foreign digital suppliers</strong> — cross-border e-commerce and platform providers without a permanent establishment now face Vietnamese CIT on Vietnam-source income, alongside expanding e-invoice and VNeID requirements.</li>
+    </ul>
+    <p class="regs-note">
+      This is a high-level orientation, not legal advice — confirm current text and
+      effective dates with the primary sources below or qualified counsel before acting.
+    </p>
   </section>
 
   <section>
