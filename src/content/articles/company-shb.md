@@ -46,9 +46,9 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 ## Related coverage
 
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
+- [HDBank ghi dấu ấn với bộ ba giải thưởng quốc tế uy tín](https://vietnamnet.vn/hdbank-ghi-dau-an-voi-bo-ba-giai-thuong-quoc-te-uy-tin-2532371.html) — VietnamNet
 - [BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam](https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn) — CafeF
-- [SHS dự kiến phát hành 500 tỷ đồng trái phiếu riêng lẻ trong quý III](https://cafef.vn/shs-du-kien-phat-hanh-500-ty-dong-trai-phieu-rieng-le-trong-quy-iii-188260628084857371.chn) — CafeF
-- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
+- [HDBank nhận giải thưởng về bán lẻ, giải pháp SME](https://vnexpress.net/hdbank-nhan-giai-thuong-ve-ban-le-giai-phap-sme-5093505.html) — VnExpress
 
 ---
 

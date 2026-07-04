@@ -9,9 +9,15 @@ readingTime: 3
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank nhận hai giải thưởng về ESG**  
+
+LPBank received two ESG-related awards, including the Green Leadership award at the 2026 Asia Responsible Enterprise Awards (AREA) held on June 26 in Malaysia. The bank also ranked in the top 10 Vietnamese banks for ESG practices. LPBank's recognition reflects its integration of ESG principles into governance, operations, and customer solutions.
+
+- Source: [VnExpress](https://vnexpress.net/lpbank-nhan-hai-giai-thuong-ve-esg-5093282.html)
 
 **Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng**  
 
@@ -59,8 +65,8 @@ On June 23rd, LPBank's LPB stock experienced a sharp surge with over 7.5 trillio
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Một cổ phiếu ngân hàng tăng hơn 14% trong tuần qua](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-14-trong-tuan-qua-188260627081824533.chn) — CafeF
-- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 

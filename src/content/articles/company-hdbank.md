@@ -9,9 +9,21 @@ readingTime: 3
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**HDBank nhận giải thưởng về bán lẻ, giải pháp SME**  
+
+HDBank received the awards for Retail Bank of the Year and SME Bank of the Year for the fifth consecutive time at the Asian Banking & Finance Awards 2026, held in Singapore on July 2. The bank's representatives stated that the awards recognize the growth rate of outstanding loans, operational efficiency through digital channels, and HDBank's extensive network. The SME Bank of the Year award reflects the bank's ability to provide digitized financial solutions and cash flow management services.
+
+- Source: [VnExpress](https://vnexpress.net/hdbank-nhan-giai-thuong-ve-ban-le-giai-phap-sme-5093505.html)
+
+**HDBank ghi dấu ấn với bộ ba giải thưởng quốc tế uy tín**  
+
+HDBank received recognition at the 2026 Asian Banking & Finance Awards in Singapore for Retail Bank of the Year and SME Bank of the Year, marking the fifth consecutive year the bank has won these awards. The awards acknowledge HDBank's impressive loan growth rate, strong digital transaction penetration, and extensive network. The SME Bank of the Year award further validates the bank's capabilities in providing digitalized financial solutions and effective cash flow management for small and medium-sized enterprises.
+
+- Source: [VietnamNet](https://vietnamnet.vn/hdbank-ghi-dau-an-voi-bo-ba-giai-thuong-quoc-te-uy-tin-2532371.html)
 
 **Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
 
@@ -73,24 +85,12 @@ On June 25, a survey of online deposit interest rates showed Saigonbank leading 
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn)
 
-**Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng**  
-
-Gold prices for SJC bullion bars and gold rings have declined by over 15 million Vietnamese dong per tael in nearly one month. Experts suggest that gold prices may face difficulty declining sharply further following the recent downtrend. The article discusses banking interest rates and lending activities by major banks for projects by Vingroup, Sun Group, and Masterise.
-
-- Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
-
-**Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on June 24 shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintained rates at 6.8% per annum, while most listed banks quoted rates in the range of 6.5-6.9% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
 - [Lãi suất ngân hàng 23/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-23-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-188260623205829642.chn) — CafeF
-- [Lãi suất tiết kiệm biến động trái chiều](https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn) — CafeF
 
 ---
 

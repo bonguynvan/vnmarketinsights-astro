@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường tuần này
+# Tổng quan thị trường Việt Nam tuần này
 
-Kinh tế Việt Nam tiếp tục ghi nhận những tín hiệu tích cực với GDP quý II/2026 đạt mức tăng trưởng 8,39% - kỷ lục mới, đồng thời vốn FDI đăng ký đạt 34,65 tỷ USD trong 6 tháng đầu năm, tăng 61% so với cùng kỳ năm trước. Ngân hàng Nhà nước đã công bố các biện pháp nới lỏng tín dụng chiến lược, bao gồm nâng tỷ lệ cho vay từ vốn ngắn hạn từ 30% lên 40% để hỗ trợ các lĩnh vực bất động sản, hạ tầng và sản xuất kinh doanh. Đáng chú ý, Ngân hàng Thế giới chính thức xếp Việt Nam vào nhóm quốc gia thu nhập trung bình cao, với GNI bình quân đầu người đạt 4.970 USD năm 2025.
+Tuần qua, thị trường Việt Nam ghi nhận những tín hiệu tích cực với GDP quý II/2026 đạt mức tăng trưởng 8,39% so với cùng kỳ năm trước, lập kỷ lục mới, đồng thời Ngân hàng Nhà nước nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung và dài hạn từ 30% lên 40% nhằm mở rộng dư địa tín dụng. Bên cạnh đó, hàng loạt quy định mới về bảo hiểm y tế, bảo hiểm xã hội và các chính sách liên quan đến lương hưu đã chính thức có hiệu lực từ ngày 1/7, trong khi Samsung cam kết đầu tư thêm 1 tỷ USD vào Việt Nam trong năm 2026. Tuy nhiên, thị trường cũng chứng kiến các vấn đề pháp lý như vụ điều tra buôn lậu kim cương và lừa đảo liên quan đến hợp đồng kỳ nghỉ với số tiền bị chiếm đoạt lên tới hơn 2.600 tỷ đồng.
 
 ## Thanh toán
 
@@ -31,6 +31,20 @@ Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng t
 
 - Số liệu chính: Short-term to medium/long-term lending ratio increase: 30% to 40%; Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn)
+
+**Hàng triệu người đón tin vui lớn từ chính sách BHYT và BHXH mới**  
+
+Bắt đầu từ ngày 1/7, hàng loạt quy định mới liên quan đến bảo hiểm y tế (BHYT) và bảo hiểm xã hội (BHXH) chính thức có hiệu lực. Những thay đổi này nhằm mở rộng quyền lợi khám chữa bệnh, tăng mức hưởng trợ cấp và điều chỉnh lương hưu. Các điều chỉnh chính sách được dự kiến mang lại lợi ích thiết thực cho hàng triệu người dân trên toàn quốc.
+
+- Số liệu chính: Policy effective date: July 1
+- Nguồn: [CafeF](https://cafef.vn/hang-trieu-nguoi-don-tin-vui-lon-tu-chinh-sach-bhyt-va-bhxh-moi-188260703084054033.chn)
+
+**2.500 người sập bẫy 'hợp đồng kỳ nghỉ': Bộ Công an quyết thu hồi 2.600 tỷ đồng**  
+
+Hơn 2.500 người đã gửi đơn tố giác về lừa đảo liên quan đến hợp đồng kỳ nghỉ, với 40 vụ án liên quan hơn 525 bị can bị khởi tố. Bộ Công an xác định số tiền bị chiếm đoạt khoảng 2.600 tỷ đồng và cam kết điều tra toàn bộ đường dây lừa đảo cũng như thu hồi tối đa tài sản cho các bị hại. Bộ Công an cảnh báo 4 thủ đoạn được sử dụng để tác động vào tâm lý nhà đầu tư.
+
+- Số liệu chính: Số người gửi đơn tố giác: 2.500; Số vụ án: 40; Số bị can bị khởi tố: 525; Số tiền bị chiếm đoạt: 2.600 tỷ đồng
+- Nguồn: [CafeF](https://cafef.vn/2500-nguoi-sap-bay-hop-dong-ky-nghi-bo-cong-an-quyet-thu-hoi-2600-ty-dong-188260704161835588.chn)
 
 **Đường dây buôn lậu kim cương xuyên quốc gia với vai trò của Giám đốc PNJ - LAB**  
 
@@ -73,49 +87,21 @@ Từ ngày 1/7/2026, nhiều chính sách tiền lương mới có hiệu lực 
 - Số liệu chính: Minimum base salary: 2.53 million VND VND/month; Increase in pensions and social insurance allowances: 8% percent
 - Nguồn: [CafeF](https://cafef.vn/tang-luong-tu-hom-nay-188260701054243569.chn)
 
-**Tất cả người dân có bảo hiểm y tế trên cả nước sẽ được hưởng quyền lợi chưa từng có sau 1 ngày nữa**  
-
-Từ ngày 1/7/2026, những người tham gia bảo hiểm y tế tại Việt Nam sẽ được hưởng các quyền lợi mới. Người dân có thể tự đi khám, chữa bệnh ngoại trú tại các cơ sở y tế cấp cơ bản và chuyên sâu, với quỹ BHYT thanh toán 50% chi phí cho các bệnh chưa được thanh toán trước đây. Đây là một thay đổi quan trọng trong cấu trúc quyền lợi bảo hiểm y tế của Việt Nam.
-
-- Số liệu chính: Effective date: 1/7/2026 date; Insurance fund coverage for previously uncovered diseases: 50% percent
-- Nguồn: [CafeF](https://cafef.vn/tat-ca-nguoi-dan-co-bao-hiem-y-te-tren-ca-nuoc-se-duoc-huong-quyen-loi-chua-tung-co-sau-1-ngay-nua-188260630080123075.chn)
-
-**EU áp phí 3 euro với hàng online giá rẻ, giáng đòn mạnh vào Shein, Temu và AliExpress**  
-
-Liên minh châu Âu bắt đầu áp dụng mức phí 3 euro đối với hàng hóa thương mại điện tử giá thấp nhập khẩu từ Trung Quốc, trước đây được miễn thuế. Phí được tính theo từng mã phân loại hải quan trong một lô hàng, ví dụ một kiện ba loại sản phẩm khác nhau chịu 9 euro trong khi một kiện cùng loại hàng chỉ chịu 3 euro. Biện pháp này nhắm vào các nền tảng như Shein, Temu và AliExpress.
-
-- Số liệu chính: Import fee on low-value e-commerce goods: 3 euro; Equivalent value in Vietnamese dong: 90000 đồng; Total fee for 3 different product types per shipment: 9 euro; Equivalent total fee in Vietnamese dong: 270000 đồng
-- Nguồn: [TuoiTre](https://tuoitre.vn/eu-ap-phi-3-euro-voi-hang-online-gia-re-giang-don-manh-vao-shein-temu-va-aliexpress-100260701112057151.htm)
-
-**10 khoản thu nhập chịu thuế thu nhập cá nhân từ 1/7/2026**  
-
-Luật Thuế thu nhập cá nhân số 109/2025/QH15 sẽ chính thức có hiệu lực từ ngày 1/7/2026. Luật quy định cụ thể 10 khoản thu nhập chịu thuế bao gồm: thu nhập từ kinh doanh, tiền lương, đầu tư vốn, chuyển nhượng vốn và các khoản khác. Luật này thiết lập khung pháp lý toàn diện cho việc tính thuế thu nhập cá nhân tại Việt Nam.
-
-- Số liệu chính: Effective date of Personal Income Tax Law No. 109/2025/QH15: July 1, 2026; Number of taxable income categories: 10
-- Nguồn: [CafeF](https://cafef.vn/10-khoan-thu-nhap-chiu-thue-thu-nhap-ca-nhan-tu-1-7-2026-188260629214913138.chn)
-
-**Tất cả người lao động trên cả nước chú ý tin vui rất lớn về thuế áp dụng từ 1/7**  
-
-Luật Thuế thu nhập cá nhân 2025 sẽ có hiệu lực từ ngày 1/7/2026, mang đến miễn thuế cho tiền lương làm đêm và làm thêm giờ. Luật này mang đến những cải cách đột phá trong chính sách thuế thu nhập cá nhân. Đây được xem là tin tốt cho người lao động liên quan đến xử lý thuế đối với các khoản bổ cấp và bổ trợ công.
-
-- Số liệu chính: Effective date: July 1, 2026
-- Nguồn: [CafeF](https://cafef.vn/tat-ca-nguoi-lao-dong-tren-ca-nuoc-chu-y-tin-vui-rat-lon-ve-thue-ap-dung-tu-1-7-188260629195855642.chn)
-
 ## Chứng khoán
 
-**NCB hoàn thành đợt tăng vốn lớn nhất lịch sử, bổ nhiệm 2 Phó Tổng giám đốc**  
+**'Ông lớn' Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam trong năm nay, Bộ trưởng Bộ Tài chính đưa ra cam kết**  
 
-Ngân hàng TMCP Quốc Dân (NCB) hoàn tất phát hành riêng lẻ 1 tỷ cổ phiếu, nâng vốn điều lệ lên 29.280 tỷ đồng, đánh dấu lần tăng vốn lớn nhất trong lịch sử ngân hàng. Việc hoàn thành tăng vốn diễn ra sớm hơn 3 năm so với kế hoạch ban đầu. Ngân hàng đã bổ nhiệm 2 Phó Tổng giám đốc như một phần của các thay đổi tổ chức.
+Samsung dự kiến đầu tư thêm 1 tỷ USD vào Việt Nam trong năm 2026, theo cam kết của Bộ trưởng Bộ Tài chính. Hiện tại, Samsung có 6 nhà máy sản xuất, 1 trung tâm R&D và 1 pháp nhân bán hàng tại Việt Nam. Cam kết đầu tư này phản ánh mối quan tâm liên tục của nhà đầu tư nước ngoài đối với đất nước.
 
-- Số liệu chính: Shares issued: 1 billion; Charter capital after increase: 29,280 billion VND; Time ahead of schedule: 3 years
-- Nguồn: [CafeF](https://cafef.vn/ncb-hoan-thanh-dot-tang-von-lon-nhat-lich-su-bo-nhiem-2-pho-tong-giam-doc-188260630103443818.chn)
+- Số liệu chính: Khoản đầu tư dự kiến của Samsung tại Việt Nam: 1 tỷ USD; Số nhà máy sản xuất của Samsung tại Việt Nam: 6 nhà máy; Số trung tâm R&D của Samsung tại Việt Nam: 1 trung tâm; Số pháp nhân bán hàng của Samsung tại Việt Nam: 1 pháp nhân
+- Nguồn: [CafeF](https://cafef.vn/ong-lon-samsung-du-kien-rot-them-1-ty-usd-vao-viet-nam-trong-nam-nay-bo-truong-bo-tai-chinh-dua-ra-cam-ket-188260704082137183.chn)
 
-**VPBank ký kết khoản vay hợp vốn liên kết bền vững đầu tiên trị giá 1,44 tỷ USD**  
+**'Ông lớn' Dragon Capital, VinaCapital... 'ôm' hàng chục triệu cổ phiếu PNJ**  
 
-VPBank cùng 15 định chế tài chính quốc tế ký kết khoản vay hợp vốn liên kết bền vững (Sustainability-Linked Loan) lần đầu tiên với tổng giá trị 1,44 tỷ USD. Các ngân hàng đóng vai trò đơn vị thu xếp, bảo lãnh và dựng sổ chính (MLAUBs) trong giao dịch này. Lễ ký kết được tổ chức ngày 30/6/2026 tại trụ sở chính VPBank ở Hà Nội.
+Cổ phiếu PNJ giảm xuống 58.700 đồng sau thông tin cựu Giám đốc PNJ-Lab bị điều tra vụ buôn lậu kim cương xuyên quốc gia. Theo báo cáo thường niên 2025, cổ đông trong nước nắm 51,08% cổ phần (hơn 174,3 triệu cổ phiếu), trong khi cổ đông nước ngoài nắm 48,92% (khoảng 166,97 triệu cổ phiếu).
 
-- Số liệu chính: Sustainability-Linked Loan facility value: 1.44 billion USD; Number of international financial institutions involved: 15 institutions; Signing ceremony date: 30 June 2026 date
-- Nguồn: [CafeF](https://cafef.vn/vpbank-ky-ket-khoan-vay-hop-von-lien-ket-ben-vung-dau-tien-tri-gia-144-ty-usd-188260630191900985.chn)
+- Số liệu chính: PNJ share price: 58,700 VND; Domestic shareholder stake: 51.08 %; Domestic shareholding: 174.3 million shares; Foreign shareholder stake: 48.92 %
+- Nguồn: [TuoiTre](https://tuoitre.vn/ong-lon-dragon-capital-vinacapital-om-hang-chuc-trieu-co-phieu-pnj-100260704124539448.htm)
 
 ## Kinh tế vĩ mô
 
@@ -126,12 +112,32 @@ Cục Thống kê cho biết GDP quý II/2026 của Việt Nam đạt tăng trư
 - Số liệu chính: GDP growth Q2 2026: 8.39% year-over-year; GDP growth H1 2026: 8.18% year-over-year
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-thiet-lap-mot-ky-luc-chua-tung-co-ve-tang-truong-kinh-te-188260703135449473.chn)
 
-**"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
+**Tăng trưởng chưa đạt mục tiêu 2 con số: Kịch bản nào cho 6 tháng cuối năm?**  
 
-Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng tín dụng có trọng tâm thông qua các biện pháp chính sách, bao gồm cấp phép đặc biệt cho 18 dự án ưu tiên của Vingroup, Sun Group và Masterise. Ngân hàng trung ương điều chỉnh các chỉ số quản trị hệ thống và chuẩn bị bơm khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Những biện pháp này đại diện cho một sự thay đổi chính sách quan trọng hướng tới nới lỏng tín dụng chiến lược.
+Để đạt mục tiêu tăng trưởng 10% cả năm 2026, GDP trong 6 tháng cuối năm phải tăng 11,7%. Xuất khẩu đối mặt nhiều sức ép và khả năng chống chịu của doanh nghiệp còn hạn chế, vì vậy đầu tư công, sản xuất và tiêu dùng được kỳ vọng tốc độ tăng trưởng trong nửa cuối năm.
 
-- Số liệu chính: Number of priority projects receiving special allocation: 18; Credit injection amount: 1.5 quadrillion Vietnamese dong
-- Nguồn: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
+- Số liệu chính: Vietnam's 2026 annual growth target: 10% %; Required growth rate for second half of 2026: 11.7% %
+- Nguồn: [CafeF](https://cafef.vn/tang-truong-chua-dat-muc-tieu-2-con-so-kich-ban-nao-cho-6-thang-cuoi-nam-18826070408490092.chn)
+
+**GDP bình quân Việt Nam từng xếp thứ 193/194 thế giới, hiện nhảy bao nhiêu bậc?**  
+
+GDP bình quân Việt Nam đã tăng khoảng 40 lần từ năm 1990 đến 2025, từ khoảng 122 USD lên 4.829 USD theo dự báo của IMF. Quốc gia này đã vượt lên 71 bậc trong bảng xếp hạng GDP bình quân toàn cầu, từ vị trí 193/194 năm 1990 lên vị trí 122 năm 2025. Điều này phản ánh sự phát triển kinh tế của Việt Nam trong giai đoạn 35 năm.
+
+- Số liệu chính: Per capita GDP 1990: 122 USD; Per capita GDP 2025: 4829 USD; Global ranking 1990: 193/194 position; Global ranking 2025: 122 position
+- Nguồn: [CafeF](https://cafef.vn/gdp-binh-quan-viet-nam-tung-xep-thu-193-194-the-gioi-hien-nhay-bao-nhieu-bac-188260704115858101.chn)
+
+**Việt Nam vào nhóm các nền kinh tế có tốc độ tăng trưởng GDP hàng đầu thế giới**  
+
+GDP quý II của Việt Nam ước tăng 8,39% so với cùng kỳ năm trước, đưa nước ta vào nhóm các nền kinh tế có tốc độ tăng trưởng hàng đầu thế giới. Phó Thủ tướng Nguyễn Văn Thắng đánh giá kết quả phát triển kinh tế - xã hội 6 tháng đầu năm đạt nhiều điểm sáng tại phiên họp Chính phủ thường kỳ ngày 4/7. Kết quả này được xem là nền tảng quan trọng để phấn đấu hoàn thành các mục tiêu của cả năm.
+
+- Số liệu chính: GDP growth rate Q2: 8.39% year-over-year
+- Nguồn: [CafeF](https://cafef.vn/viet-nam-vao-nhom-cac-nen-kinh-te-co-toc-do-tang-truong-gdp-hang-dau-the-gioi-188260704203551563.chn)
+
+**Mặt trái của điện mặt trời: Tấm pin nổi phủ kín mặt hồ, ngư dân lao đao**  
+
+Các dự án điện mặt trời nổi quy mô lớn đang thay đổi sinh kế và tái cấu trúc đời sống cộng đồng ở một số khu vực. Tấm pin nổi trên hồ chứa ban đầu được coi là giải pháp hoàn hảo để tránh xung đột đất đai liên quan đến các dự án điện mặt trời trên bờ. Tuy nhiên, những cài đặt này đang tác động tiêu cực đến các cộng đồng ngư dân và sinh kế truyền thống dựa vào nước.
+
+- Nguồn: [VietnamNet](https://vietnamnet.vn/mat-trai-cua-dien-mat-troi-tam-pin-noi-phu-kin-mat-ho-ngu-dan-lao-dao-2531948.html)
 
 **Lãnh đạo NHNN: Trong mọi bối cảnh, ưu tiên hàng đầu vẫn là kiểm soát lạm phát**  
 
@@ -181,13 +187,6 @@ TP HCM lần đầu vào nhóm ba trung tâm tài chính hàng đầu Đông Nam
 
 - Số liệu chính: GFCI Index Number: 39; Ranking Month/Year: March 2026
 - Nguồn: [VnExpress](https://vnexpress.net/ha-tang-tai-chinh-he-tuan-hoan-cua-nen-kinh-te-tp-hcm-5092469.html)
-
-**TPHCM khởi công 8 công trình, dự án trọng điểm gần 10 tỷ USD**  
-
-Thành phố Hồ Chí Minh khởi công 8 dự án xây dựng và các sáng kiến trọng điểm với tổng mức đầu tư khoảng 253.033 tỷ đồng Việt Nam, tương đương khoảng 9,6 tỷ USD. Các nguồn tài trợ đa dạng, bao gồm đầu tư công, các khoản hợp tác công-tư (PPP), và đầu tư trực tiếp vốn tư nhân.
-
-- Số liệu chính: Total investment value (VND): 253.033 billion tỷ đồng; Total investment value (USD): 9.6 billion USD; Number of projects commenced: 8 projects
-- Nguồn: [CafeF](https://cafef.vn/tphcm-khoi-cong-8-cong-trinh-du-an-trong-diem-gan-10-ty-usd-188260701093756622.chn)
 
 ## Nền tảng
 

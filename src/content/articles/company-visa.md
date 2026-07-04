@@ -46,9 +46,9 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 ## Related coverage
 
 - [TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn) — CafeF
+- [Khách Việt sẵn sàng chi nhiều hơn cho du lịch số](https://tuoitre.vn/khach-viet-san-sang-chi-nhieu-hon-cho-du-lich-so-100260704150244018.htm) — TuoiTre
 - [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
 - [SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn) — CafeF
-- [Thêm Singapore, Việt Nam hiện đã mở rộng mạng lưới thanh toán QR xuyên biên giới với 6 quốc gia](https://cafef.vn/them-singapore-viet-nam-hien-da-mo-rong-mang-luoi-thanh-toan-qr-xuyen-bien-gioi-voi-6-quoc-gia-188260702154107665.chn) — CafeF
 
 ---
 
