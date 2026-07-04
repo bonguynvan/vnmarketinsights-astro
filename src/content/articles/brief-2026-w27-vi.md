@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 27/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 27 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-03"
-lastUpdated: "2026-07-03"
+publishedDate: "2026-07-04"
+lastUpdated: "2026-07-04"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường tuần này
+# Tổng quan tin tức thị trường tuần này
 
-Ngân hàng Nhà nước điều chỉnh các quy định quản lý thanh khoản và mở rộng dư địa cho vay bằng cách nâng tỷ lệ sử dụng vốn ngắn hạn cho vay trung dài hạn từ 30% lên 40% từ ngày 1/7/2026, dự kiến giải phóng hàng triệu tỷ đồng cho các lĩnh vực bất động sản, hạ tầng và sản xuất kinh doanh. Đồng thời, Việt Nam được Ngân hàng Thế giới thăng hạng lên nhóm quốc gia thu nhập trung bình cao với GNI bình quân đầu người 4.970 USD, và TP HCM lần đầu vào nhóm ba trung tâm tài chính hàng đầu Đông Nam Á. Ngoài ra, từ ngày 1/7/2026 có nhiều chính sách mới có hiệu lực liên quan đến lương cơ sở, bảo hiểm xã hội và bảo hiểm y tế.
+Kinh tế Việt Nam tiếp tục ghi nhận những tín hiệu tích cực với GDP quý II/2026 đạt mức tăng trưởng 8,39% - kỷ lục mới, đồng thời vốn FDI đăng ký đạt 34,65 tỷ USD trong 6 tháng đầu năm, tăng 61% so với cùng kỳ năm trước. Ngân hàng Nhà nước đã công bố các biện pháp nới lỏng tín dụng chiến lược, bao gồm nâng tỷ lệ cho vay từ vốn ngắn hạn từ 30% lên 40% để hỗ trợ các lĩnh vực bất động sản, hạ tầng và sản xuất kinh doanh. Đáng chú ý, Ngân hàng Thế giới chính thức xếp Việt Nam vào nhóm quốc gia thu nhập trung bình cao, với GNI bình quân đầu người đạt 4.970 USD năm 2025.
 
 ## Thanh toán
 
@@ -23,12 +23,6 @@ Chủ tịch VietinBank Trần Minh Bình khẳng định rằng phát triển t
 
 - Nguồn: [CafeF](https://cafef.vn/chu-tich-vietinbank-tran-minh-binh-vietinbank-xac-dinh-phat-trien-thanh-toan-so-xuyen-bien-gioi-la-mot-trong-nhung-mui-nhon-chien-luoc-quan-trong-trong-giai-doan-hien-nay-188260702154426178.chn)
 
-**Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
-
-Visa phối hợp cùng VPBank, Shinhan Bank Việt Nam và MB ra mắt nền tảng thanh toán thương mại toàn cầu (GTPP), là dịch vụ thanh toán thẻ thương mại xuyên biên giới đầu tiên tại Việt Nam. Nền tảng ban đầu tập trung vào hành lang thương mại Việt Nam - Hàn Quốc, cho phép doanh nghiệp nhập khẩu Việt Nam thanh toán cho nhà cung cấp Hàn Quốc bằng thẻ doanh nghiệp Visa. Sáng kiến nhằm tối ưu hóa thanh toán xuyên biên giới cho các doanh nghiệp.
-
-- Nguồn: [TuoiTre](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm)
-
 ## Pháp lý
 
 **Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng**  
@@ -37,6 +31,13 @@ Từ ngày 1/7/2026, Ngân hàng Nhà nước cho phép các ngân hàng nâng t
 
 - Số liệu chính: Short-term to medium/long-term lending ratio increase: 30% to 40%; Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn)
+
+**Đường dây buôn lậu kim cương xuyên quốc gia với vai trò của Giám đốc PNJ - LAB**  
+
+Cơ quan Cảnh sát điều tra Công an tỉnh Thanh Hóa vừa triệt phá đường dây buôn lậu kim cương xuyên quốc gia do các đối tượng người nước ngoài điều hành. Đặng Ngọc Thảo, Giám đốc Công ty PNJ-LAB, bị cáo buộc mài xóa mã số GIA trên kim cương nhập lậu và mài mã để dán lại theo mã số của PNJ-LAB rồi bán cho khách hàng. Đường dây buôn lậu này do các đối tượng người nước ngoài tổ chức.
+
+- Số liệu chính: Year of birth of Dang Ngoc Thao: 1974
+- Nguồn: [CafeF](https://cafef.vn/duong-day-buon-lau-kim-cuong-xuyen-quoc-gia-voi-vai-tro-cua-giam-doc-pnj-lab-188260703141813567.chn)
 
 **Mang sổ đỏ thế chấp cho khoản vay 18,5 tỷ, nhiều người có nguy cơ mất nhà đất**  
 
@@ -100,19 +101,6 @@ Luật Thuế thu nhập cá nhân 2025 sẽ có hiệu lực từ ngày 1/7/202
 - Số liệu chính: Effective date: July 1, 2026
 - Nguồn: [CafeF](https://cafef.vn/tat-ca-nguoi-lao-dong-tren-ca-nuoc-chu-y-tin-vui-rat-lon-ve-thue-ap-dung-tu-1-7-188260629195855642.chn)
 
-**DNSE hoàn tất chuẩn bị cho phiên giao dịch đầu tiên của thị trường carbon**  
-
-DNSE đã hoàn tất chuẩn bị hạ tầng giao dịch, lưu ký và thanh toán trước phiên giao dịch chính thức đầu tiên của thị trường carbon Việt Nam diễn ra ngày 29/6. DNSE được Sở Giao dịch Chứng khoán Việt Nam (VNX) chấp thuận tham gia hệ thống giao dịch carbon và nằm trong nhóm 5 công ty chứng khoán đầu tiên được Tổng Công ty Lưu ký và Bù trừ Chứng khoán Việt Nam (VSDC) chấp thuận tư cách thành viên lưu ký và thanh toán.
-
-- Số liệu chính: First official carbon market trading session date: June 29; Number of securities companies approved as custody and settlement members: 5
-- Nguồn: [VnExpress](https://vnexpress.net/dnse-hoan-tat-chuan-bi-cho-phien-giao-dich-dau-tien-cua-thi-truong-carbon-5090578.html)
-
-**Vietcombank cảnh báo: Khách hàng có thể mất sạch tiền trong thẻ nếu làm theo tin nhắn này**  
-
-Vietcombank đã phát cảnh báo về một chiêu thức lừa đảo mới khi những đối tượng mạo danh ngân hàng gửi tin nhắn SMS thông báo về điểm thưởng sắp hết hạn để dụ khách hàng vào website giả mạo và cung cấp thông tin thẻ cũng như mã OTP. Cảnh báo nhằm mục đích cảnh báo khách hàng về chiêu thức gian lận này nhắm đến các chủ thẻ. Ngày đăng tải cho thấy cảnh báo này được phát hành vào ngày 28 tháng 6 năm 2026.
-
-- Nguồn: [CafeF](https://cafef.vn/vietcombank-canh-bao-khach-hang-co-the-mat-sach-tien-trong-the-neu-lam-theo-tin-nhan-nay-188260628174644696.chn)
-
 ## Chứng khoán
 
 **NCB hoàn thành đợt tăng vốn lớn nhất lịch sử, bổ nhiệm 2 Phó Tổng giám đốc**  
@@ -131,12 +119,54 @@ VPBank cùng 15 định chế tài chính quốc tế ký kết khoản vay hợ
 
 ## Kinh tế vĩ mô
 
+**Việt Nam vừa thiết lập một kỷ lục chưa từng có về tăng trưởng kinh tế**  
+
+Cục Thống kê cho biết GDP quý II/2026 của Việt Nam đạt tăng trưởng 8,39% so với cùng kỳ năm trước, thiết lập kỷ lục mới. Tính chung 6 tháng đầu năm 2026, GDP tăng 8,18% so với cùng kỳ năm 2025. Thông tin được công bố vào sáng ngày 3/7 tại họp báo công bố số liệu thống kê kinh tế - xã hội quý II và 6 tháng đầu năm.
+
+- Số liệu chính: GDP growth Q2 2026: 8.39% year-over-year; GDP growth H1 2026: 8.18% year-over-year
+- Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-thiet-lap-mot-ky-luc-chua-tung-co-ve-tang-truong-kinh-te-188260703135449473.chn)
+
 **"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
 
 Ngân hàng Nhà nước đang phát tín hiệu về một chu kỳ mở rộng tín dụng có trọng tâm thông qua các biện pháp chính sách, bao gồm cấp phép đặc biệt cho 18 dự án ưu tiên của Vingroup, Sun Group và Masterise. Ngân hàng trung ương điều chỉnh các chỉ số quản trị hệ thống và chuẩn bị bơm khoảng 1,5 triệu tỷ đồng vào nền kinh tế. Những biện pháp này đại diện cho một sự thay đổi chính sách quan trọng hướng tới nới lỏng tín dụng chiến lược.
 
 - Số liệu chính: Number of priority projects receiving special allocation: 18; Credit injection amount: 1.5 quadrillion Vietnamese dong
 - Nguồn: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
+
+**Lãnh đạo NHNN: Trong mọi bối cảnh, ưu tiên hàng đầu vẫn là kiểm soát lạm phát**  
+
+Lãnh đạo Ngân hàng Nhà nước khẳng định rằng kiểm soát lạm phát vẫn là ưu tiên hàng đầu trong mọi bối cảnh kinh tế nhằm ổn định kinh tế vĩ mô và duy trì các cân đối lớn của nền kinh tế. Mục tiêu này được thực hiện xuyên suốt trong điều hành chính sách tiền tệ của NHNN và sẽ không thay đổi trước những biến động kinh tế toàn cầu. Tuyên bố này được đưa ra tại cuộc họp báo công bố kết quả điều hành chính sách tiền tệ và hoạt động ngân hàng 6 tháng đầu năm 2026.
+
+- Số liệu chính: Kỳ báo cáo: 6 tháng đầu năm 2026
+- Nguồn: [CafeF](https://cafef.vn/lanh-dao-nhnn-trong-moi-boi-canh-uu-tien-hang-dau-van-la-kiem-soat-lam-phat-188260703102856587.chn)
+
+**Mất 23 năm từ mức dưới 100 USD, nhóm nghèo nhất thế giới để lọt nhóm thu nhập trung bình thấp, Việt Nam mất bao lâu để trở thành nước có thu nhập trung bình cao?**  
+
+Ngân hàng Thế giới vừa chính thức xếp Việt Nam vào nhóm quốc gia có thu nhập trung bình cao và là quốc gia điển hình về sự tăng trưởng. Ngân hàng Thế giới công bố đánh giá này trong báo cáo ngày 01/07/2026, nhấn mạnh mô hình tăng trưởng dựa trên xuất khẩu của Việt Nam. Sự phát triển của Việt Nam được xem là một câu chuyện thành công tiêu biểu trong phát triển kinh tế toàn cầu.
+
+- Số liệu chính: Time for poorest group to move from under $100 USD to lower-middle income: 23 years; World Bank classification announcement date: July 1, 2026
+- Nguồn: [CafeF](https://cafef.vn/mat-23-nam-tu-muc-duoi-100-usd-nhom-ngheo-nhat-the-gioi-de-lot-nhom-thu-nhap-trung-binh-thap-viet-nam-mat-bao-lau-de-tro-thanh-nuoc-co-thu-nhap-trung-binh-cao-188260703082316163.chn)
+
+**Tăng trưởng GDP Việt Nam đạt hơn 8% trong 6 tháng đầu năm 2026**  
+
+GDP Việt Nam tăng 8,39% so với cùng kỳ năm trước trong quý II/2026. Khu vực nông, lâm nghiệp và thủy sản tăng 4,06%, đóng góp 5,65% vào mức tăng tổng giá trị tăng thêm của toàn nền kinh tế. Khu vực công nghiệp và xây dựng tăng 10,51%.
+
+- Số liệu chính: GDP growth rate - Q2 2026: 8.39% percent year-over-year; Agriculture, forestry, and fisheries growth: 4.06% percent; Agriculture, forestry, and fisheries contribution to GDP growth: 5.65% percent; Industrial and construction sector growth: 10.51% percent
+- Nguồn: [CafeF](https://cafef.vn/tang-truong-gdp-viet-nam-dat-hon-8-trong-6-thang-dau-nam-2026-188260703092513223.chn)
+
+**Không phải dầu mỏ, Việt Nam có kho báu khác cả thế giới thèm khát, 80% trữ lượng nằm tại một tỉnh miền Trung**  
+
+Việt Nam sở hữu một nguồn tài nguyên thiên nhiên có giá trị cao được cả thế giới nhu cầu, với 80% trữ lượng tập trung tại một tỉnh miền Trung. Theo S&P Global, xe điện đang trở thành một xu hướng mới nổi với tiềm năng phát triển đáng kể. Cơ quan Năng lượng Quốc tế (IEA) ước tính nhu cầu dầu toàn cầu sẽ giảm dần do sự phát triển của xe điện, và dự báo nhu cầu xe điện sẽ tăng mạnh trong thập kỷ tới, làm thay đổi toàn diện ngành công nghiệp ô tô.
+
+- Số liệu chính: Share of reserves in one central province: 80% %
+- Nguồn: [CafeF](https://cafef.vn/khong-phai-dau-mo-viet-nam-co-kho-bau-khac-ca-the-gioi-them-khat-80-tru-luong-nam-tai-mot-tinh-mien-trung-188260703145051789.chn)
+
+**Vốn FDI vào Việt Nam vượt 34 tỷ USD, tăng mạnh so với năm ngoái**  
+
+Vốn đầu tư trực tiếp nước ngoài (FDI) đăng ký vào Việt Nam đạt 34,65 tỷ USD tính đến ngày 30/6, tăng 61,0% so với cùng kỳ năm trước. Singapore là nhà đầu tư lớn nhất trong 63 quốc gia và vùng lãnh thổ có dự án được cấp phép mới, với 7,31 tỷ USD, tiếp theo là Hàn Quốc, Nhật Bản và Trung Quốc. Vốn FDI thực hiện trong 6 tháng đầu năm ước đạt 13,03 tỷ USD.
+
+- Số liệu chính: Total registered FDI inflow by June 30: 34.65 billion USD; FDI growth rate year-over-year: 61.0 %; FDI from Singapore: 7.31 billion USD; Realized FDI in first six months: 13.03 billion USD
+- Nguồn: [CafeF](https://cafef.vn/von-fdi-vao-viet-nam-vuot-34-ty-usd-tang-manh-so-voi-nam-ngoai-188260703125929398.chn)
 
 **Việt Nam chính thức được World Bank xếp vào nhóm thu nhập trung bình cao**  
 
@@ -158,33 +188,6 @@ Thành phố Hồ Chí Minh khởi công 8 dự án xây dựng và các sáng k
 
 - Số liệu chính: Total investment value (VND): 253.033 billion tỷ đồng; Total investment value (USD): 9.6 billion USD; Number of projects commenced: 8 projects
 - Nguồn: [CafeF](https://cafef.vn/tphcm-khoi-cong-8-cong-trinh-du-an-trong-diem-gan-10-ty-usd-188260701093756622.chn)
-
-**Phó Thủ tướng Thường trực: Chuyển từ thu hút nhiều FDI sang ưu tiên dự án công nghệ tiên tiến**  
-
-Phó Thủ tướng Thường trực nhấn mạnh sự chuyển đổi chiến lược từ thu hút khối lượng lớn vốn đầu tư nước ngoài sang ưu tiên các dự án có công nghệ tiên tiến và đổi mới sáng tạo. Quan điểm này được Phó Thủ tướng Thường trực Phạm Gia Túc trình bày trong hội nghị toàn quốc ngày 30/6 khi thảo luận về Nghị quyết số 10 của Bộ Chính trị về phát triển kinh tế có vốn đầu tư nước ngoài. Chính sách này thể hiện sự thay đổi hướng tới tiêu chí lựa chọn đầu tư nước ngoài có chọn lọc và chất lượng cao.
-
-- Nguồn: [CafeF](https://cafef.vn/pho-thu-tuong-thuong-truc-chuyen-tu-thu-hut-nhieu-fdi-sang-uu-tien-du-an-cong-nghe-tien-tien-1882606301023172.chn)
-
-**Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán**  
-
-Chính phủ Việt Nam ban hành Nghị quyết số 168 nhằm cập nhật kịch bản tăng trưởng và các giải pháp trọng tâm cho những quý còn lại, với mục tiêu đạt mức tăng trưởng GDP 10% trong năm 2026. Từ góc độ thị trường chứng khoán, ý nghĩa nằm ở con số tăng trưởng và những thay đổi trong cách điều hành nền kinh tế. Nghị quyết này đánh dấu một sự chuyển dịch từ những giai đoạn trước khi mục tiêu tăng trưởng chủ yếu được đặt ở cấp quốc gia.
-
-- Số liệu chính: GDP Growth Target: 10% percent; Target Year: 2026 year
-- Nguồn: [VietnamNet](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html)
-
-**Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm**  
-
-Chính phủ Việt Nam đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm 2026 để đạt mức tăng trưởng hai chữ số cho cả năm. Chính phủ đã áp dụng kịch bản tăng trưởng này để hỗ trợ các mục tiêu tăng trưởng GDP hàng năm. Thông báo được công bố vào ngày 29 tháng 6 năm 2026.
-
-- Số liệu chính: GDP growth target for final 6 months of 2026: 11.9% percent; Target for full year 2026: double-digit range
-- Nguồn: [CafeF](https://cafef.vn/chinh-phu-dat-muc-tieu-tang-truong-gdp-119-trong-6-thang-cuoi-nam-188260629071737922.chn)
-
-**Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước**  
-
-Chính phủ yêu cầu Ngân hàng Nhà nước nghiên cứu các biện pháp tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi của Kho bạc Nhà nước tại các ngân hàng thương mại trong năm 2026. Chính phủ đã ban hành Nghị quyết 168/NQ-CP ngày 27/6/2026 cập nhật kịch bản tăng trưởng và các giải pháp trọng tâm cho các quý còn lại của năm. Mục đích là bổ sung thanh khoản cho hệ thống ngân hàng thông qua việc nâng tỷ lệ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại các ngân hàng thương mại."
-
-- Số liệu chính: Government Resolution: 168/NQ-CP; Resolution Date: June 27, 2026
-- Nguồn: [CafeF](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn)
 
 ## Nền tảng
 

@@ -1,17 +1,23 @@
 ---
 title: "NAPAS — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning NAPAS, with neutral summaries and source links."
-publishedDate: "2026-07-03"
-lastUpdated: "2026-07-03"
+publishedDate: "2026-07-04"
+lastUpdated: "2026-07-04"
 category: "Company"
 readingTime: 3
 ---
 
 # NAPAS
 
-Recent Vietnam market news mentioning **NAPAS** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **NAPAS** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu**  
+
+TPBank is expanding its cross-border QR payment connections to strengthen its global digital banking ecosystem. The bank is among the first to implement the VietQRGlobal cross-border QR payment service alongside NAPAS. The expansion aims to serve customers on international journeys and help Vietnamese shops and businesses connect more conveniently with global customer flows.
+
+- Source: [CafeF](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn)
 
 **Chính thức ra mắt dịch vụ thanh toán xuyên biên giới Việt Nam - Singapore từ hôm nay 02/7**  
 
@@ -45,10 +51,10 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 
 ## Related coverage
 
-- [BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn) — CafeF
 - [Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm) — TuoiTre
-- [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://cafef.vn/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-188260623213753156.chn) — CafeF
-- [Từ 1-7: Doanh nghiệp chuyển khoản từ 10 triệu đồng phải xác thực khuôn mặt người đại diện pháp luật](https://cafef.vn/tu-1-7-doanh-nghiep-chuyen-khoan-tu-10-trieu-dong-phai-xac-thuc-khuon-mat-nguoi-dai-dien-phap-luat-188260702072600569.chn) — CafeF
+- [BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn) — CafeF
+- [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
+- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 

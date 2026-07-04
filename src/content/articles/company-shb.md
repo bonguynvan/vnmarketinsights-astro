@@ -1,17 +1,23 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-03"
-lastUpdated: "2026-07-03"
+publishedDate: "2026-07-04"
+lastUpdated: "2026-07-04"
 category: "Company"
 readingTime: 3
 ---
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SHB bổ sung lớp cảnh báo rủi ro trong giao dịch chuyển tiền điện tử**  
+
+SHB has announced the implementation of a fraud detection warning feature on its electronic transaction channels starting July 1, 2026. The new feature will automatically alert customers when a recipient account shows signs of suspicious activity or fraud. This measure is designed to strengthen transaction security and help customers proactively manage risks in the context of increasingly sophisticated financial fraud schemes.
+
+- Source: [CafeF](https://cafef.vn/shb-bo-sung-lop-canh-bao-rui-ro-trong-giao-dich-chuyen-tien-dien-tu-188260702211640347.chn)
 
 **SHB vào top 200 doanh nghiệp lớn nhất Đông Nam Á**  
 
@@ -41,8 +47,8 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
 - [BIDV nhận giải thưởng Sáng kiến Trải nghiệm khách hàng tốt nhất Việt Nam](https://cafef.vn/bidv-nhan-giai-thuong-sang-kien-trai-nghiem-khach-hang-tot-nhat-viet-nam-188260622110712046.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
-- [VPBank đứng đầu nhóm ngân hàng tư nhân Việt Nam trong bảng xếp hạng Forbes Global 2000](https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn) — CafeF
+- [SHS dự kiến phát hành 500 tỷ đồng trái phiếu riêng lẻ trong quý III](https://cafef.vn/shs-du-kien-phat-hanh-500-ty-dong-trai-phieu-rieng-le-trong-quy-iii-188260628084857371.chn) — CafeF
+- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 
