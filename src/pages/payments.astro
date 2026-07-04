@@ -7,7 +7,7 @@ import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Payments Market 2026 — Size, Players, Trends & Data";
-const description = "Vietnam payments market report: size and growth, e-wallets (MoMo, ZaloPay, ViettelPay), QR/VietQR adoption, banking rails, regulation, and 2025 data with sources.";
+const description = "Vietnam payments market report: size and growth, e-wallets (MoMo, ZaloPay, ViettelPay), QR/VietQR adoption, banking rails, regulation, and full-year 2025 data with sources.";
 const canonicalURL = "https://vnmarketinsights.com/payments";
 
 const sections = [
@@ -25,7 +25,7 @@ const sections = [
 ];
 
 const sources = [
-  { name: 'State Bank of Vietnam — non-cash payment & QR statistics (2024–2025)', url: 'https://sbv.gov.vn', description: 'Official central bank data: 17.7bn non-cash transactions 2024 (+56%); QR value +159.6% YoY in 7M 2025; 80% cashless target by 2030' },
+  { name: 'State Bank of Vietnam — cashless payment report, full-year 2025 (released Feb 2026)', url: 'https://sbv.gov.vn', description: 'Official central bank data: 2025 cashless value ≈28× GDP; non-cash transactions +42.2% volume / +22.7% value YoY; QR value +124.1% YoY; 232M individual payment accounts; 66.8% of e-commerce cashless; targets 30× GDP value and 95% banked adults by 2030' },
   { name: 'NAPAS Payment Statistics', url: 'https://napas.com.vn', description: 'National payment switch transaction data' },
   { name: 'Ministry of Industry and Trade E-commerce Report', url: 'https://moit.gov.vn', description: 'E-commerce and digital payment indicators' },
   { name: 'World Bank Global Findex 2021', url: 'https://worldbank.org', description: 'Financial inclusion and payment access data' },
@@ -40,7 +40,7 @@ const limitations = [
   'Cross-border payment flows include informal channels difficult to track'
 ];
 
-const lastUpdated = "2026-02-08";
+const lastUpdated = "2026-07-04";
 
 const relatedTopics = getRelatedTopics('payments', 4);
 
@@ -53,7 +53,7 @@ const structuredData = [{
   "name": "Vietnam Payment Methods and Statistics",
   "description": "Comprehensive data on Vietnam's payment infrastructure and adoption rates",
   "creator": { "@type": "Organization", "name": "Vietnam Market Insights" },
-  "temporalCoverage": "2024/2026"
+  "temporalCoverage": "2021/2026"
 }];
 
 const faqs = [
@@ -102,7 +102,7 @@ const faqs = [
   <h1>Vietnam Payments System</h1>
 
   <p class="topic-definition">
-    <strong>Vietnam's payment system</strong> is the infrastructure, instruments, and regulations that move money between consumers, businesses, banks, and government. It runs on the <strong>NAPAS national switch</strong> and connects banks (Vietcombank, BIDV, VietinBank, Techcombank), card schemes (NAPAS, Visa, Mastercard, JCB), and e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay). The <strong>VietQR standard</strong> enables instant interoperable QR transfers across all participating institutions. Non-cash transactions reached 17.7 billion in 2024 (up 56% year over year) and continued to accelerate through 2025 — QR-code payment value rose roughly 160% year on year in the first seven months of 2025 — though cash and cash-on-delivery remain significant in rural areas.
+    <strong>Vietnam's payment system</strong> is the infrastructure, instruments, and regulations that move money between consumers, businesses, banks, and government. It runs on the <strong>NAPAS national switch</strong> and connects banks (Vietcombank, BIDV, VietinBank, Techcombank), card schemes (NAPAS, Visa, Mastercard, JCB), and e-wallets (MoMo, ZaloPay, ViettelPay, ShopeePay, VNPay). The <strong>VietQR standard</strong> enables instant interoperable QR transfers across all participating institutions. By full-year 2025 the value of cashless payments reached roughly <strong>28 times GDP</strong> — far exceeding government targets — with non-cash transaction volume up about 42% year over year. QR-code payments are the breakout rail, their value growing roughly 124% in 2025, while individual payment accounts passed 232 million and cashless methods handled 66.8% of e-commerce. Cash and cash-on-delivery still remain significant in rural areas.
   </p>
 
   <section id="definition" class="content-section">
@@ -129,29 +129,29 @@ const faqs = [
     <DataTable
       headers={['Metric', 'Value', 'Period']}
       rows={[
-        ['Non-cash transactions (count)', '17.7 billion (+56% YoY)', '2024'],
-        ['Non-cash transactions (H1)', '12+ billion', 'H1 2025'],
-        ['QR transaction value growth', '+159.6% YoY', '7M 2025'],
-        ['QR transaction volume growth', '+66.7% YoY', '7M 2025'],
-        ['E-wallet market share (of payments)', '36.1%', '2025'],
-        ['Active e-wallets', '34+ million', '2025'],
+        ['Cashless payment value', '≈28× GDP', '2025'],
+        ['Non-cash transactions growth', '+42.2% volume / +22.7% value', '2025 YoY'],
+        ['QR payment value growth', '+124.1% YoY', '2025'],
+        ['QR payment volume growth', '+50.9% YoY', '2025'],
+        ['Individual payment accounts', '232 million (+13.7%)', 'Dec 2025'],
+        ['Bank cards in circulation', '164 million (+5.3%)', 'Dec 2025'],
+        ['Cashless share of e-commerce', '66.8%', 'End 2025'],
         ['Licensed payment-service providers', '53 (49 e-wallets)', '2025'],
-        ['Digital share of transactions', '60-65%', '2024'],
-        ['Debit cards issued', '80+ million', '2024'],
-        ['Cashless target', '80% of transactions', 'by 2030']
+        ['POS terminals growth', '+19.9%', '2025'],
+        ['Cashless value target', '30× GDP', 'by 2030']
       ]}
-      caption="Vietnam Payment System Key Metrics (latest available; see Sources)"
+      caption="Vietnam Payment System Key Metrics (SBV full-year 2025 report; see Sources)"
     />
 
     <BarChart
-      title="Vietnam cashless growth — year-on-year"
+      title="Vietnam cashless growth — 2025 year-on-year"
       unit="%"
       data={[
-        { label: 'Non-cash transactions (2024)', value: 56, display: '+56%' },
-        { label: 'QR volume (7M 2025)', value: 66.7, display: '+66.7%' },
-        { label: 'QR value (7M 2025)', value: 159.6, display: '+159.6%' },
+        { label: 'Non-cash volume (2025)', value: 42.21, display: '+42%' },
+        { label: 'QR volume (2025)', value: 50.94, display: '+51%' },
+        { label: 'QR value (2025)', value: 124.06, display: '+124%' },
       ]}
-      source="State Bank of Vietnam (SBV), 2024–2025"
+      source="State Bank of Vietnam (SBV) full-year 2025 report, Feb 2026"
       caption="QR-code payments are the breakout rail, with value growing far faster than volume."
     />
 
