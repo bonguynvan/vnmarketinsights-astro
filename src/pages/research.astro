@@ -106,6 +106,49 @@ const examples = [
         { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]
       ));
 
+    // Inline markdown on ALREADY-escaped text (never re-escapes, so no HTML injection).
+    const inlineMd = (s) =>
+      s
+        .replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,
+          '<a href="$2" target="_blank" rel="noopener nofollow">$1</a>')
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/__([^_]+)__/g, '<strong>$1</strong>')
+        .replace(/(^|[^*])\*([^*\n]+)\*(?!\*)/g, '$1<em>$2</em>')
+        .replace(/`([^`]+)`/g, '<code>$1</code>')
+        // Superscript bare citation markers like [1] or [2, 3].
+        .replace(/\[(\d+(?:\s*,\s*\d+)*)\]/g, '<sup class="rs-cite">[$1]</sup>');
+
+    // Minimal, safe markdown → HTML for the research answer.
+    function mdToHtml(raw) {
+      const lines = String(raw ?? '').replace(/\r\n/g, '\n').split('\n');
+      const out = [];
+      let list = null; // 'ul' | 'ol'
+      const closeList = () => { if (list) { out.push('</' + list + '>'); list = null; } };
+
+      for (const rawLine of lines) {
+        const line = rawLine.replace(/\s+$/, '');
+        if (!line.trim()) { closeList(); continue; }
+        const e = esc(line);
+        let m;
+
+        if ((m = e.match(/^#{1,6}\s+(.*)$/))) { closeList(); out.push('<h3>' + inlineMd(m[1]) + '</h3>'); continue; }
+        if ((m = e.match(/^[-*+]\s+(.*)$/))) {
+          if (list !== 'ul') { closeList(); list = 'ul'; out.push('<ul>'); }
+          out.push('<li>' + inlineMd(m[1]) + '</li>'); continue;
+        }
+        if ((m = e.match(/^\d+\.\s+(.*)$/))) {
+          if (list !== 'ol') { closeList(); list = 'ol'; out.push('<ol>'); }
+          out.push('<li>' + inlineMd(m[1]) + '</li>'); continue;
+        }
+        if ((m = e.match(/^&gt;\s?(.*)$/))) { closeList(); out.push('<blockquote>' + inlineMd(m[1]) + '</blockquote>'); continue; }
+
+        closeList();
+        out.push('<p>' + inlineMd(e) + '</p>');
+      }
+      closeList();
+      return out.join('\n');
+    }
+
     function render(data) {
       hide(loading);
       if (!data || !data.success || !data.available) {
@@ -123,11 +166,7 @@ const examples = [
         source.className = 'rs-source rs-source--corpus';
       }
 
-      $('rs-answer').innerHTML = String(data.answer || '')
-        .split(/\n{2,}/)
-        .filter(Boolean)
-        .map((p) => '<p>' + esc(p.trim()) + '</p>')
-        .join('');
+      $('rs-answer').innerHTML = mdToHtml(data.answer || '');
 
       const note = $('rs-note');
       if (data.note) { note.textContent = data.note; show(note); } else { hide(note); }
@@ -224,7 +263,21 @@ const examples = [
   .rs-source { font-size: var(--text-xs); font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
   .rs-source--live { color: #15803d; }
   .rs-source--corpus { color: var(--color-text-muted); }
+  .rs-answer { line-height: 1.7; color: var(--color-text); }
+  .rs-answer > :first-child { margin-top: 0; }
+  .rs-answer > :last-child { margin-bottom: 0; }
   .rs-answer p { line-height: 1.7; margin: 0 0 var(--space-3); }
+  .rs-answer h3 { font-size: var(--text-lg); font-weight: 700; line-height: 1.35; margin: var(--space-5) 0 var(--space-2); border: none; padding: 0; }
+  .rs-answer ul, .rs-answer ol { margin: 0 0 var(--space-3); padding-left: 1.4rem; display: flex; flex-direction: column; gap: 0.35rem; }
+  .rs-answer li { line-height: 1.6; }
+  .rs-answer li::marker { color: var(--color-text-muted); }
+  .rs-answer strong { font-weight: 700; color: var(--color-text); }
+  .rs-answer em { font-style: italic; }
+  .rs-answer a { color: var(--color-accent); text-decoration: none; }
+  .rs-answer a:hover { text-decoration: underline; }
+  .rs-answer code { font-family: var(--font-mono, ui-monospace, monospace); font-size: 0.875em; padding: 0.1em 0.35em; border-radius: 3px; background: color-mix(in srgb, var(--color-text) 8%, transparent); }
+  .rs-answer blockquote { margin: var(--space-3) 0; padding: 0.25rem 0 0.25rem var(--space-4); border-left: 3px solid var(--color-border); color: var(--color-text-muted); font-style: italic; }
+  .rs-answer .rs-cite { font-size: 0.7em; font-weight: 600; color: var(--color-accent); vertical-align: super; line-height: 0; margin-left: 1px; }
   .rs-note { font-size: var(--text-sm); color: var(--color-text-muted); font-style: italic; margin: var(--space-2) 0 0; }
   .rs-citations { margin-top: var(--space-5); }
   .rs-citations h2 { font-size: var(--text-base); margin: 0 0 var(--space-2); border: none; }
