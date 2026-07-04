@@ -1,7 +1,7 @@
 // Semantic search over the precomputed, AI-enriched news corpus.
 //
 // Replaces the old request-time RSS fetch + Gemini *generation* path. The only
-// live call here is a single, cheap query *embedding* (text-embedding-004);
+// live call here is a single, cheap query *embedding* (gemini-embedding-001);
 // everything else (summaries, sentiment, topics) is precomputed by the pipeline
 // and shipped in src/data/news-index.json. Falls back to keyword matching when
 // no embedding is available, so search always returns something.
