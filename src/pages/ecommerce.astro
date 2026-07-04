@@ -8,18 +8,18 @@ import { getRelatedTopics } from '../data/topic-graph';
 // Title is year-pinned to signal freshness and capture year-based queries.
 // Bump the year + lastUpdated date during the annual content refresh.
 const title = "Vietnam E-commerce Market 2026 — Size, Platforms, GMV & Data";
-const lastUpdated = "February 2026";
+const lastUpdated = "July 2026";
 
 const relatedTopics = getRelatedTopics('ecommerce');
 
 const faqs = [
   {
     question: "How big is the e-commerce market in Vietnam?",
-    answer: "Vietnam's B2C e-commerce revenue reached approximately $31 billion in 2025 (Ministry of Industry and Trade / VECOM), accounting for nearly 10% of total retail sales of goods and consumer services, after several years of 20–25%+ annual growth. Narrower marketplace-GMV estimates run lower, so figures vary by definition."
+    answer: "Vietnam's B2C e-commerce revenue reached approximately $31 billion in 2025 (Ministry of Industry and Trade / VECOM), accounting for nearly 10% of total retail sales of goods and consumer services, after several years of 20–25%+ annual growth. On the narrower four-marketplace measure, Metric put full-year 2025 GMV at about $16.4 billion (VND 429.7 trillion), up ~35% year over year — figures vary by definition."
   },
   {
     question: "What are the major e-commerce platforms in Vietnam?",
-    answer: "Shopee leads with about 60–65% market share by GMV, followed by Lazada (20–25%), TikTok Shop (rapidly growing in live commerce), and domestic platforms Tiki and Sendo. Facebook and Zalo dominate social commerce."
+    answer: "By full-year 2025 marketplace GMV (Metric), Shopee led with about 56% and TikTok Shop had surged to roughly 41% — together about 97% of the market. Lazada and Tiki's combined share fell to around 3%. Facebook and Zalo dominate social commerce. Shopee's share slipped from ~64% in 2024 as TikTok Shop's 'shoppertainment' model gained ground."
   },
   {
     question: "How do people pay for online shopping in Vietnam?",
@@ -42,7 +42,7 @@ const faqs = [
 
 <TopicLayout title={title} lastUpdated={lastUpdated} relatedTopics={relatedTopics} faqs={faqs}>
   <p class="topic-definition">
-    <strong>E-commerce in Vietnam</strong> refers to the buying and selling of goods and services through online platforms — marketplaces, social networks, branded apps, and direct-to-consumer websites. As of 2025, B2C e-commerce revenue reached approximately <strong>$31 billion</strong> (Ministry of Industry and Trade), accounting for nearly 10% of total retail sales after years of 20–25%+ annual growth. It spans marketplaces (Shopee, Lazada, Tiki, TikTok Shop), social commerce (Facebook, Zalo), and platform-integrated logistics serving a base of more than 60 million online shoppers.
+    <strong>E-commerce in Vietnam</strong> refers to the buying and selling of goods and services through online platforms — marketplaces, social networks, branded apps, and direct-to-consumer websites. On the broad measure, B2C e-commerce revenue reached roughly <strong>$31 billion</strong> in 2025 (Ministry of Industry and Trade), nearly 10% of total retail sales after years of 20–25%+ annual growth. By the narrower four-marketplace measure, Metric reported full-year 2025 GMV across Shopee, TikTok Shop, Lazada and Tiki of about <strong>$16.4 billion</strong> (VND 429.7 trillion), up ~35% year over year on 3.9 billion products sold. It spans marketplaces, social commerce (Facebook, Zalo), and platform-integrated logistics serving a base of more than 60 million online shoppers.
   </p>
 
   <section>
@@ -115,16 +115,15 @@ const faqs = [
     </ul>
 
     <BarChart
-      title="Platform share of marketplace GMV (Vietnam)"
+      title="Platform share of marketplace GMV (Vietnam, 2025)"
       unit="%"
       data={[
-        { label: 'Shopee', value: 65, display: '65%' },
-        { label: 'TikTok Shop', value: 28, display: '28%' },
-        { label: 'Lazada', value: 6, display: '6%' },
-        { label: 'Tiki', value: 1, display: '1%' },
+        { label: 'Shopee', value: 56, display: '56%' },
+        { label: 'TikTok Shop', value: 41, display: '41%' },
+        { label: 'Lazada + Tiki', value: 3, display: '~3%' },
       ]}
-      source="Metric, 2024"
-      caption="2024 shares across the top four marketplaces. Through 2025, TikTok Shop gained rapidly (toward ~41%) while Shopee eased (toward ~56%)."
+      source="Metric — Vietnam E-commerce Report 2025 (full year)"
+      caption="Full-year 2025 shares. TikTok Shop surged to ~41% (from 29% in 2024) while Shopee eased to ~56% (from ~64%); together they hold ~97% of marketplace GMV, and Lazada + Tiki fell to ~3%."
     />
 
     <h3>Social and Live Commerce</h3>
