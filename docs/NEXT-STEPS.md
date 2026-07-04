@@ -26,7 +26,8 @@ Files (no edits needed): `src/utils/perplexityResearch.ts`, `src/pages/api/resea
 ## 2. VN Trend microservice (`/trends/daily`) — deploy + env
 
 Standalone service (Google Trends + YouTube + daily AI synthesis). Repo:
-**github.com/bonguynvan/vn-trend-service** (private). The site page `/trends/daily`
+**github.com/bonguynvan/vn-trend-service** (private), deployed on **Coolify/Hetzner**
+at **`https://api.vnmarketinsights.com`**. The site page `/trends/daily`
 shows "being set up" until `TREND_SERVICE_URL` is set.
 
 ### a. Deploy the service (Coolify)
@@ -34,17 +35,20 @@ shows "being set up" until `TREND_SERVICE_URL` is set.
 - [ ] Pick a long random **`RUN_TOKEN`** (protects the manual-trigger endpoint).
 - [ ] Coolify → New Resource → Docker Compose → point at the repo.
 - [ ] Set service env vars: `ANTHROPIC_API_KEY`, `YOUTUBE_API_KEY`, `RUN_TOKEN`.
-- [ ] **Host in a VN/SG region** — Google Trends (pytrends) is geo/rate-sensitive; US runners were the original "platform API limits" failure.
-- [ ] Set a domain, e.g. `trends-api.vnmarketinsights.com`.
+- [x] Deployed on Coolify/Hetzner (Helsinki). Note: Google Trends (pytrends) is
+      geo/rate-sensitive; a `google_trends:0` count is expected there and is not a
+      deploy failure — YouTube + the AI summary still carry the output.
+- [x] Domain set: `api.vnmarketinsights.com`.
 - [ ] Smoke-test:
   ```bash
-  curl -X POST https://trends-api.vnmarketinsights.com/api/run-now \
+  curl -X POST https://api.vnmarketinsights.com/api/run-now \
        -H "Authorization: Bearer <RUN_TOKEN>"
-  curl https://trends-api.vnmarketinsights.com/api/summary
+  curl https://api.vnmarketinsights.com/api/summary
   ```
 
 ### b. Connect the site _(env only)_
-- [ ] In **Vercel** add `TREND_SERVICE_URL` = `https://trends-api.vnmarketinsights.com`.
+- [ ] In your **site host** env (Vercel or Coolify — wherever the Astro site
+      runs) add `TREND_SERVICE_URL` = `https://api.vnmarketinsights.com`.
 - [ ] Redeploy. `/trends/daily` lights up automatically.
 - [ ] _(optional)_ Ask me to add `/trends/daily` to the nav/footer once it's live (currently only reachable via the `/trends` breadcrumb).
 
@@ -79,23 +83,23 @@ Currently labeled as **illustrative demo data**. To make it real:
 
 ---
 
-## 5. Telegram news channel (public) — build when ready
+## 5. Telegram news channel (public) — _(built; env only)_
 
-Push the news digest from the pipeline to a **public Telegram channel** (you
-receive it + it's a distribution/backlink channel). Plumbing is half-built:
-`pipeline/vnnews/notify.py` already finds the latest brief and has a weekly guard.
+**Built.** `pipeline/vnnews/telegram.py` posts the day's top English headlines
+(most important first, from the enriched corpus) to a public Telegram channel,
+wired into the news-pipeline cron (`run.py all`, after `notify`). Env-gated +
+best-effort + once-per-UTC-day guard — no-op until both secrets are set.
 
-What you do first:
-- [ ] Decide cadence — **daily headlines** (more engaging for a public channel) vs
-      **weekly brief** (low noise). _Leaning: daily for a public channel._
+To turn it on:
 - [ ] Create the public channel; add your bot as an **admin** (so it can post).
-- [ ] Grab the bot token and the channel id (`@channelusername`, or the numeric
-      `-100…` id).
-- [ ] Add GitHub Actions secrets: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL`.
+- [ ] Grab the bot token and channel id (`@channelusername`, or numeric `-100…`).
+- [ ] Add GitHub Actions secrets: `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHANNEL`
+      (**GitHub → repo → Settings → Secrets and variables → Actions**).
+- [ ] Next daily run (or trigger **Actions → News Pipeline → Run workflow**) posts
+      automatically. Test locally: `cd pipeline && python run.py telegram`.
 
-Then ask me to build it — I'll add a best-effort Telegram push to `notify.py`
-(env-gated, per-period guard, headlines + link back to the site), wired into the
-existing news-pipeline cron. No-op until the secrets are set.
+Cadence is **daily headlines** (chosen for a public channel). Files (no edits
+needed): `pipeline/vnnews/telegram.py`, wired in `pipeline/vnnews/pipeline.py`.
 
 ## 6. X (Twitter) — profile done; auto-posting optional (later)
 
@@ -109,9 +113,9 @@ existing news-pipeline cron. No-op until the secrets are set.
 
 | Env var | Where | Enables |
 |---------|-------|---------|
-| `PERPLEXITY_API_KEY` | Vercel (site) | Live-web `/research` |
-| `PERPLEXITY_MODEL` | Vercel (site, optional) | Override Sonar model |
-| `TREND_SERVICE_URL` | Vercel (site) | `/trends/daily` + `/api/vn-trends` |
+| `PERPLEXITY_API_KEY` | site host (Vercel/Coolify) | Live-web `/research` |
+| `PERPLEXITY_MODEL` | site host (optional) | Override Sonar model |
+| `TREND_SERVICE_URL` | site host (Vercel/Coolify) | `/trends/daily` + `/api/vn-trends` |
 | `ANTHROPIC_API_KEY` | Coolify (service) | Daily AI trend synthesis |
 | `YOUTUBE_API_KEY` | Coolify (service) | YouTube trending collector |
 | `RUN_TOKEN` | Coolify (service) | Protect `POST /api/run-now` |

@@ -40,6 +40,8 @@ class Settings:
     gemini_api_key: str
     embed_model: str
     embed_dims: int
+    telegram_bot_token: str
+    telegram_channel: str
 
 
 def _load_sources(path: Path) -> tuple[Source, ...]:
@@ -89,4 +91,6 @@ def load_settings(sources_file: str = "sources.yaml") -> Settings:
         gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
         embed_model=os.getenv("VNNEWS_EMBED_MODEL", "gemini-embedding-001"),
         embed_dims=int(os.getenv("VNNEWS_EMBED_DIMS", "256")),
+        telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", ""),
+        telegram_channel=os.getenv("TELEGRAM_CHANNEL", ""),
     )

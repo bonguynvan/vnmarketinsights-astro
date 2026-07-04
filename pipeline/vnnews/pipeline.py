@@ -8,7 +8,8 @@ Commands:
   aggregate  rebuild daily trend_snapshots from enrichment     (Phase 2)
   publish    recent-by-topic.json, trends.json, entities, index(Phase 2/3)
   notify     POST latest brief to LEAD_WEBHOOK_URL             (Phase 2)
-  all        crawl -> enrich -> embed -> aggregate -> brief -> publish -> notify
+  telegram   post daily English headlines to a public channel (Phase 2)
+  all        crawl -> enrich -> embed -> aggregate -> brief -> publish -> notify -> telegram
 """
 
 from __future__ import annotations
@@ -25,6 +26,7 @@ from .embed import run_embed
 from .enrich import run_enrich
 from .notify import run_notify
 from .publish import run_publish
+from .telegram import run_telegram
 
 
 def run_crawl(settings: Settings) -> int:
@@ -79,6 +81,9 @@ def run(command: str = "crawl") -> None:
     if command in ("notify", "all"):
         print("\n== Notify ==")
         run_notify(settings)
+    if command in ("telegram", "all"):
+        print("\n== Telegram ==")
+        run_telegram(settings)
 
 
 if __name__ == "__main__":
