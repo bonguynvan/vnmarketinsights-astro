@@ -39,3 +39,6 @@ public/og/
 
 .agent
 .claude
+
+# Generated content-freshness audit report
+freshness-audit.md

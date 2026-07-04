@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "astro dev",
     "snapshot": "node scripts/fetch-stock-snapshot.mjs",
+    "audit:freshness": "node scripts/freshness-audit.mjs",
     "prebuild": "node scripts/make-brief-og.mjs",
     "build": "astro build",
     "preview": "astro preview",
