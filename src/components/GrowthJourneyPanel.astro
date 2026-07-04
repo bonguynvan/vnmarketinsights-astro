@@ -159,7 +159,10 @@ const { title = 'Your growth journey' } = Astro.props;
   .growth-journey__next-action {
     margin-bottom: var(--space-4);
   }
-  .growth-next-action__link {
+  /* The next-action link, checklist rows, and recent list are injected at
+     runtime via innerHTML, so Astro's scoped hash never lands on them. Target
+     them with :global() (class names are component-prefixed, so no leakage). */
+  :global(.growth-next-action__link) {
     display: flex;
     flex-direction: column;
     gap: var(--space-1);
@@ -169,8 +172,13 @@ const { title = 'Your growth journey' } = Astro.props;
     background: color-mix(in srgb, var(--color-accent) 6%, var(--color-bg));
     text-decoration: none;
     color: var(--color-text);
+    transition: border-color 0.18s ease, background 0.18s ease;
   }
-  .growth-next-action__label {
+  :global(.growth-next-action__link:hover) {
+    border-color: var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 10%, var(--color-bg));
+  }
+  :global(.growth-next-action__label) {
     font-size: var(--text-xs);
     text-transform: uppercase;
     letter-spacing: 0.04em;
@@ -183,20 +191,30 @@ const { title = 'Your growth journey' } = Astro.props;
     display: grid;
     gap: var(--space-2);
   }
-  .growth-journey__checklist li a {
+  :global(.growth-journey__checklist li a) {
     display: inline-flex;
     gap: var(--space-2);
     align-items: center;
     text-decoration: none;
     color: var(--color-text);
   }
-  .growth-journey__checklist li.is-completed a {
+  :global(.growth-journey__checklist li a:hover span:last-child) {
+    text-decoration: underline;
+  }
+  :global(.growth-journey__checklist li.is-completed a) {
     color: #0f766e;
   }
-  .growth-checkmark {
+  :global(.growth-checkmark) {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     width: 1.2rem;
-    text-align: center;
-    font-weight: 700;
+    height: 1.2rem;
+    flex-shrink: 0;
+    color: var(--color-text-light);
+  }
+  :global(.growth-journey__checklist li.is-completed .growth-checkmark) {
+    color: #0f766e;
   }
   .growth-journey__resume h3 {
     margin: 0 0 var(--space-2) 0;
@@ -207,7 +225,7 @@ const { title = 'Your growth journey' } = Astro.props;
     margin: 0;
     padding-left: var(--space-5);
   }
-  .growth-journey__recent li {
+  :global(.growth-journey__recent li) {
     margin-bottom: var(--space-1);
     font-size: var(--text-sm);
   }

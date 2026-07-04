@@ -45,7 +45,7 @@ const fmtDate = (d: string): string => {
         <li class="week-card">
           <a href={item.url} target="_blank" rel="noopener nofollow">
             <span class={`week-dot ${sentClass(item.sentiment)}`} aria-hidden="true"></span>
-            <span class="week-card-title">{item.title}</span>
+            <span class="week-card-title">{item.summary_en?.trim() || item.title}</span>
             <span class="week-card-meta">{item.source}{fmtDate(item.pubDate) && ` · ${fmtDate(item.pubDate)}`}</span>
           </a>
         </li>
@@ -76,6 +76,6 @@ const fmtDate = (d: string): string => {
   .week-card a:hover .week-card-title { color: var(--color-accent, #c0392b); }
   .week-dot { width: 9px; height: 9px; border-radius: 50%; margin-top: 0.45rem; grid-row: 1 / span 2; }
   .week-dot.pos { background: #1f9d57; } .week-dot.neg { background: var(--color-accent, #c0392b); } .week-dot.neu { background: #b8860b; }
-  .week-card-title { font-family: var(--font-serif, Georgia, serif); font-weight: 600; font-size: 1.05rem; line-height: 1.3; color: var(--color-text, #1a1a1a); transition: color 0.18s ease; }
+  .week-card-title { font-family: var(--font-serif, Georgia, serif); font-weight: 600; font-size: 1.05rem; line-height: 1.3; color: var(--color-text, #1a1a1a); transition: color 0.18s ease; display: -webkit-box; -webkit-line-clamp: 3; line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
   .week-card-meta { font-size: var(--text-xs, 0.75rem); color: var(--color-text-muted, #5a5a5a); grid-column: 2; margin-top: 0.25rem; }
 </style>
