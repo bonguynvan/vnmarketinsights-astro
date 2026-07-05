@@ -6,7 +6,7 @@ import RecentDevelopments from '../components/RecentDevelopments.astro';
 import { getRelatedTopics } from '../data/topic-graph';
 
 const title = "Vietnam Retail Market 2026 — Size, Modern Trade & Players";
-const lastUpdated = "June 2026";
+const lastUpdated = "July 2026";
 const description = "Vietnam retail market report: total retail sales, modern vs traditional trade, grocery and convenience chains, key players, and 2025 data with sources.";
 const canonicalURL = "https://vnmarketinsights.com/retail";
 
@@ -26,8 +26,12 @@ const faqs = [
     answer: "Major grocery and general retailers include WinCommerce (WinMart / WinMart+), Bach Hoa Xanh (Mobile World Group), Saigon Co.op (Co.opmart), Central Retail (GO! / Big C), AEON, MM Mega Market, and Lotte Mart. Convenience leaders include Circle K, GS25, Ministop, and 7-Eleven.",
   },
   {
+    question: "What share of Vietnam retail is modern trade vs traditional?",
+    answer: "Traditional trade (wet markets, family shops) still holds the majority of grocery spend, but modern trade — supermarkets, minimarts, malls and convenience stores — is roughly 35–40% of retail in urban areas and 15–20% in rural areas (Kantar Worldpanel, 2025), and rising. The country has about 1,293 supermarkets, 276 shopping malls, ~250,000 convenience stores/minimarts, and 8,274 traditional markets.",
+  },
+  {
     question: "How does e-commerce fit into Vietnam retail?",
-    answer: "E-commerce is the fastest-growing retail channel, at roughly 10% of total retail sales in 2025 and rising. Many shoppers blend online and offline — discovering on social and livestream, then buying via marketplaces or in store.",
+    answer: "E-commerce is the fastest-growing retail channel, at roughly 12% of total retail sales in 2025 (about $32 billion, up over 20% year on year) and rising. Many shoppers blend online and offline — discovering on social and livestream, then buying via marketplaces or in store.",
   },
 ];
 ---
@@ -62,10 +66,11 @@ const faqs = [
   <section>
     <h2>Modern vs traditional trade</h2>
     <ul class="characteristics-list">
-      <li><strong>Traditional trade</strong> still dominates grocery, especially outside the big cities — convenient, cash-friendly, and deeply local.</li>
-      <li><strong>Modern trade</strong> (supermarkets, minimarkets, convenience) is growing faster, concentrated in Hanoi and Ho Chi Minh City and expanding into tier-2/3 provinces.</li>
-      <li><strong>Domestic chains</strong> have been gaining share, including via mergers and acquisitions and rapid minimart rollouts.</li>
-      <li><strong>E-commerce</strong> is the fastest-growing channel at roughly 10% of total retail and rising.</li>
+      <li><strong>Traditional trade</strong> still holds the majority of grocery spend — ~8,274 wet/traditional markets plus family-run shops, convenient, cash-friendly, and deeply local.</li>
+      <li><strong>Modern trade</strong> is roughly <strong>35–40% of retail in cities and 15–20% in rural areas</strong> (Kantar, 2025) and rising, spanning ~1,293 supermarkets, 276 shopping malls, and ~250,000 convenience stores and minimarts.</li>
+      <li><strong>Domestic chains</strong> lead modern grocery — the top-7 players hold nearly 90% of value — gaining share through M&amp;A and rapid minimart rollouts.</li>
+      <li><strong>Rural expansion</strong> is the biggest runway: modern-retail penetration is still below 15% where nearly two-thirds of the population lives.</li>
+      <li><strong>E-commerce</strong> is the fastest-growing channel at roughly <strong>12% of total retail</strong> (~$32bn, +20% YoY) and rising.</li>
     </ul>
   </section>
 
@@ -73,10 +78,10 @@ const faqs = [
     <h2>Major players</h2>
     <h3>Grocery & general retail</h3>
     <ul>
-      <li><strong>WinCommerce</strong> — WinMart / WinMart+ (Masan); large minimart footprint</li>
-      <li><strong>Bach Hoa Xanh</strong> — grocery chain of Mobile World Group (MWG)</li>
+      <li><strong>WinCommerce</strong> — WinMart / WinMart+ (Masan); ~4,600 stores by end-2025, expanding in the North and rural areas, targeting 1,000–1,500 new stores in 2026</li>
+      <li><strong>Bach Hoa Xanh</strong> — fresh-food minimarts of Mobile World Group (MWG); ~VND 46.9tn revenue in 2025 (+14%), strongest in the South</li>
       <li><strong>Saigon Co.op</strong> — Co.opmart, a leading domestic cooperative</li>
-      <li><strong>Central Retail</strong> — GO! / Big C (Thai-owned)</li>
+      <li><strong>Central Retail</strong> — GO! / Big C / Tops (Thai-owned)</li>
       <li><strong>AEON</strong>, <strong>MM Mega Market</strong>, <strong>Lotte Mart</strong> — foreign hypermarket / wholesale operators</li>
     </ul>
     <h3>Convenience</h3>
@@ -91,6 +96,7 @@ const faqs = [
       <li>Retail is a large share of GDP and a direct read on domestic consumption.</li>
       <li>The online–offline blend means retail, <a href="/ecommerce/">e-commerce</a>, <a href="/payments/">payments</a>, and <a href="/logistics/">logistics</a> strategies must be planned together.</li>
       <li>Modern-trade expansion and domestic-chain consolidation are reshaping route-to-market for brands.</li>
+      <li>Government targets 11–11.5% average annual retail growth through 2030, with e-commerce reaching 15–20% of the total (~$50bn by 2030).</li>
     </ul>
   </section>
 
@@ -98,11 +104,13 @@ const faqs = [
     <h2>Sources</h2>
     <ul class="sources-list">
       <li>General Statistics Office / National Statistics Office of Vietnam — retail sales of goods and services, 2025</li>
-      <li>The Investor / Vietnam News — 2025 retail market value and growth</li>
+      <li>Ministry of Industry and Trade — Vietnam Domestic Market Report 2025 (store-format counts, targets)</li>
+      <li>Kantar Worldpanel — modern vs traditional trade shares</li>
+      <li>Company disclosures — Masan/WinCommerce, MWG/Bach Hoa Xanh; The Investor, VietnamPlus, VnExpress coverage</li>
     </ul>
   </section>
 
-  <CiteThis title="Vietnam Retail Market 2026" url={canonicalURL} updated="June 2026" />
+  <CiteThis title="Vietnam Retail Market 2026" url={canonicalURL} updated="July 2026" />
 
   <RecentDevelopments topic="ecommerce" title="Recent retail & commerce developments" />
 </TopicLayout>
