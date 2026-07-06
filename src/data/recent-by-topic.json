@@ -1,215 +1,191 @@
 {
-  "generatedAt": "2026-07-04T23:56:19.688753+00:00",
+  "generatedAt": "2026-07-06T00:00:07.821769+00:00",
   "topics": {
-    "regulations": [
-      {
-        "title": "Tất cả người dân chú ý quy định mới nhất của Bộ Công an về cấp Giấy phép lái xe",
-        "url": "https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-cua-bo-cong-an-ve-cap-giay-phep-lai-xe-188260704072304572.chn",
-        "source": "CafeF",
-        "summary_en": "Two new circulars from the Ministry of Public Security come into effect on July 1st with several important updates. The new regulations aim to facilitate administrative procedures for citizens applying for driving licenses. The source does not provide specific details about the content of these new regulations.",
-        "summary_vn": "Hai thông tư mới của Bộ Công an có hiệu lực từ ngày 1/7 với nhiều điểm mới quan trọng. Các quy định mới nhằm tạo thuận lợi hơn cho người dân trong quá trình thực hiện thủ tục hành chính cấp Giấy phép lái xe. Nguồn tin không cung cấp chi tiết cụ thể về nội dung của các quy định mới.",
-        "pubDate": "Sat, 04 Jul 26 07:23:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Hàng triệu người đón tin vui lớn từ chính sách BHYT và BHXH mới",
-        "url": "https://cafef.vn/hang-trieu-nguoi-don-tin-vui-lon-tu-chinh-sach-bhyt-va-bhxh-moi-188260703084054033.chn",
-        "source": "CafeF",
-        "summary_en": "Starting from July 1, a series of new regulations on health insurance and social insurance came into effect. These changes aim to expand healthcare benefits, increase allowance levels, and adjust pension amounts. The policy adjustments are intended to provide practical benefits to millions of people across the country.",
-        "summary_vn": "Bắt đầu từ ngày 1/7, hàng loạt quy định mới liên quan đến bảo hiểm y tế (BHYT) và bảo hiểm xã hội (BHXH) chính thức có hiệu lực. Những thay đổi này nhằm mở rộng quyền lợi khám chữa bệnh, tăng mức hưởng trợ cấp và điều chỉnh lương hưu. Các điều chỉnh chính sách được dự kiến mang lại lợi ích thiết thực cho hàng triệu người dân trên toàn quốc.",
-        "pubDate": "Sat, 04 Jul 26 07:40:00 +0700",
-        "sentiment": 0.5,
-        "importance": 4
-      },
-      {
-        "title": "Tăng lương hưu, trợ cấp BHXH từ 1/7: Bảo đảm người hưởng nhận đúng, nhận đủ chế độ theo mức mới",
-        "url": "https://cafef.vn/tang-luong-huu-tro-cap-bhxh-tu-1-7-bao-dam-nguoi-huong-nhan-dung-nhan-du-che-do-theo-muc-moi-188260703231456474.chn",
-        "source": "CafeF",
-        "summary_en": "The Government issued Decree No. 162 to increase pensions and social insurance allowances from July 1st. The Vietnam Social Insurance organization is coordinating implementation efforts to ensure timely and accurate payment of pensions and social insurance benefits according to the new rates. The initiative aims to guarantee beneficiaries receive the correct and full amounts under the updated scheme.",
-        "summary_vn": "Chính phủ ban hành Nghị định số 162 để tăng lương hưu và trợ cấp bảo hiểm xã hội từ ngày 1 tháng 7. Tổ chức Bảo hiểm xã hội Việt Nam đang triển khai các biện pháp để đảm bảo chi trả lương hưu và trợ cấp BHXH được thực hiện đúng hạn và chính xác theo mức mới. Sáng kiến nhằm bảo đảm người hưởng nhận được số tiền đúng và đủ theo chế độ được cập nhật.",
-        "pubDate": "Sat, 04 Jul 26 08:20:00 +0700",
-        "sentiment": 0.2,
-        "importance": 3
-      },
-      {
-        "title": "Thu ngân sách tăng 16,6%, ngành Thuế vận hành ổn định mô hình 3 cấp",
-        "url": "https://cafef.vn/thu-ngan-sach-tang-166-nganh-thue-van-hanh-on-dinh-mo-hinh-3-cap-188260703231209774.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's tax authority collected an estimated 1.382 quadrillion VND in the first half of 2026, achieving 61.6% of the annual budget target and representing a 16.6% increase compared to the same period last year. The tax agency continues to operate stably under a three-tier organizational model while implementing multiple solutions to nurture revenue sources and support taxpayers. On July 3, the General Department of Taxation held a mid-year review conference for tax work in the first six months of 2026, with 20 localities achieving good progress on their collection targets.",
-        "summary_vn": "Sau 6 tháng đầu năm 2026, cơ quan thuế ước thu hơn 1,382 triệu tỷ đồng, đạt 61,6% dự toán và tăng 16,6% so với cùng kỳ năm trước. Bộ máy ngành Thuế tiếp tục vận hành ổn định theo mô hình 3 cấp, đồng thời triển khai nhiều giải pháp nuôi dưỡng nguồn thu và hỗ trợ người nộp thuế. Cục Thuế tổ chức hội nghị sơ kết công tác thuế sáu tháng đầu năm 2026 vào chiều 3/7, với 20 địa phương hoàn thành tiến độ khá.",
-        "pubDate": "Sat, 04 Jul 26 11:21:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm dự phiên họp Chính phủ thường kỳ tháng 6/2026 và Hội nghị trực tuyến Chính phủ với các địa phương",
-        "url": "https://cafef.vn/tong-bi-thu-chu-tich-nuoc-to-lam-du-phien-hop-chinh-phu-thuong-ky-thang-6-2026-va-hoi-nghi-truc-tuyen-chinh-phu-voi-cac-dia-phuong-18826070410271724.chn",
-        "source": "CafeF",
-        "summary_en": "On the morning of July 4th, the Government held its regular monthly meeting for June 2026 and a videoconference with local authorities. General Secretary and State President Tô Lâm attended and provided directions.",
-        "summary_vn": "Sáng ngày 4/7, Chính phủ tổ chức phiên họp thường kỳ tháng 6/2026 và hội nghị trực tuyến với các địa phương. Tổng Bí thư, Chủ tịch nước Tô Lâm tới dự và chỉ đạo.",
-        "pubDate": "Sat, 04 Jul 26 11:27:16 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Hải quan: Thu gần 265.000 tỷ đồng ngân sách, tăng tốc chuyển đổi số",
-        "url": "https://cafef.vn/hai-quan-thu-gan-265000-ty-dong-ngan-sach-tang-toc-chuyen-doi-so-188260703231347607.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's Customs Authority collected approximately 265,000 billion VND in budget revenue during the first half of 2026. The agency achieved notable results in institutional development, administrative procedures reform, digital transformation, trade facilitation, budget collection, and anti-smuggling efforts. On July 3rd, the Customs Authority held a meeting combining in-person and online formats to review six-month performance and deploy tasks for the remaining period.",
-        "summary_vn": "Cục Hải quan Việt Nam thu được gần 265.000 tỷ đồng ngân sách trong 6 tháng đầu năm 2026. Cơ quan này đạt được nhiều kết quả đáng chú ý trong xây dựng thể chế, cải cách thủ tục hành chính, chuyển đổi số, tạo thuận lợi thương mại, thu ngân sách và đấu tranh chống buôn lậu. Ngày 3/7, Cục Hải quan tổ chức hội nghị vừa trực tiếp vừa trực tuyến để sơ kết công tác 6 tháng và triển khai nhiệm vụ tiếp theo.",
-        "pubDate": "Sat, 04 Jul 26 12:20:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      }
-    ],
     "financial-markets": [
       {
-        "title": "'Ông lớn' Samsung dự kiến rót thêm 1 tỷ USD vào Việt Nam trong năm nay, Bộ trưởng Bộ Tài chính đưa ra cam kết",
-        "url": "https://cafef.vn/ong-lon-samsung-du-kien-rot-them-1-ty-usd-vao-viet-nam-trong-nam-nay-bo-truong-bo-tai-chinh-dua-ra-cam-ket-188260704082137183.chn",
+        "title": "TS. Đào Minh Tú: Khơi thông thị trường vốn để giảm áp lực cho hệ thống ngân hàng",
+        "url": "https://cafef.vn/ts-dao-minh-tu-khoi-thong-thi-truong-von-de-giam-ap-luc-cho-he-thong-ngan-hang-188260704082507768.chn",
         "source": "CafeF",
-        "summary_en": "Samsung plans to invest an additional $1 billion in Vietnam during 2026, according to reports citing Vietnam's Finance Minister. Currently, Samsung operates 6 manufacturing plants, 1 research and development center, and 1 sales entity in Vietnam. The investment commitment reflects continued foreign direct investment interest in the country.",
-        "summary_vn": "Samsung dự kiến đầu tư thêm 1 tỷ USD vào Việt Nam trong năm 2026, theo cam kết của Bộ trưởng Bộ Tài chính. Hiện tại, Samsung có 6 nhà máy sản xuất, 1 trung tâm R&D và 1 pháp nhân bán hàng tại Việt Nam. Cam kết đầu tư này phản ánh mối quan tâm liên tục của nhà đầu tư nước ngoài đối với đất nước.",
-        "pubDate": "Sat, 04 Jul 26 09:22:00 +0700",
-        "sentiment": 0.6,
-        "importance": 4
+        "summary_en": "Dr. Dao Minh Tu, Vice Chairman and General Secretary of the Vietnam Bankers Association, delivered remarks at a banking sector conference on July 3rd regarding first-half 2026 performance and second-half priorities. He commended the State Bank of Vietnam's firm management and results achieved despite challenging conditions. He identified capital market challenges facing the banking sector and proposed solutions.",
+        "summary_vn": "Tiến sĩ Đào Minh Tú, Phó Chủ tịch kiêm Tổng Thư ký Hiệp hội Ngân hàng Việt Nam, phát biểu tại hội nghị ngân hàng ngày 3/7 về kết quả 6 tháng đầu năm 2026 và nhiệm vụ 6 tháng cuối năm. Ông ca ngợi sự điều hành kiên quyết và kết quả đạt được của NHNN trong bối cảnh khó khăn. Ông chỉ ra những thách thức thị trường vốn đối với ngành ngân hàng và đề xuất các giải pháp.",
+        "pubDate": "Sat, 04 Jul 26 08:24:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
       },
       {
-        "title": "Tăng trưởng chưa đạt mục tiêu 2 con số: Kịch bản nào cho 6 tháng cuối năm?",
-        "url": "https://cafef.vn/tang-truong-chua-dat-muc-tieu-2-con-so-kich-ban-nao-cho-6-thang-cuoi-nam-18826070408490092.chn",
+        "title": "Lãi suất tăng mạnh, người dân và doanh nghiệp gửi thêm bao nhiêu tiền vào hệ thống ngân hàng?",
+        "url": "https://cafef.vn/lai-suat-tang-manh-nguoi-dan-va-doanh-nghiep-gui-them-bao-nhieu-tien-vao-he-thong-ngan-hang-188260704150007091.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's growth target for 2026 is 10% annually, requiring the second half of the year to achieve 11.7% growth to reach this goal. Exports face significant headwinds and businesses have limited resilience, making public investment, production, and consumption expected drivers for the latter half-year growth.",
-        "summary_vn": "Để đạt mục tiêu tăng trưởng 10% cả năm 2026, GDP trong 6 tháng cuối năm phải tăng 11,7%. Xuất khẩu đối mặt nhiều sức ép và khả năng chống chịu của doanh nghiệp còn hạn chế, vì vậy đầu tư công, sản xuất và tiêu dùng được kỳ vọng tốc độ tăng trưởng trong nửa cuối năm.",
-        "pubDate": "Sat, 04 Jul 26 10:00:00 +0700",
+        "summary_en": "Despite rising interest rates, deposit mobilization growth in the banking system remains lower than credit growth. According to the Statistics Bureau of the Ministry of Finance, as of June 26, 2026, fund mobilization by credit institutions increased 5.02% (compared to 6.11% in the same period last year). The economy's credit growth reached 7.41% (compared to 8.3% in the same period last year).",
+        "summary_vn": "Lãi suất tăng mạnh nhưng tăng trưởng huy động vốn của hệ thống ngân hàng vẫn thấp hơn tăng trưởng tín dụng. Theo Cục Thống kê - Bộ Tài chính, tính đến ngày 26/6/2026, huy động vốn của các tổ chức tín dụng tăng 5,02% (so với mức 6,11% cùng kỳ năm trước). Tăng trưởng tín dụng của nền kinh tế đạt 7,41% (so với mức 8,3% cùng kỳ năm trước).",
+        "pubDate": "Sat, 04 Jul 26 14:59:00 +0700",
         "sentiment": -0.3,
-        "importance": 4
+        "importance": 3
       },
       {
-        "title": "GDP bình quân Việt Nam từng xếp thứ 193/194 thế giới, hiện nhảy bao nhiêu bậc?",
-        "url": "https://cafef.vn/gdp-binh-quan-viet-nam-tung-xep-thu-193-194-the-gioi-hien-nhay-bao-nhieu-bac-188260704115858101.chn",
+        "title": "Phó Thủ tướng: Không để doanh nghiệp thiếu vốn",
+        "url": "https://cafef.vn/pho-thu-tuong-khong-de-doanh-nghiep-thieu-von-188260704160612542.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's per capita GDP has increased approximately 40 times since 1990, rising from around $122 to $4,829 by 2025 according to IMF projections. The country has jumped 71 places in global per capita GDP rankings, moving from 193rd/194th in 1990 to 122nd in 2025. This reflects Vietnam's economic development over the 35-year period.",
-        "summary_vn": "GDP bình quân Việt Nam đã tăng khoảng 40 lần từ năm 1990 đến 2025, từ khoảng 122 USD lên 4.829 USD theo dự báo của IMF. Quốc gia này đã vượt lên 71 bậc trong bảng xếp hạng GDP bình quân toàn cầu, từ vị trí 193/194 năm 1990 lên vị trí 122 năm 2025. Điều này phản ánh sự phát triển kinh tế của Việt Nam trong giai đoạn 35 năm.",
-        "pubDate": "Sat, 04 Jul 26 13:20:00 +0700",
-        "sentiment": 0.6,
-        "importance": 4
-      },
-      {
-        "title": "Thủ tướng Lê Minh Hưng: Biến ý chí thành hành động, biến quyết sách thành kết quả tốt hơn, cao hơn nữa",
-        "url": "https://cafef.vn/thu-tuong-le-minh-hung-bien-y-chi-thanh-hanh-dong-bien-quyet-sach-thanh-ket-qua-tot-hon-cao-hon-nua-188260704144002375.chn",
-        "source": "CafeF",
-        "summary_en": "Prime Minister Lê Minh Hưng stated that the Government, ministries, agencies, and local authorities will seriously implement guidance from General Secretary and State President Tô Lâm. He emphasized the need for better and higher results in the remaining six months of the year and beyond, with a commitment to translating will into action and decisions into outcomes. The Government committed to a working approach focused on immediate, correct, decisive, complete, and effective execution.",
-        "summary_vn": "Thủ tướng Lê Minh Hưng khẳng định Chính phủ, các bộ, ngành, địa phương sẽ nghiêm túc tiếp thu ý kiến chỉ đạo của Tổng Bí thư, Chủ tịch nước Tô Lâm. Ông nhấn mạnh cần đạt được kết quả tốt hơn, cao hơn nữa trong 6 tháng cuối năm và thời gian tới, với cam kết biến ý chí thành hành động và quyết sách thành kết quả. Chính phủ tập trung vào cách làm ngay, làm đúng, làm quyết liệt, làm đến cùng và làm có hiệu quả.",
-        "pubDate": "Sat, 04 Jul 26 14:39:34 +0700",
-        "sentiment": 0.2,
-        "importance": 2
-      },
-      {
-        "title": "Họp báo Chính phủ thường kỳ tháng 6: KTXH duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực",
-        "url": "https://cafef.vn/hop-bao-chinh-phu-thuong-ky-thang-6-ktxh-duy-tri-da-tang-truong-tich-cuc-tren-hau-het-cac-linh-vuc-18826070414542416.chn",
-        "source": "CafeF",
-        "summary_en": "The Government Office held its regular monthly press conference on July 4, 2026, to review socio-economic conditions in June and the first half of the year. Minister Đặng Xuân Phong, head of the Government Office and government spokesperson, presented information on socio-economic developments across various sectors. The briefing highlighted that the economy maintained positive growth momentum across most sectors during the review period.",
-        "summary_vn": "Văn phòng Chính phủ tổ chức họp báo thường kỳ vào ngày 4/7/2026 để rà soát tình hình kinh tế-xã hội trong tháng 6 và 6 tháng đầu năm. Bộ trưởng Đặng Xuân Phong, Chủ nhiệm Văn phòng Chính phủ và Người phát ngôn của Chính phủ, đã trình bày thông tin về những diễn biến kinh tế-xã hội trên các lĩnh vực khác nhau. Buổi họp báo nhấn mạnh rằng nền kinh tế duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực trong kỳ rà soát.",
-        "pubDate": "Sat, 04 Jul 26 14:53:43 +0700",
+        "summary_en": "Deputy Prime Minister Nguyen Van Thang has directed ensuring adequate capital supply for production, business, and priority sectors to prevent economic shortages. He stated this at the Government's regular monthly meeting in June 2026 and a teleconference with local authorities on July 4. Economic growth in the first half of the year reached the highest level in several terms, placing Vietnam among leading economies.",
+        "summary_vn": "Phó Thủ tướng Nguyễn Văn Thắng yêu cầu bảo đảm đáp ứng nhu cầu vốn cho sản xuất, kinh doanh và các lĩnh vực ưu tiên để không để nền kinh tế thiếu vốn. Ông phát biểu tại phiên họp Chính phủ thường kỳ tháng 6/2026 và hội nghị trực tuyến với các địa phương vào ngày 4/7. Tăng trưởng kinh tế 6 tháng đầu năm đạt mức cao nhất trong nhiều nhiệm kỳ, đưa Việt Nam vào nhóm các nền kinh tế hàng đầu.",
+        "pubDate": "Sat, 04 Jul 26 16:06:00 +0700",
         "sentiment": 0.5,
         "importance": 3
       },
       {
-        "title": "Đường Lê Văn Lương sắp 'thay áo mới', đề xuất mở rộng với vốn gần 10.000 tỷ đồng",
-        "url": "https://cafef.vn/duong-le-van-luong-sap-thay-ao-moi-de-xuat-mo-rong-voi-von-gan-10000-ty-dong-188260704153411161.chn",
+        "title": "Điều hành chính sách tiền tệ và bài toán khơi thông nguồn lực cho tăng trưởng",
+        "url": "https://cafef.vn/emagazine-dieu-hanh-chinh-sach-tien-te-va-bai-toan-khoi-thong-nguon-luc-cho-tang-truong-188260705080912856.chn",
         "source": "CafeF",
-        "summary_en": "The Lê Văn Lương road, a major transportation artery in southern Ho Chi Minh City, is proposed for expansion to 30-40 meters in width with investment capital of nearly 10,000 billion dong.",
-        "summary_vn": "Đường Lê Văn Lương, một tuyến giao thông chủ chốt ở khu Nam TPHCM, được đề xuất mở rộng lên 30-40 mét với vốn đầu tư gần 10.000 tỷ đồng.",
-        "pubDate": "Sat, 04 Jul 26 15:33:00 +0700",
+        "summary_en": "Vietnam's central bank has managed monetary policy proactively and flexibly in the first half of 2026, coordinating closely with fiscal and other macroeconomic policies amid complex global economic shifts. The central bank contributed to controlling inflation, stabilizing the macroeconomy, and supporting growth. The management of monetary policy faces multiple challenges in balancing macroeconomic stability with growth support in an uncertain global environment.",
+        "summary_vn": "Trong sáu tháng đầu năm 2026, Ngân hàng Nhà nước đã điều hành chính sách tiền tệ một cách chủ động và linh hoạt, phối hợp chặt chẽ với chính sách tài chính và các chính sách kinh tế vĩ mô khác. Ngân hàng Nhà nước đã góp phần kiểm soát lạm phát, ổn định kinh tế vĩ mô và hỗ trợ tăng trưởng kinh tế. Việc điều hành chính sách tiền tệ phải đối mặt với nhiều thách thức trong bối cảnh kinh tế thế giới biến động phức tạp.",
+        "pubDate": "Sun, 05 Jul 26 08:09:00 +0700",
         "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Tuần tới, Ngân hàng Quân đội (MB) sẽ lăn chốt trả cổ tức tiền mặt cho hàng trăm nghìn cổ đông",
+        "url": "https://cafef.vn/tuan-toi-ngan-hang-quan-doi-mb-se-lan-chot-tra-co-tuc-tien-mat-cho-hang-tram-nghin-co-dong-188260705085725892.chn",
+        "source": "CafeF",
+        "summary_en": "Military Bank (MB) will roll out cash dividend payments to hundreds of thousands of shareholders next week. This is one of the largest-scale cash dividend distributions in the banking sector in 2026. The announcement confirms the dividend payment schedule without specifying the dividend amount or per-share rate.",
+        "summary_vn": "Tuần tới, Ngân hàng Quân đội (MB) sẽ lăn chốt trả cổ tức tiền mặt cho hàng trăm nghìn cổ đông. Đây là một trong những đợt trả cổ tức bằng tiền mặt có quy mô lớn nhất của ngành ngân hàng năm 2026. Thông báo xác nhận lịch trình trả cổ tức nhưng không nêu rõ tỷ lệ cổ tức hay mức cổ tức trên mỗi cổ phiếu.",
+        "pubDate": "Sun, 05 Jul 26 08:55:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Giá vàng nhẫn trơn, vàng miếng sáng 5/7",
+        "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-5-7-188260705095604194.chn",
+        "source": "CafeF",
+        "summary_en": "Domestic gold prices opened flat on the morning of July 5 after sharp gains in the previous trading sessions. The week concluded with volatile trading, during which domestic gold prices rose approximately 3 million dong per tael, in line with the recovery trend in global markets. The article reports on daily gold price movements for plain gold rings and gold bars.",
+        "summary_vn": "Giá vàng trong nước mở đầu phiên giao dịch sáng 5/7 tiếp tục đi ngang sau nhịp tăng mạnh những phiên cuối tuần. Khép lại một tuần giao dịch đầy biến động, giá vàng trong nước tăng khoảng 3 triệu đồng/lượng, đồng pha với đà phục hồi của thị trường thế giới. Bài viết cập nhật giá vàng hàng ngày cho vàng nhẫn trơn và vàng miếng.",
+        "pubDate": "Sun, 05 Jul 26 09:53:00 +0700",
+        "sentiment": 0.3,
         "importance": 2
       }
     ],
     "consumers": [
       {
-        "title": "Nông nghiệp tái sinh đang thay đổi tích cực ngành cà phê Việt Nam",
-        "url": "https://tuoitre.vn/nong-nghiep-tai-sinh-dang-thay-doi-tich-cuc-nganh-ca-phe-viet-nam-100260704104114693.htm",
-        "source": "TuoiTre",
-        "summary_en": "A recent workshop titled \"Regenerative Agriculture - Sustainable Direction for Vietnamese Agriculture\" discussed how Vietnam, despite agricultural strengths, faces increasingly stringent green barriers from import markets. The NESCAFÉ Plan program, represented by Phạm Phú Ngọc, is supporting farmers in transitioning to regenerative agriculture models. Control Union Vietnam's director Wouter Melis Van Ravenhorst highlighted the challenges Vietnam faces in meeting stricter environmental standards from importing countries.",
-        "summary_vn": "Một hội thảo gần đây với chủ đề \"Nông nghiệp tái sinh - Hướng đi bền vững cho nông nghiệp Việt Nam\" đã thảo luận về những thách thức mà Việt Nam đối mặt từ các rào cản xanh ngày càng khắt khe từ các thị trường nhập khẩu. Chương trình NESCAFÉ Plan đang hỗ trợ nông dân chuyển đổi sang mô hình nông nghiệp tái sinh. Giám đốc Control Union Việt Nam nhấn mạnh rằng Việt Nam cần thích ứng với các tiêu chuẩn môi trường nghiêm ngặt hơn từ các nước nhập khẩu.",
-        "pubDate": "7/4/2026 2:11:00 PM",
-        "sentiment": 0.3,
+        "title": "Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7",
+        "url": "https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn",
+        "source": "CafeF",
+        "summary_en": "Gold prices in Vietnam on July 4 show SJC bars and smooth gold rings trading at 151.0-151.4 million VND per tael. Major retailers including SJC, DOJI, and PNJ quote SJC bars at 148.4-151.4 million VND per tael, with smooth gold rings at 148.3-151.3 million VND per tael. Bảo Tín Mạnh Hải offers similar pricing for bars and slightly lower rates for rings.",
+        "summary_vn": "Giá vàng tại Việt Nam ngày 4/7 cho thấy vàng miếng SJC và vàng nhẫn trơn giao dịch ở mức 151,0-151,4 triệu đồng/lượng. Các nhà bán lẻ lớn như SJC, DOJI, PNJ niêm yết vàng miếng SJC ở mức 148,4-151,4 triệu đồng/lượng và vàng nhẫn trơn ở mức 148,3-151,3 triệu đồng/lượng. Bảo Tín Mạnh Hải cung cấp giá tương tự cho vàng miếng và giá thấp hơn một chút cho vàng nhẫn.",
+        "pubDate": "Sat, 04 Jul 26 15:29:00 +0700",
+        "sentiment": 0.0,
+        "importance": 1
+      },
+      {
+        "title": "Vì sao nhiều người mua vàng bị lỗ nặng vẫn chưa muốn bán?",
+        "url": "https://cafef.vn/vi-sao-nhieu-nguoi-mua-vang-bi-lo-nang-van-chua-muon-ban-188260705170317904.chn",
+        "source": "CafeF",
+        "summary_en": "Gold prices have recovered by tens of millions of dong per tael since their mid-June lows, but remain significantly below historical peaks. Many investors who accumulated gold in the past six months are holding losses of tens of millions of dong per tael but continue to hold rather than sell. As of July 5, SJC gold was quoted at 148.4 million dong per tael for purchase and 151.4 million dong per tael for sale.",
+        "summary_vn": "Giá vàng miếng SJC đã hồi phục hàng chục triệu đồng mỗi lượng kể từ đáy hồi giữa tháng 6, nhưng vẫn còn cách khá xa vùng đỉnh lịch sử. Nhiều nhà đầu tư tích trữ vàng trong nửa năm qua đang tạm lỗ hàng chục triệu đồng mỗi lượng nhưng tiếp tục nắm giữ thay vì bán ra. Tính đến ngày 5/7, giá vàng miếng SJC được niêm yết ở mức 148,4 triệu đồng/lượng (mua vào) và 151,4 triệu đồng/lượng (bán ra).",
+        "pubDate": "Sun, 05 Jul 26 17:03:00 +0700",
+        "sentiment": -0.3,
         "importance": 2
       },
       {
-        "title": "“Chạm ánh cực quang” của VIB Privilege Banking gọi tên 3 chủ nhân đầu tiên",
-        "url": "https://cafef.vn/cham-anh-cuc-quang-cua-vib-privilege-banking-goi-ten-3-chu-nhan-dau-tien-188260703082823135.chn",
+        "title": "Thứ trưởng bất bình việc giá xăng dầu giảm nhưng các mặt hàng... không giảm",
+        "url": "https://cafef.vn/thu-truong-bat-binh-viec-gia-xang-dau-giam-nhung-cac-mat-hang-khong-giam-188260705081710263.chn",
         "source": "CafeF",
-        "summary_en": "VIB Privilege Banking's \"Northern Lights Aurora Hunt\" program has awarded three customers with all-expenses-paid northern lights trips for two people valued at 400 million Vietnamese dong. The winners are Nguyễn Hoàng Anh, Trịnh Minh Đức, and Thiều Văn Chung, who are VIB Privilege Banking customers at different branches. The program continues until July 31, 2026 with six additional northern lights trips to be awarded.",
-        "summary_vn": "Chương trình \"Chạm ánh cực quang\" của VIB Privilege Banking đã trao cho ba khách hàng các hành trình săn cực quang tại Bắc Âu dành cho hai người, mỗi chuyến trị giá 400 triệu đồng. Ba chủ nhân đầu tiên lần lượt là Nguyễn Hoàng Anh, Trịnh Minh Đức và Thiều Văn Chung, là khách hàng VIB Privilege Banking tại các chi nhánh khác nhau. Chương trình còn kéo dài đến ngày 31/07/2026 với sáu chuyến săn cực quang khác đang chờ được trao cho những chủ nhân tiếp theo.",
-        "pubDate": "Fri, 03 Jul 26 08:27:00 +0700",
-        "sentiment": 0.5,
+        "summary_en": "A Vice Minister of Industry and Trade expressed dissatisfaction that fuel prices have declined but other consumer goods prices have not fallen correspondingly. The official stated that when fuel prices drop, product prices should decrease as well, and called for eliminating unjustified price-holding behavior. The statement highlights concerns about pricing practices in the supply chain following energy cost reductions.",
+        "summary_vn": "Thứ trưởng Bộ Công Thương bất bình về tình trạng giá xăng dầu giảm nhưng giá các mặt hàng tiêu dùng khác không giảm theo. Ông chỉ ra rằng khi giá nhiên liệu giảm thì giá hàng hóa cũng phải giảm tương ứng, và kêu gọi loại bỏ tâm lý giữ giá không hợp lý. Phát biểu này phản ánh lo ngại về hành vi định giá trong chuỗi cung ứng sau khi chi phí năng lượng giảm.",
+        "pubDate": "Sun, 05 Jul 26 08:26:00 +0700",
+        "sentiment": -0.5,
         "importance": 2
       },
       {
-        "title": "CUBHCM: Gần hai thập kỷ theo đuổi chiến lược phát triển cộng đồng thông qua giáo dục và tài chính",
-        "url": "https://cafef.vn/cubhcm-gan-hai-thap-ky-theo-duoi-chien-luoc-phat-trien-cong-dong-thong-qua-giao-duc-va-tai-chinh-188260703191856262.chn",
+        "title": "Giá xăng dầu hạ nhiệt, hàng hoá ngoài chợ vẫn \"neo\" cao",
+        "url": "https://cafef.vn/gia-xang-dau-ha-nhiet-hang-hoa-ngoai-cho-van-neo-cao-188260705154428867.chn",
         "source": "CafeF",
-        "summary_en": "Cathay United Bank's Ho Chi Minh City branch (CUBHCM) has pursued a community development strategy for nearly two decades through education and finance programs. In 2026, the bank allocated approximately 720 million dong in scholarships as part of its \"Seedling-to-Big-Tree Plan\" program. The initiatives focus on financial literacy education, STEM, and career guidance as part of the bank's sustainable development strategy in Vietnam.",
-        "summary_vn": "Chi nhánh Thành phố Hồ Chí Minh của Ngân hàng Cathay United Bank (CUBHCM) đã theo đuổi chiến lược phát triển cộng đồng trong gần hai thập kỷ thông qua các chương trình giáo dục và tài chính. Trong năm 2026, ngân hàng cấp bổ khoảng 720 triệu đồng học bổng trong chương trình \"Kế hoạch Ươm mầm đại thụ\". Các sáng kiến tập trung vào giáo dục tài chính, STEM và định hướng nghề nghiệp như một phần của chiến lược phát triển bền vững tại Việt Nam.",
-        "pubDate": "Fri, 03 Jul 26 19:30:00 +0700",
+        "summary_en": "Fuel prices have declined recently, but prices of essential goods at Hanoi markets and supermarkets remain elevated. Small vendors report that while fuel costs have dropped, transportation costs and wholesale prices have not fallen correspondingly, forcing retailers to maintain their current price levels. The price stickiness suggests a lag between upstream cost reductions and downstream consumer prices.",
+        "summary_vn": "Giá xăng dầu đã giảm liên tiếp nhưng giá các mặt hàng thiết yếu tại các chợ và siêu thị ở Hà Nội vẫn duy trì ở mức cao. Các tiểu thương báo cáo rằng mặc dù giá xăng dầu giảm, nhưng chi phí vận chuyển và giá nhập hàng vẫn không thay đổi, buộc họ duy trì mức giá cũ. Sự \"neo\" cao của giá cả phản ánh độ trễ giữa giảm chi phí ở khâu cung cấp và giá tiêu dùng bán lẻ.",
+        "pubDate": "Sun, 05 Jul 26 15:50:00 +0700",
+        "sentiment": -0.4,
+        "importance": 2
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Vụ án Mr Pips: Số bị can tăng từ 75 lên 188 người, tiền lừa đảo xác định hơn 1.568 tỷ đồng",
+        "url": "https://cafef.vn/vu-an-mr-pips-so-bi-can-tang-tu-75-len-188-nguoi-tien-lua-dao-xac-dinh-hon-1568-ty-dong-18826070418592182.chn",
+        "source": "CafeF",
+        "summary_en": "The Mr Pips fraud case expanded significantly after further investigation by Hanoi police, with the number of suspects increasing from 75 to 188 individuals. The criminal network, allegedly led by Phó Đức Nam (known as Mr Pips), perpetrated 920 fraud schemes. The confirmed amount of money defrauded exceeded 1.568 trillion Vietnamese dong.",
+        "summary_vn": "Sau điều tra bổ sung, Công an TP Hà Nội xác định đường dây lừa đảo do Phó Đức Nam (Mr Pips) cầm đầu có 188 bị can. Nhóm tội phạm này thực hiện 920 vụ lừa đảo và chiếm đoạt hơn 1.568 tỷ đồng. Số lượng bị can tăng từ 75 người ban đầu lên 188 người sau khi có thêm thông tin từ điều tra.",
+        "pubDate": "Sat, 04 Jul 26 18:59:00 +0700",
+        "sentiment": -0.8,
+        "importance": 4
+      },
+      {
+        "title": "Thu 78kg vàng, hàng triệu USD và nhiều bất động sản trị giá trăm tỷ của Mr Pips",
+        "url": "https://cafef.vn/thu-78kg-vang-hang-trieu-usd-va-nhieu-bat-dong-san-tri-gia-tram-ty-cua-mr-pips-188260705074709507.chn",
+        "source": "CafeF",
+        "summary_en": "Hanoi police have expanded the investigation into Pho Duc Nam (Mr Pips), increasing the number of suspects from 75 to 188 people. The investigation confirmed fraudulent funds exceeding 1.568 trillion dong. Authorities seized 78 kilograms of gold, millions of USD, and multiple real estate properties worth hundreds of billions of dong allegedly purchased from the proceeds of crime.",
+        "summary_vn": "Cơ quan cảnh sát điều tra Công an TP Hà Nội đã mở rộng điều tra vụ án liên quan đến Phó Đức Nam (Mr Pips), nâng số lượng bị can từ 75 lên 188 người. Cuộc điều tra xác định số tiền lừa đảo vượt quá 1.568 tỷ đồng. Các cơ quan chức năng đã thu giữ 78 kg vàng, hàng triệu USD và nhiều bất động sản trị giá hàng trăm tỷ đồng được mua từ số tiền phạm tội.",
+        "pubDate": "Sun, 05 Jul 26 07:46:00 +0700",
+        "sentiment": -1.0,
+        "importance": 5
+      },
+      {
+        "title": "Đã ngăn chặn hơn 5.200 tỷ đồng tiền giao dịch có dấu hiệu lừa đảo",
+        "url": "https://cafef.vn/da-ngan-chan-hon-5200-ty-dong-tien-giao-dich-co-dau-hieu-lua-dao-188260705075404458.chn",
+        "source": "CafeF",
+        "summary_en": "The State Bank of Vietnam (SBV) has prevented fraudulent transactions exceeding 5,200 billion dong by issuing warnings to approximately 4.6 million customers. Over 1.5 million customers suspended or cancelled transactions after receiving alerts, corresponding to the 5,200 billion dong in blocked transactions. The SBV continues to prioritize fraud prevention and inflation control across the banking system.",
+        "summary_vn": "Ngân hàng Nhà nước Việt Nam đã ngăn chặn các giao dịch gian lận vượt quá 5.200 tỷ đồng bằng cách phát hành cảnh báo cho khoảng 4,6 triệu khách hàng. Hơn 1,5 triệu khách hàng đã tạm dừng hoặc hủy bỏ giao dịch sau khi nhận được cảnh báo, tương ứng với 5.200 tỷ đồng trong các giao dịch bị chặn. NHNN tiếp tục ưu tiên phòng chống gian lận và kiểm soát lạm phát trên toàn hệ thống ngân hàng.",
+        "pubDate": "Sun, 05 Jul 26 07:53:00 +0700",
         "sentiment": 0.6,
-        "importance": 2
+        "importance": 4
       },
       {
-        "title": "Việt Nam vượt Singapore, Malaysia và Philippines về một chỉ số tài chính",
-        "url": "https://cafef.vn/viet-nam-vuot-singapore-malaysia-va-philippines-ve-mot-chi-so-tai-chinh-188260703091319019.chn",
+        "title": "Từ 15/8 có thể vay trực tuyến lên tới 400 triệu đồng",
+        "url": "https://cafef.vn/tu-15-8-co-the-vay-truc-tuyen-len-toi-400-trieu-dong-188260705152753709.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's population has been ranked higher on a financial resilience index compared to neighboring countries. 31% of Vietnamese respondents were classified in the high financial capacity group, surpassing Singapore (21%), Malaysia (22%), and the Philippines (19%). Additionally, only 9% of Vietnamese respondents fell into the low financial capacity group, the lowest rate in the region according to a Financial Resilience Index report from Sun Life.",
-        "summary_vn": "Việt Nam được xếp hạng cao hơn trong một chỉ số năng lực tài chính so với các quốc gia lân cận. 31% người Việt được xếp vào nhóm năng lực tài chính cao, vượt quá Singapore (21%), Malaysia (22%) và Philippines (19%). Ngoài ra, chỉ 9% người Việt rơi vào nhóm năng lực tài chính thấp, tỷ lệ thấp nhất trong khu vực theo báo cáo Chỉ số Năng lực tài chính từ Sun Life.",
-        "pubDate": "Fri, 03 Jul 26 09:13:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Khách Việt sẵn sàng chi nhiều hơn cho du lịch số",
-        "url": "https://tuoitre.vn/khach-viet-san-sang-chi-nhieu-hon-cho-du-lich-so-100260704150244018.htm",
-        "source": "TuoiTre",
-        "summary_en": "Vietnamese travelers are increasing spending on digital tourism services, driven by tech-savvy travelers seeking flexible, cost-optimized, and experience-rich journeys in the first half of the year. Trip.com reported that new app downloads in Vietnam rose 63% year-over-year to 1.8 million installations, while monthly active users grew 70%. The travel platform's Vietnam market continues to demonstrate strong growth momentum.",
-        "summary_vn": "Khách du lịch Việt Nam sẵn sàng chi tiêu nhiều hơn cho các dịch vụ du lịch kỹ thuật số, được thúc đẩy bởi những du khách am hiểu công nghệ tìm kiếm các hành trình linh hoạt, tối ưu chi phí và giàu trải nghiệm trong nửa đầu năm. Trip.com báo cáo rằng lượng tải ứng dụng mới tại Việt Nam tăng 63% so với cùng kỳ năm trước, đạt 1,8 triệu lần cài đặt, trong khi người dùng hoạt động hằng tháng tăng 70%. Thị trường du lịch Việt Nam của nền tảng này tiếp tục thể hiện sự tăng trưởng mạnh mẽ.",
-        "pubDate": "7/4/2026 2:30:00 PM",
-        "sentiment": 0.6,
-        "importance": 3
-      }
-    ],
-    "payments": [
-      {
-        "title": "TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu",
-        "url": "https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn",
-        "source": "CafeF",
-        "summary_en": "TPBank is expanding its cross-border QR payment connections to strengthen its global digital banking ecosystem. The bank is among the first to implement the VietQRGlobal cross-border QR payment service alongside NAPAS. The expansion aims to serve customers on international journeys and help Vietnamese shops and businesses connect more conveniently with global customer flows.",
-        "summary_vn": "TPBank đang mở rộng kết nối thanh toán QR xuyên biên giới để hoàn thiện hệ sinh thái ngân hàng số toàn cầu của mình. Ngân hàng là một trong những đơn vị đầu tiên triển khai dịch vụ Thanh toán QR xuyên biên giới VietQRGlobal cùng NAPAS. Việc mở rộng nhằm phục vụ khách hàng trên các hành trình quốc tế và giúp các cửa hàng, doanh nghiệp Việt kết nối thuận tiện hơn với khách hàng toàn cầu.",
-        "pubDate": "Fri, 03 Jul 26 09:59:00 +0700",
-        "sentiment": 0.5,
+        "summary_en": "From August 15, the State Bank of Vietnam raised the maximum online lending limit for small loans to 400 million dong per borrower. Previously, the limit for individual borrowers was capped at 100 million dong per credit institution. The State Bank made this adjustment in response to requests from multiple credit institutions.",
+        "summary_vn": "Từ ngày 15/8, Ngân hàng Nhà nước nâng hạn mức cho vay trực tuyến lên tối đa 400 triệu đồng cho mỗi khách hàng. Trước đó, giới hạn cho vay đối với cá nhân là 100 triệu đồng tại một tổ chức tín dụng. Ngân hàng Nhà nước đã thực hiện điều chỉnh này theo kiến nghị của nhiều tổ chức tín dụng.",
+        "pubDate": "Sun, 05 Jul 26 15:27:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "NCB Visa Tự Hào giành giải thưởng quốc tế, khẳng định dấu ấn đổi mới của ngân hàng Việt",
-        "url": "https://cafef.vn/ncb-visa-tu-hao-gianh-giai-thuong-quoc-te-khang-dinh-dau-an-doi-moi-cua-ngan-hang-viet-188260703105003702.chn",
+        "title": "Tài khoản ngân hàng phát sinh giao dịch hơn 100 tỷ đồng, người đàn ông bị công an mời lên làm việc",
+        "url": "https://cafef.vn/tai-khoan-ngan-hang-phat-sinh-giao-dich-hon-100-ty-dong-nguoi-dan-ong-bi-cong-an-moi-len-lam-viec-188260705162705676.chn",
         "source": "CafeF",
-        "summary_en": "National Commercial Bank (NCB) received the \"Credit Card Innovation of the Year\" award at the Asian Banking & Finance Retail Banking Awards 2026 for its NCB Visa Tự Hào credit card product. The award ceremony took place on July 2, 2026, in Singapore. The NCB Visa Tự Hào is described as NCB's proprietary credit card line.",
-        "summary_vn": "Ngân hàng TMCP Quốc Dân (NCB) được vinh danh giải thưởng \"Sáng kiến thẻ tín dụng của năm\" tại Asian Banking & Finance Retail Banking Awards 2026 cho thẻ NCB Visa Tự Hào. Lễ trao giải diễn ra vào ngày 02/7/2026 tại Singapore. Thẻ NCB Visa Tự Hào là dòng sản phẩm thẻ tín dụng độc bản của NCB.",
-        "pubDate": "Fri, 03 Jul 26 10:49:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "A man in Can Tho was called in by police for questioning after a bank account in his name generated more than 100 billion VND in transactions during 2025. The case appears related to concerns about compromised bank accounts being used for illegal purposes. This incident is part of broader law enforcement efforts against cybercrimes involving banking infrastructure.",
+        "summary_vn": "Một người đàn ông tại TP Cần Thơ bị công an mời lên làm việc sau khi tài khoản ngân hàng đứng tên mình phát sinh giao dịch hơn 100 tỷ đồng trong năm 2025. Vụ việc có liên quan đến những lo ngại về các tài khoản ngân hàng bị xâm phạm được sử dụng cho các mục đích bất hợp pháp. Đây là một phần của nỗ lực thực thi pháp luật rộng hơn chống các tội phạm mạng liên quan đến cơ sở hạ tầng ngân hàng.",
+        "pubDate": "Sun, 05 Jul 26 16:25:00 +0700",
+        "sentiment": -0.7,
         "importance": 3
+      },
+      {
+        "title": "2 nhân viên ngân hàng bị khởi tố",
+        "url": "https://cafef.vn/2-nhan-vien-ngan-hang-bi-khoi-to-188260705172025097.chn",
+        "source": "CafeF",
+        "summary_en": "Two bank employees were indicted during an expanded investigation into a money laundering case. The case involves transaction volumes exceeding 67,000 billion Vietnamese dong, 43 million USD, 1.5 million Euro, and 1 million CAD. The Danang Police's Economic Crime Investigation Department issued the indictment decision on July 3.",
+        "summary_vn": "Hai nhân viên ngân hàng bị khởi tố trong quá trình điều tra mở rộng vụ án rửa tiền. Quy mô giao dịch trong vụ án vượt quá 67.000 tỉ đồng, 43 triệu USD, 1,5 triệu Euro và 1 triệu CAD. Phòng Cảnh sát điều tra tội phạm kinh tế Công an TP Đà Nẵng đã ra quyết định khởi tố vào ngày 3/7.",
+        "pubDate": "Sun, 05 Jul 26 17:42:00 +0700",
+        "sentiment": -0.8,
+        "importance": 4
       }
     ],
-    "platforms": [
+    "logistics": [
       {
-        "title": "Nền tảng SCEX Simulator vượt mốc 22.000 tài khoản chỉ sau 48 giờ ra mắt",
-        "url": "https://cafef.vn/nen-tang-scex-simulator-vuot-moc-22000-tai-khoan-chi-sau-48-gio-ra-mat-188260703160606783.chn",
+        "title": "Cận cảnh depot đường sắt Bến Thành - Cần Giờ trước ngày thi công",
+        "url": "https://cafef.vn/can-canh-depot-duong-sat-ben-thanh-can-gio-truoc-ngay-thi-cong-188260705093604615.chn",
         "source": "CafeF",
-        "summary_en": "SCEX Simulator, a crypto trading simulation platform developed by SACOM, reached over 22,000 registered accounts within 48 hours of launch as part of the \"Digital Assets Popularization 2026\" program. The platform ranked second in app downloads on the App Store during this period. Over 16,000 of the 22,000 accounts were created in the first 48 hours.",
-        "summary_vn": "Nền tảng SCEX Simulator, một ứng dụng giao dịch giả lập tiền mã hóa do SACOM phát triển, đã đạt hơn 22.000 tài khoản đăng ký trong vòng 48 giờ ra mắt trong chương trình \"Phổ cập Tài sản số 2026\". Nền tảng này xếp thứ 2 trong lượt tải ứng dụng trên App Store trong giai đoạn này. Hơn 16.000 trong số 22.000 tài khoản được tạo trong 48 giờ đầu tiên.",
-        "pubDate": "Fri, 03 Jul 26 16:30:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "The Ben Thanh - Can Gio railway depot, spanning 39 hectares, is being prepared for construction with heavy machinery and equipment mobilized at the site and along the 54-kilometer railway line. Ho Chi Minh City government has approved the project plan, which involves a total investment of over 102,000 billion dong. The project is being carried out by VinSpeed Railway Investment and Development Joint Stock Company.",
+        "summary_vn": "Depot đường sắt Bến Thành - Cần Giờ rộng 39 hectare đang được chuẩn bị thi công với các máy móc và thiết bị được tập kết tại khu vực này và dọc tuyến đường sắt dài 54 km. UBND TP.HCM đã phê duyệt phương án dự án với tổng mức đầu tư hơn 102.000 tỷ đồng. Dự án do Công ty Cổ phần Đầu tư và Phát triển đường sắt cao tốc VinSpeed thực hiện.",
+        "pubDate": "Sun, 05 Jul 26 10:31:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Phó Thủ tướng Thường trực Phạm Gia Túc dự lễ khởi công dự án cảng biển thuộc Cụm cảng nước sâu Cái Mép-Thị Vải (TPHCM)",
+        "url": "https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-du-le-khoi-cong-du-an-cang-bien-thuoc-cum-cang-nuoc-sau-cai-mep-thi-vai-tphcm-188260705142306935.chn",
+        "source": "CafeF",
+        "summary_en": "Deputy Prime Minister Phạm Gia Túc attended the groundbreaking ceremony for QTM International Port, part of the Cái Mép-Thị Vải deep-water port cluster in Ho Chi Minh City on July 5. The project spans 80.47 hectares with a total investment of 6,869 billion VND, divided into two phases. Phase 1 includes three berths with a combined length of 762 meters, with the first berth expected to be operational in Q1 2028.",
+        "summary_vn": "Phó Thủ tướng Thường trực Phạm Gia Túc dự lễ khởi công Cảng quốc tế QTM thuộc Cụm cảng nước sâu Cái Mép-Thị Vải (TPHCM) vào sáng 5/7. Dự án có tổng diện tích 80,47 ha với tổng mức đầu tư 6.869 tỷ đồng, chia làm hai giai đoạn. Giai đoạn 1 gồm 3 cầu cảng với tổng chiều dài 762 m, dự kiến cầu cảng đầu tiên khai thác vào quý I/2028.",
+        "pubDate": "Sun, 05 Jul 26 14:47:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       }
     ]

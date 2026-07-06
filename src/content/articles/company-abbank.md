@@ -1,8 +1,8 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-04"
-lastUpdated: "2026-07-04"
+publishedDate: "2026-07-06"
+lastUpdated: "2026-07-06"
 category: "Company"
 readingTime: 3
 ---

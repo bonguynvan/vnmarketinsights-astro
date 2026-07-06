@@ -1,8 +1,8 @@
 ---
 title: "Techcom Life — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcom Life, with neutral summaries and source links."
-publishedDate: "2026-07-04"
-lastUpdated: "2026-07-04"
+publishedDate: "2026-07-06"
+lastUpdated: "2026-07-06"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ Vietnam's central bank has issued guidance to commercial banks to reduce interes
 
 - [Từ hôm nay, ai được hưởng lãi suất thấp khi vay mua nhà ở xã hội?](https://cafef.vn/tu-hom-nay-ai-duoc-huong-lai-suat-thap-khi-vay-mua-nha-o-xa-hoi-188260701072000915.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 - [SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 
