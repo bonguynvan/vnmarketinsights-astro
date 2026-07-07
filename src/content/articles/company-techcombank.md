@@ -9,9 +9,15 @@ readingTime: 3
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
+
+Eight Vietnamese banks—Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB, and HDBank—have been included in Forbes Global 2000 list for 2026. These banks represent nearly all Vietnamese enterprises ranked on the list. The inclusion reflects the prominence of Vietnam's banking sector in the global economy.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
 
 **Cổ đông ngân hàng nhận nghìn tỷ cổ tức bằng tiền mặt**  
 
@@ -79,18 +85,12 @@ Techcombank OneU is promoting its credit card with a World Cup 2026 campaign tha
 
 - Source: [CafeF](https://cafef.vn/tan-huong-world-cup-2026-cung-techcombank-oneu-khi-moi-chi-tieu-deu-tich-luy-them-gia-tri-188260619101238433.chn)
 
-**“AI Thực chiến” mùa 2: Techcombank tiếp tục tài trợ giải thưởng “Điều kỳ diệu” tới 1 triệu USD, Tiến sĩ AI Phạm Hy Hiếu trực tiếp làm Ban Giám khảo**  
-
-"AI Thực chiến" Season 2 is a national artificial intelligence program directed by the Ministry of Public Security and organized jointly by Vietnam Television (VTV), the National Data Center (NDC), the National Data Association (NDA), and Techcombank. Techcombank continues to sponsor the "Điều kỳ diệu" (Miraculous) award with funding up to 1 million USD for this season. Dr. AI Phạm Hy Hiếu directly serves as a member of the judging panel.
-
-- Source: [CafeF](https://cafef.vn/ai-thuc-chien-mua-2-techcombank-tiep-tuc-tai-tro-giai-thuong-dieu-ky-dieu-toi-1-trieu-usd-tien-si-ai-pham-hy-hieu-truc-tiep-lam-ban-giam-khao-18826061917183004.chn)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
+- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 
 ---
 

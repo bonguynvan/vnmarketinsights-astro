@@ -13,6 +13,18 @@ Recent Vietnam market news mentioning **SACOMBANK** (3 mentions tracked). Summar
 
 ## Recent mentions
 
+**Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates across 34 banks on July 7 shows that smaller and medium-sized banks continue to maintain deposit rates of 7% per annum or higher, while the Big4 banking group maintains rates at 6.8% per annum for 12-month terms. Agribank's July 2026 rates reach a maximum of 6.8% per annum for online deposits and 6% per annum at counters. The article provides a snapshot of banking sector deposit rates during early July 2026.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn)
+
+**Giá bạc hôm nay 7/7/2026 đồng loạt mất giá, bốc hơi hơn 600.000 đồng/kg**  
+
+Silver prices in Vietnam fell sharply on July 7, 2026, with bar silver at major dealers dropping significantly. Sacombank quoted silver bars at 61.84-63.68 million dong per kilogram, down 480,000 dong/kg from the previous session close, while silver pieces fell 18,000 dong/lượng. Phú Quý also adjusted silver piece prices downward by 24,000 dong/lượng in both buy and sell directions.
+
+- Source: [VietnamNet](https://vietnamnet.vn/gia-bac-hom-nay-7-7-2026-quay-dau-giam-mat-gan-1-trieu-dong-kg-2533232.html)
+
 **Hiểu gì về cuộc “đại phẫu” đằng sau những con số đi lùi của SACOMBANK**  
 
 SACOMBANK, a major Vietnamese bank, released Q1 financial results showing a significant decline in key performance metrics, surprising the market given its previous track record of consecutive strong profits. Beyond the sudden decline, stakeholders are particularly focused on understanding the underlying causes and future developments as the Q2 financial reporting deadline approaches. The article discusses these issues based on an interview with Loic Faussier, an executive at the bank.
@@ -73,24 +85,12 @@ Over the past 10 years, banks have issued an additional 66.6 billion shares, inc
 
 - Source: [CafeF](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn)
 
-**Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...**  
-
-On June 27, ACB led the online deposit rate survey with 7.3% per annum for 12-month terms. The Big4 banks maintained 6.8% per annum, while other banks quoted rates between 6.9-7% per annum. The survey covered multiple banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn)
-
-**Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit rates on 26 June shows Saigonbank leading the market at 7.2% per annum for 12-month terms. The Big4 banking group maintains rates at 6.8% per annum, while several other banks quote rates between 6.9-7% per annum for the same maturity.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
-- [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
+- [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
 
 ---
 

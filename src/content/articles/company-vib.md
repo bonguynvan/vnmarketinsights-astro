@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **VIB** (7 mentions tracked). Summaries ar
 
 ## Recent mentions
 
+**VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay**  
+
+VIB Bank launched a "VIB Up" program offering lifetime interest rate reductions on home loans. The program targets homebuyers who typically focus on monthly installments but may overlook potential savings from even small basis point reductions in interest rates over 15-25 year loan periods. The article highlights that reducing interest rates by a few dozen basis points could result in savings of hundreds of millions of dong over the loan duration.
+
+- Source: [CafeF](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn)
+
 **Cổ đông ngân hàng nhận nghìn tỷ cổ tức bằng tiền mặt**  
 
 Bank shareholders received hundreds of billions of dong in cash dividends as MB distributed approximately 8.055 trillion dong, LPBank distributed 8.962 trillion dong, Techcombank distributed over 4.960 trillion dong, VIB distributed over 3.000 trillion dong, and ACB distributed nearly 3.600 trillion dong. In a recent week, 35 enterprises announced dividend record dates with 26 companies distributing cash dividends ranging from 3% to 40%, while others distributed stock dividends. This represents a significant capital distribution to shareholders across multiple banking institutions.
@@ -66,7 +72,7 @@ VIB launched VIB Up, a tiered financial solution package allowing customers to u
 - [Lãi suất ngân hàng hôm nay 2/7/2026: Khuyến mãi &amp;apos;khủng&amp;apos; xuất hiện trở lại](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-2-7-2026-khuyen-mai-khung-xuat-hien-tro-lai-2531618.html) — VietnamNet
 - [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
 - [Ngân hàng không chỉ để giao dịch: Xu hướng 'gói tiện ích tài chính kết hợp trải nghiệm Lifestyle' lên ngôi](https://cafef.vn/ngan-hang-khong-chi-de-giao-dich-xu-huong-goi-tien-ich-tai-chinh-ket-hop-trai-nghiem-lifestyle-len-ngoi-188260701105111999.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn) — CafeF
 
 ---
 

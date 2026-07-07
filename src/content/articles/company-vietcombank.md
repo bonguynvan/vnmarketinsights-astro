@@ -9,9 +9,33 @@ readingTime: 3
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (28 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận một ngân hàng được dự báo vượt Vietcombank, dẫn đầu toàn ngành trong quý II/2026**  
+
+Rồng Việt Securities forecasts that banking sector profit will continue double-digit growth in Q2 2026. One bank is predicted to surpass Vietcombank to lead the system in profit scale. VPBank, OCB, and HDBank are identified as banks with the most prominent profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-mot-ngan-hang-duoc-du-bao-vuot-vietcombank-dan-dau-toan-nganh-trong-quy-ii-2026-18826070710545064.chn)
+
+**Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
+
+Eight Vietnamese banks—Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB, and HDBank—have been included in Forbes Global 2000 list for 2026. These banks represent nearly all Vietnamese enterprises ranked on the list. The inclusion reflects the prominence of Vietnam's banking sector in the global economy.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
+
+**Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates across 34 banks on July 7 shows that smaller and medium-sized banks continue to maintain deposit rates of 7% per annum or higher, while the Big4 banking group maintains rates at 6.8% per annum for 12-month terms. Agribank's July 2026 rates reach a maximum of 6.8% per annum for online deposits and 6% per annum at counters. The article provides a snapshot of banking sector deposit rates during early July 2026.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn)
+
+**Các ngân hàng đánh giá thế nào về triển vọng lợi nhuận, tăng trưởng tín dụng và huy động thời gian tới**  
+
+The State Bank of Vietnam released the results of a business trend survey for Q3/2026, conducted from May 25 to June 10, 2026, covering all credit institutions and foreign bank branches in Vietnam with a response rate of 98.3%. The survey examines bank outlooks on profitability, credit growth, and fund mobilization prospects. The excerpt indicates ongoing market monitoring of banking sector performance and competitive positioning among institutions.
+
+- Source: [CafeF](https://cafef.vn/cac-ngan-hang-danh-gia-the-nao-ve-trien-vong-loi-nhuan-tang-truong-tin-dung-va-huy-dong-thoi-gian-toi-188260707210849101.chn)
 
 **Những ngân hàng tăng vốn nhanh nhất 10 năm qua: Xuất hiện nhà băng tăng gần 10 lần, Vietcombank vươn lên dẫn đầu**  
 
@@ -61,35 +85,11 @@ Vietcombank issued a warning about a new fraud scheme where scammers send SMS me
 
 - Source: [CafeF](https://cafef.vn/vietcombank-canh-bao-khach-hang-co-the-mat-sach-tien-trong-the-neu-lam-theo-tin-nhan-nay-188260628174644696.chn)
 
-**Gi&aacute; USD h&ocirc;m nay 28.6.2026: Tăng suốt tuần trong khi yen Nhật lao dốc**  
-
-USD strengthened over the week ending June 28, 2026, with Vietcombank quoting transfer purchases at 26,114 VND/USD and sales at 26,454 VND/USD, up 14 VND from the previous week. ACB bank recorded mixed movements: down 20 VND on purchase transfers to 26,110 VND/USD but up 14 VND on sales to 26,454 VND/USD. Conversely, other major currencies including the euro weakened during the same period, with euro declining 210 VND at Vietcombank.
-
-- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2862026-tang-suot-tuan-trong-khi-yen-nhat-lao-doc-18526062721314551.htm)
-
-**Cảnh gi&aacute;c &#039;chi&ecirc;u&#039; đổi điểm thưởng v&agrave; những cuộc gọi &#039;kh&ocirc;ng n&oacute;i g&igrave;&#039;**  
-
-Vietcombank customers have received fraudulent SMS messages spoofing the bank's brand, claiming reward points are expiring and directing users to fake websites such as https://diem-vietcom-priority.com/web/index.php. Users accessing these links are directed to counterfeit Vietcombank pages and prompted to provide sensitive security information. This is one of approximately 30 documented fraud schemes targeting customers through deceptive phone calls and messaging.
-
-- Source: [ThanhNien](https://thanhnien.vn/canh-giac-thu-doan-doi-diem-thuong-den-cuoc-goi-khong-noi-gi-185260628090926779.htm)
-
-**Nhận được tin nhắn này từ Vietcombank, tuyệt đối không bấm vào**  
-
-Vietcombank has warned customers about fraudulent SMS messages impersonating the bank. Scammers commonly use messages claiming that accumulated reward points are about to expire to manipulate users psychologically into following instructions that could compromise their assets. The bank has documented multiple cases of such fraudulent communications targeting its customers.
-
-- Source: [CafeF](https://cafef.vn/nhan-duoc-tin-nhan-nay-tu-vietcombank-tuyet-doi-khong-bam-vao-188260626155141838.chn)
-
-**Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
-
-Over the past 10 years, banks have issued an additional 66.6 billion shares, increasing the total system's charter capital by over 666,000 billion Vietnamese dong. The article examines which banks have led in share issuance during this period. The expansion of bank lending activities and regulatory changes are mentioned as factors affecting liquidity and interest rates.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
+- [Lãi suất ngân hàng 24/6 tại MB, HDBank, Sacombank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-6-tai-mb-hdbank-sacombank-agribank-vietcombank-bidv-vietinbank-18826062416582644.chn) — CafeF
 - [Lãi suất ngân hàng 25/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-25-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260625165743096.chn) — CafeF
 
 ---

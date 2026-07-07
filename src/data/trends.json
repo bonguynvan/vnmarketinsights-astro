@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-07T00:02:14.403626+00:00",
+  "generatedAt": "2026-07-07T23:49:45.860904+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 296,
-      "growthRate": 7.0,
-      "avgSentiment": -0.093,
+      "total": 307,
+      "growthRate": 4.5,
+      "avgSentiment": -0.089,
       "tag": "Rising Star",
       "series": [
         {
@@ -83,15 +83,20 @@
           "date": "2026-07-06",
           "count": 16,
           "sentiment": -0.081
+        },
+        {
+          "date": "2026-07-07",
+          "count": 11,
+          "sentiment": -0.036
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 180,
-      "growthRate": 3.0,
-      "avgSentiment": 0.044,
+      "total": 194,
+      "growthRate": 3.667,
+      "avgSentiment": 0.042,
       "tag": "Rising Star",
       "series": [
         {
@@ -168,15 +173,20 @@
           "date": "2026-07-06",
           "count": 12,
           "sentiment": 0.2
+        },
+        {
+          "date": "2026-07-07",
+          "count": 14,
+          "sentiment": 0.0
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 87,
-      "growthRate": -0.733,
-      "avgSentiment": 0.21,
+      "total": 93,
+      "growthRate": -0.6,
+      "avgSentiment": 0.225,
       "tag": "Stable",
       "series": [
         {
@@ -248,15 +258,20 @@
           "date": "2026-07-06",
           "count": 4,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-07",
+          "count": 6,
+          "sentiment": 0.433
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 42,
-      "growthRate": 1.0,
-      "avgSentiment": 0.209,
+      "total": 47,
+      "growthRate": 1.5,
+      "avgSentiment": 0.213,
       "tag": "Rising Star",
       "series": [
         {
@@ -333,15 +348,20 @@
           "date": "2026-07-06",
           "count": 4,
           "sentiment": 0.175
+        },
+        {
+          "date": "2026-07-07",
+          "count": 5,
+          "sentiment": 0.28
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 30,
+      "total": 31,
       "growthRate": -0.8,
-      "avgSentiment": 0.219,
+      "avgSentiment": 0.239,
       "tag": "Stable",
       "series": [
         {
@@ -408,15 +428,20 @@
           "date": "2026-07-06",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "sentiment": 0.5
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 25,
+      "total": 26,
       "growthRate": -0.75,
-      "avgSentiment": 0.173,
+      "avgSentiment": 0.113,
       "tag": "Stable",
       "series": [
         {
@@ -478,6 +503,11 @@
           "date": "2026-07-06",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "sentiment": -0.6
         }
       ]
     },
@@ -714,15 +744,20 @@
     {
       "topic": "banking",
       "siteSlug": "",
-      "total": 1,
+      "total": 2,
       "growthRate": 0.0,
-      "avgSentiment": 0.6,
+      "avgSentiment": 0.7,
       "tag": "Emerging",
       "series": [
         {
           "date": "2026-07-02",
           "count": 1,
           "sentiment": 0.6
+        },
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "sentiment": 0.8
         }
       ]
     },
@@ -738,6 +773,21 @@
           "date": "2026-06-26",
           "count": 1,
           "sentiment": 0.8
+        }
+      ]
+    },
+    {
+      "topic": "products",
+      "siteSlug": "",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.3,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     }

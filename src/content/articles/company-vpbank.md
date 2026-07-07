@@ -9,9 +9,27 @@ readingTime: 3
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận một ngân hàng được dự báo vượt Vietcombank, dẫn đầu toàn ngành trong quý II/2026**  
+
+Rồng Việt Securities forecasts that banking sector profit will continue double-digit growth in Q2 2026. One bank is predicted to surpass Vietcombank to lead the system in profit scale. VPBank, OCB, and HDBank are identified as banks with the most prominent profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-mot-ngan-hang-duoc-du-bao-vuot-vietcombank-dan-dau-toan-nganh-trong-quy-ii-2026-18826070710545064.chn)
+
+**Năm thứ hai liên tiếp, VPBank SME được vinh danh tại Asian Banking & Finance Retail Banking Awards**  
+
+VPBank SME has received recognition at the Asian Banking & Finance Retail Banking Awards for the second consecutive year. The award, titled "SME Financial Inclusion Initiative of the Year," recognizes VPBank SME's efforts in delivering innovative, flexible, and comprehensive financial solutions. The initiative focuses on promoting financial inclusion for small and medium enterprises in Vietnam.
+
+- Source: [CafeF](https://cafef.vn/nam-thu-hai-lien-tiep-vpbank-sme-duoc-vinh-danh-tai-asian-banking-finance-retail-banking-awards-188260707151538589.chn)
+
+**Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
+
+Eight Vietnamese banks—Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB, and HDBank—have been included in Forbes Global 2000 list for 2026. These banks represent nearly all Vietnamese enterprises ranked on the list. The inclusion reflects the prominence of Vietnam's banking sector in the global economy.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
 
 **Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu**  
 
@@ -67,30 +85,12 @@ Hanoi Party Secretary Tran Duc Thang inspected major transport projects and dire
 
 - Source: [CafeF](https://cafef.vn/bi-thu-ha-noi-kiem-tra-cac-du-an-giao-thong-huong-tam-quan-trong-18826062907191871.chn)
 
-**Chính phủ đặt mục tiêu tăng trưởng GDP 11,9% trong 6 tháng cuối năm**  
-
-The Vietnamese government has set a GDP growth target of 11.9% for the final six months of 2026 to achieve double-digit growth for the full year. The government adopted this scenario projection to support its annual GDP growth objectives. The announcement was made on 29 June 2026.
-
-- Source: [CafeF](https://cafef.vn/chinh-phu-dat-muc-tieu-tang-truong-gdp-119-trong-6-thang-cuoi-nam-188260629071737922.chn)
-
-**Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
-
-Visa partnered with VPBank, Shinhan Bank Vietnam, and MB to launch a Global Trade Payment Platform (GTPP), offering the first cross-border commercial card payment service in Vietnam. The platform initially focuses on the Vietnam-South Korea trade corridor, enabling Vietnamese importers to pay South Korean suppliers using Visa business cards. The initiative aims to optimize cross-border payments for businesses.
-
-- Source: [TuoiTre](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm)
-
-**Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%**  
-
-A bank will set the record date for a nearly 30% dividend payout in the coming week. Shareholders of Kiên Long Bank (ticker: KLB) are expected to receive significant dividend information in the first trading week of July. This follows recent dividend announcements from other banks including VPBank and Techcombank.
-
-- Source: [CafeF](https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng hôm nay 2/7/2026: Khuyến mãi &amp;apos;khủng&amp;apos; xuất hiện trở lại](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-2-7-2026-khuyen-mai-khung-xuat-hien-tro-lai-2531618.html) — VietnamNet
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
 

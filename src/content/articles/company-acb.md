@@ -9,9 +9,21 @@ readingTime: 3
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
+
+Eight Vietnamese banks—Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB, and HDBank—have been included in Forbes Global 2000 list for 2026. These banks represent nearly all Vietnamese enterprises ranked on the list. The inclusion reflects the prominence of Vietnam's banking sector in the global economy.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
+
+**Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates across 34 banks on July 7 shows that smaller and medium-sized banks continue to maintain deposit rates of 7% per annum or higher, while the Big4 banking group maintains rates at 6.8% per annum for 12-month terms. Agribank's July 2026 rates reach a maximum of 6.8% per annum for online deposits and 6% per annum at counters. The article provides a snapshot of banking sector deposit rates during early July 2026.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn)
 
 **Cổ đông ngân hàng nhận nghìn tỷ cổ tức bằng tiền mặt**  
 
@@ -72,18 +84,6 @@ USD strengthened over the week ending June 28, 2026, with Vietcombank quoting tr
 On June 27, ACB led the online deposit rate survey with 7.3% per annum for 12-month terms. The Big4 banks maintained 6.8% per annum, while other banks quoted rates between 6.9-7% per annum. The survey covered multiple banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn)
-
-**Tổng Giám đốc ACB: "Cấp vốn cho doanh nghiệp không chỉ dừng ở tài sản đảm bảo"**  
-
-ACB's CEO discussed capital access for small and medium enterprises (SMEs) at a conference titled "SME Dialogue 2026: Open Policy – Business Takes Off," organized jointly with Hanoi Business Association (HBA) and Vietnam Consumer Goods Development Association (VACOD). The discussion addressed capital financing challenges faced by SMEs, particularly when expanding operations while having limited collateral assets. The CEO emphasized that capital provision for businesses extends beyond reliance on collateral assets.
-
-- Source: [CafeF](https://cafef.vn/tong-giam-doc-acb-cap-von-cho-doanh-nghiep-khong-chi-dung-o-tai-san-dam-bao-188260625081219773.chn)
-
-**ACB cảnh báo 30 kịch bản lừa đảo trực tuyến phổ biến tại Việt Nam**  
-
-ACB Bank has issued warnings about 30 common online fraud scenarios in Vietnam, as fraud schemes using AI and deepfake technology become increasingly sophisticated. The Ministry of Public Security has deployed a comprehensive four-pronged solution framework to strengthen protection of citizens in cyberspace. ACB is collaborating with the State Bank's Payment Department, the Ministry of Public Security, and NAPAS to enhance security layers for safe customer transactions.
-
-- Source: [CafeF](https://cafef.vn/acb-canh-bao-30-kich-ban-lua-dao-truc-tuyen-pho-bien-tai-viet-nam-188260623095838443.chn)
 
 ## Related coverage
 

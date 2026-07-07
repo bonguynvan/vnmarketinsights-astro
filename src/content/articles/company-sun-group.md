@@ -9,9 +9,15 @@ readingTime: 3
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chủ tịch Sun Group Đặng Minh Trường: Sun Group không đầu tư để giành lấy một miếng bánh thị trường có sẵn!**  
+
+Sun Group's chairman Đặng Minh Trường stated that the company does not invest merely to capture existing market share. He emphasized that under national-scale missions, Sun Group's approach is to create value and strength. He argued that when the private sector receives mechanisms and trust to participate in strategic infrastructure projects, the distinction lies not just in capital or implementation speed but in the ability to generate new growth drivers for the economy.
+
+- Source: [CafeF](https://cafef.vn/chu-tich-sun-group-dang-minh-truong-sun-group-khong-dau-tu-de-gianh-lay-mot-mieng-banh-thi-truong-co-san-188260707194543693.chn)
 
 **Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới**  
 
