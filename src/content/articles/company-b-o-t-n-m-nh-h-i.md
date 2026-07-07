@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-07-06"
-lastUpdated: "2026-07-06"
+publishedDate: "2026-07-07"
+lastUpdated: "2026-07-07"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Mạnh Hải
 
-Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7**  
+
+Gold prices in Vietnam decreased by approximately 400,000 Vietnamese dong per tael on the afternoon of July 6. SJC listed gold bars at 148.0–151.0 million dong per tael and plain gold rings at 147.9–150.9 million dong per tael. DOJI, PNJ, and Bảo Tín Mạnh Hải similarly reduced their prices for both gold bars and plain gold rings to 148.0–151.0 million dong per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7**  
 

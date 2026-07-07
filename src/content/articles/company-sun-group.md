@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-06"
-lastUpdated: "2026-07-06"
+publishedDate: "2026-07-07"
+lastUpdated: "2026-07-07"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới**  
+
+Bac Ninh Province approved an additional 145 billion dong in public investment capital for 2026 to support land clearance for a road project connecting Gia Binh airport with Hanoi. The project, valued at 83 trillion dong, is led by a Sun Group consortium and aims to connect a world-class five-star airport with Hanoi. On July 3rd, Bac Ninh's Provincial People's Committee Deputy Chairman Pham Van Thinh signed Decision No. 902/QD-UBND regarding the supplementary allocation and detailed distribution of the 2026 public investment plan for the project.
+
+- Source: [CafeF](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn)
 
 **Ngân hàng Nhà nước nêu lý do miễn "room tín dụng” cho 18 dự án**  
 

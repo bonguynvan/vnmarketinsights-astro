@@ -1,8 +1,8 @@
 ---
 title: "Masterise — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Masterise, with neutral summaries and source links."
-publishedDate: "2026-07-06"
-lastUpdated: "2026-07-06"
+publishedDate: "2026-07-07"
+lastUpdated: "2026-07-07"
 category: "Company"
 readingTime: 3
 ---
