@@ -1046,19 +1046,20 @@ hr {
   font-size: var(--text-sm);
   color: var(--color-text-light);
 }
-.growth-modal__alt {
-  margin: var(--space-3) 0 0;
-  padding-top: var(--space-3);
-  border-top: 1px solid var(--color-border-light);
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
-}
-.growth-modal__alt a {
-  color: var(--color-accent);
+.growth-modal__cta {
+  display: inline-flex;
+  align-items: center;
+  align-self: flex-start;
+  margin-top: var(--space-2);
+  padding: var(--space-3) var(--space-5);
+  border-radius: 2px;
   font-weight: 600;
+  color: white;
+  background: var(--color-accent);
   text-decoration: none;
+  transition: background 0.2s ease;
 }
-.growth-modal__alt a:hover { text-decoration: underline; }
+.growth-modal__cta:hover { background: var(--color-accent-hover); color: white; }
 
 /* Loading Spinner */
 .search-loading {
