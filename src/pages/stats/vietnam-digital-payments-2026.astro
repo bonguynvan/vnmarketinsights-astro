@@ -10,55 +10,57 @@ type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
   {
-    heading: 'E-wallets & adoption',
-    intro: 'E-wallets are the front door to Vietnam\'s cashless transition, led by a handful of super-apps.',
+    heading: 'Cashless payments & scale',
+    intro: 'Vietnam\'s cashless transition accelerated sharply in 2025. Full-year figures come from the State Bank of Vietnam\'s (SBV) review of the 2021–2025 non-cash payment program, released February 2026.',
     stats: [
-      { value: '34M+', label: 'Active e-wallets (2025)', note: 'SBV-reported active wallets; 53 licensed providers (49 e-wallets).', source: 'SBV, 2025' },
-      { value: '62–68%', label: 'MoMo share of e-wallet users', note: 'Most-used wallet in user surveys.', source: 'Decision Lab, 2024' },
-      { value: '~22%', label: 'ShopeePay user reach', note: 'Second-tier challenger in surveys.', source: 'Decision Lab, 2024' },
-      { value: 'Super-app', label: 'Direction of leading wallets', note: 'Payments + lending + services bundled.' },
-      { value: 'Young, urban', label: 'Core e-wallet demographic', note: 'Expanding into tier-2/3 cities.' },
+      { value: '~28×', label: 'Cashless payment value vs GDP (2025)', note: 'Far exceeded the 2021–25 target; the 2030 goal is 30× GDP.', source: 'SBV, 2025' },
+      { value: '+42.2%', label: 'Non-cash transaction volume (2025 YoY)', note: 'Value +22.7%; a broad shift from cash to electronic payments.', source: 'SBV, 2025' },
+      { value: '+124.1%', label: 'QR payment value growth (2025 YoY)', note: 'Volume +50.9% — the single fastest-growing rail.', source: 'SBV, 2025' },
+      { value: '+54.0%', label: 'Internet payment volume (2025 YoY)', note: 'Value +35.8%.', source: 'SBV, 2025' },
+      { value: '+36.6%', label: 'Mobile payment volume (2025 YoY)', note: 'Value +20.1%.', source: 'SBV, 2025' },
     ],
   },
   {
-    heading: 'QR & cashless payments',
-    intro: 'Interoperable QR has been the breakout rail, turning small merchants cashless fast.',
+    heading: 'Accounts, cards & infrastructure',
+    intro: 'Account ownership and merchant acceptance underpin the wallet and QR boom — while cash-out infrastructure shrinks.',
     stats: [
-      { value: '+159.6%', label: 'QR payment value growth (7M 2025 YoY)', note: 'Volume +66.7%; VietQR interoperability accelerated adoption.', source: 'SBV, 2025' },
-      { value: 'Falling', label: 'Cash share of transactions', note: 'Government cashless targets push the shift.' },
-      { value: 'Nationwide', label: 'VietQR interoperability', note: 'Standardized QR across banks and wallets.' },
-      { value: 'Merchants', label: 'Fastest-growing QR segment', note: 'Street vendors to chains accept QR.' },
+      { value: '232M+', label: 'Individual payment accounts (Dec 2025)', note: 'Up 13.7% year on year.', source: 'SBV, 2025' },
+      { value: '164M+', label: 'Bank cards in circulation (Dec 2025)', note: 'Up 5.3% year on year.', source: 'SBV, 2025' },
+      { value: '87.0%', label: 'Adults 15+ with a bank account (2024)', note: 'Financial inclusion; 2030 target is 95%.', source: 'SBV, 2024' },
+      { value: '+19.9%', label: 'POS terminals (2025)', note: 'ATMs fell 1.1% — acceptance is going cardless.', source: 'SBV, 2025' },
+      { value: '−17.3%', label: 'ATM transaction volume (2025)', note: 'Value −6.0%; cash withdrawals in structural decline.', source: 'SBV, 2025' },
     ],
   },
   {
-    heading: 'Banking & infrastructure',
-    intro: 'Account ownership and real-time rails underpin the wallet and QR boom.',
+    heading: 'E-wallets & Mobile Money',
+    intro: 'E-wallets are the front door to cashless payments; Mobile Money extends reach into rural and underserved areas.',
     stats: [
-      { value: 'Majority', label: 'Adults with a bank account', note: 'Rising financial inclusion.' },
-      { value: '~84M', label: 'Smartphone users (est.)', note: 'Enables wallet and app-banking adoption.', source: 'Industry est., 2024' },
-      { value: 'Real-time', label: 'Interbank transfer capability', note: 'Instant transfers via NAPAS rails.' },
-      { value: 'Mobile-first', label: 'Primary banking channel', note: 'App-based banking dominates new usage.' },
-      { value: 'KYC', label: 'Onboarding requirement', note: 'Identity verification for wallets and accounts.' },
+      { value: '30.3M', label: 'Active e-wallet accounts (2025)', note: '65.8% of 46.0M activated; 49 licensed e-wallet providers (53 payment intermediaries).', source: 'SBV, 2025' },
+      { value: '~68%', label: 'MoMo share of e-wallet users', note: 'Most-used wallet in consumer surveys.', source: 'Decision Lab, 2024' },
+      { value: '10.9M', label: 'Mobile Money accounts (Sep 2025)', note: '~70% in rural, mountainous, border and island areas.', source: 'SBV, 2025' },
+      { value: '290M+', label: 'Mobile Money transactions (9M 2025)', note: '~VND 8.5tn (~$323M) moved via Mobile Money.', source: 'SBV, 2025' },
+      { value: '$46.6B', label: 'Mobile payments market size (2025)', note: 'Projected to reach ~$83B by 2031.', source: 'Mordor Intelligence, 2025' },
     ],
   },
   {
-    heading: 'Fintech & credit',
-    intro: 'Beyond payments, fintech is expanding into lending, BNPL, and embedded finance.',
+    heading: 'NAPAS & QR rails',
+    intro: 'NAPAS runs the national retail switch behind VietQR and instant transfers, and is extending it across borders.',
     stats: [
-      { value: 'Emerging', label: 'Buy-now-pay-later (BNPL) adoption', note: 'Early but growing among younger buyers.' },
-      { value: 'Growing', label: 'Digital lending and consumer credit', note: 'Wallet-embedded credit expanding.' },
-      { value: 'Active', label: 'Fintech startup ecosystem', note: 'Payments, lending, wealth, insurtech.' },
-      { value: 'Tightening', label: 'Regulatory framework for fintech', note: 'Sandbox and licensing evolving.' },
+      { value: '32M+', label: 'NAPAS transactions per day (avg 2025)', note: 'System volume +23.7% YoY; 99.997% uptime.', source: 'NAPAS, 2025' },
+      { value: '~90M', label: 'Accounts scanning VietQR (Oct 2025)', note: 'VietQR transactions +52% volume / +85% value (10M 2025 YoY).', source: 'NAPAS, 2025' },
+      { value: '+27%', label: 'NAPAS247 instant-transfer volume (2025)', note: 'Real-time account-to-account, the backbone of app transfers.', source: 'NAPAS, 2025' },
+      { value: '4 countries', label: 'Cross-border QR (2025)', note: 'Thailand, Cambodia and Laos live; China via UnionPay from Dec 2025.', source: 'NAPAS, 2025' },
+      { value: 'Tap & Pay', label: 'Contactless rollout (2025)', note: 'NAPAS Tap & Pay on Android plus Apple Pay on iOS.', source: 'NAPAS, 2025' },
     ],
   },
   {
-    heading: 'E-commerce payments',
-    intro: 'Online checkout is shifting from cash-on-delivery toward digital methods.',
+    heading: 'Security, fraud & e-commerce',
+    intro: 'Biometric verification and shared fraud-monitoring now sit under the payment system, while online checkout keeps shifting off cash-on-delivery.',
     stats: [
-      { value: 'Declining', label: 'Cash-on-delivery (COD) share of e-commerce', note: 'Still significant but shrinking yearly.' },
-      { value: 'Rising', label: 'Wallet & card share at checkout', note: 'Platforms nudge prepaid with incentives.' },
-      { value: 'Bundled', label: 'Wallet-platform integration', note: 'ZaloPay-Zalo, platform-native wallets.' },
-      { value: 'Vouchers', label: 'Key driver of prepaid adoption', note: 'Discounts steer buyers off COD.' },
+      { value: '146M+', label: 'Customer records biometrically verified (Jan 2026)', note: 'Via chip ID / VNeID; ~100% coverage of active digital accounts.', source: 'SBV, 2026' },
+      { value: '2.6M', label: 'Fraud alerts to customers (SIMO, 2025)', note: '831k+ transactions halted; ~VND 3tn protected.', source: 'SBV, 2025' },
+      { value: '3.4M', label: 'NAPAS suspicious-transaction alerts (2025)', note: 'Anti-fraud handbook deployed at 47 banks.', source: 'NAPAS, 2025' },
+      { value: 'Declining', label: 'Cash-on-delivery (COD) share of e-commerce', note: 'Shifting to wallets, cards and QR at checkout.' },
     ],
   },
 ];
@@ -90,7 +92,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-30"
-  lastUpdated="2026-05-30"
+  lastUpdated="2026-07-10"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -134,15 +136,16 @@ const datasetSchema = {
     <section class="stats-section">
       <h2>Notes on methodology</h2>
       <p>
-        These statistics are reference estimates intended to give a directional picture of
-        Vietnam's digital payments market. Where analysts disagree, we present qualitative
-        descriptors or ranges rather than spurious precision. For definitions of terms like
-        e-wallet, QR payment, and BNPL, see our <a href="/glossary/">glossary</a>.
+        These figures are compiled from official sources to give a current, sourced picture of
+        Vietnam's digital payments market. Growth rates are full-year 2025 versus 2024 unless noted.
+        For definitions of terms like e-wallet, QR payment, and BNPL, see our <a href="/glossary/">glossary</a>.
       </p>
       <p>
-        <strong>Primary sources:</strong> Decision Lab (Connected Consumer surveys); State Bank of
-        Vietnam (SBV) and NAPAS; DataReportal "Digital 2025: Vietnam"; industry estimates. Each
-        figure is labelled with its year (latest available); verify against the primary source before relying on a specific number.
+        <strong>Primary sources:</strong> State Bank of Vietnam (SBV) review of the 2021–2025
+        non-cash payment program (released February 2026) and monthly payment reports; National
+        Payment Corporation of Vietnam (NAPAS) 2025 results; Decision Lab (Connected Consumer
+        surveys); Mordor Intelligence (market sizing). Each figure is labelled with its source and
+        year; cross-check against the primary source before relying on a specific number.
       </p>
     </section>
 
