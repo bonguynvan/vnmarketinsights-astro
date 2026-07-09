@@ -1,17 +1,29 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7**  
+
+Domestic gold prices in Vietnam continued to decline on the morning of July 8, marking the third consecutive session of downward movement. Gold prices fell between 500,000 to 1.2 million VND per tael compared to the previous day's close. At SJC Company, SJC gold bars were quoted at 146.5–149.5 million VND per tael, while plain gold rings were at 146.2–149.2 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn)
+
+**Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng**  
+
+Gold prices in Vietnam declined further on the afternoon of July 8, with SJC gold bars falling by an additional 1 million VND per tael from morning levels. SJC Corporation, Doji Group, and Phu Quy Group all reduced their quoted prices, with SJC gold trading at 145.5 million VND per tael for buying and 148.5 million VND per tael for selling around 4 p.m. The domestic price decline was smaller than the global gold price decrease, widening the spread between Vietnamese and international gold prices.
+
+- Source: [CafeF](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn)
 
 **Giá vàng đứng im, cả tuần người mua 'bỏ túi' bao nhiêu?**  
 
@@ -73,24 +85,12 @@ Domestic gold prices remain at their lowest levels in recent days after declinin
 
 - Source: [CafeF](https://cafef.vn/gia-vang-tai-sjc-bao-tin-manh-hai-doji-phu-quy-ngay-24-6-188260624072201184.chn)
 
-**Giá vàng SJC, vàng nhẫn trơn ngày 22/6: Tăng gần 2,5 triệu đồng/lượng**  
-
-Gold prices in Vietnam increased sharply on June 22, with SJC and smooth ring gold prices rising significantly. Several gold retailers recorded increases of up to 2.4 million Vietnamese dong per tael on the buying side. Gold enterprises continued to adjust prices upward in the morning of June 22.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-22-6-188260622070351341.chn)
-
-**Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6**  
-
-Gold prices in Vietnam showed strong recovery in early June before declining sharply from June 19 onwards. On June 21, SJC listed gold bar prices at 144.2–147.2 million VND/tael and plain gold ring prices at 144.2–147.3 million VND/tael. Multiple gold retailers including Bảo Tín Mạnh Hải, PNJ, and DOJI provided comparable quotations on the same date.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn)
-
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn) — CafeF
 - [Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ](https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
 - [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 28/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 28 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -13,7 +13,7 @@ readingTime: 15
 
 # Tổng quan tin tức thị trường Việt Nam tuần này
 
-Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP quý II/2026 tăng 8,39% so với cùng kỳ năm trước, đồng thời các ngân hàng hàng đầu lọt vào danh sách Forbes Global 2000. Bên cạnh đó, các cơ quan chức năng đang tăng cường điều tra các vụ án liên quan đến lừa đảo và rửa tiền quy mô lớn, cùng với việc triển khai các quy định quản lý thuế mới nhằm tăng cường minh bạch tài chính từ ngày 1/7. Các dự án đầu tư nước ngoài quy mô lớn như nhà máy bán dẫn LG Innotek tại Hải Phòng cũng đang được triển khai, phản ánh sự tập trung của Việt Nam vào FDI chất lượng cao.
+Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP quý II/2026 tăng 8,39% so với cùng kỳ năm trước, đạt mức cao nhất, trong khi các ngân hàng nước ngoài lớn như LG Innotek và các tập đoàn quốc tế tiếp tục xác nhận lợi thế đầu tư tại Việt Nam. Đồng thời, các cơ quan chức năng đang mở rộng điều tra các vụ án tài chính quy mô lớn liên quan đến hoạt động lừa đảo và rửa tiền, với tổng giá trị giao dịch bất hợp pháp vượt quá hàng chục nghìn tỷ đồng.
 
 ## Pháp lý
 
@@ -117,6 +117,13 @@ Cục Thống kê cho biết GDP quý II/2026 của Việt Nam đạt tăng trư
 - Số liệu chính: GDP growth Q2 2026: 8.39% year-over-year; GDP growth H1 2026: 8.18% year-over-year
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-thiet-lap-mot-ky-luc-chua-tung-co-ve-tang-truong-kinh-te-188260703135449473.chn)
 
+**Đủ cách nâng lãi suất huy động, kéo dòng tiền về ngân hàng**  
+
+Các ngân hàng Việt Nam đang tăng cường cạnh tranh trong huy động tiền gửi, với lãi suất tiết kiệm vượt quá 9% mỗi năm và phát hành chứng chỉ tiền gửi có lãi cao. Các ngân hàng sử dụng nhiều chiến lược khác nhau để kéo dòng tiền gửi quay lại hệ thống, do áp lực thiếu hụt vốn khi tín dụng tiếp tục tăng nhanh hơn huy động. Ngoài việc nâng lãi suất, các ngân hàng còn sử dụng nhiều biện pháp khác để thu hút tiền gửi.
+
+- Số liệu chính: Savings interest rate: over 9% per annum
+- Nguồn: [CafeF](https://cafef.vn/du-cach-nang-lai-suat-huy-dong-keo-dong-tien-ve-ngan-hang-188260708134431989.chn)
+
 **Thấy gì từ việc Việt Nam lên hạng nhóm thu nhập trung bình cao?**  
 
 Việt Nam đã đạt được trạng thái nước có thu nhập trung bình cao, thành tựu được các chuyên gia cho là do các chính sách của Chính phủ duy trì môi trường kinh doanh thuận lợi. Những chính sách này nâng cao khả năng cạnh tranh và thu hút các nhà đầu tư nước ngoài thiết lập hoạt động và chuỗi cung ứng ở Việt Nam. Tuy nhiên, các chuyên gia khuyến cáo rằng Việt Nam không nên tập trung vào thu hút vốn rẻ, mà phải trở thành quốc gia mà dòng vốn quốc tế sẵn sàng chấp nhận lợi nhuận thấp hơn.
@@ -163,12 +170,6 @@ GDP quý II của Việt Nam ước tăng 8,39% so với cùng kỳ năm trướ
 
 - Số liệu chính: GDP growth rate Q2: 8.39% year-over-year
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vao-nhom-cac-nen-kinh-te-co-toc-do-tang-truong-gdp-hang-dau-the-gioi-188260704203551563.chn)
-
-**Mặt trái của điện mặt trời: Tấm pin nổi phủ kín mặt hồ, ngư dân lao đao**  
-
-Các dự án điện mặt trời nổi quy mô lớn đang thay đổi sinh kế và tái cấu trúc đời sống cộng đồng ở một số khu vực. Tấm pin nổi trên hồ chứa ban đầu được coi là giải pháp hoàn hảo để tránh xung đột đất đai liên quan đến các dự án điện mặt trời trên bờ. Tuy nhiên, những cài đặt này đang tác động tiêu cực đến các cộng đồng ngư dân và sinh kế truyền thống dựa vào nước.
-
-- Nguồn: [VietnamNet](https://vietnamnet.vn/mat-trai-cua-dien-mat-troi-tam-pin-noi-phu-kin-mat-ho-ngu-dan-lao-dao-2531948.html)
 
 ## Khác
 

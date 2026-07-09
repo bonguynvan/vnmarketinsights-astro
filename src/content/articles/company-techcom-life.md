@@ -1,17 +1,23 @@
 ---
 title: "Techcom Life — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcom Life, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcom Life
 
-Recent Vietnam market news mentioning **Techcom Life** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcom Life** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcom Life ra mắt Infinite Care: Chuẩn mực mới cho bảo hiểm sức khỏe cao cấp**  
+
+Techcom Life, a member of Techcombank's financial ecosystem, has launched Infinite Care, a health insurance product for actual medical expenses. The product is positioned as a new standard for premium health insurance in Vietnam, targeting customers seeking access to high-quality healthcare services with superior coverage. The launch emphasizes the message "Peace of mind standards, appropriate status."
+
+- Source: [CafeF](https://cafef.vn/techcom-life-ra-mat-infinite-care-chuan-muc-moi-cho-bao-hiem-suc-khoe-cao-cap-188260708104249336.chn)
 
 **Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life**  
 
@@ -33,10 +39,10 @@ Vietnam's central bank has issued guidance to commercial banks to reduce interes
 
 ## Related coverage
 
-- [Từ hôm nay, ai được hưởng lãi suất thấp khi vay mua nhà ở xã hội?](https://cafef.vn/tu-hom-nay-ai-duoc-huong-lai-suat-thap-khi-vay-mua-nha-o-xa-hoi-188260701072000915.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
-- [SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Từ hôm nay, ai được hưởng lãi suất thấp khi vay mua nhà ở xã hội?](https://cafef.vn/tu-hom-nay-ai-duoc-huong-lai-suat-thap-khi-vay-mua-nha-o-xa-hoi-188260701072000915.chn) — CafeF
 
 ---
 

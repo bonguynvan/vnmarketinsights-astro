@@ -1,8 +1,8 @@
 ---
 title: "Ernst & Young — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ernst & Young, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -33,10 +33,10 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 ## Related coverage
 
+- [Đủ cách nâng lãi suất huy động, kéo dòng tiền về ngân hàng](https://cafef.vn/du-cach-nang-lai-suat-huy-dong-keo-dong-tien-ve-ngan-hang-188260708134431989.chn) — CafeF
 - [Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

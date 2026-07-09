@@ -1,8 +1,8 @@
 ---
 title: "Phú Quý — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Phú Quý, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ Domestic gold prices remain at their lowest levels in recent days after declinin
 - [Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng](https://cafef.vn/sang-25-6-gia-vang-bac-lao-doc-nha-dau-tu-soc-nang-188260625105005435.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
 - [Vàng quay đầu giảm sâu, bạc mất toàn bộ tích lũy phiên trước](https://cafef.vn/vang-quay-dau-giam-sau-bac-mat-toan-bo-tich-luy-phien-truoc-188260624133935199.chn) — CafeF
-- [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
+- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 
 ---
 

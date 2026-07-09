@@ -1,8 +1,8 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---

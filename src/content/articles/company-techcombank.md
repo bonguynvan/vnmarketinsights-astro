@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcom Life ra mắt Infinite Care: Chuẩn mực mới cho bảo hiểm sức khỏe cao cấp**  
+
+Techcom Life, a member of Techcombank's financial ecosystem, has launched Infinite Care, a health insurance product for actual medical expenses. The product is positioned as a new standard for premium health insurance in Vietnam, targeting customers seeking access to high-quality healthcare services with superior coverage. The launch emphasizes the message "Peace of mind standards, appropriate status."
+
+- Source: [CafeF](https://cafef.vn/techcom-life-ra-mat-infinite-care-chuan-muc-moi-cho-bao-hiem-suc-khoe-cao-cap-188260708104249336.chn)
 
 **Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
 
@@ -79,18 +85,12 @@ Techcombank customers can accumulate U-Points from daily financial activities in
 
 - Source: [VnExpress](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html)
 
-**Tận hưởng World Cup 2026 cùng Techcombank OneU: Khi mỗi chi tiêu đều tích lũy thêm giá trị**  
-
-Techcombank OneU is promoting its credit card with a World Cup 2026 campaign that allows cardholders to accumulate U-Points on daily transactions. The points can be redeemed for rewards, payments, and other benefits. The campaign targets football fans planning to engage with the tournament through travel, entertainment, and spending.
-
-- Source: [CafeF](https://cafef.vn/tan-huong-world-cup-2026-cung-techcombank-oneu-khi-moi-chi-tieu-deu-tich-luy-them-gia-tri-188260619101238433.chn)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
-- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
+- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
+- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
 

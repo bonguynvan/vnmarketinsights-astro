@@ -1,8 +1,8 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -46,9 +46,9 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 ## Related coverage
 
 - [Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm) — TuoiTre
+- [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
 - [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 - [Bộ Công an và Ngân hàng Nhà nước phối hợp phòng, chống lừa đảo trực tuyến](https://cafef.vn/bo-cong-an-va-ngan-hang-nha-nuoc-phoi-hop-phong-chong-lua-dao-truc-tuyen-188260623213753156.chn) — CafeF
-- [Chủ tịch VietinBank Trần Minh Bình: VietinBank xác định phát triển thanh toán số xuyên biên giới là một trong những mũi nhọn chiến lược quan trọng trong giai đoạn hiện nay](https://cafef.vn/chu-tich-vietinbank-tran-minh-binh-vietinbank-xac-dinh-phat-trien-thanh-toan-so-xuyen-bien-gioi-la-mot-trong-nhung-mui-nhon-chien-luoc-quan-trong-trong-giai-doan-hien-nay-188260702154426178.chn) — CafeF
 
 ---
 

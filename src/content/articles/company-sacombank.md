@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+As of July 8, 2026, online deposit interest rates across Vietnamese banks remained stable, with the highest rate at 7.3% per annum for 12-month terms. The prevailing rate range across most banks was 6.6-6.9% per annum. The article provides a snapshot of interest rate offerings from major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn)
 
 **Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ A survey of online deposit interest rates across 34 banks on June 29 shows conti
 On June 28, a survey of online deposit interest rates showed that only 6 banks were offering rates of 7% per annum or higher for 12-month terms. Most banks were applying typical rates of 6.8-6.9% per annum, while the Big 4 banking group maintained stable interest rate schedules.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn)
-
-**Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?**  
-
-Over the past 10 years, banks have issued an additional 66.6 billion shares, increasing the total system's charter capital by over 666,000 billion Vietnamese dong. The article examines which banks have led in share issuance during this period. The expansion of bank lending activities and regulatory changes are mentioned as factors affecting liquidity and interest rates.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn)
 
 ## Related coverage
 

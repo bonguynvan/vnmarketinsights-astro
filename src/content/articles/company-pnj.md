@@ -1,8 +1,8 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -47,8 +47,8 @@ Gold prices in Vietnam showed strong recovery in early June before declining sha
 
 - [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
+- [Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng sáng 1/7 tiếp tục giảm](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-1-7-tiep-tuc-giam-188260701074516284.chn) — CafeF
 
 ---
 

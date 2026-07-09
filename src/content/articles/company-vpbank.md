@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Mùa hè trọn vẹn cho cả gia đình với hệ sinh thái đặc quyền VPBank Diamond**  
+
+VPBank has introduced VPBank Diamond, a Family Banking ecosystem designed to provide integrated financial services and lifestyle experiences for entire families. The program positions banking as a platform connecting family members through coordinated privileges rather than individual benefits. The initiative aims to serve families seeking comprehensive summer experiences and lifestyle solutions.
+
+- Source: [CafeF](https://cafef.vn/mua-he-tron-ven-cho-ca-gia-dinh-voi-he-sinh-thai-dac-quyen-vpbank-diamond-188260708102159442.chn)
 
 **Lợi nhuận một ngân hàng được dự báo vượt Vietcombank, dẫn đầu toàn ngành trong quý II/2026**  
 
@@ -78,12 +84,6 @@ A survey of online deposit interest rates across 34 banks on June 29 shows conti
 Tax authorities requested several banks including BIDV, VPBank, and ACB to deduct money from bank accounts of individuals and business households with overdue taxes exceeding 90 days past the payment deadline. On June 26, the Base Tax Authority of Dong Thap Province issued enforcement decisions to compel payment through account deductions at the State Treasury and credit institutions. The enforcement action targets taxpayers who have failed to settle their tax obligations within the prescribed period.
 
 - Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-bidv-vpbank-acb-tru-tien-tu-tai-khoan-ngan-hang-cua-loat-ca-nhan-ho-kinh-doanh-co-ten-sau-day-188260629011009118.chn)
-
-**Bí thư Hà Nội kiểm tra các dự án giao thông hướng tâm quan trọng**  
-
-Hanoi Party Secretary Tran Duc Thang inspected major transport projects and directed contractors to mobilize sufficient labor and equipment to accelerate progress once clean land is handed over. The project to upgrade and improve National Highway 6 from Ha Dong to Xuan Mai is targeted for technical opening before Tet 2027 and full completion in Q1 2027. The Tax Authority requested BIDV, VPBank, ACB and other banks to deduct funds from accounts of multiple individuals.
-
-- Source: [CafeF](https://cafef.vn/bi-thu-ha-noi-kiem-tra-cac-du-an-giao-thong-huong-tam-quan-trong-18826062907191871.chn)
 
 ## Related coverage
 

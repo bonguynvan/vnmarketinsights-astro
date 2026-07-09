@@ -1,8 +1,8 @@
 ---
 title: "NAPAS — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning NAPAS, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -51,10 +51,10 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 
 ## Related coverage
 
+- [Từ Thái Lan, Lào đến Singapore: VietinBank từng bước mở rộng "Bản đồ QR" xuyên biên giới](https://cafef.vn/tu-thai-lan-lao-den-singapore-vietinbank-tung-buoc-mo-rong-ban-do-qr-xuyen-bien-gioi-188260708165248151.chn) — CafeF
+- [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
 - [Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm) — TuoiTre
 - [BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn) — CafeF
-- [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
-- [HDBank đồng hành cùng Cục Thuế thúc đẩy chuyển đổi số hộ kinh doanh](https://tuoitre.vn/hdbank-dong-hanh-cung-cuc-thue-thuc-day-chuyen-doi-so-ho-kinh-doanh-100260621095626978.htm) — TuoiTre
 
 ---
 

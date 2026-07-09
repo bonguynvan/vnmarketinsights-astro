@@ -1,8 +1,8 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-07-07"
-lastUpdated: "2026-07-07"
+publishedDate: "2026-07-09"
+lastUpdated: "2026-07-09"
 category: "Company"
 readingTime: 3
 ---
@@ -41,8 +41,8 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [Tiến độ sân bay Long Thành hiện nay ra sao?](https://cafef.vn/tien-do-san-bay-long-thanh-hien-nay-ra-sao-188260622140324676.chn) — CafeF
+- [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Vietnam Airlines dự kiến doanh thu gần 139.000 tỷ đồng](https://cafef.vn/vietnam-airlines-du-kien-doanh-thu-gan-139000-ty-dong-188260628113914966.chn) — CafeF
-- [Thủ tướng dự lễ khởi công 5 tuyến đường sắt, 3 dự án nhà ở cho thuê tại Hà Nội với tổng vốn hơn 1,3 triệu tỷ đồng](https://cafef.vn/thu-tuong-du-le-khoi-cong-5-tuyen-duong-sat-3-du-an-nha-o-cho-thue-tai-ha-noi-voi-tong-von-hon-13-trieu-ty-dong-188260622095113621.chn) — CafeF
 
 ---
 
