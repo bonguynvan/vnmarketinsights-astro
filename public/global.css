@@ -1046,6 +1046,19 @@ hr {
   font-size: var(--text-sm);
   color: var(--color-text-light);
 }
+.growth-modal__alt {
+  margin: var(--space-3) 0 0;
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-border-light);
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+.growth-modal__alt a {
+  color: var(--color-accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+.growth-modal__alt a:hover { text-decoration: underline; }
 
 /* Loading Spinner */
 .search-loading {
