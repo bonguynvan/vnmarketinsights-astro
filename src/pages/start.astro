@@ -81,6 +81,11 @@ const flows = [
       title="Want these flows in your inbox?"
       description="Get one weekly email with updated starter flows and fresh market datasets."
     />
+
+    <p class="start-telegram">
+      Prefer Telegram? <a href="https://t.me/vnmarketinsights" target="_blank" rel="noopener" data-track-event="start_telegram_click" data-track-category="acquisition" data-track-label="telegram">Join our Telegram channel</a>
+      for daily Vietnam market headlines — no signup, just tap <strong>Join</strong>.
+    </p>
   </article>
 </BaseLayout>
 
@@ -168,6 +173,23 @@ const flows = [
 </script>
 
 <style>
+  .start-telegram {
+    margin-top: var(--space-4);
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--color-border-light);
+    border-radius: 4px;
+    background: var(--color-bg-subtle);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    line-height: 1.6;
+  }
+  .start-telegram a {
+    color: var(--color-accent);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .start-telegram a:hover { text-decoration: underline; }
+
   .start-header {
     margin-bottom: var(--space-8);
   }

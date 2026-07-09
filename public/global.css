@@ -431,6 +431,24 @@ hr {
   line-height: 1.55;
 }
 
+.site-footer__follow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-3);
+  margin-top: var(--space-4);
+  font-size: var(--text-sm);
+}
+.site-footer__follow-label {
+  font-weight: 700;
+  color: var(--color-text);
+}
+.site-footer__follow a {
+  color: var(--color-text-muted);
+  text-decoration: none;
+}
+.site-footer__follow a:hover { color: var(--color-accent); }
+
 .site-footer__cols {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

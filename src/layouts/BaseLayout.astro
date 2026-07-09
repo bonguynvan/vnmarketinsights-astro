@@ -88,6 +88,7 @@ const breadcrumbSchema = {
 // they go live — they strengthen entity recognition in search.
 const ORG_SAME_AS: string[] = [
   'https://x.com/vnmarketinsight',
+  'https://t.me/vnmarketinsights',
   `${site}/rss.xml`,
   `${site}/briefs.xml`,
 ];
@@ -310,6 +311,12 @@ const allSchemas = [
           <span>Vietnam Market Insights</span>
         </a>
         <p class="site-footer__tagline">Maintained as an independent reference. No commercial affiliation.</p>
+        <div class="site-footer__follow">
+          <span class="site-footer__follow-label">Get the news</span>
+          <a href="https://t.me/vnmarketinsights" target="_blank" rel="noopener" data-track-event="footer_click" data-track-label="telegram">Telegram channel</a>
+          <a href="https://x.com/vnmarketinsight" target="_blank" rel="noopener" data-track-event="footer_click" data-track-label="x">X</a>
+          <a href="/rss.xml" data-track-event="footer_click" data-track-label="rss">RSS</a>
+        </div>
       </div>
 
       <nav class="site-footer__cols" aria-label="Footer navigation">
