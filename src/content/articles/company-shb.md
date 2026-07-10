@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **SHB** (6 mentions tracked). Summaries ar
 
 ## Recent mentions
 
+**SHB SAHA ra mắt tính năng “Sinh lời nhàn tênh”: Tự động sinh lời tới 6%/năm**  
+
+SHB (Saigon-Hanoi Bank) launched a new feature called "Sinh lời nhàn tênh" on its SHB SAHA digital banking application. The feature enables automatic income generation of up to 6% per annum on idle funds. The feature aims to optimize cash flow, increase earning efficiency, and provide flexibility in daily spending and financial management.
+
+- Source: [CafeF](https://cafef.vn/shb-saha-ra-mat-tinh-nang-sinh-loi-nhan-tenh-tu-dong-sinh-loi-toi-6-nam-188260709154856951.chn)
+
 **8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
 
 Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.

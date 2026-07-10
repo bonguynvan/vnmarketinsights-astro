@@ -9,9 +9,15 @@ readingTime: 3
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chuyện lần đầu tiên xảy ra ở Sun PhuQuoc Airways**  
+
+Sun Phu Quoc Airways has launched an on-site check-in service at select hotels within the Sun Group ecosystem in Phu Quoc. Passengers can now complete check-in procedures, receive boarding passes, and check baggage directly at partner hotels instead of traveling to the airport early. This service aims to provide convenience for airline passengers staying at Sun Group properties.
+
+- Source: [CafeF](https://cafef.vn/chuyen-lan-dau-tien-xay-ra-o-sun-phuquoc-airways-188260710114102222.chn)
 
 **Chủ tịch Sun Group Đặng Minh Trường: Sun Group không đầu tư để giành lấy một miếng bánh thị trường có sẵn!**  
 

@@ -9,9 +9,15 @@ readingTime: 3
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn ngày 10/7 đảo chiều tăng mạnh lên 150 triệu đồng/lượng**  
+
+Gold bar and smooth gold ring prices reversed course and rose sharply on July 10, reaching approximately 150 million VND per tael. The bid-ask spread widened to around 3-4 million VND per tael. Major dealers including SJC and Bảo Tín Mạnh Hải increased their gold quotations significantly during the morning session.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-ngay-10-7-dao-chieu-tang-manh-len-150-trieu-dong-luong-188260710082101171.chn)
 
 **Giá vàng trượt xa mốc 150 triệu đồng/lượng, người mua lỗ 6,5 triệu đồng từ đỉnh tháng 7**  
 
@@ -79,18 +85,12 @@ The appellate court hearing for the former CEO of SJC (Saigon Precious Metals Co
 
 - Source: [CafeF](https://cafef.vn/ly-do-tiep-tuc-hoan-xet-xu-phuc-tham-cuu-tong-giam-doc-sjc-18826062615314816.chn)
 
-**Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng**  
-
-Gold and silver prices fell sharply in both domestic and international markets on the morning of June 25, causing investors who bought at peak prices significant losses. Despite world gold prices breaking through the $4,000 per ounce level, Saigon Gold Silver Jewelry Company (SJC) and other gold trading businesses reduced SJC gold bar prices by approximately 800,000 VND to 143.2 million VND per tael for buying and 146.2 million VND per tael for selling. Gold ring and 99.99% jewelry gold prices also adjusted downward accordingly.
-
-- Source: [CafeF](https://cafef.vn/sang-25-6-gia-vang-bac-lao-doc-nha-dau-tu-soc-nang-188260625105005435.chn)
-
 ## Related coverage
 
-- [Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn) — CafeF
-- [Giá vàng tại SJC, Bảo Tín Mạnh Hải, DOJI, Phú Quý,... ngày 24/6](https://cafef.vn/gia-vang-tai-sjc-bao-tin-manh-hai-doji-phu-quy-ngay-24-6-188260624072201184.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
 - [Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ](https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
+- [V&agrave;ng phục hồi bất th&agrave;nh](https://thanhnien.vn/vang-phuc-hoi-bat-thanh-185260620192257933.htm) — ThanhNien
 
 ---
 

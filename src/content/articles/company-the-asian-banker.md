@@ -48,7 +48,7 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 - [HDBank ghi dấu ấn với bộ ba giải thưởng quốc tế uy tín](https://vietnamnet.vn/hdbank-ghi-dau-an-voi-bo-ba-giai-thuong-quoc-te-uy-tin-2532371.html) — VietnamNet
 - [HDBank nhận giải thưởng về bán lẻ, giải pháp SME](https://vnexpress.net/hdbank-nhan-giai-thuong-ve-ban-le-giai-phap-sme-5093505.html) — VnExpress
 - [Năm thứ hai liên tiếp, VPBank SME được vinh danh tại Asian Banking & Finance Retail Banking Awards](https://cafef.vn/nam-thu-hai-lien-tiep-vpbank-sme-duoc-vinh-danh-tai-asian-banking-finance-retail-banking-awards-188260707151538589.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [HDBank - ngân hàng duy nhất 9 năm liên tiếp là 'Nơi làm việc tốt nhất châu Á'](https://cafef.vn/hdbank-ngan-hang-duy-nhat-9-nam-lien-tiep-la-noi-lam-viec-tot-nhat-chau-a-18826071022361346.chn) — CafeF
 
 ---
 

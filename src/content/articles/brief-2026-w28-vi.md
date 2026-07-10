@@ -11,9 +11,17 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan thị trường tuần này
 
-Kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP quý II/2026 tăng 8,39% so với cùng kỳ năm trước, đạt kỷ lục mới, trong khi hệ thống ngân hàng cung cấp 1,4 triệu tỷ đồng cho nền kinh tế và tổng dư nợ tín dụng tăng 7,73% so với cuối năm 2025. Tuy nhiên, thị trường đang đối mặt với áp lực thanh khoản căng thẳng khiến lãi suất duy trì ở mức cao, gây khó khăn cho doanh nghiệp trong tiếp cận vốn. Bên cạnh đó, các cơ quan chức năng tiếp tục mở rộng điều tra các vụ án liên quan đến lừa đảo và rửa tiền với quy mô lớn, đồng thời triển khai các quy định quản lý thuế mới yêu cầu các tổ chức tín dụng chia sẻ dữ liệu chi tiết từ tháng 7.
+Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP 6 tháng đầu năm 2026 tăng 8,18% so với cùng kỳ năm trước, đạt mức cao nhất trong 15 năm qua, trong khi hệ thống ngân hàng cung cấp khoảng 1,4 triệu tỷ đồng cho nền kinh tế với tổng dư nợ tín dụng tăng 7,73% so với cuối năm 2025. Tuy nhiên, thị trường đối mặt với áp lực từ thanh khoản căng thẳng khiến lãi suất ở mức cao, đồng thời các cơ quan chức năng tiếp tục mở rộng điều tra các vụ án liên quan đến lừa đảo và rửa tiền với quy mô vượt quá 68.500 tỷ đồng.
+
+## Thương mại điện tử
+
+**Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược**  
+
+Nhiều nhà đầu tư từ Hàn Quốc, Nhật Bản, Singapore, Trung Quốc, Hoa Kỳ và châu Âu tiếp tục coi khu công nghiệp Việt Nam là điểm đến chiến lược trong chuỗi cung ứng khu vực và toàn cầu. Bài viết nhấn mạnh xu hướng liên tục của đầu tư trực tiếp nước ngoài vào cơ sở hạ tầng sản xuất của Việt Nam. Đoạn trích không cung cấp thông tin chi tiết về các số liệu đầu tư cụ thể hoặc tên công ty.
+
+- Nguồn: [CafeF](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn)
 
 ## Pháp lý
 
@@ -30,6 +38,13 @@ Công an Thành phố Đà Nẵng mở rộng điều tra vụ rửa tiền và 
 
 - Số liệu chính: Transaction volume (VND): 67,000 billion billion VND; Bank employees charged: 2 persons
 - Nguồn: [CafeF](https://cafef.vn/triet-pha-duong-day-rua-tien-lua-dao-hon-67000-ti-dong-co-su-tiep-tay-cua-nhieu-nhan-vien-ngan-hang-188260706063409164.chn)
+
+**Khởi tố nữ chủ tịch công ty vàng bạc Nguyễn Thị Xuân SN 1946**  
+
+Công an tỉnh Hà Tĩnh khởi tố bị can đối với Chủ tịch HĐQT 80 tuổi và Phó Giám đốc Công ty cổ phần Vàng bạc Phương Xuân. Các bị can bị cáo buộc chỉ đạo sử dụng 21 tài khoản cá nhân để che giấu gần 600 tỷ đồng doanh thu và trốn thuế gần 1,3 tỷ đồng. Vụ án được khởi tố vào ngày 10/7 bởi Cơ quan An ninh điều tra Công an tỉnh Hà Tĩnh.
+
+- Số liệu chính: Doanh thu che giấu: gần 600 tỷ đồng VND; Tiền thuế trốn: gần 1,3 tỷ đồng VND; Số tài khoản cá nhân được sử dụng: 21 accounts; Tuổi của Chủ tịch HĐQT bị khởi tố: 80 years
+- Nguồn: [CafeF](https://cafef.vn/khoi-to-nu-chu-tich-cong-ty-vang-bac-nguyen-thi-xuan-sn-1946-188260710202131513.chn)
 
 **Khởi tố 2 nhân viên ngân hàng trong đường dây rửa tiền 2,5 tỷ USD**  
 
@@ -66,14 +81,14 @@ Hai nhân viên ngân hàng bị khởi tố trong quá trình điều tra mở 
 - Số liệu chính: Transaction volume (VND): 67,000 billion tỉ đồng; Transaction volume (USD): 43 million USD; Transaction volume (EUR): 1.5 million Euro; Transaction volume (CAD): 1 million CAD
 - Nguồn: [CafeF](https://cafef.vn/2-nhan-vien-ngan-hang-bi-khoi-to-188260705172025097.chn)
 
-**Hàng triệu người đón tin vui lớn từ chính sách BHYT và BHXH mới**  
-
-Bắt đầu từ ngày 1/7, hàng loạt quy định mới liên quan đến bảo hiểm y tế (BHYT) và bảo hiểm xã hội (BHXH) chính thức có hiệu lực. Những thay đổi này nhằm mở rộng quyền lợi khám chữa bệnh, tăng mức hưởng trợ cấp và điều chỉnh lương hưu. Các điều chỉnh chính sách được dự kiến mang lại lợi ích thiết thực cho hàng triệu người dân trên toàn quốc.
-
-- Số liệu chính: Policy effective date: July 1
-- Nguồn: [CafeF](https://cafef.vn/hang-trieu-nguoi-don-tin-vui-lon-tu-chinh-sach-bhyt-va-bhxh-moi-188260703084054033.chn)
-
 ## Chứng khoán
+
+**Cập nhật KQKD ngân hàng ngày 10/7: Lợi nhuận một nhà băng ước giảm 50%, lãnh đạo nói đang ở tình thế rất nan giải và nợ xấu có thể tăng vọt**  
+
+Lợi nhuận của một ngân hàng ước giảm 50%, lãnh đạo mô tả tình thế rất nan giải và cảnh báo nợ xấu có thể tăng vọt đáng kể. Kết quả sơ bộ nửa đầu năm 2026 cho thấy sự phân hóa mạnh trong ngành ngân hàng. Các ngân hàng đang đánh giá triển vọng lợi nhuận, tăng trưởng tín dụng và khả năng huy động vốn trong thời gian tới.
+
+- Số liệu chính: Estimated profit decline: 50%; Period: First half of 2026
+- Nguồn: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-10-7-loi-nhuan-mot-nha-bang-uoc-giam-50-lanh-dao-noi-dang-o-tinh-the-rat-nan-giai-va-no-xau-co-the-tang-vot-18826071015293335.chn)
 
 **ABBank lãi trước thuế 6 tháng đầu năm 3.016 tỷ đồng, hoàn thành hơn 67% kế hoạch năm 2026**  
 
@@ -108,13 +123,6 @@ SACOMBANK, một ngân hàng lớn của Việt Nam, công bố báo cáo tài c
 
 - Nguồn: [CafeF](https://cafef.vn/hieu-gi-ve-cuoc-dai-phau-dang-sau-nhung-con-so-di-lui-cua-sacombank-188260706121602699.chn)
 
-**Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu**  
-
-Nhiều ngân hàng Việt Nam bao gồm Techcombank, VPBank, MB, HDBank, SHB, và MSB đang lên kế hoạch tăng vốn quy mô lớn thông qua phát hành cổ phiếu trong năm 2026. Tổng lượng cổ phiếu ngân hàng dự kiến đưa ra thị trường năm 2026 đã vượt 12 tỷ đơn vị và có thể còn tăng thêm nếu các ngân hàng quốc doanh được phê duyệt phương án chia cổ tức.
-
-- Số liệu chính: Total bank shares expected to be released to market in 2026: Over 12 billion units shares
-- Nguồn: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
-
 ## Kinh tế vĩ mô
 
 **Việt Nam vừa thiết lập một kỷ lục chưa từng có về tăng trưởng kinh tế**  
@@ -123,6 +131,13 @@ Cục Thống kê cho biết GDP quý II/2026 của Việt Nam đạt tăng trư
 
 - Số liệu chính: GDP growth Q2 2026: 8.39% year-over-year; GDP growth H1 2026: 8.18% year-over-year
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-thiet-lap-mot-ky-luc-chua-tung-co-ve-tang-truong-kinh-te-188260703135449473.chn)
+
+**Động lực nào để kinh tế Việt Nam bứt phá nửa cuối năm?**  
+
+GDP 6 tháng đầu năm 2026 của Việt Nam đạt mức cao nhất trong 15 năm qua, tuy nhiên việc đạt mục tiêu cả năm vẫn gặp nhiều thách thức. Các chuyên gia kinh tế cho rằng, những động lực then chốt bao gồm phát huy hiệu quả đầu tư công, chính sách hỗ trợ doanh nghiệp, cải cách thể chế, thúc đẩy đổi mới sáng tạo, và khơi thông sức mạnh khu vực kinh tế tư nhân. Nền kinh tế phải vượt qua nhiều thách thức để đạt mục tiêu tăng trưởng toàn năm.
+
+- Số liệu chính: First-half 2026 GDP growth rank: Highest in 15 years
+- Nguồn: [CafeF](https://cafef.vn/dong-luc-nao-de-kinh-te-viet-nam-but-pha-nua-cuoi-nam-18826071007573132.chn)
 
 **Lãi suất chưa hạ nhiệt, doanh nghiệp gặp khó**  
 
@@ -157,13 +172,6 @@ Sau 40 năm đổi mới, Việt Nam thay đổi cách nhìn về vai trò của
 
 - Nguồn: [CafeF](https://cafef.vn/thu-hut-fdi-trong-doi-moi-20-viet-nam-can-dong-chay-hay-mach-ngam-188260706091249487.chn)
 
-**Lãi suất huy động tăng nóng, cuộc đua hút vốn có đáng lo?**  
-
-Thị trường đang chứng kiến làn sóng tăng nóng lãi suất huy động thông qua các chương trình ưu đãi, thỏa thuận riêng và phát hành trái phiếu với mức lên tới 9-9,7%/năm. Theo các chuyên gia, nếu xu hướng này kéo dài, chi phí vốn của ngân hàng sẽ tăng mạnh, gây áp lực lên lãi suất cho vay và tiềm ẩn rủi ro cho sự ổn định hệ thống tài chính. Thị trường tiền gửi và trái phiếu đồng thời ghi nhận sự tăng của lãi suất huy động.
-
-- Số liệu chính: Mức lãi suất huy động thông qua các chương trình ưu đãi và trái phiếu: 9-9,7% % per annum
-- Nguồn: [CafeF](https://cafef.vn/lai-suat-huy-dong-tang-nong-cuoc-dua-hut-von-co-dang-lo-188260705165236163.chn)
-
 ## Khác
 
 **Đại bàng Hàn Quốc rót 1 tỷ USD xây dựng đại nhà máy  tương đương 43 sân bóng đá tại thành phố cảng lớn nhất Việt Nam: Giới truyền thông quốc tế nói gì?**  
@@ -186,13 +194,6 @@ Ban Thường vụ Thành ủy Hải Phòng đã thông nhất chủ trương đ
 
 - Số liệu chính: Tổng vốn đầu tư: 1 tỷ USD USD
 - Nguồn: [CafeF](https://cafef.vn/dau-tu-nha-may-san-xuat-de-mach-ban-dan-1-ty-usd-o-hai-phong-188260706184235576.chn)
-
-**Trong năm nay, 'ông lớn' Hàn Quốc sẽ khởi công xây dựng nhà máy bán dẫn 1 tỷ USD, quy mô hơn 300.000 m² tại thành phố cảng lớn nhất miền Bắc**  
-
-Nhà máy sản xuất đế mạch bán dẫn của công ty Hàn Quốc LG Innotek dự kiến khởi công xây dựng vào quý III/2026 tại Khu công nghiệp Nam Đình Vũ, thành phố Hải Phòng. Dự án có giá trị đầu tư khoảng 1 tỷ USD với quy mô trên 300.000 m². Đây là dự án phát triển kinh tế quan trọng tại thành phố cảng lớn nhất miền Bắc.
-
-- Số liệu chính: Investment value: 1 billion USD; Facility area: over 300,000 m²; Expected groundbreaking: Q3 2026
-- Nguồn: [CafeF](https://cafef.vn/trong-nam-nay-ong-lon-han-quoc-se-khoi-cong-xay-dung-nha-may-ban-dan-1-ty-usd-quy-mo-hon-300000-m-tai-thanh-pho-cang-lon-nhat-mien-bac-188260705084705836.chn)
 
 ---
 
