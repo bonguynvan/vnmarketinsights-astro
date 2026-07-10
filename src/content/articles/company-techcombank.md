@@ -1,17 +1,29 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-09"
-lastUpdated: "2026-07-09"
+publishedDate: "2026-07-10"
+lastUpdated: "2026-07-10"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
+
+Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.
+
+- Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
+
+**Diễn đàn Tài chính cấp Quốc gia VFF 2026 do Techcombank đồng tổ chức chính thức khai mạc**  
+
+The Vietnam Financial Forum 2026 (VFF 2026), co-hosted by Techcombank, officially opened on July 9, 2026 in Da Nang at the Ariyana Convention Center. The event aims to seek breakthrough solutions to unlock capital sources and build digital infrastructure for Vietnam's economy. The forum attracted participation from various stakeholders in the financial sector.
+
+- Source: [CafeF](https://cafef.vn/dien-dan-tai-chinh-cap-quoc-gia-vff-2026-do-techcombank-dong-to-chuc-chinh-thuc-khai-mac-18826070921252738.chn)
 
 **Techcom Life ra mắt Infinite Care: Chuẩn mực mới cho bảo hiểm sức khỏe cao cấp**  
 
@@ -73,24 +85,12 @@ Techcombank CEO Jens Lottner stated in a CNBC interview that Vietnam's economy r
 
 - Source: [CafeF](https://cafef.vn/ceo-techcombank-bien-dong-nang-luong-toan-cau-khong-lam-chech-huong-tang-truong-cua-viet-nam-188260623121345033.chn)
 
-**LPBank có gì đặc biệt?**  
-
-LPBank is described as a private bank with Vietnam's largest transaction network among private banks, operating over 1,000 service points nationwide. The bank has attracted attention for consistently leading the banking sector in cash dividend distributions. Related developments include share price movements and shareholder dividend announcements in the 2026 period.
-
-- Source: [CafeF](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn)
-
-**Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng**  
-
-Techcombank customers can accumulate U-Points from daily financial activities including bill payments, transfers, card spending, international money transfers, and use of ecosystem products like Techcombank Mobile and OneU. The points program allows customers to earn rewards alongside regular transaction needs without requiring changes to spending habits. Each U-Point equals one Vietnamese dong and can be used for QR code payments at stores or redeemed for vouchers.
-
-- Source: [VnExpress](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
+- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
 

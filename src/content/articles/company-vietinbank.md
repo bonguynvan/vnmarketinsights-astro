@@ -1,17 +1,41 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-07-09"
-lastUpdated: "2026-07-09"
+publishedDate: "2026-07-10"
+lastUpdated: "2026-07-10"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (37 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (41 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới**  
+
+A Vietnamese bank reported first-half 2026 profit growth of 80% compared to the same period in 2025, achieving 67% of its full-year 2026 plan. VietinBank and Agribank reached new record levels in their operational results. Several banks expanded assets at unprecedented rates, with HDBank, MB, and TPBank among the leading performers.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn)
+
+**Cổ đông VietinBank, BIDV, Vietcombank đón tin vui**  
+
+VietinBank announced a cash dividend payment of 4.5% on par value for 2025, with shareholders receiving 450 VND per share. The bank will conduct a shareholder record date from July 20-24, 2026, with final registration on July 24, 2026. BIDV and Vietcombank are also conducting similar shareholder record dates for dividend distributions during the same period.
+
+- Source: [CafeF](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn)
+
+**Người dưới chuẩn ngân hàng mong đợi gì từ tín dụng bình dân?**  
+
+Unbanked individuals view alternative lending forms as preferable to traditional banks and financial companies, with speed of loan processing and disbursement being the key advantages rather than interest rates. The excerpt references multiple banking-related stories including criminal charges against bank employees in a money laundering case and recognition of VPBank for environmental sustainability efforts. Shareholders of VietinBank, BIDV, and Vietcombank are noted to have received positive news.
+
+- Source: [CafeF](https://cafef.vn/nguoi-duoi-chuan-ngan-hang-mong-doi-gi-tu-tin-dung-binh-dan-188260709201404346.chn)
+
+**Lãi suất ngân hàng 9/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of 34 banks on July 9, 2026 shows online deposit interest rates remain at a maximum of 7.3% per annum, while the prevailing market rate range is between 6.6-6.9% per annum. Military Bank (MB) offers its highest rate at 7% per annum in July 2026, with online deposits remaining more attractive than over-the-counter rates. The article provides a daily update on interest rates across major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826070920280182.chn)
 
 **Từ Thái Lan, Lào đến Singapore: VietinBank từng bước mở rộng "Bản đồ QR" xuyên biên giới**  
 
@@ -61,36 +85,12 @@ VietinBank announced the appointment of Nguyễn Thanh Tùng as Deputy General D
 
 - Source: [CafeF](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn)
 
-**VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á**  
-
-VietinBank has been ranked 48th in Fortune Magazine's Southeast Asia 500 list for 2026, improving by 7 positions compared to 2025. This marks the third consecutive year the Vietnamese state-owned bank has appeared on the prestigious ranking of the region's largest companies by revenue. The Fortune Southeast Asia 500 list evaluates companies based on their latest financial year revenue figures.
-
-- Source: [CafeF](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn)
-
-**Thêm Singapore, Việt Nam hiện đã mở rộng mạng lưới thanh toán QR xuyên biên giới với 6 quốc gia**  
-
-Vietnam has expanded its cross-border QR payment network to 6 countries, with a ceremony on July 2, 2026 in Hanoi announcing the connection with Singapore. Within ASEAN, Vietnam now has payment links with 4 countries: Laos, Cambodia, Thailand, and Singapore. The event was attended by Singapore's Deputy Ambassador Donald Tsang, Vietnam's State Bank Deputy Governor Phạm Tiến Dũng, and leaders from NAPAS, Liquid Group, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/them-singapore-viet-nam-hien-da-mo-rong-mang-luoi-thanh-toan-qr-xuyen-bien-gioi-voi-6-quoc-gia-188260702154107665.chn)
-
-**Chủ tịch VietinBank Trần Minh Bình: VietinBank xác định phát triển thanh toán số xuyên biên giới là một trong những mũi nhọn chiến lược quan trọng trong giai đoạn hiện nay**  
-
-VietinBank Chairman Trần Minh Bình stated that cross-border digital payments development is identified as one of the bank's key strategic priorities in the current period. The bank has made investments in preparation for launching cross-border payment services with Singapore. A July 2 event brought together senior officials including the State Bank Deputy Governor, Napas Chair, VietinBank Chair, and Liquid Chair.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-vietinbank-tran-minh-binh-vietinbank-xac-dinh-phat-trien-thanh-toan-so-xuyen-bien-gioi-la-mot-trong-nhung-mui-nhon-chien-luoc-quan-trong-trong-giai-doan-hien-nay-188260702154426178.chn)
-
-**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
-
-On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
-
-- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
-- [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
-- [Lãi suất ngân hàng hôm nay 2/7/2026: Khuyến mãi &amp;apos;khủng&amp;apos; xuất hiện trở lại](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-2-7-2026-khuyen-mai-khung-xuat-hien-tro-lai-2531618.html) — VietnamNet
+- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
+- [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
 
 ---
 

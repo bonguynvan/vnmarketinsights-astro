@@ -1,17 +1,47 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-09"
-lastUpdated: "2026-07-09"
+publishedDate: "2026-07-10"
+lastUpdated: "2026-07-10"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
+
+Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.
+
+- Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
+
+**VPBank bổ nhiệm thêm một Phó Chủ tịch HĐQT**  
+
+VPBank appointed Pham Thi Nhung, a member of its Board of Directors, as Vice Chairman of the Board on July 9, 2026. The appointment is part of the bank's organizational restructuring as it prepares to implement its new five-year development strategy (2026–2030). Nhung has been with VPBank since 2016.
+
+- Source: [CafeF](https://cafef.vn/vpbank-bo-nhiem-them-mot-pho-chu-tich-hdqt-188260708151931065.chn)
+
+**Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7**  
+
+Several Vietnamese banks announced senior management changes in July, including appointments, dismissals, and additional board elections. These moves are expected to strengthen governance structures and improve operational efficiency to support development in the new phase. On July 9, VPBank's board approved the appointment of Pham Thi Nhung as Vice Chairwoman of the Board of Directors.
+
+- Source: [CafeF](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn)
+
+**VPBank được vinh danh Doanh nghiệp hàng đầu về năng lượng môi trường xanh**  
+
+VPBank was recognized as one of the Top 10 Green Enterprises - Net Zero Action within the "Energy and Green Environment Sustainability in Vietnam" awards organized by the Vietnam Chamber of Commerce and Industry (VCCI). The award is a prestigious national program that honors enterprises pioneering business model innovation and applying environmentally friendly technologies. The recognition highlights VPBank's commitment to sustainable and green energy practices.
+
+- Source: [CafeF](https://cafef.vn/vpbank-duoc-vinh-danh-doanh-nghiep-hang-dau-ve-nang-luong-moi-truong-xanh-18826070916481052.chn)
+
+**Người dưới chuẩn ngân hàng mong đợi gì từ tín dụng bình dân?**  
+
+Unbanked individuals view alternative lending forms as preferable to traditional banks and financial companies, with speed of loan processing and disbursement being the key advantages rather than interest rates. The excerpt references multiple banking-related stories including criminal charges against bank employees in a money laundering case and recognition of VPBank for environmental sustainability efforts. Shareholders of VietinBank, BIDV, and Vietcombank are noted to have received positive news.
+
+- Source: [CafeF](https://cafef.vn/nguoi-duoi-chuan-ngan-hang-mong-doi-gi-tu-tin-dung-binh-dan-188260709201404346.chn)
 
 **Mùa hè trọn vẹn cho cả gia đình với hệ sinh thái đặc quyền VPBank Diamond**  
 
@@ -55,42 +85,12 @@ VPBank appeared in the Forbes Global 2000 ranking for the third consecutive year
 
 - Source: [CafeF](https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn)
 
-**VPBank ký kết khoản vay hợp vốn liên kết bền vững đầu tiên trị giá 1,44 tỷ USD**  
-
-VPBank and 15 international financial institutions signed a sustainability-linked loan (SLL) facility valued at USD 1.44 billion. The banks served as Mandated Lead Arrangers, Underwriters and Bookrunners (MLAUBs) for the transaction. The signing ceremony took place on 30 June 2026 at VPBank's headquarters in Hanoi.
-
-- Source: [CafeF](https://cafef.vn/vpbank-ky-ket-khoan-vay-hop-von-lien-ket-ben-vung-dau-tien-tri-gia-144-ty-usd-188260630191900985.chn)
-
-**Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm**  
-
-A securities company forecasts that VPBank and HDBank will lead profit growth in Q2 2026, while three banks may see profit declines. The overall banking sector is expected to see after-tax profits increase around 15% compared to the same period last year, driven by positive credit growth. However, results will be highly divergent, with some banks projected to grow over 20-50% while others face pressure from narrowing net interest margins and rising costs.
-
-- Source: [CafeF](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn)
-
-**Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng**  
-
-The rankings of Vietnamese banks by profitability have shifted significantly over a decade, with changes reflecting differences in growth strategies, operational efficiency, and expansion pace among institutions. VPBank and HDBank are predicted to lead profit growth in the second quarter, according to securities analysts. Several banks have experienced notable rank changes, including HDBank and LPBank moving up impressively while another bank fell 10 positions.
-
-- Source: [CafeF](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn)
-
-**Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates across 34 banks on June 29 shows continued market segmentation. The article presents rankings of bank profitability changes over a decade and analyst predictions for Q2 profit growth among major banks. No specific interest rates or financial figures are detailed in this excerpt.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
-
-**Cơ quan Thuế yêu cầu BIDV, VPBank, ACB... trừ tiền từ tài khoản ngân hàng của loạt cá nhân, hộ kinh doanh có tên sau đây**  
-
-Tax authorities requested several banks including BIDV, VPBank, and ACB to deduct money from bank accounts of individuals and business households with overdue taxes exceeding 90 days past the payment deadline. On June 26, the Base Tax Authority of Dong Thap Province issued enforcement decisions to compel payment through account deductions at the State Treasury and credit institutions. The enforcement action targets taxpayers who have failed to settle their tax obligations within the prescribed period.
-
-- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-bidv-vpbank-acb-tru-tien-tu-tai-khoan-ngan-hang-cua-loat-ca-nhan-ho-kinh-doanh-co-ten-sau-day-188260629011009118.chn)
-
 ## Related coverage
 
+- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
+- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Vinhomes — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinhomes, with neutral summaries and source links."
-publishedDate: "2026-07-09"
-lastUpdated: "2026-07-09"
+publishedDate: "2026-07-10"
+lastUpdated: "2026-07-10"
 category: "Company"
 readingTime: 3
 ---

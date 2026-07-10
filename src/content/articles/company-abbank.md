@@ -1,17 +1,23 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-09"
-lastUpdated: "2026-07-09"
+publishedDate: "2026-07-10"
+lastUpdated: "2026-07-10"
 category: "Company"
 readingTime: 3
 ---
 
 # ABBank
 
-Recent Vietnam market news mentioning **ABBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ABBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ABBank lãi trước thuế 6 tháng đầu năm 3.016 tỷ đồng, hoàn thành hơn 67% kế hoạch năm 2026**  
+
+ABBank reported pre-tax profit of 3.016 trillion VND in the first half of 2026, achieving over 67% of its full-year 2026 plan. The bank maintained financial health with a non-performing loan (NPL) ratio of 0.55% and a capital adequacy ratio (CAR) above 12%. The bank is advancing plans to increase its capital to over 20,000 billion VND.
+
+- Source: [CafeF](https://cafef.vn/abbank-lai-truoc-thue-6-thang-dau-nam-3016-ty-dong-hoan-thanh-hon-67-ke-hoach-nam-2026-18826070913294732.chn)
 
 **Sức bứt phá từ những chiến lược toàn diện của ABBank**  
 
@@ -41,8 +47,8 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
+- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Một ngân hàng lớn dồn dập trả cổ tức, chào bán cổ phiếu](https://cafef.vn/mot-ngan-hang-lon-don-dap-tra-co-tuc-chao-ban-co-phieu-1882607071054295.chn) — CafeF
 
 ---
 
