@@ -1,17 +1,23 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'**  
+
+VinaCapital's affiliated investor group sold over 3 million PNJ shares on July 8, reducing their stake from 6.3 million shares (1.24% of charter capital) to 3.2 million shares. Following the sale, the group no longer qualifies as a major shareholder at Phu Nhuan Precious Metals Joint Stock Company (PNJ). VinaCapital filed a notification with the Securities Commission on this change in shareholding status.
+
+- Source: [TuoiTre](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm)
 
 **Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều**  
 
@@ -51,10 +57,10 @@ Gold prices in Vietnam showed strong recovery in early June before declining sha
 
 ## Related coverage
 
+- [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
 - [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
-- [Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn) — CafeF
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
+- [Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn) — CafeF
 
 ---
 

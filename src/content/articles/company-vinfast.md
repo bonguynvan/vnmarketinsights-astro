@@ -1,17 +1,23 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # VinFast
 
-Recent Vietnam market news mentioning **VinFast** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VinFast** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Startup 5 năm tuổi bắt tay IBM, Siemens, đặt cứ điểm tại Silicon Valley**  
+
+VietSol, a 5-year-old Vietnamese startup founded by former VinFast executive Nguyễn Quốc Tuấn, has established partnerships with major technology corporations including IBM and Siemens. The company has expanded its operations to Silicon Valley and operates in specialized technology sectors including electronics. VietSol's CEO shared insights on opportunities for Vietnamese enterprises in the United States market.
+
+- Source: [CafeF](https://cafef.vn/startup-5-nam-tuoi-cua-cuu-nhan-su-vinfast-bat-tay-ibm-siemens-dat-cu-diem-tai-silicon-valley-188260711090744471.chn)
 
 **VinFast nhận giải thưởng tại Asian Excellence Awards 2026**  
 
@@ -39,10 +45,10 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 ## Related coverage
 
-- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
-- [Tiến độ sân bay Long Thành hiện nay ra sao?](https://cafef.vn/tien-do-san-bay-long-thanh-hien-nay-ra-sao-188260622140324676.chn) — CafeF
+- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
+- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 
 ---
 

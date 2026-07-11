@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-10T23:51:25.463179+00:00",
+  "generatedAt": "2026-07-11T23:47:14.413515+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 342,
-      "growthRate": 5.5,
-      "avgSentiment": -0.084,
+      "total": 357,
+      "growthRate": 6.5,
+      "avgSentiment": -0.089,
       "tag": "Rising Star",
       "series": [
         {
@@ -103,15 +103,20 @@
           "date": "2026-07-10",
           "count": 13,
           "sentiment": -0.108
+        },
+        {
+          "date": "2026-07-11",
+          "count": 15,
+          "sentiment": -0.193
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 221,
-      "growthRate": 2.0,
-      "avgSentiment": 0.056,
+      "total": 232,
+      "growthRate": 2.667,
+      "avgSentiment": 0.054,
       "tag": "Rising Star",
       "series": [
         {
@@ -208,15 +213,20 @@
           "date": "2026-07-10",
           "count": 9,
           "sentiment": -0.089
+        },
+        {
+          "date": "2026-07-11",
+          "count": 11,
+          "sentiment": 0.018
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 110,
-      "growthRate": -0.667,
-      "avgSentiment": 0.211,
+      "total": 114,
+      "growthRate": -0.733,
+      "avgSentiment": 0.222,
       "tag": "Stable",
       "series": [
         {
@@ -303,16 +313,21 @@
           "date": "2026-07-10",
           "count": 5,
           "sentiment": -0.04
+        },
+        {
+          "date": "2026-07-11",
+          "count": 4,
+          "sentiment": 0.4
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 64,
-      "growthRate": 1.5,
-      "avgSentiment": 0.241,
-      "tag": "Rising Star",
+      "total": 66,
+      "growthRate": 0.0,
+      "avgSentiment": 0.257,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -408,15 +423,20 @@
           "date": "2026-07-10",
           "count": 5,
           "sentiment": 0.64
+        },
+        {
+          "date": "2026-07-11",
+          "count": 2,
+          "sentiment": 0.55
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 33,
+      "total": 34,
       "growthRate": -0.8,
-      "avgSentiment": 0.21,
+      "avgSentiment": 0.227,
       "tag": "Stable",
       "series": [
         {
@@ -498,15 +518,20 @@
           "date": "2026-07-10",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.5
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 32,
-      "growthRate": -0.5,
-      "avgSentiment": 0.132,
+      "total": 33,
+      "growthRate": -0.75,
+      "avgSentiment": 0.142,
       "tag": "Stable",
       "series": [
         {
@@ -583,6 +608,11 @@
           "date": "2026-07-10",
           "count": 2,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
@@ -649,10 +679,10 @@
     {
       "topic": "platforms",
       "siteSlug": "platforms",
-      "total": 20,
-      "growthRate": 3.0,
-      "avgSentiment": 0.424,
-      "tag": "Rising Star",
+      "total": 21,
+      "growthRate": 0.0,
+      "avgSentiment": 0.437,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -713,15 +743,20 @@
           "date": "2026-07-10",
           "count": 4,
           "sentiment": 0.5
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.6
         }
       ]
     },
     {
       "topic": "ecommerce",
       "siteSlug": "ecommerce",
-      "total": 15,
+      "total": 18,
       "growthRate": 0.5,
-      "avgSentiment": 0.418,
+      "avgSentiment": 0.405,
       "tag": "Rising Star",
       "series": [
         {
@@ -773,15 +808,20 @@
           "date": "2026-07-10",
           "count": 3,
           "sentiment": 0.567
+        },
+        {
+          "date": "2026-07-11",
+          "count": 3,
+          "sentiment": 0.267
         }
       ]
     },
     {
       "topic": "infrastructure",
       "siteSlug": "",
-      "total": 14,
+      "total": 15,
       "growthRate": -0.667,
-      "avgSentiment": 0.056,
+      "avgSentiment": 0.083,
       "tag": "Stable",
       "series": [
         {
@@ -823,15 +863,20 @@
           "date": "2026-07-09",
           "count": 1,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
     {
       "topic": "commodities",
       "siteSlug": "",
-      "total": 3,
+      "total": 4,
       "growthRate": 0.0,
-      "avgSentiment": -0.2,
+      "avgSentiment": -0.3,
       "tag": "Emerging",
       "series": [
         {
@@ -848,6 +893,11 @@
           "date": "2026-06-23",
           "count": 1,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": -0.6
         }
       ]
     },

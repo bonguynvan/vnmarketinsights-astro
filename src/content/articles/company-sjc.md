@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7**  
+
+Gold bar and ring prices were quoted around 149-150 million VND/tael on July 11 afternoon in Vietnam. SJC Company listed gold bars at 146.9-149.9 million VND/tael and smooth rings at 146.6-149.6 million VND/tael. Bảo Tín Mạnh Hải had adjusted gold prices higher on July 10 and maintained them on the morning of July 11, with bars at 146.9-149.9 million VND/tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn)
 
 **Giá vàng miếng, vàng nhẫn trơn ngày 10/7 đảo chiều tăng mạnh lên 150 triệu đồng/lượng**  
 
@@ -79,18 +85,12 @@ Gold prices at SJC increased by 1.3 million dong per tael on the morning of June
 
 - Source: [ThanhNien](https://thanhnien.vn/gia-vang-hom-nay-2862026-nguoi-mua-lien-tuc-thua-lo-18526062720575088.htm)
 
-**Lý do tiếp tục hoãn xét xử phúc thẩm cựu Tổng giám đốc SJC**  
-
-The appellate court hearing for the former CEO of SJC (Saigon Precious Metals Company) was postponed again on June 26 due to the emergence of new information. The court panel received additional documents and evidence submitted by the defendants. The exact date for reconvening the hearing will be announced later.
-
-- Source: [CafeF](https://cafef.vn/ly-do-tiep-tuc-hoan-xet-xu-phuc-tham-cuu-tong-giam-doc-sjc-18826062615314816.chn)
-
 ## Related coverage
 
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
 - [Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ](https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
-- [V&agrave;ng phục hồi bất th&agrave;nh](https://thanhnien.vn/vang-phuc-hoi-bat-thanh-185260620192257933.htm) — ThanhNien
+- [Giá vàng miếng SJC và vàng nhẫn vọt lên mức cao nhất trong tuần](https://cafef.vn/gia-vang-mieng-sjc-va-vang-nhan-vot-len-muc-cao-nhat-trong-tuan-188260627125841215.chn) — CafeF
 
 ---
 

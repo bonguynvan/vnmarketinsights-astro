@@ -1,17 +1,23 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (37 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of 34 banks' online deposit rates on July 11 shows that only a few banks maintained rates of 7% per annum or higher for 12-month terms, while most remained concentrated in the 6.8-6.9% per annum range. The article covers deposit rates across major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. The survey provides a snapshot of current deposit rate offerings in the Vietnamese banking sector.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn)
 
 **Lãi suất ngân hàng 10/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ A survey of online deposit interest rates from Vietnamese banks shows the highes
 State Audit Office of Vietnam organized a seminar on July 2 in Hanoi to discuss land valuation assessment in relation to land management and use. Nearly 300 audit errors related to land price determination were identified. Over 200 representatives from ministries, government agencies, localities, and organizations including BIDV Bank attended the discussion.
 
 - Source: [CafeF](https://cafef.vn/gan-300-sai-sot-duoc-phat-hien-qua-kiem-toan-lien-quan-den-xac-dinh-gia-dat-188260702120555526.chn)
-
-**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
-
-On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
-
-- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
 
 ## Related coverage
 

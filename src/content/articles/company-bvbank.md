@@ -1,8 +1,8 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---

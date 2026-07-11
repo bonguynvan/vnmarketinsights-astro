@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Mạnh Hải
 
-Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7**  
+
+Gold bar and ring prices were quoted around 149-150 million VND/tael on July 11 afternoon in Vietnam. SJC Company listed gold bars at 146.9-149.9 million VND/tael and smooth rings at 146.6-149.6 million VND/tael. Bảo Tín Mạnh Hải had adjusted gold prices higher on July 10 and maintained them on the morning of July 11, with bars at 146.9-149.9 million VND/tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn)
 
 **Giá vàng miếng, vàng nhẫn trơn ngày 10/7 đảo chiều tăng mạnh lên 150 triệu đồng/lượng**  
 
@@ -59,8 +65,8 @@ Domestic gold prices fell further by approximately 600,000 VND per tael on the a
 
 - [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
+- [Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn) — CafeF
 
 ---
 

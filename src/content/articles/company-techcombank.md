@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcom Life đoạt cú đúp giải thưởng tại Insurance Asia Awards 2026**  
+
+Techcom Life, a member of Techcombank's financial ecosystem, received two awards at Insurance Asia Awards 2026 held on July 7, 2026 in Singapore. The company was honored with Digital Transformation Initiative of the Year – Vietnam and Domestic Life Insurer of the Year – Vietnam. The awards recognize Techcom Life's performance and initiatives in the Vietnamese insurance sector.
+
+- Source: [CafeF](https://cafef.vn/techcom-life-doat-cu-dup-giai-thuong-tai-insurance-asia-awards-2026-188260711133925425.chn)
 
 **8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
 
@@ -79,18 +85,12 @@ Vietnam's economy maintains its long-term growth drivers despite global volatili
 
 - Source: [VietnamNet](https://vietnamnet.vn/viet-nam-duy-tri-nen-tang-tang-truong-truoc-nhung-bien-dong-toan-cau-2529676.html)
 
-**CEO Techcombank: Biến động năng lượng toàn cầu không làm chệch hướng tăng trưởng của Việt Nam**  
-
-Techcombank CEO Jens Lottner stated in a CNBC interview that Vietnam's economy remains on a growth trajectory despite inflationary pressures and volatility in global energy markets. He noted that major economic drivers and large businesses in Vietnam have not yet recorded significant impacts from these external pressures. The CEO emphasized that Vietnam's economic leadership remains committed to their strategic directions.
-
-- Source: [CafeF](https://cafef.vn/ceo-techcombank-bien-dong-nang-luong-toan-cau-khong-lam-chech-huong-tang-truong-cua-viet-nam-188260623121345033.chn)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
 - [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
-- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
+- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
+- [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
 
 ---
 

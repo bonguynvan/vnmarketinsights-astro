@@ -1,8 +1,8 @@
 ---
 title: "The Asian Banker — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning The Asian Banker, with neutral summaries and source links."
-publishedDate: "2026-07-10"
-lastUpdated: "2026-07-10"
+publishedDate: "2026-07-11"
+lastUpdated: "2026-07-11"
 category: "Company"
 readingTime: 3
 ---
@@ -48,7 +48,7 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 - [HDBank ghi dấu ấn với bộ ba giải thưởng quốc tế uy tín](https://vietnamnet.vn/hdbank-ghi-dau-an-voi-bo-ba-giai-thuong-quoc-te-uy-tin-2532371.html) — VietnamNet
 - [HDBank nhận giải thưởng về bán lẻ, giải pháp SME](https://vnexpress.net/hdbank-nhan-giai-thuong-ve-ban-le-giai-phap-sme-5093505.html) — VnExpress
 - [Năm thứ hai liên tiếp, VPBank SME được vinh danh tại Asian Banking & Finance Retail Banking Awards](https://cafef.vn/nam-thu-hai-lien-tiep-vpbank-sme-duoc-vinh-danh-tai-asian-banking-finance-retail-banking-awards-188260707151538589.chn) — CafeF
-- [HDBank - ngân hàng duy nhất 9 năm liên tiếp là 'Nơi làm việc tốt nhất châu Á'](https://cafef.vn/hdbank-ngan-hang-duy-nhat-9-nam-lien-tiep-la-noi-lam-viec-tot-nhat-chau-a-18826071022361346.chn) — CafeF
+- [Techcom Life đoạt cú đúp giải thưởng tại Insurance Asia Awards 2026](https://cafef.vn/techcom-life-doat-cu-dup-giai-thuong-tai-insurance-asia-awards-2026-188260711133925425.chn) — CafeF
 
 ---
 
