@@ -1,17 +1,29 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tin tức sáng 12-7: Tổng giám đốc PNJ đăng ký mua vào 1 triệu cổ phiếu**  
+
+The CEO and board member of PNJ (Phu Nhuang Jewelry Joint Stock Company), Phan Quoc Cong, has registered to purchase 1 million PNJ shares, equivalent to 0.2% of charter capital. The transaction is intended for personal investment portfolio restructuring and is expected to occur between July 17 and August 14 through matching and negotiated methods.
+
+- Source: [TuoiTre](https://tuoitre.vn/tin-tuc-sang-12-7-tong-giam-doc-pnj-dang-ky-mua-vao-1-trieu-co-phieu-100260711193942322.htm)
+
+**Tổng giám đốc PNJ có hành động mới; cổ phiếu &amp;apos;đại gia&amp;apos; một thời sắp hủy niêm yết**  
+
+PNJ's CEO Phan Quoc Cong has registered to purchase 1 million shares of the company, while Cao Ngoc Duy, brother of board chair Cao Thi Ngoc Dung, has registered to buy 300,000 shares. These purchases are intended to restructure personal investment portfolios following the company's stock decline related to a diamond controversy. The company faces potential delisting.
+
+- Source: [VietnamNet](https://vietnamnet.vn/tong-giam-doc-pnj-co-hanh-dong-moi-co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-2534933.html)
 
 **VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'**  
 
@@ -58,9 +70,9 @@ Gold prices in Vietnam showed strong recovery in early June before declining sha
 ## Related coverage
 
 - [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
-- [Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng lao dốc](https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-lao-doc-188260619072612286.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn) — CafeF
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
-- [Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
 
 ---
 

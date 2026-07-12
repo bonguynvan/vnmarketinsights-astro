@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 28/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 28 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -13,7 +13,7 @@ readingTime: 16
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực khi GDP 6 tháng đầu năm 2026 đạt mức cao nhất trong 15 năm, và đất nước chính thức vươn lên tầng thu nhập trung bình cao. Tuy nhiên, thị trường tín dụng đang chứng kiến tình trạng thanh khoản căng thẳng với lãi suất huy động vượt 9%/năm, gây áp lực chi phí cho các doanh nghiệp, trong khi các cơ quan chức năng mở rộng điều tra các vụ án lừa đảo và rửa tiền quy mô lớn với số tiền liên quan hàng chục nghìn tỷ đồng.
+Kinh tế Việt Nam ghi nhận những tín hiệu tích cực với GDP tăng trưởng cao nhất 16 năm, Ngân hàng Thế giới chính thức nâng hạng đất nước lên nhóm thu nhập trung bình cao, và các định chế tài chính quốc tế tiếp tục thể hiện tín tưởng qua các khoản vay hợp vốn quy mô lớn như HDBank vừa ký kết. Tuy nhiên, thị trường chứng khoán có những biến động nhất định khi một số công ty gặp khó khăn pháp lý và niêm yết, trong khi các cơ quan chức năng mở rộng điều tra các vụ án lừa đảo và rửa tiền với quy mô tiền tệ lớn. Bên cạnh đó, áp lực thanh khoản tại các ngân hàng tiếp tục tăng, khiến lãi suất huy động có xu hướng tăng cao trong những tháng cuối năm.
 
 ## Thương mại điện tử
 
@@ -39,6 +39,18 @@ Công an Thành phố Đà Nẵng mở rộng điều tra vụ rửa tiền và 
 - Số liệu chính: Transaction volume (VND): 67,000 billion billion VND; Bank employees charged: 2 persons
 - Nguồn: [CafeF](https://cafef.vn/triet-pha-duong-day-rua-tien-lua-dao-hon-67000-ti-dong-co-su-tiep-tay-cua-nhieu-nhan-vien-ngan-hang-188260706063409164.chn)
 
+**Xuất hiện thủ đoạn chiếm quyền SIM điện thoại để đánh cắp tài khoản ngân hàng**  
+
+Các tên tội phạm đang sử dụng chiêu thức chiếm quyền SIM để đánh cắp tài khoản ngân hàng bằng cách kiểm soát mã OTP và thiết lập lại dữ liệu sinh trắc học. Theo thông tin từ Cổng thông tin điện tử Công an tỉnh Phú Thọ, các đối tượng đóng vai nạn nhân bằng cách cướp quyền truy cập SIM thay vì tấn công trực tiếp ứng dụng ngân hàng hoặc hệ thống bảo mật sinh trắc học. Phương thức này cho phép tội phạm hành động như chủ sở hữu hợp pháp và truy cập trái phép vào thông tin tài khoản ngân hàng.
+
+- Nguồn: [CafeF](https://cafef.vn/xuat-hien-thu-doan-chiem-quyen-sim-dien-thoai-de-danh-cap-tai-khoan-ngan-hang-188260712203247417.chn)
+
+**Cổ phiếu LTG của Lộc Trời vào diện cảnh báo từ ngày 14/7/2026**  
+
+Cổ phiếu LTG của Lộc Trời bị đưa vào diện cảnh báo bởi Sở Giao dịch Chứng khoán Hà Nội (HNX) từ ngày 14/7/2026. Lý do cảnh báo là Lộc Trời không công bố Nghị quyết ĐHĐCĐ thường niên năm 2026 theo quy định. Công ty không tuân thủ yêu cầu công bố thông tin trong vòng một ngày làm việc sau hạn chót tổ chức Đại hội đồng cổ đông bắt buộc.
+
+- Nguồn: [CafeF](https://cafef.vn/co-phieu-ltg-cua-loc-troi-vao-dien-canh-bao-tu-ngay-14-7-2026-188260712100705311.chn)
+
 **Khởi tố nữ chủ tịch công ty vàng bạc Nguyễn Thị Xuân SN 1946**  
 
 Công an tỉnh Hà Tĩnh khởi tố bị can đối với Chủ tịch HĐQT 80 tuổi và Phó Giám đốc Công ty cổ phần Vàng bạc Phương Xuân. Các bị can bị cáo buộc chỉ đạo sử dụng 21 tài khoản cá nhân để che giấu gần 600 tỷ đồng doanh thu và trốn thuế gần 1,3 tỷ đồng. Vụ án được khởi tố vào ngày 10/7 bởi Cơ quan An ninh điều tra Công an tỉnh Hà Tĩnh.
@@ -61,6 +73,13 @@ Nghị định 252 triển khai các quy định mới theo Luật Quản lý th
 - Nguồn: [CafeF](https://cafef.vn/tat-ca-nguoi-dan-co-tai-khoan-ngan-hang-chu-y-quy-dinh-moi-nhat-ve-cung-cap-so-du-giao-dich-188260706154017974.chn)
 
 ## Chứng khoán
+
+**Tổng giám đốc PNJ có hành động mới; cổ phiếu &amp;apos;đại gia&amp;apos; một thời sắp hủy niêm yết**  
+
+Tổng giám đốc PNJ Phan Quốc Công đã đăng ký mua 1 triệu cổ phiếu của công ty, trong khi Cao Ngọc Duy, em trai chủ tịch HĐQT Cao Thị Ngọc Dung, đăng ký mua 300.000 cổ phiếu. Các lệnh mua này nhằm cơ cấu lại danh mục đầu tư cá nhân sau khi cổ phiếu của công ty sụt giảm liên quan đến vụ lùm xùm về kim cương. Công ty đang đối mặt với nguy cơ hủy niêm yết.
+
+- Số liệu chính: Shares registered for purchase by CEO Phan Quoc Cong: 1,000,000 shares; Shares registered for purchase by Cao Ngoc Duy: 300,000 shares
+- Nguồn: [VietnamNet](https://vietnamnet.vn/tong-giam-doc-pnj-co-hanh-dong-moi-co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-2534933.html)
 
 **HDBank huy động thành công 721 triệu USD từ ADB, Standard Chartered và các định chế tài chính quốc tế**  
 
@@ -110,13 +129,20 @@ Tám ngân hàng Việt Nam gồm Vietcombank, BIDV, VietinBank, MB, VPBank, Tec
 
 - Nguồn: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
 
-**Hiểu gì về cuộc “đại phẫu” đằng sau những con số đi lùi của SACOMBANK**  
-
-SACOMBANK, một ngân hàng lớn của Việt Nam, công bố báo cáo tài chính quý 1 cho thấy sự sụt giảm đáng kể trong các chỉ số hiệu suất chính, gây bất ngờ cho thị trường vì lịch sử lợi nhuận liên tiếp mạnh mẽ trước đó của nó. Ngoài sự sụt giảm đột ngột này, các bên liên quan đặc biệt quan tâm đến việc hiểu các nguyên nhân sâu xa và diễn biến trong tương lai khi thời hạn công bố báo cáo tài chính quý 2 đang gần. Bài viết thảo luận các vấn đề này dựa trên cuộc phỏng vấn với Loic Faussier, một giám đốc điều hành của ngân hàng.
-
-- Nguồn: [CafeF](https://cafef.vn/hieu-gi-ve-cuoc-dai-phau-dang-sau-nhung-con-so-di-lui-cua-sacombank-188260706121602699.chn)
-
 ## Kinh tế vĩ mô
+
+**Kinh tế Việt Nam 6 tháng đầu năm và dự báo cả năm 2026**  
+
+Kinh tế Việt Nam trong 6 tháng đầu năm 2026 đạt mức tăng trưởng cao nhất trong 16 năm qua. Dự báo tăng trưởng GDP cả năm có thể đạt 9-9,2%, và trong kịch bản tích cực, có thể lên tới 9,5-10%. Báo cáo đã xác định bốn rủi ro thách thức đồng thời đưa ra sáu khuyến nghị quan trọng.
+
+- Số liệu chính: H1 2026 GDP growth rate: highest in 16 years relative comparison; Full-year 2026 GDP growth projection (base case): 9-9.2 %; Full-year 2026 GDP growth projection (optimistic scenario): 9.5-10 %
+- Nguồn: [CafeF](https://cafef.vn/kinh-te-viet-nam-6-thang-dau-nam-va-du-bao-ca-nam-2026-188260712065356163.chn)
+
+**Khuyến nghị chiến lược từ WB khi Việt Nam lên nhóm thu nhập trung bình cao**  
+
+Ngân hàng Thế giới chính thức nâng hạng Việt Nam lên nhóm thu nhập trung bình cao nhờ những bứt phá ấn tượng về tăng trưởng kinh tế và xuất khẩu. Bài viết trình bày cột mốc phân loại của nền kinh tế Việt Nam này. Các biện pháp chính sách khác và mục tiêu kinh tế được thảo luận trong nguồn.
+
+- Nguồn: [CafeF](https://cafef.vn/khuyen-nghi-chien-luoc-tu-wb-khi-viet-nam-len-nhom-thu-nhap-trung-binh-cao-18826071207430273.chn)
 
 **Lãi suất thỏa thuận vượt 9%/năm: Cuộc đua 'nóng' đến bao giờ?**  
 
@@ -160,25 +186,6 @@ Các ngân hàng Việt Nam đang tăng cường cạnh tranh trong huy động 
 - Số liệu chính: Savings interest rate: over 9% per annum
 - Nguồn: [CafeF](https://cafef.vn/du-cach-nang-lai-suat-huy-dong-keo-dong-tien-ve-ngan-hang-188260708134431989.chn)
 
-**Thấy gì từ việc Việt Nam lên hạng nhóm thu nhập trung bình cao?**  
-
-Việt Nam đã đạt được trạng thái nước có thu nhập trung bình cao, thành tựu được các chuyên gia cho là do các chính sách của Chính phủ duy trì môi trường kinh doanh thuận lợi. Những chính sách này nâng cao khả năng cạnh tranh và thu hút các nhà đầu tư nước ngoài thiết lập hoạt động và chuỗi cung ứng ở Việt Nam. Tuy nhiên, các chuyên gia khuyến cáo rằng Việt Nam không nên tập trung vào thu hút vốn rẻ, mà phải trở thành quốc gia mà dòng vốn quốc tế sẵn sàng chấp nhận lợi nhuận thấp hơn.
-
-- Nguồn: [CafeF](https://cafef.vn/thay-gi-tu-viec-viet-nam-len-hang-nhom-thu-nhap-trung-binh-cao-188260707142139088.chn)
-
-**Nhập siêu cao nhất 10 năm: Có trong tầm kiểm soát?**  
-
-Cán cân thương mại của Việt Nam trong 6 tháng đầu năm ghi nhận mức nhập siêu khoảng 16,6 tỷ USD, cao nhất trong 10 năm sau hơn một thập kỷ duy trì xuất siêu liên tục. Phó Cục trưởng Cục Xuất nhập khẩu, Bộ Công Thương khẳng định rằng mức nhập siêu này vẫn nằm trong tầm kiểm soát. Bài viết khám phá liệu mức nhập siêu lớn như vậy có ảnh hưởng tiêu cực đến nền kinh tế hay không.
-
-- Số liệu chính: Trade deficit (first half of year): 16.6 billion USD
-- Nguồn: [CafeF](https://cafef.vn/nhap-sieu-cao-nhat-10-nam-co-trong-tam-kiem-soat-188260707194124237.chn)
-
-**Thu hút FDI trong Đổi Mới 2.0: Việt Nam cần “dòng chảy” hay “mạch ngầm”?**  
-
-Sau 40 năm đổi mới, Việt Nam thay đổi cách nhìn về vai trò của FDI trong nền kinh tế. Thay vì chỉ tìm kiếm "dòng chảy" vốn nhanh chóng, Việt Nam hiện ưu tiên FDI thấm sâu vào nền kinh tế thông qua chuỗi cung ứng, cải thiện tiêu chuẩn vận hành và xây dựng năng lực doanh nghiệp trong nước. Đất nước hướng tới tăng trưởng bền vững và phát triển dựa trên đổi mới sáng tạo với mục tiêu tăng trưởng hai chữ số.
-
-- Nguồn: [CafeF](https://cafef.vn/thu-hut-fdi-trong-doi-moi-20-viet-nam-can-dong-chay-hay-mach-ngam-188260706091249487.chn)
-
 ## Khác
 
 **Đại bàng Hàn Quốc rót 1 tỷ USD xây dựng đại nhà máy  tương đương 43 sân bóng đá tại thành phố cảng lớn nhất Việt Nam: Giới truyền thông quốc tế nói gì?**  
@@ -187,13 +194,6 @@ Tập đoàn LG của Hàn Quốc lên kế hoạch đầu tư 1 tỷ USD vào l
 
 - Số liệu chính: Investment amount: 1 billion USD
 - Nguồn: [CafeF](https://cafef.vn/dai-bang-han-quoc-rot-1-ty-usd-xay-dung-dai-nha-may-tuong-duong-43-san-bong-da-tai-thanh-pho-cang-lon-nhat-viet-nam-gioi-truyen-thong-quoc-te-noi-gi-188260709111929109.chn)
-
-**Kéo khối thép nặng 12.000 tấn ra biển nổi sừng sững, Việt Nam thành công làm chủ một công nghệ quan   trọng**  
-
-Việt Nam thành công triển khai và làm chủ công nghệ nổi một khối thép nặng 12.000 tấn trên biển, thể hiện khả năng trong lĩnh vực kỹ thuật biển phức tạp. Thành tựu này đại diện cho sự làm chủ một công nghệ tiên tiến mà ít quốc gia trên thế giới có thể thực hiện được. Dự án nêu bật năng lực ngày càng tăng của Việt Nam trong sản xuất thiết bị dầu khí chuyên biệt.
-
-- Số liệu chính: Steel structure weight: 12,000 tons
-- Nguồn: [CafeF](https://cafef.vn/keo-khoi-thep-nang-12000-tan-ra-bien-noi-sung-sung-viet-nam-thanh-cong-lam-chu-mot-cong-nghe-quan-trong-188260707152518568.chn)
 
 ---
 

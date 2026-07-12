@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7**  
+
+SJC gold bars were quoted at 146.9 – 149.9 million dong per tael on the morning of July 12, unchanged from the previous day. Plain gold rings showed price variation across different brands, with Bảo Tín Mạnh Hải and DOJI quoting 145.0 – 149.0 million dong per tael, while SJC quoted 146.4 – 149.4 million dong per tael. Gold prices had risen sharply earlier in the week before declining by 3 million dong per tael in subsequent trading sessions.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn)
 
 **Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7**  
 
@@ -79,18 +85,12 @@ Vietnamese domestic gold prices remained unchanged on June 28, 2026, as the mark
 
 - Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-28-6-188260628081046492.chn)
 
-**Gi&aacute; v&agrave;ng h&ocirc;m nay 28.6.2026: Người mua li&ecirc;n tục thua lỗ**  
-
-Gold prices at SJC increased by 1.3 million dong per tael on the morning of June 28, 2026, with buy-in prices at 145.5 million dong and sell prices at 148.5 million dong. Despite the price increase, buyers continue to incur losses due to the 3 million dong bid-ask spread, with losses of 1.7 million dong per tael compared to one week prior. Compared to early June when sell prices reached 159 million dong, gold buyers face cumulative losses of 13.5 million dong per tael.
-
-- Source: [ThanhNien](https://thanhnien.vn/gia-vang-hom-nay-2862026-nguoi-mua-lien-tuc-thua-lo-18526062720575088.htm)
-
 ## Related coverage
 
+- [Giá vàng hôm nay (12/7): Người mua lỗ 'kép' sau một tuần](https://cafef.vn/gia-vang-hom-nay-12-7-nguoi-mua-lo-kep-sau-mot-tuan-188260712100320973.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
-- [Giá vàng Việt Nam vượt vàng thế giới 19 triệu đồng/lượng, tuần tới có dự báo bất ngờ](https://cafef.vn/gia-vang-viet-nam-vuot-vang-the-gioi-19-trieu-dong-luong-tuan-toi-co-du-bao-bat-ngo-188260628215328704.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
-- [Giá vàng miếng SJC và vàng nhẫn vọt lên mức cao nhất trong tuần](https://cafef.vn/gia-vang-mieng-sjc-va-vang-nhan-vot-len-muc-cao-nhat-trong-tuan-188260627125841215.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng sáng 5/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-5-7-188260705095604194.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Ernst & Young — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ernst & Young, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---

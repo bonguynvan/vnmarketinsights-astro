@@ -1,8 +1,8 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---
@@ -46,9 +46,9 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Tăng vốn điều lệ: Đòn bẩy để Agribank tiếp tục dẫn dắt dòng vốn cho nền kinh tế](https://cafef.vn/tang-von-dieu-le-don-bay-de-agribank-tiep-tuc-dan-dat-dong-von-cho-nen-kinh-te-188260709212559894.chn) — CafeF
 - [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 
 ---
 

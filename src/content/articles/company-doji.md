@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7**  
+
+SJC gold bars were quoted at 146.9 – 149.9 million dong per tael on the morning of July 12, unchanged from the previous day. Plain gold rings showed price variation across different brands, with Bảo Tín Mạnh Hải and DOJI quoting 145.0 – 149.0 million dong per tael, while SJC quoted 146.4 – 149.4 million dong per tael. Gold prices had risen sharply earlier in the week before declining by 3 million dong per tael in subsequent trading sessions.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn)
 
 **Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều**  
 
@@ -71,8 +77,8 @@ Gold prices in Vietnam fell sharply on the morning of June 19, with bar gold dec
 
 - [Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
+- [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều 30/6 đồng loạt tăng so với mức thấp buổi sáng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-30-6-dong-loat-giam-toi-2-trieu-dong-luong-188260630075319258.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn trơn chiều ngày 23/6 bất ngờ giảm mạnh, người mua lỗ gần 5 triệu sau vài tiếng](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-ngay-23-6-bat-ngo-giam-manh-nguoi-mua-lo-gan-5-trieu-sau-vai-tieng-188260623161845608.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-11"
-lastUpdated: "2026-07-11"
+publishedDate: "2026-07-12"
+lastUpdated: "2026-07-12"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,30 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Tổng Giám đốc Sacombank: Được bổ nhiệm làm CEO sau 3 tháng gia nhập ngân hàng và mối duyên công việc với ông Nguyễn Đức Thụy**  
+
+Loic Faussier was appointed as CEO of Sacombank on July 10, 2026, after holding the positions of Deputy General Director and Acting General Director within just over three months of joining the bank. His appointment follows a structured leadership transition within the organization. The article discusses his rapid career progression and mentions a connection to Nguyễn Đức Thụy.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-tong-giam-doc-sacombank-duoc-bo-nhiem-lam-ceo-sau-3-thang-gia-nhap-ngan-hang-va-moi-duyen-cong-viec-voi-ong-nguyen-duc-thuy-188260712090226457.chn)
+
+**Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa**  
+
+Vietnamese banks released preliminary first-half 2026 financial results with mixed performance. Vietcombank announced positive figures while Sacombank's profit was estimated to decline by approximately half. The article provides an update on banking sector earnings with notable developments across multiple institutions.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn)
+
+**Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026**  
+
+HR Asia Magazine published its "Best Places to Work in Asia 2026" list, recognizing 109 enterprises and banks in Vietnam. The banking sector had 13 representatives on the list, with several banks receiving additional awards for technology, sustainable development, and employee care.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-sacombank-hdbank-acb-lpbank-cung-nhieu-ngan-hang-lot-top-noi-lam-viec-tot-nhat-chau-a-nam-2026-188260712172122173.chn)
+
+**Lãi suất ngân hàng 12/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates across 34 banks on July 12 shows the market high remains at 7.3% per annum for a 12-month tenor, while state-owned banks maintain 6.8% per annum. Vietcombank, Sacombank, HDBank, ACB, and LPBank are among multiple banks recognized as top workplaces in Asia for 2026.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn)
 
 **Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -61,36 +85,12 @@ SACOMBANK, a major Vietnamese bank, released Q1 financial results showing a sign
 
 - Source: [CafeF](https://cafef.vn/hieu-gi-ve-cuoc-dai-phau-dang-sau-nhung-con-so-di-lui-cua-sacombank-188260706121602699.chn)
 
-**Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates at 34 banks on July 6 shows the rate landscape remains stable. The highest rate on the market stands at 7.3% per annum for a 12-month term, while most banks quote rates between 6.6-6.9% per annum, with the Big4 banks showing no adjustments.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn)
-
-**Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates from Vietnamese banks shows the highest market rate for 12-month terms currently reaches 7.3% per annum, while most banks quote rates between 6.6-6.9% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This data reflects deposit rate conditions as of early July 2026.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn)
-
-**Nhiều cổ phiếu được hưởng lợi từ quy định mới của ngành ngân hàng**  
-
-On June 22, 2026, the State Bank of Vietnam officially issued Circular 25/2026/TT-NHNN, effective from July 1, 2026. This represents one of the most significant policy adjustments in bank liquidity management since 2019, according to MASVN analysts. Multiple stocks are positioned to benefit from these new banking regulations.
-
-- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-duoc-huong-loi-tu-quy-dinh-moi-cua-nganh-ngan-hang-188260630212733737.chn)
-
-**Tiết Kiệm Phù Đổng: SACOMBANK và hành trình 15 năm tiên phong giáo dục tài chính cho trẻ**  
-
-SACOMBANK has operated a children's savings product called "Tiết Kiệm Phù Đổng" for 15 years, designed to help parents teach financial literacy to their children. The product aims to develop savings habits from an early age while providing financial benefits. The initiative positions itself as a financial education tool for families.
-
-- Source: [CafeF](https://cafef.vn/tiet-kiem-phu-dong-sacombank-va-hanh-trinh-15-nam-tien-phong-giao-duc-tai-chinh-cho-tre-188260701085216055.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
+- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 - [Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn) — CafeF
-- [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
-- [Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-6-tai-mb-hdbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260626153611871.chn) — CafeF
 
 ---
 
