@@ -1,8 +1,8 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-12"
-lastUpdated: "2026-07-12"
+publishedDate: "2026-07-13"
+lastUpdated: "2026-07-13"
 category: "Company"
 readingTime: 3
 ---

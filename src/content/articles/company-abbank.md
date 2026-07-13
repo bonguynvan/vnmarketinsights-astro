@@ -1,17 +1,29 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-12"
-lastUpdated: "2026-07-12"
+publishedDate: "2026-07-13"
+lastUpdated: "2026-07-13"
 category: "Company"
 readingTime: 3
 ---
 
 # ABBank
 
-Recent Vietnam market news mentioning **ABBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ABBank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ba ngân hàng chuẩn bị lên sàn HoSE: VietBank chốt ngày giao dịch, BVBank và ABBank tăng tốc**  
+
+Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to list on the Ho Chi Minh Stock Exchange (HoSE), following earlier listings by VietABank and KienlongBank. VietBank has confirmed its trading date on HoSE. These banks are expected to complete their transfers to the main market in the coming period.
+
+- Source: [CafeF](https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn)
+
+**Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...**  
+
+Several Vietnamese banks released preliminary financial results for the first half of 2026, with most showing stable or declining non-performing loan (NPL) ratios. Vietcombank maintains one of the lowest NPL ratios in the system at below 1% as of June 30, 2026, compared to 0.62% at the end of Q1 2026. ABBank reported notable improvement in its NPL metrics.
+
+- Source: [CafeF](https://cafef.vn/bat-ngo-dien-bien-no-xau-moi-nhat-tai-vietcombank-agribank-sacombank-abbank-188260713103215498.chn)
 
 **ABBank lãi trước thuế 6 tháng đầu năm 3.016 tỷ đồng, hoàn thành hơn 67% kế hoạch năm 2026**  
 
@@ -45,10 +57,10 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 
 ## Related coverage
 
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Tăng vốn điều lệ: Đòn bẩy để Agribank tiếp tục dẫn dắt dòng vốn cho nền kinh tế](https://cafef.vn/tang-von-dieu-le-don-bay-de-agribank-tiep-tuc-dan-dat-dong-von-cho-nen-kinh-te-188260709212559894.chn) — CafeF
-- [Loạt ngân hàng sắp chia cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-chia-co-tuc-co-phieu-thuong-188260623062652597.chn) — CafeF
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
 
 ---
 

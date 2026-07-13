@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-12"
-lastUpdated: "2026-07-12"
+publishedDate: "2026-07-13"
+lastUpdated: "2026-07-13"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thúc đẩy lộ trình trung hòa carbon: Techcombank nhận giải thưởng Top 10 Doanh nghiệp Net Zero 2026**  
+
+Techcombank received a Top 10 Net Zero 2026 award at the World Energy and Environment Forum – Vietnam 2026, organized by the Vietnam Chamber of Commerce and Industry (VCCI). The award recognizes the bank's commitment to advancing a carbon-neutral roadmap. This reflects the bank's efforts to align with Vietnam's path toward net-zero emissions targets.
+
+- Source: [CafeF](https://cafef.vn/thuc-day-lo-trinh-trung-hoa-carbon-techcombank-nhan-giai-thuong-top-10-doanh-nghiep-net-zero-2026-188260713150116198.chn)
 
 **Techcom Life đoạt cú đúp giải thưởng tại Insurance Asia Awards 2026**  
 
@@ -79,18 +85,12 @@ Techcombank and Techcom Life received three awards from The Asian Banker 2026, a
 
 - Source: [CafeF](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn)
 
-**‘Việt Nam duy trì nền tảng tăng trưởng trước những biến động toàn cầu’**  
-
-Vietnam's economy maintains its long-term growth drivers despite global volatility, according to Techcombank leadership. Major economic anchors and large enterprises in Vietnam have not reported significant adverse effects and remain committed to long-term investment plans. Techcombank's observations suggest that Vietnam's economy shows resilience by sustaining long-term growth momentum even amid external environmental uncertainties.
-
-- Source: [VietnamNet](https://vietnamnet.vn/viet-nam-duy-tri-nen-tang-tang-truong-truoc-nhung-bien-dong-toan-cau-2529676.html)
-
 ## Related coverage
 
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
-- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 - [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
+- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 
 ---
 

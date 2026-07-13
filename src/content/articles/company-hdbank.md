@@ -1,17 +1,35 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-07-12"
-lastUpdated: "2026-07-12"
+publishedDate: "2026-07-13"
+lastUpdated: "2026-07-13"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (41 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Fitch Ratings lần đầu xếp hạng HDBank, ghi nhận nền tảng tài chính vững mạnh top đầu Việt Nam**  
+
+Fitch Ratings issued its first-ever credit ratings for HDBank, assigning a long-term issuer rating of BB- with a Stable Outlook. The ratings reflect HDBank's strong financial platform, high efficiency, and sustainability. The bank received high-level assessments indicating a robust financial foundation among top Vietnamese banks.
+
+- Source: [CafeF](https://cafef.vn/fitch-ratings-lan-dau-xep-hang-hdbank-ghi-nhan-nen-tang-tai-chinh-vung-manh-top-dau-viet-nam-188260713182849403.chn)
+
+**Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on July 13 shows the overall interest rate landscape remains stable. One bank raised its 12-month fixed deposit rate to 7.1% per annum, joining the group of banks quoting rates at 7% per annum or higher. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn)
+
+**Ngân hàng đầu tiên công bố tăng lãi suất tiết kiệm kể từ đầu tháng 7**  
+
+A bank has announced an increase in savings interest rates for the first time since early July. The bank is among a small group offering rates of 7% per annum from the 6-month term. Interest rate levels are being tracked across multiple major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-dau-tien-cong-bo-tang-lai-suat-tiet-kiem-ke-tu-dau-thang-7-188260713231413262.chn)
 
 **Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026**  
 
@@ -67,29 +85,11 @@ A survey of 34 banks on July 9, 2026 shows online deposit interest rates remain 
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826070920280182.chn)
 
-**HDBank tung loạt ưu đãi tài chính hấp dẫn, tiếp sức cho doanh nghiệp**  
-
-HDBank has launched three financial promotion programs targeting enterprises in logistics and transportation, agricultural-forestry-aquaculture lending, and other business sectors. The programs are designed to help enterprises optimize financial costs, secure capital sources, manage cash flow effectively, and enhance competitiveness as the market continues to recover and expand. The initiatives include a business account opening promotion that provides immediate benefits.
-
-- Source: [CafeF](https://cafef.vn/hdbank-tung-loat-uu-dai-tai-chinh-hap-dan-tiep-suc-cho-doanh-nghiep-188260709205456734.chn)
-
-**ADB và HDBank ký kết khoản vay 100 triệu USD hỗ trợ doanh nghiệp siêu nhỏ, nhỏ và vừa do phụ nữ làm chủ**  
-
-The Asian Development Bank (ADB) has signed a $100 million loan agreement with HDBank (Ho Chi Minh City Development Joint Stock Commercial Bank) to expand financial access for micro, small, and medium enterprises (MSMEs) in Vietnam, with particular focus on MSMEs led by women. Standard Chartered Bank (Singapore) is serving as co-arranger and coordinator of the financing. The loan aims to strengthen financial inclusion for underserved business segments in the country.
-
-- Source: [CafeF](https://cafef.vn/adb-va-hdbank-ky-ket-khoan-vay-100-trieu-usd-ho-tro-doanh-nghiep-sieu-nho-nho-va-vua-do-phu-nu-lam-chu-188260708073929957.chn)
-
-**Lãi suất ngân hàng HDBank mới nhất tháng 7/2026: Gửi kỳ hạn nào có lãi suất cao nhất?**  
-
-HDBank maintained a stable deposit rate landscape in early July 2026. Online deposit rates were generally higher than counter rates across most terms. Some special deposit products offered rates up to 7.6% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-hdbank-moi-nhat-thang-7-2026-gui-ky-han-nao-co-lai-suat-cao-nhat-18826070800141918.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 - [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn) — CafeF
 
 ---

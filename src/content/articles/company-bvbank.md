@@ -1,17 +1,29 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-12"
-lastUpdated: "2026-07-12"
+publishedDate: "2026-07-13"
+lastUpdated: "2026-07-13"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ba ngân hàng chuẩn bị lên sàn HoSE: VietBank chốt ngày giao dịch, BVBank và ABBank tăng tốc**  
+
+Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to list on the Ho Chi Minh Stock Exchange (HoSE), following earlier listings by VietABank and KienlongBank. VietBank has confirmed its trading date on HoSE. These banks are expected to complete their transfers to the main market in the coming period.
+
+- Source: [CafeF](https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn)
+
+**Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng**  
+
+The State Bank of Vietnam (SBV) approved BVBank to increase its charter capital by over 3,500 billion VND on July 8, 2026, bringing the total charter capital to nearly 10,000 billion VND. This approval supports BVBank's capital expansion and preparation for listing on the Ho Chi Minh Stock Exchange (HoSE). The bank is progressing with its planned stock market debut.
+
+- Source: [CafeF](https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn)
 
 **BVBank: Một thập kỷ "xây nền", một chu kỳ tăng trưởng mới**  
 
@@ -45,10 +57,10 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 
 ## Related coverage
 
+- [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
+- [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
 - [BVBank lần đầu được Fitch Ratings xếp hạng tín nhiệm tổ chức phát hành (IDR) dài hạn ở mức B+, triển vọng "Ổn định"](https://cafef.vn/bvbank-lan-dau-duoc-fitch-ratings-xep-hang-tin-nhiem-to-chuc-phat-hanh-idr-dai-han-o-muc-b-trien-vong-on-dinh-188260630101441451.chn) — CafeF
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 
