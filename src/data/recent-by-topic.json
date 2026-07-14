@@ -1,131 +1,99 @@
 {
-  "generatedAt": "2026-07-13T23:46:58.452624+00:00",
+  "generatedAt": "2026-07-14T23:46:27.029496+00:00",
   "topics": {
     "financial-markets": [
       {
-        "title": "Doanh nghiệp lao đao vì lãi vay neo cao",
-        "url": "https://cafef.vn/doanh-nghiep-lao-dao-vi-lai-vay-neo-cao-18826071306382785.chn",
+        "title": "SHB nhận 4 giải thưởng lớn tại Asian Banking & Finance Awards 2026",
+        "url": "https://cafef.vn/shb-nhan-4-giai-thuong-lon-tai-asian-banking-finance-awards-2026-188260714070132877.chn",
         "source": "CafeF",
-        "summary_en": "Vietnamese businesses face mounting pressure from persistently high borrowing costs, as lending rates remain elevated and credit access conditions remain tight. Companies struggle with both accepting high interest rates on loans and difficulty securing capital for production and business expansion. Rising deposit rates are driving continued high lending rates, further straining business operations.",
-        "summary_vn": "Các doanh nghiệp Việt Nam đang chịu áp lực lớn từ chi phí vay cao kéo dài, khi lãi suất cho vay vẫn ở mức cao và điều kiện tiếp cận tín dụng khắt khe. Doanh nghiệp vừa phải chấp nhận lãi suất vay cao vừa gặp khó trong việc huy động vốn để duy trì và mở rộng sản xuất kinh doanh. Lãi suất huy động tăng cao đang thúc đẩy lãi suất cho vay tiếp tục ở mức cao, tạo thêm áp lực lên hoạt động của doanh nghiệp.",
-        "pubDate": "Mon, 13 Jul 26 07:12:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
-      },
-      {
-        "title": "Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới",
-        "url": "https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn",
-        "source": "CafeF",
-        "summary_en": "Vietbank's stock (VBB) will officially move from the UPCoM to HoSE listing on July 14 after nearly 7 years of trading on UPCoM. The bank is implementing capital increase plans to raise chartered capital above 15,500 billion Vietnamese dong to support the next phase of development. The reference price for the HoSE listing day is 13,300 dong per share.",
-        "summary_vn": "Sau gần 7 năm giao dịch trên UPCoM, cổ phiếu VBB của Vietbank sẽ chính thức chuyển sang niêm yết trên HoSE từ ngày 14/7. Cùng với việc chuyển sàn, ngân hàng đang triển khai loạt phương án tăng vốn để nâng vốn điều lệ lên hơn 15.500 tỷ đồng. Giá tham chiếu trong ngày chào sàn HoSE là 13.300 đồng/cp.",
-        "pubDate": "Mon, 13 Jul 26 07:45:00 +0700",
-        "sentiment": 0.5,
-        "importance": 4
-      },
-      {
-        "title": "Doanh nghiệp “khát” vốn: Bài toán lãi suất vẫn chưa có lời giải",
-        "url": "https://cafef.vn/doanh-nghiep-khat-von-bai-toan-lai-suat-van-chua-co-loi-giai-18826071308255323.chn",
-        "source": "CafeF",
-        "summary_en": "More than 43% of enterprises are seeking interest rate reductions from banks to expand production amid rising capital costs. The banking system faces challenges balancing capital sources and managing increased non-performing loan risks. Supporting growth requires long-term policies that address difficulties for both enterprises and credit institutions simultaneously.",
-        "summary_vn": "Hơn 43% doanh nghiệp tiếp tục yêu cầu giảm lãi suất cho vay để mở rộng sản xuất trong bối cảnh chi phí vốn tăng cao. Hệ thống ngân hàng đối mặt thách thức về cân đối nguồn vốn và rủi ro nợ xấu gia tăng. Hỗ trợ tăng trưởng đòi hỏi những chính sách dài hạn để giải quyết đồng thời khó khăn của cả doanh nghiệp và tổ chức tín dụng.",
-        "pubDate": "Mon, 13 Jul 26 08:25:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Ba ngân hàng chuẩn bị lên sàn HoSE: VietBank chốt ngày giao dịch, BVBank và ABBank tăng tốc",
-        "url": "https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn",
-        "source": "CafeF",
-        "summary_en": "Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to list on the Ho Chi Minh Stock Exchange (HoSE), following earlier listings by VietABank and KienlongBank. VietBank has confirmed its trading date on HoSE. These banks are expected to complete their transfers to the main market in the coming period.",
-        "summary_vn": "Ba ngân hàng gồm VietBank, BVBank và ABBank đang đẩy nhanh kế hoạch chuyển sàn lên Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HoSE), theo sau VietABank và KienlongBank. VietBank đã chốt ngày giao dịch trên HoSE. Dự kiến các ngân hàng này sẽ hoàn thành việc chuyển sàn trong thời gian tới.",
-        "pubDate": "Mon, 13 Jul 26 10:23:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...",
-        "url": "https://cafef.vn/bat-ngo-dien-bien-no-xau-moi-nhat-tai-vietcombank-agribank-sacombank-abbank-188260713103215498.chn",
-        "source": "CafeF",
-        "summary_en": "Several Vietnamese banks released preliminary financial results for the first half of 2026, with most showing stable or declining non-performing loan (NPL) ratios. Vietcombank maintains one of the lowest NPL ratios in the system at below 1% as of June 30, 2026, compared to 0.62% at the end of Q1 2026. ABBank reported notable improvement in its NPL metrics.",
-        "summary_vn": "Một loạt ngân hàng Việt Nam vừa công bố kết quả kinh doanh sơ bộ 6 tháng đầu năm 2026 với đa số ghi nhận tỷ lệ nợ xấu ổn định hoặc giảm. Vietcombank tiếp tục duy trì một trong những tỷ lệ nợ xấu thấp nhất hệ thống ở mức dưới 1% tính đến 30/6/2026, so với 0,62% vào cuối quý 1/2026. ABBank ghi nhận cải thiện ấn tượng trong chỉ số nợ xấu.",
-        "pubDate": "Mon, 13 Jul 26 11:03:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "SHS ba năm liên tiếp được vinh danh “Nơi làm việc tốt nhất châu Á”",
-        "url": "https://cafef.vn/shs-ba-nam-lien-tiep-duoc-vinh-danh-noi-lam-viec-tot-nhat-chau-a-188260713112542695.chn",
-        "source": "CafeF",
-        "summary_en": "Saigon-Hanoi Securities Company (SHS) has been recognized by HR Asia as one of the \"Best Companies to Work for in Asia\" for the third consecutive year in 2026. The award recognizes SHS's consistent efforts in building a professional work environment and developing a high-quality workforce. The company emphasizes human-centered corporate culture as a core value.",
-        "summary_vn": "Công ty Cổ phần Chứng khoán Sài Gòn – Hà Nội (SHS) tiếp tục được HR Asia vinh danh là \"Nơi làm việc tốt nhất châu Á\" lần thứ ba liên tiếp năm 2026. Giải thưởng này ghi nhận những nỗ lực nhất quán của SHS trong việc xây dựng môi trường làm việc chuyên nghiệp và phát triển đội ngũ chất lượng cao. Công ty duy trì văn hóa doanh nghiệp lấy con người làm trọng tâm.",
-        "pubDate": "Mon, 13 Jul 26 11:30:00 +0700",
+        "summary_en": "Saigon-Hanoi Bank (SHB) received 4 major awards at the Asian Banking & Finance Awards 2026 ceremony. The bank was recognized across both retail and wholesale banking segments. SHB continues to reinforce its position among the top 5 private commercial banks in Vietnam and its footprint in the regional financial market.",
+        "summary_vn": "Ngân hàng TMCP Sài Gòn – Hà Nội (SHB) nhận 4 giải thưởng lớn tại lễ trao giải Asian Banking & Finance Awards 2026. Ngân hàng được vinh danh ở cả hai mảng ngân hàng bán lẻ và ngân hàng bán buôn. SHB tiếp tục khẳng định vị thế TOP5 Ngân hàng TMCP tư nhân Việt Nam và dấu ấn trên thị trường tài chính khu vực.",
+        "pubDate": "Tue, 14 Jul 26 08:00:00 +0700",
         "sentiment": 0.7,
         "importance": 2
-      }
-    ],
-    "regulations": [
+      },
       {
-        "title": "Khơi thông thanh khoản tài sản bảo đảm",
-        "url": "https://cafef.vn/khoi-thong-thanh-khoan-tai-san-bao-dam-188260713072826972.chn",
+        "title": "Hơn 9,4 triệu tỷ đồng của người dân và doanh nghiệp chảy vào 27 ngân hàng trong 10 năm qua: Ngân hàng nào hút được nhiều tiền gửi nhất?",
+        "url": "https://cafef.vn/hon-94-trieu-ty-dong-cua-nguoi-dan-va-doanh-nghiep-chay-vao-27-ngan-hang-trong-10-nam-qua-ngan-hang-nao-hut-duoc-nhieu-tien-gui-nhat-188260714080501681.chn",
         "source": "CafeF",
-        "summary_en": "The article discusses streamlining the processing time for collateral assets to improve debt recovery efficiency and create a foundation for developing debt trading markets. Shortening collateral liquidation timelines can release resources tied up in pledged assets whose value deteriorates over time. A workshop on resolving disputes related to credit and banking cases was organized by Vietnam Banks Association in coordination with Ho Chi Minh City People's Court.",
-        "summary_vn": "Bài viết thảo luận về việc rút ngắn thời gian xử lý tài sản bảo đảm nhằm cải thiện hiệu quả thu hồi nợ và tạo nền tảng phát triển thị trường mua bán nợ. Việc rút ngắn quy trình thanh lý tài sản thế chấp có thể giải phóng các nguồn lực bị mắc kẹt trong các tài sản cầm cố có giá trị giảm dần theo thời gian. Một hội thảo về giải quyết tranh chấp liên quan đến các vụ tín dụng và ngân hàng được tổ chức bởi Hiệp hội Ngân hàng Việt Nam phối hợp với TAND TP. Hồ Chí Minh.",
-        "pubDate": "Mon, 13 Jul 26 07:28:00 +0700",
-        "sentiment": 0.3,
+        "summary_en": "Over 9.4 quadrillion dong flowed into 27 banks on the stock exchange between 2015 and 2025, increasing overall deposit mobilization by approximately four times. BIDV, VietinBank, and Vietcombank lead by scale, while HDBank stands out with the fastest deposit growth rate in the system. The article examines deposit concentration across Vietnam's major banks and their relative performance.",
+        "summary_vn": "Hơn 9,4 triệu tỷ đồng tiền gửi chảy vào 27 ngân hàng trên sàn chứng khoán trong giai đoạn 2015-2025, với quy mô huy động tăng gần 4 lần. BIDV, VietinBank và Vietcombank dẫn đầu về quy mô, trong khi HDBank nổi bật với tốc độ tăng trưởng huy động nhanh nhất. Bài viết phân tích sự tập trung tiền gửi qua các ngân hàng lớn của Việt Nam.",
+        "pubDate": "Tue, 14 Jul 26 09:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Cổ phiếu Vietbank chính thức niêm yết trên HOSE",
+        "url": "https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn",
+        "source": "CafeF",
+        "summary_en": "Vietbank's shares officially commenced trading on the Ho Chi Minh Stock Exchange (HOSE) on July 14, 2026, with approximately 1.08 billion VBB shares. The listing marks a significant milestone in the bank's nearly 20-year development journey and signals its transition to a new development phase with higher standards for corporate governance, information transparency, and competitive capacity in the capital market.",
+        "summary_vn": "Cổ phiếu Vietbank chính thức bắt đầu giao dịch trên Sở Giao dịch Chứng khoán TP.HCM (HOSE) vào ngày 14/7/2026 với khoảng 1,08 tỷ cổ phiếu VBB. Sự niêm yết này đánh dấu cột mốc quan trọng trong hành trình phát triển gần 20 năm của Vietbank và biểu thị sự chuyển tiếp sang giai đoạn mới với các tiêu chuẩn cao hơn về quản trị doanh nghiệp, minh bạch thông tin và sức cạnh tranh trên thị trường vốn.",
+        "pubDate": "Tue, 14 Jul 26 13:56:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
+      },
+      {
+        "title": "Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh \"Ngân hàng tốt nhất Việt Nam\" bởi FinanceAsia",
+        "url": "https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn",
+        "source": "CafeF",
+        "summary_en": "Techcombank has won the \"Best Domestic Bank in Vietnam\" award from FinanceAsia for the fourth consecutive year at the FinanceAsia Awards 2026 ceremony. The award is an annual recognition given to financial institutions in the region. The selection process is based on rigorous data algorithms and an evaluation committee's assessment.",
+        "summary_vn": "Ngân hàng Techcombank được vinh danh \"Ngân hàng tốt nhất Việt Nam năm 2026\" từ FinanceAsia, đây là lần thứ 4 liên tiếp nhân được giải thưởng này tại lễ trao giải FinanceAsia Awards 2026. FinanceAsia Awards là giải thưởng thường niên uy tín trong khu vực. Quá trình chọn lựa dựa trên các thuật toán dữ liệu nghiêm ngặt và đánh giá của hội đồng giám khảo.",
+        "pubDate": "Tue, 14 Jul 26 18:30:00 +0700",
+        "sentiment": 0.8,
+        "importance": 3
+      },
+      {
+        "title": "Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adjustment, with no additional rate increases recorded in the deposit market. The highest interest rate for 12-month deposits stands at 7.3% per annum. ACB continues to offer the highest market rate at 7.3% per annum for 12-month deposits, while also offering 7.2% per annum for 9-month deposits.",
+        "summary_vn": "Lãi suất ngân hàng ngày 14/7 ổn định sau đợt điều chỉnh của Bac A Bank, không ghi nhận thêm ngân hàng tăng lãi suất. Mặt bằng lãi suất huy động đạt mức cao nhất 7,3%/năm cho kỳ hạn 12 tháng. ACB tiếp tục dẫn đầu thị trường với lãi suất 7,3%/năm cho kỳ hạn 12 tháng và 7,2%/năm cho kỳ hạn 9 tháng.",
+        "pubDate": "Tue, 14 Jul 26 19:21:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Bảo hiểm xã hội Việt Nam thông báo quy định mới vừa chính thức được áp   dụng",
-        "url": "https://cafef.vn/bao-hiem-xa-hoi-viet-nam-thong-bao-quy-dinh-moi-vua-chinh-thuc-duoc-ap-dung-188260713103047572.chn",
+        "title": "HDBank công bố thông tin lãi suất cho vay",
+        "url": "https://cafef.vn/hdbank-cong-bo-thong-tin-lai-suat-cho-vay-188260714203726715.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam Social Insurance announced new regulations that took effect on July 1, 2026, adjusting social insurance and health insurance contribution and benefit rates based on changes to the base salary level. The announcement was made on July 9 under Government Decree No. 161. The specific adjustments to contribution and benefit levels are linked to the base salary adjustment for the period.",
-        "summary_vn": "Bảo hiểm xã hội Việt Nam thông báo các quy định mới chính thức có hiệu lực từ ngày 1/7/2026, điều chỉnh mức đóng và mức hưởng bảo hiểm xã hội và bảo hiểm y tế dựa trên thay đổi mức lương cơ sở. Thông báo được đưa ra vào ngày 9/7 theo Nghị định số 161 của Chính phủ. Các điều chỉnh cụ thể về mức đóng và mức hưởng gắn liền với điều chỉnh mức lương cơ sở cho giai đoạn này.",
-        "pubDate": "Mon, 13 Jul 26 11:03:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Tổng Bí thư, Chủ tịch nước: Thông tin đã có trong cơ sở dữ liệu thì không yêu cầu người dân, doanh nghiệp kê khai",
-        "url": "https://cafef.vn/tong-bi-thu-chu-tich-nuoc-thong-tin-da-co-trong-co-so-du-lieu-thi-khong-yeu-cau-nguoi-dan-doanh-nghiep-ke-khai-188260713102647969.chn",
-        "source": "CafeF",
-        "summary_en": "The Central Party Office issued a statement summarizing conclusions from Party General Secretary and State President Tô Lâm, who chairs the Central Steering Committee on Science-Technology Development, Innovation, and Digital Transformation. The statement relates to a specialized session on digital transformation within the political system. No specific policy details or quantitative data are provided in the excerpt.",
-        "summary_vn": "Văn phòng Trung ương Đảng công bố thông báo kết luận của Tổng Bí thư, Chủ tịch nước Tô Lâm, người là Trưởng Ban Chỉ đạo Trung ương về phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số. Thông báo liên quan đến phiên họp chuyên đề về chuyển đổi số trong hệ thống chính trị. Đoạn trích không cung cấp chi tiết chính sách hoặc dữ liệu định lượng cụ thể.",
-        "pubDate": "Mon, 13 Jul 26 11:04:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Chính thức từ tháng 7, những trường hợp sau sẽ phải kê khai tài sản, thu nhập, gồm cả tài khoản ngân hàng, sổ tiết kiệm, sổ đỏ...",
-        "url": "https://cafef.vn/chinh-thuc-tu-thang-7-nhung-truong-hop-sau-se-phai-ke-khai-tai-san-thu-nhap-gom-ca-tai-khoan-ngan-hang-so-tiet-kiem-so-do-188260713111654129.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam is implementing a new asset and income disclosure requirement starting July 2026 under Decree 164/2026/NĐ-CP issued on May 15, 2026. The decree covers officials and individuals in positions of authority within state agencies, organizations, and units. Three groups of people are required to file annual asset and income declarations, including bank accounts, savings books, and property ownership documents.",
-        "summary_vn": "Từ tháng 7/2026, Việt Nam bắt đầu triển khai yêu cầu kê khai tài sản và thu nhập theo Nghị định 164/2026/NĐ-CP được ban hành ngày 15/5/2026. Nghị định này áp dụng cho các cán bộ, công chức và những người có chức vụ, quyền hạn trong các cơ quan, tổ chức, đơn vị nhà nước. Ba nhóm đối tượng có nghĩa vụ nộp tờ kê khai tài sản và thu nhập hàng năm, bao gồm tài khoản ngân hàng, sổ tiết kiệm và giấy tờ chứng thực quyền sở hữu tài sản.",
-        "pubDate": "Mon, 13 Jul 26 11:16:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Bắc Ninh tiến thêm bước quan trọng lên thành phố trực thuộc Trung ương",
-        "url": "https://cafef.vn/bac-ninh-tien-them-buoc-quan-trong-len-thanh-pho-truc-thuoc-trung-uong-188260713103256642.chn",
-        "source": "CafeF",
-        "summary_en": "Bắc Ninh province government held a specialized session on July 13, 2026 to discuss and provide feedback on the proposal to establish Bắc Ninh as a centrally-controlled city. The proposal outlines plans for administrative reorganization of the province. This represents an important step in Bắc Ninh's advancement toward municipal status.",
-        "summary_vn": "Ngày 13 tháng 7 năm 2026, UBND tỉnh Bắc Ninh tổ chức phiên họp chuyên đề để thảo luận về Đề án thành lập thành phố Bắc Ninh trực thuộc Trung ương. Cuộc họp nhằm cung cấp ý kiến về kế hoạch nâng cấp hành chính của tỉnh. Đây là một bước tiến quan trọng trong quá trình Bắc Ninh nâng cấp lên thành phố trực thuộc Trung ương.",
-        "pubDate": "Mon, 13 Jul 26 11:24:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Cơ quan thuế gửi thông báo đến người đang cho thuê nhà, cho thuê bất động sản",
-        "url": "https://cafef.vn/co-quan-thue-gui-thong-bao-den-nguoi-dang-cho-thue-nha-cho-thue-bat-dong-san-188260713145614459.chn",
-        "source": "CafeF",
-        "summary_en": "Tax authorities issued notifications to individuals renting out residential property and real estate regarding tax obligations. The notification addresses cases where property owners are minors, requiring clarification on how personal income tax should be declared and paid. Additional tax administration notices were issued to 301 taxpayers regarding completion of outstanding tax obligations.",
-        "summary_vn": "Cơ quan thuế đã gửi thông báo đến cá nhân cho thuê nhà và bất động sản về các nghĩa vụ thuế. Thông báo đề cập đến trường hợp chủ sở hữu bất động sản là người chưa đủ tuổi vị thành niên, yêu cầu làm rõ cách kê khai và nộp thuế thu nhập cá nhân. Cơ quan thuế cũng đã gửi thông báo cho 301 người nộp thuế về hoàn thành các nghĩa vụ thuế còn lại.",
-        "pubDate": "Mon, 13 Jul 26 15:33:00 +0700",
+        "summary_en": "HDBank announced its lending rates, with short-term loans at 8.5% per annum and medium to long-term loans at 10.4% per annum in Vietnamese Dong. The spread between average deposit and lending rates reached 3.2%. The announcement was made on July 14, 2026.",
+        "summary_vn": "HDBank công bố lãi suất cho vay với các khoản vay ngắn hạn ở mức 8,5%/năm và khoản vay trung, dài hạn là 10,4%/năm tính bằng VND. Chênh lệch giữa lãi suất tiền gửi và cho vay bình quân đạt 3,2%. Thông tin được công bố vào ngày 14/7/2026.",
+        "pubDate": "Tue, 14 Jul 26 20:35:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       }
     ],
     "consumers": [
+      {
+        "title": "Người nổi tiếng dạy con quản lý tài chính như thế nào?",
+        "url": "https://cafef.vn/nguoi-noi-tieng-day-con-quan-ly-tai-chinh-nhu-the-nao-188260714080244097.chn",
+        "source": "CafeF",
+        "summary_en": "The article discusses how three notable women—a content creator, a female entrepreneur, and a CEO—teach their children about financial management and money. Rather than using formal lessons, these mothers allow their children to gain practical experience by earning rewards, saving money, and making their own spending decisions. The approach emphasizes experiential learning for children navigating financial literacy in modern contexts.",
+        "summary_vn": "Bài viết thảo luận về cách ba phụ nữ nổi tiếng—một nhà sáng tạo nội dung, một nữ doanh nhân và một CEO—dạy con em của họ về quản lý tài chính và tiền bạc. Thay vì sử dụng các bài học chính thức, những bà mẹ này cho phép con em của họ có được kinh nghiệm thực tế bằng cách tự kiếm phần thưởng, tiết kiệm tiền và tự đưa ra quyết định chi tiêu. Phương pháp này nhấn mạnh học tập qua kinh nghiệm cho trẻ em trong bối cảnh hiện đại.",
+        "pubDate": "Tue, 14 Jul 26 08:02:00 +0700",
+        "sentiment": 0.2,
+        "importance": 2
+      },
+      {
+        "title": "Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng",
+        "url": "https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn",
+        "source": "CafeF",
+        "summary_en": "SJC gold ring and bar prices declined sharply on July 14th. Investors who had recently purchased experienced losses of nearly 5 million VND per tael. The bid-ask spread for gold bars remained high at 3-4.9 million VND per tael, while gold rings showed spreads of 3.5-4 million VND per tael.",
+        "summary_vn": "Giá vàng nhẫn và vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh. Những nhà đầu tư vừa mua vàng đã chịu lỗ gần 5 triệu đồng/lượng. Chênh lệch giá mua-bán vàng miếng vẫn cao ở mức 3-4,9 triệu đồng/lượng, còn vàng nhẫn là 3,5-4 triệu đồng/lượng.",
+        "pubDate": "Tue, 14 Jul 26 10:05:00 +0700",
+        "sentiment": -0.7,
+        "importance": 2
+      },
+      {
+        "title": "Du khách Việt sẵn sàng lên kế hoạch cho cả một hành trình để \"đu\" concert",
+        "url": "https://cafef.vn/du-khach-viet-san-sang-len-ke-hoach-cho-ca-mot-hanh-trinh-de-du-concert-188260714094535945.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese tourists are increasingly willing to plan entire trips around attending live music concerts, with music tourism emerging as one of the fastest-growing travel trends globally. Travel is no longer limited to simple leisure vacations but has evolved into a means for people to pursue their passions and create deeply personal experiences. This shift reflects a broader transformation in how consumers approach travel and entertainment.",
+        "summary_vn": "Du khách Việt sẵn sàng lên kế hoạch cho các chuyến hành trình hoàn chỉnh để tham dự các buổi hòa nhạc trực tiếp, với du lịch âm nhạc nổi lên như một trong những xu hướng phát triển nhanh nhất trên toàn thế giới. Du lịch không còn chỉ là những kỳ nghỉ đơn thuần mà đã trở thành cách để mọi người theo đuổi đam mê và tạo nên những trải nghiệm mang dấu ấn cá nhân sâu sắc. Sự thay đổi này phản ánh quá trình chuyển đổi rộng lớn trong cách người tiêu dùng tiếp cận du lịch và giải trí.",
+        "pubDate": "Tue, 14 Jul 26 09:45:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "Lãi suất tiết kiệm lên 9%/năm, người gửi tiền nhấp nhổm đáo hạn ngân hàng này để gửi ngân hàng khác",
         "url": "https://cafef.vn/lai-suat-tiet-kiem-len-9-nam-nguoi-gui-tien-nhap-nhom-dao-han-ngan-hang-nay-de-gui-ngan-hang-khac-188260713154352972.chn",
@@ -135,88 +103,90 @@
         "pubDate": "Mon, 13 Jul 26 15:43:00 +0700",
         "sentiment": 0.0,
         "importance": 2
+      }
+    ],
+    "payments": [
+      {
+        "title": "OCB nâng cấp dòng thẻ Mastercard World 2in1, chiều lòng tín đồ mê du lịch",
+        "url": "https://cafef.vn/ocb-nang-cap-dong-the-mastercard-world-2in1-chieu-long-tin-do-me-du-lich-188260714081151429.chn",
+        "source": "CafeF",
+        "summary_en": "OCB has upgraded its Mastercard World 2in1 card line effective July 1, 2026. The new version features enhanced cashback policies, comprehensive benefits including privileges for premium dining, travel and vacation, and daily spending. Cardholders can earn up to 60 million VND in cashback rewards.",
+        "summary_vn": "OCB nâng cấp dòng thẻ Mastercard World 2in1 có hiệu lực từ 01/7/2026. Phiên bản mới có các chính sách hoàn tiền được cải thiện, ưu đãi toàn diện bao gồm đặc quyền cho ẩm thực cao cấp, du lịch nghỉ dưỡng và chi tiêu hàng ngày. Chủ thẻ có thể kiếm được tối đa 60 triệu đồng từ các chương trình hoàn tiền.",
+        "pubDate": "Tue, 14 Jul 26 08:10:00 +0700",
+        "sentiment": 0.6,
+        "importance": 2
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Cục Thuế ban hành công điện hỏa tốc liên quan đến hơn 617.000 doanh nghiệp",
+        "url": "https://cafef.vn/cuc-thue-ban-hanh-cong-dien-hoa-toc-lien-quan-den-hon-617000-doanh-nghiep-188260714105134084.chn",
+        "source": "CafeF",
+        "summary_en": "The Tax Department issued an urgent notice concerning over 617,000 enterprises from two priority groups, which will be reviewed and have their tax arrears processed during a peak inspection period in July. Starting July 1st, banks are required to provide account balances and unusual transactions to tax authorities. New tax exemption regulations for bank transfers officially took effect on July 1st.",
+        "summary_vn": "Cục Thuế ban hành công điện hỏa tốc liên quan đến hơn 617.000 doanh nghiệp từ hai nhóm trọng điểm, sẽ được rà soát và xử lý các tồn đọng về thuế trong đợt cao điểm diễn ra trong tháng 7. Từ ngày 1/7, ngân hàng phải cung cấp số dư tài khoản và giao dịch bất thường cho cơ quan thuế. Quy định mới về miễn thuế khi chuyển khoản ngân hàng chính thức áp dụng từ ngày 1/7.",
+        "pubDate": "Tue, 14 Jul 26 10:49:00 +0700",
+        "sentiment": 0.0,
+        "importance": 4
       },
       {
-        "title": "Du lịch bứt phá nửa đầu năm, thành động lực tăng trưởng kinh tế của TP Hồ Chí Minh",
-        "url": "https://cafef.vn/du-lich-but-pha-nua-dau-nam-thanh-dong-luc-tang-truong-kinh-te-cua-tp-ho-chi-minh-188260712082711469.chn",
+        "title": "Thống đốc Phạm Đức Ấn: Bổ sung dịch vụ tài sản mã hóa vào nhóm báo cáo về phòng, chống rửa tiền",
+        "url": "https://cafef.vn/thong-doc-pham-duc-an-bo-sung-dich-vu-tai-san-ma-hoa-vao-nhom-bao-cao-ve-phong-chong-rua-tien-188260714115138788.chn",
         "source": "CafeF",
-        "summary_en": "Tourism achieved strong performance in the first half of the year, becoming a key driver of economic growth in Ho Chi Minh City. The tourism sector generated 210,000 billion dong in revenue during this period. The growth in tourism is spreading positive effects across multiple economic sectors.",
-        "summary_vn": "Du lịch đạt hiệu suất mạnh trong nửa đầu năm, trở thành động lực chính thúc đẩy tăng trưởng kinh tế TP Hồ Chí Minh. Ngành du lịch đã tạo ra doanh thu 210.000 tỷ đồng trong giai đoạn này. Sự tăng trưởng trong du lịch đang lan tỏa những tác động tích cực trên nhiều lĩnh vực kinh tế.",
-        "pubDate": "Sun, 12 Jul 26 09:00:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "Vietnam's State Bank Governor Phạm Đức Ấn proposed adding cryptocurrency asset services to the group of anti-money laundering reporting requirements. The proposal was discussed during the National Assembly Standing Committee's 4th regular session in July, as part of a draft law amending banking and anti-money laundering legislation. The amendment aims to institutionalize Party policies and ensure compliance with regulatory standards.",
+        "summary_vn": "Thống đốc Ngân hàng Nhà nước Phạm Đức Ấn đề xuất bổ sung dịch vụ tài sản mã hóa vào nhóm báo cáo yêu cầu phòng, chống rửa tiền. Đề xuất được thảo luận tại Phiên họp thứ 4 của Ủy ban Thường vụ Quốc hội vào tháng 7, nhằm sửa đổi luật về ngân hàng và phòng chống rửa tiền. Sửa đổi nhằm thể chế hóa đường lối chủ trương của Đảng và đảm bảo tuân thủ các tiêu chuẩn quản lý.",
+        "pubDate": "Tue, 14 Jul 26 12:51:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
+      },
+      {
+        "title": "Bước chuyển của F88: Dùng kỷ luật ESG để tái định nghĩa ngành tài chính bình dân",
+        "url": "https://cafef.vn/buoc-chuyen-cua-f88-dung-ky-luat-esg-de-tai-dinh-nghia-nganh-tai-chinh-binh-dan-188260714104731533.chn",
+        "source": "CafeF",
+        "summary_en": "F88, an alternative finance company in Vietnam, has published an ESG (Environmental, Social, and Governance) report, marking the first instance of such disclosure in the alternative finance sector in Vietnam. Ms. Trần Mai Thảo, F88's Sustainable Development Director, discussed the company's strategy to transform the sensitive lending segment into a transparent, responsible, and sustainable financial ecosystem. The company chose to publish the ESG report at this time as a voluntary initiative rather than due to regulatory requirements or specific capital market milestones.",
+        "summary_vn": "F88, một công ty tài chính thay thế tại Việt Nam, đã công bố Báo cáo ESG, đánh dấu lần đầu tiên ngành tài chính thay thế công bố báo cáo này tại Việt Nam. Bà Trần Mai Thảo, Giám đốc Phát triển bền vững của F88, đã thảo luận về chiến lược của công ty nhằm biến phân khúc tài chính nhạy cảm thành một hệ sinh thái tài chính minh bạch, trách nhiệm và bền vững. Công ty chọn công bố báo cáo ESG này như một sáng kiến tự nguyện chứ không phải do yêu cầu pháp định hay các cột mốc cụ thể trên thị trường vốn.",
+        "pubDate": "Tue, 14 Jul 26 13:30:00 +0700",
+        "sentiment": 0.3,
+        "importance": 3
+      },
+      {
+        "title": "Khởi tố nhiều chủ doanh nghiệp, chủ tiệm vàng lớn trong đường dây buôn lậu kim cương xuyên quốc gia",
+        "url": "https://cafef.vn/khoi-to-nhieu-chu-doanh-nghiep-chu-tiem-vang-lon-trong-duong-day-buon-lau-kim-cuong-xuyen-quoc-gia-188260714143637721.chn",
+        "source": "CafeF",
+        "summary_en": "Police in Thanh Hoa Province initiated criminal charges against four suspects on July 12, 2026, including multiple business owners and jewelry shop operators in Ho Chi Minh City as part of Operation 268V investigating an international diamond smuggling ring. The suspects face charges of smuggling diamonds under Article 188 of the Criminal Code, with authorities seizing an additional 139 diamonds of various types during the investigation.",
+        "summary_vn": "Cảnh sát Công an tỉnh Thanh Hóa đã khởi tố 4 bị can vào ngày 12/7/2026, bao gồm nhiều chủ doanh nghiệp và chủ tiệm vàng tại TP. Hồ Chí Minh trong vụ Chuyên án 268V điều tra đường dây buôn lậu kim cương xuyên quốc gia. Các bị can bị truy tố về tội Buôn lậu kim cương theo Điều 188 Bộ luật hình sự, với 139 viên kim cương các loại bị thu giữ.",
+        "pubDate": "Tue, 14 Jul 26 14:45:00 +0700",
+        "sentiment": -1.0,
+        "importance": 3
+      },
+      {
+        "title": "Các tài khoản ngân hàng dưới đây sẽ bị đóng từ ngày 30/7",
+        "url": "https://cafef.vn/cac-tai-khoan-ngan-hang-duoi-day-se-bi-dong-tu-ngay-30-7-188260714164034383.chn",
+        "source": "CafeF",
+        "summary_en": "LPBank announced it will close transaction accounts for individual customers that have zero balances and no continuous transactions for 12 months, effective from July 30. Banks in Vietnam are implementing policies to manage inactive accounts and charge fees on accounts below certain minimum balances. The closure applies to personal accounts meeting the specified inactivity criteria.",
+        "summary_vn": "LPBank thông báo sẽ đóng tài khoản thanh toán của khách hàng cá nhân có số dư bằng không và không phát sinh giao dịch liên tục trong 12 tháng, kể từ ngày 30/7. Các ngân hàng tại Việt Nam đang thực hiện chính sách quản lý tài khoản không hoạt động và thu phí trên các tài khoản dưới mức số dư tối thiểu nhất định. Việc đóng tài khoản áp dụng cho các tài khoản cá nhân đáp ứng tiêu chí không hoạt động được chỉ định.",
+        "pubDate": "Tue, 14 Jul 26 16:37:00 +0700",
+        "sentiment": -0.2,
+        "importance": 2
+      },
+      {
+        "title": "Khởi tố 31 bị can, thu 1.239 viên kim cương: Hé lộ thủ đoạn buôn lậu tinh vi của loạt chủ tiệm vàng",
+        "url": "https://cafef.vn/khoi-to-31-bi-can-thu-1239-vien-kim-cuong-he-lo-thu-doan-buon-lau-tinh-vi-cua-loat-chu-tiem-vang-188260714154756497.chn",
+        "source": "CafeF",
+        "summary_en": "Police have initiated proceedings against 31 suspects in a diamond and precious metal smuggling ring. Investigators found 1,239 diamonds and identified smuggling operations worth over 1,500 billion Vietnamese dong with illicit gains exceeding 300 billion dong. The Economic Police of Thanh Hoa Province and Ho Chi Minh City police are coordinating investigations into the sophisticated smuggling methods used by jewelry shop owners.",
+        "summary_vn": "Cảnh sát đã khởi tố 31 bị can liên quan đến đường dây buôn lậu kim cương và kim loại quý. Các nhà điều tra phát hiện 1.239 viên kim cương và xác định các hoạt động buôn lậu trị giá trên 1.500 tỷ đồng với lợi bất chính vượt quá 300 tỷ đồng. Phòng Cảnh sát kinh tế Thanh Hóa và cảnh sát Thành phố Hồ Chí Minh đang phối hợp điều tra các thủ đoạn buôn lậu tinh vi của các chủ tiệm vàng.",
+        "pubDate": "Tue, 14 Jul 26 16:59:00 +0700",
+        "sentiment": -0.8,
+        "importance": 4
       }
     ],
     "logistics": [
       {
-        "title": "Cận cảnh 7 vị trí TP.HCM dự kiến xây cầu vượt thép xóa điểm ùn tắc lâu năm",
-        "url": "https://cafef.vn/can-canh-7-vi-tri-tphcm-du-kien-xay-cau-vuot-thep-xoa-diem-un-tac-lau-nam-188260713092045478.chn",
+        "title": "Thu phí đường bộ 5 dự án cao tốc",
+        "url": "https://cafef.vn/thu-phi-duong-bo-5-du-an-cao-toc-188260714133227216.chn",
         "source": "CafeF",
-        "summary_en": "Ho Chi Minh City proposes investing in 7 steel overpass bridges at frequently congested intersections in the city center and surrounding areas of Binh Duong and Ba Ria-Vung Tau, with total capital exceeding 2,700 billion VND. According to the Ho Chi Minh City Department of Construction, the city will build three overpasses in the central area to reduce traffic congestion. One planned overpass is at the 6-way intersection of Cong Truong Dan Chu square, connecting Duong 3/2 with Duong Cach Mang Thang Ta.",
-        "summary_vn": "TP.HCM đề xuất đầu tư 7 cầu vượt thép tại các nút giao thường xuyên ùn tắc ở trung tâm thành phố cũng như các khu vực Bình Dương và Bà Rịa - Vũng Tàu, với tổng vốn hơn 2.700 tỷ đồng. Theo đề xuất của Sở Xây dựng TP.HCM, thành phố sẽ xây dựng ba cầu vượt tại khu vực trung tâm nhằm giảm ùn tắc giao thông. Một trong những cầu vượt được lên kế hoạch là tại nút giao ngã 6 Công trường Dân Chủ, kết nối đường 3/2 với đường Cách Mạng Tháng Tá.",
-        "pubDate": "Mon, 13 Jul 26 10:05:00 +0700",
-        "sentiment": 0.2,
-        "importance": 2
-      },
-      {
-        "title": "Trong tháng sau, tuyến cao tốc hơn 43.700 tỷ đồng, rút ngắn thời gian di chuyển Quy Nhơn - Pleiku còn 1,5 giờ  phải hoàn thành hạng mục này",
-        "url": "https://cafef.vn/trong-thang-sau-tuyen-cao-toc-hon-43700-ty-dong-rut-ngan-thoi-gian-di-chuyen-quy-nhon-pleiku-con-15-gio-phai-hoan-thanh-hang-muc-nay-188260713153937046.chn",
-        "source": "CafeF",
-        "summary_en": "A highway project valued at over 43,700 billion VND is scheduled to be completed within the coming month. Upon completion, this highway will reduce travel time between Quy Nhon and Pleiku to 1.5 to 2 hours. The project represents a major infrastructure development connecting these two cities.",
-        "summary_vn": "Dự án đường cao tốc trị giá hơn 43.700 tỷ đồng được lên kế hoạch hoàn thành trong tháng tới. Sau khi hoàn thành, tuyến cao tốc này sẽ rút ngắn thời gian di chuyển từ Quy Nhơn đến Pleiku còn 1,5 đến 2 giờ. Dự án đại diện cho một phát triển cơ sở hạ tầng lớn kết nối hai thành phố này.",
-        "pubDate": "Mon, 13 Jul 26 15:40:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "Tăng tốc kết nối sân bay Long Thành: Những hình ảnh mới nhất của Tuổi Trẻ trên đại công trường",
-        "url": "https://tuoitre.vn/tang-toc-ket-noi-san-bay-long-thanh-nhung-hinh-anh-moi-nhat-cua-tuoi-tre-tren-nhung-cong-truong-100260710180538235.htm",
-        "source": "TuoiTre",
-        "summary_en": "Long Thanh Airport is planned for completion by the end of 2026, with approximately 70% of passengers expected to travel to Ho Chi Minh City. Infrastructure connections to the airport are being developed, including the Ho Chi Minh City-Long Thanh expressway, which will serve as the primary transport link while rail and metro projects remain under construction. Recent site inspections document progress on these connectivity infrastructure projects.",
-        "summary_vn": "Sân bay Long Thành dự kiến hoàn thành vào cuối năm 2026, với khoảng 70% hành khách dự kiến di chuyển đến TP.HCM. Các công trình kết nối hạ tầng đang được phát triển, bao gồm cao tốc TP.HCM - Long Thành, sẽ là tuyến chủ lực trong khi các dự án đường sắt và metro vẫn đang thi công. Các cuộc khảo sát tại hiện trường gần đây ghi nhận những tiến triển trên các công trình kết nối hạ tầng này.",
-        "pubDate": "7/13/2026 7:05:00 AM",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "TPHCM dự kiến khởi công 7 cầu vượt thép, hoàn thành vào năm 2027",
-        "url": "https://cafef.vn/tphcm-du-kien-khoi-cong-7-cau-vuot-thep-hoan-thanh-vao-nam-2027-188260712092734175.chn",
-        "source": "CafeF",
-        "summary_en": "Ho Chi Minh City is accelerating procedures to begin construction of 7 steel overpass bridges in 2026 at frequently congested intersections in central areas, Binh Duong province, and Ba Ria - Vung Tau province, with completion targeted for 2027. The 7 projects are part of a group of infrastructure projects managed by the Department of Construction. The initiative aims to alleviate traffic congestion in the metropolitan area.",
-        "summary_vn": "TPHCM đang đẩy nhanh thủ tục để khởi công 7 cầu vượt thép vào năm 2026 tại các nút giao thường xuyên ùn tắc ở khu vực trung tâm, Bình Dương và Bà Rịa - Vũng Tàu, với mục tiêu hoàn thành vào năm 2027. 7 công trình này thuộc nhóm dự án được quản lý bởi Sở Xây dựng. Sáng kiến nhằm mục đích giảm tình trạng ùn tắc giao thông tại khu vực thành phố.",
-        "pubDate": "Sun, 12 Jul 26 09:29:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Tăng tốc thi công cầu Trần Hưng Đạo",
-        "url": "https://cafef.vn/tang-toc-thi-cong-cau-tran-hung-dao-188260712092111605.chn",
-        "source": "CafeF",
-        "summary_en": "Construction efforts on the Tran Hung Dao bridge are accelerating, with contractors actively implementing work on both shore and underwater sections of the Red River. After months of foundation work underwater, multiple bridge pillars have emerged above water level. The project owner aims to complete the structure by September 2027.",
-        "summary_vn": "Công tác thi công cầu Trần Hưng Đạo đang tăng tốc, với các nhà thầu triển khai tích cực các hạng mục trên bờ và dưới lòng sông Hồng. Sau nhiều tháng xử lý nền móng dưới nước, nhiều trụ cầu đã nổi lên trên mặt nước. Chủ đầu tư dự kiến hoàn thành công trình vào tháng 9 năm 2027.",
-        "pubDate": "Sun, 12 Jul 26 10:00:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Siết tiến độ, giải ngân các dự án hạ tầng giao thông",
-        "url": "https://cafef.vn/siet-tien-do-giai-ngan-cac-du-an-ha-tang-giao-thong-188260712134928786.chn",
-        "source": "CafeF",
-        "summary_en": "The Ministry of Construction issued a directive requiring project investors and management units to accelerate construction schedules and accelerate disbursement of allocated public investment capital. The directive aims to expedite project progress while maintaining construction quality. The instruction covers project management units and Construction Departments in provinces including Phú Thọ, Ninh Bình, Hà Tĩnh, Quảng Trị, Đà Nẵng, and other transportation and rural development projects.",
-        "summary_vn": "Bộ Xây dựng phát hành công điện yêu cầu các chủ đầu tư và đơn vị quản lý dự án tăng tốc độ thi công và giải ngân vốn đầu tư công được phân bổ. Chỉ thị nhằm mục đích đẩy nhanh tiến độ dự án đồng thời đảm bảo chất lượng công trình. Hướng dẫn bao gồm các đơn vị quản lý dự án và Sở Xây dựng ở các tỉnh như Phú Thọ, Ninh Bình, Hà Tĩnh, Quảng Trị, Đà Nẵng và các dự án giao thông, phát triển nông thôn khác.",
-        "pubDate": "Sun, 12 Jul 26 14:32:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Cựu Phó Thủ tướng Đức gốc Việt tham gia Tổ tư vấn Trung tâm tài chính quốc tế TP.HCM",
-        "url": "https://cafef.vn/cuu-pho-thu-tuong-duc-goc-viet-tham-gia-to-tu-van-trung-tam-tai-chinh-quoc-te-tphcm-188260712094122191.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's International Financial Center in Ho Chi Minh City (VIFC-HCMC) launched an advisory board on July 12 with 13 members. The board is chaired by Associate Professor Tran Hoang Ngan and includes former German Vice Chancellor Philip Rösler and former U.S. Ambassador to Vietnam Marc Knapper. The board comprises policymakers and international experts.",
-        "summary_vn": "Trung tâm Tài chính Quốc tế Việt Nam tại TP.HCM (VIFC-HCMC) thành lập và ra mắt Tổ tư vấn vào ngày 12/7 với 13 thành viên. Tổ tư vấn do PGS.TS Trần Hoàng Ngân làm Tổ trưởng và bao gồm cựu Phó thủ tướng Đức gốc Việt Philip Rösler và cựu Đại sứ Mỹ tại Việt Nam Marc Knapper. Tổ tư vấn gồm các nhà hoạch định chính sách và chuyên gia quốc tế.",
-        "pubDate": "Sun, 12 Jul 26 09:40:55 +0700",
+        "summary_en": "Vietnam's Road Administration will officially collect tolls on five expressway components of the North-South Eastern Corridor Phase 2021-2025 starting from 20:00 on July 15 using electronic toll collection (ETC) technology. The toll collection system implements non-stop electronic payment on these highway sections. The development represents continued expansion of Vietnam's expressway toll infrastructure.",
+        "summary_vn": "Từ 20h ngày 15/7, Cục Đường bộ Việt Nam sẽ chính thức thu phí trên 5 dự án thành phần thuộc tuyến cao tốc Bắc - Nam phía Đông giai đoạn 2021-2025 bằng hình thức thu phí điện tử không dừng (ETC). Hệ thống thu phí điện tử không dừng được triển khai trên các tuyến cao tốc này. Sự phát triển này thể hiện tiếp tục mở rộng cơ sở hạ tầng thu phí cao tốc của Việt Nam.",
+        "pubDate": "Tue, 14 Jul 26 13:34:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       }

@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adjustment, with no additional rate increases recorded in the deposit market. The highest interest rate for 12-month deposits stands at 7.3% per annum. ACB continues to offer the highest market rate at 7.3% per annum for 12-month deposits, while also offering 7.2% per annum for 9-month deposits.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn)
 
 **Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026**  
 
@@ -79,18 +85,12 @@ A survey of online deposit interest rates on June 30 shows the interest rate lan
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
 
-**Chuyên gia hiến kế giúp SME tận dụng chính sách, tiếp cận vốn và tăng trưởng**  
-
-A conference titled "SME Dialogue 2026: Open Policies – Businesses Take Flight" was held with participation from experts discussing how small and medium-sized enterprises (SMEs) can leverage government policies and access capital for growth. The event was organized by ACB in collaboration with the Hanoi Business Association (HBA) and the Vietnam Consumer Goods Development Association (VACOD). Experts provided recommendations for SMEs on policy utilization and growth strategies.
-
-- Source: [CafeF](https://cafef.vn/chuyen-gia-hien-ke-giup-sme-tan-dung-chinh-sach-tiep-can-von-va-tang-truong-188260627134459832.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
+- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

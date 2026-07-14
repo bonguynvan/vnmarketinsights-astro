@@ -1,17 +1,23 @@
 ---
 title: "OCB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning OCB, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # OCB
 
-Recent Vietnam market news mentioning **OCB** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **OCB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**OCB nâng cấp dòng thẻ Mastercard World 2in1, chiều lòng tín đồ mê du lịch**  
+
+OCB has upgraded its Mastercard World 2in1 card line effective July 1, 2026. The new version features enhanced cashback policies, comprehensive benefits including privileges for premium dining, travel and vacation, and daily spending. Cardholders can earn up to 60 million VND in cashback rewards.
+
+- Source: [CafeF](https://cafef.vn/ocb-nang-cap-dong-the-mastercard-world-2in1-chieu-long-tin-do-me-du-lich-188260714081151429.chn)
 
 **Ứng dụng công nghệ và dữ liệu, OCB ghi nhận tăng trưởng tích cực trên nền tảng số**  
 

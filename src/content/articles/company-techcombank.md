@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia**  
+
+Techcombank has won the "Best Domestic Bank in Vietnam" award from FinanceAsia for the fourth consecutive year at the FinanceAsia Awards 2026 ceremony. The award is an annual recognition given to financial institutions in the region. The selection process is based on rigorous data algorithms and an evaluation committee's assessment.
+
+- Source: [CafeF](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn)
 
 **Thúc đẩy lộ trình trung hòa carbon: Techcombank nhận giải thưởng Top 10 Doanh nghiệp Net Zero 2026**  
 
@@ -79,17 +85,11 @@ A bank will set the record date for a nearly 30% dividend payout in the coming w
 
 - Source: [CafeF](https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn)
 
-**Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026**  
-
-Techcombank and Techcom Life received three awards from The Asian Banker 2026, a leading financial evaluation and ranking organization in Asia. The awards affirm Techcombank's leading position as a national enterprise in its field. The achievements underscore the company's prominence within the financial and banking sector in Asia.
-
-- Source: [CafeF](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn)
-
 ## Related coverage
 
+- [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
-- [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 
 ---

@@ -1,17 +1,35 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (50 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (53 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Hơn 9,4 triệu tỷ đồng của người dân và doanh nghiệp chảy vào 27 ngân hàng trong 10 năm qua: Ngân hàng nào hút được nhiều tiền gửi nhất?**  
+
+Over 9.4 quadrillion dong flowed into 27 banks on the stock exchange between 2015 and 2025, increasing overall deposit mobilization by approximately four times. BIDV, VietinBank, and Vietcombank lead by scale, while HDBank stands out with the fastest deposit growth rate in the system. The article examines deposit concentration across Vietnam's major banks and their relative performance.
+
+- Source: [CafeF](https://cafef.vn/hon-94-trieu-ty-dong-cua-nguoi-dan-va-doanh-nghiep-chay-vao-27-ngan-hang-trong-10-nam-qua-ngan-hang-nao-hut-duoc-nhieu-tien-gui-nhat-188260714080501681.chn)
+
+**Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adjustment, with no additional rate increases recorded in the deposit market. The highest interest rate for 12-month deposits stands at 7.3% per annum. ACB continues to offer the highest market rate at 7.3% per annum for 12-month deposits, while also offering 7.2% per annum for 9-month deposits.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn)
+
+**Nhận tiền bảo hiểm tiền gửi cần những giấy tờ gì?**  
+
+The Government issued Decree 280/2026/NĐ-CP governing the organization, operations, management, state capital investment, supervision, and evaluation of investment effectiveness at the Vietnam Deposit Insurance Corporation. The article also references recent banking regulations and deposit flows across Vietnamese banks as of mid-July 2026.
+
+- Source: [CafeF](https://cafef.vn/nhan-tien-bao-hiem-tien-gui-can-nhung-giay-to-gi-188260714202837342.chn)
 
 **Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...**  
 
@@ -67,30 +85,12 @@ Vietcombank announced its average lending rate for May 2026 at 7.2% per annum, r
 
 - Source: [CafeF](https://cafef.vn/vietcombank-cong-bo-thong-tin-lai-suat-cho-vay-188260710065239696.chn)
 
-**Cập nhật KQKD ngân hàng ngày 10/7: Lợi nhuận một nhà băng ước giảm 50%, lãnh đạo nói đang ở tình thế rất nan giải và nợ xấu có thể tăng vọt**  
-
-A bank's profit is estimated to decline by 50%, with leadership describing the situation as very difficult and warning that non-performing loans could spike significantly. Preliminary results for the first half of 2026 show strong differentiation within the banking sector. Banks are assessing their profit outlook, credit growth prospects, and funding mobilization in the coming period.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-10-7-loi-nhuan-mot-nha-bang-uoc-giam-50-lanh-dao-noi-dang-o-tinh-the-rat-nan-giai-va-no-xau-co-the-tang-vot-18826071015293335.chn)
-
-**Lãi suất ngân hàng 10/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online interest rates across 34 banks on 10 July showed the highest deposit rate on the market at 7.3% per annum for 12-month terms, while most banks maintained rates between 6.6-6.9% per annum. Agribank and Vietcombank published their lending rates information on this date.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-10-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260710165641371.chn)
-
-**Vietcombank chia cổ tức năm 2025 bằng tiền mặt tỷ lệ 4,5%**  
-
-Vietcombank's Board of Directors approved a cash dividend payment for 2025 at a ratio of 4.5% of par value for shareholders. The bank has notified the State Securities Commission and all relevant stock exchanges of this dividend distribution. The 2026 Annual General Meeting of Shareholders held on April 24, 2026 approved the authorization for the Board to proceed with dividend distribution.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-chia-co-tuc-nam-2025-bang-tien-mat-ty-le-45-188260709094448504.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 - [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 7/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn) — CafeF
+- [Lãi suất ngân hàng 10/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-10-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260710165641371.chn) — CafeF
 
 ---
 

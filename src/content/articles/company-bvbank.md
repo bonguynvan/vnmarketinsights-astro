@@ -1,8 +1,8 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
@@ -60,7 +60,7 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 - [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
 - [BVBank lần đầu được Fitch Ratings xếp hạng tín nhiệm tổ chức phát hành (IDR) dài hạn ở mức B+, triển vọng "Ổn định"](https://cafef.vn/bvbank-lan-dau-duoc-fitch-ratings-xep-hang-tin-nhiem-to-chuc-phat-hanh-idr-dai-han-o-muc-b-trien-vong-on-dinh-188260630101441451.chn) — CafeF
-- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
+- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 
 ---
 

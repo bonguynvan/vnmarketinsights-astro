@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam sở hữu một công trình vượt núi dài 5,7km lập 4 kỷ lục Guinness, do Sun Group làm nên kỳ tích**  
+
+Vietnam owns a 5.7km mountain-crossing cable car system built by Sun Group that has set four Guinness World Records. The Ba Na–Suoi Mo cable car system, constructed by Sun Group, was officially put into operation on March 25, 2009 after more than 400 days of surveying and construction. The project represents a significant infrastructure achievement recognized by Guinness World Records.
+
+- Source: [CafeF](https://cafef.vn/viet-nam-so-huu-mot-cong-trinh-vuot-nui-dai-57km-lap-4-ky-luc-guinness-do-sun-group-lam-nen-ky-tich-188260714154319811.chn)
 
 **Chuyện lần đầu tiên xảy ra ở Sun PhuQuoc Airways**  
 
@@ -76,9 +82,9 @@ The State Bank of Vietnam has permitted commercial banks to exclude new debt fro
 ## Related coverage
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
-- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 - [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
+- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 
 ---
 

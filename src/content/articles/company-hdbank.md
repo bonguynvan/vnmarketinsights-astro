@@ -1,17 +1,41 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (48 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Hơn 9,4 triệu tỷ đồng của người dân và doanh nghiệp chảy vào 27 ngân hàng trong 10 năm qua: Ngân hàng nào hút được nhiều tiền gửi nhất?**  
+
+Over 9.4 quadrillion dong flowed into 27 banks on the stock exchange between 2015 and 2025, increasing overall deposit mobilization by approximately four times. BIDV, VietinBank, and Vietcombank lead by scale, while HDBank stands out with the fastest deposit growth rate in the system. The article examines deposit concentration across Vietnam's major banks and their relative performance.
+
+- Source: [CafeF](https://cafef.vn/hon-94-trieu-ty-dong-cua-nguoi-dan-va-doanh-nghiep-chay-vao-27-ngan-hang-trong-10-nam-qua-ngan-hang-nao-hut-duoc-nhieu-tien-gui-nhat-188260714080501681.chn)
+
+**Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adjustment, with no additional rate increases recorded in the deposit market. The highest interest rate for 12-month deposits stands at 7.3% per annum. ACB continues to offer the highest market rate at 7.3% per annum for 12-month deposits, while also offering 7.2% per annum for 9-month deposits.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn)
+
+**Nhận tiền bảo hiểm tiền gửi cần những giấy tờ gì?**  
+
+The Government issued Decree 280/2026/NĐ-CP governing the organization, operations, management, state capital investment, supervision, and evaluation of investment effectiveness at the Vietnam Deposit Insurance Corporation. The article also references recent banking regulations and deposit flows across Vietnamese banks as of mid-July 2026.
+
+- Source: [CafeF](https://cafef.vn/nhan-tien-bao-hiem-tien-gui-can-nhung-giay-to-gi-188260714202837342.chn)
+
+**HDBank công bố thông tin lãi suất cho vay**  
+
+HDBank announced its lending rates, with short-term loans at 8.5% per annum and medium to long-term loans at 10.4% per annum in Vietnamese Dong. The spread between average deposit and lending rates reached 3.2%. The announcement was made on July 14, 2026.
+
+- Source: [CafeF](https://cafef.vn/hdbank-cong-bo-thong-tin-lai-suat-cho-vay-188260714203726715.chn)
 
 **Fitch Ratings lần đầu xếp hạng HDBank, ghi nhận nền tảng tài chính vững mạnh top đầu Việt Nam**  
 
@@ -60,30 +84,6 @@ A survey of 34 banks' online deposit rates on July 11 shows that only a few bank
 A survey of online interest rates across 34 banks on 10 July showed the highest deposit rate on the market at 7.3% per annum for 12-month terms, while most banks maintained rates between 6.6-6.9% per annum. Agribank and Vietcombank published their lending rates information on this date.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-10-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260710165641371.chn)
-
-**HDBank - ngân hàng duy nhất 9 năm liên tiếp là 'Nơi làm việc tốt nhất châu Á'**  
-
-HDBank received the "Best Place to Work in Asia" award from HR Asia on July 9, 2026, becoming the only bank to receive this award for nine consecutive years. The bank was recognized in two award categories: "Best Place to Work in Asia" and "Human Capability Transformation." HDBank emphasizes building an organization focused on innovation and digital readiness.
-
-- Source: [CafeF](https://cafef.vn/hdbank-ngan-hang-duy-nhat-9-nam-lien-tiep-la-noi-lam-viec-tot-nhat-chau-a-18826071022361346.chn)
-
-**Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu**  
-
-Vietnamese banks have significantly expanded their assets over the past decade, with total assets of 27 listed banks increasing from 4.73 quadrillion dong to over 21.14 quadrillion dong. Multiple banks have grown their asset bases 5-10 fold during this period, with some institutions experiencing even more rapid expansion. Banks including HDBank, MB, and TPBank are among the leading performers in this growth phase.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn)
-
-**Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới**  
-
-A Vietnamese bank reported first-half 2026 profit growth of 80% compared to the same period in 2025, achieving 67% of its full-year 2026 plan. VietinBank and Agribank reached new record levels in their operational results. Several banks expanded assets at unprecedented rates, with HDBank, MB, and TPBank among the leading performers.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn)
-
-**Lãi suất ngân hàng 9/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of 34 banks on July 9, 2026 shows online deposit interest rates remain at a maximum of 7.3% per annum, while the prevailing market rate range is between 6.6-6.9% per annum. Military Bank (MB) offers its highest rate at 7% per annum in July 2026, with online deposits remaining more attractive than over-the-counter rates. The article provides a daily update on interest rates across major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826070920280182.chn)
 
 ## Related coverage
 

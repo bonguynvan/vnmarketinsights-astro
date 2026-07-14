@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng**  
+
+SJC gold ring and bar prices declined sharply on July 14th. Investors who had recently purchased experienced losses of nearly 5 million VND per tael. The bid-ask spread for gold bars remained high at 3-4.9 million VND per tael, while gold rings showed spreads of 3.5-4 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7**  
 
@@ -79,18 +85,12 @@ Gold prices have recovered by tens of millions of dong per tael since their mid-
 
 - Source: [CafeF](https://cafef.vn/vi-sao-nhieu-nguoi-mua-vang-bi-lo-nang-van-chua-muon-ban-188260705170317904.chn)
 
-**Giá vàng SJC, vàng nhẫn ngày 28/6**  
-
-Vietnamese domestic gold prices remained unchanged on June 28, 2026, as the market entered a holiday period. SJC gold bar prices and gold ring prices were quoted but experienced significant volatility during the preceding week. Global gold prices broke through the $4,000 per ounce threshold during this period.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-28-6-188260628081046492.chn)
-
 ## Related coverage
 
+- [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
 - [Giá vàng hôm nay (12/7): Người mua lỗ 'kép' sau một tuần](https://cafef.vn/gia-vang-hom-nay-12-7-nguoi-mua-lo-kep-sau-mot-tuan-188260712100320973.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn) — CafeF
 
 ---
 

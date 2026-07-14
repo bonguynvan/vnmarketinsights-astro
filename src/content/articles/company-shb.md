@@ -1,8 +1,8 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-13"
-lastUpdated: "2026-07-13"
+publishedDate: "2026-07-14"
+lastUpdated: "2026-07-14"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SHB** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SHB nhận 4 giải thưởng lớn tại Asian Banking & Finance Awards 2026**  
+
+Saigon-Hanoi Bank (SHB) received 4 major awards at the Asian Banking & Finance Awards 2026 ceremony. The bank was recognized across both retail and wholesale banking segments. SHB continues to reinforce its position among the top 5 private commercial banks in Vietnam and its footprint in the regional financial market.
+
+- Source: [CafeF](https://cafef.vn/shb-nhan-4-giai-thuong-lon-tai-asian-banking-finance-awards-2026-188260714070132877.chn)
 
 **SHB SAHA ra mắt tính năng “Sinh lời nhàn tênh”: Tự động sinh lời tới 6%/năm**  
 
@@ -64,8 +70,8 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 ## Related coverage
 
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
-- [Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
+- [Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn) — CafeF
 - [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 
 ---
