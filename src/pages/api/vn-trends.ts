@@ -32,6 +32,7 @@ interface TrendPayload {
   keywords?: Keyword[];
   youtube?: YouTubeItem[];
   fetchedAt?: string;
+  errors?: string[];
 }
 
 const CACHE_TTL_MS = 30 * 60 * 1000; // 30 min
@@ -40,8 +41,15 @@ const FETCH_TIMEOUT_MS = 4000;
 // Module-scoped last-good cache (per server instance).
 let cache: { payload: TrendPayload; at: number } | null = null;
 
-const serviceBase = (): string =>
-  (import.meta.env.TREND_SERVICE_URL || process.env.TREND_SERVICE_URL || '').replace(/\/+$/, '');
+const serviceBase = (): string => {
+  let raw = (import.meta.env.TREND_SERVICE_URL || process.env.TREND_SERVICE_URL || '')
+    .trim()
+    .replace(/\/+$/, '');
+  // A scheme-less URL (e.g. "api.example.com") makes server-side fetch() throw
+  // immediately — normalize to https so a misconfigured env var still works.
+  if (raw && !/^https?:\/\//i.test(raw)) raw = `https://${raw}`;
+  return raw;
+};
 
 async function fetchJson(url: string): Promise<any> {
   const res = await fetch(url, { signal: AbortSignal.timeout(FETCH_TIMEOUT_MS) });
@@ -56,6 +64,16 @@ async function loadFromService(base: string): Promise<TrendPayload> {
     fetchJson(`${base}/api/summary`),
   ]);
 
+  const errors: string[] = [];
+  if (trends.status === 'rejected') errors.push(`trends: ${String(trends.reason?.message || trends.reason)}`);
+  if (summary.status === 'rejected') errors.push(`summary: ${String(summary.reason?.message || summary.reason)}`);
+
+  // Both upstream calls failed — that's unreachable, not an empty dataset.
+  // Labelling it "empty" hid genuine connectivity/URL problems.
+  if (trends.status === 'rejected' && summary.status === 'rejected') {
+    return { available: false, reason: 'unreachable', date: null, errors };
+  }
+
   const data = trends.status === 'fulfilled' ? trends.value?.data ?? {} : {};
   const keywords: Keyword[] = Array.isArray(data.google_trends) ? data.google_trends : [];
   const youtube: YouTubeItem[] = Array.isArray(data.youtube) ? data.youtube : [];
@@ -66,7 +84,7 @@ async function loadFromService(base: string): Promise<TrendPayload> {
   const summaryText = summary.status === 'fulfilled' ? summary.value?.summary ?? null : null;
 
   if (!keywords.length && !youtube.length && !summaryText) {
-    return { available: false, reason: 'empty', date };
+    return { available: false, reason: 'empty', date, errors };
   }
   return {
     available: true,
@@ -75,6 +93,7 @@ async function loadFromService(base: string): Promise<TrendPayload> {
     keywords,
     youtube,
     fetchedAt: new Date().toISOString(),
+    ...(errors.length ? { errors } : {}),
   };
 }
 
@@ -83,7 +102,9 @@ const json = (payload: TrendPayload, status = 200): Response =>
     status,
     headers: {
       'Content-Type': 'application/json',
-      'Cache-Control': 'public, max-age=300',
+      // Cache only good responses; never cache failures (or a transient outage
+      // would stick at the CDN for the full window and keep the page empty).
+      'Cache-Control': payload.available ? 'public, max-age=300' : 'no-store',
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type',
