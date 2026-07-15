@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-14"
-lastUpdated: "2026-07-14"
+publishedDate: "2026-07-15"
+lastUpdated: "2026-07-15"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tài khoản ngân hàng thuộc trường hợp sau sẽ bị đóng từ 30/7**  
+
+LPBank announced on July 30, 2026, it will close personal payment accounts that meet two conditions simultaneously: having no remaining balance and showing no transaction activity for an extended period. Customers in this category have until July 29, 2026, to take action to maintain their accounts.
+
+- Source: [CafeF](https://cafef.vn/tai-khoan-ngan-hang-thuoc-truong-hop-sau-se-bi-dong-tu-30-7-188260715074400348.chn)
 
 **Các tài khoản ngân hàng dưới đây sẽ bị đóng từ ngày 30/7**  
 
@@ -79,18 +85,12 @@ LPBank's stock (ticker LPB) surged to the daily limit on the morning of June 23,
 
 - Source: [CafeF](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn)
 
-**LPBank có gì đặc biệt?**  
-
-LPBank is described as a private bank with Vietnam's largest transaction network among private banks, operating over 1,000 service points nationwide. The bank has attracted attention for consistently leading the banking sector in cash dividend distributions. Related developments include share price movements and shareholder dividend announcements in the 2026 period.
-
-- Source: [CafeF](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn)
-
 ## Related coverage
 
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn) — CafeF
 
 ---
 

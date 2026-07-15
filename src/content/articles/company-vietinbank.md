@@ -1,17 +1,29 @@
 ---
 title: "VietinBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietinBank, with neutral summaries and source links."
-publishedDate: "2026-07-14"
-lastUpdated: "2026-07-14"
+publishedDate: "2026-07-15"
+lastUpdated: "2026-07-15"
 category: "Company"
 readingTime: 3
 ---
 
 # VietinBank
 
-Recent Vietnam market news mentioning **VietinBank** (50 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietinBank** (52 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền**  
+
+Vietnamese banks are distributing record-breaking cash dividends in 2026, with a total payout exceeding 48,000 billion Vietnamese dong. Five banks have yet to finalize dividend record dates. This represents the largest cash dividend payout in the history of the Vietnamese banking sector.
+
+- Source: [CafeF](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn)
+
+**Lãi suất ngân hàng 15/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates on July 15 shows the highest rate remains at 7.3% per annum, while most banks continue to maintain 12-month term deposit rates in the range of 6.6-6.9% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-15-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260715202748776.chn)
 
 **Hơn 9,4 triệu tỷ đồng của người dân và doanh nghiệp chảy vào 27 ngân hàng trong 10 năm qua: Ngân hàng nào hút được nhiều tiền gửi nhất?**  
 
@@ -72,18 +84,6 @@ A survey of online interest rates across 34 banks on 10 July showed the highest 
 A Vietnamese bank reported first-half 2026 profit growth of 80% compared to the same period in 2025, achieving 67% of its full-year 2026 plan. VietinBank and Agribank reached new record levels in their operational results. Several banks expanded assets at unprecedented rates, with HDBank, MB, and TPBank among the leading performers.
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn)
-
-**Cổ đông VietinBank, BIDV, Vietcombank đón tin vui**  
-
-VietinBank announced a cash dividend payment of 4.5% on par value for 2025, with shareholders receiving 450 VND per share. The bank will conduct a shareholder record date from July 20-24, 2026, with final registration on July 24, 2026. BIDV and Vietcombank are also conducting similar shareholder record dates for dividend distributions during the same period.
-
-- Source: [CafeF](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn)
-
-**Người dưới chuẩn ngân hàng mong đợi gì từ tín dụng bình dân?**  
-
-Unbanked individuals view alternative lending forms as preferable to traditional banks and financial companies, with speed of loan processing and disbursement being the key advantages rather than interest rates. The excerpt references multiple banking-related stories including criminal charges against bank employees in a money laundering case and recognition of VPBank for environmental sustainability efforts. Shareholders of VietinBank, BIDV, and Vietcombank are noted to have received positive news.
-
-- Source: [CafeF](https://cafef.vn/nguoi-duoi-chuan-ngan-hang-mong-doi-gi-tu-tin-dung-binh-dan-188260709201404346.chn)
 
 ## Related coverage
 

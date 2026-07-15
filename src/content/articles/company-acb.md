@@ -1,17 +1,29 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-14"
-lastUpdated: "2026-07-14"
+publishedDate: "2026-07-15"
+lastUpdated: "2026-07-15"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam**  
+
+The article profiles the chairpersons of Vietnam's 10 largest banks, which collectively hold 70% of total banking system assets. It examines their career trajectories, ages, and leadership styles. Tran Hung Huy became Chairman of ACB in 2012 at age 34, making him notably young among bank leaders.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn)
+
+**Nữ nhân viên ngân hàng lĩnh án vì cung cấp thông tin khách hàng cho kẻ lừa đảo**  
+
+A former female employee of ACB Bank was sentenced to 30 months suspended imprisonment for accessing internal banking software to collect customer account balance information, stamps, and official seals from 6 companies and sharing them with a fraudster. The case was heard by Hanoi People's Court on July 15th. A second defendant, Nguyen Dinh Che, was sentenced to 11 years imprisonment in connection with related charges.
+
+- Source: [CafeF](https://cafef.vn/nu-nhan-vien-ngan-hang-acb-linh-an-vi-cung-cap-thong-tin-khach-hang-cho-ke-lua-dao-188260715145832854.chn)
 
 **Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -73,24 +85,12 @@ ACB launches a summer 2026 travel promotion campaign featuring credit card incen
 
 - Source: [CafeF](https://cafef.vn/acb-du-lich-he-2026-khi-trai-nghiem-tro-thanh-vitamin-cho-suc-khoe-tinh-than-188260701173602135.chn)
 
-**Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm**  
-
-As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7% per annum or higher, primarily for longer terms. ACB, MBV, and VCBNeo offer rates of 7% or above starting from the 6-month term, with ACB offering 7.1% for 6 months, 7.2% for 9 months, and 7.3% for 12 months. MBV and VCBNeo, both under mandatory transfer status, quote 7% per annum for deposit terms ranging from 6 months to 36 months.
-
-- Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html)
-
-**Lãi suất ngân hàng 30/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates on June 30 shows the interest rate landscape remaining stable, with most banks quoting rates between 6.8-6.9% per annum for 12-month terms. The report covers major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. This reflects continued consistency in the banking sector's deposit rate positioning.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260630172653778.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

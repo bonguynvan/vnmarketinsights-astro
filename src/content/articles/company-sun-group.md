@@ -1,17 +1,35 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-14"
-lastUpdated: "2026-07-14"
+publishedDate: "2026-07-15"
+lastUpdated: "2026-07-15"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Sun PhuQuoc Airways công bố loạt đường bay quốc tế mới, gia nhập cuộc đua xây dựng hệ sinh thái khách hàng thân thiết**  
+
+Sun PhuQuoc Airways announced plans to launch new international routes operating direct flights to Phú Quốc from Chengdu (China), Singapore, and Bangkok (Thailand). Sun Group revealed this expansion strategy on July 14 in Hanoi as part of broader ecosystem development initiatives. The airline is entering competition in building customer loyalty programs and service ecosystems.
+
+- Source: [CafeF](https://cafef.vn/sun-phuquoc-airways-cong-bo-loat-duong-bay-quoc-te-moi-gia-nhap-cuoc-dua-xay-dung-he-sinh-thai-khach-hang-than-thiet-188260715081838161.chn)
+
+**Ngân hàng NCB mở rộng hệ sinh thái tài chính, đồng hành cùng phong cách sống tinh hoa**  
+
+Ngân Hàng Quốc Dân (NCB) is expanding its financial ecosystem in partnership with strategic partner Sun Group to redefine banking experience through innovative thinking and pioneering products. The bank's solutions aim to provide not only financial efficiency but also access to Vietnam's leading premium lifestyle ecosystem. The initiative reflects NCB's strategy to offer comprehensive financial and lifestyle services to customers.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-ncb-mo-rong-he-sinh-thai-tai-chinh-dong-hanh-cung-phong-cach-song-tinh-hoa-188260715101918798.chn)
+
+**Sớm hiện thực hóa Quy hoạch Thủ đô tầm nhìn 100 năm**  
+
+Hanoi People's Council delegates are urging rapid completion of the city's 100-year master plan, including general planning, district-level planning, and detailed planning. These planning documents are considered essential for local authorities to have a foundation for management and to attract investors for project development. The 100-year capital development plan is intended to serve as a strategic framework for the city's long-term growth.
+
+- Source: [CafeF](https://cafef.vn/som-hien-thuc-hoa-quy-hoach-thu-do-tam-nhin-100-nam-188260715070448352.chn)
 
 **Việt Nam sở hữu một công trình vượt núi dài 5,7km lập 4 kỷ lục Guinness, do Sun Group làm nên kỳ tích**  
 
@@ -67,24 +85,12 @@ Gold prices for SJC bullion bars and gold rings have declined by over 15 million
 
 - Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
 
-**Chuyên gia: Thông tư 25 có thể giúp hệ thống ngân hàng bơm thêm 1 triệu tỷ đồng vốn trung và dài hạn, lĩnh vực bất động sản hưởng lợi**  
-
-Circular 25 policy may enable the banking system to inject approximately 1 million billion Vietnamese dong in medium and long-term capital to the economy, supporting credit growth and improving net interest margins. The policy could simultaneously increase liquidity risk management requirements. The circular is expected to benefit the real estate sector.
-
-- Source: [CafeF](https://cafef.vn/chuyen-gia-thong-tu-25-co-the-giup-he-thong-ngan-hang-bom-them-1-trieu-ty-dong-von-trung-va-dai-han-linh-vuc-bat-dong-san-huong-loi-188260624024703421.chn)
-
-**Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?**  
-
-The State Bank of Vietnam has permitted commercial banks to exclude new debt from 18 projects developed by Vingroup, Sun Group, and Masterise when calculating annual credit growth limits. The projects span infrastructure sectors including aviation, high-speed rail, and APEC-related facilities, with total funding requirements exceeding 752,000 billion dong.
-
-- Source: [CafeF](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn)
-
 ## Related coverage
 
-- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
 - [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
-- [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
-- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
+- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 
 ---
 

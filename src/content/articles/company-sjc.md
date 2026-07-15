@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-14"
-lastUpdated: "2026-07-14"
+publishedDate: "2026-07-15"
+lastUpdated: "2026-07-15"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn tại SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI,... ngày 15/7**  
+
+Domestic gold prices surged over 1 million VND per tael on July 15 after global gold prices recovered. The article references multiple gold retailers including SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and DOJI. This follows previous days of significant price declines in the domestic gold market.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tai-sjc-bao-tin-minh-chau-bao-tin-manh-hai-doji-ngay-15-7-18826071507231706.chn)
 
 **Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng**  
 
@@ -79,17 +85,11 @@ Gold prices in Vietnam on July 4 show SJC bars and smooth gold rings trading at 
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn)
 
-**Vì sao nhiều người mua vàng bị lỗ nặng vẫn chưa muốn bán?**  
-
-Gold prices have recovered by tens of millions of dong per tael since their mid-June lows, but remain significantly below historical peaks. Many investors who accumulated gold in the past six months are holding losses of tens of millions of dong per tael but continue to hold rather than sell. As of July 5, SJC gold was quoted at 148.4 million dong per tael for purchase and 151.4 million dong per tael for sale.
-
-- Source: [CafeF](https://cafef.vn/vi-sao-nhieu-nguoi-mua-vang-bi-lo-nang-van-chua-muon-ban-188260705170317904.chn)
-
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
-- [Giá vàng hôm nay (12/7): Người mua lỗ 'kép' sau một tuần](https://cafef.vn/gia-vang-hom-nay-12-7-nguoi-mua-lo-kep-sau-mot-tuan-188260712100320973.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
+- [Giá vàng hôm nay (12/7): Người mua lỗ 'kép' sau một tuần](https://cafef.vn/gia-vang-hom-nay-12-7-nguoi-mua-lo-kep-sau-mot-tuan-188260712100320973.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 
 ---
