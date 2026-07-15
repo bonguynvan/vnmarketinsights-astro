@@ -10,6 +10,7 @@
     "dev": "astro dev",
     "snapshot": "node scripts/fetch-stock-snapshot.mjs",
     "audit:freshness": "node scripts/freshness-audit.mjs",
+    "research": "node scripts/pplx-research.mjs",
     "prebuild": "node scripts/make-brief-og.mjs",
     "build": "astro build",
     "preview": "astro preview",
