@@ -1,0 +1,35 @@
+name: Weekly Telegram Numbers
+
+# Posts a Perplexity-sourced "Vietnam markets — by the numbers" digest to the
+# Telegram channel every Sunday. Env-gated: no-ops unless PERPLEXITY_API_KEY and
+# the Telegram bot secrets are configured. Each figure carries an inline source.
+on:
+  schedule:
+    # Sunday 03:00 UTC ≈ 10:00 ICT — a Sunday-morning digest.
+    - cron: "0 3 * * 0"
+  workflow_dispatch: {}
+
+concurrency:
+  group: telegram-numbers
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Post weekly "by the numbers" to Telegram
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          PERPLEXITY_MODEL: sonar-pro
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
+        run: node scripts/telegram-numbers.mjs

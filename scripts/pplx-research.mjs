@@ -11,6 +11,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 
 const ENDPOINT = 'https://api.perplexity.ai/chat/completions';
 const TIMEOUT_MS = 30_000;
@@ -23,7 +24,7 @@ const SYSTEM_EN =
   'Cite sources. This is not investment advice.';
 
 /** Load KEY=VALUE pairs from .env into process.env without overwriting existing vars. */
-function loadDotEnv() {
+export function loadDotEnv() {
   const envPath = path.resolve(process.cwd(), '.env');
   if (!fs.existsSync(envPath)) return;
   const raw = fs.readFileSync(envPath, 'utf8');
@@ -115,8 +116,11 @@ async function main() {
   process.stdout.write(`\n(model: ${result.model})\n`);
 }
 
-// Run when invoked directly.
-main().catch((err) => {
-  console.error(`Research failed: ${err.message}`);
-  process.exit(1);
-});
+// Run only when invoked directly (not when imported as a module).
+const invokedDirectly = import.meta.url === pathToFileURL(process.argv[1] || '').href;
+if (invokedDirectly) {
+  main().catch((err) => {
+    console.error(`Research failed: ${err.message}`);
+    process.exit(1);
+  });
+}
