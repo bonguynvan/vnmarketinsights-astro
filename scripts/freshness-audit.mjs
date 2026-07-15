@@ -29,7 +29,9 @@ const AGING_YEAR = CURRENT_YEAR - 1;         // e.g. 2025 = aging (refresh soon)
 // Default flagship reference pages (most value, most numeric claims).
 const DEFAULT_PAGES = [
   'src/pages/payments.astro',
+  'src/pages/fintech.astro',
   'src/pages/ecommerce.astro',
+  'src/pages/retail.astro',
   'src/pages/logistics.astro',
   'src/pages/consumers.astro',
   'src/pages/platforms.astro',
@@ -40,7 +42,9 @@ const DEFAULT_PAGES = [
 // Topic hints for the Sonar research brief, keyed by page basename.
 const TOPIC_HINTS = {
   'payments.astro': 'Vietnam digital payments, e-wallets, QR/VietQR, cashless transaction statistics',
+  'fintech.astro': 'Vietnam fintech market size, number of fintech firms, segments (payments, lending, insurtech, wealthtech), funding',
   'ecommerce.astro': 'Vietnam e-commerce market size, GMV, top platforms (Shopee, TikTok Shop, Lazada)',
+  'retail.astro': 'Vietnam retail market: total retail sales, modern vs traditional trade, grocery and convenience chains (WinCommerce, Bach Hoa Xanh)',
   'logistics.astro': 'Vietnam logistics and last-mile delivery market, express parcel volume',
   'consumers.astro': 'Vietnam consumer market, retail sales, internet and smartphone penetration',
   'platforms.astro': 'Vietnam digital platforms, super-apps, social commerce usage',
