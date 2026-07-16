@@ -5,60 +5,65 @@ const title = "Vietnam Startup & Tech Statistics 2026 — Ecosystem, Funding & T
 const description = "A curated roundup of Vietnam startup and tech statistics for 2026: ecosystem hubs, venture funding, key sectors, unicorns, developer talent, and what drives the scene — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-startup-tech-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
   {
     heading: 'Ecosystem & hubs',
-    intro: 'Vietnam has one of Southeast Asia\'s most active startup ecosystems, centered on two cities.',
+    intro: 'Vietnam runs one of Southeast Asia\'s most active startup ecosystems, concentrated in two cities and increasingly AI-focused.',
     stats: [
-      { value: '#3', label: 'SEA ranking by VC deal value', note: 'Behind Singapore and Indonesia.', source: 'NIC / Do Ventures, 2023' },
-      { value: 'HCMC', label: 'Largest startup hub', note: 'Most investors and consumer tech.' },
-      { value: 'Hanoi', label: 'Second hub', note: 'Deep-tech and engineering strength.' },
-      { value: 'Da Nang', label: 'Emerging tech city', note: 'Growing engineering base.' },
-      { value: 'Thousands', label: 'Active startups', note: 'Across fintech, e-commerce, SaaS.' },
+      { value: '5,500+', label: 'Tech startups (all-time)', note: '4,100+ still active; 60%+ founded since 2015.', source: 'Tracxn, 2025' },
+      { value: 'Hanoi + HCMC', label: 'The two dominant hubs', note: '~2,127 and ~2,098 startups; Da Nang (147) and Can Tho emerging.', source: 'Tracxn, 2025' },
+      { value: '44 / 133', label: 'Global Innovation Index rank', note: 'A dynamic, rising innovation economy.', source: 'WIPO, 2025' },
+      { value: '$36–39B', label: 'Digital economy (2025)', note: 'Double-digit growth; on track to be SEA\'s 2nd-largest.', source: 'Do Ventures / e-Conomy SEA 2025' },
+      { value: '~18%', label: 'Digital economy share of GDP (2024)', note: 'Target 30–35% by 2030.', source: 'MIC' },
     ],
   },
   {
-    heading: 'Funding',
-    intro: 'Venture funding is cyclical: it dipped in 2023, then recovered sharply in 2024.',
+    heading: 'Funding (2025)',
+    intro: 'Private capital staged its strongest rebound in years in 2025 — doubling on the back of record PE, with VC recovering toward fewer, larger bets.',
     stats: [
-      { value: '$529M', label: 'VC funding (2023)', note: 'Across 122 deals; −17% YoY in a −35% global year.', source: 'NIC / Do Ventures, 2023' },
-      { value: '~$2.3B', label: 'Capital deployed (2024)', note: 'Across 141 deals — a sharp recovery.', source: 'Industry data, 2024' },
-      { value: 'Fintech-led', label: 'Top-funded sector', note: 'Plus healthcare, education, e-commerce.', source: 'NIC / Do Ventures' },
-      { value: '~100', label: 'Active investors (2023)', note: 'Singapore and Vietnam most active.', source: 'NIC / Do Ventures, 2023' },
+      { value: '$4.5B', label: 'Total private capital (2025)', note: 'Across 149 deals — roughly double 2024.', source: 'Do Ventures, 2025' },
+      { value: '$509M', label: 'VC funding (2025)', note: '+28% YoY; 103 deals as investors made fewer, higher-conviction bets.', source: 'Do Ventures, 2025' },
+      { value: '~$4B', label: 'Private equity (2025)', note: 'All-time high; 46 deals (double 2024), buyouts led.', source: 'Do Ventures, 2025' },
+      { value: '$130M', label: 'AI funding (2025)', note: '13× the 2023 level across 23 deals — the fastest-growing theme.', source: 'Do Ventures, 2025' },
+      { value: '$3.2B', label: 'All-time startup funding', note: '9 mega rounds of $100M+; MoMo raised 3 of them.', source: 'Tracxn, 2025' },
+      { value: '119', label: 'Active VC investors (2025)', note: 'Singapore largest; Japanese and European investors returning.', source: 'Do Ventures, 2025' },
     ],
   },
   {
-    heading: 'Sectors & standouts',
-    intro: 'Fintech, e-commerce, and logistics dominate, with a handful of breakout companies.',
+    heading: 'Unicorns & standouts',
+    intro: 'Vietnam has produced six unicorns across fintech, gaming, and e-commerce, plus a rising cohort of global-facing founders.',
     stats: [
-      { value: 'Fintech', label: 'Largest startup sector', note: 'Payments, lending, wallets.' },
-      { value: 'E-commerce', label: 'Major sector', note: 'Marketplaces and enablers.' },
-      { value: 'VNG', label: 'Vietnam\'s first unicorn', note: 'Gaming, Zalo, ZaloPay.' },
-      { value: 'MoMo / Sky Mavis', label: 'High-profile companies', note: 'Fintech and blockchain gaming.' },
-      { value: 'Gaming', label: 'Global strength', note: 'Studios with worldwide reach.' },
+      { value: '6', label: 'Unicorns (all-time)', note: 'Tiki, MoMo, Sky Mavis, VNPAY, VNLIFE, VNG.', source: 'Tracxn, 2025' },
+      { value: 'MoMo', label: 'Leading fintech unicorn', note: 'Wallet → lending, insurance, investing; 3 mega rounds.' },
+      { value: 'Sky Mavis', label: 'Blockchain-gaming unicorn', note: 'Axie Infinity; global reach.' },
+      { value: 'VNG', label: 'First unicorn', note: 'Gaming, Zalo, ZaloPay.' },
+      { value: '76', label: 'Startup exits to date', note: '52 acquisitions and 24 IPOs.', source: 'Tracxn, 2025' },
+      { value: '$51M', label: 'Global-founder startups (2025)', note: 'All-time high; Coolmate, NamiTech, Dutycast.', source: 'Do Ventures, 2025' },
     ],
   },
   {
-    heading: 'Talent',
-    intro: 'A large, fast-growing developer base anchors the tech sector.',
+    heading: 'Sectors & themes (2025)',
+    intro: 'AI is the breakout theme; fintech remains the deepest sector, with health, retail, and climate tech gaining.',
     stats: [
-      { value: 'Large', label: 'Software developer workforce', note: 'Growing every year.' },
-      { value: 'STEM-strong', label: 'Education pipeline', note: 'Strong math/engineering base.' },
-      { value: 'Outsourcing', label: 'Established export sector', note: 'Global software services.' },
-      { value: 'Rising', label: 'Wages & seniority', note: 'Climbing with experience depth.' },
+      { value: 'AI', label: 'Fastest-growing theme', note: '$130M in 2025; Vietnam ranks 2nd in SEA for AI startups.', source: 'Do Ventures, 2025' },
+      { value: 'Fintech', label: 'Deepest sector', note: 'Payments, lending, wallets — anchored by MoMo, VNPAY.' },
+      { value: '$170M', label: 'Healthcare funding (2025)', note: 'Recovering toward its 2023 level.', source: 'Do Ventures, 2025' },
+      { value: 'Climate tech', label: 'Rising theme', note: '+52% to $35M; Dat Bike, Alterno, Stride.', source: 'Do Ventures, 2025' },
+      { value: 'Semiconductors', label: 'Strategic priority', note: 'One of 11 strategic technologies alongside AI and green tech.', source: 'MoST, 2025' },
     ],
   },
   {
-    heading: 'Enablers & challenges',
-    intro: 'Strong fundamentals, with capital depth and regulation as the main constraints.',
+    heading: 'Exits, IPOs & policy',
+    intro: 'IPO exits reopened in 2025 — but not yet for tech — while policy shifted toward targeted, well-funded support.',
     stats: [
-      { value: 'Digital demand', label: 'Key tailwind', note: 'Young, mobile-first users.' },
-      { value: 'Gov support', label: 'Policy direction', note: 'Digital-economy initiatives.' },
-      { value: 'Capital depth', label: 'Ongoing challenge', note: 'Later-stage funding gaps.' },
-      { value: 'Regulation', label: 'Watch area', note: 'Fintech and data rules evolving.' },
+      { value: '3 IPOs', label: 'Public listings (2025)', note: '~$1.4B raised, all financial services — up from one $37M IPO in 2024.', source: 'Do Ventures, 2025' },
+      { value: '0', label: 'Tech IPOs (2025)', note: '5th straight year; IT is only ~5% of HOSE by weight.', source: 'Do Ventures, 2025' },
+      { value: '$3–5B', label: 'IPO pipeline (2026–27)', note: 'Highlands Coffee, Golden Gate, F88 — the busiest cycle in a decade.', source: 'Do Ventures, 2025' },
+      { value: 'Resolution 57', label: 'Government backing', note: 'Plus a planned national VC fund (target $100M+).', source: 'MoST, 2025' },
+      { value: '+3–4', label: 'Unicorns targeted by 2030', note: 'Focus on 11 strategic technologies (AI, semiconductors, green tech).', source: 'MoST, 2025' },
     ],
   },
 ];
@@ -90,7 +95,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-31"
-  lastUpdated="2026-05-31"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -134,15 +139,17 @@ const datasetSchema = {
     <section class="stats-section">
       <h2>Notes on methodology</h2>
       <p>
-        These statistics are reference points intended to give a directional picture of Vietnam's
-        startup and tech scene. Venture-funding figures are cyclical and vary across data
-        providers, so we favor qualitative descriptors over spurious precision. For definitions of
-        terms like fintech, super-app, and neobank, see our <a href="/glossary/">glossary</a>.
+        These statistics give a directional picture of Vietnam's startup and tech scene. Venture-
+        funding figures are cyclical and vary across data providers (all-time totals from Tracxn,
+        annual flows from Do Ventures), so cross-check the primary source before relying on a single
+        number. For definitions of terms like fintech, super-app, and neobank, see our
+        <a href="/glossary/">glossary</a>.
       </p>
       <p>
-        <strong>Primary sources:</strong> National Innovation Center (NIC) and Do Ventures (Vietnam
-        Innovation &amp; Tech Investment Report); industry deal trackers. Venture figures are
-        2023–2024 and cyclical; verify against the primary source before relying on a specific number.
+        <strong>Primary sources:</strong> Do Ventures &amp; NIC (Vietnam Innovation &amp; Private
+        Capital Report 2026, full-year 2025); Tracxn (Vietnam Tech Startup Pulse, 2025); Ministry of
+        Science and Technology (MoST) / TECHFEST 2025; Google · Temasek · Bain "e-Conomy SEA 2025";
+        WIPO Global Innovation Index. Figures are full-year 2025 unless noted.
       </p>
     </section>
 
