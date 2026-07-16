@@ -11,53 +11,55 @@ type Group = { heading: string; intro: string; stats: Stat[] };
 const groups: Group[] = [
   {
     heading: 'Growth & output',
-    intro: 'Vietnam is among Asia\'s faster-growing economies, led by manufacturing and services.',
+    intro: 'Vietnam was among Asia\'s fastest-growing economies in 2025, led by industry and services.',
     stats: [
-      { value: '8.02%', label: 'Real GDP growth (2025)', note: 'Among Asia\'s fastest; up from 7.09% in 2024.', source: 'GSO / NSO, 2025' },
+      { value: '8.02%', label: 'Real GDP growth (2025)', note: 'Fastest since 2022; Q4 hit 8.46%.', source: 'GSO / NSO, 2025' },
       { value: '~$514B', label: 'Nominal GDP (2025)', note: 'Up roughly $38B from 2024.', source: 'GSO / NSO, 2025' },
-      { value: '~$5,026', label: 'GDP per capita (2025)', note: 'Up from ~$4,700 in 2024.', source: 'GSO / NSO, 2025' },
-      { value: 'Manufacturing', label: 'Key growth engine', note: 'Plus services and exports.' },
+      { value: '$5,026', label: 'GDP per capita (2025)', note: 'Up from ~$4,700 in 2024.', source: 'GSO / NSO, 2025' },
+      { value: '+8.95%', label: 'Industry & construction (2025)', note: '43.6% of the year\'s growth.', source: 'GSO / NSO, 2025' },
+      { value: '+8.62%', label: 'Services (2025)', note: '51.1% of the year\'s growth.', source: 'GSO / NSO, 2025' },
     ],
   },
   {
     heading: 'Trade & exports',
-    intro: 'A highly open, trade-dependent economy with persistent goods surpluses.',
+    intro: 'A highly open, trade-dependent economy with a tenth straight goods surplus.',
     stats: [
-      { value: '~$930B', label: 'Total trade turnover (2025)', note: 'Up ~18% YoY; one of the most open economies in the world.', source: 'GSO / NSO, 2025' },
+      { value: '~$930B', label: 'Total trade turnover (2025)', note: 'Up ~18.2% YoY; one of the world\'s most open economies.', source: 'GSO / NSO, 2025' },
+      { value: '~$475B', label: 'Total exports (2025)', note: 'Up ~17% YoY; 36 products each topped $1B.', source: 'GSO / NSO, 2025' },
+      { value: '~$455B', label: 'Total imports (2025)', note: 'Up ~19.4% YoY — faster than exports.', source: 'GSO / NSO, 2025' },
       { value: '~$20B', label: 'Goods trade surplus (2025)', note: 'Tenth consecutive annual surplus.', source: 'GSO / NSO, 2025' },
-      { value: '~$475B', label: 'Total exports (2025)', note: 'Up ~17% YoY; electronics, phones, and machinery lead.', source: 'GSO / NSO, 2025' },
-      { value: 'US / China / EU', label: 'Largest trade partners', note: 'US is the top export market; China the top import source.', source: 'GSO, 2024' },
+      { value: 'US / China / EU', label: 'Largest trade partners', note: 'US is the top export market; China the top import source.', source: 'GSO, 2025' },
       { value: '16+', label: 'Free trade agreements', note: 'Incl. CPTPP, EVFTA, RCEP.', source: 'MoIT' },
     ],
   },
   {
     heading: 'Investment',
-    intro: 'Foreign direct investment remains a structural pillar of the economy.',
+    intro: 'Foreign direct investment remains a structural pillar — disbursement hit a record in 2025.',
     stats: [
       { value: '~$38.4B', label: 'Registered FDI (2025)', note: 'Newly registered, adjusted, and capital contributions.', source: 'GSO / MPI, 2025' },
       { value: '~$27.6B', label: 'Disbursed FDI (2025)', note: 'Record high; +9% YoY, highest in five years.', source: 'GSO / MPI, 2025' },
-      { value: '~60%+', label: 'Manufacturing share of FDI', note: 'Processing & manufacturing dominate.', source: 'MPI / FIA, 2024' },
+      { value: '~60%+', label: 'Manufacturing share of FDI', note: 'Processing & manufacturing dominate inflows.', source: 'MPI / FIA, 2025' },
       { value: 'China + 1', label: 'Investment driver', note: 'Supply-chain diversification.' },
     ],
   },
   {
-    heading: 'Prices & currency',
-    intro: 'Macroeconomic management focuses on inflation and a managed currency.',
+    heading: 'Prices, debt & currency',
+    intro: 'Macro management kept inflation in check and public debt low while managing the currency.',
     stats: [
-      { value: '3.63%', label: 'Average CPI inflation (2024)', note: 'Within the government\'s target band.', source: 'GSO, 2024' },
-      { value: '~24,000–25,000', label: 'VND per USD (2024)', note: 'Managed float against the dollar.', source: 'SBV, 2024' },
-      { value: 'SBV', label: 'Central bank', note: 'State Bank of Vietnam.' },
-      { value: 'Stable', label: 'Macro policy stance', note: 'Growth with stability.' },
+      { value: '3.31%', label: 'Average CPI inflation (2025)', note: 'Within the National Assembly\'s target.', source: 'GSO, 2025' },
+      { value: '33.6%', label: 'Public debt / GDP (2025)', note: 'Low and stable — well below the ceiling.', source: 'GSO / MoF, 2025' },
+      { value: '~26,000', label: 'VND per USD (2025)', note: 'Managed float; gradual depreciation through the year.', source: 'SBV, 2025' },
+      { value: 'SBV', label: 'Central bank', note: 'State Bank of Vietnam runs a managed float.' },
     ],
   },
   {
-    heading: 'People & structure',
-    intro: 'A large, young, urbanizing population underpins long-run demand.',
+    heading: 'People & labor',
+    intro: 'A large, young, urbanizing population with near-full employment underpins long-run demand.',
     stats: [
-      { value: '~101.3M', label: 'Population (2024)', note: '15th most populous country.', source: 'GSO, 2024' },
+      { value: '~101.3M', label: 'Population (2025)', note: '15th most populous country.', source: 'GSO, 2025' },
       { value: '~33', label: 'Median age', note: 'Young, working-age-heavy.', source: 'UN / GSO est.' },
-      { value: 'Urbanizing', label: 'Population trend', note: 'Growing urban middle class.' },
-      { value: 'Digital', label: 'Economy direction', note: 'Fast-growing internet economy.' },
+      { value: '2.22%', label: 'Working-age unemployment (2025)', note: 'Down 0.02pp YoY — near record low.', source: 'GSO, 2025' },
+      { value: '+3.78%', label: 'Agriculture, forestry & fishery (2025)', note: '5.3% of the year\'s growth.', source: 'GSO, 2025' },
     ],
   },
 ];
@@ -89,7 +91,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-31"
-  lastUpdated="2026-05-31"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
