@@ -5,59 +5,61 @@ const title = "Vietnam Logistics & Delivery Statistics 2026 — Last-Mile Market
 const description = "A curated roundup of Vietnam logistics statistics for 2026: last-mile carriers, delivery speed, COD share, e-commerce parcel volume, warehousing, and market structure — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-logistics-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
   {
-    heading: 'Last-mile carriers',
-    intro: 'A competitive field of independent and platform-owned carriers keeps delivery fast and cheap.',
+    heading: 'Market size & cost',
+    intro: 'Logistics is a large, fast-growing market held back by a high cost-to-GDP ratio — the central efficiency challenge.',
     stats: [
-      { value: '3+', label: 'Major independent carriers (GHN, GHTK, J&T)', note: 'Plus Ninja Van and others.' },
-      { value: 'SPX, LEX', label: 'Platform-owned networks', note: 'Shopee\'s SPX Express and Lazada\'s LEX.' },
-      { value: 'Cheapest', label: 'GHTK positioning for light parcels', note: '"Economical delivery" model.' },
-      { value: 'Speed-led', label: 'GHN positioning', note: '"Fast delivery" with strong metro density.' },
-      { value: 'Volume-led', label: 'J&T Express positioning', note: 'Aggressive pricing, fast hub expansion.' },
-    ],
-  },
-  {
-    heading: 'Delivery speed & coverage',
-    intro: 'Metro delivery rivals regional peers; rural reach is the competitive frontier.',
-    stats: [
-      { value: '1–2 days', label: 'Typical intra-city delivery (HCMC, Hanoi)', note: 'Same-day available in core areas.' },
-      { value: '2–4 days', label: 'Typical inter-region delivery', note: 'Longer to remote provinces.' },
-      { value: 'Nationwide', label: 'Coverage of leading carriers', note: 'Deep tier-2/3 and rural networks.' },
-      { value: 'Growing', label: 'Rural and remote-area service', note: 'Key battleground for carriers.' },
+      { value: '~$52B', label: 'Freight & logistics market (2025)', note: 'Projected ~$55.5B in 2026; 6.6% CAGR to 2031.', source: 'Mordor Intelligence, 2025' },
+      { value: '16–20%', label: 'Logistics cost / GDP', note: 'Roughly double the ~10% global average — the key drag.', source: 'World Bank / industry, 2025' },
+      { value: '~$1.75B', label: 'Courier, express & parcel (CEP) market (2025)', note: 'The fastest-growing slice; ~7.2% CAGR to 2031.', source: 'Mordor Intelligence, 2025' },
+      { value: '~25.4M TEU', label: 'Container port throughput (9M 2025)', note: '+13% YoY; ~36.7M TEU projected for 2026.', source: 'Maritime Admin / MBS, 2025' },
+      { value: '3PL-led', label: 'Market structure', note: 'Third-party logistics is the largest and fastest-growing segment.', source: 'Expert Market Research, 2025' },
     ],
   },
   {
     heading: 'E-commerce & parcels',
-    intro: 'E-commerce growth is the primary driver of parcel volume and last-mile investment.',
+    intro: 'E-commerce is the engine of parcel growth — volumes and revenue are both rising fast even as prices fall.',
     stats: [
-      { value: 'High growth', label: 'E-commerce parcel volume trend', note: 'Tracks ~20%+ e-commerce GMV growth.' },
-      { value: 'Declining', label: 'Cash-on-delivery (COD) share', note: 'Still significant but shrinking yearly.' },
-      { value: 'Fast remit', label: 'COD remittance as a differentiator', note: 'Faster payback wins larger sellers.' },
+      { value: '~3.5B', label: 'Parcels shipped (10M 2025)', note: '+32% YoY — driven by the e-commerce boom.', source: 'MBS, 2025' },
+      { value: '+26.9%', label: 'Postal & express revenue (10M 2025)', note: '~VND 75tn; forecast VND 108tn (+25%) in 2026.', source: 'MBS, 2025' },
+      { value: '~5.1B', label: 'Parcels forecast (2026)', note: '+25% YoY at ~VND 21,200 avg per shipment.', source: 'MBS, 2026F' },
+      { value: 'Declining', label: 'Cash-on-delivery (COD) share', note: 'Shifting toward wallets and QR at checkout.' },
       { value: 'Multi-carrier', label: 'Common seller strategy', note: 'Split by route, weight, and parcel value.' },
     ],
   },
   {
-    heading: 'Warehousing & infrastructure',
-    intro: 'Fulfillment infrastructure is scaling to support faster delivery and returns.',
+    heading: 'Last-mile carriers',
+    intro: 'A competitive field of independent, platform-owned, and global carriers keeps delivery fast and cheap.',
     stats: [
-      { value: 'Expanding', label: 'Sorting hub and fulfillment-center capacity', note: 'Carrier and platform investment.' },
-      { value: 'Automation', label: 'Trend in large sorting centers', note: 'Conveyor and scan automation.' },
-      { value: 'Urban', label: 'Concentration of fulfillment capacity', note: 'HCMC and Hanoi industrial zones.' },
-      { value: 'Rising', label: 'Demand for modern logistics real estate', note: 'Driven by e-commerce and manufacturing.' },
+      { value: 'GHN · GHTK · J&T', label: 'Major independent carriers', note: 'Plus Ninja Van and 247 Express.' },
+      { value: 'Viettel Post (VTP)', label: 'Leading domestic network', note: 'All 34 provinces; 2,000+ post offices, automated hubs.', source: 'Company / EMR, 2025' },
+      { value: 'SPX · LEX', label: 'Platform-owned networks', note: 'Shopee and Lazada prioritize affiliated couriers.' },
+      { value: 'DHL · FedEx · UPS', label: 'Global integrators', note: 'FedEx moved to a direct-serve model in 2025.', source: 'Industry, 2025' },
+      { value: '~28%', label: 'Last-mile cost vs Thailand', note: 'Per-parcel costs run higher; densification is the fix.', source: 'Mordor Intelligence, 2025' },
     ],
   },
   {
-    heading: 'Market structure',
-    intro: 'Vietnam\'s logistics market spans last-mile, freight, and cross-border, attracting capital.',
+    heading: 'Delivery speed & coverage',
+    intro: 'Metro delivery rivals regional peers and keeps getting faster; rural reach is the competitive frontier.',
     stats: [
-      { value: 'Fragmented', label: 'Overall logistics market structure', note: 'Many providers across segments.' },
-      { value: 'Consolidating', label: 'Last-mile competitive trend', note: 'Scale and capital favor larger carriers.' },
-      { value: 'FDI-backed', label: 'Funding of leading carriers', note: 'Regional and global investors.' },
-      { value: 'Cross-border', label: 'Growth segment', note: 'Linked to cross-border e-commerce.' },
+      { value: '1–2 days', label: 'Typical intra-city delivery (HCMC, Hanoi)', note: 'Same-day available in core areas.' },
+      { value: '~24 hrs', label: 'Average delivery window', note: 'Halved from ~48h via automated sorters and AI routing.', source: 'Mordor Intelligence, 2025' },
+      { value: '30–60 min', label: 'Quick-commerce fulfillment', note: 'Groceries and impulse buys in dense urban zones.', source: 'Industry, 2025' },
+      { value: 'Nationwide', label: 'Coverage of leading carriers', note: 'Deep tier-2/3 and rural networks.' },
+    ],
+  },
+  {
+    heading: 'Infrastructure',
+    intro: 'A wave of public infrastructure spending is cutting transit times and expanding capacity.',
+    stats: [
+      { value: '~$13–15B', label: 'Public spend on roads/ports/airports', note: 'Cutting interprovincial transit times.', source: 'Mordor / MBS, 2025' },
+      { value: '5,000+ km', label: 'Expressway network target', note: 'Up from ~1,163 km — a multi-fold expansion.', source: 'Industry, 2025' },
+      { value: '$58.7B', label: 'North–South high-speed railway (planned)', note: 'Future multimodal freight capacity.', source: 'Industry, 2025' },
+      { value: '1.2M tons', label: 'Long Thanh Airport cargo capacity', note: 'Eases pressure on Tan Son Nhat and Noi Bai.', source: 'MBS, 2025' },
     ],
   },
 ];
@@ -89,7 +91,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-30"
-  lastUpdated="2026-05-30"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -123,6 +125,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -133,9 +136,16 @@ const datasetSchema = {
       <h2>Notes on methodology</h2>
       <p>
         These statistics are reference estimates intended to give a directional picture of
-        Vietnam's logistics market. Where hard figures vary across analysts, we use qualitative
-        descriptors rather than spurious precision. For definitions of terms like last-mile
-        delivery, COD, and fulfillment, see our <a href="/glossary/">glossary</a>.
+        Vietnam's logistics market. Market-size figures vary by scope (freight vs full logistics vs
+        e-commerce logistics), so cross-check the primary source before relying on a single number.
+        For definitions of terms like last-mile delivery, COD, and fulfillment, see our
+        <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> Mordor Intelligence (Vietnam Freight &amp; Logistics /
+        CEP market); MB Securities (Logistics Sector Outlook 2026); Vietnam Maritime &amp; Inland
+        Waterways Administration; World Bank Logistics Performance Index; Expert Market Research;
+        Ministry of Industry and Trade (MoIT). Figures are full-year or year-to-date 2025 unless noted.
       </p>
     </section>
 
@@ -173,6 +183,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .stats-section p a { color: var(--color-accent); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
