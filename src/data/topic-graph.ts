@@ -43,7 +43,19 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'logistics',
     title: 'Logistics',
     description: 'Shipping networks, last-mile delivery, and supply chain structures.',
-    related: ['ecommerce', 'platforms', 'regulations'],
+    related: ['ecommerce', 'manufacturing', 'platforms', 'regulations'],
+  },
+  manufacturing: {
+    slug: 'manufacturing',
+    title: 'Manufacturing',
+    description: 'Industrial production, export sectors, FDI, and the "China + 1" shift.',
+    related: ['real-estate', 'logistics', 'regulations', 'financial-markets'],
+  },
+  'real-estate': {
+    slug: 'real-estate',
+    title: 'Real Estate',
+    description: 'Property market, prices, foreign ownership rules, and industrial real estate.',
+    related: ['banking', 'financial-markets', 'manufacturing', 'regulations'],
   },
   platforms: {
     slug: 'platforms',

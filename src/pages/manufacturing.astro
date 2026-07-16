@@ -1,0 +1,118 @@
+---
+import TopicLayout from '../layouts/TopicLayout.astro';
+import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
+import { getRelatedTopics } from '../data/topic-graph';
+
+const title = "Vietnam Manufacturing 2026 — Exports, FDI & Industrial Base";
+const lastUpdated = "July 2026";
+const description = "Vietnam manufacturing report: industrial production, key export sectors, FDI inflows, the 'China + 1' shift, industrial clusters, and 2025 data with sources.";
+const canonicalURL = "https://vnmarketinsights.com/manufacturing";
+
+const relatedTopics = getRelatedTopics('manufacturing');
+
+const faqs = [
+  {
+    question: "How big is Vietnam's manufacturing sector?",
+    answer: "Manufacturing and processing is the primary engine of the economy. In 2025 the sector expanded about 10.5% — its fastest since at least 2019 — and Vietnam's industrial production index (IIP) rose 9.2%, a seven-year high. Manufacturing drove a record export haul of roughly US$475 billion.",
+  },
+  {
+    question: "What are Vietnam's biggest manufacturing exports?",
+    answer: "Computers, electronics, and components led in 2025 at about US$106 billion (up 46% YoY) — the first Vietnamese export group ever to top US$100 billion, at 22.5% of total exports. Machinery followed at ~$58 billion, phones ~$58 billion, textiles and garments ~$39 billion, and footwear ~$24 billion.",
+  },
+  {
+    question: "Why do companies manufacture in Vietnam?",
+    answer: "Vietnam is the leading beneficiary of the 'China + 1' supply-chain diversification: competitive labor costs, a young workforce, 16+ free trade agreements (CPTPP, EVFTA, RCEP), political stability, and dense industrial clusters. FDI is largely export-oriented, with processing and manufacturing taking over 60% of inflows.",
+  },
+  {
+    question: "How much foreign investment goes into Vietnamese manufacturing?",
+    answer: "Vietnam registered about US$38.4 billion of FDI in 2025 and disbursed a record ~US$27.6 billion (+9%, the most in five years), with processing and manufacturing the dominant sector. Top destinations were HCMC, Bac Ninh, and Hanoi; leading source economies were Korea, Singapore, China, and Japan.",
+  },
+];
+---
+
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} canonicalURL={canonicalURL} articleSection="Manufacturing" faqs={faqs} relatedTopics={relatedTopics}>
+  <section>
+    <h2>Overview</h2>
+    <p class="topic-definition">
+      <strong>Vietnam's manufacturing sector</strong> is the engine of the economy and the country's
+      rise as a global factory. In 2025, processing and manufacturing grew about
+      <strong>10.5%</strong> and the industrial production index rose <strong>9.2%</strong> — a
+      seven-year high — powering a record <strong>~$475 billion</strong> in exports. Growth is led by
+      export-oriented FDI and the <strong>"China + 1"</strong> supply-chain shift, concentrated in
+      industrial clusters around Hanoi and Ho Chi Minh City.
+    </p>
+  </section>
+
+  <section>
+    <h2>Top manufacturing exports (2025)</h2>
+    <BarChart
+      title="Export value by category"
+      unit="US$ billion"
+      data={[
+        { label: 'Computers & electronics', value: 106, display: '$106B' },
+        { label: 'Machinery & equipment', value: 58.4, display: '$58.4B' },
+        { label: 'Phones & accessories', value: 57.6, display: '$57.6B' },
+        { label: 'Textiles & garments', value: 39.3, display: '$39.3B' },
+        { label: 'Footwear', value: 24.0, display: '$24.0B' },
+      ]}
+      source="GSO / Vietnam Customs, 2025"
+      caption="Electronics became the first-ever Vietnamese export group to top $100B (+46% YoY, 22.5% of exports)."
+    />
+  </section>
+
+  <section>
+    <h2>Industrial output (2025)</h2>
+    <ul class="characteristics-list">
+      <li><strong>IIP +9.2%</strong> — the strongest since 2019 (up from +8.2% in 2024), with Q4 running near +9.9%.</li>
+      <li><strong>Processing &amp; manufacturing +10.5%</strong>, contributing 8.4 percentage points of IIP growth — the highest annual rate in 2019–2025.</li>
+      <li><strong>PMI 53.0 in December 2025</strong> (S&amp;P Global) — an eighth straight month of expansion, with business confidence at a 21-month high; ~6.7% industrial growth is forecast for 2026.</li>
+      <li><strong>Broad-based gains</strong>: motor vehicles led sub-sectors at +22% (auto output +39%), followed by non-metallic minerals, rubber &amp; plastics, and basic metals.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Foreign investment & 'China + 1'</h2>
+    <ul class="characteristics-list">
+      <li><strong>~$38.4B registered FDI</strong> and a record <strong>~$27.6B disbursed</strong> (+9%) in 2025 — processing and manufacturing over 60% of inflows.</li>
+      <li><strong>Top destinations</strong>: HCMC (~$7.1B), Bac Ninh (~$5.7B), and Hanoi (~$4.3B); <strong>top sources</strong>: Korea, Singapore, China, and Japan.</li>
+      <li><strong>'China + 1'</strong> — supply-chain diversification out of China — is the core structural driver, drawing electronics, textiles, and higher-value component makers.</li>
+      <li>Industrial land demand feeds directly into <a href="/real-estate/">real estate</a> (industrial belts) and <a href="/logistics/">logistics</a> networks.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Industrial base & clusters</h2>
+    <ul class="characteristics-list">
+      <li><strong>Northern electronics cluster</strong> — Bac Ninh, Hai Phong, and surrounds host Samsung, Foxconn, LG, and their supplier bases.</li>
+      <li><strong>Southern industrial belt</strong> — Binh Duong and Dong Nai around HCMC anchor diverse manufacturing.</li>
+      <li><strong>Industrial parks</strong> are the primary FDI vehicle: zoned sites with tax and infrastructure incentives.</li>
+      <li><strong>Trade access</strong>: 16+ FTAs (CPTPP, EVFTA, RCEP) underpin competitiveness and a tenth straight goods surplus (~$20B in 2025).</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why this matters</h2>
+    <ul class="characteristics-list">
+      <li>Manufacturing drives exports, FDI, and industrial employment — the clearest read on Vietnam's growth model.</li>
+      <li>The value chain is climbing from assembly toward higher-value components, a key question for wages, productivity, and margins.</li>
+      <li>Factory demand ties manufacturing to <a href="/real-estate/">industrial property</a>, <a href="/logistics/">logistics</a>, and <a href="/regulations/">regulation</a> (incentives, labor, trade).</li>
+      <li>Concentration in electronics and a few large FDI players is both a strength and a trade-exposure risk worth watching.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources-list">
+      <li>General Statistics Office / National Statistics Office (GSO/NSO) — 2025 IIP and socio-economic data</li>
+      <li>Vietnam Customs — export values by category, 2025</li>
+      <li>S&amp;P Global — Vietnam Manufacturing PMI</li>
+      <li>Ministry of Planning and Investment / Foreign Investment Agency (MPI/FIA) — FDI registered and disbursed</li>
+    </ul>
+  </section>
+
+  <CiteThis title="Vietnam Manufacturing 2026" url={canonicalURL} updated="July 2026" />
+
+  <RecentDevelopments topic="regulations" title="Recent manufacturing & trade developments" />
+</TopicLayout>

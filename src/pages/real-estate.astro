@@ -1,0 +1,116 @@
+---
+import TopicLayout from '../layouts/TopicLayout.astro';
+import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
+import { getRelatedTopics } from '../data/topic-graph';
+
+const title = "Vietnam Real Estate Market 2026 — Prices, Supply & Foreign Ownership";
+const lastUpdated = "July 2026";
+const description = "Vietnam real estate report: market size, apartment prices in Hanoi and HCMC, supply and transactions, foreign ownership rules, industrial property, and 2025 data with sources.";
+const canonicalURL = "https://vnmarketinsights.com/real-estate";
+
+const relatedTopics = getRelatedTopics('real-estate');
+
+const faqs = [
+  {
+    question: "Can foreigners own property in Vietnam?",
+    answer: "Foreigners can own dwellings (apartments and, in limited cases, landed houses) on a renewable 50-year leasehold, but cannot own land — land is collectively owned and only land-use rights exist. Foreign buyers are capped at about 30% of units in an apartment building and roughly 250 landed homes per ward. Verify current rules and quotas with a local lawyer before transacting.",
+  },
+  {
+    question: "How much did property prices rise in Vietnam?",
+    answer: "Apartment prices rose sharply in 2025 — roughly 20–30% nationwide, with some areas above 40%. Hanoi's average apartment price reached about US$3,800/sqm (up ~40% YoY) and HCMC about US$4,200/sqm (up ~23%). Measured from 2019, Hanoi apartment prices are up around 96%, Da Nang ~73%, and HCMC ~57%. Growth is expected to moderate, not reverse, in 2026.",
+  },
+  {
+    question: "How big is Vietnam's real estate market?",
+    answer: "Total project investment across roughly 3,297 active projects — covering about 5.9 million units — was estimated at around US$285 billion (VND 7.42 quadrillion) in 2025. Housing supply grew about 50% year on year, the fastest in seven years, as regulatory reforms revived stalled projects. Property transactions reached roughly 580,000 (+7.7%).",
+  },
+  {
+    question: "Is real estate a big destination for foreign investment in Vietnam?",
+    answer: "Yes. Real estate attracted about US$3.67 billion of FDI in 2025 — around 21% of newly registered foreign capital, the second-largest sector after manufacturing. Industrial and logistics property is the strongest structural story, driven by 'China + 1' manufacturing relocation into industrial belts around Hanoi and HCMC.",
+  },
+];
+---
+
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} canonicalURL={canonicalURL} articleSection="Real Estate" faqs={faqs} relatedTopics={relatedTopics}>
+  <section>
+    <h2>Overview</h2>
+    <p class="topic-definition">
+      <strong>Vietnam's real estate market</strong> spans residential, industrial, retail, office, and
+      resort property. 2025 was a turning point: <strong>housing supply grew about 50%</strong> — the
+      fastest in seven years — and liquidity surged as regulatory reforms unlocked stalled projects,
+      setting up a new cycle from 2026. Total project investment across ~3,297 active projects
+      (~5.9 million units) was estimated near <strong>$285 billion in 2025</strong>. Foreigners can
+      own dwellings on a <strong>50-year renewable leasehold</strong> but never the land itself.
+    </p>
+  </section>
+
+  <section>
+    <h2>Apartment price growth since 2019</h2>
+    <BarChart
+      title="Cumulative apartment price rise, 2019 → 2025"
+      unit="%"
+      data={[
+        { label: 'Hanoi', value: 96, display: '+96%' },
+        { label: 'Da Nang', value: 73, display: '+73%' },
+        { label: 'HCMC', value: 57, display: '+57%' },
+      ]}
+      source="VARS IRE, 2025"
+      caption="In 2025 alone, Hanoi apartments rose ~40% YoY to ~$3,800/sqm and HCMC ~23% to ~$4,200/sqm."
+    />
+  </section>
+
+  <section>
+    <h2>Market activity (2025)</h2>
+    <ul class="characteristics-list">
+      <li><strong>Supply rebound</strong>: housing supply up ~50% YoY as reforms (the 2024 Land, Housing, and Real Estate Business laws) revived stalled projects.</li>
+      <li><strong>~580,000 transactions</strong> (+7.7% YoY), with land plots leading (~442,000); absorption of new launches ran near 68%.</li>
+      <li><strong>Prices rose 20–30% nationwide</strong>, led by mid- and high-end apartments; some areas topped +40%. Growth is expected to moderate — not reverse — in 2026.</li>
+      <li><strong>Two-metro concentration</strong>: HCMC and Hanoi hold the highest prices and deepest end-user plus investor demand; Da Nang anchors the coastal/resort market.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Foreign ownership rules</h2>
+    <ul class="characteristics-list">
+      <li><strong>No land ownership</strong> — land is collectively owned; buyers hold land-use rights, and foreigners own the dwelling only.</li>
+      <li><strong>50-year renewable term</strong> on the foreign-owned dwelling (leasehold), renewable on expiry.</li>
+      <li><strong>~30% cap</strong> on foreign-owned units per apartment building (the "foreign room"), and roughly <strong>250 landed homes per ward</strong>.</li>
+      <li>Rules and quotas change — confirm against current law and a local lawyer before buying. See <a href="/regulations/">regulations</a> and our <a href="/guides/how-to-buy-property-in-vietnam-as-a-foreigner/">buying guide</a>.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Investment & industrial property</h2>
+    <ul class="characteristics-list">
+      <li><strong>$3.67B real-estate FDI</strong> in 2025 — about 21% of newly registered foreign capital, the second-largest sector after manufacturing.</li>
+      <li><strong>Industrial & logistics property</strong> is the strongest structural story, powered by <a href="/manufacturing/">manufacturing</a> relocation into belts like Bac Ninh, Binh Duong, Dong Nai, and Hai Phong.</li>
+      <li><strong>Domestic-led M&A</strong> dominated 2025 deals; CapitaLand, Gamuda, and Japanese buyers featured among foreign transactions.</li>
+      <li><strong>Real-estate lending limits</strong> from the SBV for 2026 (see <a href="/banking/">banking</a>) are a key swing factor for developer funding and demand.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why this matters</h2>
+    <ul class="characteristics-list">
+      <li>Real estate and banks are the heaviest weights on the <a href="/financial-markets/">stock market</a>, so property cycles move the whole index.</li>
+      <li>Housing affordability and price growth are central political and social issues, shaping policy on social housing and lending.</li>
+      <li>Industrial property is the physical layer of the 'China + 1' shift — inseparable from <a href="/manufacturing/">manufacturing</a> and <a href="/logistics/">logistics</a> strategy.</li>
+      <li>Infrastructure — metro lines, ring roads, and new airports — is the main catalyst for land values around the metros.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources-list">
+      <li>Ministry of Construction — 2025 housing and real-estate market assessment (project value, supply, transactions)</li>
+      <li>VARS / VARS IRE — absorption and long-run price indices</li>
+      <li>Savills, CBRE, Cushman &amp; Wakefield, Avison Young — city apartment prices and forecasts, 2025–2026</li>
+      <li>Foreign Investment Agency (FIA/MoF) — real-estate FDI; Vietnam's Law on Housing and Land Law — ownership rules</li>
+    </ul>
+  </section>
+
+  <CiteThis title="Vietnam Real Estate Market 2026" url={canonicalURL} updated="July 2026" />
+
+  <RecentDevelopments topic="financial-markets" title="Recent property & finance developments" />
+</TopicLayout>
