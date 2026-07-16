@@ -1,0 +1,119 @@
+---
+import TopicLayout from '../layouts/TopicLayout.astro';
+import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
+import { getRelatedTopics } from '../data/topic-graph';
+
+const title = "Vietnam Tourism 2026 — Arrivals, Source Markets & Visa Policy";
+const lastUpdated = "July 2026";
+const description = "Vietnam tourism report: record international arrivals, domestic trips, revenue, top source markets, visa policy, hotel performance, and 2025 data with sources.";
+const canonicalURL = "https://vnmarketinsights.com/tourism";
+
+const relatedTopics = getRelatedTopics('tourism');
+
+const faqs = [
+  {
+    question: "How many tourists visited Vietnam in 2025?",
+    answer: "Vietnam welcomed a record ~21.2 million international visitors in 2025 (up 20.4% YoY) — its highest ever, about 18% above the pre-pandemic 2019 level. Domestic tourism added roughly 135 million trips (+22%). International growth of ~21% ranked Vietnam among the world's fastest-growing destinations, far above the global average of ~5%.",
+  },
+  {
+    question: "Where do most tourists to Vietnam come from?",
+    answer: "Asia supplied 78.6% of arrivals in 2025. China was the largest source at about 5.3 million (~25% of the total, +41% YoY), followed by South Korea (4.3 million), Taiwan (1.2 million), the US (849,000), Japan (814,000, +14%), and India (746,000, +49%). Russia nearly tripled to ~690,000.",
+  },
+  {
+    question: "Do I need a visa to visit Vietnam?",
+    answer: "Vietnam grants e-visas to citizens of all countries and territories, valid for up to 90 days with multiple entry. Citizens of around 24–30 countries enjoy unilateral visa exemption (typically 30–45 days), including most of Western Europe, Japan, South Korea, and Russia. Phu Quoc island offers visa-free entry to all nationalities. Confirm current rules before travel.",
+  },
+  {
+    question: "How much revenue does tourism generate for Vietnam?",
+    answer: "Total tourism revenue exceeded VND 1 quadrillion (about US$38 billion) in 2025 — roughly 8.8% of GDP. Accommodation and catering revenue reached VND 843 trillion (+14.6%) and travel-service revenue VND 93.9 trillion (+20.2%). For 2026, Vietnam targets 25 million international visitors, 150 million domestic trips, and ~VND 1.12 quadrillion (~US$43 billion) in revenue.",
+  },
+];
+---
+
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} canonicalURL={canonicalURL} articleSection="Tourism" faqs={faqs} relatedTopics={relatedTopics}>
+  <section>
+    <h2>Overview</h2>
+    <p class="topic-definition">
+      <strong>Vietnam's tourism sector</strong> was a standout of the 2025 economy, welcoming a record
+      <strong>~21.2 million international visitors</strong> (+20.4% YoY) — the highest ever and about
+      18% above pre-pandemic 2019 — plus roughly <strong>135 million domestic trips</strong>. Total
+      tourism revenue topped <strong>VND 1 quadrillion (~$38 billion)</strong>, near 8.8% of GDP.
+      Growth of ~21% ranked Vietnam among the <strong>world's fastest-growing destinations</strong>,
+      driven by an increasingly open <strong>visa policy</strong> and market diversification.
+    </p>
+  </section>
+
+  <section>
+    <h2>Top international source markets (2025)</h2>
+    <BarChart
+      title="Arrivals by country of origin"
+      unit="million visitors"
+      data={[
+        { label: 'China', value: 5.3, display: '5.3M' },
+        { label: 'South Korea', value: 4.3, display: '4.3M' },
+        { label: 'Taiwan', value: 1.2, display: '1.2M' },
+        { label: 'United States', value: 0.85, display: '849K' },
+        { label: 'Japan', value: 0.81, display: '814K' },
+        { label: 'India', value: 0.75, display: '746K' },
+      ]}
+      source="Vietnam National Authority of Tourism (VNAT), 2025"
+      caption="Asia supplied 78.6% of arrivals. China +41%, India +49%, Japan +14% YoY; South Korea eased ~5%."
+    />
+  </section>
+
+  <section>
+    <h2>Arrivals & revenue (2025)</h2>
+    <ul class="characteristics-list">
+      <li><strong>~21.2M international arrivals</strong> (+20.4%): by air 17.8M (84%), by land 3.1M (14%), by sea 0.27M (1%).</li>
+      <li><strong>~135M domestic trips</strong> (+22%) — about 1.6× the 2019 level — the sector's stabilizing base.</li>
+      <li><strong>Revenue &gt;VND 1 quadrillion (~$38B)</strong>, ~8.8% of GDP; accommodation &amp; catering VND 843tn (+14.6%), travel services VND 93.9tn (+20.2%).</li>
+      <li><strong>Fastest-growing tier</strong>: ~21% arrival growth vs a ~5% global average, alongside Japan, Brazil, and Saudi Arabia.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Visa policy</h2>
+    <ul class="characteristics-list">
+      <li><strong>E-visa for all nationalities</strong> — up to 90 days, multiple entry — a major driver of the rebound.</li>
+      <li><strong>Visa exemption</strong> for citizens of ~24–30 countries (typically 30–45 days), including Western Europe, Japan, South Korea, and Russia; Resolution 44/2025 grants 45-day stays to 12 countries through March 2028.</li>
+      <li><strong>Phu Quoc</strong> offers visa-free entry to all nationalities, anchoring its resort growth.</li>
+      <li><strong>Still less open than peers</strong> — Thailand, Malaysia, and Singapore exempt far more countries — so proposed golden/investor/talent visas aim to close the gap. See <a href="/regulations/">regulations</a>.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Destinations & hotel performance</h2>
+    <ul class="characteristics-list">
+      <li><strong>Key destinations</strong>: Ho Chi Minh City, Hanoi, Ha Long Bay (Quang Ninh), Da Nang, Phu Quoc, Nha Trang/Cam Ranh, Ninh Binh, and Hue.</li>
+      <li><strong>National hotel occupancy ~68.4%</strong> (+5.8pp YoY), with ADR up ~7% and RevPAR up ~17%.</li>
+      <li><strong>City & coast lead</strong>: Da Nang ~75% occupancy, HCMC ~72%, Hanoi ~67.5%, Nha Trang ~65%; branded resorts often ran higher.</li>
+      <li><strong>Accolades</strong>: named World's Leading Heritage Destination (6th time) and Asia's Leading Destination (7th), reinforcing the brand.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why this matters</h2>
+    <ul class="characteristics-list">
+      <li>Tourism is a spearhead services sector — a direct driver of the ~8.6% services growth that led 2025 GDP.</li>
+      <li>Visitor spending links tourism to <a href="/retail/">retail</a>, <a href="/consumers/">consumer</a> demand, aviation, and hospitality <a href="/real-estate/">real estate</a>.</li>
+      <li>Visa liberalization is the clearest policy lever for arrivals — an area where Vietnam still trails regional peers.</li>
+      <li>Heavy reliance on China and South Korea (~45% of arrivals) is both a strength and a concentration risk worth watching.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources-list">
+      <li>Vietnam National Authority of Tourism (VNAT / TITC) — 2025 arrivals, source markets, and 2026 targets</li>
+      <li>National Statistics Office (Ministry of Finance) — tourism revenue and GDP contribution, 2025</li>
+      <li>STR / CoStar — Asia Pacific Hotel Performance Review (occupancy, ADR, RevPAR)</li>
+      <li>Government Resolutions 11/NQ-CP and 44/NQ-CP (2025) — visa exemptions and stimulus; vietnam.travel — e-visa rules</li>
+    </ul>
+  </section>
+
+  <CiteThis title="Vietnam Tourism 2026" url={canonicalURL} updated="July 2026" />
+
+  <RecentDevelopments topic="consumers" title="Recent tourism & consumer developments" />
+</TopicLayout>

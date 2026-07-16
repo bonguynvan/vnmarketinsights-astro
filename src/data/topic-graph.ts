@@ -19,7 +19,7 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'retail',
     title: 'Retail',
     description: 'Modern and traditional trade, grocery and convenience chains, and consumer retail.',
-    related: ['ecommerce', 'consumers', 'logistics'],
+    related: ['ecommerce', 'consumers', 'tourism', 'logistics'],
   },
   banking: {
     slug: 'banking',
@@ -67,7 +67,13 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'consumers',
     title: 'Consumers',
     description: 'Demographics, behavior, spending patterns, and urbanization in Vietnam.',
-    related: ['ecommerce', 'platforms', 'payments'],
+    related: ['ecommerce', 'retail', 'tourism', 'platforms', 'payments'],
+  },
+  tourism: {
+    slug: 'tourism',
+    title: 'Tourism',
+    description: 'International arrivals, source markets, visa policy, and hotel performance.',
+    related: ['consumers', 'real-estate', 'regulations', 'retail'],
   },
   regulations: {
     slug: 'regulations',
