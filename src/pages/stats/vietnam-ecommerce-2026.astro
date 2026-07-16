@@ -11,35 +11,47 @@ type Group = { heading: string; intro: string; stats: Stat[] };
 const groups: Group[] = [
   {
     heading: 'Market size & growth',
-    intro: 'Vietnam remains one of the fastest-growing digital economies in Southeast Asia, led by e-commerce.',
+    intro: 'Vietnam stayed one of Southeast Asia\'s fastest-growing digital economies in 2025, though growth is now concentrating among larger sellers.',
     stats: [
-      { value: '~$31B', label: 'B2C e-commerce revenue (2025)', note: 'Up from ~$25B in 2024; ~10% of total retail sales.', source: 'MoIT / VECOM, 2025' },
-      { value: '~$16B', label: 'GMV across top 4 platforms (2024)', note: 'VND 318.9tn across Shopee, TikTok Shop, Lazada, Tiki; +37% YoY.', source: 'Metric, 2024' },
-      { value: '18%', label: 'E-commerce GMV growth (e-Conomy SEA)', note: '3rd-fastest in SEA after Philippines and Thailand.', source: 'e-Conomy SEA 2024' },
-      { value: '#3', label: 'E-commerce rank in Southeast Asia', note: 'Behind Indonesia (~$65B) and Thailand (~$26B).', source: 'e-Conomy SEA 2024' },
-      { value: '~$63B', label: 'Projected GMV by 2030', note: '~19% CAGR; on track to pass Thailand for #2.', source: 'e-Conomy SEA 2024' },
+      { value: '$16.4B', label: 'Top-4 platform GMV (2025)', note: 'VND 429.7tn, +34.75% YoY (Metric). YouNet ECI puts it higher at ~$17.4B / +26%.', source: 'Metric, 2025' },
+      { value: '~$32B', label: 'Total B2C e-commerce (2025)', note: '≈12% of total retail sales; up ~20% YoY; 2nd-fastest in SEA.', source: 'MoIT, 2025' },
+      { value: '$39B', label: 'Digital economy GMV (2025)', note: 'Double-digit growth across sectors.', source: 'e-Conomy SEA 2025' },
+      { value: '3.94B', label: 'Items sold on top-4 platforms (2025)', note: '+15.23% YoY — volume grew slower than value.', source: 'Metric, 2025' },
+      { value: '~$50B', label: 'E-commerce target by 2030', note: 'Government goal; 15–20% of total retail.', source: 'MoIT' },
+      { value: '601,780', label: 'Active online shops (2025)', note: '−7.43% YoY — sellers consolidating as growth concentrates.', source: 'Metric, 2025' },
     ],
   },
   {
     heading: 'Platforms & marketplaces',
-    intro: 'Shopee and TikTok Shop together take the overwhelming majority of marketplace GMV.',
+    intro: 'The market is now a Shopee–TikTok Shop duopoly; Lazada and Tiki have faded, and official-brand "Mall" stores punch far above their numbers.',
     stats: [
-      { value: '65%', label: 'Shopee share of platform GMV (2024)', note: '~$10.4B; eased toward ~56% during 2025.', source: 'Metric, 2024' },
-      { value: '28%', label: 'TikTok Shop share (2024)', note: '~$4.5B; surged toward ~41% in 2025 (+69%).', source: 'Metric, 2024' },
-      { value: '6%', label: 'Lazada share of platform GMV (2024)', note: '~$1B; LazMall authorized-brand channel.', source: 'Metric, 2024' },
-      { value: '97%', label: 'Shopee + TikTok Shop combined share', note: 'The two leaders dominate; Tiki ~1%.', source: 'Metric, 2024/2025' },
-      { value: '4', label: 'Major marketplaces', note: 'Shopee, TikTok Shop, Lazada, Tiki.', source: 'Metric' },
+      { value: '56.0%', label: 'Shopee share of platform GMV (2025)', note: 'Down from ~64% in 2024 as growth slowed to ~6%.', source: 'Metric, 2025' },
+      { value: '41.3%', label: 'TikTok Shop share (2025)', note: 'Up from ~29% in 2024; +69% growth on its "shoppertainment" model.', source: 'Metric, 2025' },
+      { value: '97%', label: 'Shopee + TikTok Shop combined GMV', note: 'A clear duopoly; the two dominate platform sales.', source: 'Metric, 2025' },
+      { value: '32.6%', label: 'GMV from official "Mall" stores', note: 'From just 2.12% of sellers — brands convert far better.', source: 'Metric, 2025' },
+      { value: '~6%', label: 'Lazada + Tiki combined share', note: 'Both shrinking; Lazada revenue fell sharply in 2025.', source: 'Metric / YouNet ECI, 2025' },
     ],
   },
   {
-    heading: 'Digital payments & fintech',
-    intro: 'Cash is declining as e-wallets, QR, and bank transfers take share — but COD still matters.',
+    heading: 'Social & live commerce',
+    intro: 'Vietnam over-indexes on livestream and short-video selling — now a mainstream channel, not a novelty.',
     stats: [
-      { value: '~50M', label: 'E-wallet users (2024 est.)', note: 'MoMo, ZaloPay, VNPay, ViettelPay lead.', source: 'Industry est., 2024' },
-      { value: '62–68%', label: 'MoMo share of e-wallet users', note: 'Most-used wallet in user surveys.', source: 'Decision Lab, 2024' },
-      { value: 'Falling', label: 'Cash-on-delivery share of e-commerce', note: 'Still significant but declining yearly.' },
-      { value: 'Rapid', label: 'Growth of QR-code payments', note: 'VietQR interoperability accelerated adoption.', source: 'SBV/NAPAS' },
-      { value: 'Emerging', label: 'Buy-now-pay-later (BNPL) adoption', note: 'Early but growing among younger buyers.' },
+      { value: '>40%', label: 'Livestream share of online transactions (2025)', note: 'From a nationwide survey of 15,000+ sellers.', source: 'Industry survey, 2025' },
+      { value: '~$11B', label: 'Livestream commerce market by 2026', note: 'Growing ~11% a year.', source: 'Industry est., 2025' },
+      { value: '~30%', label: 'Livestream conversion rate', note: '≈10× traditional e-commerce conversion.', source: 'McKinsey' },
+      { value: 'Shoppertainment', label: 'The new industry benchmark', note: 'Video + retail; TikTok-led, now adopted market-wide.' },
+      { value: 'Fashion/beauty/FMCG', label: 'Top live-commerce categories', note: 'FMCG and fashion led 2025 GMV gains.' },
+    ],
+  },
+  {
+    heading: 'Digital payments at checkout',
+    intro: 'Online checkout keeps shifting from cash-on-delivery toward wallets, cards, and QR.',
+    stats: [
+      { value: '30.3M', label: 'Active e-wallet accounts (2025)', note: 'MoMo, ZaloPay, VNPay, ViettelPay lead.', source: 'SBV, 2025' },
+      { value: '~68%', label: 'MoMo share of e-wallet users', note: 'Most-used wallet in consumer surveys.', source: 'Decision Lab, 2024' },
+      { value: '+124%', label: 'QR payment value growth (2025)', note: 'Volume +50.9%; the fastest-growing rail.', source: 'SBV, 2025' },
+      { value: 'Declining', label: 'Cash-on-delivery (COD) share', note: 'Still present but shrinking as prepaid grows.' },
+      { value: 'See more', label: 'Full payments dataset', note: 'Digital Payments Statistics 2026 for the detail.', source: '/stats' },
     ],
   },
   {
@@ -50,28 +62,18 @@ const groups: Group[] = [
       { value: '2–4 days', label: 'Typical inter-region delivery', note: 'Longer to rural / remote areas.' },
       { value: '3+', label: 'Major independent carriers (GHN, GHTK, J&T)', note: 'Plus platform-owned SPX and LEX.' },
       { value: 'Nationwide', label: 'Coverage of leading carriers', note: 'Deep tier-2/3 and rural reach.' },
-      { value: 'Cheapest', label: 'GHTK positioning for light parcels', note: 'Built for low-value e-commerce parcels.' },
-    ],
-  },
-  {
-    heading: 'Social & live commerce',
-    intro: 'Vietnam over-indexes on social and livestream selling versus Western markets.',
-    stats: [
-      { value: 'Mainstream', label: 'Livestream shopping adoption', note: 'TikTok, Facebook, platform-native live.' },
-      { value: 'High', label: 'Share of sales influenced by social channels', note: 'Discovery often starts on social feeds.' },
-      { value: 'Fashion/beauty/FMCG', label: 'Top live-commerce categories', note: 'Demonstrate well on video.' },
-      { value: 'Creators', label: 'Key driver of TikTok Shop volume', note: 'Influencer-led livestream events.' },
+      { value: 'HCMC + Hanoi', label: 'Demand concentration', note: 'The two metros drive the bulk of platform GMV.', source: 'Metric, 2025' },
     ],
   },
   {
     heading: 'Internet & consumer behavior',
     intro: 'A young, mobile-first, highly connected population underpins the whole market.',
     stats: [
-      { value: '78.4M', label: 'Internet users (Jan 2024)', note: 'Up ~0.6% YoY.', source: 'DataReportal, 2024' },
-      { value: '79.1%', label: 'Internet penetration rate (Jan 2024)', note: 'Among the highest in the region.', source: 'DataReportal, 2024' },
-      { value: '72.7M', label: 'Social media users (Jan 2024)', note: '73.3% of the population.', source: 'DataReportal, 2024' },
-      { value: '~101M', label: 'Total population (2024)', note: 'Large, young consumer base.', source: 'GSO, 2024' },
-      { value: '168.5M', label: 'Mobile connections (Jan 2024)', note: '169.8% of population.', source: 'DataReportal, 2024' },
+      { value: '85.6M', label: 'Internet users (2026)', note: '≈84% of the population online.', source: 'DataReportal, 2026' },
+      { value: '79.0M', label: 'Social media user identities (2026)', note: 'Discovery and live commerce start on social.', source: 'DataReportal, 2026' },
+      { value: '~101M', label: 'Total population (2025)', note: 'Large, young consumer base.', source: 'GSO, 2025' },
+      { value: '~137M', label: 'Mobile connections (2026)', note: 'Well above 1 per person.', source: 'DataReportal, 2026' },
+      { value: '~$45M/day', label: 'Spent online shopping (2025)', note: '≈VND 36tn ($1.37B) per month across platforms.', source: 'Metric, 2025' },
       { value: 'Gen Z / Millennials', label: 'Core online-shopping demographic', note: 'Digital-native and brand-curious.' },
     ],
   },
@@ -104,7 +106,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-30"
-  lastUpdated="2026-05-30"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -155,11 +157,13 @@ const datasetSchema = {
         terms like GMV, COD, and live commerce, see our <a href="/glossary/">glossary</a>.
       </p>
       <p>
-        <strong>Primary sources:</strong> Vietnam Ministry of Industry and Trade (MoIT); Metric
-        (Online Retail Platform Market Report); Google · Temasek · Bain "e-Conomy SEA 2024";
-        DataReportal "Digital 2024: Vietnam"; Decision Lab; General Statistics Office (GSO).
-        Each figure is labelled with its year (latest available); verify against the primary source
-        before relying on a specific number.
+        <strong>Primary sources:</strong> Metric.vn (Vietnam E-commerce Report 2025, 1 Jan–31 Dec
+        2025 across Shopee, TikTok Shop, Lazada, Tiki); YouNet ECI (Vietnam E-commerce Revenue &amp;
+        Consumption Report 2025); Google · Temasek · Bain "e-Conomy SEA 2025"; Vietnam Ministry of
+        Industry and Trade (MoIT); State Bank of Vietnam (SBV); DataReportal "Digital 2026: Vietnam";
+        McKinsey; General Statistics Office (GSO). Where analysts disagree (e.g. Metric's ~$16.4bn
+        vs YouNet ECI's ~$17.4bn GMV), both are shown. Cross-check the primary source before relying
+        on a specific number.
       </p>
     </section>
 
