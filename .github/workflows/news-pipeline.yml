@@ -60,8 +60,8 @@ jobs:
       - name: Commit results
         run: |
           cd "${GITHUB_WORKSPACE}"
-          git config user.name "vnmarket-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Add by directory (these always exist) so the step never fails on a
           # not-yet-created file like notify-state.json. .gitignore keeps DB
           # sidecar files (*.db-wal etc.) out. git add -A also stages new
