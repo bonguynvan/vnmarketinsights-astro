@@ -1,0 +1,143 @@
+---
+import TopicLayout from '../layouts/TopicLayout.astro';
+import BarChart from '../components/BarChart.astro';
+import CiteThis from '../components/CiteThis.astro';
+import RecentDevelopments from '../components/RecentDevelopments.astro';
+import { getRelatedTopics } from '../data/topic-graph';
+
+const title = "Vietnam Banking Sector 2026 — Size, Big Banks & Credit Data";
+const lastUpdated = "July 2026";
+const description = "Vietnam banking sector report: total assets, credit growth, the largest banks, NIM, NPLs, digital banking, and 2025 data with sources.";
+const canonicalURL = "https://vnmarketinsights.com/banking";
+
+const relatedTopics = getRelatedTopics('banking');
+
+const faqs = [
+  {
+    question: "How big is Vietnam's banking sector?",
+    answer: "System-wide total assets of 30 domestic commercial banks reached about VND 23.5 quadrillion (roughly US$920 billion) by the end of 2025, up more than 20% year on year. Eight banks have crossed VND 1 quadrillion (~US$40 billion) in total assets: BIDV, VietinBank, Vietcombank, Agribank, MB, VPBank, Techcombank, and ACB.",
+  },
+  {
+    question: "Who are the largest banks in Vietnam?",
+    answer: "The 'Big 4' state-owned commercial banks — BIDV, Agribank, VietinBank, and Vietcombank — dominate the system, each with VND 2.4–3.3 quadrillion in assets. BIDV is the largest at about VND 3.26 quadrillion (~US$128 billion), the only lender above VND 3 quadrillion. The leading private (joint-stock) banks are MB, VPBank, Techcombank, and ACB.",
+  },
+  {
+    question: "How fast is credit growing in Vietnam?",
+    answer: "System credit grew about 19% in 2025 — a five-year high — well above the State Bank of Vietnam's usual 15% target, driven by public investment, FDI-linked industry, real estate, and recovering retail lending. Credit outpaced deposit growth (~11%), pressuring liquidity. The SBV set a ~15% credit-growth target for 2026 with tighter quarterly quotas and real-estate limits.",
+  },
+  {
+    question: "What is the difference between state-owned and joint-stock banks?",
+    answer: "State-owned commercial banks (SOCBs) — BIDV, VietinBank, Vietcombank, and Agribank — are majority government-owned, systemically important, and lead on scale and low funding costs but carry thinner capital buffers. Joint-stock commercial banks (JSCBs) like MB, VPBank, Techcombank, and ACB are privately held, more agile in digital and retail, and generally post higher margins and returns.",
+  },
+  {
+    question: "How digital is banking in Vietnam?",
+    answer: "Very. More than 87% of Vietnamese adults have a bank account, over 164 million cards are in circulation, and there were about 232 million individual payment accounts at end-2025. Several banks now execute 90–95% of transactions on digital channels, and cashless payments reached roughly 28 times GDP in 2025. A regulatory sandbox (Decree 94/2025) supports fintech-bank collaboration.",
+  },
+];
+---
+
+<TopicLayout title={title} description={description} lastUpdated={lastUpdated} canonicalURL={canonicalURL} articleSection="Banking" faqs={faqs} relatedTopics={relatedTopics}>
+  <section>
+    <h2>Overview</h2>
+    <p class="topic-definition">
+      <strong>Vietnam's banking sector</strong> is the backbone of the financial system, dominated by
+      four <strong>state-owned commercial banks (SOCBs)</strong> alongside a fast-growing tier of
+      <strong>joint-stock commercial banks (JSCBs)</strong>. System-wide total assets of the 30
+      domestic commercial banks reached about <strong>VND 23.5 quadrillion (~$920 billion) at the end
+      of 2025</strong>, up more than 20% year on year. It is a credit-led system — system credit grew
+      roughly <strong>19% in 2025</strong>, a five-year high — supervised by the
+      <strong>State Bank of Vietnam (SBV)</strong>, the central bank.
+    </p>
+  </section>
+
+  <section>
+    <h2>Largest banks by total assets (end-2025)</h2>
+    <BarChart
+      title="Total assets"
+      unit="VND quadrillion"
+      data={[
+        { label: 'BIDV', value: 3.26, display: '≈3.26' },
+        { label: 'Agribank', value: 2.6, display: '≈2.6' },
+        { label: 'VietinBank', value: 2.5, display: '≈2.5' },
+        { label: 'Vietcombank', value: 2.48, display: '≈2.48' },
+        { label: 'MB', value: 1.3, display: '≈1.3' },
+        { label: 'VPBank', value: 1.17, display: '≈1.17' },
+        { label: 'Techcombank', value: 1.13, display: '≈1.13' },
+        { label: 'ACB', value: 1.0, display: '≈1.0' },
+      ]}
+      source="Q4 2025 financial statements, via VietnamNet / VietnamNews"
+      caption="Eight banks now exceed VND 1 quadrillion (~$40bn). ~VND 26,000 = US$1."
+    />
+  </section>
+
+  <section>
+    <h2>Structure of the sector</h2>
+    <ul class="characteristics-list">
+      <li><strong>The 'Big 4' SOCBs</strong> — BIDV, Agribank, VietinBank, and Vietcombank — are majority state-owned and systemically dominant, leading on scale, deposit base, and low funding costs, but running thinner capital (CET1) buffers than private peers.</li>
+      <li><strong>Leading JSCBs</strong> — MB, VPBank, Techcombank, and ACB — are privately held, more agile in retail and digital, and generally post higher net interest margins and returns; VPBank, Techcombank, and ACB each crossed VND 1 quadrillion in assets for the first time in 2025.</li>
+      <li><strong>Mid- and small-cap JSCBs</strong> — HDBank, VIB, TPBank, Sacombank, SHB, LPBank, OCB, MSB and others — round out roughly 30 commercial banks, with the SBV continuing to restructure a handful of weak lenders.</li>
+      <li><strong>Sector returns</strong> are strong by regional standards: aggregate pre-tax profit of listed banks rose about <strong>19% in 2025</strong>, sustaining a sector ROE near <strong>17–18%</strong> — well above the 9–11% typical across the region.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Credit, deposits & margins (2025)</h2>
+    <ul class="characteristics-list">
+      <li><strong>Credit growth ~19%</strong> — a five-year high that exceeded the SBV's usual 15% guidance, split roughly <strong>54% corporate / 46% retail</strong>. MB, VPBank, HDBank, and Vietcombank won higher quotas for helping restructure weak banks.</li>
+      <li><strong>Deposit growth ~11%</strong> lagged lending, pushing banks toward interbank funding and bond issuance and lifting deposit rates late in the year — a liquidity squeeze that carries into 2026.</li>
+      <li><strong>Net interest margin (NIM) compressed to ~2.9%</strong> (from 3.5% in 2024 and a 3.8% 2022 peak) as banks cut lending rates to compete while funding costs edged up.</li>
+      <li><strong>Asset quality held</strong>: the system NPL ratio stayed around <strong>1.9%</strong>, though largely via aggressive write-offs and rapid loan growth rather than organic improvement; provisioning buffers thinned.</li>
+      <li><strong>Credit-to-GDP now exceeds 140%</strong>. For 2026 the SBV set a ~15% credit target, capped Q1 lending at 25% of the annual quota, and limited each bank's real-estate lending growth.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Digital banking & financial inclusion</h2>
+    <ul class="characteristics-list">
+      <li><strong>~232 million</strong> individual payment accounts at end-2025 (+14% YoY) and <strong>164 million+</strong> cards in circulation; more than <strong>87% of adults</strong> now have a bank account.</li>
+      <li><strong>90–95% of transactions</strong> run on digital channels at several banks; cashless payments reached roughly <strong>28× GDP</strong> in 2025, with volume up ~42%.</li>
+      <li><strong>Fintech sandbox</strong> (Decree 94/2025) enables piloting of P2P lending, credit scoring, and open-data sharing, fostering bank-fintech partnerships — see <a href="/fintech/">fintech</a> and <a href="/payments/">payments</a>.</li>
+      <li><strong>Mobile Money</strong> reached ~10.9 million accounts (about 70% in rural and remote areas), extending inclusion beyond the banked population.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Major players</h2>
+    <h3>State-owned commercial banks (Big 4)</h3>
+    <ul>
+      <li><strong>BIDV</strong> — largest by assets (~VND 3.26 quadrillion); the only lender above VND 3 quadrillion</li>
+      <li><strong>Agribank</strong> — the country's largest rural and agricultural lending network</li>
+      <li><strong>VietinBank</strong> — major corporate and SME lender</li>
+      <li><strong>Vietcombank</strong> — highest-valued bank, low funding cost, strong trade finance and asset quality</li>
+    </ul>
+    <h3>Leading joint-stock banks</h3>
+    <ul>
+      <li><strong>MB (Military Bank)</strong>, <strong>Techcombank</strong>, <strong>VPBank</strong>, <strong>ACB</strong> — the largest private lenders, with high CASA and retail focus</li>
+      <li><strong>HDBank</strong>, <strong>VIB</strong>, <strong>TPBank</strong>, <strong>Sacombank</strong>, <strong>SHB</strong>, <strong>LPBank</strong> — active mid-cap players in retail and consumer finance</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why this matters</h2>
+    <ul class="characteristics-list">
+      <li>Banks are the primary channel for credit in a bank-dominated economy, so credit growth is a direct read on investment and consumption.</li>
+      <li>Bank health links tightly to <a href="/financial-markets/">financial markets</a> (banks are the heaviest weight on the VN-Index) and <a href="/regulations/">regulation</a> (SBV quotas, Basel III, real-estate exposure limits).</li>
+      <li>The digital shift makes banking, <a href="/payments/">payments</a>, and <a href="/fintech/">fintech</a> strategies inseparable for anyone entering the market.</li>
+      <li>Vietnam's push to become a regional international financial center — with a fintech sandbox and digital-bank licensing — reshapes the competitive landscape through 2028.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources-list">
+      <li>State Bank of Vietnam (SBV) — credit-growth management, cashless-payment and account statistics, 2025</li>
+      <li>Q4 2025 financial statements of 30 commercial banks — total assets, credit, deposits (via VietnamNet, VietnamNews)</li>
+      <li>FiinRatings — Vietnam Banking 2026 Outlook (NIM, NPL, credit structure, CAR)</li>
+      <li>MBS Research, KIS Vietnam — sector NIM, profit, CASA and asset-quality data</li>
+    </ul>
+  </section>
+
+  <CiteThis title="Vietnam Banking Sector 2026" url={canonicalURL} updated="July 2026" />
+
+  <RecentDevelopments topic="financial-markets" title="Recent banking & finance developments" />
+</TopicLayout>

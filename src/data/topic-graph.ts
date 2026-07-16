@@ -21,17 +21,23 @@ export const TOPICS: Record<string, TopicNode> = {
     description: 'Modern and traditional trade, grocery and convenience chains, and consumer retail.',
     related: ['ecommerce', 'consumers', 'logistics'],
   },
+  banking: {
+    slug: 'banking',
+    title: 'Banking',
+    description: 'Banks, credit growth, the State Bank of Vietnam, and the structure of the financial system.',
+    related: ['payments', 'fintech', 'financial-markets', 'regulations'],
+  },
   payments: {
     slug: 'payments',
     title: 'Payments',
     description: 'Payment methods, e-wallets, banking infrastructure, and financial services.',
-    related: ['fintech', 'ecommerce', 'platforms', 'financial-markets'],
+    related: ['fintech', 'banking', 'ecommerce', 'platforms', 'financial-markets'],
   },
   fintech: {
     slug: 'fintech',
     title: 'Fintech',
     description: 'Digital payments, lending, neobanks, insurtech, wealthtech, and the fintech ecosystem.',
-    related: ['payments', 'financial-markets', 'regulations', 'platforms'],
+    related: ['payments', 'banking', 'financial-markets', 'regulations', 'platforms'],
   },
   logistics: {
     slug: 'logistics',
@@ -55,13 +61,13 @@ export const TOPICS: Record<string, TopicNode> = {
     slug: 'regulations',
     title: 'Regulations',
     description: 'Legal framework, licensing, data protection, and sector-specific compliance.',
-    related: ['fintech', 'payments', 'platforms', 'financial-markets'],
+    related: ['fintech', 'banking', 'payments', 'platforms', 'financial-markets'],
   },
   'financial-markets': {
     slug: 'financial-markets',
     title: 'Financial Markets',
     description: 'Stock market, exchanges, indices, and investment landscape in Vietnam.',
-    related: ['fintech', 'payments', 'regulations', 'consumers'],
+    related: ['banking', 'fintech', 'payments', 'regulations', 'consumers'],
   },
 };
 
