@@ -10,13 +10,25 @@ type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
   {
-    heading: 'Market structure',
-    intro: 'Real estate is a major pillar of Vietnam\'s economy and a heavyweight on its stock market.',
+    heading: 'Market size & activity (2025)',
+    intro: '2025 was a turning point: supply and liquidity surged as regulatory reforms unlocked stalled projects, setting up a new cycle from 2026.',
     stats: [
-      { value: 'Major', label: 'Share of GDP & investment', note: 'Construction + real estate are large GDP contributors.' },
-      { value: 'Top-weight', label: 'Sector weight on the stock market', note: 'Real estate + banks dominate the VN-Index.' },
-      { value: 'Residential', label: 'Largest segment', note: 'Apartments and landed housing lead activity.' },
-      { value: 'Cyclical', label: 'Recent market behavior', note: 'Credit-sensitive; cooled then stabilizing.' },
+      { value: '~$285B', label: 'Total project investment (2025)', note: '3,297 active projects covering ~5.9M units (VND 7.42 quadrillion).', source: 'Ministry of Construction, 2025' },
+      { value: '~50%', label: 'Housing supply growth (2025)', note: 'Fastest in seven years as reforms revived stalled projects.', source: 'Ministry of Construction, 2025' },
+      { value: '~580,000', label: 'Property transactions (2025)', note: '+7.7% YoY; land plots led with ~442k of the total.', source: 'Ministry of Construction, 2025' },
+      { value: '68%', label: 'Absorption of new launches', note: '~58,000 deals in 9M 2025 — double a year earlier.', source: 'VARS, 2025' },
+      { value: 'Top-weight', label: 'Sector weight on the VN-Index', note: 'Real estate + banks dominate the stock market.' },
+    ],
+  },
+  {
+    heading: 'Prices (2025)',
+    intro: 'Apartment prices rose sharply across the major cities in 2025 — growth is expected to moderate, not reverse, in 2026.',
+    stats: [
+      { value: '~$3,800/sqm', label: 'Hanoi avg apartment price (2025)', note: '~VND 100M/m²; up ~40% YoY.', source: 'Savills, 2025' },
+      { value: '~$4,200/sqm', label: 'HCMC avg apartment price (2025)', note: '~VND 111M/m²; up ~23% YoY.', source: 'Cushman & Wakefield, 2025' },
+      { value: '+20–30%', label: 'Nationwide apartment price rise (2025)', note: 'Some areas topped +40%, led by mid/high-end.', source: 'Ministry of Construction, 2025' },
+      { value: '+96%', label: 'Hanoi apartment prices vs 2019', note: 'Da Nang +73%, HCMC +57% over the same period.', source: 'VARS IRE, 2025' },
+      { value: '+20–25%', label: '2026 forecast price growth (HCMC/Hanoi)', note: 'Supply rising; growth moderating.', source: 'Avison Young, 2026' },
     ],
   },
   {
@@ -30,33 +42,24 @@ const groups: Group[] = [
     ],
   },
   {
-    heading: 'Key cities',
-    intro: 'Demand and prices concentrate in the two big metros plus coastal and industrial hubs.',
+    heading: 'Investment & FDI (2025)',
+    intro: 'Real estate stayed the second-largest magnet for foreign capital, with domestic players leading M&A.',
     stats: [
-      { value: 'HCMC', label: 'Largest property market', note: 'Highest prices and deepest demand.' },
-      { value: 'Hanoi', label: 'Second major market', note: 'Strong end-user and investor demand.' },
-      { value: 'Da Nang', label: 'Leading coastal/resort market', note: 'Tourism-linked and second homes.' },
-      { value: 'Industrial belts', label: 'Fastest-growing segment', note: 'Binh Duong, Dong Nai, Bac Ninh, Hai Phong.' },
+      { value: '$3.67B', label: 'Real estate FDI (2025)', note: '21.2% of newly registered FDI — 2nd-largest sector.', source: 'FIA / MoF, 2025' },
+      { value: '$38.4B', label: 'Total registered FDI (2025)', note: 'Disbursed FDI hit a record ~$27.6B (+9%).', source: 'FIA / MoF, 2025' },
+      { value: 'HCMC · Bac Ninh · Hanoi', label: 'Top FDI destinations (2025)', note: '~$7.1B · $5.7B · $4.3B registered.', source: 'FIA / MoF, 2025' },
+      { value: 'Domestic-led', label: '2025 M&A', note: 'CapitaLand, Gamuda, and Japanese buyers among foreign deals.', source: 'Avison Young, 2025' },
     ],
   },
   {
-    heading: 'Demand drivers',
-    intro: 'Urbanization, a young population, and FDI underpin long-run property demand.',
+    heading: 'Key cities & industrial',
+    intro: 'Demand concentrates in the two metros plus coastal and industrial hubs; factory and warehouse property is the strongest structural story.',
     stats: [
-      { value: 'Urbanizing', label: 'Population trend', note: 'Rising urban middle class.' },
-      { value: 'Young', label: 'First-time buyer demographics', note: 'Large working-age cohort forming households.' },
-      { value: 'FDI-led', label: 'Industrial real estate demand', note: 'China + 1 factory investment.' },
-      { value: 'Infrastructure', label: 'Value catalyst', note: 'Metro lines, ring roads, airports.' },
-    ],
-  },
-  {
-    heading: 'Industrial & logistics property',
-    intro: 'The strongest structural story: factories and warehouses serving export manufacturing.',
-    stats: [
-      { value: 'High demand', label: 'Industrial park occupancy', note: 'Driven by manufacturing FDI.' },
-      { value: 'Rising rents', label: 'Industrial land & warehouse rents', note: 'Supply lags demand in key zones.' },
-      { value: 'E-commerce', label: 'Warehouse demand driver', note: 'Fulfillment and last-mile growth.' },
-      { value: 'North & South', label: 'Main industrial corridors', note: 'Around Hanoi and HCMC.' },
+      { value: 'HCMC + Hanoi', label: 'Two largest markets', note: 'Highest prices and deepest end-user + investor demand.' },
+      { value: 'Da Nang', label: 'Coastal / resort market', note: 'Apartments $3,020–3,770/sqm; a planned Intl. Financial Center.' },
+      { value: 'Industrial belts', label: 'Structural growth segment', note: 'Bac Ninh, Binh Duong, Dong Nai, Hai Phong — FDI-driven.' },
+      { value: 'Infrastructure', label: 'Value catalyst', note: 'Metro lines, ring roads, and airports.' },
+      { value: 'Social housing', label: 'Policy priority', note: 'Government push to expand affordable supply.' },
     ],
   },
 ];
@@ -88,7 +91,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-31"
-  lastUpdated="2026-05-31"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -139,10 +142,11 @@ const datasetSchema = {
         FDI, see our <a href="/glossary/">glossary</a>.
       </p>
       <p>
-        <strong>Primary sources:</strong> Vietnam's Law on Housing and Land Law; Ministry of
-        Construction; CBRE, Savills, and JLL Vietnam market reports; General Statistics Office
-        (GSO). Verify ownership rules and quotas against current law and a local lawyer before
-        transacting.
+        <strong>Primary sources:</strong> Ministry of Construction (2025 housing &amp; real-estate
+        assessment); VARS / VARS IRE; CBRE, Savills, JLL, Cushman &amp; Wakefield, and Avison Young
+        Vietnam market reports; Foreign Investment Agency (FIA/MoF); Global Property Guide; Vietnam's
+        Law on Housing and Land Law. Verify ownership rules and quotas against current law and a
+        local lawyer before transacting.
       </p>
     </section>
 
