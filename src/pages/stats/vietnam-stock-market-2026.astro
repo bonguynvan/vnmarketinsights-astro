@@ -34,10 +34,10 @@ const groups: Group[] = [
     heading: 'Investors',
     intro: 'Retail investors dominate turnover, with foreign institutions an influential minority.',
     stats: [
-      { value: 'Retail-led', label: 'Share of daily trading turnover', note: 'Among the most retail-driven in Asia.' },
-      { value: 'Millions', label: 'Domestic trading accounts', note: 'Rapid retail account growth.' },
-      { value: 'Influential', label: 'Foreign institutional participation', note: 'Watched for flow signals.' },
-      { value: 'Foreign room', label: 'Key constraint for foreigners', note: 'Per-stock ownership caps.' },
+      { value: '~90%', label: 'Retail share of daily turnover', note: 'Among the most retail-driven markets in Asia.', source: 'SSC / brokers, 2025' },
+      { value: '~10M+', label: 'Domestic trading accounts (2025)', note: '~9% of the population; rapid account growth.', source: 'VSD, 2025' },
+      { value: 'Influential', label: 'Foreign institutional participation', note: 'Watched for flow signals; net flows swing sentiment.' },
+      { value: 'Foreign room', label: 'Key constraint for foreigners', note: 'Per-stock ownership caps, often 49% (lower for banks).' },
     ],
   },
   {
@@ -52,12 +52,12 @@ const groups: Group[] = [
   },
   {
     heading: 'Classification & outlook',
-    intro: 'A frontier-market label with a long-discussed emerging-market upgrade as a catalyst.',
+    intro: 'The long-awaited emerging-market upgrade is now confirmed — a structural catalyst for foreign inflows.',
     stats: [
-      { value: 'Frontier', label: 'Current MSCI classification', note: 'FTSE upgrade watch ongoing.' },
-      { value: 'Upgrade watch', label: 'Potential EM reclassification', note: 'A key structural catalyst.' },
-      { value: 'Reforms', label: 'Market-access improvements', note: 'Settlement, foreign room, disclosure.' },
-      { value: 'Volatile', label: 'Historical price behavior', note: 'Higher beta than developed markets.' },
+      { value: 'Sep 2026', label: 'FTSE Secondary Emerging upgrade', note: 'Announced Oct 2025; effective in the Sept 2026 review — the first upgrade for Vietnam.', source: 'FTSE Russell, 2025' },
+      { value: 'Frontier', label: 'Current MSCI classification', note: 'Still under MSCI review; a separate upgrade track.' },
+      { value: 'Billions', label: 'Estimated passive inflows post-upgrade', note: 'Analysts model $1–6B of index-tracking demand.', source: 'Broker estimates, 2025' },
+      { value: 'KRX + reforms', label: 'Market-access improvements', note: 'New KRX trading system, non-prefunding, foreign-room and disclosure reforms.' },
     ],
   },
 ];
@@ -89,7 +89,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-31"
-  lastUpdated="2026-05-31"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >

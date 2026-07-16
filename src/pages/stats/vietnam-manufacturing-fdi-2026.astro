@@ -5,61 +5,62 @@ const title = "Vietnam Manufacturing & FDI Statistics 2026 — Industry & Invest
 const description = "A curated roundup of Vietnam manufacturing and FDI statistics for 2026: foreign investment, key export sectors, trade agreements, industrial clusters, and the 'China + 1' shift — with sources.";
 const canonical = "https://vnmarketinsights.com/stats/vietnam-manufacturing-fdi-2026/";
 
-type Stat = { value: string; label: string; note?: string };
+type Stat = { value: string; label: string; note?: string; source?: string };
 type Group = { heading: string; intro: string; stats: Stat[] };
 
 const groups: Group[] = [
   {
-    heading: 'Foreign direct investment',
-    intro: 'FDI is the engine of Vietnam’s manufacturing rise, led by export-oriented factories.',
+    heading: 'Foreign direct investment (2025)',
+    intro: 'FDI is the engine of Vietnam’s manufacturing rise — disbursement hit a record in 2025 even as global flows softened.',
     stats: [
-      { value: 'Strong', label: 'Annual FDI inflows', note: 'Registered and disbursed capital both growing.' },
-      { value: 'Manufacturing', label: 'Largest FDI sector', note: 'Processing & manufacturing dominate.' },
-      { value: 'Korea/Japan/SG/China', label: 'Top source economies', note: 'Plus Taiwan and others.' },
-      { value: 'Export-led', label: 'FDI orientation', note: 'Factories built to export.' },
-      { value: 'China + 1', label: 'Key structural driver', note: 'Supply-chain diversification.' },
+      { value: '~$38.4B', label: 'Registered FDI (2025)', note: 'Newly registered, adjusted, and capital contributions.', source: 'GSO / MPI / FIA, 2025' },
+      { value: '~$27.6B', label: 'Disbursed FDI (2025)', note: 'Record high; +9% YoY — the most in five years.', source: 'GSO / MPI / FIA, 2025' },
+      { value: '~60%+', label: 'Manufacturing share of FDI', note: 'Processing & manufacturing dominate inflows.', source: 'MPI / FIA, 2025' },
+      { value: 'HCMC · Bac Ninh · Hanoi', label: 'Top FDI destinations (2025)', note: '~$7.1B · $5.7B · $4.3B registered.', source: 'FIA / MoF, 2025' },
+      { value: 'KR · SG · CN · JP', label: 'Top source economies', note: 'Korea, Singapore, China, Japan; plus Taiwan.', source: 'FIA, 2025' },
     ],
   },
   {
-    heading: 'Key export sectors',
-    intro: 'A handful of sectors account for the bulk of Vietnam’s manufacturing exports.',
+    heading: 'Industrial output (2025)',
+    intro: 'Industrial production grew at its fastest pace in seven years, led by the processing-and-manufacturing pillar.',
     stats: [
-      { value: 'Electronics', label: 'Largest export category', note: 'Phones, components, assembly.' },
-      { value: 'Textiles & apparel', label: 'Major employer & exporter', note: 'Long-established sector.' },
-      { value: 'Footwear', label: 'Global production hub', note: 'Major brands manufacture here.' },
-      { value: 'Furniture & wood', label: 'Significant export sector', note: 'Strong to US/EU markets.' },
-      { value: 'Rising', label: 'Higher-value components', note: 'Moving up the value chain.' },
+      { value: '+9.2%', label: 'Industrial production index (IIP, 2025)', note: 'Highest since 2019; up from +8.2% in 2024.', source: 'GSO / NSO, 2025' },
+      { value: '+10.5%', label: 'Processing & manufacturing (2025)', note: 'Contributed 8.4pp of IIP growth; highest 2019–2025.', source: 'GSO / NSO, 2025' },
+      { value: '53.0', label: 'S&P Global Manufacturing PMI (Dec 2025)', note: 'Eighth straight month of expansion; 21-month-high confidence.', source: 'S&P Global, 2025' },
+      { value: '+22%', label: 'Motor-vehicle manufacturing (2025)', note: 'Led sub-sectors; autos output +39.1%.', source: 'GSO / NSO, 2025' },
+      { value: '+6.7%', label: 'Industrial output forecast (2026)', note: 'S&P Global projection for the year ahead.', source: 'S&P Global, 2026F' },
     ],
   },
   {
-    heading: 'Trade & market access',
-    intro: 'A dense web of trade agreements underpins Vietnam’s export competitiveness.',
+    heading: 'Key export sectors (2025)',
+    intro: 'A handful of manufacturing sectors account for the bulk of a record $475B export haul.',
     stats: [
-      { value: 'CPTPP', label: 'Trans-Pacific agreement', note: '11 Pacific-rim economies.' },
-      { value: 'EVFTA', label: 'EU–Vietnam FTA (since 2020)', note: 'Tariff access to the EU.' },
-      { value: 'RCEP', label: 'Asia-Pacific mega-agreement', note: 'Includes China, ASEAN, more.' },
-      { value: '15+', label: 'Free trade agreements signed', note: 'Broad preferential access.' },
-      { value: 'Surplus', label: 'Goods trade position', note: 'Persistent trade surpluses.' },
+      { value: '$106B', label: 'Computers, electronics & components', note: 'First-ever $100B group; +46% YoY, 22.5% of exports.', source: 'GSO / Customs, 2025' },
+      { value: '$58.4B', label: 'Machinery & equipment', note: 'Up ~11.9% YoY.', source: 'GSO / Customs, 2025' },
+      { value: '$57.6B', label: 'Phones & accessories', note: 'Up ~6.9% YoY.', source: 'GSO / Customs, 2025' },
+      { value: '$39.3B', label: 'Textiles & garments', note: 'Up ~6.1% YoY; a major employer.', source: 'GSO / Customs, 2025' },
+      { value: '$24.0B', label: 'Footwear', note: 'Up ~4.8% YoY; a global production hub.', source: 'GSO / Customs, 2025' },
+    ],
+  },
+  {
+    heading: 'Trade & market access (2025)',
+    intro: 'A dense web of trade agreements underpins Vietnam’s export competitiveness and a tenth straight goods surplus.',
+    stats: [
+      { value: '~$475B', label: 'Total exports (2025)', note: 'Up ~17% YoY; 36 products each topped $1B.', source: 'GSO / NSO, 2025' },
+      { value: '~$20B', label: 'Goods trade surplus (2025)', note: 'Tenth consecutive annual surplus.', source: 'GSO / NSO, 2025' },
+      { value: '16+', label: 'Free trade agreements', note: 'Incl. CPTPP, EVFTA (since 2020), RCEP.', source: 'MoIT' },
+      { value: 'US / China / EU', label: 'Largest trade partners', note: 'US is the top export market; China the top import source.', source: 'GSO, 2025' },
+      { value: 'China + 1', label: 'Key structural driver', note: 'Supply-chain diversification into Vietnam.' },
     ],
   },
   {
     heading: 'Industrial base & clusters',
-    intro: 'Production concentrates in northern and southern industrial corridors.',
+    intro: 'Production concentrates in northern and southern industrial corridors built around export-oriented FDI.',
     stats: [
-      { value: 'North & South', label: 'Main manufacturing corridors', note: 'Around Hanoi and HCMC.' },
-      { value: 'Bac Ninh/Hai Phong', label: 'Northern electronics cluster', note: 'Major FDI factories.' },
-      { value: 'Binh Duong/Dong Nai', label: 'Southern industrial belt', note: 'Diverse manufacturing.' },
-      { value: 'Industrial parks', label: 'Primary FDI vehicle', note: 'Zones with incentives.' },
-    ],
-  },
-  {
-    heading: 'Workforce & costs',
-    intro: 'Competitive labor and a young workforce anchor Vietnam’s cost advantage.',
-    stats: [
-      { value: 'Lower', label: 'Labor cost vs China', note: 'A core draw for "+1" investment.' },
-      { value: 'Young', label: 'Workforce demographics', note: 'Large working-age population.' },
-      { value: 'Rising', label: 'Wages & productivity', note: 'Climbing with the value chain.' },
-      { value: 'Skills gap', label: 'Ongoing challenge', note: 'Higher-value roles need training.' },
+      { value: 'Bac Ninh · Hai Phong', label: 'Northern electronics cluster', note: 'Samsung, Foxconn, LG and suppliers.' },
+      { value: 'Binh Duong · Dong Nai', label: 'Southern industrial belt', note: 'Diverse manufacturing around HCMC.' },
+      { value: 'Industrial parks', label: 'Primary FDI vehicle', note: 'Zoned sites with tax and infrastructure incentives.' },
+      { value: 'Lower vs China', label: 'Labor-cost advantage', note: 'A core draw for "+1" investment, though wages are rising.' },
     ],
   },
 ];
@@ -91,7 +92,7 @@ const datasetSchema = {
   pageType="Article"
   articleSection="Statistics"
   publishedDate="2026-05-31"
-  lastUpdated="2026-05-31"
+  lastUpdated="2026-07-16"
   structuredData={datasetSchema}
   mainClass="container"
 >
@@ -125,6 +126,7 @@ const datasetSchema = {
               <div class="stat-value">{stat.value}</div>
               <div class="stat-label">{stat.label}</div>
               {stat.note && <div class="stat-note">{stat.note}</div>}
+              {stat.source && <div class="stat-source">{stat.source}</div>}
             </div>
           ))}
         </div>
@@ -138,6 +140,13 @@ const datasetSchema = {
         manufacturing and FDI landscape. Where hard figures vary across analysts and reporting
         periods, we use qualitative descriptors rather than spurious precision. For definitions of
         terms like FDI, China + 1, CPTPP, and EVFTA, see our <a href="/glossary/">glossary</a>.
+      </p>
+      <p>
+        <strong>Primary sources:</strong> General Statistics Office / National Statistics Office
+        (GSO/NSO — 2025 socio-economic data, IIP); Ministry of Planning and Investment / Foreign
+        Investment Agency (MPI/FIA); Vietnam Customs (export data); S&amp;P Global (Vietnam
+        Manufacturing PMI); Ministry of Industry and Trade (MoIT). Figures are full-year 2025 unless
+        noted; cross-check the primary source before relying on a specific number.
       </p>
     </section>
 
@@ -175,6 +184,7 @@ const datasetSchema = {
   .stat-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
   .stat-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-2); }
   .stat-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .stat-source { margin-top: var(--space-2); font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
   .stats-section p a { color: var(--color-accent); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
