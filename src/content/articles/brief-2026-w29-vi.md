@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 29/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 29 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,9 +11,9 @@ readingTime: 15
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường tuần này
+# Tổng Quan Thị Trường Tuần Này
 
-Thị trường ngân hàng Việt Nam ghi nhận các diễn biến tích cực với quy mô phân phối cổ tức tiền mặt kỷ lục vượt 48.000 tỷ đồng và tăng trưởng lợi nhuận mạnh mẽ trong nửa đầu năm 2026, đồng thời Vietbank (VBB) chính thức niêm yết trên sàn HOSE vào ngày 14/7. Bên cạnh đó, lĩnh vực nông sản ghi nhận sự phát triển tích cực với xuất khẩu sầu riêng tăng 45% so với cùng kỳ năm trước. Cơ quan chức năng đã triển khai các biện pháp quản lý thuế và chống tội phạm kinh tế, trong khi doanh nghiệp vẫn đang đối mặt với áp lực từ chi phí tín dụng cao.
+Thị trường chứng khoán Việt Nam ghi nhận những diễn biến tích cực với các ngân hàng báo cáo tăng trưởng lợi nhuận mạnh mẽ trong nửa đầu năm 2026, đồng thời phân phối cổ tức tiền mặt kỷ lục vượt 48.000 tỷ đồng; Vietbank chính thức niêm yết trên sàn HoSE ngày 14/7 sau gần 7 năm giao dịch trên UPCoM. Bên cạnh đó, xuất khẩu sầu riêng của Việt Nam tăng mạnh 45% trong 5 tháng đầu năm, nhưng doanh nghiệp vẫn chịu áp lực từ chi phí vay cao và điều kiện tiếp cận tín dụng khắt khe.
 
 ## Thương mại điện tử
 

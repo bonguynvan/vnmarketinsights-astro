@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Từ năm 2026, Vietcombank, VietinBank, Agribank, BIDV... ngừng giao dịch chuyển tiền/nhận tiền đối với trường hợp sau**  
+
+Major Vietnamese commercial banks including Vietcombank, VietinBank, Agribank, BIDV, and VPBank will implement significant changes to their regulations regarding money transfers starting in 2026. The banks will cease conducting certain types of transfer and receipt transactions. Specific account closure criteria have been established with implementation dates beginning July 30, 2026.
+
+- Source: [CafeF](https://cafef.vn/tu-nam-2026-vietcombank-vietinbank-agribank-bidv-ngung-giao-dich-chuyen-tien-nhan-tien-doi-voi-truong-hop-sau-188260715141342932.chn)
 
 **8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
 
@@ -79,17 +85,11 @@ Vietnam's commercial banks are showing signs of quietly raising deposit interest
 
 - Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-7-2026-lai-suat-huy-dong-am-tham-len-9-2-nam-2531999.html)
 
-**VPBank đứng đầu nhóm ngân hàng tư nhân Việt Nam trong bảng xếp hạng Forbes Global 2000**  
-
-VPBank appeared in the Forbes Global 2000 ranking for the third consecutive year in 2026, ranking 1,373 globally and rising 257 positions from the previous year. The improvement reflects strong growth in scale, financial capacity, and operational efficiency. VPBank became the leading private commercial bank in Vietnam on this ranking for the first time.
-
-- Source: [CafeF](https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
+- [Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 
 ---

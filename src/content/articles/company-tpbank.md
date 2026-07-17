@@ -1,8 +1,8 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
@@ -64,9 +64,9 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
 - [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
 - [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

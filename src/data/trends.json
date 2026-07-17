@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-15T23:53:05.279368+00:00",
+  "generatedAt": "2026-07-16T23:52:01.030630+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 408,
-      "growthRate": 7.0,
-      "avgSentiment": -0.095,
+      "total": 420,
+      "growthRate": 5.0,
+      "avgSentiment": -0.089,
       "tag": "Rising Star",
       "series": [
         {
@@ -128,15 +128,20 @@
           "date": "2026-07-15",
           "count": 16,
           "sentiment": -0.131
+        },
+        {
+          "date": "2026-07-16",
+          "count": 12,
+          "sentiment": 0.058
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 276,
-      "growthRate": 2.333,
-      "avgSentiment": 0.062,
+      "total": 283,
+      "growthRate": 1.333,
+      "avgSentiment": 0.067,
       "tag": "Rising Star",
       "series": [
         {
@@ -258,15 +263,20 @@
           "date": "2026-07-15",
           "count": 10,
           "sentiment": 0.22
+        },
+        {
+          "date": "2026-07-16",
+          "count": 7,
+          "sentiment": 0.186
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 136,
-      "growthRate": -0.667,
-      "avgSentiment": 0.229,
+      "total": 140,
+      "growthRate": -0.733,
+      "avgSentiment": 0.228,
       "tag": "Stable",
       "series": [
         {
@@ -378,15 +388,20 @@
           "date": "2026-07-15",
           "count": 5,
           "sentiment": 0.26
+        },
+        {
+          "date": "2026-07-16",
+          "count": 4,
+          "sentiment": 0.225
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 77,
-      "growthRate": 1.0,
-      "avgSentiment": 0.272,
+      "total": 87,
+      "growthRate": 4.0,
+      "avgSentiment": 0.274,
       "tag": "Rising Star",
       "series": [
         {
@@ -503,15 +518,20 @@
           "date": "2026-07-14",
           "count": 4,
           "sentiment": 0.4
+        },
+        {
+          "date": "2026-07-16",
+          "count": 10,
+          "sentiment": 0.33
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 43,
-      "growthRate": -0.8,
-      "avgSentiment": 0.207,
+      "total": 46,
+      "growthRate": -0.4,
+      "avgSentiment": 0.211,
       "tag": "Stable",
       "series": [
         {
@@ -618,15 +638,20 @@
           "date": "2026-07-15",
           "count": 1,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-16",
+          "count": 3,
+          "sentiment": 0.3
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 42,
-      "growthRate": -0.75,
-      "avgSentiment": 0.159,
+      "total": 44,
+      "growthRate": -0.5,
+      "avgSentiment": 0.158,
       "tag": "Stable",
       "series": [
         {
@@ -728,16 +753,21 @@
           "date": "2026-07-15",
           "count": 1,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-16",
+          "count": 2,
+          "sentiment": 0.15
         }
       ]
     },
     {
       "topic": "platforms",
       "siteSlug": "platforms",
-      "total": 25,
-      "growthRate": 1.0,
-      "avgSentiment": 0.426,
-      "tag": "Rising Star",
+      "total": 26,
+      "growthRate": 0.0,
+      "avgSentiment": 0.418,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -813,6 +843,11 @@
           "date": "2026-07-15",
           "count": 2,
           "sentiment": 0.55
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
@@ -1103,6 +1138,21 @@
           "date": "2026-07-07",
           "count": 1,
           "sentiment": 0.3
+        }
+      ]
+    },
+    {
+      "topic": "tourism",
+      "siteSlug": "",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.5,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "sentiment": 0.5
         }
       ]
     }

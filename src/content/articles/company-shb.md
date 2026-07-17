@@ -1,17 +1,23 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SHB đồng hành kiến tạo nguồn nhân lực AI cho quốc gia**  
+
+SHB has partnered with Vietnam AI Innovation Challenge 2026 to support the development of AI talent as a continuation of its commitment to national interests and community development. The bank aims to contribute to building a knowledge-based economy and promoting innovation as Vietnam transitions into the digital era. This partnership aligns with Vietnam's Resolution 57-NQ/TW on breakthrough development of science, technology, and innovation.
+
+- Source: [CafeF](https://cafef.vn/shb-dong-hanh-kien-tao-nguon-nhan-luc-ai-cho-quoc-gia-188260716112947368.chn)
 
 **SHB nhận 4 giải thưởng lớn tại Asian Banking & Finance Awards 2026**  
 
@@ -71,8 +77,8 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
-- [Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn) — CafeF
 - [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
+- [Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn) — CafeF
 
 ---
 

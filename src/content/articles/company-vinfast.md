@@ -1,8 +1,8 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
@@ -47,8 +47,8 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Giải thưởng của tỷ phú Phạm Nhật Vượng kết nối những bộ óc kiệt xuất toàn cầu giải nhiều bài toán cho VN](https://cafef.vn/giai-thuong-cua-ty-phu-pham-nhat-vuong-ket-noi-nhung-bo-oc-kiet-xuat-toan-cau-giai-nhieu-bai-toan-cho-vn-188260716134816879.chn) — CafeF
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
-- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 
 ---
 

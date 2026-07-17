@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,24 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nhiều cổ phiếu ngân hàng diễn biến tích cực dù thị trường chung ảm đạm**  
+
+Several bank stocks displayed positive momentum despite a sluggish overall market. These stocks shared common supportive factors including listing transfers to HoSE, dividend payments, capital increases, or major shareholder transactions. Bank interest rates were updated across major institutions including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-ngan-hang-dien-bien-tich-cuc-du-thi-truong-chung-am-dam-188260716074624331.chn)
+
+**Cổ phiếu ngân hàng hồi phục ngoạn mục phiên 16/7: HDB, STB, ACB dẫn đầu tăng giá**  
+
+On July 16, 2024, the Vietnamese stock market recovered sharply, led by banking stocks HDB, ACB, and STB which posted strong gains. The market experienced significant selling pressure at the opening which caused the VN-Index to decline substantially, but strong bottom-fishing demand in the afternoon session reversed the decline. Foreign investors actively participated in the rally, particularly in banking shares.
+
+- Source: [CafeF](https://cafef.vn/co-phieu-ngan-hang-hoi-phuc-ngoan-muc-phien-16-7-hdb-stb-acb-dan-dau-tang-gia-188260716175500362.chn)
+
+**Lãi suất ngân hàng 16/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit interest rates across 34 banks on July 16 shows the interest rate landscape remains stable. The highest rate remains 7.3% per annum for a 12-month term, with only 6 banks quoting rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn)
 
 **Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền**  
 
@@ -67,30 +85,12 @@ A bank has announced an increase in savings interest rates for the first time si
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-dau-tien-cong-bo-tang-lai-suat-tiet-kiem-ke-tu-dau-thang-7-188260713231413262.chn)
 
-**Chân dung tân Tổng Giám đốc Sacombank: Được bổ nhiệm làm CEO sau 3 tháng gia nhập ngân hàng và mối duyên công việc với ông Nguyễn Đức Thụy**  
-
-Loic Faussier was appointed as CEO of Sacombank on July 10, 2026, after holding the positions of Deputy General Director and Acting General Director within just over three months of joining the bank. His appointment follows a structured leadership transition within the organization. The article discusses his rapid career progression and mentions a connection to Nguyễn Đức Thụy.
-
-- Source: [CafeF](https://cafef.vn/chan-dung-tan-tong-giam-doc-sacombank-duoc-bo-nhiem-lam-ceo-sau-3-thang-gia-nhap-ngan-hang-va-moi-duyen-cong-viec-voi-ong-nguyen-duc-thuy-188260712090226457.chn)
-
-**Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa**  
-
-Vietnamese banks released preliminary first-half 2026 financial results with mixed performance. Vietcombank announced positive figures while Sacombank's profit was estimated to decline by approximately half. The article provides an update on banking sector earnings with notable developments across multiple institutions.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn)
-
-**Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026**  
-
-HR Asia Magazine published its "Best Places to Work in Asia 2026" list, recognizing 109 enterprises and banks in Vietnam. The banking sector had 13 representatives on the list, with several banks receiving additional awards for technology, sustainable development, and employee care.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-sacombank-hdbank-acb-lpbank-cung-nhieu-ngan-hang-lot-top-noi-lam-viec-tot-nhat-chau-a-nam-2026-188260712172122173.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 5/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260705155926909.chn) — CafeF
 
 ---
 

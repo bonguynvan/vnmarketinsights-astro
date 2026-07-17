@@ -1,17 +1,23 @@
 ---
-title: "Vietbank — Vietnam Market Coverage"
-description: "Recent Vietnam market and business news mentioning Vietbank, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+title: "VietBank — Vietnam Market Coverage"
+description: "Recent Vietnam market and business news mentioning VietBank, with neutral summaries and source links."
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
 
-# Vietbank
+# VietBank
 
-Recent Vietnam market news mentioning **Vietbank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt**  
+
+Vietnamese banks released first-half 2026 financial results showing mixed performance. One bank reported nearly 4,700 billion VND in profit, while VietBank and ABBank saw significant profit increases. Some banks faced challenges with estimated profit declines of around 50% and concerns about rising non-performing loans.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn)
 
 **Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt**  
 
@@ -46,9 +52,9 @@ VietBank's VBB stock rose more than 11% on the morning of June 26, reaching 13,9
 ## Related coverage
 
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
 - [Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng](https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn) — CafeF
-- [Tuần tới, một ngân hàng sẽ lên sàn HoSE](https://cafef.vn/tuan-toi-mot-ngan-hang-se-len-san-hose-188260708105324111.chn) — CafeF
 
 ---
 

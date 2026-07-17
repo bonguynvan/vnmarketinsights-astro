@@ -1,8 +1,8 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-15"
-lastUpdated: "2026-07-15"
+publishedDate: "2026-07-16"
+lastUpdated: "2026-07-16"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **ACB** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Doanh nghiệp nào có cơ hội tiếp cận ưu đãi lãi suất đến 2% từ ACB?**  
+
+ACB is offering interest rate incentives of up to 2% for enterprises in northern Vietnam as part of a broader financial solution package. The bank aims to help businesses access appropriate capital, improve operational transparency, and enhance growth capacity. Several northern provinces including Hanoi, Thai Nguyen, Bac Ninh, Quang Ninh, Hung Yen, and Hai Phong are experiencing positive growth in industrial and investment sectors in the first half of 2026.
+
+- Source: [CafeF](https://cafef.vn/doanh-nghiep-nao-co-co-hoi-tiep-can-uu-dai-lai-suat-den-2-tu-acb-188260716074507996.chn)
+
+**Cổ phiếu ngân hàng hồi phục ngoạn mục phiên 16/7: HDB, STB, ACB dẫn đầu tăng giá**  
+
+On July 16, 2024, the Vietnamese stock market recovered sharply, led by banking stocks HDB, ACB, and STB which posted strong gains. The market experienced significant selling pressure at the opening which caused the VN-Index to decline substantially, but strong bottom-fishing demand in the afternoon session reversed the decline. Foreign investors actively participated in the rally, particularly in banking shares.
+
+- Source: [CafeF](https://cafef.vn/co-phieu-ngan-hang-hoi-phuc-ngoan-muc-phien-16-7-hdb-stb-acb-dan-dau-tang-gia-188260716175500362.chn)
 
 **Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam**  
 
@@ -73,24 +85,12 @@ A survey of online deposit rates across 34 banks on July 7 shows that smaller an
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-7-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260707210221269.chn)
 
-**Cổ đông ngân hàng nhận nghìn tỷ cổ tức bằng tiền mặt**  
-
-Bank shareholders received hundreds of billions of dong in cash dividends as MB distributed approximately 8.055 trillion dong, LPBank distributed 8.962 trillion dong, Techcombank distributed over 4.960 trillion dong, VIB distributed over 3.000 trillion dong, and ACB distributed nearly 3.600 trillion dong. In a recent week, 35 enterprises announced dividend record dates with 26 companies distributing cash dividends ranging from 3% to 40%, while others distributed stock dividends. This represents a significant capital distribution to shareholders across multiple banking institutions.
-
-- Source: [CafeF](https://cafef.vn/co-dong-ngan-hang-nhan-nghin-ty-co-tuc-bang-tien-mat-188260706093517075.chn)
-
-**ACB: Du lịch hè 2026, khi trải nghiệm trở thành vitamin cho sức khỏe tinh thần**  
-
-ACB launches a summer 2026 travel promotion campaign featuring credit card incentives. Customers who spend 8 million dong within 30 days of card opening receive a 1 million dong Urbox voucher. The campaign positions travel as an investment in mental health and quality of life rather than simple tourism.
-
-- Source: [CafeF](https://cafef.vn/acb-du-lich-he-2026-khi-trai-nghiem-tro-thanh-vitamin-cho-suc-khoe-tinh-than-188260701173602135.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 21/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-21-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260621172300651.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 
 ---
 
