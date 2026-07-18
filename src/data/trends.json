@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-17T23:46:44.708818+00:00",
+  "generatedAt": "2026-07-18T23:46:42.822845+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 433,
-      "growthRate": 5.5,
-      "avgSentiment": -0.09,
+      "total": 455,
+      "growthRate": 10.0,
+      "avgSentiment": -0.091,
       "tag": "Rising Star",
       "series": [
         {
@@ -138,15 +138,20 @@
           "date": "2026-07-17",
           "count": 13,
           "sentiment": -0.108
+        },
+        {
+          "date": "2026-07-18",
+          "count": 22,
+          "sentiment": -0.123
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 297,
-      "growthRate": 3.667,
-      "avgSentiment": 0.069,
+      "total": 307,
+      "growthRate": 2.333,
+      "avgSentiment": 0.064,
       "tag": "Rising Star",
       "series": [
         {
@@ -278,15 +283,20 @@
           "date": "2026-07-17",
           "count": 14,
           "sentiment": 0.107
+        },
+        {
+          "date": "2026-07-18",
+          "count": 10,
+          "sentiment": -0.06
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 144,
-      "growthRate": -0.733,
-      "avgSentiment": 0.242,
+      "total": 146,
+      "growthRate": -0.867,
+      "avgSentiment": 0.258,
       "tag": "Stable",
       "series": [
         {
@@ -408,15 +418,20 @@
           "date": "2026-07-17",
           "count": 4,
           "sentiment": 0.55
+        },
+        {
+          "date": "2026-07-18",
+          "count": 2,
+          "sentiment": 0.65
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 90,
-      "growthRate": 0.5,
-      "avgSentiment": 0.27,
+      "total": 94,
+      "growthRate": 1.0,
+      "avgSentiment": 0.262,
       "tag": "Rising Star",
       "series": [
         {
@@ -543,6 +558,136 @@
           "date": "2026-07-17",
           "count": 3,
           "sentiment": 0.167
+        },
+        {
+          "date": "2026-07-18",
+          "count": 4,
+          "sentiment": 0.075
+        }
+      ]
+    },
+    {
+      "topic": "logistics",
+      "siteSlug": "logistics",
+      "total": 48,
+      "growthRate": -0.5,
+      "avgSentiment": 0.171,
+      "tag": "Stable",
+      "series": [
+        {
+          "date": "2026-06-21",
+          "count": 4,
+          "sentiment": 0.4
+        },
+        {
+          "date": "2026-06-22",
+          "count": 1,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-06-23",
+          "count": 2,
+          "sentiment": 0.15
+        },
+        {
+          "date": "2026-06-24",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-06-26",
+          "count": 2,
+          "sentiment": 0.45
+        },
+        {
+          "date": "2026-06-28",
+          "count": 4,
+          "sentiment": 0.425
+        },
+        {
+          "date": "2026-06-29",
+          "count": 1,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2,
+          "sentiment": 0.15
+        },
+        {
+          "date": "2026-07-02",
+          "count": 4,
+          "sentiment": 0.2
+        },
+        {
+          "date": "2026-07-03",
+          "count": 1,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-05",
+          "count": 2,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-06",
+          "count": 1,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-07",
+          "count": 1,
+          "sentiment": -0.6
+        },
+        {
+          "date": "2026-07-09",
+          "count": 4,
+          "sentiment": 0.2
+        },
+        {
+          "date": "2026-07-10",
+          "count": 2,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-12",
+          "count": 4,
+          "sentiment": 0.2
+        },
+        {
+          "date": "2026-07-13",
+          "count": 3,
+          "sentiment": 0.4
+        },
+        {
+          "date": "2026-07-14",
+          "count": 1,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-07-15",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-16",
+          "count": 2,
+          "sentiment": 0.15
+        },
+        {
+          "date": "2026-07-17",
+          "count": 2,
+          "sentiment": 0.75
+        },
+        {
+          "date": "2026-07-18",
+          "count": 2,
+          "sentiment": -0.15
         }
       ]
     },
@@ -663,126 +808,6 @@
           "date": "2026-07-16",
           "count": 3,
           "sentiment": 0.3
-        }
-      ]
-    },
-    {
-      "topic": "logistics",
-      "siteSlug": "logistics",
-      "total": 46,
-      "growthRate": -0.5,
-      "avgSentiment": 0.185,
-      "tag": "Stable",
-      "series": [
-        {
-          "date": "2026-06-21",
-          "count": 4,
-          "sentiment": 0.4
-        },
-        {
-          "date": "2026-06-22",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-06-23",
-          "count": 2,
-          "sentiment": 0.15
-        },
-        {
-          "date": "2026-06-24",
-          "count": 1,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-06-26",
-          "count": 2,
-          "sentiment": 0.45
-        },
-        {
-          "date": "2026-06-28",
-          "count": 4,
-          "sentiment": 0.425
-        },
-        {
-          "date": "2026-06-29",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-06-30",
-          "count": 2,
-          "sentiment": 0.15
-        },
-        {
-          "date": "2026-07-02",
-          "count": 4,
-          "sentiment": 0.2
-        },
-        {
-          "date": "2026-07-03",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-07-05",
-          "count": 2,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-07-06",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-07-07",
-          "count": 1,
-          "sentiment": -0.6
-        },
-        {
-          "date": "2026-07-09",
-          "count": 4,
-          "sentiment": 0.2
-        },
-        {
-          "date": "2026-07-10",
-          "count": 2,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-07-11",
-          "count": 1,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-07-12",
-          "count": 4,
-          "sentiment": 0.2
-        },
-        {
-          "date": "2026-07-13",
-          "count": 3,
-          "sentiment": 0.4
-        },
-        {
-          "date": "2026-07-14",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-07-15",
-          "count": 1,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-07-16",
-          "count": 2,
-          "sentiment": 0.15
-        },
-        {
-          "date": "2026-07-17",
-          "count": 2,
-          "sentiment": 0.75
         }
       ]
     },

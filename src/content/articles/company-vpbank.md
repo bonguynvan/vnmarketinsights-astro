@@ -1,17 +1,41 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (25 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (29 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Điều khiến 28 CEO Việt Nam bất ngờ trong ngày học thứ hai tại Alibaba**  
+
+Twenty-eight Vietnamese CEOs participated in a second day of the Alibaba Study Tour sponsored by VPBank SME, focusing on AI's impact on business organization and competitive advantage. The tour moved beyond surface-level questions about AI adoption to deeper discussions on how AI is redefining management thinking, leadership decision-making, and competitive advantage creation. Topics covered included AI-era management philosophy and Hema's New Retail model.
+
+- Source: [CafeF](https://cafef.vn/dieu-khien-28-ceo-viet-nam-bat-ngo-trong-ngay-hoc-thu-hai-tai-alibaba-188260718084400074.chn)
+
+**CUBHCM củng cố vị thế tại Việt Nam với thương vụ vay hợp vốn và nhận giải thưởng quốc tế**  
+
+CUBHCM received an award from Asian Banking & Finance's Corporate & Investment Banking Awards 2026 for its capital arrangement and distribution capabilities. The award recognized a 1.563 billion USD sustainable syndicated loan facility for VPBank, which is reported as the largest such facility ever arranged in Vietnam. The credit facility for VPBank was initially deployed at a 1 billion USD scale.
+
+- Source: [CafeF](https://cafef.vn/cubhcm-cung-co-vi-the-tai-viet-nam-voi-thuong-vu-vay-hop-von-va-nhan-giai-thuong-quoc-te-188260718112255323.chn)
+
+**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
+
+Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank—have extended over 27,000 billion VND in loans for a BOT transportation project led by Đèo Cả Group, Tasco, and CII. This is the largest-scale credit financing for a BOT transport project in Vietnam, designed to meet growing transportation demand between provinces in the Southeast region, particularly between Ho Chi Minh City and the Mekong Delta. The project contributes to improving the national north-south transport corridor network.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
+
+**Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
+
+Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
+
+- Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
 
 **Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026**  
 
@@ -61,35 +85,11 @@ Unbanked individuals view alternative lending forms as preferable to traditional
 
 - Source: [CafeF](https://cafef.vn/nguoi-duoi-chuan-ngan-hang-mong-doi-gi-tu-tin-dung-binh-dan-188260709201404346.chn)
 
-**Mùa hè trọn vẹn cho cả gia đình với hệ sinh thái đặc quyền VPBank Diamond**  
-
-VPBank has introduced VPBank Diamond, a Family Banking ecosystem designed to provide integrated financial services and lifestyle experiences for entire families. The program positions banking as a platform connecting family members through coordinated privileges rather than individual benefits. The initiative aims to serve families seeking comprehensive summer experiences and lifestyle solutions.
-
-- Source: [CafeF](https://cafef.vn/mua-he-tron-ven-cho-ca-gia-dinh-voi-he-sinh-thai-dac-quyen-vpbank-diamond-188260708102159442.chn)
-
-**Lợi nhuận một ngân hàng được dự báo vượt Vietcombank, dẫn đầu toàn ngành trong quý II/2026**  
-
-Rồng Việt Securities forecasts that banking sector profit will continue double-digit growth in Q2 2026. One bank is predicted to surpass Vietcombank to lead the system in profit scale. VPBank, OCB, and HDBank are identified as banks with the most prominent profit growth rates.
-
-- Source: [CafeF](https://cafef.vn/loi-nhuan-mot-ngan-hang-duoc-du-bao-vuot-vietcombank-dan-dau-toan-nganh-trong-quy-ii-2026-18826070710545064.chn)
-
-**Năm thứ hai liên tiếp, VPBank SME được vinh danh tại Asian Banking & Finance Retail Banking Awards**  
-
-VPBank SME has received recognition at the Asian Banking & Finance Retail Banking Awards for the second consecutive year. The award, titled "SME Financial Inclusion Initiative of the Year," recognizes VPBank SME's efforts in delivering innovative, flexible, and comprehensive financial solutions. The initiative focuses on promoting financial inclusion for small and medium enterprises in Vietnam.
-
-- Source: [CafeF](https://cafef.vn/nam-thu-hai-lien-tiep-vpbank-sme-duoc-vinh-danh-tai-asian-banking-finance-retail-banking-awards-188260707151538589.chn)
-
-**Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới**  
-
-Eight Vietnamese banks—Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB, and HDBank—have been included in Forbes Global 2000 list for 2026. These banks represent nearly all Vietnamese enterprises ranked on the list. The inclusion reflects the prominence of Vietnam's banking sector in the global economy.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 
 ---

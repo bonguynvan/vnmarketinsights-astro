@@ -1,17 +1,23 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**[Infographic] Chân dung BVBank: Dấu mốc HoSE và chu kỳ tăng trưởng mới**  
+
+BVBank has reached a significant milestone by officially listing its stock on HoSE after more than three decades of development. The bank is pursuing strong growth plans across asset scale, credit volume, and profitability, supported by comprehensive digitalization strategy and positioning in the retail and SME segments. This listing marks the beginning of a new growth cycle aimed at increasing shareholder value.
+
+- Source: [CafeF](https://cafef.vn/infographic-chan-dung-bvbank-dau-moc-hose-va-chu-ky-tang-truong-moi-188260718104737924.chn)
 
 **Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới**  
 

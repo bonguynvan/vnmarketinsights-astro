@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Mạnh Hải
 
-Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng SJC, vàng nhẫn ngày 18/7**  
+
+Domestic gold prices rebounded on July 18th after declining in the previous trading session. Gold bar prices showed varied adjustments across different businesses. Price movements differed between companies in the bullion segment.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-18-7-1882607180738565.chn)
 
 **Giá vàng miếng SJC, vàng nhẫn ngày 16/7**  
 
@@ -79,18 +85,12 @@ Gold prices in Vietnam showed strong recovery in early June before declining sha
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn)
 
-**Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6**  
-
-Domestic gold prices fell further by approximately 600,000 VND per tael on the afternoon of June 19, bringing the total daily decline to 4.6-5 million VND per tael. SJC quoted bullion gold at 143.7-146.7 million VND per tael and ring gold at 143.6-146.6 million VND per tael. Bao Tin Manh Hai similarly showed sharp declines in ring gold to 142.0-146.5 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn)
-
 ## Related coverage
 
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
+- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đề xuất lưu trữ 10 năm hồ sơ giao dịch trên tài khoản thanh toán của khách hàng**  
+
+The State Bank of Vietnam (SBV) is soliciting feedback on a draft circular to amend Circular 04/2025/TT-NHNN dated May 15, 2025, which regulates the retention period for banking records and documents. The draft contains 4 provisions focused on modifying regulations regarding record retention in the payments and anti-money laundering sectors. The SBV stated that the amendment stems from implementation requirements of a related decision.
+
+- Source: [CafeF](https://cafef.vn/de-xuat-luu-tru-10-nam-ho-so-giao-dich-tren-tai-khoan-thanh-toan-cua-khach-hang-188260718094408422.chn)
+
+**Thống đốc Phạm Đức Ấn: NHNN điều hành chính sách lãi suất tương đối 'vất vả'**  
+
+State Bank Governor Phạm Đức Ấn stated that managing interest rate policy has been relatively difficult. The central bank's focus on economic growth and credit expansion has led to capital shortages, driving up deposit rates and consequently lending rates. Higher lending rates directly impact manufacturing and business operations.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-pham-duc-an-nhnn-dieu-hanh-chinh-sach-lai-suat-tuong-doi-vat-va-188260718174143885.chn)
 
 **NHNN triển khai Kế hoạch hành động về trao đổi thông tin theo yêu cầu vì mục đích thuế**  
 
@@ -73,24 +85,12 @@ Dr. Dao Minh Tu, Vice Chairman and General Secretary of the Vietnam Bankers Asso
 
 - Source: [CafeF](https://cafef.vn/ts-dao-minh-tu-khoi-thong-thi-truong-von-de-giam-ap-luc-cho-he-thong-ngan-hang-188260704082507768.chn)
 
-**Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng**  
-
-On July 2, 2026, Vietnam's National Assembly Economic and Finance Committee held a forum in Ho Chi Minh City in collaboration with the State Bank of Vietnam and the Ministry of Finance to gather feedback on draft legislation in banking and small-and-medium enterprise support. Deputy Governor Doan Thai Son of the State Bank co-chaired the forum, which focused on collecting input on various proposed banking law amendments.
-
-- Source: [CafeF](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn)
-
-**Lãnh đạo NHNN: Trong mọi bối cảnh, ưu tiên hàng đầu vẫn là kiểm soát lạm phát**  
-
-The State Bank of Vietnam's Department of Monetary Policy Affairs stated that controlling inflation remains the top priority across all economic conditions to ensure macroeconomic stability and maintain major economic balances. This objective is consistent throughout the central bank's monetary policy operations and will not change amid global economic fluctuations. The statement was made during a press conference presenting results of monetary policy implementation and banking activities for the first half of 2026.
-
-- Source: [CafeF](https://cafef.vn/lanh-dao-nhnn-trong-moi-boi-canh-uu-tien-hang-dau-van-la-kiem-soat-lam-phat-188260703102856587.chn)
-
 ## Related coverage
 
 - [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Đến 26/6: Tăng trưởng tín dụng đạt 7,41%, dư nợ toàn hệ thống xấp xỉ 20 triệu tỷ đồng](https://cafef.vn/den-26-6-tang-truong-tin-dung-dat-741-du-no-toan-he-thong-xap-xi-20-trieu-ty-dong-188260702100845736.chn) — CafeF
-- [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
+- [Lãnh đạo NHNN: Trong mọi bối cảnh, ưu tiên hàng đầu vẫn là kiểm soát lạm phát](https://cafef.vn/lanh-dao-nhnn-trong-moi-boi-canh-uu-tien-hang-dau-van-la-kiem-soat-lam-phat-188260703102856587.chn) — CafeF
 
 ---
 

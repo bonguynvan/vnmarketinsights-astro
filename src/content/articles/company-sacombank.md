@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A banking interest rate survey conducted on July 18 shows stability in online deposit rates. Six banks quote rates of 7% per year or higher for 12-month terms, while the Big4 banks maintain 6.8% per year. One bank offers 8% per year for 6-month savings accounts.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn)
 
 **TS. Cấn Văn Lực lý giải nguyên nhân lãi suất tăng, khuyên doanh nghiệp bất động sản cơ cấu lại hoạt động kinh doanh**  
 
@@ -78,12 +84,6 @@ Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adj
 The Government issued Decree 280/2026/NĐ-CP governing the organization, operations, management, state capital investment, supervision, and evaluation of investment effectiveness at the Vietnam Deposit Insurance Corporation. The article also references recent banking regulations and deposit flows across Vietnamese banks as of mid-July 2026.
 
 - Source: [CafeF](https://cafef.vn/nhan-tien-bao-hiem-tien-gui-can-nhung-giay-to-gi-188260714202837342.chn)
-
-**Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...**  
-
-Several Vietnamese banks released preliminary financial results for the first half of 2026, with most showing stable or declining non-performing loan (NPL) ratios. Vietcombank maintains one of the lowest NPL ratios in the system at below 1% as of June 30, 2026, compared to 0.62% at the end of Q1 2026. ABBank reported notable improvement in its NPL metrics.
-
-- Source: [CafeF](https://cafef.vn/bat-ngo-dien-bien-no-xau-moi-nhat-tai-vietcombank-agribank-sacombank-abbank-188260713103215498.chn)
 
 ## Related coverage
 

@@ -1,128 +1,150 @@
 {
-  "generatedAt": "2026-07-17T23:46:44.707703+00:00",
+  "generatedAt": "2026-07-18T23:46:42.821749+00:00",
   "topics": {
     "regulations": [
       {
-        "title": "Chân dung 'bà trùm' vương miện và 2 nữ giám đốc vừa bị khởi tố",
-        "url": "https://cafef.vn/chan-dung-ba-trum-vuong-mien-va-2-nu-giam-doc-vua-bi-khoi-to-188260717072532727.chn",
+        "title": "Yêu cầu nâng cao hiệu quả quản lý, mở rộng diện bao phủ bảo hiểm",
+        "url": "https://cafef.vn/yeu-cau-nang-cao-hieu-qua-quan-ly-mo-rong-dien-bao-phu-bao-hiem-188260718092458766.chn",
         "source": "CafeF",
-        "summary_en": "Businesswoman Hoang Thi Thanh Nga, known in jewelry and gemstone production, was prosecuted along with two female directors: Le Thi Ngoc My, director of Kim Ly Gold Silver and Gemstone Company, and Nguyen Thi Lien, director of Ngoc Tam Gold Silver and Gemstone Company. The case involves allegations related to diamonds, with Diamond Street in Ho Chi Minh City becoming quiet after an incident involving 30,000 diamonds. Kim Ly jewelry store has closed following the investigation.",
-        "summary_vn": "Bà Hoàng Thị Thanh Nga - doanh nhân lĩnh vực chế tác trang sức và đá quý - bị khởi tố cùng với hai nữ giám đốc Lê Thị Ngọc Mỹ (Công ty TNHH Vàng bạc và Đá quý Kim Lý) và Nguyễn Thị Liên (Công ty TNHH Vàng bạc Đá quý Ngọc Tâm). Vụ việc liên quan đến 30.000 viên kim cương, khiến Phố kim cương ở TP.HCM trở nên vắng lặng và cửa hàng vàng Kim Lý đóng cửa.",
-        "pubDate": "Fri, 17 Jul 26 07:25:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
+        "summary_en": "The Vietnamese Finance Minister Ngo Van Tuan held a meeting with Vietnam Social Insurance (BHXH) on July 16 to discuss their management and coverage expansion efforts. The Minister requested BHXH to strengthen management efficiency, ensure accurate and complete contribution collection, timely benefit payments, and safe fund management. He also emphasized the need to accelerate artificial intelligence adoption in management and operations.",
+        "summary_vn": "Bộ trưởng Bộ Tài chính Ngô Văn Tuấn họp với Bảo hiểm xã hội (BHXH) Việt Nam vào ngày 16/7 để bàn luận về công tác quản lý và mở rộng diện bao phủ. Bộ trưởng yêu cầu BHXH nâng cao hiệu quả quản lý, đảm bảo thu đúng thu đủ, chi trả đầy đủ, quản lý an toàn các quỹ bảo hiểm. Ông cũng nhấn mạnh nhu cầu đẩy mạnh ứng dụng trí tuệ nhân tạo (AI) trong quản lý điều hành.",
+        "pubDate": "Sat, 18 Jul 26 09:24:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
       },
       {
-        "title": "Thay đổi lớn trong giao dịch chuyển khoản ngân hàng: Người dùng có thể hủy lệnh trong thời gian chờ",
-        "url": "https://cafef.vn/thay-doi-lon-trong-giao-dich-chuyen-khoan-ngan-hang-nguoi-dung-co-the-huy-lenh-trong-thoi-gian-cho-18826071707352814.chn",
+        "title": "Đề xuất lưu trữ 10 năm hồ sơ giao dịch trên tài khoản thanh toán của khách hàng",
+        "url": "https://cafef.vn/de-xuat-luu-tru-10-nam-ho-so-giao-dich-tren-tai-khoan-thanh-toan-cua-khach-hang-188260718094408422.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam has directed banks to implement a service allowing customers to set limits and waiting periods for online transfer transactions. The new service enables users to cancel transfer orders during the waiting period. This change represents a significant shift in how bank transfers are processed, with implementation expected from 2026 across major banks including Vietcombank, VietinBank, Agribank, and BIDV.",
-        "summary_vn": "Ngân hàng Nhà nước yêu cầu các ngân hàng triển khai dịch vụ cho phép khách hàng đăng ký hạn mức và thời gian chờ cho giao dịch chuyển khoản trực tuyến. Dịch vụ mới cho phép người dùng hủy lệnh chuyển khoản trong thời gian chờ. Thay đổi này sẽ được áp dụng từ năm 2026 trên các ngân hàng lớn như Vietcombank, VietinBank, Agribank, và BIDV.",
-        "pubDate": "Fri, 17 Jul 26 07:33:00 +0700",
+        "summary_en": "The State Bank of Vietnam (SBV) is soliciting feedback on a draft circular to amend Circular 04/2025/TT-NHNN dated May 15, 2025, which regulates the retention period for banking records and documents. The draft contains 4 provisions focused on modifying regulations regarding record retention in the payments and anti-money laundering sectors. The SBV stated that the amendment stems from implementation requirements of a related decision.",
+        "summary_vn": "Ngân hàng Nhà nước Việt Nam (NHNN) đang lấy ý kiến đối với dự thảo Thông tư sửa đổi, bổ sung Thông tư số 04/2025/TT-NHNN ngày 15/5/2025 quy định thời hạn lưu trữ hồ sơ, tài liệu ngành Ngân hàng. Dự thảo gồm 4 điều tập trung sửa đổi, bổ sung quy định về lưu trữ hồ sơ trong lĩnh vực thanh toán và phòng, chống rửa tiền. NHNN cho biết việc sửa đổi xuất phát từ yêu cầu triển khai Quyết định liên quan.",
+        "pubDate": "Sat, 18 Jul 26 09:44:00 +0700",
         "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Công an cảnh báo quan trọng đến người có tài khoản ngân hàng",
-        "url": "https://cafef.vn/cong-an-canh-bao-quan-trong-den-nguoi-co-tai-khoan-ngan-hang-188260717093719338.chn",
+        "title": "Công an cảnh báo thủ đoạn lừa đảo qua loa báo chuyển khoản: Doanh nghiệp, hộ kinh doanh và các cửa hàng cần làm ngay những việc sau để tránh mất tiền",
+        "url": "https://cafef.vn/cong-an-canh-bao-thu-doan-lua-dao-qua-loa-bao-chuyen-khoan-doanh-nghiep-ho-kinh-doanh-va-cac-cua-hang-can-lam-ngay-nhung-viec-sau-de-tranh-mat-tien-188260718110019183.chn",
         "source": "CafeF",
-        "summary_en": "Vietnamese police warned the public about the risks of selling or renting bank accounts, which can inadvertently facilitate online gambling and fraud crimes. Account owners who engage in such transactions risk facing criminal liability. Bank accounts meeting certain criteria will be closed starting from July 30.",
-        "summary_vn": "Công an cảnh báo rằng hành vi mua bán hoặc cho thuê tài khoản ngân hàng có thể tạo điều kiện cho tội phạm cờ bạc mạng và lừa đảo. Chủ tài khoản có thể bị truy cứu trách nhiệm hình sự nếu tham gia các hoạt động này. Các tài khoản ngân hàng đáp ứng tiêu chí nhất định sẽ bị đóng từ ngày 30/7.",
-        "pubDate": "Fri, 17 Jul 26 15:38:00 +0700",
+        "summary_en": "Police authorities have issued a warning about a fraud scheme involving bank transfer notifications where scammers deceive businesses, merchants, and store owners. While fast and convenient payment methods have promoted business transactions, they also create opportunities for fraudsters to exploit for financial crimes. Businesses and merchants are advised to take immediate preventive measures to avoid financial losses.",
+        "summary_vn": "Công an cảnh báo về thủ đoạn lừa đảo liên quan đến loa báo chuyển khoản ngân hàng nhằm vào doanh nghiệp, hộ kinh doanh và cửa hàng. Mặc dù các phương thức thanh toán nhanh chóng và tiện lợi thúc đẩy hoạt động mua bán kinh doanh, nhưng chúng cũng tạo cơ hội cho các đối tượng xấu lợi dụng để thực hiện hành vi lừa đảo. Các doanh nghiệp và cửa hàng cần thực hiện các biện pháp phòng ngừa để tránh mất tiền.",
+        "pubDate": "Sat, 18 Jul 26 12:55:00 +0700",
         "sentiment": -0.5,
         "importance": 3
       },
       {
-        "title": "Chính thức: Nâng hạn mức trả bảo hiểm tiền gửi tối đa lên 350 triệu đồng",
-        "url": "https://cafef.vn/chinh-thuc-nang-han-muc-tra-bao-hiem-tien-gui-toi-da-len-350-trieu-dong-188260717152845123.chn",
+        "title": "Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới",
+        "url": "https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's State Bank (SBV) issued Circular 05/2026/TT-NHNN establishing new deposit insurance payout limits. The circular sets the maximum deposit insurance compensation amount and contains provisions on general regulations and payment limits across three chapters and five articles. This measure affects the operations of the Vietnam Deposit Insurance Corporation.",
-        "summary_vn": "Ngân hàng Nhà nước Việt Nam (NHNN) ban hành Thông tư số 05/2026/TT-NHNN quy định hạn mức chi trả tiền bảo hiểm của Bảo hiểm tiền gửi Việt Nam. Thông tư gồm 3 chương và 5 điều, bao gồm các quy định chung và hạn mức chi trả tiền bảo hiểm. Biện pháp này ảnh hưởng đến hoạt động của Bảo hiểm tiền gửi Việt Nam.",
-        "pubDate": "Fri, 17 Jul 26 16:28:00 +0700",
-        "sentiment": 0.0,
+        "summary_en": "Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.",
+        "summary_vn": "Chủ tịch Vietcombank nêu rằng các ngân hàng Việt Nam thiếu vốn để tài trợ cho nhiều dự án quy mô lớn trong thời gian tới. Ông đề xuất Bộ Tài chính có thể phát hành trái phiếu quốc tế, vốn có thể nhận được lãi suất tốt dựa trên uy tín hiện tại của Việt Nam, thay vì để các doanh nghiệp tự huy động vốn. Sáu ngân hàng (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) đã cấp hơn 27.000 tỷ đồng cho vay cho các dự án do Tập đoàn Đèo Cả, Tasco, và CII làm chủ đầu tư.",
+        "pubDate": "Sat, 18 Jul 26 15:48:00 +0700",
+        "sentiment": -0.3,
         "importance": 3
       },
       {
-        "title": "Doanh nghiệp Nhà nước trước cuộc đại tái cơ cấu: Xoá tư duy giữ vốn dàn trải",
-        "url": "https://cafef.vn/doanh-nghiep-nha-nuoc-truoc-cuoc-dai-tai-co-cau-xoa-tu-duy-giu-von-dan-trai-188260717075205481.chn",
+        "title": "Từ loạt giao dịch 1,5 tỷ đồng, công an tiến hành khám xét khẩn cấp, bắt giữ Trịnh Đắc Vinh SN 1984",
+        "url": "https://cafef.vn/tu-loat-giao-dich-15-ty-dong-cong-an-tien-hanh-kham-xet-khan-cap-bat-giu-trinh-dac-vinh-sn-1984-188260717100526244.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's Ministry of Finance is proposing a new direction for state-owned enterprise (SOE) restructuring, shifting away from previous focus on equitization and divestment. The new approach aims to narrow state investment, concentrate resources in strategic and critical sectors, and withdraw from non-essential industries. This represents a change in mindset from the Ministry's previous capital-spreading philosophy.",
-        "summary_vn": "Bộ Tài chính Việt Nam đang đề xuất hướng mới cho tái cơ cấu doanh nghiệp Nhà nước (DNNN), thay đổi từ tập trung cổ phần hóa và thoái vốn. Hướng tiếp cận mới nhằm thu hẹp đầu tư nhà nước, tập trung nguồn lực vào các lĩnh vực chiến lược then chốt, và rút khỏi những ngành không còn cần thiết. Đây là sự thay đổi tư duy so với chính sách dàn trải vốn trước đây.",
-        "pubDate": "Fri, 17 Jul 26 09:00:00 +0700",
-        "sentiment": 0.0,
+        "summary_en": "Police in Lang Son province conducted an emergency search and arrested Trinh Dac Vinh (born 1984) in connection with a series of transactions totaling 1.5 billion dong. Officers seized numerous materials, documents, and digital data related to gambling organization activities. The Criminal Police Department of Lang Son Provincial Police has identified and is investigating a gambling ring operating through football betting.",
+        "summary_vn": "Công an tỉnh Lạng Sơn tiến hành khám xét khẩn cấp và bắt giữ Trịnh Đắc Vinh (sinh năm 1984) liên quan đến loạt giao dịch 1,5 tỷ đồng. Cơ quan chức năng đã thu giữ nhiều tang vật, tài liệu và dữ liệu điện tử có liên quan đến hoạt động tổ chức đánh bạc. Phòng Cảnh sát hình sự Công an tỉnh Lạng Sơn phát hiện và đang điều tra một đường dây tổ chức đánh bạc hoạt động dưới hình thức cá độ bóng đá.",
+        "pubDate": "Sat, 18 Jul 26 18:05:00 +0700",
+        "sentiment": -1.0,
         "importance": 3
       },
       {
-        "title": "Bí thư Cà Mau: Cán bộ không hoàn thành nhiệm vụ giải phóng mặt bằng, xem xét đưa vào diện tinh giản",
-        "url": "https://cafef.vn/bi-thu-ca-mau-can-bo-khong-hoan-thanh-nhiem-vu-giai-phong-mat-bang-xem-xet-dua-vao-dien-tinh-gian-188260717075056583.chn",
+        "title": "Phó Thủ tướng Thường trực Chính phủ Phạm Gia Túc làm việc với các doanh nghiệp Hoa Kỳ",
+        "url": "https://cafef.vn/pho-thu-tuong-thuong-truc-chinh-phu-pham-gia-tuc-lam-viec-voi-cac-doanh-nghiep-hoa-ky-188260718071451021.chn",
         "source": "CafeF",
-        "summary_en": "Ca Mau province currently has 26 key infrastructure projects undergoing land clearance. Officials cited challenges in resolving difficulties and obstacles, noting a lack of proactive handling and unified approach, with a tendency to await higher-level directives affecting project timelines. On July 16, Ca Mau's provincial party committee held a conference to evaluate results of compensation, support, and land clearance work.",
-        "summary_vn": "Tỉnh Cà Mau hiện có 26 công trình, dự án trọng điểm đang giải phóng mặt bằng. Các cán bộ gặp khó khăn trong xử lý vướng mắc, thiếu chủ động và thống nhất, với tâm lý trông chờ ý kiến chỉ đạo từ cấp trên làm ảnh hưởng đến tiến độ. Ngày 16/7, Tỉnh ủy Cà Mau tổ chức Hội nghị đánh giá kết quả công tác bồi thường, hỗ trợ và giải phóng mặt bằng.",
-        "pubDate": "Fri, 17 Jul 26 09:26:00 +0700",
-        "sentiment": -0.4,
+        "summary_en": "Vietnam's Deputy Prime Minister Phạm Gia Túc chaired a working session on July 17 with representatives from US business associations and companies operating and investing in Vietnam. Government leaders from relevant ministries and agencies attended the meeting. The Deputy Prime Minister praised the practical contributions and long-term cooperation commitments of the US business community.",
+        "summary_vn": "Phó Thủ tướng Thường trực Phạm Gia Túc chủ trì cuộc làm việc ngày 17/7 với đại diện các hiệp hội và doanh nghiệp Hoa Kỳ đang đầu tư, kinh doanh tại Việt Nam. Cuộc làm việc có sự tham dự của các lãnh đạo bộ, ngành liên quan. Phó Thủ tướng đánh giá cao những đóng góp thiết thực và cam kết hợp tác lâu dài của cộng đồng doanh nghiệp Hoa Kỳ.",
+        "pubDate": "Sat, 18 Jul 26 08:01:00 +0700",
+        "sentiment": 0.5,
         "importance": 2
       }
     ],
     "financial-markets": [
       {
-        "title": "Hút ròng hơn 2.500 tỷ khỏi hệ thống, vì sao lãi suất ngân hàng vẫn tăng cao?",
-        "url": "https://cafef.vn/hut-rong-hon-2500-ty-khoi-he-thong-vi-sao-lai-suat-ngan-hang-van-tang-cao-188260717072902207.chn",
+        "title": "[Infographic] Chân dung BVBank: Dấu mốc HoSE và chu kỳ tăng trưởng mới",
+        "url": "https://cafef.vn/infographic-chan-dung-bvbank-dau-moc-hose-va-chu-ky-tang-truong-moi-188260718104737924.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam conducted net withdrawal of over 2,500 billion dong through open market operations on July 15, amid stable interbank liquidity conditions. Despite active monetary policy management by authorities, competition for capital mobilization among banks remains intense, with several banks maintaining deposit interest rates above 9% per annum. The central bank's intervention efforts have not yet cooled the heated capital competition between financial institutions.",
-        "summary_vn": "Ngân hàng Nhà nước thực hiện hút ròng hơn 2.500 tỷ đồng qua nghiệp vụ thị trường mở vào ngày 15/7, trong bối cảnh thanh khoản liên ngân hàng ổn định. Mặc dù cơ quan điều hành chủ động can thiệp, cuộc đua huy động vốn giữa các ngân hàng vẫn chưa hạ nhiệt khi nhiều ngân hàng duy trì lãi suất huy động trên 9%/năm. Các nỗ lực can thiệp của ngân hàng trung ương chưa làm mát được tình hình cạnh tranh giữa các tổ chức tài chính.",
-        "pubDate": "Fri, 17 Jul 26 07:28:00 +0700",
-        "sentiment": -0.2,
+        "summary_en": "BVBank has reached a significant milestone by officially listing its stock on HoSE after more than three decades of development. The bank is pursuing strong growth plans across asset scale, credit volume, and profitability, supported by comprehensive digitalization strategy and positioning in the retail and SME segments. This listing marks the beginning of a new growth cycle aimed at increasing shareholder value.",
+        "summary_vn": "Sau hơn ba thập kỷ phát triển, BVBank đã đạt cột mốc quan trọng khi chính thức niêm yết cổ phiếu trên HoSE. Ngân hàng đang thực hiện kế hoạch tăng trưởng mạnh về quy mô tài sản, tín dụng, và lợi nhuận, được hỗ trợ bởi chiến lược số hóa toàn diện và định vị trong phân khúc bán lẻ và SME. Niêm yết này đánh dấu chu kỳ phát triển mới với mục tiêu nâng cao giá trị cho cổ đông.",
+        "pubDate": "Sat, 18 Jul 26 10:45:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
+      },
+      {
+        "title": "Áp lực lớn nhất với giá vàng hiện nay",
+        "url": "https://cafef.vn/ap-luc-lon-nhat-voi-gia-vang-hien-nay-188260718092006558.chn",
+        "source": "CafeF",
+        "summary_en": "Gold prices face downward pressure from the strengthening US dollar and rising global interest rates. The dollar has gained for a second consecutive session, making gold more expensive for investors holding other currencies. While gold prices rose slightly in the morning trading session on July 18, 2026 (Vietnam time), the week shows the sharpest decline since early June when US-Iran tensions escalated and oil prices surged, raising inflation concerns.",
+        "summary_vn": "Giá vàng chịu áp lực giảm từ đồng USD mạnh lên và lợi suất toàn cầu tăng cao. Đồng bạc xanh đã tăng trong phiên thứ hai liên tiếp, khiến vàng trở nên đắt đỏ hơn đối với các nhà đầu tư nắm giữ những đồng tiền khác. Mặc dù giá vàng tăng nhẹ trong phiên sáng ngày 18/7/2026 (giờ Việt Nam), nhưng tuần này ghi nhận mức giảm mạnh nhất kể từ đầu tháng 6 khi xung đột Mỹ-Iran leo thang làm giá dầu tăng vọt.",
+        "pubDate": "Sat, 18 Jul 26 11:22:00 +0700",
+        "sentiment": -0.6,
         "importance": 3
       },
       {
-        "title": "Chủ tịch Tập đoàn Hoa Lâm - bà Trần Thị Lâm đăng ký mua 22 triệu cổ phiếu VBB",
-        "url": "https://cafef.vn/chu-tich-tap-doan-hoa-lam-ba-tran-thi-lam-dang-ky-mua-22-trieu-co-phieu-vbb-188260717095558176.chn",
+        "title": "CUBHCM củng cố vị thế tại Việt Nam với thương vụ vay hợp vốn và nhận giải thưởng quốc tế",
+        "url": "https://cafef.vn/cubhcm-cung-co-vi-the-tai-viet-nam-voi-thuong-vu-vay-hop-von-va-nhan-giai-thuong-quoc-te-188260718112255323.chn",
         "source": "CafeF",
-        "summary_en": "The Chairwoman of Hoa Lam Group, Tran Thi Lam, registered to purchase 22 million VBB shares following Vietbank's official listing on HOSE. The transaction is aimed at increasing her ownership stake in the bank. The announcement was made through Vietbank's official disclosure of the transaction details.",
-        "summary_vn": "Chủ tịch Tập đoàn Hoa Lâm - bà Trần Thị Lâm đăng ký mua 22 triệu cổ phiếu VBB sau khi Vietbank chuyển sàn và giao dịch chính thức trên HOSE. Giao dịch nhằm mục đích gia tăng tỷ lệ sở hữu của bà tại ngân hàng. Thông tin được công bố theo các quy định về giao dịch của Ngân hàng TMCP Việt Nam Thương Tín.",
-        "pubDate": "Fri, 17 Jul 26 10:05:00 +0700",
+        "summary_en": "CUBHCM received an award from Asian Banking & Finance's Corporate & Investment Banking Awards 2026 for its capital arrangement and distribution capabilities. The award recognized a 1.563 billion USD sustainable syndicated loan facility for VPBank, which is reported as the largest such facility ever arranged in Vietnam. The credit facility for VPBank was initially deployed at a 1 billion USD scale.",
+        "summary_vn": "CUBHCM nhận giải thưởng từ Asian Banking & Finance's Corporate & Investment Banking Awards 2026 vì năng lực thu xếp và phân phối vốn. Giải thưởng ghi nhận khoản vay hợp vốn bền vững 1,563 tỷ USD dành cho VPBank, được cho là khoản vay hợp vốn lớn nhất từng được thu xếp tại Việt Nam. Khoản tín dụng cho VPBank ban đầu được triển khai với quy mô 1 tỷ USD.",
+        "pubDate": "Sat, 18 Jul 26 11:30:00 +0700",
+        "sentiment": 0.7,
+        "importance": 3
+      },
+      {
+        "title": "Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao",
+        "url": "https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn",
+        "source": "CafeF",
+        "summary_en": "According to State Bank Governor Phạm Đức Ấn, the central bank has faced challenging interest rate management due to high capital demand while the economy's capital mobilization remains limited. The governor stated that the focus on economic growth and credit expansion naturally leads to higher interest rates when capital is scarce. Banks lack sufficient capital to supply numerous large projects in the coming period.",
+        "summary_vn": "Theo Thống đốc Phạm Đức Ấn, Ngân hàng Nhà nước gặp khó khăn trong điều hành chính sách lãi suất do nhu cầu vốn rất cao trong khi khả năng huy động vốn của nền kinh tế còn hạn chế. Thống đốc nhấn mạnh rằng tập trung vào tăng trưởng kinh tế và tín dụng tự nhiên dẫn đến lãi suất cao khi thiếu hụt vốn. Các ngân hàng không có đủ vốn để cấp cho nhiều dự án lớn trong tương lai.",
+        "pubDate": "Sat, 18 Jul 26 17:19:00 +0700",
+        "sentiment": -0.3,
+        "importance": 4
+      },
+      {
+        "title": "Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+        "url": "https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn",
+        "source": "CafeF",
+        "summary_en": "A banking interest rate survey conducted on July 18 shows stability in online deposit rates. Six banks quote rates of 7% per year or higher for 12-month terms, while the Big4 banks maintain 6.8% per year. One bank offers 8% per year for 6-month savings accounts.",
+        "summary_vn": "Khảo sát lãi suất ngân hàng ngày 18/7 cho thấy mặt bằng lãi suất huy động trực tuyến ổn định. Hiện có 6 ngân hàng niêm yết lãi suất từ 7%/năm trở lên cho kỳ hạn 12 tháng, trong khi nhóm Big4 duy trì mức 6,8%/năm. Một ngân hàng đưa ra lãi suất tiết kiệm 8%/năm cho kỳ hạn 6 tháng.",
+        "pubDate": "Sat, 18 Jul 26 20:24:00 +0700",
         "sentiment": 0.0,
-        "importance": 3
+        "importance": 2
       },
       {
-        "title": "TS. Cấn Văn Lực lý giải nguyên nhân lãi suất tăng, khuyên doanh nghiệp bất động sản cơ cấu lại hoạt động kinh doanh",
-        "url": "https://cafef.vn/ts-can-van-luc-ly-giai-nguyen-nhan-lai-suat-tang-khuyen-doanh-nghiep-bat-dong-san-co-cau-lai-hoat-dong-kinh-doanh-188260717103542352.chn",
+        "title": "Thống đốc Phạm Đức Ấn: NHNN điều hành chính sách lãi suất tương đối 'vất vả'",
+        "url": "https://cafef.vn/thong-doc-pham-duc-an-nhnn-dieu-hanh-chinh-sach-lai-suat-tuong-doi-vat-va-188260718174143885.chn",
         "source": "CafeF",
-        "summary_en": "Dr. Cấn Văn Lực explains that interest rates are expected to remain at higher levels going forward. He recommends real estate businesses restructure their operations and diversify funding sources to reduce dependence on bank credit. The analysis addresses the structural factors behind rising interest rates in the Vietnamese economy.",
-        "summary_vn": "TS. Cấn Văn Lực nhận định mặt bằng lãi suất sẽ tiếp tục ở mức cao hơn so với trước đây. Ông khuyến nghị các doanh nghiệp bất động sản cơ cấu lại hoạt động và đa dạng hóa nguồn vốn để giảm phụ thuộc vào tín dụng ngân hàng. Phân tích này giải thích các nguyên nhân cơ bản dẫn đến tăng lãi suất trong nền kinh tế Việt Nam.",
-        "pubDate": "Fri, 17 Jul 26 10:33:00 +0700",
+        "summary_en": "State Bank Governor Phạm Đức Ấn stated that managing interest rate policy has been relatively difficult. The central bank's focus on economic growth and credit expansion has led to capital shortages, driving up deposit rates and consequently lending rates. Higher lending rates directly impact manufacturing and business operations.",
+        "summary_vn": "Thống đốc NHNN Phạm Đức Ấn cho biết điều hành chính sách lãi suất tương đối vất vả. Do tập trung vào tăng trưởng kinh tế và tín dụng, thiếu hụt vốn dẫn đến lãi suất huy động tăng cao và lãi suất cho vay cũng tăng theo. Lãi suất cao hơn trực tiếp ảnh hưởng đến hoạt động sản xuất và kinh doanh.",
+        "pubDate": "Sat, 18 Jul 26 20:41:00 +0700",
         "sentiment": -0.3,
         "importance": 3
+      }
+    ],
+    "logistics": [
+      {
+        "title": "Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư",
+        "url": "https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn",
+        "source": "CafeF",
+        "summary_en": "Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank—have extended over 27,000 billion VND in loans for a BOT transportation project led by Đèo Cả Group, Tasco, and CII. This is the largest-scale credit financing for a BOT transport project in Vietnam, designed to meet growing transportation demand between provinces in the Southeast region, particularly between Ho Chi Minh City and the Mekong Delta. The project contributes to improving the national north-south transport corridor network.",
+        "summary_vn": "Sáu ngân hàng lớn—Vietcombank, Vietinbank, BIDV, Agribank, VPBank và TPBank—đã cấp hơn 27.000 tỷ đồng cho vay cho một dự án BOT giao thông do Tập đoàn Đèo Cả, Tasco và CII làm chủ đầu tư. Đây là dự án BOT giao thông có quy mô tài trợ vốn tín dụng lớn nhất Việt Nam, nhằm đáp ứng nhu cầu vận tải gia tăng giữa các tỉnh Đông Nam Bộ, đặc biệt là thành phố Hồ Chí Minh và Đồng bằng sông Cửu Long. Dự án góp phần hoàn thiện mạng lưới giao thông trục dọc quốc gia.",
+        "pubDate": "Sat, 18 Jul 26 14:38:00 +0700",
+        "sentiment": 0.0,
+        "importance": 4
       },
       {
-        "title": "USD hướng tới tuần giảm giá khi Fed chưa sớm tăng lãi suất",
-        "url": "https://cafef.vn/usd-huong-toi-tuan-giam-gia-khi-fed-chua-som-tang-lai-suat-188260717110001263.chn",
+        "title": "Thi công ‘phát lộ’ loạt lô cốt quân sự, nút giao cao tốc hơn 300 tỷ đồng bất ngờ chỉnh tuyến",
+        "url": "https://cafef.vn/thi-cong-phat-lo-loat-lo-cot-quan-su-nut-giao-cao-toc-hon-300-ty-dong-bat-ngo-chinh-tuyen-188260718071712501.chn",
         "source": "CafeF",
-        "summary_en": "The U.S. dollar is heading toward a week of depreciation as investors lower expectations for an imminent rate hike by the Federal Reserve, following a significant slowdown in U.S. inflation in June. The USD has declined 0.25% since the beginning of the week despite escalating Middle East tensions. Oil prices rose slightly on Friday (July 17) as tensions between the U.S. and Iran increased in the Persian Gulf region, with a broken ceasefire limiting oil flow.",
-        "summary_vn": "Đồng USD hướng tới tuần giảm giá khi các nhà đầu tư giảm kỳ vọng Fed sớm tăng lãi suất, sau khi lạm phát của Mỹ giảm tốc mạnh trong tháng 6. Đồng USD giảm 0,25% kể từ đầu tuần bất chấp căng thẳng leo thang ở Trung Đông. Giá dầu tăng nhẹ vào thứ Sáu (17/7) khi Mỹ và Iran leo thang các cuộc tấn công ở vùng Vịnh, với thỏa thuận ngừng bắn bị phá vỡ làm hạn chế dòng chảy dầu.",
-        "pubDate": "Fri, 17 Jul 26 11:59:00 +0700",
-        "sentiment": -0.2,
+        "summary_en": "A highway interchange project on the Cam Lo - La Son expressway near Hue encountered unexpected obstacles when military bunkers from the war period were discovered during construction within the land clearance area. The project investor proposed design adjustments, route changes, and the construction of an overpass to maintain the project timeline. The over 300 billion dong interchange project is being managed by the Ho Chi Minh Road Project Management Board.",
+        "summary_vn": "Dự án nút giao trên cao tốc Cam Lộ - La Sơn gần TP. Huế gặp trở ngại bất ngờ khi phát hiện các lô cốt quân sự từ thời chiến tranh nằm trong phạm vi giải phóng mặt bằng. Chủ đầu tư đề xuất điều chỉnh thiết kế, thay đổi hướng tuyến và xây dựng cầu vượt để duy trì tiến độ dự án. Nút giao trên 300 tỷ đồng này do Ban Quản lý dự án đường Hồ Chí Minh quản lý.",
+        "pubDate": "Sat, 18 Jul 26 09:01:00 +0700",
+        "sentiment": -0.3,
         "importance": 3
-      },
-      {
-        "title": "Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026",
-        "url": "https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn",
-        "source": "CafeF",
-        "summary_en": "VPBank maintained strong growth in credit and deposit mobilization during the first half of 2026, despite macroeconomic volatility and market pressure. The bank achieved record profitability and total assets exceeded 1.5 million billion VND by end of Q2 2026. VPBank reinforced its position within the leading private banking group.",
-        "summary_vn": "Vượt qua biến động vĩ mô và áp lực từ thị trường, VPBank duy trì tăng trưởng mạnh mẽ về tín dụng và huy động nửa đầu năm 2026. Ngân hàng đạt lợi nhuận kỷ lục với tổng tài sản vượt 1,5 triệu tỷ đồng vào cuối quý II 2026. VPBank củng cố vị thế trong nhóm ngân hàng tư nhân hàng đầu.",
-        "pubDate": "Fri, 17 Jul 26 12:30:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      },
-      {
-        "title": "Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới",
-        "url": "https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese banks reported strong profit growth in the first half of 2026. VPBank achieved record quarterly profit, while other banks including ABBank, Vietbank, and BVBank reported significant growth. One bank reported semi-annual profit near 4,700 billion VND with profit increases for VietBank and ABBank.",
-        "summary_vn": "Ngành ngân hàng Việt Nam báo cáo tăng trưởng lợi nhuận mạnh trong nửa đầu năm 2026. VPBank đạt mức lợi nhuận theo quý cao nhất lịch sử, trong khi các ngân hàng khác như ABBank, Vietbank và BVBank cũng báo cáo tăng trưởng đáng kể. Một ngân hàng báo lãi bán niên gần 4.700 tỷ với lợi nhuận VietBank và ABBank tăng vọt.",
-        "pubDate": "Fri, 17 Jul 26 14:58:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
       }
     ],
     "payments": [
@@ -145,60 +167,6 @@
         "pubDate": "Fri, 17 Jul 26 16:30:00 +0700",
         "sentiment": 0.7,
         "importance": 3
-      }
-    ],
-    "logistics": [
-      {
-        "title": "Khối đá lớn rơi xuống, hầm cấp đặc biệt dài 3.200m lóe sáng, 1.000 người Việt Nam vỡ òa vì thành công lớn",
-        "url": "https://cafef.vn/khoi-da-lon-roi-xuong-ham-cap-dac-biet-dai-3200m-loe-sang-1000-nguoi-viet-nam-vo-oa-vi-thanh-cong-lon-188260717152926413.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam completed the breakthrough of the left tunnel tube of the Binh De special-grade tunnel (Tunnel 3) on July 1, 2025, when the final rock mass blocking the tunnel was detonated. The tunnel is 3,200 meters long and was constructed using modern technology for an important infrastructure project. Approximately 1,000 Vietnamese workers participated in this achievement.",
-        "summary_vn": "Ngày 1/7/2025, ống hầm trái chính thức được đào thông khi tảng đá cuối cùng chắn giữa ống hầm số 3 (hầm cấp đặc biệt Bình Đê) được cho nổ tung. Hầm có độ dài 3.200 mét được thi công bằng công nghệ hiện đại cho một dự án hạ tầng quan trọng. Khoảng 1.000 công nhân Việt Nam đã tham gia vào thành công này.",
-        "pubDate": "Fri, 17 Jul 26 15:29:00 +0700",
-        "sentiment": 0.8,
-        "importance": 4
-      },
-      {
-        "title": "Từng là nỗi ám ảnh tắc đường, Nguyễn Tuân giờ khác quá khiến người Hà Nội không khỏi vui mừng",
-        "url": "https://cafef.vn/tung-la-noi-am-anh-tac-duong-nguyen-tuan-gio-khac-qua-khien-nguoi-ha-noi-khong-khoi-vui-mung-188260717103411859.chn",
-        "source": "CafeF",
-        "summary_en": "The Nguyễn Tuân road improvement project in Hanoi is entering its final construction phase after an extended implementation period. The roadway, previously a major traffic bottleneck on Hanoi's west side, is expected to significantly improve traffic flow and urban aesthetics upon completion. The project was approved in 2018 with a total investment of approximately 400 billion VND and covers a length of about 720 meters.",
-        "summary_vn": "Dự án cải tạo mở rộng đường Nguyễn Tuân ở Hà Nội đang bước vào giai đoạn hoàn thiện sau thời gian thi công kéo dài. Tuyến đường từng là điểm ùn tắc lớn phía tây Hà Nội được kỳ vọng sẽ cải thiện đáng kể khả năng lưu thông và cảnh quan đô thị. Dự án được phê duyệt từ năm 2018 với mức đầu tư khoảng 400 tỷ đồng và có chiều dài khoảng 720 mét.",
-        "pubDate": "Fri, 17 Jul 26 15:31:00 +0700",
-        "sentiment": 0.7,
-        "importance": 2
-      }
-    ],
-    "consumers": [
-      {
-        "title": "Hanwha Life: Khi đội ngũ kinh doanh trở thành cầu nối lan tỏa những giá trị cộng đồng",
-        "url": "https://cafef.vn/hanwha-life-khi-doi-ngu-kinh-doanh-tro-thanh-cau-noi-lan-toa-nhung-gia-tri-cong-dong-188260715225643144.chn",
-        "source": "CafeF",
-        "summary_en": "Hanwha Life Vietnam is continuing its third consecutive year of the \"Đồng hành bảo vệ - Trao trọn an tâm\" (Together Protect - Complete Peace of Mind) community support program across multiple provinces and cities. The program extends beyond charitable activities by leveraging the company's nationwide business team network to understand local needs and implement practical support initiatives. The initiative demonstrates how the company utilizes its distributed sales force to serve as a bridge for spreading community values.",
-        "summary_vn": "Hanwha Life Việt Nam tiếp tục triển khai chương trình \"Đồng hành bảo vệ - Trao trọn an tâm\" trong năm thứ ba liên tiếp tại nhiều tỉnh, thành. Chương trình không chỉ mở rộng hoạt động chia sẻ với cộng đồng mà còn thể hiện cách doanh nghiệp tận dụng mạng lưới đội ngũ kinh doanh trên toàn quốc để lắng nghe nhu cầu địa phương và triển khai các hỗ trợ thiết thực. Sáng kiến này cho thấy cách công ty sử dụng lực lượng bán hàng phân tán để làm cầu nối lan tỏa các giá trị cộng đồng.",
-        "pubDate": "Thu, 16 Jul 26 08:00:00 +0700",
-        "sentiment": 0.7,
-        "importance": 2
-      },
-      {
-        "title": "Giá vàng miếng SJC, vàng nhẫn ngày 16/7",
-        "url": "https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-16-7-188260716071512571.chn",
-        "source": "CafeF",
-        "summary_en": "Domestic gold prices in Vietnam adjusted downward slightly on the morning of July 16, 2026. SJC gold bars decreased 300,000 VND/tael in both buy and sell prices compared to the start of the day, falling to 145.2 million VND. Gold ring prices at major dealers including SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and DOJI also showed declines.",
-        "summary_vn": "Giá vàng trong nước sáng ngày 16/7/2026 quay đầu điều chỉnh giảm nhẹ. Vàng miếng SJC giảm 300.000 đồng/lượng ở cả chiều mua vào và bán ra so với đầu ngày, xuống còn 145,2 triệu đồng. Giá vàng nhẫn tại các đơn vị như SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI cũng ghi nhận sự giảm giá.",
-        "pubDate": "Thu, 16 Jul 26 10:00:00 +0700",
-        "sentiment": -0.3,
-        "importance": 1
-      },
-      {
-        "title": "Ai cũng nghĩ là Sa Pa, đây mới là nơi duy nhất 3 lần được vinh danh đẹp nhất thế giới: Cách Hà Nội 180km",
-        "url": "https://cafef.vn/ai-cung-nghi-la-sa-pa-day-moi-la-noi-duy-nhat-3-lan-duoc-vinh-danh-dep-nhat-the-gioi-cach-ha-noi-180km-188260715220557465.chn",
-        "source": "CafeF",
-        "summary_en": "This article discusses a tourist destination in northern Vietnam, located 180 kilometers from Hanoi, that has been recognized three times as one of the most beautiful places in the world. The destination is presented as less well-known than Sa Pa despite its international accolades. The article appears to be part of a travel or lifestyle publication highlighting lesser-known attractions.",
-        "summary_vn": "Bài viết giới thiệu một điểm đến du lịch ở miền núi phía Bắc, cách Hà Nội 180km, đã được công nhận ba lần là một trong những nơi đẹp nhất thế giới. Điểm đến này ít được du khách biết đến mặc dù có những vinh danh quốc tế. Bài viết nằm trong các bài viết về du lịch và những điểm đến ít được chú ý.",
-        "pubDate": "Thu, 16 Jul 26 08:29:00 +0700",
-        "sentiment": 0.5,
-        "importance": 1
       }
     ]
   }

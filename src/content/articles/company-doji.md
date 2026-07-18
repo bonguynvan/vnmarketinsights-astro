@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng SJC, vàng nhẫn ngày 18/7**  
+
+Domestic gold prices rebounded on July 18th after declining in the previous trading session. Gold bar prices showed varied adjustments across different businesses. Price movements differed between companies in the bullion segment.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-18-7-1882607180738565.chn)
 
 **Giá vàng miếng SJC, vàng nhẫn ngày 16/7**  
 
@@ -78,12 +84,6 @@ Gold prices in Vietnam increased sharply on June 22, with SJC and smooth ring go
 Gold prices in Vietnam showed strong recovery in early June before declining sharply from June 19 onwards. On June 21, SJC listed gold bar prices at 144.2–147.2 million VND/tael and plain gold ring prices at 144.2–147.3 million VND/tael. Multiple gold retailers including Bảo Tín Mạnh Hải, PNJ, and DOJI provided comparable quotations on the same date.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn)
-
-**V&agrave;ng phục hồi bất th&agrave;nh**  
-
-Gold prices in Vietnam experienced a recovery attempt, rising from 136 million VND to 151.8 million VND per tael on June 17, before declining over two consecutive days to 146.7 million VND per tael. On the most recent trading session, domestic gold prices increased slightly, with gold trading companies like SJC and Doji raising prices by 500,000 VND per tael.
-
-- Source: [ThanhNien](https://thanhnien.vn/vang-phuc-hoi-bat-thanh-185260620192257933.htm)
 
 ## Related coverage
 

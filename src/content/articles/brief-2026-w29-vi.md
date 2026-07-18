@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 29/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 29 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-17"
-lastUpdated: "2026-07-17"
+publishedDate: "2026-07-18"
+lastUpdated: "2026-07-18"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -13,7 +13,7 @@ readingTime: 15
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Ngành ngân hàng ghi nhận tăng trưởng lợi nhuận mạnh mẽ trong nửa đầu năm 2026, với nhiều tổ chức công bố kết quả kỷ lục và các kế hoạch phân phối cổ tức tiền mặt vượt 48.000 tỷ đồng. Trên lĩnh vực hạ tầng, sáu ngân hàng vừa ký kết hợp đồng tín dụng hợp vốn khoảng 27.094 tỷ đồng để tài trợ dự án mở rộng cao tốc TP.HCM - Trung Lương - Mỹ Thuận theo phương thức đối tác công tư. Bên cạnh đó, Việt Nam dự kiến tiếp tục thu hút 38-40 tỷ USD vốn đầu tư nước ngoài hàng năm trong giai đoạn 2026-2030, với các dòng vốn chuyển dịch mạnh sang lĩnh vực công nghệ cao.
+Thị trường tài chính và hạ tầng Việt Nam ghi nhận những hoạt động tích cực với loạt các dự án lớn được tài trợ, trong đó sáu ngân hàng lớn cấp hơn 27.000 tỷ đồng cho các dự án BOT giao thông và mở rộng cao tốc. Ngành ngân hàng báo cáo tăng trưởng lợi nhuận mạnh trong nửa đầu năm 2026, với VPBank, VietinBank cùng các ngân hàng khác đạt những con số kỷ lục. Tuy nhiên, Ngân hàng Nhà nước gặp khó khăn trong điều hành chính sách lãi suất do nhu cầu vốn cao trong khi khả năng huy động vốn của nền kinh tế còn hạn chế.
 
 ## Thương mại điện tử
 
@@ -25,6 +25,13 @@ Xuất khẩu sầu riêng của Việt Nam đạt hơn 562 triệu USD trong 5 
 - Nguồn: [CafeF](https://cafef.vn/trung-quoc-vua-chi-gan-nua-ty-usd-mua-bau-vat-tren-cao-cua-viet-nam-18826071411174631.chn)
 
 ## Logistics
+
+**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
+
+Sáu ngân hàng lớn—Vietcombank, Vietinbank, BIDV, Agribank, VPBank và TPBank—đã cấp hơn 27.000 tỷ đồng cho vay cho một dự án BOT giao thông do Tập đoàn Đèo Cả, Tasco và CII làm chủ đầu tư. Đây là dự án BOT giao thông có quy mô tài trợ vốn tín dụng lớn nhất Việt Nam, nhằm đáp ứng nhu cầu vận tải gia tăng giữa các tỉnh Đông Nam Bộ, đặc biệt là thành phố Hồ Chí Minh và Đồng bằng sông Cửu Long. Dự án góp phần hoàn thiện mạng lưới giao thông trục dọc quốc gia.
+
+- Số liệu chính: Total credit financing extended: 27,000 billion VND
+- Nguồn: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
 **Khối đá lớn rơi xuống, hầm cấp đặc biệt dài 3.200m lóe sáng, 1.000 người Việt Nam vỡ òa vì thành công lớn**  
 
@@ -70,13 +77,13 @@ Công an TP Hà Nội vừa triệt phá 2 nhóm phạm tội sản xuất, mua 
 - Số liệu chính: Amount defrauded from bank accounts: 14 billion VND; Number of suspects charged: 9 persons; Number of criminal groups dismantled: 2 groups
 - Nguồn: [CafeF](https://cafef.vn/mua-ban-phan-mem-vuot-du-lieu-sinh-trac-hoc-chiem-14-ty-dong-tai-khoan-ngan-hang-188260714213057028.chn)
 
-**Nhiều doanh nghiệp Việt có nguy cơ cao đối mặt với các vụ điều tra phòng vệ thương mại từ Hoa Kỳ, đại diện Bộ Công Thương nói gì?**  
-
-Nhiều doanh nghiệp Việt có nguy cơ cao phải đối mặt với các vụ điều tra phòng vệ thương mại và chống gian lận xuất xứ từ Hoa Kỳ. Ông Chu Thắng Trung, Phó Cục trưởng Cục Phòng vệ thương mại, đã cung cấp thông tin về những ngành hàng xuất khẩu chủ lực bị ảnh hưởng. Hoa Kỳ đang gia tăng các cuộc điều tra thương mại nhắm vào các doanh nghiệp xuất khẩu của Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/nhieu-doanh-nghiep-viet-co-nguy-co-cao-doi-mat-voi-cac-vu-dieu-tra-phong-ve-thuong-mai-tu-hoa-ky-dai-dien-bo-cong-thuong-noi-gi-188260714053755975.chn)
-
 ## Chứng khoán
+
+**[Infographic] Chân dung BVBank: Dấu mốc HoSE và chu kỳ tăng trưởng mới**  
+
+Sau hơn ba thập kỷ phát triển, BVBank đã đạt cột mốc quan trọng khi chính thức niêm yết cổ phiếu trên HoSE. Ngân hàng đang thực hiện kế hoạch tăng trưởng mạnh về quy mô tài sản, tín dụng, và lợi nhuận, được hỗ trợ bởi chiến lược số hóa toàn diện và định vị trong phân khúc bán lẻ và SME. Niêm yết này đánh dấu chu kỳ phát triển mới với mục tiêu nâng cao giá trị cho cổ đông.
+
+- Nguồn: [CafeF](https://cafef.vn/infographic-chan-dung-bvbank-dau-moc-hose-va-chu-ky-tang-truong-moi-188260718104737924.chn)
 
 **Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026**  
 
@@ -149,6 +156,12 @@ Fitch Ratings công bố xếp hạng tín nhiệm lần đầu cho HDBank với
 
 ## Kinh tế vĩ mô
 
+**Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
+
+Theo Thống đốc Phạm Đức Ấn, Ngân hàng Nhà nước gặp khó khăn trong điều hành chính sách lãi suất do nhu cầu vốn rất cao trong khi khả năng huy động vốn của nền kinh tế còn hạn chế. Thống đốc nhấn mạnh rằng tập trung vào tăng trưởng kinh tế và tín dụng tự nhiên dẫn đến lãi suất cao khi thiếu hụt vốn. Các ngân hàng không có đủ vốn để cấp cho nhiều dự án lớn trong tương lai.
+
+- Nguồn: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
+
 **Dự án chưa từng có tiền lệ của Việt Nam có diễn biến mới, Phó Thủ tướng yêu cầu làm ngay 1 việc**  
 
 Dự án điện hạt nhân Ninh Thuận của Việt Nam có diễn biến mới, với Phó Thủ tướng Phạm Gia Túc chủ trì cuộc họp ngày 16/7 với Bộ Tài chính và các bộ ngành liên quan để rà soát các thủ tục đầu tư và điều chỉnh. Dự án được mô tả là chưa từng có tiền lệ tại Việt Nam và có ý nghĩa chiến lược đặc biệt quan trọng. Cuộc họp tập trung xem xét tình hình hồ sơ dự án, các vấn đề thủ tục điều chỉnh kế hoạch đầu tư, và chuẩn bị công tác đầu tư cho dự án điện hạt nhân Ninh Thuận 1.
@@ -174,20 +187,6 @@ Một tỉnh của Việt Nam ghi nhận tăng trưởng GRDP đạt 10,18% tron
 Các doanh nghiệp Việt Nam đang chịu áp lực lớn từ chi phí vay cao kéo dài, khi lãi suất cho vay vẫn ở mức cao và điều kiện tiếp cận tín dụng khắt khe. Doanh nghiệp vừa phải chấp nhận lãi suất vay cao vừa gặp khó trong việc huy động vốn để duy trì và mở rộng sản xuất kinh doanh. Lãi suất huy động tăng cao đang thúc đẩy lãi suất cho vay tiếp tục ở mức cao, tạo thêm áp lực lên hoạt động của doanh nghiệp.
 
 - Nguồn: [CafeF](https://cafef.vn/doanh-nghiep-lao-dao-vi-lai-vay-neo-cao-18826071306382785.chn)
-
-**WB: Chất lượng tăng trưởng sẽ quyết định con đường Việt Nam trở thành quốc gia thu nhập cao**  
-
-Việt Nam chính thức bước vào nhóm quốc gia thu nhập trung bình cao sau 17 năm, đánh dấu khởi đầu của giai đoạn phát triển khó khăn hơn. Theo bà Mariam J. Sherman, Giám đốc Ngân hàng Thế giới tại Việt Nam, Campuchia và Lào, để đạt trạng thái quốc gia thu nhập cao vào năm 2045, Việt Nam phải chuyển từ tăng trưởng dựa vào vốn và xuất khẩu sang nâng cao năng suất và năng lực doanh nghiệp trong nước. Chất lượng tăng trưởng sẽ quyết định con đường của Việt Nam trở thành quốc gia thu nhập cao.
-
-- Số liệu chính: Years since Vietnam entered upper-middle-income country group: 17; Target year for Vietnam to reach high-income status: 2045
-- Nguồn: [CafeF](https://cafef.vn/wb-chat-luong-tang-truong-se-quyet-dinh-con-duong-viet-nam-tro-thanh-quoc-gia-thu-nhap-cao-188260713143700226.chn)
-
-**Cắm thành công 3.400 cột thép nặng 60.000 tấn, Việt Nam lập kỳ tích chưa từng có, cả thế giới ngỡ ngàng**  
-
-Việt Nam đã hoàn thành việc cắm 3.400 cột thép nặng 60.000 tấn cho dự án đường dây siêu cao áp 500kV chạy từ Bắc đến Nam. Ngành điện Việt Nam đã xây dựng thành công nhiều mạch truyền tải (mạch 1, 2 và 3) dọc đất nước. Hệ thống 500kV Bắc - Nam hoạt động như "huyết mạch" của hệ thống điện quốc gia.
-
-- Số liệu chính: Number of steel poles installed: 3,400; Total weight of steel poles: 60,000 tonnes; Voltage rating of transmission line: 500 kV
-- Nguồn: [CafeF](https://cafef.vn/cam-thanh-cong-3400-cot-thep-nang-60000-tan-viet-nam-lap-ky-tich-chua-tung-co-ca-the-gioi-ngo-ngang-188260713144217735.chn)
 
 ---
 
