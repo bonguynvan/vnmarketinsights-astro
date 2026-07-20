@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng giảm mạnh, chuyên gia phố Wall dự báo tuần tới gây bất ngờ**  
+
+Domestic gold prices declined sharply in the previous week due to global gold price movements. As of mid-morning July 19, Saigon Gold Silver and Jewelry Company quoted SJC gold bars at 144.5 - 147.5 million VND/tael (buy-sell spread), unchanged from the previous morning. Other major brands including DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and Phú Quý applied the same price levels for SJC gold bars.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-giam-manh-chuyen-gia-pho-wall-du-bao-tuan-toi-gay-bat-ngo-188260719153650597.chn)
 
 **Giá vàng SJC, vàng nhẫn ngày 18/7**  
 
@@ -57,8 +63,8 @@ Gold prices in Vietnam fell sharply on the morning of June 19, with bar gold dec
 
 ## Related coverage
 
-- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 

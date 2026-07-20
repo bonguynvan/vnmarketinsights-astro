@@ -1,17 +1,23 @@
 ---
 title: "Tập đoàn Đèo Cả — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Đèo Cả, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Tập đoàn Đèo Cả
 
-Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
+
+The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
 
 **Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
 
@@ -33,10 +39,10 @@ Thai Nguyen Province and Deo Ca Group discussed an investment plan for a tunnel-
 
 ## Related coverage
 
-- [Đèo Cả nghiên cứu xây hầm xuyên núi dài gần 19km kết nối Phú Thọ - Thái Nguyên - Hà Nội, phấn đấu khởi công ngay năm sau](https://cafef.vn/deo-ca-nghien-cuu-xay-ham-xuyen-nui-dai-gan-19km-ket-noi-phu-tho-thai-nguyen-ha-noi-phan-dau-khoi-cong-ngay-nam-sau-188260709103020019.chn) — CafeF
 - [Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn) — CafeF
-- [4.600 tỷ nâng cấp đường liên tỉnh Thanh Hóa - Ninh Bình](https://cafef.vn/4600-ty-nang-cap-duong-lien-tinh-thanh-hoa-ninh-binh-18826071215423842.chn) — CafeF
-- [Tấp nập thi công đường huyết mạch kết nối sân bay Long Thành](https://cafef.vn/tap-nap-thi-cong-duong-huyet-mach-ket-noi-san-bay-long-thanh-188260621081331973.chn) — CafeF
+- [Đèo Cả nghiên cứu xây hầm xuyên núi dài gần 19km kết nối Phú Thọ - Thái Nguyên - Hà Nội, phấn đấu khởi công ngay năm sau](https://cafef.vn/deo-ca-nghien-cuu-xay-ham-xuyen-nui-dai-gan-19km-ket-noi-phu-tho-thai-nguyen-ha-noi-phan-dau-khoi-cong-ngay-nam-sau-188260709103020019.chn) — CafeF
+- [Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn) — CafeF
+- [Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn) — CafeF
 
 ---
 

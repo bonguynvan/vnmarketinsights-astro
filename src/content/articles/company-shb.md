@@ -1,8 +1,8 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SHB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SHB sắp thu về nguồn thặng dư vốn lớn từ thương vụ với Krungsri**  
+
+The State Bank of Vietnam has approved a change in the legal structure of SHBFinance from a two-member to a single-member limited liability company. This legal milestone creates the basis for SHB and Krungsri, a major Thai financial conglomerate and member of MUFG Financial Group, to proceed with their transaction. The deal is expected to generate significant capital reserves for SHB.
+
+- Source: [CafeF](https://cafef.vn/shb-sap-thu-ve-nguon-thang-du-von-lon-tu-thuong-vu-voi-krungsri-188260719173147673.chn)
 
 **SHB đồng hành kiến tạo nguồn nhân lực AI cho quốc gia**  
 
@@ -78,7 +84,7 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 - [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
-- [Vietcombank, BIDV, VietinBank, MB, VPBank, Techcombank, ACB và HDBank lọt Top công ty đại chúng lớn nhất thế giới](https://cafef.vn/vietcombank-bidv-vietinbank-mb-vpbank-techcombank-acb-va-hdbank-lot-top-cong-ty-dai-chung-lon-nhat-the-gioi-188260707163041726.chn) — CafeF
+- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
 
 ---
 

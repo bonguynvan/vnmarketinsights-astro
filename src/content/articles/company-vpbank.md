@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (29 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
+
+The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
 
 **Điều khiến 28 CEO Việt Nam bất ngờ trong ngày học thứ hai tại Alibaba**  
 
@@ -79,18 +85,12 @@ VPBank was recognized as one of the Top 10 Green Enterprises - Net Zero Action w
 
 - Source: [CafeF](https://cafef.vn/vpbank-duoc-vinh-danh-doanh-nghiep-hang-dau-ve-nang-luong-moi-truong-xanh-18826070916481052.chn)
 
-**Người dưới chuẩn ngân hàng mong đợi gì từ tín dụng bình dân?**  
-
-Unbanked individuals view alternative lending forms as preferable to traditional banks and financial companies, with speed of loan processing and disbursement being the key advantages rather than interest rates. The excerpt references multiple banking-related stories including criminal charges against bank employees in a money laundering case and recognition of VPBank for environmental sustainability efforts. Shareholders of VietinBank, BIDV, and Vietcombank are noted to have received positive news.
-
-- Source: [CafeF](https://cafef.vn/nguoi-duoi-chuan-ngan-hang-mong-doi-gi-tu-tin-dung-binh-dan-188260709201404346.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,30 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
+
+The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
+
+**Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng**  
+
+The State Bank of Vietnam is working on replacing Circular 22/2019/TT-NHNN, described as the banking sector's most important circular. Deputy Governor Đoàn Thái Sơn directed relevant units to urgently gather and incorporate feedback from steering committee members, commercial banks, and advisory and audit firms to finalize the draft documents. The bank aims to ensure the revised circular and related guidance documents meet the timeline for submission to competent authorities for review and issuance.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn)
+
+**Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc**  
+
+Vietcombank Chairman Nguyễn Thanh Tùng proposed issuing international bonds to supplement capital sources for the economy, citing insufficient domestic accumulation. State Bank of Vietnam Governor Phạm Đức Ấn stated that the central bank is analyzing implementation options and confirmed it will participate in the initiative. The proposal addresses capital sourcing for economic development.
+
+- Source: [CafeF](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn)
+
+**SHB sắp thu về nguồn thặng dư vốn lớn từ thương vụ với Krungsri**  
+
+The State Bank of Vietnam has approved a change in the legal structure of SHBFinance from a two-member to a single-member limited liability company. This legal milestone creates the basis for SHB and Krungsri, a major Thai financial conglomerate and member of MUFG Financial Group, to proceed with their transaction. The deal is expected to generate significant capital reserves for SHB.
+
+- Source: [CafeF](https://cafef.vn/shb-sap-thu-ve-nguon-thang-du-von-lon-tu-thuong-vu-voi-krungsri-188260719173147673.chn)
 
 **Đề xuất lưu trữ 10 năm hồ sơ giao dịch trên tài khoản thanh toán của khách hàng**  
 
@@ -61,36 +85,12 @@ The State Bank of Vietnam held a ceremony on July 6 to announce the appointment 
 
 - Source: [CafeF](https://cafef.vn/vamc-co-them-nu-lanh-dao-188260707153623547.chn)
 
-**Các ngân hàng đánh giá thế nào về triển vọng lợi nhuận, tăng trưởng tín dụng và huy động thời gian tới**  
-
-The State Bank of Vietnam released the results of a business trend survey for Q3/2026, conducted from May 25 to June 10, 2026, covering all credit institutions and foreign bank branches in Vietnam with a response rate of 98.3%. The survey examines bank outlooks on profitability, credit growth, and fund mobilization prospects. The excerpt indicates ongoing market monitoring of banking sector performance and competitive positioning among institutions.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-danh-gia-the-nao-ve-trien-vong-loi-nhuan-tang-truong-tin-dung-va-huy-dong-thoi-gian-toi-188260707210849101.chn)
-
-**Phó Chủ tịch Quốc hội Nguyễn Thị Hồng đề nghị Ngân hàng Nhà nước giữ vững ổn định vĩ mô, kiểm soát lạm phát, đồng thời đảm bảo thúc đẩy tăng trưởng kinh tế 2 con số**  
-
-Vice Chairwoman of the National Assembly Nguyễn Thị Hồng met with the State Bank of Vietnam to discuss macroeconomic stability and inflation control. The meeting focused on implementing policies and legislation related to economic growth targets. The session took place on July 7, 2026, in Hanoi.
-
-- Source: [CafeF](https://cafef.vn/pho-chu-tich-quoc-hoi-nguyen-thi-hong-de-nghi-ngan-hang-nha-nuoc-giu-vung-on-dinh-vi-mo-kiem-soat-lam-phat-dong-thoi-dam-bao-thuc-day-tang-truong-kinh-te-2-con-so-18826070721280525.chn)
-
-**Tỷ giá chỉ tăng 0,07% trong 6 tháng đầu năm**  
-
-Vietnam's exchange rate rose only 0.07% during the first half of 2026 despite significant external pressures. The State Bank of Vietnam managed the exchange rate flexibly amid complex global economic and political developments, elevated international USD interest rates, and domestic foreign exchange supply-demand imbalances. The monetary policy department reported these findings at a banking sector conference reviewing the first half performance and outlining tasks for the second half of 2026.
-
-- Source: [CafeF](https://cafef.vn/ty-gia-chi-tang-007-trong-6-thang-dau-nam-188260706065258481.chn)
-
-**TS. Đào Minh Tú: Khơi thông thị trường vốn để giảm áp lực cho hệ thống ngân hàng**  
-
-Dr. Dao Minh Tu, Vice Chairman and General Secretary of the Vietnam Bankers Association, delivered remarks at a banking sector conference on July 3rd regarding first-half 2026 performance and second-half priorities. He commended the State Bank of Vietnam's firm management and results achieved despite challenging conditions. He identified capital market challenges facing the banking sector and proposed solutions.
-
-- Source: [CafeF](https://cafef.vn/ts-dao-minh-tu-khoi-thong-thi-truong-von-de-giam-ap-luc-cho-he-thong-ngan-hang-188260704082507768.chn)
-
 ## Related coverage
 
-- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Lãnh đạo NHNN: Trong mọi bối cảnh, ưu tiên hàng đầu vẫn là kiểm soát lạm phát](https://cafef.vn/lanh-dao-nhnn-trong-moi-boi-canh-uu-tien-hang-dau-van-la-kiem-soat-lam-phat-188260703102856587.chn) — CafeF
+- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
+- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn) — CafeF
 
 ---
 

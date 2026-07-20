@@ -1,17 +1,23 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Airlines
 
-Recent Vietnam market news mentioning **Vietnam Airlines** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Airlines** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Hành khách đi Nhật Bản, Hàn Quốc và Đài Loan có tin vui**  
+
+Vietnam Airlines announced an expansion of its flight network to popular Northeast Asian destinations including Japan, South Korea, and Taiwan. The airline increased flight frequency on multiple key routes as part of its strategy to enhance passenger experience and convenience. The Hanoi-Taipei route saw an increase from 7 to 11 weekly flights.
+
+- Source: [CafeF](https://cafef.vn/hanh-khach-di-nhat-ban-han-quoc-va-dai-loan-co-tin-vui-188260716150018723.chn)
 
 **Vietnam Airlines dự kiến doanh thu gần 139.000 tỷ đồng**  
 
@@ -34,9 +40,9 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 ## Related coverage
 
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
-- [ACV đang kiểm soát chặt tiến độ dự án sân bay Long Thành](https://cafef.vn/acv-dang-kiem-soat-chat-tien-do-du-an-san-bay-long-thanh-188260621100038428.chn) — CafeF
-- [ĐHĐCĐ PVcomBank: Tăng tốc chuyển đổi, kiến tạo giá trị bền vững](https://cafef.vn/dhdcd-pvcombank-tang-toc-chuyen-doi-kien-tao-gia-tri-ben-vung-188260627134841216.chn) — CafeF
 - [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
+- [ĐHĐCĐ PVcomBank: Tăng tốc chuyển đổi, kiến tạo giá trị bền vững](https://cafef.vn/dhdcd-pvcombank-tang-toc-chuyen-doi-kien-tao-gia-tri-ben-vung-188260627134841216.chn) — CafeF
+- [Hành khách đi máy bay đặc biệt chú ý quy định mới đã bắt đầu áp dụng từ ngày 1/7](https://cafef.vn/hanh-khach-di-may-bay-dac-biet-chu-y-quy-dinh-moi-da-bat-dau-ap-dung-tu-ngay-1-7-18826070208081655.chn) — CafeF
 
 ---
 

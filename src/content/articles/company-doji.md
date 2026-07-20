@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng giảm mạnh, chuyên gia phố Wall dự báo tuần tới gây bất ngờ**  
+
+Domestic gold prices declined sharply in the previous week due to global gold price movements. As of mid-morning July 19, Saigon Gold Silver and Jewelry Company quoted SJC gold bars at 144.5 - 147.5 million VND/tael (buy-sell spread), unchanged from the previous morning. Other major brands including DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and Phú Quý applied the same price levels for SJC gold bars.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-giam-manh-chuyen-gia-pho-wall-du-bao-tuan-toi-gay-bat-ngo-188260719153650597.chn)
 
 **Giá vàng SJC, vàng nhẫn ngày 18/7**  
 
@@ -79,18 +85,12 @@ Gold prices in Vietnam increased sharply on June 22, with SJC and smooth ring go
 
 - Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-22-6-188260622070351341.chn)
 
-**Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6**  
-
-Gold prices in Vietnam showed strong recovery in early June before declining sharply from June 19 onwards. On June 21, SJC listed gold bar prices at 144.2–147.2 million VND/tael and plain gold ring prices at 144.2–147.3 million VND/tael. Multiple gold retailers including Bảo Tín Mạnh Hải, PNJ, and DOJI provided comparable quotations on the same date.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn)
-
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
-- [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
+- [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
 
 ---
 

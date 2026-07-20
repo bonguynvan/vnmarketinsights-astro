@@ -1,8 +1,8 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
@@ -90,7 +90,7 @@ A bank will set the record date for a nearly 30% dividend payout in the coming w
 - [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn) — CafeF
-- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
+- [Tuần tới là thời điểm quan trọng với cổ đông Vietcombank, VietinBank và BIDV](https://cafef.vn/tuan-toi-la-thoi-diem-quan-trong-voi-co-dong-vietcombank-vietinbank-va-bidv-188260719085953122.chn) — CafeF
 
 ---
 

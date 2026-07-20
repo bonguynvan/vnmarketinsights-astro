@@ -1,8 +1,8 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
@@ -34,9 +34,9 @@ Viettel has acquired the 095 mobile phone number prefix, adding to its existing 
 ## Related coverage
 
 - [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
+- [Kiến nghị nâng ngưỡng không phải đóng thuế trên doanh thu đối với hộ kinh doanh lên 3 tỷ đồng/năm](https://cafef.vn/kien-nghi-nang-nguong-khong-phai-dong-thue-tren-doanh-thu-doi-voi-ho-kinh-doanh-len-3-ty-dong-nam-18826071910443773.chn) — CafeF
 - [CẬP NHẬT: Hội nghị Thường trực Chính phủ với cộng đồng doanh nghiệp](https://cafef.vn/cap-nhat-hoi-nghi-thuong-truc-chinh-phu-voi-cong-dong-doanh-nghiep-188260718092654601.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
-- [Sẽ phát triển doanh nghiệp 1 người?](https://cafef.vn/se-phat-trien-doanh-nghiep-1-nguoi-188260718134151712.chn) — CafeF
 
 ---
 

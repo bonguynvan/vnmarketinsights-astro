@@ -1,17 +1,23 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tuần tới, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ**  
+
+BVBank is set to list on HoSE on July 21 with approximately 641 million shares, becoming the 22nd bank on Vietnam's largest stock exchange after more than 6 years of trading on UPCoM. The bank's management holds 11% of capital. The bank's six-month profit is reported to be 5 times higher than the same period in the previous year.
+
+- Source: [CafeF](https://cafef.vn/tuan-toi-san-hose-se-co-them-mot-ngan-hang-ban-lanh-dao-nam-11-von-loi-nhuan-6-thang-cao-gap-5-lan-cung-ky-188260720003725915.chn)
 
 **[Infographic] Chân dung BVBank: Dấu mốc HoSE và chu kỳ tăng trưởng mới**  
 

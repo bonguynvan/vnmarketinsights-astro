@@ -1,17 +1,23 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (55 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (56 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 19/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on July 19 shows the interest rate environment remains stable. Only 6 banks are offering rates of 7% per annum or higher for 12-month terms, while the Big 4 banking group maintains rates at 6.8% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-19-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-188260719171059549.chn)
 
 **Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -79,18 +85,12 @@ HDBank announced its lending rates, with short-term loans at 8.5% per annum and 
 
 - Source: [CafeF](https://cafef.vn/hdbank-cong-bo-thong-tin-lai-suat-cho-vay-188260714203726715.chn)
 
-**Fitch Ratings lần đầu xếp hạng HDBank, ghi nhận nền tảng tài chính vững mạnh top đầu Việt Nam**  
-
-Fitch Ratings issued its first-ever credit ratings for HDBank, assigning a long-term issuer rating of BB- with a Stable Outlook. The ratings reflect HDBank's strong financial platform, high efficiency, and sustainability. The bank received high-level assessments indicating a robust financial foundation among top Vietnamese banks.
-
-- Source: [CafeF](https://cafef.vn/fitch-ratings-lan-dau-xep-hang-hdbank-ghi-nhan-nen-tang-tai-chinh-vung-manh-top-dau-viet-nam-188260713182849403.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

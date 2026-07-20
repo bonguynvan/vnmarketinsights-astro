@@ -1,17 +1,23 @@
 ---
 title: "Dragon Capital — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Dragon Capital, with neutral summaries and source links."
-publishedDate: "2026-07-18"
-lastUpdated: "2026-07-18"
+publishedDate: "2026-07-19"
+lastUpdated: "2026-07-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Dragon Capital
 
-Recent Vietnam market news mentioning **Dragon Capital** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Dragon Capital** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Công ty CP Bluemarq Group mất cổ đông lớn**  
+
+Dragon Capital fund group sold 546,200 DXG shares of Bluemarq Group Company (formerly Dat Xanh Group, ticker: DXG) to reduce its ownership stake from 5% to 4.96% of charter capital. This transaction represents a minor shareholding reduction by a major investor in the company. The sale maintains Dragon Capital's position as a significant shareholder despite the stake reduction.
+
+- Source: [CafeF](https://cafef.vn/cong-ty-cp-bluemarq-group-mat-co-dong-lon-188260719091811115.chn)
 
 **Chuyên gia: Nghị quyết 10 là bước chuyển tư duy sang công nghệ cao**  
 
@@ -35,8 +41,8 @@ Foreign funds linked to Dragon Capital have sold millions of shares, while T-Cor
 
 - [VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm) — TuoiTre
 - [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
+- [Chứng khoán Rồng Việt sắp phát hành 500 tỷ đồng trái phiếu](https://cafef.vn/chung-khoan-rong-viet-sap-phat-hanh-500-ty-dong-trai-phieu-188260719104335425.chn) — CafeF
 - [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
-- [Xây "cứ điểm" FDI chất lượng cao](https://cafef.vn/xay-cu-diem-fdi-chat-luong-cao-188260623082801024.chn) — CafeF
 
 ---
 
