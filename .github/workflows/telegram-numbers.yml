@@ -33,6 +33,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
         run: |
-          echo "Perplexity length: ${#PERPLEXITY_API_KEY}"
-          echo "Telegram Token length: ${#TELEGRAM_BOT_TOKEN}"
+          echo "Checking secrets length..."
+          echo "Perplexity key length: ${#PERPLEXITY_API_KEY}"
+          echo "Telegram token length: ${#TELEGRAM_BOT_TOKEN}"
+          echo "Telegram channel length: ${#TELEGRAM_CHANNEL}"
           node scripts/telegram-numbers.mjs
