@@ -32,4 +32,7 @@ jobs:
           PERPLEXITY_MODEL: sonar-pro
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL: ${{ secrets.TELEGRAM_CHANNEL }}
-        run: node scripts/telegram-numbers.mjs
+        run: |
+          echo "Perplexity length: ${#PERPLEXITY_API_KEY}"
+          echo "Telegram Token length: ${#TELEGRAM_BOT_TOKEN}"
+          node scripts/telegram-numbers.mjs
