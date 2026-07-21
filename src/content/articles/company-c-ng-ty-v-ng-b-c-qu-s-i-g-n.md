@@ -1,8 +1,8 @@
 ---
 title: "Công ty Vàng bạc Đá quý Sài Gòn — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Công ty Vàng bạc Đá quý Sài Gòn, with neutral summaries and source links."
-publishedDate: "2026-07-19"
-lastUpdated: "2026-07-19"
+publishedDate: "2026-07-20"
+lastUpdated: "2026-07-20"
 category: "Company"
 readingTime: 3
 ---

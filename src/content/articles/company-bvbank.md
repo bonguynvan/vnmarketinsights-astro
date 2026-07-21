@@ -1,17 +1,29 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-19"
-lastUpdated: "2026-07-19"
+publishedDate: "2026-07-20"
+lastUpdated: "2026-07-20"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tuần này, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ**  
+
+BVBank's nearly 641 million BVB shares will be officially listed on HoSE on July 21, after more than 6 years of trading on UPCoM. The listing makes BVBank the 22nd member on Vietnam's largest stock exchange. The bank's leadership holds 11% of capital, and its 6-month profit grew 5 times compared to the same period last year.
+
+- Source: [CafeF](https://cafef.vn/tuan-nay-san-hose-se-co-them-mot-ngan-hang-ban-lanh-dao-nam-11-von-loi-nhuan-6-thang-cao-gap-5-lan-cung-ky-188260720003725915.chn)
+
+**Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm**  
+
+Vietnamese banks released their first-half 2024 earnings results during an active reporting season. Multiple banks including VPBank, ABBank, Vietbank, PGBank, BVBank, and MSB reported significant profit increases, while some banks faced declining profits due to capital cost pressures and loan loss provisions. MSB recorded profit exceeding 3,400 billion VND in the first half of the year.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn)
 
 **Tuần tới, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ**  
 
@@ -77,7 +89,7 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 
 - [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
-- [BVBank lần đầu được Fitch Ratings xếp hạng tín nhiệm tổ chức phát hành (IDR) dài hạn ở mức B+, triển vọng "Ổn định"](https://cafef.vn/bvbank-lan-dau-duoc-fitch-ratings-xep-hang-tin-nhiem-to-chuc-phat-hanh-idr-dai-han-o-muc-b-trien-vong-on-dinh-188260630101441451.chn) — CafeF
+- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 - [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 
 ---

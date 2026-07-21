@@ -1,17 +1,35 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-19"
-lastUpdated: "2026-07-19"
+publishedDate: "2026-07-20"
+lastUpdated: "2026-07-20"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng hút mạnh tiền gửi của hộ kinh doanh, người dân**  
+
+VPBank reported strong deposit growth in the first half of 2026, with total customer deposits reaching 732.887 trillion VND as of June 30, 2026. This represents an increase of approximately 105 trillion VND, or 16.7% compared to the beginning of the year, which is significantly above the industry average. Deposits from business households and individuals constitute the majority of the bank's deposit base.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-hut-manh-tien-gui-cua-ho-kinh-doanh-nguoi-dan-188260720141610219.chn)
+
+**Family Banking giúp VPBank Diamond tạo khác biệt tại Global Banking & Finance Awards**  
+
+VPBank Diamond has been nominated in the "Best Family Wealth Management Product" category at the Global Banking & Finance Awards 2026. This marks the third consecutive year that VPBank has received recognition at this international awards ceremony. The Family Banking service is noted as an important segment within VPBank's differentiated financial ecosystem.
+
+- Source: [CafeF](https://cafef.vn/family-banking-giup-vpbank-diamond-tao-khac-biet-tai-global-banking-finance-awards-188260720154235643.chn)
+
+**Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm**  
+
+Vietnamese banks released their first-half 2024 earnings results during an active reporting season. Multiple banks including VPBank, ABBank, Vietbank, PGBank, BVBank, and MSB reported significant profit increases, while some banks faced declining profits due to capital cost pressures and loan loss provisions. MSB recorded profit exceeding 3,400 billion VND in the first half of the year.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn)
 
 **Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
 
@@ -67,30 +85,12 @@ Eight Vietnamese banks are distributing cash dividends totaling more than 39,000
 
 - Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
-**VPBank bổ nhiệm thêm một Phó Chủ tịch HĐQT**  
-
-VPBank appointed Pham Thi Nhung, a member of its Board of Directors, as Vice Chairman of the Board on July 9, 2026. The appointment is part of the bank's organizational restructuring as it prepares to implement its new five-year development strategy (2026–2030). Nhung has been with VPBank since 2016.
-
-- Source: [CafeF](https://cafef.vn/vpbank-bo-nhiem-them-mot-pho-chu-tich-hdqt-188260708151931065.chn)
-
-**Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7**  
-
-Several Vietnamese banks announced senior management changes in July, including appointments, dismissals, and additional board elections. These moves are expected to strengthen governance structures and improve operational efficiency to support development in the new phase. On July 9, VPBank's board approved the appointment of Pham Thi Nhung as Vice Chairwoman of the Board of Directors.
-
-- Source: [CafeF](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn)
-
-**VPBank được vinh danh Doanh nghiệp hàng đầu về năng lượng môi trường xanh**  
-
-VPBank was recognized as one of the Top 10 Green Enterprises - Net Zero Action within the "Energy and Green Environment Sustainability in Vietnam" awards organized by the Vietnam Chamber of Commerce and Industry (VCCI). The award is a prestigious national program that honors enterprises pioneering business model innovation and applying environmentally friendly technologies. The recognition highlights VPBank's commitment to sustainable and green energy practices.
-
-- Source: [CafeF](https://cafef.vn/vpbank-duoc-vinh-danh-doanh-nghiep-hang-dau-ve-nang-luong-moi-truong-xanh-18826070916481052.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
-- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
 
 ---
 

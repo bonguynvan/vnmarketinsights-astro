@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-19"
-lastUpdated: "2026-07-19"
+publishedDate: "2026-07-20"
+lastUpdated: "2026-07-20"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thống đốc cập nhật loạt giải pháp khơi thông vốn cho doanh nghiệp: Mở rộng cho vay ngoại tệ, bổ sung chính sách nhận tài sản bảo đảm phục vụ phát hành trái phiếu**  
+
+Vietnam's State Bank Governor Pham Duc An announced that the central bank is researching ways to expand foreign currency lending eligibility and proposing mechanisms for commercial banks to participate in managing collateral assets for corporate bond issuance. The measures aim to improve capital access for enterprises.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-cap-nhat-loat-giai-phap-khoi-thong-von-cho-doanh-nghiep-mo-rong-cho-vay-ngoai-te-bo-sung-chinh-sach-nhan-tai-san-bao-dam-phuc-vu-phat-hanh-trai-phieu-188260720164218963.chn)
 
 **Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
 
@@ -78,12 +84,6 @@ A dialogue conference was held on July 10 between Ho Chi Minh City authorities, 
 The Vietnamese government approved a capital increase for a state-owned bank through Prime Minister Decision No. 1206/QĐ-TTg dated July 6, 2026. The bank's charter capital will increase from 51.638 trillion dong to 81.328 trillion dong, a supplementary injection of approximately 30 trillion dong. This capital increase is part of the bank's development program for the 2025-2027 period.
 
 - Source: [CafeF](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn)
-
-**VAMC có thêm nữ lãnh đạo**  
-
-The State Bank of Vietnam held a ceremony on July 6 to announce the appointment of Ms. Đỗ Thu Hạnh to the position of Member of the Board of Members at VAMC (Vietnam Asset Management Company). Ms. Đỗ Thu Hạnh previously served as Deputy Head of the Party Organization Department of the State Bank of Vietnam. The appointment was made through Decision No. 1414/QĐ-NHNN dated June 30, 2026, issued by the Governor of the State Bank of Vietnam.
-
-- Source: [CafeF](https://cafef.vn/vamc-co-them-nu-lanh-dao-188260707153623547.chn)
 
 ## Related coverage
 

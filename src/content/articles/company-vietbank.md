@@ -1,8 +1,8 @@
 ---
 title: "VietBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietBank, with neutral summaries and source links."
-publishedDate: "2026-07-19"
-lastUpdated: "2026-07-19"
+publishedDate: "2026-07-20"
+lastUpdated: "2026-07-20"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **VietBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm**  
+
+Vietnamese banks released their first-half 2024 earnings results during an active reporting season. Multiple banks including VPBank, ABBank, Vietbank, PGBank, BVBank, and MSB reported significant profit increases, while some banks faced declining profits due to capital cost pressures and loan loss provisions. MSB recorded profit exceeding 3,400 billion VND in the first half of the year.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn)
 
 **Chủ tịch Tập đoàn Hoa Lâm - bà Trần Thị Lâm đăng ký mua 22 triệu cổ phiếu VBB**  
 
@@ -63,10 +69,10 @@ VietBank's VBB stock rose more than 11% on the morning of June 26, reaching 13,9
 
 ## Related coverage
 
-- [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
-- [Tuần tới, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ](https://cafef.vn/tuan-toi-san-hose-se-co-them-mot-ngan-hang-ban-lanh-dao-nam-11-von-loi-nhuan-6-thang-cao-gap-5-lan-cung-ky-188260720003725915.chn) — CafeF
+- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
+- [Tuần tới, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ](https://cafef.vn/tuan-toi-san-hose-se-co-them-mot-ngan-hang-ban-lanh-dao-nam-11-von-loi-nhuan-6-thang-cao-gap-5-lan-cung-ky-188260720003725915.chn) — CafeF
+- [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
 
 ---
 
