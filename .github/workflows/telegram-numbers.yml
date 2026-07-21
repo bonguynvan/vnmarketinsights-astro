@@ -19,13 +19,14 @@ permissions:
 jobs:
   post:
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-
+      
       - name: Post weekly "by the numbers" to Telegram
         env:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
