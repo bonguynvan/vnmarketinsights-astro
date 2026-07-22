@@ -1,0 +1,151 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Start by Job — What Do You Need to Do in Vietnam?";
+const description = "Pick your job: sell into Vietnam, accept payments, enter and register a company, or research a category. Each routes to the hubs, guides, comparisons, and tools you need.";
+const canonical = "https://vnmarketinsights.com/start-by-job/";
+
+interface JobLink { label: string; href: string; }
+interface Job { title: string; blurb: string; links: JobLink[]; }
+
+const jobs: Job[] = [
+  {
+    title: 'Sell into Vietnam',
+    blurb: 'Enter the marketplace-first way — pick a channel, price for landed cost, and launch on Shopee or TikTok Shop.',
+    links: [
+      { label: 'E-commerce market overview', href: '/ecommerce/' },
+      { label: 'Cross-border e-commerce guide', href: '/guides/cross-border-ecommerce-into-vietnam/' },
+      { label: 'Shopee vs Lazada vs TikTok Shop', href: '/compare/shopee-vs-lazada-vs-tiktok-shop/' },
+      { label: 'Sell on Shopee', href: '/guides/how-to-sell-on-shopee-vietnam/' },
+      { label: 'Sell on TikTok Shop', href: '/guides/how-to-sell-on-tiktok-shop-vietnam/' },
+      { label: 'Platform shares dataset (2025)', href: '/data/vietnam-ecommerce-platform-shares/' },
+    ],
+  },
+  {
+    title: 'Accept payments',
+    blurb: 'Choose how to get paid — wallets, bank transfer, QR, or COD replacement — and the right provider for your model.',
+    links: [
+      { label: 'Payments overview', href: '/payments/' },
+      { label: 'How to accept payments in Vietnam', href: '/guides/how-to-accept-payments-in-vietnam/' },
+      { label: 'MoMo vs ZaloPay vs ViettelPay', href: '/compare/momo-vs-zalopay-vs-viettelpay/' },
+      { label: 'Fintech landscape', href: '/fintech/' },
+    ],
+  },
+  {
+    title: 'Enter & register',
+    blurb: 'Set up legally — company registration, licensing, foreign-investment rules, and work permits.',
+    links: [
+      { label: 'Market entry guide', href: '/guides/vietnam-market-entry-guide/' },
+      { label: 'Register a company', href: '/guides/how-to-register-a-company-in-vietnam/' },
+      { label: 'Regulatory environment', href: '/regulations/' },
+      { label: 'Foreign investment law', href: '/guides/vietnam-foreign-investment-law/' },
+      { label: 'Work permits for expats', href: '/guides/work-permits-for-expats-in-vietnam/' },
+    ],
+  },
+  {
+    title: 'Research a category (go / no-go)',
+    blurb: 'Size the opportunity before you commit — sector hubs, sourced 2025 statistics, and live cited research.',
+    links: [
+      { label: 'All sector hubs', href: '/topics/' },
+      { label: 'E-commerce statistics 2026', href: '/stats/vietnam-ecommerce-2026/' },
+      { label: 'Consumer & internet statistics', href: '/stats/vietnam-consumer-internet-2026/' },
+      { label: 'Live cited research', href: '/research/' },
+    ],
+  },
+];
+
+const secondary = {
+  title: 'Invest in Vietnam',
+  blurb: 'A separate track for investors — the stock market, outlook board, and financial-market reference.',
+  links: [
+    { label: 'Financial markets overview', href: '/financial-markets/' },
+    { label: 'Stock outlook board', href: '/markets/' },
+    { label: 'Stock market statistics 2026', href: '/stats/vietnam-stock-market-2026/' },
+    { label: 'How to invest in the stock market', href: '/guides/how-to-invest-in-vietnam-stock-market/' },
+  ],
+};
+
+const site = "https://vnmarketinsights.com";
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam market jobs-to-be-done",
+  "numberOfItems": jobs.length,
+  "itemListElement": jobs.map((j, idx) => ({
+    "@type": "ListItem",
+    "position": idx + 1,
+    "name": j.title,
+  })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="CollectionPage"
+  structuredData={itemListSchema}
+  mainClass="container"
+>
+  <article class="jobs-page">
+    <header class="jobs-header">
+      <h1>What do you need to do in Vietnam?</h1>
+      <p class="jobs-lead">
+        Start with the job, not the topic. Each path bundles the reference hub, the how-to guide,
+        the comparison, and the tool you need to get it done.
+      </p>
+    </header>
+
+    <section>
+      <div class="jobs-grid">
+        {jobs.map((job) => (
+          <div class="job-card">
+            <h2 class="job-card__title">{job.title}</h2>
+            <p class="job-card__blurb">{job.blurb}</p>
+            <ul class="job-card__links">
+              {job.links.map((l) => (
+                <li><a href={l.href} data-track-event="job_link_click" data-track-label={l.href}>{l.label}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="jobs-secondary">
+      <h2 class="jobs-secondary__title">{secondary.title}</h2>
+      <p class="jobs-secondary__blurb">{secondary.blurb}</p>
+      <ul class="jobs-secondary__links">
+        {secondary.links.map((l) => (
+          <li><a href={l.href} data-track-event="job_link_click" data-track-label={l.href}>{l.label}</a></li>
+        ))}
+      </ul>
+    </section>
+
+    <p class="jobs-footer">
+      Prefer to browse? <a href="/topics/">All topics</a> · <a href="/guides/">All guides</a> · <a href="/tools/">Tools &amp; data</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .jobs-page { max-width: var(--reading-width); }
+  .jobs-header { margin-bottom: var(--space-8); }
+  .jobs-header h1 { border: none; margin-bottom: var(--space-3); }
+  .jobs-lead { color: var(--color-text-muted); font-size: var(--text-lg); line-height: 1.6; max-width: 640px; }
+  .jobs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--space-5); }
+  .job-card { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-5); background: var(--color-bg-subtle); display: flex; flex-direction: column; gap: var(--space-2); }
+  .job-card__title { margin: 0; font-size: var(--text-xl); border: none; color: var(--color-text); }
+  .job-card__blurb { color: var(--color-text-muted); font-size: var(--text-sm); line-height: 1.55; margin: 0 0 var(--space-2); }
+  .job-card__links { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: var(--space-1); }
+  .job-card__links a { color: var(--color-accent); text-decoration: none; font-size: var(--text-sm); font-weight: 500; }
+  .job-card__links a:hover { text-decoration: underline; }
+  .jobs-secondary { margin-top: var(--space-10); padding: var(--space-5); border: 1px dashed var(--color-border); border-radius: 2px; }
+  .jobs-secondary__title { margin-top: 0; border: none; font-size: var(--text-lg); }
+  .jobs-secondary__blurb { color: var(--color-text-muted); font-size: var(--text-sm); margin-bottom: var(--space-3); }
+  .jobs-secondary__links { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: var(--space-4); }
+  .jobs-secondary__links a { color: var(--color-accent); text-decoration: none; font-size: var(--text-sm); font-weight: 500; }
+  .jobs-secondary__links a:hover { text-decoration: underline; }
+  .jobs-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .jobs-footer a { color: var(--color-accent); }
+</style>
