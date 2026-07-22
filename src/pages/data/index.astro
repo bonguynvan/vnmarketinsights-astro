@@ -1,0 +1,82 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Data & Benchmarks — Vietnam Market Datasets";
+const description = "Free, sourced, date-stamped first-party datasets on Vietnam's market: e-commerce platform shares, and more. Reference figures you can cite.";
+const canonical = "https://vnmarketinsights.com/data/";
+
+const datasets = [
+  {
+    slug: 'vietnam-ecommerce-platform-shares',
+    title: 'E-commerce Platform Market Shares 2025',
+    description: '2025 GMV share, growth, and active sellers for Shopee, TikTok Shop, Lazada, and Tiki.',
+    updated: '2026-07-22',
+  },
+];
+
+const site = "https://vnmarketinsights.com";
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Vietnam Market Datasets",
+  "numberOfItems": datasets.length,
+  "itemListElement": datasets.map((d, idx) => ({
+    "@type": "ListItem",
+    "position": idx + 1,
+    "url": `${site}/data/${d.slug}/`,
+    "name": d.title,
+  })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="CollectionPage"
+  structuredData={itemListSchema}
+  mainClass="container"
+>
+  <article class="data-index">
+    <header class="data-index__header">
+      <h1>Data &amp; Benchmarks</h1>
+      <p class="data-index__lead">
+        Free, sourced, date-stamped datasets on Vietnam's market — reference figures you can cite,
+        embed, and build decisions on. Each dataset lists its methodology and primary source.
+      </p>
+    </header>
+
+    <section>
+      <ul class="dataset-list">
+        {datasets.map(d => (
+          <li class="dataset-card">
+            <a href={`/data/${d.slug}/`} class="dataset-card__link">
+              <span class="dataset-card__title">{d.title}</span>
+              <span class="dataset-card__desc">{d.description}</span>
+              <span class="dataset-card__meta">Updated {d.updated}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <p class="data-index__footer">
+      <a href="/sources/">Data sources &amp; methodology</a> · <a href="/">Home</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .data-index { max-width: var(--reading-width); }
+  .data-index__header { margin-bottom: var(--space-8); }
+  .data-index__header h1 { border: none; margin-bottom: var(--space-3); }
+  .data-index__lead { color: var(--color-text-muted); font-size: var(--text-lg); line-height: 1.6; max-width: 640px; }
+  .dataset-list { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: var(--space-4); }
+  .dataset-card__link { display: flex; flex-direction: column; gap: var(--space-2); padding: var(--space-5); border: 1px solid var(--color-border-light); border-radius: 2px; background: var(--color-bg-subtle); text-decoration: none; transition: border-color 0.2s ease, background 0.2s ease; }
+  .dataset-card__link:hover { border-color: var(--color-accent); background: var(--color-bg); text-decoration: none; }
+  .dataset-card__title { font-weight: 700; color: var(--color-text); font-size: var(--text-lg); line-height: 1.3; }
+  .dataset-card__desc { color: var(--color-text-muted); font-size: var(--text-sm); line-height: 1.5; }
+  .dataset-card__meta { font-size: var(--text-xs); color: var(--color-text-light, var(--color-text-muted)); font-style: italic; }
+  .data-index__footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .data-index__footer a { color: var(--color-accent); }
+</style>

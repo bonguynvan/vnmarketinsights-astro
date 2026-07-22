@@ -1,0 +1,185 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import CiteThis from '@components/CiteThis.astro';
+import {
+  PLATFORMS,
+  PLATFORM_MARKET,
+  ECOMMERCE_AS_OF,
+  ECOMMERCE_UPDATED,
+  ECOMMERCE_PRIMARY_SOURCE,
+} from '../../data/ecommerce-platforms';
+
+const title = "Vietnam E-commerce Platform Market Shares 2025 — GMV & Seller Data";
+const description = "First-party benchmark dataset: 2025 GMV market share, growth, and active sellers for Shopee, TikTok Shop, Lazada, and Tiki in Vietnam — date-stamped, sourced, free to cite.";
+const canonical = "https://vnmarketinsights.com/data/vietnam-ecommerce-platform-shares/";
+
+const datasetSchema = {
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vietnam E-commerce Platform Market Shares 2025",
+  "description": "GMV market share, year-on-year change, and active-seller counts for Vietnam's four largest e-commerce marketplaces (Shopee, TikTok Shop, Lazada, Tiki) for full-year 2025.",
+  "url": canonical,
+  "temporalCoverage": "2025",
+  "dateModified": ECOMMERCE_UPDATED,
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "VN Market Insights",
+    "url": "https://vnmarketinsights.com/",
+  },
+  "license": "https://vnmarketinsights.com/sources/",
+  "keywords": ["Vietnam e-commerce", "market share", "GMV", "Shopee", "TikTok Shop", "Lazada", "Tiki", "online retail"],
+  "variableMeasured": [
+    "GMV market share (%)",
+    "GMV year-on-year change",
+    "Active seller count",
+    "Total marketplace GMV",
+  ],
+  "citation": "Metric — Vietnam E-commerce Report, full-year 2025",
+};
+
+const totals = [
+  { label: 'Four-platform GMV (2025)', value: PLATFORM_MARKET.gmvUsd, note: PLATFORM_MARKET.gmvVnd },
+  { label: 'GMV growth', value: PLATFORM_MARKET.gmvGrowth, note: 'Year on year' },
+  { label: 'Products sold', value: PLATFORM_MARKET.productsSold, note: 'Across the four platforms' },
+  { label: 'Active sellers', value: '~601,800', note: PLATFORM_MARKET.totalSellers },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Data"
+  publishedDate="2026-07-22"
+  lastUpdated={ECOMMERCE_UPDATED}
+  structuredData={datasetSchema}
+  mainClass="container"
+>
+  <article class="data-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/data/">Data</a>
+      <span aria-hidden="true">/</span>
+      <span>E-commerce Platform Shares 2025</span>
+    </nav>
+
+    <header class="data-header">
+      <h1>{title}</h1>
+      <p class="data-lead">
+        A free, sourced benchmark of Vietnam's e-commerce marketplace landscape for
+        <strong>{ECOMMERCE_AS_OF}</strong>: GMV market share, year-on-year direction, and active
+        sellers for Shopee, TikTok Shop, Lazada, and Tiki. Figures are reference estimates; see the
+        methodology note below and <a href="/sources/">our sources</a>.
+      </p>
+      <p class="data-meta">Updated {ECOMMERCE_UPDATED} · Primary source: {ECOMMERCE_PRIMARY_SOURCE}</p>
+    </header>
+
+    <section>
+      <h2>Market totals ({ECOMMERCE_AS_OF})</h2>
+      <div class="totals-grid">
+        {totals.map(t => (
+          <div class="total-card">
+            <div class="total-value">{t.value}</div>
+            <div class="total-label">{t.label}</div>
+            <div class="total-note">{t.note}</div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section>
+      <h2>Platform market shares</h2>
+      <div class="data-table-wrap">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Platform</th>
+              <th>Parent</th>
+              <th>GMV share (2025)</th>
+              <th>vs 2024</th>
+              <th>Active sellers</th>
+            </tr>
+          </thead>
+          <tbody>
+            {PLATFORMS.map(p => (
+              <tr>
+                <th scope="row">{p.name}</th>
+                <td>{p.parent}</td>
+                <td class="num">{p.gmvShareDisplay}</td>
+                <td>{p.changeVs2024}</td>
+                <td>{p.activeSellers}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">
+        Shares are percent of four-platform marketplace GMV and sum to ~100%. Seller counts mix
+        full-year totals with H1 2025 per-platform figures; treat them as directional. Per-row
+        sources: {PLATFORMS.map(p => p.source).filter((s, i, a) => a.indexOf(s) === i).join('; ')}.
+      </p>
+    </section>
+
+    <section>
+      <h2>Methodology &amp; caveats</h2>
+      <p>{PLATFORM_MARKET.methodology}</p>
+      <p>
+        This dataset is free to cite and reuse with attribution. It is a reference compilation, not
+        audited financials — verify against the primary source before relying on a specific figure.
+        For definitions, see our <a href="/glossary/gmv/">GMV</a> and
+        <a href="/glossary/marketplace/">marketplace</a> glossary entries.
+      </p>
+    </section>
+
+    <CiteThis title="Vietnam E-commerce Platform Market Shares 2025" url={canonical} updated={ECOMMERCE_UPDATED} />
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop — full comparison</a></li>
+        <li><a href="/ecommerce/">Vietnam E-commerce Market — overview</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce Statistics 2026</a></li>
+        <li><a href="/data/">All datasets &amp; benchmarks</a> · <a href="/sources/">Data sources &amp; methodology</a></li>
+      </ul>
+    </section>
+
+    <p class="data-footer">
+      <a href="/data/">← All datasets</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .data-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .data-header { margin-bottom: var(--space-8); }
+  .data-header h1 { border: none; margin-bottom: var(--space-3); }
+  .data-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .data-lead a { color: var(--color-accent); }
+  .data-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  section { margin-bottom: var(--space-10); }
+  .totals-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: var(--space-4); }
+  .total-card { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-4); background: var(--color-bg-subtle); }
+  .total-value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-accent); line-height: 1.1; margin-bottom: var(--space-2); }
+  .total-label { font-weight: 600; color: var(--color-text); line-height: 1.4; margin-bottom: var(--space-1); }
+  .total-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.5; }
+  .data-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .data-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .data-table th, .data-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; vertical-align: top; }
+  .data-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .data-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .data-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .data-page section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .data-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .data-footer a { color: var(--color-text-muted); }
+  .data-footer a:hover { color: var(--color-accent); }
+</style>
