@@ -1,0 +1,199 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { PLATFORMS, PLATFORM_MARKET, ECOMMERCE_AS_OF } from '../data/ecommerce-platforms';
+
+const title = "Sell Into Vietnam 2026 — The Cross-Border Operator's Playbook";
+const description = "A step-by-step playbook for selling into Vietnam marketplace-first: size the category, pick a channel, price for landed cost and duties, model platform fees, set up payments and logistics, and launch compliantly.";
+const canonical = "https://vnmarketinsights.com/sell-into-vietnam/";
+
+const steps = [
+  { n: 1, name: 'Size the opportunity', text: 'Check the category size, growth, and platform mix before committing.' },
+  { n: 2, name: 'Pick a channel', text: 'Choose Shopee, TikTok Shop, or Lazada by category, model, and audience.' },
+  { n: 3, name: 'Price for landed cost', text: 'Add import duty and 10% VAT — there is no tax-free threshold since Feb 2025.' },
+  { n: 4, name: 'Model platform fees', text: 'Commission, ads, and per-order tax withholding cut into your net payout.' },
+  { n: 5, name: 'Set up payments & logistics', text: 'Wire up settlement, wallets/QR, and last-mile delivery.' },
+  { n: 6, name: 'Launch & comply', text: 'Meet the E-Commerce Law 2025 rules, then scale or set up a local entity.' },
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to sell into Vietnam (cross-border, marketplace-first)",
+  "description": description,
+  "step": steps.map(s => ({ "@type": "HowToStep", "name": s.name, "text": s.text })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Playbook"
+  publishedDate="2026-07-22"
+  lastUpdated="2026-07-22"
+  structuredData={howToSchema}
+  mainClass="container"
+>
+  <article class="sell-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/start-by-job/">Start by job</a>
+      <span aria-hidden="true">/</span>
+      <span>Sell into Vietnam</span>
+    </nav>
+
+    <header class="sell-header">
+      <h1>Sell Into Vietnam: the cross-border operator's playbook</h1>
+      <p class="sell-lead">
+        The fastest way into Vietnam is <strong>marketplace-first</strong> — list on Shopee or
+        TikTok Shop and validate demand before you set up a local entity. This playbook walks the
+        six decisions in order, linking the reference, the how-to, and the calculator you need at
+        each step. Data is full-year 2025 unless noted.
+      </p>
+      <ol class="sell-spine">
+        {steps.map(s => <li><a href={`#step-${s.n}`}><span class="sell-spine__n">{s.n}</span>{s.name}</a></li>)}
+      </ol>
+    </header>
+
+    <section id="step-1" class="sell-step">
+      <h2><span class="sell-step__n">1</span> Size the opportunity</h2>
+      <p>
+        Vietnam's four-platform marketplace GMV hit <strong>{PLATFORM_MARKET.gmvUsd}</strong>
+        ({PLATFORM_MARKET.gmvVnd}) in {ECOMMERCE_AS_OF}, up {PLATFORM_MARKET.gmvGrowth} on
+        {' '}{PLATFORM_MARKET.productsSold}. But the share split matters more than the total —
+        the market has consolidated hard onto two platforms.
+      </p>
+      <div class="sell-table-wrap">
+        <table class="sell-table">
+          <thead><tr><th>Platform</th><th>GMV share (2025)</th><th>Direction</th></tr></thead>
+          <tbody>
+            {PLATFORMS.map(p => (
+              <tr>
+                <th scope="row">{p.name}</th>
+                <td class="num">{p.gmvShareDisplay}</td>
+                <td>{p.changeVs2024}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="sell-links">
+        Go deeper: <a href="/ecommerce/">E-commerce overview</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce statistics 2026</a> · <a href="/data/vietnam-ecommerce-platform-shares/">platform-shares dataset</a>
+      </p>
+    </section>
+
+    <section id="step-2" class="sell-step">
+      <h2><span class="sell-step__n">2</span> Pick a channel</h2>
+      <p>
+        <strong>Shopee (~56%)</strong> is the volume play for price-competitive general merchandise.
+        <strong>TikTok Shop (~41%)</strong> — now second after overtaking Lazada — wins for anything
+        that demonstrates on video (fashion, beauty, FMCG) via livestream. <strong>Lazada</strong> is
+        a niche authorized-brand channel (LazMall). Most serious sellers list on at least two.
+      </p>
+      <p class="sell-links">
+        Compare: <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a> · <a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a>
+      </p>
+    </section>
+
+    <section id="step-3" class="sell-step">
+      <h2><span class="sell-step__n">3</span> Price for landed cost</h2>
+      <p>
+        Vietnam taxes imports on the CIF value: <strong>import duty (0–30%+ by HS code) plus 10% VAT</strong>.
+        Crucially, the low-value de-minimis exemption was <strong>removed on 18 February 2025</strong>,
+        so there is no longer a tax-free threshold — even small parcels are taxed, and cross-border
+        landed costs rose 30–50%. Price this in before you set a shelf price.
+      </p>
+      <p class="sell-cta">
+        <a class="sell-cta__btn" href="/tools/landed-cost-calculator/" data-track-event="sell_cta_click" data-track-label="landed_cost_calculator">Estimate your landed cost →</a>
+      </p>
+    </section>
+
+    <section id="step-4" class="sell-step">
+      <h2><span class="sell-step__n">4</span> Model platform fees &amp; net payout</h2>
+      <p>
+        Headline commission runs roughly 2–5% by category, but the real take rate — after payment
+        fees, ad/voucher spend for visibility, and free-shipping programs — often lands in the
+        <strong>10–20%</strong> range for promoted sellers. On top, since <strong>1 July 2025</strong>
+        platforms with a payment function <strong>withhold tax per order</strong> (for goods, 1% VAT
+        plus 0.5% personal income tax for resident sellers, or 1% for non-residents). Model your net
+        payout per order, not the sticker price.
+      </p>
+      <p class="sell-links">
+        Reference: <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">platform fee comparison</a> · <a href="/guides/cross-border-ecommerce-into-vietnam/">cross-border guide</a>
+      </p>
+    </section>
+
+    <section id="step-5" class="sell-step">
+      <h2><span class="sell-step__n">5</span> Set up payments &amp; logistics</h2>
+      <p>
+        Vietnam is going cashless fast — QR and e-wallets (MoMo, ZaloPay, VNPay) are displacing
+        cash-on-delivery, and the marketplaces settle cross-border payouts to eligible accounts.
+        For delivery, platform logistics (SPX, LEX) and independents (GHN, GHTK, J&amp;T) cover
+        nationwide, with 1–2 day metro delivery.
+      </p>
+      <p class="sell-links">
+        Go deeper: <a href="/payments/">Payments overview</a> · <a href="/guides/how-to-accept-payments-in-vietnam/">accept payments</a> · <a href="/logistics/">logistics &amp; last-mile</a>
+      </p>
+    </section>
+
+    <section id="step-6" class="sell-step">
+      <h2><span class="sell-step__n">6</span> Launch &amp; comply — then scale</h2>
+      <p>
+        The <strong>E-Commerce Law 2025</strong> takes effect <strong>1 July 2026</strong> and tightens
+        rules on foreign platforms and sellers — a local representative, VNeID seller verification,
+        deposits, and joint liability. Cross-border is best for validating demand cheaply; once
+        volume justifies it, graduate to local stocking or a registered entity for faster delivery
+        and better economics.
+      </p>
+      <p class="sell-links">
+        Comply &amp; scale: <a href="/regulations/">regulatory environment</a> · <a href="/guides/vietnam-market-entry-guide/">market entry guide</a> · <a href="/guides/how-to-register-a-company-in-vietnam/">register a company</a>
+      </p>
+    </section>
+
+    <section class="sell-step">
+      <h2>Sources</h2>
+      <ul class="sources-list">
+        <li>Metric — Vietnam e-commerce report, full-year 2025 (GMV and platform shares)</li>
+        <li>Decision 01/2025/QD-TTg (de-minimis repeal); Decree 117/2025/ND-CP (per-order withholding); E-Commerce Law 2025 (No. 122/2025/QH15)</li>
+        <li>Vietnam Customs; State Bank of Vietnam (cashless data); company disclosures</li>
+      </ul>
+    </section>
+
+    <p class="sell-footer">
+      <a href="/start-by-job/">← All jobs</a> · <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .sell-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .sell-header { margin-bottom: var(--space-8); }
+  .sell-header h1 { border: none; margin-bottom: var(--space-3); }
+  .sell-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .sell-spine { list-style: none; padding: 0; margin: var(--space-6) 0 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+  .sell-spine li a { display: inline-flex; align-items: center; gap: var(--space-2); padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border-light); border-radius: 999px; font-size: var(--text-sm); font-weight: 600; color: var(--color-text-muted); text-decoration: none; }
+  .sell-spine li a:hover { border-color: var(--color-accent); color: var(--color-accent); }
+  .sell-spine__n { display: inline-flex; align-items: center; justify-content: center; width: 1.4em; height: 1.4em; border-radius: 50%; background: var(--color-accent); color: #fff; font-size: 0.72em; }
+  .sell-step { margin-bottom: var(--space-10); scroll-margin-top: calc(var(--header-height) + var(--space-4)); }
+  .sell-step h2 { display: flex; align-items: center; gap: var(--space-3); border: none; }
+  .sell-step__n { display: inline-flex; align-items: center; justify-content: center; width: 1.5em; height: 1.5em; border-radius: 50%; background: var(--color-ink); color: #fff; font-size: 0.7em; flex-shrink: 0; }
+  .sell-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .sell-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .sell-table th, .sell-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; }
+  .sell-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .sell-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .sell-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); }
+  .sell-links { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sell-links a { color: var(--color-accent); }
+  .sell-cta { margin: var(--space-4) 0; }
+  .sell-cta__btn { display: inline-flex; padding: var(--space-3) var(--space-5); border-radius: 999px; background: var(--color-accent); color: #fff; font-weight: 700; text-decoration: none; }
+  .sell-cta__btn:hover { background: var(--color-accent-hover, #000); color: #fff; }
+  .sell-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sell-footer a { color: var(--color-text-muted); }
+  .sell-footer a:hover { color: var(--color-accent); }
+</style>

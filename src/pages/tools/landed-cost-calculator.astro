@@ -1,0 +1,246 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Landed-Cost & Import-Duty Calculator (2026)";
+const description = "Free calculator: estimate the landed cost of goods imported into Vietnam — import duty + 10% VAT on the CIF value. Reflects the removed low-value de-minimis exemption (Feb 2025).";
+const canonical = "https://vnmarketinsights.com/tools/landed-cost-calculator/";
+
+// Illustrative typical MFN duty rates by category. HS-code specific in reality —
+// the duty field is editable and the page says so loudly.
+const categories = [
+  { name: 'Apparel & garments', rate: 20 },
+  { name: 'Footwear', rate: 30 },
+  { name: 'Cosmetics & skincare', rate: 20 },
+  { name: 'Consumer electronics', rate: 10 },
+  { name: 'Home & kitchen', rate: 20 },
+  { name: 'Toys & games', rate: 15 },
+  { name: 'Supplements & packaged food', rate: 15 },
+  { name: 'Furniture', rate: 25 },
+  { name: 'Accessories & jewelry', rate: 20 },
+];
+
+// Server-rendered worked example so the page has real content without JS.
+const d = { goods: 100, ship: 15, duty: 20, vat: 10, cur: 'USD' };
+const cif = d.goods + d.ship;
+const dutyAmt = cif * d.duty / 100;
+const vatAmt = (cif + dutyAmt) * d.vat / 100;
+const tax = dutyAmt + vatAmt;
+const landed = cif + tax;
+const eff = (tax / cif) * 100;
+const f = (n: number) => n.toFixed(2);
+
+const appSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vietnam Landed-Cost & Import-Duty Calculator",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "url": canonical,
+  "description": description,
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "creator": { "@type": "Organization", "name": "VN Market Insights", "url": "https://vnmarketinsights.com/" },
+};
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to estimate the landed cost of imports into Vietnam",
+  "step": [
+    { "@type": "HowToStep", "name": "Find the CIF value", "text": "Add the goods value, international shipping, and insurance to get the CIF (cost, insurance, freight) value." },
+    { "@type": "HowToStep", "name": "Apply import duty", "text": "Multiply the CIF value by the import-duty rate for your HS code (0–30%+; often 0% under an FTA with a valid Certificate of Origin)." },
+    { "@type": "HowToStep", "name": "Apply VAT", "text": "Apply 10% VAT to the CIF value plus the import duty." },
+    { "@type": "HowToStep", "name": "Total the landed cost", "text": "Add CIF + import duty + VAT (plus any special consumption tax) for the total landed cost." },
+  ],
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Tools"
+  publishedDate="2026-07-22"
+  lastUpdated="2026-07-22"
+  structuredData={[appSchema, howToSchema]}
+  mainClass="container"
+>
+  <article class="lc-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/tools/">Tools</a>
+      <span aria-hidden="true">/</span>
+      <span>Landed-Cost Calculator</span>
+    </nav>
+
+    <header class="lc-header">
+      <h1>Vietnam Landed-Cost &amp; Import-Duty Calculator</h1>
+      <p class="lc-lead">
+        Estimate what imported goods actually cost to land in Vietnam: <strong>import duty on the CIF
+        value, plus 10% VAT</strong> on top. Since <strong>18 February 2025</strong> there is
+        <strong>no low-value de-minimis exemption</strong> — even small parcels are taxed.
+      </p>
+    </header>
+
+    <section class="lc-tool" aria-label="Landed cost calculator">
+      <form class="lc-form" id="lc-form" novalidate>
+        <div class="lc-field">
+          <label for="lc-cur">Currency label</label>
+          <input type="text" id="lc-cur" value={d.cur} maxlength="5" autocomplete="off" />
+          <span class="lc-hint">Enter all values in one currency; results use the same.</span>
+        </div>
+        <div class="lc-field">
+          <label for="lc-goods">Goods value</label>
+          <input type="number" id="lc-goods" value={d.goods} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="lc-ship">Shipping &amp; insurance</label>
+          <input type="number" id="lc-ship" value={d.ship} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="lc-cat">Category (sets a typical duty rate)</label>
+          <select id="lc-cat">
+            {categories.map(c => (
+              <option value={c.rate} selected={c.rate === d.duty && c.name === 'Apparel & garments'}>{c.name} (~{c.rate}%)</option>
+            ))}
+            <option value="">Custom / enter manually</option>
+          </select>
+        </div>
+        <div class="lc-field">
+          <label for="lc-duty">Import-duty rate (%)</label>
+          <input type="number" id="lc-duty" value={d.duty} min="0" step="any" inputmode="decimal" />
+          <span class="lc-hint">HS-code specific. An FTA (CPTPP, EVFTA, RCEP, ATIGA) with a valid C/O can cut this, often to 0%.</span>
+        </div>
+        <div class="lc-field">
+          <label for="lc-vat">VAT rate (%)</label>
+          <input type="number" id="lc-vat" value={d.vat} min="0" step="any" inputmode="decimal" />
+          <span class="lc-hint">Standard 10%; a few categories are 5% or 8%.</span>
+        </div>
+      </form>
+
+      <div class="lc-results" aria-live="polite">
+        <h2>Estimated landed cost</h2>
+        <table class="lc-table">
+          <tbody>
+            <tr><th scope="row">CIF value (goods + shipping)</th><td><span class="lc-cur">{d.cur}</span> <span id="r-cif">{f(cif)}</span></td></tr>
+            <tr><th scope="row">Import duty</th><td><span class="lc-cur">{d.cur}</span> <span id="r-duty">{f(dutyAmt)}</span></td></tr>
+            <tr><th scope="row">VAT (on CIF + duty)</th><td><span class="lc-cur">{d.cur}</span> <span id="r-vat">{f(vatAmt)}</span></td></tr>
+            <tr><th scope="row">Total tax</th><td><span class="lc-cur">{d.cur}</span> <span id="r-tax">{f(tax)}</span></td></tr>
+            <tr class="lc-total"><th scope="row">Total landed cost</th><td><span class="lc-cur">{d.cur}</span> <span id="r-landed">{f(landed)}</span></td></tr>
+            <tr><th scope="row">Effective tax on CIF</th><td><span id="r-eff">{f(eff)}%</span></td></tr>
+          </tbody>
+        </table>
+        <p class="lc-disclaimer">
+          Estimate only, not tax advice. Duty is HS-code specific; some goods also carry Special
+          Consumption Tax (e.g. alcohol, tobacco, cars) or environmental tax. Confirm your exact HS
+          code and any FTA eligibility before pricing.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>How landed cost is calculated</h2>
+      <p>Vietnam taxes imports on the <strong>CIF value</strong> (cost + insurance + freight):</p>
+      <ol class="lc-formula">
+        <li><strong>CIF</strong> = goods value + international shipping + insurance</li>
+        <li><strong>Import duty</strong> = CIF × duty rate (0–30%+ by HS code; 0% is common under an FTA with a valid Certificate of Origin)</li>
+        <li><strong>VAT</strong> = (CIF + import duty) × 10%</li>
+        <li><strong>Total landed cost</strong> = CIF + import duty + VAT (+ any special consumption tax)</li>
+      </ol>
+      <p>
+        <strong>No more tax-free small parcels.</strong> Decision 01/2025/QD-TTg removed the
+        VND 1,000,000 duty-and-VAT exemption for express-delivered low-value imports, effective
+        18 February 2025 — so cross-border landed costs rose across the board. Separately, from
+        1 July 2025 e-commerce platforms with a payment function withhold tax per order. See the
+        <a href="/guides/cross-border-ecommerce-into-vietnam/">cross-border e-commerce guide</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam — the full playbook</a></li>
+        <li><a href="/guides/cross-border-ecommerce-into-vietnam/">Cross-border e-commerce guide</a> · <a href="/ecommerce/">E-commerce market overview</a></li>
+        <li><a href="/data/vietnam-ecommerce-platform-shares/">Platform shares dataset</a> · <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Platform comparison</a></li>
+        <li><a href="/tools/">All tools &amp; data</a> · <a href="/sources/">Data sources</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<script>
+  const $ = (id: string) => document.getElementById(id) as HTMLInputElement | HTMLSelectElement | null;
+  const fmt = (n: number) =>
+    (Math.round(n * 100) / 100).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+  function compute() {
+    const goods = parseFloat(($('lc-goods') as HTMLInputElement)?.value) || 0;
+    const ship = parseFloat(($('lc-ship') as HTMLInputElement)?.value) || 0;
+    const duty = parseFloat(($('lc-duty') as HTMLInputElement)?.value) || 0;
+    const vat = parseFloat(($('lc-vat') as HTMLInputElement)?.value) || 0;
+    const cur = (($('lc-cur') as HTMLInputElement)?.value || '').trim();
+
+    const cif = goods + ship;
+    const dutyAmt = cif * duty / 100;
+    const vatAmt = (cif + dutyAmt) * vat / 100;
+    const tax = dutyAmt + vatAmt;
+    const landed = cif + tax;
+    const eff = cif > 0 ? (tax / cif) * 100 : 0;
+
+    const set = (id: string, v: string) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+    set('r-cif', fmt(cif));
+    set('r-duty', fmt(dutyAmt));
+    set('r-vat', fmt(vatAmt));
+    set('r-tax', fmt(tax));
+    set('r-landed', fmt(landed));
+    set('r-eff', fmt(eff) + '%');
+    document.querySelectorAll('.lc-cur').forEach((el) => { el.textContent = cur; });
+  }
+
+  const cat = $('lc-cat') as HTMLSelectElement | null;
+  cat?.addEventListener('change', (e) => {
+    const v = (e.target as HTMLSelectElement).value;
+    const dutyEl = $('lc-duty') as HTMLInputElement | null;
+    if (v !== '' && dutyEl) dutyEl.value = v;
+    compute();
+  });
+  ['lc-goods', 'lc-ship', 'lc-duty', 'lc-vat', 'lc-cur'].forEach((id) => {
+    $(id)?.addEventListener('input', compute);
+  });
+  compute();
+</script>
+
+<style>
+  .lc-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .lc-header { margin-bottom: var(--space-6); }
+  .lc-header h1 { border: none; margin-bottom: var(--space-3); }
+  .lc-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lc-tool { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-6); margin: var(--space-6) 0 var(--space-10); align-items: start; }
+  .lc-form { display: flex; flex-direction: column; gap: var(--space-4); }
+  .lc-field { display: flex; flex-direction: column; gap: var(--space-1); }
+  .lc-field label { font-weight: 600; font-size: var(--text-sm); color: var(--color-text); }
+  .lc-field input, .lc-field select { padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-size: var(--text-base); }
+  .lc-field input:focus, .lc-field select:focus { outline: 2px solid var(--color-accent); outline-offset: 1px; border-color: var(--color-accent); }
+  .lc-hint { font-size: var(--text-xs); color: var(--color-text-muted); line-height: 1.4; }
+  .lc-results { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-5); background: var(--color-bg-subtle); }
+  .lc-results h2 { margin-top: 0; border: none; font-size: var(--text-lg); }
+  .lc-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .lc-table th, .lc-table td { padding: var(--space-2) 0; text-align: left; border-bottom: 1px solid var(--color-border-light); }
+  .lc-table td { text-align: right; font-variant-numeric: tabular-nums; }
+  .lc-table tbody th { font-weight: 500; color: var(--color-text-muted); }
+  .lc-table .lc-total th, .lc-table .lc-total td { font-weight: 700; font-size: var(--text-base); color: var(--color-accent); border-bottom: none; padding-top: var(--space-3); }
+  .lc-disclaimer { margin-top: var(--space-3); font-size: var(--text-xs); color: var(--color-text-muted); line-height: 1.5; }
+  section { margin-bottom: var(--space-10); }
+  .lc-formula { line-height: 1.7; padding-left: var(--space-6); }
+  .lc-page section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  @media (max-width: 720px) { .lc-tool { grid-template-columns: 1fr; } }
+</style>
