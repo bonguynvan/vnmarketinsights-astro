@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (25 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 21/7 đồng loạt hạ nhiệt**  
+
+On the evening of July 21st, domestic gold prices cooled considerably after a sharp morning rally. Gold bars closed at 146.4 million dong per tael, up 400,000 dong from the previous day but 1.2 million dong below the intraday high. The market showed modest gains compared to the prior session but retreated significantly from peak levels.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-21-7-dong-loat-ha-nhiet-18826072107290918.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm**  
 
@@ -78,12 +84,6 @@ Gold prices have fallen significantly below the 150 million dong per tael mark i
 Gold prices reversed course on the afternoon of July 9, rising approximately 500,000 VND per tael after three consecutive sessions of decline. SJC-branded bar gold was quoted at 146.0–149.0 million VND per tael, while SJC's 24-karat plain ring gold traded at 145.7–148.7 million VND per tael. Other retailers DOJI and PNJ offered competing quotes in the range of 144.8–148.8 and 145.0–148.5 million VND per tael respectively.
 
 - Source: [CafeF](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn)
-
-**Giá vàng SJC, giá vàng nhẫn trơn chiều 8/7**  
-
-Domestic gold prices in Vietnam continued to decline on the morning of July 8, marking the third consecutive session of downward movement. Gold prices fell between 500,000 to 1.2 million VND per tael compared to the previous day's close. At SJC Company, SJC gold bars were quoted at 146.5–149.5 million VND per tael, while plain gold rings were at 146.2–149.2 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-gia-vang-nhan-tron-chieu-8-7-188260708104022934.chn)
 
 ## Related coverage
 

@@ -1,17 +1,29 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá**  
+
+Techcombank's Q2 2026 profit reached a record level, with first-half earnings totaling 18.5 trillion Vietnamese dong, representing a 22.5% year-over-year increase. Service revenue achieved new highs among diversified growth drivers. The bank's non-performing loan ratio declined slightly to 1.15% quarter-over-quarter, while the NPL coverage ratio reached 125.5%, placing it among the industry leaders.
+
+- Source: [CafeF](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn)
+
+**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
+
+As of July 21, ten banks announced their first-half 2026 earnings results. VPBank leads private-sector banks with pre-tax profit of 18,880 billion dong, while Techcombank reported profit exceeding 18,500 billion dong. Several other banks including ABBank, Vietbank, PGBank, and BVBank recorded notably high profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
 **Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia**  
 
@@ -73,24 +85,12 @@ Multiple Vietnamese banks including Techcombank, VPBank, MB, HDBank, SHB, and MS
 
 - Source: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
 
-**Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life**  
-
-Techcombank approved a capital injection of 2.4 trillion VND into its subsidiary Techcom Life on June 30, 2026. This investment will increase Techcom Life's charter capital to 4.3 trillion VND, placing it among the top 10 life insurance companies in Vietnam by capital size. The capital increase is part of Techcombank's strategic initiatives.
-
-- Source: [CafeF](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn)
-
-**Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%**  
-
-A bank will set the record date for a nearly 30% dividend payout in the coming week. Shareholders of Kiên Long Bank (ticker: KLB) are expected to receive significant dividend information in the first trading week of July. This follows recent dividend announcements from other banks including VPBank and Techcombank.
-
-- Source: [CafeF](https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn)
-
 ## Related coverage
 
 - [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
+- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 - [Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn) — CafeF
-- [Tuần tới là thời điểm quan trọng với cổ đông Vietcombank, VietinBank và BIDV](https://cafef.vn/tuan-toi-la-thoi-diem-quan-trong-voi-co-dong-vietcombank-vietinbank-va-bidv-188260719085953122.chn) — CafeF
 
 ---
 

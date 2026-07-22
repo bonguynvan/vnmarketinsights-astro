@@ -1,17 +1,23 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # ABBank
 
-Recent Vietnam market news mentioning **ABBank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ABBank** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
+
+As of July 21, ten banks announced their first-half 2026 earnings results. VPBank leads private-sector banks with pre-tax profit of 18,880 billion dong, while Techcombank reported profit exceeding 18,500 billion dong. Several other banks including ABBank, Vietbank, PGBank, and BVBank recorded notably high profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
 **Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm**  
 

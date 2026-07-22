@@ -1,8 +1,8 @@
 ---
 title: "Techcom Life — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcom Life, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
@@ -47,8 +47,8 @@ Vietnam's central bank has issued guidance to commercial banks to reduce interes
 
 - [Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn) — CafeF
 - [Techcom Insurance chính thức ra mắt bảo hiểm sức khỏe Song An: tiên phong kiến tạo phân khúc Bảo hiểm Y tế bổ sung tại Việt Nam](https://cafef.vn/techcom-insurance-chinh-thuc-ra-mat-bao-hiem-suc-khoe-song-an-tien-phong-kien-tao-phan-khuc-bao-hiem-y-te-bo-sung-tai-viet-nam-188260716074802356.chn) — CafeF
+- [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
 - [Thúc đẩy lộ trình trung hòa carbon: Techcombank nhận giải thưởng Top 10 Doanh nghiệp Net Zero 2026](https://cafef.vn/thuc-day-lo-trinh-trung-hoa-carbon-techcombank-nhan-giai-thuong-top-10-doanh-nghiep-net-zero-2026-188260713150116198.chn) — CafeF
-- [Techcombank đồng tổ chức Diễn đàn tài chính cấp quốc gia VFF 2026: Dẫn dắt dòng vốn, kiến tạo tăng trưởng](https://cafef.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dan-dat-dong-von-kien-tao-tang-truong-188260706105943874.chn) — CafeF
 
 ---
 

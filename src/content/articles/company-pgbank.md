@@ -1,17 +1,23 @@
 ---
 title: "PGBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PGBank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # PGBank
 
-Recent Vietnam market news mentioning **PGBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PGBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
+
+As of July 21, ten banks announced their first-half 2026 earnings results. VPBank leads private-sector banks with pre-tax profit of 18,880 billion dong, while Techcombank reported profit exceeding 18,500 billion dong. Several other banks including ABBank, Vietbank, PGBank, and BVBank recorded notably high profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
 **PGBank tăng vốn điều lệ lên 7.327 tỷ đồng, tiếp tục củng cố nền tảng tài chính**  
 

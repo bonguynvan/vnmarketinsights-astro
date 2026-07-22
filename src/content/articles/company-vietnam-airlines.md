@@ -1,17 +1,23 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Airlines
 
-Recent Vietnam market news mentioning **Vietnam Airlines** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Airlines** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Từ nay, khách bay Vietnam Airlines tại Tân Sơn Nhất được tự check-in, ký gửi hành lý**  
+
+Vietnam Airlines has introduced self-service check-in and baggage drop-off services for passengers at Terminal 3 of Tan Son Nhat Airport. The automated process reduces wait times at check-in counters, particularly during peak hours. This service enhancement aims to streamline passenger procedures before flight departure.
+
+- Source: [CafeF](https://cafef.vn/tu-nay-khach-bay-vietnam-airlines-tai-tan-son-nhat-duoc-tu-check-in-ky-gui-hanh-ly-188260721073208421.chn)
 
 **Từ nay đến tháng 9, sân bay Tân Sơn Nhất, Phú Quốc, Đà Nẵng... có thể đón máy bay lạ**  
 
@@ -47,8 +53,8 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
-- [Hành khách quốc tế qua đường hàng không tăng 15,4%](https://cafef.vn/hanh-khach-quoc-te-qua-duong-hang-khong-tang-154-188260720154458932.chn) — CafeF
 - [Hành khách đi máy bay đặc biệt chú ý quy định mới đã bắt đầu áp dụng từ ngày 1/7](https://cafef.vn/hanh-khach-di-may-bay-dac-biet-chu-y-quy-dinh-moi-da-bat-dau-ap-dung-tu-ngay-1-7-18826070208081655.chn) — CafeF
+- [Hành khách quốc tế qua đường hàng không tăng 15,4%](https://cafef.vn/hanh-khach-quoc-te-qua-duong-hang-khong-tang-154-188260720154458932.chn) — CafeF
 
 ---
 

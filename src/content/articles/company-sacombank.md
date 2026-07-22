@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 21/7 tại MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank,  Agribank,...**  
+
+A survey of deposit interest rates across 34 banks on July 21 shows the highest quoted rate is 7.8% per annum for a 12-month term, while the Big4 banks maintain a rate of 6.8% per annum. The report covers rates at MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank, and Agribank among others. Rates are tracked daily as part of ongoing market monitoring.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-21-7-tai-mb-sacombank-hdbank-vietcombank-bidv-vietinbank-agribank-188260721202646333.chn)
+
+**Số liệu lãi suất cho vay, lãi suất huy động mới nhất của hệ thống ngân hàng**  
+
+The State Bank of Vietnam reported lending and deposit interest rates across the banking system for June 2026. The average lending rate for state-owned commercial banks and joint-stock commercial banks ranged from 8.1% to 10.5% per annum during the month. The source includes references to interest rate data from various banks including MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank, and Agribank.
+
+- Source: [CafeF](https://cafef.vn/so-lieu-lai-suat-cho-vay-lai-suat-huy-dong-moi-nhat-cua-he-thong-ngan-hang-188260721204319885.chn)
 
 **Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...**  
 
@@ -72,18 +84,6 @@ Vietnamese banks are distributing record-breaking cash dividends in 2026, with a
 Sacombank officially relocated its headquarters from District 3 to District 1, Ho Chi Minh City, following approval from the State Bank of Vietnam and shareholders. The bank affirmed that all business operations continue to run smoothly. The new headquarters is located at ThaiSquare The Merit building.
 
 - Source: [CafeF](https://cafef.vn/sacombank-chinh-thuc-chuyen-tru-so-chinh-ve-toa-nha-thaisquare-the-merit-khang-dinh-moi-hoat-dong-kinh-doanh-duoc-van-hanh-thong-suot-188260715145606943.chn)
-
-**Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt**  
-
-Vietnamese banks reported strong profit growth in the first half of 2026, with several institutions announcing significant earnings increases. Sacombank officially relocated its headquarters to ThaiSquare The Merit building, confirming that all business operations continue smoothly. Multiple banks distributed record cash dividends to shareholders, with five banks still pending shareholder rights confirmation.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn)
-
-**Lãi suất ngân hàng 15/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates on July 15 shows the highest rate remains at 7.3% per annum, while most banks continue to maintain 12-month term deposit rates in the range of 6.6-6.9% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-15-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260715202748776.chn)
 
 ## Related coverage
 

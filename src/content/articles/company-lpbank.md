@@ -1,17 +1,29 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
+
+LPBank achieved pre-tax profit of nearly 6,000 billion VND in the first half of 2026 while maintaining positive growth momentum despite industry-wide net interest margin pressure. The bank's total assets exceeded 615 trillion VND, with deposits and credit growth expanding in tandem. Non-interest income increased by 33%, demonstrating the effectiveness of the bank's revenue diversification strategy.
+
+- Source: [CafeF](https://cafef.vn/da-dang-hoa-nguon-thu-lpbank-dat-gan-6000-ty-dong-loi-nhuan-sau-6-thang-dau-nam-2026-188260721115914992.chn)
+
+**LPBank xuất hiện giao dịch thỏa thuận đột biến chiều 21/7**  
+
+LPBank experienced a large block trade on the afternoon of July 21, with approximately 130 million shares exchanged at 50,000 VND per share. The transaction represented over 4.3% of the bank's charter capital with a total value exceeding 6,490 billion VND. This was the only significant trading activity reported for the period.
+
+- Source: [CafeF](https://cafef.vn/lpbank-xuat-hien-giao-dich-thoa-thuan-dot-bien-chieu-21-7-188260721143028149.chn)
 
 **Tài khoản ngân hàng thuộc trường hợp sau sẽ bị đóng từ 30/7**  
 
@@ -73,24 +85,12 @@ LPBank received recognition at the Vietnam I4 Impact Awards 2026 in two categori
 
 - Source: [CafeF](https://cafef.vn/tong-giam-doc-lpbank-duoc-vinh-danh-lanh-dao-sang-tao-va-chuyen-doi-so-188260626123828619.chn)
 
-**Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất**  
-
-Over the 2015-2025 period, several Vietnamese banks experienced significant profit growth, with SeABank, MSB, and LPBank showing the fastest expansion among the banking system. Many private banks are also narrowing the performance gap with leading competitors. The data reflects a 10-year trend of substantial earnings increases across multiple institutions.
-
-- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
-
-**Cổ phiếu LPBank tăng kịch trần sáng 23/6**  
-
-LPBank's stock (ticker LPB) surged to the daily limit on the morning of June 23, rising 6.91% to 52,600 VND/share. This marked the seventh consecutive trading session of gains, with a cumulative increase of 15.6% over the recent period. The stock has risen 35% year-to-date and the bank recently disclosed its shareholder register of parties holding 1% or more of statutory capital as required by the 2024 Law on Credit Institutions, effective July 1.
-
-- Source: [CafeF](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn)
-
 ## Related coverage
 
+- [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn) — CafeF
-- [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 
 ---
 

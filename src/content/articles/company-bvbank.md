@@ -1,17 +1,29 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
+
+As of July 21, ten banks announced their first-half 2026 earnings results. VPBank leads private-sector banks with pre-tax profit of 18,880 billion dong, while Techcombank reported profit exceeding 18,500 billion dong. Several other banks including ABBank, Vietbank, PGBank, and BVBank recorded notably high profit growth rates.
+
+- Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
+
+**BVBank chính thức niêm yết cổ phiếu BVB trên sàn HoSE từ hôm nay 21/7**  
+
+BVBank officially listed its BVB shares on the Ho Chi Minh Stock Exchange (HoSE) on July 21, 2026, with over 640 million shares trading on the exchange. The listing marks a significant milestone in the bank's development and signals a transition to a new growth cycle with modern, transparent, and standardized governance practices. The company aims to pursue sustainable growth through this public market listing.
+
+- Source: [CafeF](https://cafef.vn/bvbank-chinh-thuc-niem-yet-co-phieu-bvb-tren-san-hose-tu-hom-nay-21-7-188260721144434853.chn)
 
 **Tuần này, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ**  
 
@@ -73,24 +85,12 @@ BVBank officially launched Google Wallet payment service for BVBank Visa credit 
 
 - Source: [CafeF](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn)
 
-**Một ngân hàng sắp niêm yết cổ phiếu trên HoSE**  
-
-BVBank has been approved by HoSE to list over 640.8 million BVB shares on the exchange. This marks a significant step in the bank's transfer process from UPCoM to HoSE after years of preparation. The listing represents a major milestone in the bank's capital market operations.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn)
-
-**6 ngân hàng giảm lãi suất cho vay trong tháng 5**  
-
-Six banks reduced their average lending rates in May compared to April. GPBank led with the largest reduction of 1.63 percentage points to 8.84% per annum, followed by TPBank's 1.01 percentage point decrease to 9.93% per annum. MBV and VIB each reduced rates by 0.55 percentage points, announcing average lending rates of 8.86% and 8.58% per annum respectively.
-
-- Source: [VietnamNet](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html)
-
 ## Related coverage
 
+- [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
 - [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
 - [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
-- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 
 ---
 

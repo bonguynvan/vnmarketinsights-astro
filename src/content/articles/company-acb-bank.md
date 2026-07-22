@@ -1,8 +1,8 @@
 ---
 title: "ACB Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB Bank, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---

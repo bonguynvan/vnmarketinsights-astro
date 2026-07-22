@@ -1,17 +1,23 @@
 ---
 title: "Samsung — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Samsung, with neutral summaries and source links."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Samsung
 
-Recent Vietnam market news mentioning **Samsung** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Samsung** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tỉnh có quy mô kinh tế đạt 21 tỷ USD, chỉ đứng sau TP.HCM, Hà Nội, Hải Phòng và Đồng Nai, nơi 'đại bàng' Samsung, Canon, Foxconn chọn làm tổ**  
+
+Bac Ninh province has an economic scale of $21 billion, ranking fifth in Vietnam after Ho Chi Minh City, Hanoi, Hai Phong, and Dong Nai. The province hosts major electronics manufacturers including Samsung, Canon, and Foxconn. Taiwanese investors view Bac Ninh as becoming the "center of centers" in the high-tech industrial development chain of northern Vietnam.
+
+- Source: [CafeF](https://cafef.vn/tinh-co-quy-mo-kinh-te-dat-21-ty-usd-chi-dung-sau-tphcm-ha-noi-hai-phong-va-dong-nai-noi-dai-bang-samsung-canon-foxconn-chon-lam-to-188260721162224418.chn)
 
 **Doanh nghiệp dẫn dắt: Mảnh ghép tạo nên sức mạnh của những nền kinh tế hàng đầu thế giới**  
 

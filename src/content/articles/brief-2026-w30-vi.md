@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 30/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 30 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-20"
-lastUpdated: "2026-07-20"
+publishedDate: "2026-07-21"
+lastUpdated: "2026-07-21"
 category: "Market Brief"
-readingTime: 14
+readingTime: 15
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 30/2026
@@ -13,7 +13,7 @@ readingTime: 14
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Thị trường tài chính Việt Nam tuần này ghi nhận những diễn biến tích cực với sự niêm yết của BVBank trên HoSE, đồng thời các ngân hàng công bố kết quả kinh doanh bán niên với lợi nhuận tăng mạnh và các khoản cổ tức lớn được chi trả cho cổ đông. Trên bình diện vĩ mô, Ngân hàng Nhà nước điều chỉnh thanh khoản thị trường thông qua hoạt động OMO, trong khi kinh tế duy trì nền tảng tăng trưởng tích cực với TPHCM và Đồng Nai ghi nhận mức tăng trưởng cao.
+Ngành ngân hàng Việt Nam ghi nhận kết quả kinh doanh tích cực trong nửa đầu năm 2026, với nhiều ngân hàng công bố lợi nhuận tăng mạnh, tuy nhiên hệ thống đang chịu áp lực về thanh khoản do tín dụng tăng vượt xa huy động vốn. Bên cạnh những thành tích kinh doanh, ngành cũng ghi nhận các vi phạm quy định với số vụ sai phạm rộng lớn, đáng chú ý là vụ truy tố nhân viên ngân hàng liên quan đến hơn 96 tỷ đồng. Kinh tế vĩ mô tiếp tục cho thấy tín hiệu tích cực với Việt Nam bước vào nhóm nước thu nhập trung bình cao, trong khi Chính phủ đề ra kịch bản tăng trưởng 11,9% cho nửa cuối năm để đạt mục tiêu GDP cả năm từ 10% trở lên.
 
 ## Logistics
 
@@ -24,14 +24,14 @@ Sáu ngân hàng lớn—Vietcombank, Vietinbank, BIDV, Agribank, VPBank và TPB
 - Số liệu chính: Total credit financing extended: 27,000 billion VND
 - Nguồn: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
-**Khối đá lớn rơi xuống, hầm cấp đặc biệt dài 3.200m lóe sáng, 1.000 người Việt Nam vỡ òa vì thành công lớn**  
-
-Ngày 1/7/2025, ống hầm trái chính thức được đào thông khi tảng đá cuối cùng chắn giữa ống hầm số 3 (hầm cấp đặc biệt Bình Đê) được cho nổ tung. Hầm có độ dài 3.200 mét được thi công bằng công nghệ hiện đại cho một dự án hạ tầng quan trọng. Khoảng 1.000 công nhân Việt Nam đã tham gia vào thành công này.
-
-- Số liệu chính: Tunnel length: 3,200 meters; Breakthrough date: July 1, 2025 date; Workers involved: 1,000 people
-- Nguồn: [CafeF](https://cafef.vn/khoi-da-lon-roi-xuong-ham-cap-dac-biet-dai-3200m-loe-sang-1000-nguoi-viet-nam-vo-oa-vi-thanh-cong-lon-188260717152926413.chn)
-
 ## Pháp lý
+
+**Truy tố 4 nhân viên ngân hàng liên quan số tiền hơn 96 tỷ đồng**  
+
+Bốn nhân viên ngân hàng, là những chuyên viên quan hệ khách hàng cá nhân, đã bị truy tố vì vi phạm quy định của Ngân hàng Nhà nước và quy trình nội bộ của ngân hàng. Số tiền liên quan đến vụ án vượt quá 96 tỷ đồng. Vụ việc này là một phần của mô hình những hành vi sai phạm rộng lớn trong lĩnh vực ngân hàng trong những tháng gần đây.
+
+- Số liệu chính: Số tiền liên quan: hơn 96 tỷ đồng VND; Số bị can bị truy tố: 4 người
+- Nguồn: [CafeF](https://cafef.vn/truy-to-4-nhan-vien-ngan-hang-lien-quan-so-tien-hon-96-ty-dong-188260721071648088.chn)
 
 **Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng**  
 
@@ -59,14 +59,35 @@ Bà Hoàng Thị Thanh Nga - doanh nhân lĩnh vực chế tác trang sức và 
 - Số liệu chính: Diamonds involved in incident: 30,000 carats/units
 - Nguồn: [CafeF](https://cafef.vn/chan-dung-ba-trum-vuong-mien-va-2-nu-giam-doc-vua-bi-khoi-to-188260717072532727.chn)
 
-**Tin cực vui cho toàn bộ người lao động Việt Nam từ năm 2027**  
-
-Ngày 16/7, Hội đồng Tiền lương quốc gia chốt phương án tăng lương tối thiểu bình quân 7,8% từ 1/1/2027. Mức lương tối thiểu hàng tháng sẽ được điều chỉnh từ 310.000 đến 390.000 đồng theo từng vùng, mức tăng bình quân là 348.000 đồng. Phương án này sẽ được trình lên Chính phủ để phê duyệt trước khi thực hiện.
-
-- Số liệu chính: Minimum wage increase rate: 7.8% %; Effective date: 1/1/2027 date; New minimum wage range: 310,000 - 390,000 VND/month; Average increase amount: 348,000 VND/month
-- Nguồn: [CafeF](https://cafef.vn/tin-cuc-vui-cho-toan-bo-nguoi-lao-dong-viet-nam-tu-nam-2027-188260717094014051.chn)
-
 ## Chứng khoán
+
+**Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
+
+LPBank đạt lợi nhuận trước thuế gần 6.000 tỷ đồng trong 6 tháng đầu năm 2026 trong bối cảnh ngành ngân hàng chịu áp lực NIM, nhưng vẫn duy trì đà tăng trưởng tích cực. Tổng tài sản của ngân hàng vượt 615 nghìn tỷ đồng, với huy động vốn và tín dụng tăng trưởng đồng đều. Thu ngoài lãi tăng 33%, khẳng định hiệu quả của chiến lược đa dạng hóa nguồn thu.
+
+- Số liệu chính: Pre-tax profit (6 months 2026): nearly 6,000 billion VND billion VND; Total assets: over 615 trillion VND trillion VND; Non-interest income growth: 33% percent
+- Nguồn: [CafeF](https://cafef.vn/da-dang-hoa-nguon-thu-lpbank-dat-gan-6000-ty-dong-loi-nhuan-sau-6-thang-dau-nam-2026-188260721115914992.chn)
+
+**Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá**  
+
+Lợi nhuận Quý 2 của Techcombank đạt kỷ lục mới, với lợi nhuận 6 tháng đầu năm 2026 là 18,5 nghìn tỷ đồng, tăng 22,5% so với năm ngoái. Thu nhập từ hoạt động dịch vụ ghi nhận các mức cao mới trong bối cảnh tăng trưởng đa dạng. Tỷ lệ nợ xấu giảm nhẹ xuống 1,15% so với quý trước, trong khi tỷ lệ bao phủ nợ xấu đạt 125,5%, thuộc nhóm dẫn đầu ngành.
+
+- Số liệu chính: First-half 2026 profit: 18.5 trillion Vietnamese dong; Profit growth year-over-year: 22.5 %; Non-performing loan ratio: 1.15 %; NPL coverage ratio: 125.5 %
+- Nguồn: [CafeF](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn)
+
+**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
+
+Đến chiều 21/7, đã có 10 ngân hàng công bố kết quả kinh doanh 6 tháng đầu năm 2026. VPBank dẫn đầu khối ngân hàng tư nhân với lợi nhuận trước thuế 18.880 tỷ đồng, trong khi Techcombank báo lãi hơn 18.500 tỷ đồng. Một số ngân hàng khác như ABBank, Vietbank, PGBank và BVBank ghi nhận mức tăng trưởng lợi nhuận rất cao.
+
+- Số liệu chính: VPBank pre-tax profit (H1 2026): 18,880 billion VND; Techcombank profit (H1 2026): 18,500+ billion VND; Number of banks reporting results: 10 banks
+- Nguồn: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
+
+**BVBank chính thức niêm yết cổ phiếu BVB trên sàn HoSE từ hôm nay 21/7**  
+
+Ngày 21/7/2026, Ngân hàng TMCP Bản Việt (BVBank) chính thức niêm yết hơn 640 triệu cổ phiếu BVB trên Sở Giao dịch Chứng khoán TP. Hồ Chí Minh (HoSE). Đây là cột mốc quan trọng trong hành trình phát triển của ngân hàng, đánh dấu bước chuyển mình sang một chu kỳ tăng trưởng mới với nền tảng quản trị hiện đại, minh bạch và chuẩn mực. Ngân hàng hướng đến tăng trưởng bền vững thông qua việc niêm yết trên thị trường chứng khoán công khai.
+
+- Số liệu chính: Shares listed: over 640 million shares; Listing date: July 21, 2026 date
+- Nguồn: [CafeF](https://cafef.vn/bvbank-chinh-thuc-niem-yet-co-phieu-bvb-tren-san-hose-tu-hom-nay-21-7-188260721144434853.chn)
 
 **Tuần này, sàn HoSE sẽ có thêm một ngân hàng: Ban lãnh đạo nắm 11% vốn, lợi nhuận 6 tháng cao gấp 5 lần cùng kỳ**  
 
@@ -101,35 +122,26 @@ Sau hơn ba thập kỷ phát triển, BVBank đã đạt cột mốc quan trọ
 
 - Nguồn: [CafeF](https://cafef.vn/infographic-chan-dung-bvbank-dau-moc-hose-va-chu-ky-tang-truong-moi-188260718104737924.chn)
 
-**Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026**  
-
-Vượt qua biến động vĩ mô và áp lực từ thị trường, VPBank duy trì tăng trưởng mạnh mẽ về tín dụng và huy động nửa đầu năm 2026. Ngân hàng đạt lợi nhuận kỷ lục với tổng tài sản vượt 1,5 triệu tỷ đồng vào cuối quý II 2026. VPBank củng cố vị thế trong nhóm ngân hàng tư nhân hàng đầu.
-
-- Số liệu chính: Total assets (end of Q2 2026): 1.5 million billion VND VND
-- Nguồn: [CafeF](https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn)
-
-**Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới**  
-
-Ngành ngân hàng Việt Nam báo cáo tăng trưởng lợi nhuận mạnh trong nửa đầu năm 2026. VPBank đạt mức lợi nhuận theo quý cao nhất lịch sử, trong khi các ngân hàng khác như ABBank, Vietbank và BVBank cũng báo cáo tăng trưởng đáng kể. Một ngân hàng báo lãi bán niên gần 4.700 tỷ với lợi nhuận VietBank và ABBank tăng vọt.
-
-- Số liệu chính: One bank semi-annual profit: near 4,700 billion VND VND
-- Nguồn: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn)
-
-**VietinBank - Ngân hàng Việt Nam duy nhất 15 năm liên tiếp ghi danh trong Forbes Global 2000**  
-
-VietinBank tăng 128 bậc trong bảng xếp hạng Forbes Global 2000 năm 2026. VietinBank là ngân hàng Việt Nam duy nhất có mặt liên tiếp trong danh sách này trong 15 năm. Ngân hàng ghi nhận mức lợi nhuận cao nhất trong nhóm các tổ chức tín dụng Việt Nam được Forbes xếp hạng.
-
-- Số liệu chính: Ranking improvement in Forbes Global 2000 2026: 128 positions; Years of consecutive appearance in Forbes Global 2000: 15
-- Nguồn: [CafeF](https://cafef.vn/vietinbank-ngan-hang-viet-nam-duy-nhat-15-nam-lien-tiep-ghi-danh-trong-forbes-global-2000-188260717191752634.chn)
-
-**Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền**  
-
-Các ngân hàng Việt Nam đang phân phối cổ tức tiền mặt kỷ lục vào năm 2026 với quy mô vượt quá 48.000 tỷ đồng. Năm ngân hàng vẫn chưa chốt quyền cổ tức. Đây là năm có quy mô chi trả cổ tức tiền mặt lớn nhất trong lịch sử ngành ngân hàng Việt Nam.
-
-- Số liệu chính: Cash dividend payout value in 2026: 48,000 billion Vietnamese dong billion VND
-- Nguồn: [CafeF](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn)
-
 ## Kinh tế vĩ mô
+
+**Dư địa giảm lãi suất ngày càng thu hẹp**  
+
+Tăng trưởng tín dụng tiếp tục vượt xa tốc độ huy động vốn, tạo áp lực lớn lên thanh khoản của hệ thống ngân hàng. Dư địa giảm lãi suất ngày càng hạn hẹp do áp lực này. Các chuyên gia cho rằng mặc bằng lãi suất sẽ duy trì ổn định trong những tháng cuối năm, với khả năng giảm nhẹ chỉ ở một số lĩnh vực ưu tiên thay vì quay trở lại mức thấp.
+
+- Nguồn: [CafeF](https://cafef.vn/du-dia-giam-lai-suat-ngay-cang-thu-hep-188260721094523231.chn)
+
+**Từ thu nhập trung bình cao tới thu nhập cao: Cột mốc mới của Việt Nam**  
+
+Việt Nam đã tiến từ nước thu nhập trung bình thấp lên nước thu nhập trung bình cao và đặt mục tiêu trở thành nước thu nhập cao vào năm 2045. Ngân hàng Thế giới xác nhận vào tháng 7/2026 rằng GNI bình quân đầu người của Việt Nam năm 2025 đã vượt qua ngưỡng thu nhập trung bình cao. Việt Nam đang phát triển nhanh hơn các quốc gia trong khu vực trong bước chuyển tiếp kinh tế này.
+
+- Nguồn: [CafeF](https://cafef.vn/tu-thu-nhap-trung-binh-cao-toi-thu-nhap-cao-cot-moc-moi-cua-viet-nam-188260721160224714.chn)
+
+**Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm**  
+
+Chính phủ Việt Nam đưa ra kịch bản tăng trưởng 11,9% cho 6 tháng cuối năm nhằm đạt mục tiêu tăng trưởng GDP cả năm từ 10% trở lên. Các động lực tăng trưởng bao gồm đầu tư công, tiêu dùng nội địa, xuất khẩu và các lĩnh vực mới như kinh tế số và AI. Thông báo này phản ánh nỗ lực chính sách duy trì tăng trưởng hai con số cho phần còn lại của năm.
+
+- Số liệu chính: Target GDP growth for H2: 11.9% %; Target full-year GDP growth: 10% %
+- Nguồn: [CafeF](https://cafef.vn/tang-truong-hai-con-so-kich-ban-tang-toc-6-thang-cuoi-nam-188260721141718775.chn)
 
 **Ngân hàng Nhà nước hút về hơn 300.000 tỷ đồng**  
 
@@ -164,19 +176,6 @@ TPHCM ghi nhận mức tăng trưởng GRDP 8,55% trong 6 tháng đầu năm 202
 Theo Thống đốc Phạm Đức Ấn, Ngân hàng Nhà nước gặp khó khăn trong điều hành chính sách lãi suất do nhu cầu vốn rất cao trong khi khả năng huy động vốn của nền kinh tế còn hạn chế. Thống đốc nhấn mạnh rằng tập trung vào tăng trưởng kinh tế và tín dụng tự nhiên dẫn đến lãi suất cao khi thiếu hụt vốn. Các ngân hàng không có đủ vốn để cấp cho nhiều dự án lớn trong tương lai.
 
 - Nguồn: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Dự án chưa từng có tiền lệ của Việt Nam có diễn biến mới, Phó Thủ tướng yêu cầu làm ngay 1 việc**  
-
-Dự án điện hạt nhân Ninh Thuận của Việt Nam có diễn biến mới, với Phó Thủ tướng Phạm Gia Túc chủ trì cuộc họp ngày 16/7 với Bộ Tài chính và các bộ ngành liên quan để rà soát các thủ tục đầu tư và điều chỉnh. Dự án được mô tả là chưa từng có tiền lệ tại Việt Nam và có ý nghĩa chiến lược đặc biệt quan trọng. Cuộc họp tập trung xem xét tình hình hồ sơ dự án, các vấn đề thủ tục điều chỉnh kế hoạch đầu tư, và chuẩn bị công tác đầu tư cho dự án điện hạt nhân Ninh Thuận 1.
-
-- Nguồn: [CafeF](https://cafef.vn/du-an-chua-tung-co-tien-le-cua-viet-nam-co-dien-bien-moi-pho-thu-tuong-yeu-cau-lam-ngay-1-viec-188260717072905283.chn)
-
-**Vốn FDI chuyển mạnh sang lĩnh vực công nghệ cao**  
-
-Giai đoạn 2026-2030, Việt Nam dự kiến tiếp tục thu hút khoảng 38-40 tỷ USD vốn đầu tư nước ngoài hàng năm. Dòng vốn quốc tế đang dịch chuyển mạnh sang các lĩnh vực công nghệ cao bao gồm bán dẫn, AI, trung tâm dữ liệu, điện toán đám mây, thiết bị y tế công nghệ cao, năng lượng tái tạo và kinh tế số. Ủy ban Thường vụ Quốc hội đã đưa ra ý kiến về chủ trương đầu tư cho Dự án đường Vành đai 5 khu vực Thủ đô Hà Nội.
-
-- Số liệu chính: Projected annual FDI inflow: 38-40 billion USD; Period: 2026-2030
-- Nguồn: [CafeF](https://cafef.vn/von-fdi-chuyen-manh-sang-linh-vuc-cong-nghe-cao-188260717163716832.chn)
 
 ## Khác
 
