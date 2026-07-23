@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (35 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tất cả người dùng VietinBank, VPBank lưu ý: Giao dịch chuyển khoản thay đổi từ 30/7**  
+
+Starting July 30, 2026, customers of VietinBank and VPBank will need to update their OTP authentication codes according to new regulations to continue conducting online transactions including money transfers and payments. Some accounts may require re-authentication to proceed with fund transfer activities. The banks have announced implementation of new authentication requirements for their digital banking services.
+
+- Source: [CafeF](https://cafef.vn/tat-ca-nguoi-dung-vietinbank-vpbank-luu-y-giao-dich-chuyen-khoan-thay-doi-tu-30-7-188260722124830576.chn)
 
 **Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
 
@@ -79,17 +85,11 @@ Vietnamese banks reported strong profit growth in the first half of 2026. VPBank
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn)
 
-**Từ năm 2026, Vietcombank, VietinBank, Agribank, BIDV... ngừng giao dịch chuyển tiền/nhận tiền đối với trường hợp sau**  
-
-Major Vietnamese commercial banks including Vietcombank, VietinBank, Agribank, BIDV, and VPBank will implement significant changes to their regulations regarding money transfers starting in 2026. The banks will cease conducting certain types of transfer and receipt transactions. Specific account closure criteria have been established with implementation dates beginning July 30, 2026.
-
-- Source: [CafeF](https://cafef.vn/tu-nam-2026-vietcombank-vietinbank-agribank-bidv-ngung-giao-dich-chuyen-tien-nhan-tien-doi-voi-truong-hop-sau-188260715141342932.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---

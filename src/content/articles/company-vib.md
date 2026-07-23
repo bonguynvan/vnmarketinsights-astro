@@ -1,17 +1,35 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VIB Up: Tặng đến 2%/năm lãi suất cho tiền gửi theo tháng cùng loạt đặc quyền thành viên**  
+
+VIB (Vietnam International Bank) has launched VIB Up, a membership tier solution offering preferential interest rates of up to 2% per annum on monthly fixed deposits (i-1Depo) along with member benefits. The program allows customers to choose tiered packages to optimize idle cash flows according to their financial objectives. VIB Up is designed as a flexible deposit solution enabling customers to align their savings with specific financial goals.
+
+- Source: [CafeF](https://cafef.vn/vib-up-tang-den-2-nam-lai-suat-cho-tien-gui-theo-thang-cung-loat-dac-quyen-thanh-vien-188260722064151307.chn)
+
+**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
+
+Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
+
+- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
+
+**Để 1 tỷ đồng trong tài khoản theo cách này, có thể chỉ nhận về 0 đồng lãi**  
+
+Banks have been adjusting their policies on demand deposits (non-term deposits), with some offering 0% interest rates on certain account types. Customers who place deposits in transaction accounts instead of savings accounts may receive no interest if their funds fall under the bank's 0% non-term deposit interest rate policy. VIB has recently announced adjustments to its service fee structure and non-term deposit interest rates.
+
+- Source: [CafeF](https://cafef.vn/de-1-ty-dong-trong-tai-khoan-theo-cach-nay-co-the-chi-nhan-ve-0-dong-lai-188260722134521954.chn)
 
 **Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
 
@@ -67,30 +85,12 @@ VIB Bank is shifting from a product-centric approach to an experience-based mode
 
 - Source: [CafeF](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn)
 
-**Maxtopia: Khi Gen Alpha học tài chính bằng trò chơi thay vì những bài giảng khô khan**  
-
-VIB has launched Maxtopia, a gamified financial education platform as part of its VIB Junior Banking solution for Vietnamese families. The platform teaches financial literacy to Gen Alpha children aged 6–15 through interactive activities, missions, and point-based reward mechanics instead of traditional instruction methods. VIB Junior Banking is positioned as Vietnam's pioneering digital financial ecosystem designed specifically for young people and families.
-
-- Source: [CafeF](https://cafef.vn/maxtopia-khi-gen-alpha-hoc-tai-chinh-bang-tro-choi-thay-vi-nhung-bai-giang-kho-khan-188260624083238994.chn)
-
-**6 ngân hàng giảm lãi suất cho vay trong tháng 5**  
-
-Six banks reduced their average lending rates in May compared to April. GPBank led with the largest reduction of 1.63 percentage points to 8.84% per annum, followed by TPBank's 1.01 percentage point decrease to 9.93% per annum. MBV and VIB each reduced rates by 0.55 percentage points, announcing average lending rates of 8.86% and 8.58% per annum respectively.
-
-- Source: [VietnamNet](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html)
-
-**Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB**  
-
-VIB launched VIB Up, a tiered financial solution package allowing customers to upgrade their membership benefits based on savings deposits, borrowing, or spending activities aligned with their financial needs and life stages. The product promises benefits valued at over 610 million dong. VIB previously established its market presence through the Max Card and membership-based banking model.
-
-- Source: [CafeF](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng hôm nay 2/7/2026: Khuyến mãi &amp;apos;khủng&amp;apos; xuất hiện trở lại](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-2-7-2026-khuyen-mai-khung-xuat-hien-tro-lai-2531618.html) — VietnamNet
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

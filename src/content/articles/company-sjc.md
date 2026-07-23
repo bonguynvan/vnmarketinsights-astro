@@ -1,17 +1,29 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng**  
+
+Domestic gold prices reversed sharply downward during the evening trading session on July 22, erasing gains from the morning session. Gold bars at major brands simultaneously fell to 146 million VND per tael at selling prices, with purchase prices declining by up to 1.4 million VND per tael compared to the previous session close, widening the bid-ask spread.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn)
+
+**Danh tính 4 người vừa bị khởi tố trong vụ buôn lậu hơn 3.400 viên kim cương vào hệ thống bán lẻ SJC**  
+
+Thanh Hoa Provincial Police have initiated prosecution of 4 suspects, including a Business Department Head of SJC (Saigon Gold Silver Jewelry Company) and 3 related individuals, for smuggling over 3,400 diamonds valued at more than 500 billion VND into SJC's retail system. The investigation was announced on July 22 following the prosecution decision on July 20, 2026. This case involves illegal diamond distribution through a major jewelry retail network in Vietnam.
+
+- Source: [CafeF](https://cafef.vn/danh-tinh-4-nguoi-vua-bi-khoi-to-trong-vu-buon-lau-hon-3400-vien-kim-cuong-vao-he-thong-ban-le-sjc-188260722200940613.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 21/7 đồng loạt hạ nhiệt**  
 
@@ -73,24 +85,12 @@ Gold bar and smooth gold ring prices reversed course and rose sharply on July 10
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-ngay-10-7-dao-chieu-tang-manh-len-150-trieu-dong-luong-188260710082101171.chn)
 
-**Giá vàng trượt xa mốc 150 triệu đồng/lượng, người mua lỗ 6,5 triệu đồng từ đỉnh tháng 7**  
-
-Gold prices have fallen significantly below the 150 million dong per tael mark in Vietnam, with buyers who purchased at July peaks facing losses of approximately 6.5 million dong per tael. Profit-taking pressure combined with weakening global gold prices has driven down domestic SJC bar gold and ring gold prices. The decline occurred after gold prices reached peak levels in early July 2026.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-truot-xa-moc-150-trieu-dong-luong-nguoi-mua-lo-65-trieu-dong-tu-dinh-thang-7-188260709110822151.chn)
-
-**Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều**  
-
-Gold prices reversed course on the afternoon of July 9, rising approximately 500,000 VND per tael after three consecutive sessions of decline. SJC-branded bar gold was quoted at 146.0–149.0 million VND per tael, while SJC's 24-karat plain ring gold traded at 145.7–148.7 million VND per tael. Other retailers DOJI and PNJ offered competing quotes in the range of 144.8–148.8 and 145.0–148.5 million VND per tael respectively.
-
-- Source: [CafeF](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn)
-
 ## Related coverage
 
+- [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều tối 7/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-chieu-toi-7-7-188260707084634575.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 
 ---
 

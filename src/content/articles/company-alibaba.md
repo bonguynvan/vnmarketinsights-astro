@@ -1,8 +1,8 @@
 ---
 title: "Alibaba — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Alibaba, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---

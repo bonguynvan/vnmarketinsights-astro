@@ -1,17 +1,35 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ACB đạt lợi nhuận hơn 10.700 tỷ đồng trong 6 tháng đầu năm 2026, bán lẻ và SME hồi phục tích cực**  
+
+Asia Commercial Bank (ACB) reported consolidated pre-tax profit of over 10,700 billion dong for the first six months of 2026. Despite ongoing economic challenges, effects from public investment projects, infrastructure development, and government growth-promotion policies are gradually spreading. The recovery momentum is creating positive signs in the retail and SME segments.
+
+- Source: [CafeF](https://cafef.vn/acb-dat-loi-nhuan-hon-10700-ty-dong-trong-6-thang-dau-nam-2026-ban-le-va-sme-hoi-phuc-tich-cuc-188260722111520747.chn)
+
+**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
+
+Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
+
+- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
+
+**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
 
 **Người dùng Vietcombank, BIDV, VietinBank, Agribank... nên làm điều này càng sớm càng tốt**  
 
@@ -67,30 +85,12 @@ A survey of online deposit interest rates across 34 banks on July 12 shows the m
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn)
 
-**ACB: Trả góp với lãi suất 0% bằng thẻ tín dụng giúp khách hàng chủ động cho mọi kế hoạch chi tiêu**  
-
-ACB launches installment payment options using credit cards with 0% interest rates through partner merchants and conversion fees starting from 1.99%. From July 16, the bank introduced installment plans at foreign merchants with fees from just 1%. The service aims to help customers manage cash flow and financing flexibility for both domestic and international purchases.
-
-- Source: [CafeF](https://cafef.vn/acb-tra-gop-voi-lai-suat-0-bang-the-tin-dung-giup-khach-hang-chu-dong-cho-moi-ke-hoach-chi-tieu-18826071017221549.chn)
-
-**8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
-
-Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.
-
-- Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
-
-**ACB nâng cấp tính năng gợi ý tách lệnh cho giao dịch từ 500 triệu đồng trở lên trên ACB ONE**  
-
-ACB Bank upgraded the order-splitting recommendation feature on its ACB ONE application for fast transfers of 500 million VND or more. This feature is designed for customers and individual business households that frequently make large-value transfers and payments. Each split order still requires separate biometric authentication before execution.
-
-- Source: [CafeF](https://cafef.vn/acb-nang-cap-tinh-nang-goi-y-tach-lenh-cho-giao-dich-tu-500-trieu-dong-tro-len-tren-acb-one-188260708062902761.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
+- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 
 ---
 

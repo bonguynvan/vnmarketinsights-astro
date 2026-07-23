@@ -1,8 +1,8 @@
 ---
 title: "Vietinbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietinbank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,24 @@ readingTime: 3
 Recent Vietnam market news mentioning **Vietinbank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
+
+Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
+
+- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
+
+**Tất cả người dùng VietinBank, VPBank lưu ý: Giao dịch chuyển khoản thay đổi từ 30/7**  
+
+Starting July 30, 2026, customers of VietinBank and VPBank will need to update their OTP authentication codes according to new regulations to continue conducting online transactions including money transfers and payments. Some accounts may require re-authentication to proceed with fund transfer activities. The banks have announced implementation of new authentication requirements for their digital banking services.
+
+- Source: [CafeF](https://cafef.vn/tat-ca-nguoi-dung-vietinbank-vpbank-luu-y-giao-dich-chuyen-khoan-thay-doi-tu-30-7-188260722124830576.chn)
+
+**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
 
 **Người dùng Vietcombank, BIDV, VietinBank, Agribank... nên làm điều này càng sớm càng tốt**  
 
@@ -67,30 +85,12 @@ Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, an
 
 - Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
-**Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
-
-Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
-
-**Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-According to State Bank Governor Phạm Đức Ấn, the central bank has faced challenging interest rate management due to high capital demand while the economy's capital mobilization remains limited. The governor stated that the focus on economic growth and credit expansion naturally leads to higher interest rates when capital is scarce. Banks lack sufficient capital to supply numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A banking interest rate survey conducted on July 18 shows stability in online deposit rates. Six banks quote rates of 7% per year or higher for 12-month terms, while the Big4 banks maintain 6.8% per year. One bank offers 8% per year for 6-month savings accounts.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "CII — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning CII, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to f
 - [Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn) — CafeF
-- [Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu](https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn) — CafeF
+- [Ngành ngân hàng muốn tăng huy động vốn quốc tế](https://cafef.vn/nganh-ngan-hang-muon-tang-huy-dong-von-quoc-te-188260722064830031.chn) — CafeF
 
 ---
 

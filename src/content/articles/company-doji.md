@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng**  
+
+Domestic gold prices reversed sharply downward during the evening trading session on July 22, erasing gains from the morning session. Gold bars at major brands simultaneously fell to 146 million VND per tael at selling prices, with purchase prices declining by up to 1.4 million VND per tael compared to the previous session close, widening the bid-ask spread.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 21/7 đồng loạt hạ nhiệt**  
 
@@ -79,17 +85,11 @@ Gold prices in Vietnam on July 4 show SJC bars and smooth gold rings trading at 
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn)
 
-**Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng**  
-
-Gold prices in Vietnam declined sharply on June 25, with spreads between buy and sell prices for SJC bullion and ring gold widening to 3-4.5 million VND per tael. International gold prices fell below the $4,000 per ounce threshold on June 24. Buyers who purchased gold faced immediate losses of up to 4.5 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn)
-
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
-- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 - [Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn) — CafeF
+- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 
 ---

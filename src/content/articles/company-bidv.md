@@ -1,17 +1,29 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (64 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (66 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
+
+Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
+
+- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
+
+**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
 
 **Người dùng Vietcombank, BIDV, VietinBank, Agribank... nên làm điều này càng sớm càng tốt**  
 
@@ -72,18 +84,6 @@ Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to f
 According to State Bank Governor Phạm Đức Ấn, the central bank has faced challenging interest rate management due to high capital demand while the economy's capital mobilization remains limited. The governor stated that the focus on economic growth and credit expansion naturally leads to higher interest rates when capital is scarce. Banks lack sufficient capital to supply numerous large projects in the coming period.
 
 - Source: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A banking interest rate survey conducted on July 18 shows stability in online deposit rates. Six banks quote rates of 7% per year or higher for 12-month terms, while the Big4 banks maintain 6.8% per year. One bank offers 8% per year for 6-month savings accounts.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn)
-
-**Thay đổi lớn trong giao dịch chuyển khoản ngân hàng: Người dùng có thể hủy lệnh trong thời gian chờ**  
-
-The State Bank of Vietnam has directed banks to implement a service allowing customers to set limits and waiting periods for online transfer transactions. The new service enables users to cancel transfer orders during the waiting period. This change represents a significant shift in how bank transfers are processed, with implementation expected from 2026 across major banks including Vietcombank, VietinBank, Agribank, and BIDV.
-
-- Source: [CafeF](https://cafef.vn/thay-doi-lon-trong-giao-dich-chuyen-khoan-ngan-hang-nguoi-dung-co-the-huy-lenh-trong-thoi-gian-cho-18826071707352814.chn)
 
 ## Related coverage
 

@@ -1,17 +1,29 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # SACOMBANK
 
-Recent Vietnam market news mentioning **SACOMBANK** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SACOMBANK** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SACOMBANK triển khai gói tín dụng ưu đãi 20.000 tỷ đồng với cơ chế cho vay đặc biệt dành cho doanh nghiệp xuất nhập khẩu**  
+
+SACOMBANK has launched a preferential credit package worth 20,000 billion VND targeting import-export enterprises. The credit package features special lending mechanisms designed for this business segment. The initiative is positioned as timely support as imports and exports remain a key economic growth driver.
+
+- Source: [CafeF](https://cafef.vn/sacombank-trien-khai-goi-tin-dung-uu-dai-20000-ty-dong-voi-co-che-cho-vay-dac-biet-danh-cho-doanh-nghiep-xuat-nhap-khau-188260722102039212.chn)
+
+**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
 
 **Lãi suất ngân hàng 21/7 tại MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank,  Agribank,...**  
 
@@ -72,18 +84,6 @@ On July 16, 2024, the Vietnamese stock market recovered sharply, led by banking 
 A survey of deposit interest rates across 34 banks on July 16 shows the interest rate landscape remains stable. The highest rate remains 7.3% per annum for a 12-month term, with only 6 banks quoting rates of 7% per annum or higher.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn)
-
-**Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền**  
-
-Vietnamese banks are distributing record-breaking cash dividends in 2026, with a total payout exceeding 48,000 billion Vietnamese dong. Five banks have yet to finalize dividend record dates. This represents the largest cash dividend payout in the history of the Vietnamese banking sector.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn)
-
-**Sacombank chính thức chuyển trụ sở chính về tòa nhà ThaiSquare The Merit, khẳng định mọi hoạt động kinh doanh được vận hành thông suốt**  
-
-Sacombank officially relocated its headquarters from District 3 to District 1, Ho Chi Minh City, following approval from the State Bank of Vietnam and shareholders. The bank affirmed that all business operations continue to run smoothly. The new headquarters is located at ThaiSquare The Merit building.
-
-- Source: [CafeF](https://cafef.vn/sacombank-chinh-thuc-chuyen-tru-so-chinh-ve-toa-nha-thaisquare-the-merit-khang-dinh-moi-hoat-dong-kinh-doanh-duoc-van-hanh-thong-suot-188260715145606943.chn)
 
 ## Related coverage
 

@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 30/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 30 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Market Brief"
-readingTime: 15
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 30/2026
@@ -13,18 +13,38 @@ readingTime: 15
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Ngành ngân hàng Việt Nam ghi nhận kết quả kinh doanh tích cực trong nửa đầu năm 2026, với nhiều ngân hàng công bố lợi nhuận tăng mạnh, tuy nhiên hệ thống đang chịu áp lực về thanh khoản do tín dụng tăng vượt xa huy động vốn. Bên cạnh những thành tích kinh doanh, ngành cũng ghi nhận các vi phạm quy định với số vụ sai phạm rộng lớn, đáng chú ý là vụ truy tố nhân viên ngân hàng liên quan đến hơn 96 tỷ đồng. Kinh tế vĩ mô tiếp tục cho thấy tín hiệu tích cực với Việt Nam bước vào nhóm nước thu nhập trung bình cao, trong khi Chính phủ đề ra kịch bản tăng trưởng 11,9% cho nửa cuối năm để đạt mục tiêu GDP cả năm từ 10% trở lên.
+Thị trường chứng khoán ghi nhận những tín hiệu tích cực từ kết quả kinh doanh của các ngân hàng, với hàng loạt lợi nhuận ấn tượng trong 6 tháng đầu năm 2026 và sự bổ sung của BVBank vào sàn HOSE. Tuy nhiên, hệ thống ngân hàng đang đối mặt áp lực thanh khoản từ tăng trưởng tín dụng vượt xa huy động vốn, hạn chế dư địa giảm lãi suất. Song song đó, các vụ buôn lậu kim cương liên quan đến các công ty bán lẻ lớn và sai phạm trong quản lý cho vay tại các ngân hàng được phát hiện, gây ảnh hưởng đến thị trường và niềm tin người tiêu dùng.
 
-## Logistics
+## Người tiêu dùng
 
-**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
+**Hàng loạt cửa hàng kim cương đóng cửa: Bỏ ngỏ quyền lợi khách hàng**  
 
-Sáu ngân hàng lớn—Vietcombank, Vietinbank, BIDV, Agribank, VPBank và TPBank—đã cấp hơn 27.000 tỷ đồng cho vay cho một dự án BOT giao thông do Tập đoàn Đèo Cả, Tasco và CII làm chủ đầu tư. Đây là dự án BOT giao thông có quy mô tài trợ vốn tín dụng lớn nhất Việt Nam, nhằm đáp ứng nhu cầu vận tải gia tăng giữa các tỉnh Đông Nam Bộ, đặc biệt là thành phố Hồ Chí Minh và Đồng bằng sông Cửu Long. Dự án góp phần hoàn thiện mạng lưới giao thông trục dọc quốc gia.
+Từ cuối tháng 5, hàng loạt cửa hàng bán kim cương đóng cửa hoặc dừng hoạt động, khiến nhiều doanh nghiệp mất thanh khoản và người tiêu dùng rơi vào hoàn cảnh khó khăn. Các hành động này để lại những lỗ hổng pháp lý chưa được giải quyết. Sự sụt giảm thị trường xảy ra sau khi cơ quan chức năng khởi tố vụ buôn lậu kim cương liên quan đến lãnh đạo Công ty Kiểm định PNJ-Lab.
 
-- Số liệu chính: Total credit financing extended: 27,000 billion VND
-- Nguồn: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
+- Nguồn: [CafeF](https://cafef.vn/hang-loat-cua-hang-kim-cuong-dong-cua-bo-ngo-quyen-loi-khach-hang-188260722064532814.chn)
 
 ## Pháp lý
+
+**Cựu Giám đốc chi nhánh SeABank bị truy tố vắng mặt trong vụ án liên quan Vina Megastar**  
+
+Nguyễn Thị Hương Giang, cựu Giám đốc chi nhánh SeABank Hai Bà Trưng, bị truy tố vắng mặt với cáo buộc vi phạm quy định về cho vay bằng cách giúp doanh nghiệp vay tiền mà không có tài sản đảm bảo. Ngày 21/7, Viện kiểm sát nhân dân thành phố Hà Nội đã ban hành cáo trạng truy tố 2 bị can về các tội "Lừa đảo chiếm đoạt tài sản" và vi phạm quy định về cho vay. Viện kiểm sát đã kêu gọi hai bị can ra đầu thú.
+
+- Số liệu chính: Indictment date: 21/7; Number of suspects charged: 2
+- Nguồn: [CafeF](https://cafef.vn/cuu-giam-doc-chi-nhanh-seabank-bi-truy-to-vang-mat-trong-vu-an-lien-quan-vina-megastar-188260722084600063.chn)
+
+**Danh tính 4 người vừa bị khởi tố trong vụ buôn lậu hơn 3.400 viên kim cương vào hệ thống bán lẻ SJC**  
+
+Công an tỉnh Thanh Hóa đã khởi tố 4 bị can, gồm một Trưởng phòng Kinh doanh của Công ty TNHH MTV Vàng bạc đá quý Sài Gòn (SJC) và 3 người liên quan, để điều tra hành vi buôn lậu hơn 3.400 viên kim cương vào hệ thống bán lẻ SJC. Vụ việc được thông báo vào chiều ngày 22/7 sau quyết định khởi tố ngày 20/7. Kim cương buôn lậu có giá trị trên 500 tỷ đồng.
+
+- Số liệu chính: Số lượng kim cương buôn lậu: 3.400 viên; Giá trị kim cương buôn lậu: 500 tỷ đồng; Số bị can bị khởi tố: 4 người
+- Nguồn: [CafeF](https://cafef.vn/danh-tinh-4-nguoi-vua-bi-khoi-to-trong-vu-buon-lau-hon-3400-vien-kim-cuong-vao-he-thong-ban-le-sjc-188260722200940613.chn)
+
+**3.400 viên kim cương nhập lậu được đưa vào hệ thống bán lẻ SJC thế nào?**  
+
+Cơ quan Cảnh sát điều tra Công an tỉnh Thanh Hóa khởi tố thêm 4 bị can vào ngày 22/7 liên quan đến đường dây buôn lậu kim cương xuyên quốc gia. Các bị can đều ở TP.HCM, bao gồm Phạm Thị Hồng Duyên (SN 1994), Trưởng phòng Kinh doanh của Công ty TNHH MTV Vàng bạc đá quý Sài Gòn (SJC), và Trần Công (SN 1975). Khoảng 3.400 viên kim cương nhập lậu được đưa vào hệ thống bán lẻ của SJC thông qua các hoạt động nhập khẩu và vận chuyển trái phép.
+
+- Số liệu chính: Smuggled diamonds: 3,400 units; Additional suspects charged: 4 persons; Investigation date: July 22 date
+- Nguồn: [CafeF](https://cafef.vn/3400-vien-kim-cuong-nhap-lau-duoc-dua-vao-he-thong-ban-le-sjc-the-nao-188260723064901898.chn)
 
 **Truy tố 4 nhân viên ngân hàng liên quan số tiền hơn 96 tỷ đồng**  
 
@@ -52,14 +72,28 @@ Một chiêu trò lừa đảo khai thác tính năng chia sẻ màn hình trên
 
 - Nguồn: [CafeF](https://cafef.vn/canh-giac-chieu-tro-lua-dao-hoan-tien-dich-vu-qua-chia-se-man-hinh-dien-thoai-188260719185956873.chn)
 
-**Chân dung 'bà trùm' vương miện và 2 nữ giám đốc vừa bị khởi tố**  
-
-Bà Hoàng Thị Thanh Nga - doanh nhân lĩnh vực chế tác trang sức và đá quý - bị khởi tố cùng với hai nữ giám đốc Lê Thị Ngọc Mỹ (Công ty TNHH Vàng bạc và Đá quý Kim Lý) và Nguyễn Thị Liên (Công ty TNHH Vàng bạc Đá quý Ngọc Tâm). Vụ việc liên quan đến 30.000 viên kim cương, khiến Phố kim cương ở TP.HCM trở nên vắng lặng và cửa hàng vàng Kim Lý đóng cửa.
-
-- Số liệu chính: Diamonds involved in incident: 30,000 carats/units
-- Nguồn: [CafeF](https://cafef.vn/chan-dung-ba-trum-vuong-mien-va-2-nu-giam-doc-vua-bi-khoi-to-188260717072532727.chn)
-
 ## Chứng khoán
+
+**ACB đạt lợi nhuận hơn 10.700 tỷ đồng trong 6 tháng đầu năm 2026, bán lẻ và SME hồi phục tích cực**  
+
+Ngân hàng TMCP Á Châu (ACB) báo cáo lợi nhuận trước thuế hợp nhất đạt hơn 10.700 tỷ đồng trong 6 tháng đầu năm 2026. Mặc dù nền kinh tế vẫn đối mặt nhiều thách thức, tác động từ các dự án đầu tư công, phát triển hạ tầng và các chính sách thúc đẩy tăng trưởng của Chính phủ đang lan tỏa dần. Động lực hồi phục tạo ra những tín hiệu tích cực trong các mảng bán lẻ và SME.
+
+- Số liệu chính: Consolidated pre-tax profit (H1 2026): over 10,700 billion dong billion VND
+- Nguồn: [CafeF](https://cafef.vn/acb-dat-loi-nhuan-hon-10700-ty-dong-trong-6-thang-dau-nam-2026-ban-le-va-sme-hoi-phuc-tich-cuc-188260722111520747.chn)
+
+**Từ UPCoM lên HOSE: Cột mốc mới trong hành trình phát triển của BVBank**  
+
+Ngày 21/7/2026, BVBank chính thức niêm yết cổ phiếu BVB trên HOSE, trở thành ngân hàng tiếp theo gia nhập sàn giao dịch chứng khoán lớn nhất Việt Nam. Sau nhiều năm chuẩn bị, cổ phiếu của Ngân hàng TMCP Bản Việt bắt đầu giao dịch trên Sở Giao dịch Chứng khoán TP.HCM. Sự kiện này không chỉ là thay đổi địa chỉ niêm yết mà còn đánh dấu một bước tiến quan trọng trong chiến lược phát triển của ngân hàng.
+
+- Số liệu chính: Listing date: July 21, 2026
+- Nguồn: [CafeF](https://cafef.vn/tu-upcom-len-hose-cot-moc-moi-trong-hanh-trinh-phat-trien-cua-bvbank-188260722113207478.chn)
+
+**F88 báo lãi quý 2/2026 tăng trưởng 102% lên 303 tỷ đồng**  
+
+F88 báo cáo lợi nhuận sau thuế quý 2/2026 đạt 303 tỷ đồng, tăng trưởng 102% so với cùng kỳ năm trước. Công ty đạt mức giải ngân cho vay cao kỷ lục, với mảng bảo hiểm tiếp tục tăng tốc. Ba kênh phân phối chính góp phần vào sự tăng trưởng của công ty trong nửa đầu năm 2026, với các cửa hàng vật lý mở rộng lên 976 phòng giao dịch trên toàn quốc và thu hút khoảng 89.000 khách hàng mới.
+
+- Số liệu chính: Q2 2026 after-tax profit: 303 billion VND; Year-over-year profit growth: 102 %; Physical store locations nationwide: 976 transaction points; New customers attracted: 89,000 customers
+- Nguồn: [CafeF](https://cafef.vn/f88-bao-lai-quy-2-2026-tang-truong-102-len-303-ty-dong-188260722181302077.chn)
 
 **Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
 
@@ -116,12 +150,6 @@ Ngân hàng Nhà nước Việt Nam (NHNN) đã chấp thuận thay đổi hình
 
 - Nguồn: [CafeF](https://cafef.vn/shb-sap-thu-ve-nguon-thang-du-von-lon-tu-thuong-vu-voi-krungsri-188260719173147673.chn)
 
-**[Infographic] Chân dung BVBank: Dấu mốc HoSE và chu kỳ tăng trưởng mới**  
-
-Sau hơn ba thập kỷ phát triển, BVBank đã đạt cột mốc quan trọng khi chính thức niêm yết cổ phiếu trên HoSE. Ngân hàng đang thực hiện kế hoạch tăng trưởng mạnh về quy mô tài sản, tín dụng, và lợi nhuận, được hỗ trợ bởi chiến lược số hóa toàn diện và định vị trong phân khúc bán lẻ và SME. Niêm yết này đánh dấu chu kỳ phát triển mới với mục tiêu nâng cao giá trị cho cổ đông.
-
-- Nguồn: [CafeF](https://cafef.vn/infographic-chan-dung-bvbank-dau-moc-hose-va-chu-ky-tang-truong-moi-188260718104737924.chn)
-
 ## Kinh tế vĩ mô
 
 **Dư địa giảm lãi suất ngày càng thu hẹp**  
@@ -163,28 +191,6 @@ Thống đốc Ngân hàng Nhà nước cho biết việc điều hành chính s
 
 - Số liệu chính: Tổng dư nợ cho vay 6 ngân hàng lớn: 27.000 tỷ đồng
 - Nguồn: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Bài 2: Phát huy vị thế, tiềm lực của hai thành phố tăng trưởng**  
-
-TPHCM ghi nhận mức tăng trưởng GRDP 8,55% trong 6 tháng đầu năm 2026, mức cao nhất trong một thập niên, được thúc đẩy bởi sự tăng trưởng mạnh của đầu tư, công nghiệp, dịch vụ và dòng vốn FDI. Tỉnh Đồng Nai đạt mức tăng trưởng 9,81% trong cùng kỳ. Cả hai địa phương đang đóng vai trò là động lực chính để khu vực Đông Nam Bộ hướng tới mục tiêu tăng trưởng hai con số trong năm 2026.
-
-- Số liệu chính: HCMC GRDP growth (first half 2026): 8.55% percent; Dong Nai growth (first half 2026): 9.81% percent
-- Nguồn: [CafeF](https://cafef.vn/bai-2-phat-huy-vi-the-tiem-luc-cua-hai-thanh-pho-tang-truong-188260719133611297.chn)
-
-**Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-Theo Thống đốc Phạm Đức Ấn, Ngân hàng Nhà nước gặp khó khăn trong điều hành chính sách lãi suất do nhu cầu vốn rất cao trong khi khả năng huy động vốn của nền kinh tế còn hạn chế. Thống đốc nhấn mạnh rằng tập trung vào tăng trưởng kinh tế và tín dụng tự nhiên dẫn đến lãi suất cao khi thiếu hụt vốn. Các ngân hàng không có đủ vốn để cấp cho nhiều dự án lớn trong tương lai.
-
-- Nguồn: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-## Khác
-
-**7 người thương vong tại trang trại Dabaco ở Thanh Hóa**  
-
-Bảy người thương vong tại trang trại Dabaco ở Thanh Hóa. Theo nhận định ban đầu, sau khi một công nhân gặp nạn, nhiều người khác đã liên tiếp xuống ứng cứu và tiếp tục bị ảnh hưởng. Sự cố xảy ra tại một cơ sở chăn nuôi động vật.
-
-- Số liệu chính: Casualties: 7
-- Nguồn: [CafeF](https://cafef.vn/7-nguoi-thuong-vong-tai-trang-trai-dabaco-o-thanh-hoa-188260719105413061.chn)
 
 ---
 

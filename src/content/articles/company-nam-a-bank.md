@@ -1,8 +1,8 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
@@ -34,9 +34,9 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 ## Related coverage
 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
+- [Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn) — CafeF
 - [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 - [Techcombank đồng tổ chức Diễn đàn tài chính cấp quốc gia VFF 2026: Dẫn dắt dòng vốn, kiến tạo tăng trưởng](https://cafef.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dan-dat-dong-von-kien-tao-tang-truong-188260706105943874.chn) — CafeF
-- [Chủ tịch VietinBank Trần Minh Bình: VietinBank xác định phát triển thanh toán số xuyên biên giới là một trong những mũi nhọn chiến lược quan trọng trong giai đoạn hiện nay](https://cafef.vn/chu-tich-vietinbank-tran-minh-binh-vietinbank-xac-dinh-phat-trien-thanh-toan-so-xuyen-bien-gioi-la-mot-trong-nhung-mui-nhon-chien-luoc-quan-trong-trong-giai-doan-hien-nay-188260702154426178.chn) — CafeF
 
 ---
 

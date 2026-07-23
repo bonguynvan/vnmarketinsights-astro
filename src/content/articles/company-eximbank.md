@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank**  
+
+Nguyễn Lê Quốc Anh, former CEO of Techcombank (2016-2020), is a candidate for Eximbank's board of directors. Eximbank announced an extraordinary shareholder meeting scheduled for July 24 at JW Marriott Hanoi to consider personnel matters and other board-related items. The meeting will include a proposal for shareholder approval regarding board composition.
+
+- Source: [CafeF](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn)
 
 **Hai ngân hàng chuẩn bị họp cổ đông bất thường bàn vấn đề nhân sự**  
 
@@ -41,8 +47,8 @@ Eximbank announced an adjustment to reduce the number of Board of Directors memb
 
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
 - [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
+- [Thủ tướng bổ nhiệm Tổng Giám đốc Ngân hàng Chính sách xã hội](https://cafef.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-188260630065502297.chn) — CafeF
 - [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn) — CafeF
 
 ---
 

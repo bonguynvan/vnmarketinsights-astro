@@ -1,17 +1,23 @@
 ---
 title: "FPT — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FPT, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # FPT
 
-Recent Vietnam market news mentioning **FPT** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **FPT** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**FE CREDIT tăng tốc chuyển đổi số trong quản trị nguồn nhân lực**  
+
+FE CREDIT has officially partnered with FPT to launch a project implementing the SAP SuccessFactors human resources management system. This project is identified as a key initiative for FE CREDIT in 2026, aimed at building a modern, synchronized, and flexible digital HR management platform. The implementation supports FE CREDIT's long-term development objectives in the context of Vietnam's growing consumer finance market.
+
+- Source: [CafeF](https://cafef.vn/fe-credit-tang-toc-chuyen-doi-so-trong-quan-tri-nguon-nhan-luc-188260722113555277.chn)
 
 **Gặp Thủ tướng, Chủ tịch Viettel Tào Đức Thắng đưa ra đề xuất cho loạt doanh nghiệp gồm Viettel, VNPT, MobiFone, FPT, CMC,...**  
 
@@ -40,9 +46,9 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 ## Related coverage
 
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
-- [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
 - [Phó Thủ tướng: Không để doanh nghiệp thiếu vốn](https://cafef.vn/pho-thu-tuong-khong-de-doanh-nghiep-thieu-von-188260704160612542.chn) — CafeF
-- [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
+- [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
+- [Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực](https://cafef.vn/kinh-te-xa-hoi-duy-tri-da-tang-truong-tich-cuc-tren-hau-het-cac-linh-vuc-188260706110742895.chn) — CafeF
 
 ---
 

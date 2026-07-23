@@ -1,17 +1,29 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
+
+Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
+
+- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
+
+**Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank**  
+
+Nguyễn Lê Quốc Anh, former CEO of Techcombank (2016-2020), is a candidate for Eximbank's board of directors. Eximbank announced an extraordinary shareholder meeting scheduled for July 24 at JW Marriott Hanoi to consider personnel matters and other board-related items. The meeting will include a proposal for shareholder approval regarding board composition.
+
+- Source: [CafeF](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn)
 
 **Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá**  
 
@@ -73,24 +85,12 @@ Bank shareholders received hundreds of billions of dong in cash dividends as MB 
 
 - Source: [CafeF](https://cafef.vn/co-dong-ngan-hang-nhan-nghin-ty-co-tuc-bang-tien-mat-188260706093517075.chn)
 
-**Techcombank đồng tổ chức Diễn đàn tài chính cấp quốc gia VFF 2026: Dẫn dắt dòng vốn, kiến tạo tăng trưởng**  
-
-Techcombank is co-organizing Vietnam Financial Forum 2026 (VFF 2026), a national-level financial forum scheduled for July 9-10, 2026 in Da Nang. The forum aims to implement key strategies that promote the country's economic development. Vietnam is accelerating regional financial market integration.
-
-- Source: [CafeF](https://cafef.vn/techcombank-dong-to-chuc-dien-dan-tai-chinh-cap-quoc-gia-vff-2026-dan-dat-dong-von-kien-tao-tang-truong-188260706105943874.chn)
-
-**Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu**  
-
-Multiple Vietnamese banks including Techcombank, VPBank, MB, HDBank, SHB, and MSB are planning large-scale capital increases through stock issuances in 2026. The total volume of bank shares expected to reach the market in 2026 has exceeded 12 billion units and could increase further if state-owned banks gain approval for dividend distribution plans.
-
-- Source: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
-
 ## Related coverage
 
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 - [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
 - [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn) — CafeF
+- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
 
 ---
 

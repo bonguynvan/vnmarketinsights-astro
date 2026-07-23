@@ -1,17 +1,23 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # Ngân hàng Nhà nước Việt Nam
 
-Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ông Trần Văn Phước được bổ nhiệm làm Giám đốc NHNN Khu vực 15**  
+
+Trần Văn Phước has been appointed as Director of the State Bank of Vietnam's Region 15 branch, effective July 15, 2026, until retirement age. The appointment was announced at a conference held on July 21 in An Giang province. Region 15 covers An Giang and Cà Mau provinces.
+
+- Source: [CafeF](https://cafef.vn/ong-tran-van-phuoc-duoc-bo-nhiem-lam-giam-doc-nhnn-khu-vuc-15-188260722090613228.chn)
 
 **Truy tố 4 nhân viên ngân hàng liên quan số tiền hơn 96 tỷ đồng**  
 
@@ -79,18 +85,12 @@ Vietnam's State Bank Governor Phạm Đức Ấn proposed adding cryptocurrency 
 
 - Source: [CafeF](https://cafef.vn/thong-doc-pham-duc-an-bo-sung-dich-vu-tai-san-ma-hoa-vao-nhom-bao-cao-ve-phong-chong-rua-tien-188260714115138788.chn)
 
-**Doanh nghiệp vẫn khó vay vốn dù có hàng loạt gói tín dụng ưu đãi**  
-
-A dialogue conference was held on July 10 between Ho Chi Minh City authorities, the State Bank of Vietnam's Region 2 branch, and the Ho Chi Minh City Investment and Trade Promotion Center to address business concerns regarding credit policies. Businesses reported persistent difficulties in accessing loans despite multiple preferential credit packages being available. The conference aimed to listen to and resolve obstacles encountered by enterprises in implementing banking policies.
-
-- Source: [CafeF](https://cafef.vn/doanh-nghiep-van-kho-vay-von-du-co-hang-loat-goi-tin-dung-uu-dai-188260711102758089.chn)
-
 ## Related coverage
 
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
+- [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
 - [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn) — CafeF
 
 ---
 

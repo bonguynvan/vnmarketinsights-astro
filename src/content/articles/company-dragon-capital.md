@@ -1,8 +1,8 @@
 ---
 title: "Dragon Capital — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Dragon Capital, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ Foreign funds linked to Dragon Capital have sold millions of shares, while T-Cor
 ## Related coverage
 
 - [VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm) — TuoiTre
+- [Hàng loạt cửa hàng kim cương đóng cửa: Bỏ ngỏ quyền lợi khách hàng](https://cafef.vn/hang-loat-cua-hang-kim-cuong-dong-cua-bo-ngo-quyen-loi-khach-hang-188260722064532814.chn) — CafeF
 - [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
 - [Chứng khoán Rồng Việt sắp phát hành 500 tỷ đồng trái phiếu](https://cafef.vn/chung-khoan-rong-viet-sap-phat-hanh-500-ty-dong-trai-phieu-188260719104335425.chn) — CafeF
-- [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
 
 ---
 

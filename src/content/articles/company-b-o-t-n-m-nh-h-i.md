@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Mạnh Hải
 
-Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng**  
+
+Domestic gold prices reversed sharply downward during the evening trading session on July 22, erasing gains from the morning session. Gold bars at major brands simultaneously fell to 146 million VND per tael at selling prices, with purchase prices declining by up to 1.4 million VND per tael compared to the previous session close, widening the bid-ask spread.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm**  
 
@@ -78,12 +84,6 @@ Gold prices in Vietnam decreased by approximately 400,000 Vietnamese dong per ta
 Gold prices in Vietnam on July 4 show SJC bars and smooth gold rings trading at 151.0-151.4 million VND per tael. Major retailers including SJC, DOJI, and PNJ quote SJC bars at 148.4-151.4 million VND per tael, with smooth gold rings at 148.3-151.3 million VND per tael. Bảo Tín Mạnh Hải offers similar pricing for bars and slightly lower rates for rings.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn)
-
-**Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng**  
-
-Gold prices in Vietnam declined sharply on June 25, with spreads between buy and sell prices for SJC bullion and ring gold widening to 3-4.5 million VND per tael. International gold prices fell below the $4,000 per ounce threshold on June 24. Buyers who purchased gold faced immediate losses of up to 4.5 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn)
 
 ## Related coverage
 

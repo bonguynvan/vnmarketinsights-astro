@@ -1,17 +1,23 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Sinh lời nhàn tênh khác gì với tài khoản thanh toán thông thường?**  
+
+SHB introduces a "Sinh lời nhàn tênh" (effortless income) feature on its SHB SAHA application that allows customers to earn returns on their account balance while maintaining flexibility for daily payments and financial management. The feature positions itself as an alternative to traditional payment accounts, where money typically sits idle awaiting salary deposits or bill payments. The product reflects a broader shift in digital banking from passive money storage toward active cash flow management.
+
+- Source: [CafeF](https://cafef.vn/sinh-loi-nhan-tenh-khac-gi-voi-tai-khoan-thanh-toan-thong-thuong-188260722070456287.chn)
 
 **SHB sắp thu về nguồn thặng dư vốn lớn từ thương vụ với Krungsri**  
 
@@ -81,10 +87,10 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 
 ## Related coverage
 
-- [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
+- [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
 - [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
-- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

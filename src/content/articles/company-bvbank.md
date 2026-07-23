@@ -1,17 +1,23 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-21"
-lastUpdated: "2026-07-21"
+publishedDate: "2026-07-22"
+lastUpdated: "2026-07-22"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Từ UPCoM lên HOSE: Cột mốc mới trong hành trình phát triển của BVBank**  
+
+BVBank officially listed its BVB shares on HOSE (Ho Chi Minh City Stock Exchange) on July 21, 2026, becoming the next bank to join Vietnam's largest securities exchange. The listing marks a significant milestone in BVBank's development strategy following years of preparation. The move represents both a change in listing venue and an important step in the bank's strategic growth journey.
+
+- Source: [CafeF](https://cafef.vn/tu-upcom-len-hose-cot-moc-moi-trong-hanh-trinh-phat-trien-cua-bvbank-188260722113207478.chn)
 
 **Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
 
@@ -79,18 +85,12 @@ BVBank is experiencing steady growth across asset size, credit, and profitabilit
 
 - Source: [CafeF](https://cafef.vn/dieu-gi-dung-sau-su-chuyen-dong-an-tuong-cua-bvbank-188260703165026165.chn)
 
-**BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa**  
-
-BVBank officially launched Google Wallet payment service for BVBank Visa credit cardholders, marking a step forward in its digital payment ecosystem expansion. The launch includes an attractive promotional offer of 100,000 VND cashback for customers. The service aims to provide customers with modern, secure, and convenient payment experiences.
-
-- Source: [CafeF](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn)
-
 ## Related coverage
 
 - [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
 - [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
+- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
-- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 
 ---
 
