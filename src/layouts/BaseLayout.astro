@@ -283,20 +283,14 @@ const allSchemas = [
     <div class="growth-modal__overlay"></div>
     <div class="growth-modal__container">
       <button type="button" class="growth-modal__close" id="growth-modal-close" aria-label="Close">×</button>
-      <h3>Get daily Vietnam market headlines</h3>
-      <p>Follow our Telegram channel for a quick daily digest of Vietnam market news — no signup, just tap Join.</p>
-      <a
-        class="growth-modal__cta"
-        href="https://t.me/vnmarketinsights"
-        target="_blank"
-        rel="noopener"
-        data-track-event="growth_modal_telegram_click"
-        data-track-category="acquisition"
-        data-track-label="telegram"
-      >
-        Join on Telegram →
-      </a>
-      <span class="growth-modal__note">Free · leave anytime.</span>
+      <h3>Get the Vietnam market brief by email</h3>
+      <p>One short email with key market updates and newly published reference pages. Free · leave anytime.</p>
+      <form class="growth-modal__form" id="growth-modal-form" novalidate>
+        <input type="email" id="growth-email" name="email" placeholder="you@company.com" autocomplete="email" required aria-label="Email address" />
+        <button type="submit">Get the brief</button>
+      </form>
+      <span class="growth-modal__status" id="growth-modal-status" role="status" aria-live="polite"></span>
+      <span class="growth-modal__note">Prefer no signup? <a href="https://t.me/vnmarketinsights" target="_blank" rel="noopener" data-track-event="growth_modal_telegram_click" data-track-category="acquisition" data-track-label="telegram">Join on Telegram →</a></span>
     </div>
   </div>
 

@@ -1,33 +1,69 @@
 ---
-// Subscribe CTA. Email collection is paused (no durable serverless store yet),
-// so this points readers to the Telegram channel — a zero-signup subscribe path.
-// title/description props are accepted for backward compatibility but unused.
+// Email subscribe CTA. Posts to /api/leads/subscribe (Buttondown, double opt-in).
+// title/description customize the heading/subhead; `source` tags the lead.
 interface Props {
   title?: string;
   description?: string;
   source?: string;
 }
 
-const { source = 'generic' } = Astro.props;
+const { source = 'generic', title, description } = Astro.props;
+const heading = title ?? 'Get the Vietnam market brief by email';
+const sub = description ?? 'One short email with key market updates and newly published reference pages. Free · leave anytime.';
 const TELEGRAM_URL = 'https://t.me/vnmarketinsights';
 ---
 
 <section class="lead-capture" data-source={source}>
-  <h2>Get daily Vietnam market headlines</h2>
-  <p>Follow our Telegram channel for a quick daily digest of Vietnam market news — no signup, just tap <strong>Join</strong>.</p>
-  <a
-    class="lead-capture__cta"
-    href={TELEGRAM_URL}
-    target="_blank"
-    rel="noopener"
-    data-track-event="lead_capture_telegram_click"
-    data-track-category="acquisition"
-    data-track-label={source}
-  >
-    Join on Telegram →
-  </a>
-  <p class="lead-capture__meta">Free · leave anytime. Prefer to browse? Read the <a href="/insights">latest insights</a>.</p>
+  <h2>{heading}</h2>
+  <p>{sub}</p>
+  <form class="lead-capture__form" data-source={source} novalidate>
+    <input type="email" name="email" placeholder="you@company.com" autocomplete="email" required aria-label="Email address" />
+    <button type="submit">Get the brief</button>
+  </form>
+  <span class="lead-capture__status" role="status" aria-live="polite"></span>
+  <p class="lead-capture__meta">Prefer no signup? <a href={TELEGRAM_URL} target="_blank" rel="noopener" data-track-event="lead_capture_telegram_click" data-track-category="acquisition" data-track-label={source}>Join on Telegram →</a></p>
 </section>
+
+<script>
+  document.querySelectorAll('.lead-capture__form').forEach((form) => {
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      const f = event.currentTarget as HTMLFormElement;
+      const input = f.querySelector('input[type="email"]') as HTMLInputElement | null;
+      const status = f.parentElement?.querySelector('.lead-capture__status') as HTMLElement | null;
+      const button = f.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+      const email = input?.value?.trim();
+      if (!email) return;
+      const source = f.getAttribute('data-source') || 'lead_capture';
+      if (status) { status.textContent = 'Submitting…'; status.classList.remove('is-error', 'is-success'); }
+      button?.setAttribute('disabled', 'disabled');
+
+      const growth = (window as any).vmiGrowthContext;
+      const req = growth?.submitLead
+        ? growth.submitLead({ email, source, context: { reason: 'lead_capture_submit' } })
+        : Promise.reject(new Error('unavailable'));
+
+      req.then((res: any) => {
+        if (status) {
+          status.textContent = res?.alreadySubscribed
+            ? 'You are already subscribed and confirmed.'
+            : 'Check your inbox to confirm your subscription.';
+          status.classList.add('is-success');
+        }
+        if (input) input.value = '';
+        (window as any).vmiTrack?.('lead_capture_submit', {
+          event_category: 'acquisition',
+          event_label: source,
+          email_domain: email.split('@')[1] || ''
+        });
+      }).catch(() => {
+        if (status) { status.textContent = 'Could not subscribe right now. Please try again.'; status.classList.add('is-error'); }
+      }).finally(() => {
+        button?.removeAttribute('disabled');
+      });
+    });
+  });
+</script>
 
 <style>
   .lead-capture {
@@ -45,18 +81,46 @@ const TELEGRAM_URL = 'https://t.me/vnmarketinsights';
     margin: 0 0 var(--space-4) 0;
     color: var(--color-text-muted);
   }
-  .lead-capture__cta {
-    display: inline-flex;
-    align-items: center;
+  .lead-capture__form {
+    display: flex;
+    gap: var(--space-2);
+    flex-wrap: wrap;
+  }
+  .lead-capture__form input {
+    flex: 1 1 240px;
+    padding: var(--space-3);
+    border: 1px solid var(--color-border);
     border-radius: 2px;
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-size: var(--text-base);
+  }
+  .lead-capture__form input:focus {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 1px;
+    border-color: var(--color-accent);
+  }
+  .lead-capture__form button {
     padding: var(--space-3) var(--space-5);
+    border: none;
+    border-radius: 2px;
     font-weight: 600;
     color: white;
     background: var(--color-accent);
-    text-decoration: none;
+    cursor: pointer;
     transition: background 0.2s ease;
   }
-  .lead-capture__cta:hover { background: var(--color-accent-hover); color: white; }
+  .lead-capture__form button:hover { background: var(--color-accent-hover); }
+  .lead-capture__form button:disabled { opacity: 0.6; cursor: default; }
+  .lead-capture__status {
+    display: block;
+    margin-top: var(--space-2);
+    min-height: 1.2em;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+  .lead-capture__status.is-success { color: #15803d; }
+  .lead-capture__status.is-error { color: #b91c1c; }
   .lead-capture__meta {
     margin: var(--space-4) 0 0;
     font-size: var(--text-sm);

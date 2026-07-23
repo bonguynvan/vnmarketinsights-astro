@@ -1,6 +1,11 @@
-import { upsertPendingLead } from '@utils/leadStore';
+// Lead capture -> Buttondown. Buttondown is the durable store AND the email
+// sender: double opt-in is on by default, so a new subscriber gets a
+// confirmation email (which also delivers the lead magnet). Env-gated — without
+// BUTTONDOWN_API_KEY the endpoint returns 503 so the client shows a graceful
+// retry message, matching the repo's degrade-when-unset convention.
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const BUTTONDOWN_SUBSCRIBERS = 'https://api.buttondown.com/v1/subscribers';
 
 type LeadPayload = {
   email?: string;
@@ -11,19 +16,17 @@ type LeadPayload = {
   context?: Record<string, unknown>;
 };
 
-async function forwardToWebhook(payload: LeadPayload) {
-  const webhook = import.meta.env.LEAD_WEBHOOK_URL;
-  if (!webhook) return;
+function json(body: unknown, status: number): Response {
+  return new Response(JSON.stringify(body), {
+    status,
+    headers: { 'Content-Type': 'application/json' }
+  });
+}
 
-  try {
-    await fetch(webhook, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    });
-  } catch (error) {
-    console.error('Lead webhook forwarding failed:', error);
-  }
+function getApiKey(): string | undefined {
+  // Belt-and-suspenders: import.meta.env for build-time, process.env for the
+  // value Vercel injects only at serverless runtime.
+  return import.meta.env.BUTTONDOWN_API_KEY || process.env.BUTTONDOWN_API_KEY;
 }
 
 export async function POST({ request }: { request: Request }) {
@@ -31,66 +34,66 @@ export async function POST({ request }: { request: Request }) {
   try {
     payload = await request.json();
   } catch {
-    return new Response(JSON.stringify({ success: false, error: 'Invalid JSON payload' }), {
-      status: 400,
-      headers: { 'Content-Type': 'application/json' }
-    });
+    return json({ success: false, error: 'Invalid JSON payload' }, 400);
   }
 
   const email = payload.email?.trim().toLowerCase();
   if (!email || !EMAIL_REGEX.test(email)) {
-    return new Response(JSON.stringify({ success: false, error: 'Invalid email address' }), {
-      status: 400,
-      headers: { 'Content-Type': 'application/json' }
-    });
+    return json({ success: false, error: 'Invalid email address' }, 400);
   }
 
-  const safePayload: LeadPayload = {
-    email,
-    source: payload.source,
-    path: payload.path,
-    visitorCode: payload.visitorCode,
-    referrerCode: payload.referrerCode,
-    context: payload.context
-  };
-
-  const upsert = upsertPendingLead(safePayload);
-  const origin = new URL(request.url).origin;
-  const confirmLink = `${origin}/api/leads/confirm/${encodeURIComponent(upsert.lead.confirmToken)}`;
-  const exposeConfirmLink = import.meta.env.DEV || import.meta.env.PUBLIC_EXPOSE_CONFIRM_LINK === 'true';
-
-  if (upsert.status === 'already_confirmed') {
-    return new Response(JSON.stringify({ success: true, alreadySubscribed: true }), {
-      status: 200,
-      headers: { 'Content-Type': 'application/json' }
-    });
+  const apiKey = getApiKey();
+  if (!apiKey) {
+    return json({ success: false, error: 'Email signup is being set up.' }, 503);
   }
 
-  await forwardToWebhook({
-    ...safePayload,
-    context: {
-      ...(safePayload.context || {}),
-      confirmLink,
-      confirmationStatus: upsert.status
-    }
-  });
+  const source = typeof payload.source === 'string' ? payload.source : 'generic';
 
-  return new Response(JSON.stringify({
-    success: true,
-    status: 'pending_confirmation',
-    ...(exposeConfirmLink ? { confirmLink } : {})
-  }), {
-    status: 200,
-    headers: { 'Content-Type': 'application/json' }
-  });
+  let res: Response;
+  try {
+    res = await fetch(BUTTONDOWN_SUBSCRIBERS, {
+      method: 'POST',
+      headers: {
+        // Buttondown uses "Token", NOT "Bearer".
+        Authorization: `Token ${apiKey}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        email_address: email, // Buttondown's field is email_address, not email.
+        metadata: { source, path: payload.path || '' }
+      })
+    });
+  } catch (error) {
+    console.error('Buttondown request failed:', error);
+    return json({ success: false, error: 'Subscription service unavailable.' }, 502);
+  }
+
+  if (res.ok) {
+    // Double opt-in: the subscriber is pending until they click confirm.
+    return json({ success: true, status: 'pending_confirmation' }, 200);
+  }
+
+  // A duplicate means they are already on the list — treat as success.
+  let detail = '';
+  try {
+    detail = JSON.stringify(await res.json()).toLowerCase();
+  } catch {
+    /* body not JSON — ignore */
+  }
+  const isDuplicate =
+    (res.status === 400 || res.status === 409) &&
+    (detail.includes('already') || detail.includes('exists') || detail.includes('duplicate'));
+  if (isDuplicate) {
+    return json({ success: true, alreadySubscribed: true }, 200);
+  }
+
+  console.error('Buttondown subscribe error:', res.status, detail);
+  return json({ success: false, error: 'Could not subscribe right now.' }, 502);
 }
 
 export async function GET() {
   return new Response(JSON.stringify({ success: false, error: 'Method not allowed' }), {
     status: 405,
-    headers: {
-      'Content-Type': 'application/json',
-      Allow: 'POST'
-    }
+    headers: { 'Content-Type': 'application/json', Allow: 'POST' }
   });
 }
