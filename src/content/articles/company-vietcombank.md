@@ -1,17 +1,23 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (77 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (78 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 banks on July 23 shows that the interest rate floor remains stable. Seven banks are offering deposit rates of 7% per annum or higher for 12-month terms. The article provides a snapshot of current banking interest rates across major Vietnamese lenders.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260723163729659.chn)
 
 **NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
 
@@ -79,18 +85,12 @@ A survey of online deposit interest rates across 34 banks on July 19 shows the i
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-19-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-188260719171059549.chn)
 
-**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
-
-Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank—have extended over 27,000 billion VND in loans for a BOT transportation project led by Đèo Cả Group, Tasco, and CII. This is the largest-scale credit financing for a BOT transport project in Vietnam, designed to meet growing transportation demand between provinces in the Southeast region, particularly between Ho Chi Minh City and the Mekong Delta. The project contributes to improving the national north-south transport corridor network.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

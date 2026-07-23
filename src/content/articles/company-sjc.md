@@ -1,17 +1,41 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (31 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SJC trả tiền mua vàng trong ngày, kim cương trong 48 giờ**  
+
+SJC announced that it purchases gold products with same-day payment and diamond products with payment within 48 hours. The company continues its gold buyback operations at its location on Nguyen Thi Minh Khai Street in Ho Chi Minh City. Payment terms vary by product type, with gold bars, gold rings, and jewelry processed on the same day.
+
+- Source: [CafeF](https://cafef.vn/sjc-tra-tien-mua-vang-trong-ngay-kim-cuong-trong-48-gio-188260723121506764.chn)
+
+**Giá vàng giảm 7 triệu đồng/lượng**  
+
+SJC gold bars declined by up to 7 million VND per tael on July 23, 2026, with a bid-ask spread reaching 5 million VND per tael. Gold prices, including plain rings and bars from major retailers SJC and PNJ, have been falling significantly. Multiple gold dealers including SJC, PNJ, DOJI, and Bảo Tín Mạnh Hải have adjusted prices downward by up to 1.4 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-giam-7-trieu-dong-luong-188260723150405692.chn)
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 23/7 giảm tới 7 triệu đồng/lượng, SJC và PNJ niêm yết giá mua vào rất thấp**  
+
+Gold prices in Vietnam declined sharply on the evening of July 23, with plain gold rings and gold bars falling up to 7 million dong per tael. Major retailers SJC and PNJ posted very low buying-in prices. International gold prices also weakened significantly after two consecutive days of gains.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-23-7-giam-toi-7-trieu-dong-luong-sjc-va-pnj-niem-yet-gia-mua-vao-rat-thap-188260723070404988.chn)
+
+**Tối 23/7, giá vàng giảm mạnh**  
+
+Gold prices declined sharply on the evening of July 23 as investors shifted focus to concerns about rising oil prices and the possibility of the US Federal Reserve maintaining higher interest rates for longer. Despite escalating geopolitical tensions in the Middle East, global gold prices faced downward adjustment pressure. Gold ring and bullion prices fell by up to 7 million VND per tael on the evening of July 23, with SJC and PNJ retailers quoting very low purchase prices.
+
+- Source: [CafeF](https://cafef.vn/toi-23-7-gia-vang-giam-manh-188260723204718209.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng**  
 
@@ -61,36 +85,12 @@ Domestic gold prices surged over 1 million VND per tael on July 15 after global 
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tai-sjc-bao-tin-minh-chau-bao-tin-manh-hai-doji-ngay-15-7-18826071507231706.chn)
 
-**Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng**  
-
-SJC gold ring and bar prices declined sharply on July 14th. Investors who had recently purchased experienced losses of nearly 5 million VND per tael. The bid-ask spread for gold bars remained high at 3-4.9 million VND per tael, while gold rings showed spreads of 3.5-4 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn)
-
-**Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7**  
-
-SJC gold bars were quoted at 146.9 – 149.9 million dong per tael on the morning of July 12, unchanged from the previous day. Plain gold rings showed price variation across different brands, with Bảo Tín Mạnh Hải and DOJI quoting 145.0 – 149.0 million dong per tael, while SJC quoted 146.4 – 149.4 million dong per tael. Gold prices had risen sharply earlier in the week before declining by 3 million dong per tael in subsequent trading sessions.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn)
-
-**Giá vàng miếng SJC, vàng nhẫn trơn chiều 11/7**  
-
-Gold bar and ring prices were quoted around 149-150 million VND/tael on July 11 afternoon in Vietnam. SJC Company listed gold bars at 146.9-149.9 million VND/tael and smooth rings at 146.6-149.6 million VND/tael. Bảo Tín Mạnh Hải had adjusted gold prices higher on July 10 and maintained them on the morning of July 11, with bars at 146.9-149.9 million VND/tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-sang-11-7-188260711083312308.chn)
-
-**Giá vàng miếng, vàng nhẫn trơn ngày 10/7 đảo chiều tăng mạnh lên 150 triệu đồng/lượng**  
-
-Gold bar and smooth gold ring prices reversed course and rose sharply on July 10, reaching approximately 150 million VND per tael. The bid-ask spread widened to around 3-4 million VND per tael. Major dealers including SJC and Bảo Tín Mạnh Hải increased their gold quotations significantly during the morning session.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-ngay-10-7-dao-chieu-tang-manh-len-150-trieu-dong-luong-188260710082101171.chn)
-
 ## Related coverage
 
-- [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng SJC, vàng nhẫn chiều ngày 14/7](https://cafef.vn/gia-vang-sjc-vang-nhan-chieu-ngay-14-7-188260714141048683.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
+- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
+- [Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn) — CafeF
 
 ---
 

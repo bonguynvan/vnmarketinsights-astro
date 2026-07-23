@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bất ngờ với giá thu mua vàng PNJ hôm nay ngày 23/7**  
+
+PNJ reduced its listed prices for SJC gold bars and PNJ-branded 999 gold on July 23rd. The price for SJC gold bars at PNJ outlets decreased by 6 million VND per tael on the buying side and 4 million VND per tael on the selling side. Transaction demand for PNJ-branded gold has increased recently, with major brands such as Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and DOJI also adjusting their gold purchase prices accordingly.
+
+- Source: [CafeF](https://cafef.vn/bat-ngo-voi-gia-thu-mua-vang-pnj-hom-nay-ngay-23-7-188260723095522356.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 21/7 đồng loạt hạ nhiệt**  
 
@@ -77,8 +83,8 @@ Gold prices in Vietnam fell sharply on the morning of June 19, with bar gold dec
 
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn) — CafeF
 - [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
-- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
+- [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 
 ---
 

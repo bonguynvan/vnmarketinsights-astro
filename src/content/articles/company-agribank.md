@@ -1,17 +1,23 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (60 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (61 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 banks on July 23 shows that the interest rate floor remains stable. Seven banks are offering deposit rates of 7% per annum or higher for 12-month terms. The article provides a snapshot of current banking interest rates across major Vietnamese lenders.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260723163729659.chn)
 
 **Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -79,18 +85,12 @@ A banking interest rate survey conducted on July 18 shows stability in online de
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn)
 
-**Thay đổi lớn trong giao dịch chuyển khoản ngân hàng: Người dùng có thể hủy lệnh trong thời gian chờ**  
-
-The State Bank of Vietnam has directed banks to implement a service allowing customers to set limits and waiting periods for online transfer transactions. The new service enables users to cancel transfer orders during the waiting period. This change represents a significant shift in how bank transfers are processed, with implementation expected from 2026 across major banks including Vietcombank, VietinBank, Agribank, and BIDV.
-
-- Source: [CafeF](https://cafef.vn/thay-doi-lon-trong-giao-dich-chuyen-khoan-ngan-hang-nguoi-dung-co-the-huy-lenh-trong-thoi-gian-cho-18826071707352814.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 
 ---
 

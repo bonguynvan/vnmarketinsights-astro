@@ -1,8 +1,8 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---

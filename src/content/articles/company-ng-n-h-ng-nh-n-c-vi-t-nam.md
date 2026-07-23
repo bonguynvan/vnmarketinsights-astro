@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank ủng hộ 15 tỷ đồng cho Quỹ “Đền ơn đáp nghĩa”, góp phần tri ân người có công với Cách mạng**  
+
+TPBank donated 15 billion Vietnamese dong to the "Gratitude Fund" in response to a call from the Prime Minister and the State Bank of Vietnam. The donation was announced on July 23, 2026, at a national conference honoring those with contributions to the revolution held at the National Convention Center in Hanoi. The bank stated its action reflects corporate social responsibility and commitment to supporting those with historical contributions to the nation's revolution.
+
+- Source: [CafeF](https://cafef.vn/tpbank-ung-ho-15-ty-dong-cho-quy-den-on-dap-nghia-gop-phan-tri-an-nguoi-co-cong-voi-cach-mang-188260723154658527.chn)
 
 **Ông Trần Văn Phước được bổ nhiệm làm Giám đốc NHNN Khu vực 15**  
 
@@ -79,18 +85,12 @@ Vietnam's State Bank Governor Pham Duc An presented a draft law amending banking
 
 - Source: [CafeF](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn)
 
-**Thống đốc Phạm Đức Ấn: Bổ sung dịch vụ tài sản mã hóa vào nhóm báo cáo về phòng, chống rửa tiền**  
-
-Vietnam's State Bank Governor Phạm Đức Ấn proposed adding cryptocurrency asset services to the group of anti-money laundering reporting requirements. The proposal was discussed during the National Assembly Standing Committee's 4th regular session in July, as part of a draft law amending banking and anti-money laundering legislation. The amendment aims to institutionalize Party policies and ensure compliance with regulatory standards.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-pham-duc-an-bo-sung-dich-vu-tai-san-ma-hoa-vao-nhom-bao-cao-ve-phong-chong-rua-tien-188260714115138788.chn)
-
 ## Related coverage
 
 - [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
 - [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
+- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 
 ---
 

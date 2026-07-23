@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank ủng hộ 15 tỷ đồng cho Quỹ “Đền ơn đáp nghĩa”, góp phần tri ân người có công với Cách mạng**  
+
+TPBank donated 15 billion Vietnamese dong to the "Gratitude Fund" in response to a call from the Prime Minister and the State Bank of Vietnam. The donation was announced on July 23, 2026, at a national conference honoring those with contributions to the revolution held at the National Convention Center in Hanoi. The bank stated its action reflects corporate social responsibility and commitment to supporting those with historical contributions to the nation's revolution.
+
+- Source: [CafeF](https://cafef.vn/tpbank-ung-ho-15-ty-dong-cho-quy-den-on-dap-nghia-gop-phan-tri-an-nguoi-co-cong-voi-cach-mang-188260723154658527.chn)
 
 **Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
 
@@ -81,10 +87,10 @@ Six banks reduced their average lending rates in May compared to April. GPBank l
 
 ## Related coverage
 
-- [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
+- [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

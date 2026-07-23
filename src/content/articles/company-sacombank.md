@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7**  
+
+A bank stock unexpectedly surged to the daily limit on July 23 ahead of an extraordinary shareholder meeting to discuss personnel matters. Eximbank's EIB stock rose the daily limit of 6.97% to 17,650 VND per share with no sellers. Multiple bank stocks turned positive in afternoon trading on July 23, including Sacombank (STB), Kienlongbank (KLB), and Nam A Bank (NAB), each gaining around 3%.
+
+- Source: [CafeF](https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-tang-kich-tran-phien-23-7-188260723135214003.chn)
+
+**Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 banks on July 23 shows that the interest rate floor remains stable. Seven banks are offering deposit rates of 7% per annum or higher for 12-month terms. The article provides a snapshot of current banking interest rates across major Vietnamese lenders.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-23-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260723163729659.chn)
 
 **SACOMBANK triển khai gói tín dụng ưu đãi 20.000 tỷ đồng với cơ chế cho vay đặc biệt dành cho doanh nghiệp xuất nhập khẩu**  
 
@@ -73,24 +85,12 @@ Several bank stocks displayed positive momentum despite a sluggish overall marke
 
 - Source: [CafeF](https://cafef.vn/nhieu-co-phieu-ngan-hang-dien-bien-tich-cuc-du-thi-truong-chung-am-dam-188260716074624331.chn)
 
-**Cổ phiếu ngân hàng hồi phục ngoạn mục phiên 16/7: HDB, STB, ACB dẫn đầu tăng giá**  
-
-On July 16, 2024, the Vietnamese stock market recovered sharply, led by banking stocks HDB, ACB, and STB which posted strong gains. The market experienced significant selling pressure at the opening which caused the VN-Index to decline substantially, but strong bottom-fishing demand in the afternoon session reversed the decline. Foreign investors actively participated in the rally, particularly in banking shares.
-
-- Source: [CafeF](https://cafef.vn/co-phieu-ngan-hang-hoi-phuc-ngoan-muc-phien-16-7-hdb-stb-acb-dan-dau-tang-gia-188260716175500362.chn)
-
-**Lãi suất ngân hàng 16/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of deposit interest rates across 34 banks on July 16 shows the interest rate landscape remains stable. The highest rate remains 7.3% per annum for a 12-month term, with only 6 banks quoting rates of 7% per annum or higher.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 16/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7**  
+
+A bank stock unexpectedly surged to the daily limit on July 23 ahead of an extraordinary shareholder meeting to discuss personnel matters. Eximbank's EIB stock rose the daily limit of 6.97% to 17,650 VND per share with no sellers. Multiple bank stocks turned positive in afternoon trading on July 23, including Sacombank (STB), Kienlongbank (KLB), and Nam A Bank (NAB), each gaining around 3%.
+
+- Source: [CafeF](https://cafef.vn/mot-co-phieu-ngan-hang-bat-ngo-tang-kich-tran-phien-23-7-188260723135214003.chn)
 
 **Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank**  
 
@@ -46,9 +52,9 @@ Eximbank announced an adjustment to reduce the number of Board of Directors memb
 ## Related coverage
 
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
-- [Thủ tướng bổ nhiệm Tổng Giám đốc Ngân hàng Chính sách xã hội](https://cafef.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-188260630065502297.chn) — CafeF
-- [Cổ đông VietinBank, BIDV, Vietcombank đón tin vui](https://cafef.vn/co-dong-vietinbank-bidv-vietcombank-don-tin-vui-188260709165312985.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-22"
-lastUpdated: "2026-07-22"
+publishedDate: "2026-07-23"
+lastUpdated: "2026-07-23"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank đồng hành hộ kinh doanh và cá nhân kinh doanh thích ứng chuyển đổi số và quy định thuế mới**  
+
+LPBank is deploying financial solutions targeting households and individual business owners to help them adapt to digital transformation and new tax regulations. The bank aims to support customers with cashless payments, tax management, and digital transformation. These initiatives are designed to enhance operational efficiency and cash flow management.
+
+- Source: [CafeF](https://cafef.vn/lpbank-dong-hanh-ho-kinh-doanh-va-ca-nhan-kinh-doanh-thich-ung-chuyen-doi-so-va-quy-dinh-thue-moi-188260723120445614.chn)
 
 **Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
 
@@ -79,18 +85,12 @@ A survey of online deposit interest rates across 34 banks on June 29 shows conti
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
 
-**Tổng Giám đốc LPBank được vinh danh “Lãnh đạo Sáng tạo và Chuyển đổi số”**  
-
-LPBank received recognition at the Vietnam I4 Impact Awards 2026 in two categories. CEO Vũ Quốc Khánh was honored as "Innovative Leader and Digital Transformation Leader." The bank's technology products LPBank Plus and LocPhat Pay received the "Outstanding Digital Service" award. Vietnam I4 Impact Award is presented by the Ministry of Science and Technology in conjunction with the Vietnam Science and Technology Association.
-
-- Source: [CafeF](https://cafef.vn/tong-giam-doc-lpbank-duoc-vinh-danh-lanh-dao-sang-tao-va-chuyen-doi-so-188260626123828619.chn)
-
 ## Related coverage
 
 - [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
-- [Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn) — CafeF
+- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
 
 ---
 
