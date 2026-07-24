@@ -1,17 +1,23 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (61 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (62 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 Vietnamese banks on July 23, 2026 shows the rate landscape remains stable. Seven banks are offering interest rates of 7% per annum or higher for 12-month fixed deposits. The article tracks daily changes in lending and deposit rates at major institutions including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn)
 
 **Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ Several bank stocks displayed positive momentum despite a sluggish overall marke
 A survey of deposit interest rates across 34 banks on July 16 shows the interest rate landscape remains stable. The highest rate remains 7.3% per annum for a 12-month term, with only 6 banks quoting rates of 7% per annum or higher.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-16-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260716180139975.chn)
-
-**Các ngân hàng chi số tiền lớn kỷ lục trả cổ tức tiền mặt: Vẫn còn 5 ngân hàng chưa chốt quyền**  
-
-Vietnamese banks are distributing record-breaking cash dividends in 2026, with a total payout exceeding 48,000 billion Vietnamese dong. Five banks have yet to finalize dividend record dates. This represents the largest cash dividend payout in the history of the Vietnamese banking sector.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn)
 
 ## Related coverage
 

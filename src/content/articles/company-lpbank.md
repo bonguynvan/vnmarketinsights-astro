@@ -1,17 +1,29 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank thông báo dừng chương trình tặng tiền cho khách hàng**  
+
+LPBank announced the early termination of a customer rewards program that was originally scheduled to run until September 30, 2026. The bank halted the "Invite Friends - Enjoy Rewards" promotional campaign due to exhaustion of the allocated budget. The decision to end the program prematurely was made after the incentive budget was fully utilized.
+
+- Source: [CafeF](https://cafef.vn/lpbank-thong-bao-dung-chuong-trinh-tang-tien-cho-khach-hang-188260724110049219.chn)
+
+**LPBank đóng góp 15 tỷ đồng chăm lo người có công, nối dài hành trình "Đền ơn đáp nghĩa"**  
+
+LPBank contributed 15 billion Vietnamese dong through the State Bank of Vietnam to support welfare programs for war veterans, fallen soldiers' families, and other individuals with contributions to the revolution. The contribution is part of a national movement to honor those with service to the country. This activity was conducted within the framework of a conference recognizing those with contributions to the revolution.
+
+- Source: [CafeF](https://cafef.vn/lpbank-dong-gop-15-ty-dong-cham-lo-nguoi-co-cong-noi-dai-hanh-trinh-den-on-dap-nghia-188260724123814809.chn)
 
 **LPBank đồng hành hộ kinh doanh và cá nhân kinh doanh thích ứng chuyển đổi số và quy định thuế mới**  
 
@@ -73,24 +85,12 @@ LPBank received two ESG-related awards, including the Green Leadership award at 
 
 - Source: [VnExpress](https://vnexpress.net/lpbank-nhan-hai-giai-thuong-ve-esg-5093282.html)
 
-**Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng**  
-
-The rankings of Vietnamese banks by profitability have shifted significantly over a decade, with changes reflecting differences in growth strategies, operational efficiency, and expansion pace among institutions. VPBank and HDBank are predicted to lead profit growth in the second quarter, according to securities analysts. Several banks have experienced notable rank changes, including HDBank and LPBank moving up impressively while another bank fell 10 positions.
-
-- Source: [CafeF](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn)
-
-**Lãi suất ngân hàng 29/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates across 34 banks on June 29 shows continued market segmentation. The article presents rankings of bank profitability changes over a decade and analyst predictions for Q2 profit growth among major banks. No specific interest rates or financial figures are detailed in this excerpt.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-29-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260629171751728.chn)
-
 ## Related coverage
 
 - [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
-- [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [LPBank có gì đặc biệt?](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn) — CafeF
+- [Một cổ phiếu ngân hàng được thỏa thuận đột biến trong phiên 23/6, hơn 7.500 tỷ đồng được trao tay](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-thoa-thuan-dot-bien-trong-phien-23-6-hon-7500-ty-dong-duoc-trao-tay-18826062316154226.chn) — CafeF
+- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---
 

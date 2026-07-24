@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gặp Phó Thủ tướng, lãnh đạo Sun Group đưa ra kiến nghị gì cho dự án kết nối với 'siêu sân bay' hơn 196.000 tỷ đồng**  
+
+A meeting was chaired by Deputy Prime Minister Pham Gia Tuc to review the construction progress of a road connecting Gia Bình International Airport with Hanoi capital city. Leaders from Bac Ninh Province, Hanoi City Government, Sun Group, and Hai Phong City presented updates on land clearance and facility relocation. The project involves a 196,000 billion VND infrastructure investment connecting a major airport hub with the capital.
+
+- Source: [CafeF](https://cafef.vn/gap-pho-thu-tuong-lanh-dao-sun-group-dua-ra-kien-nghi-gi-cho-du-an-ket-noi-voi-sieu-san-bay-hon-196000-ty-dong-188260724142559747.chn)
 
 **Sun PhuQuoc Airways công bố loạt đường bay quốc tế mới, gia nhập cuộc đua xây dựng hệ sinh thái khách hàng thân thiết**  
 
@@ -79,18 +85,12 @@ The State Bank of Vietnam has implemented special mechanisms for 18 projects of 
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn)
 
-**Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng**  
-
-Gold prices for SJC bullion bars and gold rings have declined by over 15 million Vietnamese dong per tael in nearly one month. Experts suggest that gold prices may face difficulty declining sharply further following the recent downtrend. The article discusses banking interest rates and lending activities by major banks for projects by Vingroup, Sun Group, and Masterise.
-
-- Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
-
 ## Related coverage
 
 - [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
 - [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
-- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
 
 ---
 

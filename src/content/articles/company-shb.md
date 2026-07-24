@@ -1,8 +1,8 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SHB** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Phó Chủ tịch SHB Đỗ Quang Vinh tham gia Đoàn Chủ tịch Hội Doanh nhân trẻ Việt Nam khóa VIII**  
+
+SHB Vice Chairman Đỗ Quang Vinh has been appointed as a member of the Executive Board of the Vietnam Young Entrepreneurs Association (8th term). The appointment was made during the third meeting of the Central Committee of the Vietnam Young Entrepreneurs Association (8th term). Đỗ Quang Vinh holds the position of Vice Chairman of the Board of Directors and Deputy General Director at Saigon-Hanoi Commercial Joint Stock Bank (SHB).
+
+- Source: [CafeF](https://cafef.vn/pho-chu-tich-shb-do-quang-vinh-tham-gia-doan-chu-tich-hoi-doanh-nhan-tre-viet-nam-khoa-viii-188260723223301677.chn)
 
 **Sinh lời nhàn tênh khác gì với tài khoản thanh toán thông thường?**  
 
@@ -79,17 +85,11 @@ SHB has upgraded its SHB Corporate Mobile application with new digital features 
 
 - Source: [CafeF](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn)
 
-**SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương**  
-
-SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Service (Category Micro-Merchant)" award from The Asian Banker at the Vietnam Awards 2026 ceremony. The award recognizes SHB's financial solutions designed for micro-merchants and small traders in Vietnam. The Asian Banker is a leading financial evaluation and ranking organization in Asia's banking sector.
-
-- Source: [CafeF](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn)
-
 ## Related coverage
 
+- [SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---

@@ -1,17 +1,23 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Viettel
 
-Recent Vietnam market news mentioning **Viettel** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Viettel** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tuyến metro 72.300 tỷ đồng có sự tham gia của Tập đoàn xây dựng hàng đầu Trung Quốc vừa bắt đầu hạng mục quan trọng**  
+
+A 72,300 billion Vietnamese dong metro line with participation from a leading Chinese construction group has begun a major phase of construction. The entities have applied modern technology during the construction process of urban railway line 5 (Văn Cao - Hòa Lạc). The project involves major Vietnamese enterprises and infrastructure development in a high-growth province.
+
+- Source: [CafeF](https://cafef.vn/tuyen-metro-72300-ty-dong-co-su-tham-gia-cua-tap-doan-xay-dung-hang-dau-trung-quoc-vua-bat-dau-hang-muc-quan-trong-188260724143202179.chn)
 
 **Gặp Thủ tướng, Chủ tịch Viettel Tào Đức Thắng đưa ra đề xuất cho loạt doanh nghiệp gồm Viettel, VNPT, MobiFone, FPT, CMC,...**  
 
@@ -33,10 +39,10 @@ Viettel has acquired the 095 mobile phone number prefix, adding to its existing 
 
 ## Related coverage
 
-- [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
-- [Kiến nghị nâng ngưỡng không phải đóng thuế trên doanh thu đối với hộ kinh doanh lên 3 tỷ đồng/năm](https://cafef.vn/kien-nghi-nang-nguong-khong-phai-dong-thue-tren-doanh-thu-doi-voi-ho-kinh-doanh-len-3-ty-dong-nam-18826071910443773.chn) — CafeF
-- [CẬP NHẬT: Hội nghị Thường trực Chính phủ với cộng đồng doanh nghiệp](https://cafef.vn/cap-nhat-hoi-nghi-thuong-truc-chinh-phu-voi-cong-dong-doanh-nghiep-188260718092654601.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
+- [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
+- [Sẽ phát triển doanh nghiệp 1 người?](https://cafef.vn/se-phat-trien-doanh-nghiep-1-nguoi-188260718134151712.chn) — CafeF
+- [Doanh nghiệp Nhà nước trước cuộc đại tái cơ cấu: Xoá tư duy giữ vốn dàn trải](https://cafef.vn/doanh-nghiep-nha-nuoc-truoc-cuoc-dai-tai-co-cau-xoa-tu-duy-giu-von-dan-trai-188260717075205481.chn) — CafeF
 
 ---
 

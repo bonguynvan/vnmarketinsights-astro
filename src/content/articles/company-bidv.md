@@ -1,17 +1,23 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (67 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (68 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 Vietnamese banks on July 23, 2026 shows the rate landscape remains stable. Seven banks are offering interest rates of 7% per annum or higher for 12-month fixed deposits. The article tracks daily changes in lending and deposit rates at major institutions including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn)
 
 **Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -79,18 +85,12 @@ Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, an
 
 - Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
-**Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
-
-Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

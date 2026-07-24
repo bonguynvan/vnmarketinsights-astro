@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đề xuất đóng tài khoản ngân hàng “ngủ đông”**  
+
+The State Bank of Vietnam proposes closing dormant bank accounts that have not generated transactions for 3 years to clean up data, reduce risks, and improve banking system safety. The proposal has generated public discussion about account security, interest earnings on deposits, and the distinction between regular payment accounts and savings products.
+
+- Source: [CafeF](https://cafef.vn/de-xuat-dong-tai-khoan-ngan-hang-ngu-dong-188260724135756079.chn)
 
 **TPBank ủng hộ 15 tỷ đồng cho Quỹ “Đền ơn đáp nghĩa”, góp phần tri ân người có công với Cách mạng**  
 
@@ -79,18 +85,12 @@ The State Bank of Vietnam (SBV) has issued an action plan for implementing the n
 
 - Source: [CafeF](https://cafef.vn/nhnn-trien-khai-ke-hoach-hanh-dong-ve-trao-doi-thong-tin-theo-yeu-cau-vi-muc-dich-thue-188260715063949982.chn)
 
-**Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới**  
-
-Vietnam's State Bank Governor Pham Duc An presented a draft law amending banking-related legislation to the National Assembly's Standing Committee on July 14. The proposed amendments cover the State Bank of Vietnam Law, the Law on Prevention and Combat of Money Laundering, and the Law on Credit Institutions. The draft law is scheduled for submission to the National Assembly in August.
-
-- Source: [CafeF](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn)
-
 ## Related coverage
 
 - [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
-- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
+- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 
 ---
 

@@ -1,17 +1,29 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (25 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt**  
+
+Techcombank and Visa announced a strategic partnership to launch an international money receiving account on Techcombank Mobile. The service is built on Visa's global payment infrastructure to simplify cross-border transactions for Vietnamese users. The account enables users to receive money from abroad through a streamlined process.
+
+- Source: [CafeF](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn)
+
+**Eximbank có chủ tịch mới**  
+
+Nguyễn Lê Quốc Anh, former Chief Executive Officer of Techcombank, was elected as Chairman of Eximbank's Board of Directors. This follows an extraordinary shareholders' meeting held on July 24, 2026, where multiple Board members were replaced. The Board of Supervisors' Chairman also submitted a resignation letter around the same time.
+
+- Source: [CafeF](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn)
 
 **Lãi suất huy động có quay đầu giảm trong thời gian tới?: Sếp Techcombank đưa ra dự báo**  
 
@@ -73,24 +85,12 @@ Eight Vietnamese banks are distributing cash dividends totaling more than 39,000
 
 - Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
-**Diễn đàn Tài chính cấp Quốc gia VFF 2026 do Techcombank đồng tổ chức chính thức khai mạc**  
-
-The Vietnam Financial Forum 2026 (VFF 2026), co-hosted by Techcombank, officially opened on July 9, 2026 in Da Nang at the Ariyana Convention Center. The event aims to seek breakthrough solutions to unlock capital sources and build digital infrastructure for Vietnam's economy. The forum attracted participation from various stakeholders in the financial sector.
-
-- Source: [CafeF](https://cafef.vn/dien-dan-tai-chinh-cap-quoc-gia-vff-2026-do-techcombank-dong-to-chuc-chinh-thuc-khai-mac-18826070921252738.chn)
-
-**Techcom Life ra mắt Infinite Care: Chuẩn mực mới cho bảo hiểm sức khỏe cao cấp**  
-
-Techcom Life, a member of Techcombank's financial ecosystem, has launched Infinite Care, a health insurance product for actual medical expenses. The product is positioned as a new standard for premium health insurance in Vietnam, targeting customers seeking access to high-quality healthcare services with superior coverage. The launch emphasizes the message "Peace of mind standards, appropriate status."
-
-- Source: [CafeF](https://cafef.vn/techcom-life-ra-mat-infinite-care-chuan-muc-moi-cho-bao-hiem-suc-khoe-cao-cap-188260708104249336.chn)
-
 ## Related coverage
 
-- [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
 
 ---
 

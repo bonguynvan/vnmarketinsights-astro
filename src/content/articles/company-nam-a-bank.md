@@ -1,8 +1,8 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 ## Related coverage
 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
+- [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
+- [Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn) — CafeF
 - [Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn) — CafeF
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
-- [Ông Trần Tấn Lộc tiếp tục làm Quyền Tổng Giám đốc Eximbank](https://cafef.vn/ong-tran-tan-loc-tiep-tuc-lam-quyen-tong-giam-doc-eximbank-188260703135653431.chn) — CafeF
 
 ---
 

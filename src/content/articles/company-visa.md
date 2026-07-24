@@ -1,17 +1,29 @@
 ---
 title: "Visa — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Visa, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Visa
 
-Recent Vietnam market news mentioning **Visa** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Visa** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Biến chi tiêu doanh nghiệp thành dặm bay: VPBank, Vietnam Airlines và Visa ra mắt thẻ SkyVoyage**  
+
+VPBank, Vietnam Airlines, and Visa have launched the SkyVoyage credit card, a co-branded product designed for businesses. The card allows unlimited accumulation of airline miles from business spending while supporting cash flow management and global payment capabilities. The launch occurred on July 23.
+
+- Source: [CafeF](https://cafef.vn/bien-chi-tieu-doanh-nghiep-thanh-dam-bay-vpbank-vietnam-airlines-va-visa-ra-mat-the-skyvoyage-188260724105407768.chn)
+
+**Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt**  
+
+Techcombank and Visa announced a strategic partnership to launch an international money receiving account on Techcombank Mobile. The service is built on Visa's global payment infrastructure to simplify cross-border transactions for Vietnamese users. The account enables users to receive money from abroad through a streamlined process.
+
+- Source: [CafeF](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn)
 
 **Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu**  
 
@@ -47,8 +59,8 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 
 - [TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn) — CafeF
 - [Khách Việt sẵn sàng chi nhiều hơn cho du lịch số](https://tuoitre.vn/khach-viet-san-sang-chi-nhieu-hon-cho-du-lich-so-100260704150244018.htm) — TuoiTre
-- [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
-- [SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn) — CafeF
+- [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
+- [Người Việt thanh toán xuyên biên giới nhiều hơn, VIB triển khai chương trình hoàn 100% phí giao dịch quốc tế](https://cafef.vn/nguoi-viet-thanh-toan-xuyen-bien-gioi-nhieu-hon-vib-trien-khai-chuong-trinh-hoan-100-phi-giao-dich-quoc-te-188260724095212943.chn) — CafeF
 
 ---
 

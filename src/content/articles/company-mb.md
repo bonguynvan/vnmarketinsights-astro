@@ -1,17 +1,23 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 Vietnamese banks on July 23, 2026 shows the rate landscape remains stable. Seven banks are offering interest rates of 7% per annum or higher for 12-month fixed deposits. The article tracks daily changes in lending and deposit rates at major institutions including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn)
 
 **Lãi suất ngân hàng 23/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ Vietnamese banks are distributing record-breaking cash dividends in 2026, with a
 A survey of online deposit interest rates on July 15 shows the highest rate remains at 7.3% per annum, while most banks continue to maintain 12-month term deposit rates in the range of 6.6-6.9% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-15-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260715202748776.chn)
-
-**Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adjustment, with no additional rate increases recorded in the deposit market. The highest interest rate for 12-month deposits stands at 7.3% per annum. ACB continues to offer the highest market rate at 7.3% per annum for 12-month deposits, while also offering 7.2% per annum for 9-month deposits.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn)
 
 ## Related coverage
 

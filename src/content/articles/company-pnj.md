@@ -1,17 +1,23 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Hiện tượng lạ sáng 24/7: Giá vàng bán ra tại SJC, PNJ thấp hơn giá mua vào của DOJI và Bảo Tín Minh Châu, chênh lệch giữa các nhà vàng lên tới gần 6 triệu đồng/lượng**  
+
+Vietnam's gold ring market showed unusual price movements on July 24, 2026, with price gaps between major jewelry retailers reaching nearly 6 million VND per tael. For the first time in years, selling prices at some retailers fell below the buying prices of other retailers. The disparities highlight significant volatility in the domestic gold jewelry market.
+
+- Source: [CafeF](https://cafef.vn/hien-tuong-la-sang-24-7-gia-vang-ban-ra-tai-sjc-pnj-thap-hon-gia-mua-vao-cua-doji-va-bao-tin-minh-chau-chenh-lech-giua-cac-nha-vang-len-toi-gan-6-trieu-dong-luong-188260724101856814.chn)
 
 **Bất ngờ với giá thu mua vàng PNJ hôm nay ngày 23/7**  
 
@@ -79,17 +85,11 @@ PNJ's CEO Phan Quoc Cong has registered to purchase 1 million shares of the comp
 
 - Source: [VietnamNet](https://vietnamnet.vn/tong-giam-doc-pnj-co-hanh-dong-moi-co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-2534933.html)
 
-**VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'**  
-
-VinaCapital's affiliated investor group sold over 3 million PNJ shares on July 8, reducing their stake from 6.3 million shares (1.24% of charter capital) to 3.2 million shares. Following the sale, the group no longer qualifies as a major shareholder at Phu Nhuan Precious Metals Joint Stock Company (PNJ). VinaCapital filed a notification with the Securities Commission on this change in shareholding status.
-
-- Source: [TuoiTre](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm)
-
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
-- [Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
 
 ---

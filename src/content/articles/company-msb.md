@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **MSB** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSB bổ nhiệm thêm một Phó Tổng Giám đốc, tiếp tục kiện toàn nhân sự cấp cao**  
+
+Maritime Commercial Bank (MSB) appointed Hoang Viet Phuong to the position of Deputy General Director and General Director of Corporate Banking on July 23, 2026. The appointment is part of MSB's ongoing effort to strengthen its senior management structure. Hoang Viet Phuong has been with MSB since 2008.
+
+- Source: [CafeF](https://cafef.vn/msb-bo-nhiem-them-mot-pho-tong-giam-doc-tiep-tuc-kien-toan-nhan-su-cap-cao-188260724180805959.chn)
 
 **MSB được Ngân hàng Nhà nước chấp thuận tăng vốn điều lệ lên tối đa 37.440 tỷ đồng**  
 
@@ -57,10 +63,10 @@ Vietnamese banking sector's Q2 2026 profit forecasts show divergent growth traje
 
 ## Related coverage
 
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
+- [Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu](https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **VIB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Người Việt thanh toán xuyên biên giới nhiều hơn, VIB triển khai chương trình hoàn 100% phí giao dịch quốc tế**  
+
+Vietnamese consumers increasingly make cross-border payments for digital services, software platforms, and online bookings, beyond traditional spending on travel and shopping abroad. Viet Nam International Bank (VIB) has launched a program offering 100% refund of international transaction fees to capture this growing demand. The shift reflects how digital subscriptions and online services have become part of everyday spending for many Vietnamese people.
+
+- Source: [CafeF](https://cafef.vn/nguoi-viet-thanh-toan-xuyen-bien-gioi-nhieu-hon-vib-trien-khai-chuong-trinh-hoan-100-phi-giao-dich-quoc-te-188260724095212943.chn)
 
 **VIB Up: Tặng đến 2%/năm lãi suất cho tiền gửi theo tháng cùng loạt đặc quyền thành viên**  
 
@@ -79,18 +85,12 @@ As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7%
 
 - Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html)
 
-**Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân**  
-
-VIB Bank is shifting from a product-centric approach to an experience-based model in personal finance services. The bank recognizes that different customer segments have distinct financial needs—such as homebuyers managing mortgage payments, investors seeking yield optimization, and frequent business travelers. Rather than competing solely through additional products and promotions, VIB is implementing a membership-based model to deliver personalized financial experiences.
-
-- Source: [CafeF](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
-- [Lãi suất ngân hàng 22/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank,...](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn) — CafeF
 
 ---
 

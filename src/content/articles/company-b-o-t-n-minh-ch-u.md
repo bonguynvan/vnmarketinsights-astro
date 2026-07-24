@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Hiện tượng lạ sáng 24/7: Giá vàng bán ra tại SJC, PNJ thấp hơn giá mua vào của DOJI và Bảo Tín Minh Châu, chênh lệch giữa các nhà vàng lên tới gần 6 triệu đồng/lượng**  
+
+Vietnam's gold ring market showed unusual price movements on July 24, 2026, with price gaps between major jewelry retailers reaching nearly 6 million VND per tael. For the first time in years, selling prices at some retailers fell below the buying prices of other retailers. The disparities highlight significant volatility in the domestic gold jewelry market.
+
+- Source: [CafeF](https://cafef.vn/hien-tuong-la-sang-24-7-gia-vang-ban-ra-tai-sjc-pnj-thap-hon-gia-mua-vao-cua-doji-va-bao-tin-minh-chau-chenh-lech-giua-cac-nha-vang-len-toi-gan-6-trieu-dong-luong-188260724101856814.chn)
 
 **Bất ngờ với giá thu mua vàng PNJ hôm nay ngày 23/7**  
 

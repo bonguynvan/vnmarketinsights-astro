@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of deposit interest rates across 34 Vietnamese banks on July 23, 2026 shows the rate landscape remains stable. Seven banks are offering interest rates of 7% per annum or higher for 12-month fixed deposits. The article tracks daily changes in lending and deposit rates at major institutions including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn)
 
 **Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7**  
 
@@ -78,12 +84,6 @@ Dr. Cấn Văn Lực explains that interest rates are expected to remain at high
 A survey of deposit interest rates across 34 banks on July 17 shows that the interest rate landscape remains stable. Only 6 banks are offering rates of 7% per annum or higher for 12-month terms, while the Big4 banks maintain their rate at 6.8% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn)
-
-**Nhiều cổ phiếu ngân hàng diễn biến tích cực dù thị trường chung ảm đạm**  
-
-Several bank stocks displayed positive momentum despite a sluggish overall market. These stocks shared common supportive factors including listing transfers to HoSE, dividend payments, capital increases, or major shareholder transactions. Bank interest rates were updated across major institutions including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
-
-- Source: [CafeF](https://cafef.vn/nhieu-co-phieu-ngan-hang-dien-bien-tich-cuc-du-thi-truong-chung-am-dam-188260716074624331.chn)
 
 ## Related coverage
 

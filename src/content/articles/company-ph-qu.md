@@ -1,8 +1,8 @@
 ---
 title: "Phú Quý — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Phú Quý, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---

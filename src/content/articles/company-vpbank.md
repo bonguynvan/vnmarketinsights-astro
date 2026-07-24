@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (35 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (36 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Biến chi tiêu doanh nghiệp thành dặm bay: VPBank, Vietnam Airlines và Visa ra mắt thẻ SkyVoyage**  
+
+VPBank, Vietnam Airlines, and Visa have launched the SkyVoyage credit card, a co-branded product designed for businesses. The card allows unlimited accumulation of airline miles from business spending while supporting cash flow management and global payment capabilities. The launch occurred on July 23.
+
+- Source: [CafeF](https://cafef.vn/bien-chi-tieu-doanh-nghiep-thanh-dam-bay-vpbank-vietnam-airlines-va-visa-ra-mat-the-skyvoyage-188260724105407768.chn)
 
 **Tất cả người dùng VietinBank, VPBank lưu ý: Giao dịch chuyển khoản thay đổi từ 30/7**  
 
@@ -79,18 +85,12 @@ VPBank maintained strong growth in credit and deposit mobilization during the fi
 
 - Source: [CafeF](https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn)
 
-**Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới**  
-
-Vietnamese banks reported strong profit growth in the first half of 2026. VPBank achieved record quarterly profit, while other banks including ABBank, Vietbank, and BVBank reported significant growth. One bank reported semi-annual profit near 4,700 billion VND with profit increases for VietBank and ABBank.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn)
-
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
+- [Lợi nhuận bán niên vượt 4.668 tỷ đồng: TPBank định hình đường ray tăng trưởng chất lượng cao](https://cafef.vn/loi-nhuan-ban-nien-vuot-4668-ty-dong-tpbank-dinh-hinh-duong-ray-tang-truong-chat-luong-cao-188260715182808687.chn) — CafeF
 
 ---
 

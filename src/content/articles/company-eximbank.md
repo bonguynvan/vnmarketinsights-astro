@@ -1,17 +1,35 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-23"
-lastUpdated: "2026-07-23"
+publishedDate: "2026-07-24"
+lastUpdated: "2026-07-24"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT**  
+
+Eximbank held an extraordinary shareholders' meeting on July 24 to approve changes to its Board of Directors. The bank proposed the removal of certain board members and the appointment of replacement members for the 2025-2030 term. Eximbank also proposed supplementary appointments to the Audit Board for the eighth term.
+
+- Source: [CafeF](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn)
+
+**Trưởng Ban kiểm soát Eximbank nộp đơn xin từ nhiệm**  
+
+Eximbank announced that the Audit Board Chair Trần Thị Minh Lý has submitted a resignation letter on July 24, 2026. Trần Thị Minh Lý was elected to the position on April 28, 2026, for the 2025-2030 term. The resignation was submitted based on personal request.
+
+- Source: [CafeF](https://cafef.vn/truong-ban-kiem-soat-eximbank-nop-don-xin-tu-nhiem-188260724142644718.chn)
+
+**Eximbank có chủ tịch mới**  
+
+Nguyễn Lê Quốc Anh, former Chief Executive Officer of Techcombank, was elected as Chairman of Eximbank's Board of Directors. This follows an extraordinary shareholders' meeting held on July 24, 2026, where multiple Board members were replaced. The Board of Supervisors' Chairman also submitted a resignation letter around the same time.
+
+- Source: [CafeF](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn)
 
 **Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7**  
 
@@ -54,7 +72,7 @@ Eximbank announced an adjustment to reduce the number of Board of Directors memb
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
+- [Thủ tướng bổ nhiệm Tổng Giám đốc Ngân hàng Chính sách xã hội](https://cafef.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-188260630065502297.chn) — CafeF
 
 ---
 
