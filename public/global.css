@@ -401,6 +401,46 @@ hr {
   background: var(--color-bg-subtle);
 }
 
+/* Global footer email signup band */
+.site-footer__signup {
+  border-bottom: 1px solid var(--color-border);
+  background: var(--color-bg);
+}
+.site-footer__signup-inner {
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+  padding: var(--space-8) var(--content-padding-x);
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: var(--space-8);
+  align-items: center;
+}
+.site-footer__signup-title { margin: 0 0 var(--space-2); border: none; font-size: var(--text-2xl); line-height: 1.2; }
+.site-footer__signup-copy p { margin: 0; color: var(--color-text-muted); font-size: var(--text-sm); max-width: 46ch; }
+.site-footer__signup-form { min-width: 0; }
+.site-footer__signup-row {
+  display: flex; border: 1px solid var(--color-ink); border-radius: 2px; overflow: hidden; background: var(--color-bg);
+}
+.site-footer__signup-row:focus-within {
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--color-accent) 22%, transparent); border-color: var(--color-accent);
+}
+.site-footer__signup-row input {
+  flex: 1; min-width: 0; border: none; outline: none; background: transparent;
+  padding: var(--space-3) var(--space-4); color: var(--color-text); font-size: var(--text-base);
+}
+.site-footer__signup-row button {
+  flex-shrink: 0; border: none; background: var(--color-accent); color: #fff;
+  font-weight: 700; padding: var(--space-3) var(--space-5); cursor: pointer; white-space: nowrap; transition: background 0.18s ease;
+}
+.site-footer__signup-row button:hover { background: var(--color-accent-hover); }
+.site-footer__signup-row button:disabled { opacity: 0.6; cursor: default; }
+.site-footer__signup-status { display: block; margin-top: var(--space-2); min-height: 1.1em; font-size: var(--text-sm); color: var(--color-text-muted); }
+.site-footer__signup-status.is-success { color: #15803d; }
+.site-footer__signup-status.is-error { color: #b91c1c; }
+@media (max-width: 720px) {
+  .site-footer__signup-inner { grid-template-columns: 1fr; gap: var(--space-4); }
+}
+
 .site-footer__inner {
   max-width: var(--max-width-wide);
   margin: 0 auto;

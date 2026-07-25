@@ -299,6 +299,21 @@ const allSchemas = [
   </main>
 
   <footer class="site-footer">
+    <div class="site-footer__signup">
+      <div class="site-footer__signup-inner">
+        <div class="site-footer__signup-copy">
+          <h2 class="site-footer__signup-title">Get the free 2026 Sell-Into-Vietnam Operator Kit</h2>
+          <p>Plus a short weekly brief on Vietnam's market — data, tools, and shifts worth knowing. Free · unsubscribe anytime.</p>
+        </div>
+        <form class="site-footer__signup-form" id="footer-signup" data-source="footer" novalidate>
+          <div class="site-footer__signup-row">
+            <input id="footer-signup-input" name="email" type="email" autocomplete="email" required placeholder="you@company.com" aria-label="Email address" />
+            <button type="submit">Get the kit</button>
+          </div>
+          <span class="site-footer__signup-status" id="footer-signup-status" role="status" aria-live="polite"></span>
+        </form>
+      </div>
+    </div>
     <div class="site-footer__inner">
       <div class="site-footer__brand-col">
         <a href="/" class="site-footer__brand">
@@ -351,6 +366,39 @@ const allSchemas = [
       <span>Last updated: {new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}</span>
     </div>
   </footer>
+
+  <script is:inline>
+    // Footer email signup -> /api/leads/subscribe (Kit) via shared submitLead.
+    (function () {
+      var form = document.getElementById('footer-signup');
+      var input = document.getElementById('footer-signup-input');
+      var status = document.getElementById('footer-signup-status');
+      if (!form || !input) return;
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var email = (input.value || '').trim();
+        if (!email) { input.focus(); return; }
+        var btn = form.querySelector('button[type="submit"]');
+        if (btn) btn.setAttribute('disabled', 'disabled');
+        if (status) { status.textContent = 'Submitting…'; status.className = 'site-footer__signup-status'; }
+        var ctx = window.vmiGrowthContext;
+        var req = (ctx && ctx.submitLead)
+          ? ctx.submitLead({ email: email, source: 'footer', context: { reason: 'footer_signup' } })
+          : Promise.reject(new Error('unavailable'));
+        req.then(function () {
+          if (status) { status.textContent = 'Thanks for subscribing! Check your inbox for the kit.'; status.classList.add('is-success'); }
+          input.value = '';
+          if (typeof window.vmiTrack === 'function') {
+            window.vmiTrack('footer_signup_submit', { event_category: 'acquisition', event_label: 'footer', email_domain: email.split('@')[1] || '' });
+          }
+        }).catch(function () {
+          if (status) { status.textContent = 'Could not subscribe right now. Please try again.'; status.classList.add('is-error'); }
+        }).finally(function () {
+          if (btn) btn.removeAttribute('disabled');
+        });
+      });
+    })();
+  </script>
 
   <!-- Pagefind Search -->
   <script>
