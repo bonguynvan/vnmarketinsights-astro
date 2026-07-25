@@ -19,6 +19,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
+    environment: production
     defaults:
       run:
         working-directory: pipeline
