@@ -1,16 +1,19 @@
-// Lead capture -> Kit (formerly ConvertKit). Adding a subscriber to a Kit form
-// creates them (if needed) AND triggers that form's incentive/confirmation email
-// — which is our double opt-in + lead-magnet delivery. Kit is the durable store
-// (no database needed). Env-gated on KIT_API_KEY + KIT_FORM_ID: when either is
-// unset the endpoint returns 503 so the client shows a graceful retry message.
+// Lead capture -> Kit. Posts to Kit's public form-submission endpoint
+// (app.kit.com/forms/{id}/subscriptions) — the exact path Kit's official embed
+// uses — which subscribes the email to the form and triggers that form's double
+// opt-in + incentive/lead-magnet email. No API key needed (the form ID is
+// public); Kit is the durable store. Env-gated on KIT_FORM_ID (503 when unset).
+//
+// Note: we use the classic form endpoint, not the v4 API (api.kit.com/v4/...),
+// because the v4 forms endpoint uses a different internal form-ID space and 404s
+// on the embed/form ID.
 
 // Astro hybrid prerenders routes by default — opt out so this runs as an
-// on-demand serverless function. Without this the route is baked to a static
-// file and POST returns a platform 405 (every other /api route sets this).
+// on-demand serverless function (POST 405s as a static file otherwise).
 export const prerender = false;
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-const KIT_API_BASE = 'https://api.kit.com/v4';
+const KIT_FORM_BASE = 'https://app.kit.com/forms';
 const KIT_TIMEOUT_MS = 8000;
 
 type LeadPayload = {
@@ -29,11 +32,8 @@ function json(body: unknown, status: number): Response {
   });
 }
 
-function getConfig(): { apiKey?: string; formId?: string } {
-  return {
-    apiKey: import.meta.env.KIT_API_KEY || process.env.KIT_API_KEY,
-    formId: import.meta.env.KIT_FORM_ID || process.env.KIT_FORM_ID
-  };
+function getFormId(): string | undefined {
+  return import.meta.env.KIT_FORM_ID || process.env.KIT_FORM_ID;
 }
 
 export async function POST({ request }: { request: Request }) {
@@ -50,52 +50,46 @@ export async function POST({ request }: { request: Request }) {
       return json({ success: false, error: 'Invalid email address' }, 400);
     }
 
-    const { apiKey, formId } = getConfig();
-    if (!apiKey || !formId) {
+    const formId = getFormId();
+    if (!formId) {
       return json({ success: false, error: 'Email signup is being set up.' }, 503);
     }
-
-    const source = typeof payload.source === 'string' ? payload.source : 'generic';
 
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), KIT_TIMEOUT_MS);
     let res: Response;
     try {
-      res = await fetch(`${KIT_API_BASE}/forms/${encodeURIComponent(formId)}/subscribers`, {
+      res = await fetch(`${KIT_FORM_BASE}/${encodeURIComponent(formId)}/subscriptions`, {
         method: 'POST',
-        headers: {
-          'X-Kit-Api-Key': apiKey, // Kit v4 personal-key auth header
-          'Content-Type': 'application/json',
-          Accept: 'application/json'
-        },
-        body: JSON.stringify({
-          email_address: email, // Kit's field is email_address
-          referrer: payload.path || source
-        }),
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+        body: JSON.stringify({ email_address: email }),
         signal: controller.signal
       });
     } catch (error) {
-      const message = error instanceof Error ? `${error.name}: ${error.message}` : String(error);
-      return json({ success: false, error: 'Subscription service unavailable.', debug: { phase: 'fetch', message } }, 502);
+      console.error('Kit form submit failed:', error instanceof Error ? error.message : String(error));
+      return json({ success: false, error: 'Subscription service unavailable.' }, 502);
     } finally {
       clearTimeout(timer);
     }
 
-    if (res.ok) {
+    let data: { status?: string } | null = null;
+    try {
+      data = (await res.json()) as { status?: string };
+    } catch {
+      /* non-JSON body — ignore */
+    }
+    const kitStatus = data && typeof data.status === 'string' ? data.status : '';
+
+    if (res.ok && (kitStatus === 'success' || kitStatus === 'quarantined')) {
       // Double opt-in: the subscriber is pending until they confirm by email.
       return json({ success: true, status: 'pending_confirmation' }, 200);
     }
 
-    let detail = '';
-    try {
-      detail = (await res.text()).slice(0, 300);
-    } catch {
-      /* ignore */
-    }
-    return json({ success: false, error: 'Could not subscribe right now.', debug: { phase: 'kit', status: res.status, detail } }, 502);
+    console.error('Kit form submit error:', res.status, JSON.stringify(data).slice(0, 300));
+    return json({ success: false, error: 'Could not subscribe right now.' }, 502);
   } catch (error) {
-    const message = error instanceof Error ? `${error.name}: ${error.message}` : String(error);
-    return json({ success: false, error: 'Unexpected error.', debug: { phase: 'handler', message } }, 500);
+    console.error('subscribe handler error:', error instanceof Error ? error.message : String(error));
+    return json({ success: false, error: 'Unexpected error.' }, 500);
   }
 }
 
