@@ -1,0 +1,233 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam Channel Selector — Shopee vs TikTok Shop vs Lazada Net Payout";
+const description = "Free tool: compare your net per-order payout across Shopee, TikTok Shop, and Lazada in Vietnam after commission, payment fees, ad spend, and Decree 117 tax withholding.";
+const canonical = "https://vnmarketinsights.com/tools/channel-selector/";
+
+const platforms = [
+  { key: 'shopee', label: 'Shopee', comm: 3.5 },
+  { key: 'tiktok', label: 'TikTok Shop', comm: 4.5 },
+  { key: 'lazada', label: 'Lazada', comm: 4.0 },
+];
+
+// Server-rendered worked example.
+const d = { cur: 'VND', aov: 300000, payment: 1.5, ads: 8, residency: 'resident' };
+const wh = d.residency === 'resident' ? 1.5 : 2.0; // Decree 117: 1% VAT + (0.5% resident / 1% non-resident) PIT
+const rows = platforms.map((p) => {
+  const total = p.comm + d.payment + d.ads + wh;
+  const net = d.aov * (1 - total / 100);
+  return { ...p, total, net };
+});
+const bestNet = Math.max(...rows.map((r) => r.net));
+const f0 = (n: number) => Math.round(n).toLocaleString('en-US');
+const f1 = (n: number) => n.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+
+const appSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vietnam E-commerce Channel Selector",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "url": canonical,
+  "description": description,
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "creator": { "@type": "Organization", "name": "VN Market Insights", "url": "https://vnmarketinsights.com/" },
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Tools"
+  publishedDate="2026-07-25"
+  lastUpdated="2026-07-25"
+  structuredData={appSchema}
+  mainClass="container"
+>
+  <article class="lc-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/tools/">Tools</a>
+      <span aria-hidden="true">/</span>
+      <span>Channel Selector</span>
+    </nav>
+
+    <header class="lc-header">
+      <h1>Vietnam Channel Selector</h1>
+      <p class="lc-lead">
+        Compare your <strong>net per-order payout</strong> across Shopee, TikTok Shop, and Lazada
+        after commission, payment fees, ad/voucher spend, and the <strong>Decree 117 tax
+        withholding</strong> platforms apply since July 2025. Adjust the rates to your category.
+      </p>
+    </header>
+
+    <section class="lc-tool" aria-label="Channel selector">
+      <form class="lc-form" id="ch-form" novalidate>
+        <div class="lc-field">
+          <label for="ch-cur">Currency label</label>
+          <input type="text" id="ch-cur" value={d.cur} maxlength="5" autocomplete="off" />
+        </div>
+        <div class="lc-field">
+          <label for="ch-aov">Average order value</label>
+          <input type="number" id="ch-aov" value={d.aov} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="ch-payment">Payment fee (%)</label>
+          <input type="number" id="ch-payment" value={d.payment} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="ch-ads">Ad / voucher spend (% of order)</label>
+          <input type="number" id="ch-ads" value={d.ads} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="ch-residency">Seller type (tax withholding)</label>
+          <select id="ch-residency">
+            <option value="resident" selected={d.residency === 'resident'}>Resident (1% VAT + 0.5% PIT)</option>
+            <option value="nonresident">Non-resident (1% VAT + 1% PIT)</option>
+          </select>
+        </div>
+        <fieldset class="lc-fieldset">
+          <legend>Commission per platform (%)</legend>
+          {platforms.map(p => (
+            <label class="lc-method"><span class="lc-method__label">{p.label}</span><input type="number" id={`ch-comm-${p.key}`} value={p.comm} min="0" step="any" inputmode="decimal" /></label>
+          ))}
+        </fieldset>
+      </form>
+
+      <div class="lc-results" aria-live="polite">
+        <h2>Net payout per order</h2>
+        <div class="lc-table-wrap">
+          <table class="lc-table lc-table--rows">
+            <thead><tr><th>Platform</th><th class="r">Take-rate</th><th class="r">Net payout</th></tr></thead>
+            <tbody>
+              {rows.map(r => (
+                <tr id={`ch-row-${r.key}`} class={r.net === bestNet ? 'is-best' : ''}>
+                  <th scope="row">{r.label}</th>
+                  <td class="r"><span id={`ch-take-${r.key}`}>{f1(r.total)}</span>%</td>
+                  <td class="r"><span class="lc-cur">{d.cur}</span> <span id={`ch-net-${r.key}`}>{f0(r.net)}</span></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="lc-best" id="ch-best">Best net payout: <strong>{rows.find(r => r.net === bestNet)?.label}</strong></p>
+        <p class="lc-disclaimer">
+          Estimate only. Commission and ad economics vary by category, seller tier, and campaign;
+          TikTok Shop typically carries higher commission but stronger organic reach via livestream,
+          while Shopee leans on paid visibility. Model your real numbers before deciding.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Cross-border vs local entity</h2>
+      <p>
+        This compares the <em>platform</em> economics. If you sell <strong>cross-border</strong>,
+        also add import duty + 10% VAT to your landed cost (there's no tax-free threshold since Feb
+        2025) — a <strong>local entity</strong> avoids per-parcel import friction but adds setup and
+        compliance. Model the import side here:
+      </p>
+      <p class="lc-formula" style="padding-left:0">
+        → <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> ·
+        <a href="/accept-payments-in-vietnam/">payments playbook</a> ·
+        <a href="/sell-into-vietnam/">the full Sell-Into-Vietnam playbook</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop — full comparison</a></li>
+        <li><a href="/data/vietnam-ecommerce-platform-shares/">Platform shares dataset</a> · <a href="/ecommerce/">E-commerce overview</a></li>
+        <li><a href="/tools/">All tools &amp; data</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<script>
+  const $ = (id: string) => document.getElementById(id) as HTMLInputElement | HTMLSelectElement | null;
+  const f0 = (n: number) => Math.round(isFinite(n) ? n : 0).toLocaleString('en-US');
+  const f1 = (n: number) => (isFinite(n) ? n : 0).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const PLATFORMS = [{ key: 'shopee', label: 'Shopee' }, { key: 'tiktok', label: 'TikTok Shop' }, { key: 'lazada', label: 'Lazada' }];
+
+  function compute() {
+    const aov = parseFloat(($('ch-aov') as HTMLInputElement)?.value || '0') || 0;
+    const payment = parseFloat(($('ch-payment') as HTMLInputElement)?.value || '0') || 0;
+    const ads = parseFloat(($('ch-ads') as HTMLInputElement)?.value || '0') || 0;
+    const cur = (($('ch-cur') as HTMLInputElement)?.value || '').trim();
+    const residency = ($('ch-residency') as HTMLSelectElement)?.value || 'resident';
+    const wh = residency === 'resident' ? 1.5 : 2.0;
+
+    let best = -Infinity;
+    let bestLabel = '';
+    const results = PLATFORMS.map((p) => {
+      const comm = parseFloat(($('ch-comm-' + p.key) as HTMLInputElement)?.value || '0') || 0;
+      const total = comm + payment + ads + wh;
+      const net = aov * (1 - total / 100);
+      if (net > best) { best = net; bestLabel = p.label; }
+      return { ...p, total, net };
+    });
+
+    results.forEach((r) => {
+      const take = document.getElementById('ch-take-' + r.key);
+      const net = document.getElementById('ch-net-' + r.key);
+      const row = document.getElementById('ch-row-' + r.key);
+      if (take) take.textContent = f1(r.total);
+      if (net) net.textContent = f0(r.net);
+      if (row) row.classList.toggle('is-best', r.net === best);
+    });
+    const bestEl = document.getElementById('ch-best');
+    if (bestEl) bestEl.innerHTML = 'Best net payout: <strong>' + bestLabel + '</strong>';
+    document.querySelectorAll('.lc-cur').forEach((el) => { el.textContent = cur; });
+  }
+
+  document.getElementById('ch-form')?.addEventListener('input', compute);
+  compute();
+</script>
+
+<style>
+  .lc-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .lc-header { margin-bottom: var(--space-6); }
+  .lc-header h1 { border: none; margin-bottom: var(--space-3); }
+  .lc-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lc-tool { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-6); margin: var(--space-6) 0 var(--space-10); align-items: start; }
+  .lc-form { display: flex; flex-direction: column; gap: var(--space-4); }
+  .lc-field { display: flex; flex-direction: column; gap: var(--space-1); }
+  .lc-field label { font-weight: 600; font-size: var(--text-sm); color: var(--color-text); }
+  .lc-field input, .lc-field select { padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-size: var(--text-base); }
+  .lc-field input:focus, .lc-field select:focus { outline: 2px solid var(--color-accent); outline-offset: 1px; border-color: var(--color-accent); }
+  .lc-fieldset { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-3) var(--space-4); }
+  .lc-fieldset legend { font-weight: 600; font-size: var(--text-sm); padding: 0 var(--space-2); }
+  .lc-method { display: flex; justify-content: space-between; align-items: center; gap: var(--space-3); padding: var(--space-2) 0; border-bottom: 1px solid var(--color-border-light); }
+  .lc-method:last-child { border-bottom: none; }
+  .lc-method__label { font-size: var(--text-sm); color: var(--color-text); }
+  .lc-method input { width: 90px; padding: var(--space-1) var(--space-2); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-variant-numeric: tabular-nums; text-align: right; }
+  .lc-results { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-5); background: var(--color-bg-subtle); }
+  .lc-results h2 { margin-top: 0; border: none; font-size: var(--text-lg); }
+  .lc-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .lc-table th, .lc-table td { padding: var(--space-2) var(--space-3); border-bottom: 1px solid var(--color-border-light); text-align: left; }
+  .lc-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .lc-table .r { text-align: right; font-variant-numeric: tabular-nums; }
+  .lc-table--rows tbody th { font-weight: 600; }
+  .lc-table tr.is-best { background: color-mix(in srgb, var(--color-accent) 8%, transparent); }
+  .lc-table tr.is-best th, .lc-table tr.is-best td { color: var(--color-accent); font-weight: 700; }
+  .lc-best { margin-top: var(--space-3); font-size: var(--text-base); }
+  .lc-disclaimer { margin-top: var(--space-3); font-size: var(--text-xs); color: var(--color-text-muted); line-height: 1.5; }
+  section { margin-bottom: var(--space-10); }
+  .lc-formula { line-height: 1.7; }
+  .lc-page section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  @media (max-width: 720px) { .lc-tool { grid-template-columns: 1fr; } }
+</style>
