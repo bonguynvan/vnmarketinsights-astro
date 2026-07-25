@@ -1,0 +1,185 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Accept Payments in Vietnam 2026 — The Operator's Playbook";
+const description = "A step-by-step playbook for accepting payments in Vietnam: the cashless landscape, methods and wallets, choosing a PSP, modelling fees, settlement, and licensing.";
+const canonical = "https://vnmarketinsights.com/accept-payments-in-vietnam/";
+
+const wallets = [
+  { name: 'MoMo', share: '~68%', note: '~31M users; the market leader' },
+  { name: 'ZaloPay', share: '~53%', note: 'Zalo super-app distribution' },
+  { name: 'ViettelPay', share: '~27%', note: 'Telco-backed, strong rural reach' },
+  { name: 'ShopeePay', share: '~25%', note: 'Marketplace-embedded' },
+  { name: 'VNPay', share: '~16%', note: 'Bank-app QR + gateway' },
+];
+
+const steps = [
+  { n: 1, name: 'Read the landscape', text: 'Cashless is ~28x GDP; QR and wallets are displacing cash and COD.' },
+  { n: 2, name: 'Pick your methods', text: 'Cards, e-wallets, bank transfer/VietQR, and (declining) COD.' },
+  { n: 3, name: 'Choose a PSP / gateway', text: 'Match methods, fees, settlement, and KYC to your model.' },
+  { n: 4, name: 'Model the cost', text: 'Blend the fees across your mix — QR is cheapest, intl cards priciest.' },
+  { n: 5, name: 'Settle & manage cash', text: 'T+1 to T+3 settlement ties up working capital; plan payouts and FX.' },
+  { n: 6, name: 'License & comply', text: 'SBV intermediary-payment rules, KYC/AML, and the fintech sandbox.' },
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to accept payments in Vietnam",
+  "description": description,
+  "step": steps.map(s => ({ "@type": "HowToStep", "name": s.name, "text": s.text })),
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Playbook"
+  publishedDate="2026-07-25"
+  lastUpdated="2026-07-25"
+  structuredData={howToSchema}
+  mainClass="container"
+>
+  <article class="pay-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/start-by-job/">Start by job</a>
+      <span aria-hidden="true">/</span>
+      <span>Accept payments</span>
+    </nav>
+
+    <header class="pay-header">
+      <h1>Accept Payments in Vietnam: the operator's playbook</h1>
+      <p class="pay-lead">
+        Vietnam is going cashless fast — cashless payments reached roughly <strong>28× GDP</strong> in
+        2025, QR-code volume grew ~51%, and there were <strong>232 million</strong> payment accounts.
+        This playbook walks the six decisions in order — from picking methods to licensing — linking
+        the reference, the how-to, and the fee calculator at each step.
+      </p>
+      <ol class="pay-spine">
+        {steps.map(s => <li><a href={`#step-${s.n}`}><span class="pay-spine__n">{s.n}</span>{s.name}</a></li>)}
+      </ol>
+    </header>
+
+    <section id="step-1" class="pay-step">
+      <h2><span class="pay-step__n">1</span> Read the landscape</h2>
+      <p>
+        Cash and cash-on-delivery are giving way to <strong>QR and e-wallets</strong>. Non-cash
+        transactions rose ~42% in 2025; QR volume alone grew ~51%. For a merchant, that means the
+        cheapest, fastest-growing rail — bank transfer / <strong>VietQR</strong> (run by NAPAS) — is
+        also what buyers increasingly prefer.
+      </p>
+      <p class="pay-links">Reference: <a href="/payments/">Payments overview</a> · <a href="/stats/vietnam-digital-payments-2026/">Digital payments statistics</a> · <a href="/banking/">Banking</a></p>
+    </section>
+
+    <section id="step-2" class="pay-step">
+      <h2><span class="pay-step__n">2</span> Pick your methods</h2>
+      <p>Offer the rails your buyers use. E-wallet usage is high and overlapping (people use several):</p>
+      <div class="pay-table-wrap">
+        <table class="pay-table">
+          <thead><tr><th>E-wallet</th><th class="num">Usage share</th><th>Note</th></tr></thead>
+          <tbody>
+            {wallets.map(w => (
+              <tr><th scope="row">{w.name}</th><td class="num">{w.share}</td><td>{w.note}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="pay-links">Compare: <a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay</a>. Also support <strong>VietQR</strong> (bank transfer) and <strong>cards</strong>; COD is declining but still matters in rural areas.</p>
+    </section>
+
+    <section id="step-3" class="pay-step">
+      <h2><span class="pay-step__n">3</span> Choose a PSP / gateway</h2>
+      <p>
+        A payment gateway aggregates methods so you integrate once. Common options include
+        <strong>VNPay, OnePay, Payoo, 2C2P, and Alepay</strong>, plus direct e-wallet integrations
+        (MoMo, ZaloPay) and, for some cross-border models, Stripe. Compare on: methods supported,
+        fees, settlement speed, payout currency, and onboarding/KYC (foreign merchants usually need a
+        local entity or a licensed partner).
+      </p>
+    </section>
+
+    <section id="step-4" class="pay-step">
+      <h2><span class="pay-step__n">4</span> Model the cost</h2>
+      <p>
+        Fees vary by method — <strong>bank transfer/VietQR</strong> is usually the cheapest,
+        e-wallets in the middle, and <strong>international cards</strong> the most expensive (often
+        3%+). Your <em>blended</em> rate depends on your mix, and shifting buyers toward QR is the
+        biggest lever. Run your numbers:
+      </p>
+      <p class="pay-cta">
+        <a class="pay-cta__btn" href="/tools/psp-fee-comparator/" data-track-event="pay_cta_click" data-track-label="psp_fee_comparator">Compare processing costs →</a>
+      </p>
+    </section>
+
+    <section id="step-5" class="pay-step">
+      <h2><span class="pay-step__n">5</span> Settle &amp; manage cash</h2>
+      <p>
+        PSPs typically settle <strong>T+1 to T+3</strong>, so a slice of your revenue is always in
+        transit — plan for the working capital it ties up (the calculator estimates this). For
+        cross-border models, confirm payout currency, FX handling, and timing before you commit
+        inventory.
+      </p>
+      <p class="pay-links">Go deeper: <a href="/guides/how-to-accept-payments-in-vietnam/">How to accept payments (guide)</a> · <a href="/logistics/">logistics &amp; COD</a></p>
+    </section>
+
+    <section id="step-6" class="pay-step">
+      <h2><span class="pay-step__n">6</span> License &amp; comply</h2>
+      <p>
+        Payment intermediation is regulated by the <strong>State Bank of Vietnam (SBV)</strong> —
+        e-wallets and payment-service providers need a licence, and merchants handling personal data
+        face KYC/AML duties. The <strong>fintech sandbox (Decree 94/2025)</strong> supports piloting
+        new models. Most foreign merchants accept payments through a licensed PSP or a local entity
+        rather than seeking their own licence.
+      </p>
+      <p class="pay-links">Comply: <a href="/fintech/">Fintech landscape</a> · <a href="/regulations/">Regulatory environment</a> · <a href="/banking/">Banking</a></p>
+    </section>
+
+    <section class="pay-step">
+      <h2>Sources</h2>
+      <ul class="sources-list">
+        <li>State Bank of Vietnam (SBV) — 2025 cashless-payment and account statistics</li>
+        <li>NAPAS — VietQR / interbank switching; wallet usage shares via industry surveys (Decision Lab, etc.)</li>
+        <li>Decree 94/2025/ND-CP (fintech sandbox); provider disclosures</li>
+      </ul>
+    </section>
+
+    <p class="pay-footer">
+      <a href="/start-by-job/">← All jobs</a> · <a href="/tools/psp-fee-comparator/">PSP fee comparator</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .pay-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .pay-header { margin-bottom: var(--space-8); }
+  .pay-header h1 { border: none; margin-bottom: var(--space-3); }
+  .pay-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .pay-spine { list-style: none; padding: 0; margin: var(--space-6) 0 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+  .pay-spine li a { display: inline-flex; align-items: center; gap: var(--space-2); padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border-light); border-radius: 999px; font-size: var(--text-sm); font-weight: 600; color: var(--color-text-muted); text-decoration: none; }
+  .pay-spine li a:hover { border-color: var(--color-accent); color: var(--color-accent); }
+  .pay-spine__n { display: inline-flex; align-items: center; justify-content: center; width: 1.4em; height: 1.4em; border-radius: 50%; background: var(--color-accent); color: #fff; font-size: 0.72em; }
+  .pay-step { margin-bottom: var(--space-10); scroll-margin-top: calc(var(--header-height) + var(--space-4)); }
+  .pay-step h2 { display: flex; align-items: center; gap: var(--space-3); border: none; }
+  .pay-step__n { display: inline-flex; align-items: center; justify-content: center; width: 1.5em; height: 1.5em; border-radius: 50%; background: var(--color-ink); color: #fff; font-size: 0.7em; flex-shrink: 0; }
+  .pay-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .pay-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); background: var(--color-bg); }
+  .pay-table th, .pay-table td { border: 1px solid var(--color-border-light); padding: var(--space-3) var(--space-4); text-align: left; }
+  .pay-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .pay-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .pay-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); text-align: right; }
+  .pay-links { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .pay-links a { color: var(--color-accent); }
+  .pay-cta { margin: var(--space-4) 0; }
+  .pay-cta__btn { display: inline-flex; padding: var(--space-3) var(--space-5); border-radius: 999px; background: var(--color-accent); color: #fff; font-weight: 700; text-decoration: none; }
+  .pay-cta__btn:hover { background: var(--color-accent-hover, #000); color: #fff; }
+  .pay-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .pay-footer a { color: var(--color-text-muted); }
+  .pay-footer a:hover { color: var(--color-accent); }
+</style>

@@ -1,0 +1,224 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Vietnam PSP Fee Comparator (2026) — Payment Processing Cost Calculator";
+const description = "Free calculator: model your blended payment-processing cost in Vietnam across cards, e-wallets, and bank transfer/QR — plus the working capital tied up in settlement.";
+const canonical = "https://vnmarketinsights.com/tools/psp-fee-comparator/";
+
+// Representative illustrative rates by method — editable in the tool. Real rates
+// are provider- and merchant-specific; the page says so.
+const methods = [
+  { key: 'cards', label: 'Cards (domestic + intl)', mix: 40, fee: 2.2 },
+  { key: 'wallets', label: 'E-wallets (MoMo, ZaloPay…)', mix: 40, fee: 1.8 },
+  { key: 'bankqr', label: 'Bank transfer / QR (VietQR)', mix: 20, fee: 0.8 },
+];
+
+// Server-rendered worked example so the page has real content without JS.
+const d = { revenue: 50000, settle: 2, cur: 'USD' };
+const totalMix = methods.reduce((s, m) => s + m.mix, 0);
+const blended = methods.reduce((s, m) => s + m.mix * m.fee, 0) / totalMix;
+const monthly = d.revenue * blended / 100;
+const annual = monthly * 12;
+const workingCapital = d.revenue * (d.settle / 30);
+const f = (n: number) => n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+const appSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vietnam PSP Fee Comparator",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "url": canonical,
+  "description": description,
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "creator": { "@type": "Organization", "name": "VN Market Insights", "url": "https://vnmarketinsights.com/" },
+};
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to estimate payment-processing cost in Vietnam",
+  "step": [
+    { "@type": "HowToStep", "name": "Split your payment mix", "text": "Estimate the share of revenue by method: cards, e-wallets, and bank transfer/QR." },
+    { "@type": "HowToStep", "name": "Apply each method's fee", "text": "Multiply each method's share by its processing fee to get a blended take-rate." },
+    { "@type": "HowToStep", "name": "Cost the volume", "text": "Multiply monthly revenue by the blended take-rate for your monthly processing cost." },
+    { "@type": "HowToStep", "name": "Add settlement drag", "text": "Multiply revenue by settlement days / 30 to see the working capital tied up in transit." },
+  ],
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Tools"
+  publishedDate="2026-07-25"
+  lastUpdated="2026-07-25"
+  structuredData={[appSchema, howToSchema]}
+  mainClass="container"
+>
+  <article class="lc-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/tools/">Tools</a>
+      <span aria-hidden="true">/</span>
+      <span>PSP Fee Comparator</span>
+    </nav>
+
+    <header class="lc-header">
+      <h1>Vietnam PSP Fee Comparator</h1>
+      <p class="lc-lead">
+        Model your <strong>blended payment-processing cost</strong> in Vietnam across cards, e-wallets,
+        and bank transfer/QR — and see the <strong>working capital</strong> tied up while payments
+        settle. Adjust the mix and rates to your business.
+      </p>
+    </header>
+
+    <section class="lc-tool" aria-label="PSP fee comparator">
+      <form class="lc-form" id="psp-form" novalidate>
+        <div class="lc-field">
+          <label for="psp-cur">Currency label</label>
+          <input type="text" id="psp-cur" value={d.cur} maxlength="5" autocomplete="off" />
+        </div>
+        <div class="lc-field">
+          <label for="psp-revenue">Monthly revenue processed</label>
+          <input type="number" id="psp-revenue" value={d.revenue} min="0" step="any" inputmode="decimal" />
+        </div>
+        <fieldset class="lc-fieldset">
+          <legend>Payment mix (% of revenue) &amp; fee per method (%)</legend>
+          {methods.map(m => (
+            <div class="lc-method">
+              <span class="lc-method__label">{m.label}</span>
+              <label class="lc-method__inp"><span>mix %</span><input type="number" id={`psp-mix-${m.key}`} value={m.mix} min="0" step="any" inputmode="decimal" /></label>
+              <label class="lc-method__inp"><span>fee %</span><input type="number" id={`psp-fee-${m.key}`} value={m.fee} min="0" step="any" inputmode="decimal" /></label>
+            </div>
+          ))}
+        </fieldset>
+        <div class="lc-field">
+          <label for="psp-settle">Settlement time (days)</label>
+          <input type="number" id="psp-settle" value={d.settle} min="0" step="1" inputmode="numeric" />
+          <span class="lc-hint">Vietnam PSPs typically settle T+1 to T+3.</span>
+        </div>
+      </form>
+
+      <div class="lc-results" aria-live="polite">
+        <h2>Estimated processing cost</h2>
+        <table class="lc-table">
+          <tbody>
+            <tr><th scope="row">Blended take-rate</th><td><span id="r-blended">{f(blended)}</span>%</td></tr>
+            <tr><th scope="row">Monthly processing cost</th><td><span class="lc-cur">{d.cur}</span> <span id="r-monthly">{f(monthly)}</span></td></tr>
+            <tr class="lc-total"><th scope="row">Annual processing cost</th><td><span class="lc-cur">{d.cur}</span> <span id="r-annual">{f(annual)}</span></td></tr>
+            <tr><th scope="row">Working capital in settlement</th><td><span class="lc-cur">{d.cur}</span> <span id="r-wc">{f(workingCapital)}</span></td></tr>
+          </tbody>
+        </table>
+        <p class="lc-disclaimer">
+          Estimate only. Real rates are provider- and merchant-specific and negotiable at volume; some
+          providers add per-transaction or fixed monthly fees not modelled here. Bank transfer / VietQR
+          is usually the cheapest rail; international cards the most expensive.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>How it's calculated</h2>
+      <ol class="lc-formula">
+        <li><strong>Blended take-rate</strong> = Σ (method share × method fee) ÷ total share</li>
+        <li><strong>Monthly cost</strong> = monthly revenue × blended take-rate</li>
+        <li><strong>Working capital in settlement</strong> = monthly revenue × (settlement days ÷ 30) — cash tied up in transit</li>
+      </ol>
+      <p>
+        Vietnam is going cashless fast — cashless payments reached roughly <strong>28× GDP</strong> in
+        2025 and QR-code volume grew ~51%. The cheapest rail is usually <strong>bank transfer / VietQR</strong>
+        (NAPAS), then e-wallets (MoMo, ZaloPay, VNPay), with <strong>international cards</strong> the most
+        expensive. Shifting mix toward QR/A2A is the biggest lever on your blended rate. See the
+        <a href="/payments/">payments overview</a> and <a href="/guides/how-to-accept-payments-in-vietnam/">how to accept payments guide</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Related</h2>
+      <ul class="related-list">
+        <li><a href="/accept-payments-in-vietnam/">Accept payments in Vietnam — the operator playbook</a></li>
+        <li><a href="/payments/">Payments overview</a> · <a href="/fintech/">Fintech</a> · <a href="/compare/momo-vs-zalopay-vs-viettelpay/">MoMo vs ZaloPay vs ViettelPay</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/tools/">All tools &amp; data</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<script>
+  const $ = (id: string) => document.getElementById(id) as HTMLInputElement | null;
+  const fmt = (n: number) =>
+    (isFinite(n) ? n : 0).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const KEYS = ['cards', 'wallets', 'bankqr'];
+
+  function compute() {
+    const revenue = parseFloat($('psp-revenue')?.value || '0') || 0;
+    const settle = parseFloat($('psp-settle')?.value || '0') || 0;
+    const cur = ($('psp-cur')?.value || '').trim();
+    let weighted = 0;
+    let totalMix = 0;
+    KEYS.forEach((k) => {
+      const mix = parseFloat($('psp-mix-' + k)?.value || '0') || 0;
+      const fee = parseFloat($('psp-fee-' + k)?.value || '0') || 0;
+      weighted += mix * fee;
+      totalMix += mix;
+    });
+    const blended = totalMix > 0 ? weighted / totalMix : 0;
+    const monthly = revenue * blended / 100;
+    const annual = monthly * 12;
+    const wc = revenue * (settle / 30);
+    const set = (id: string, v: string) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+    set('r-blended', fmt(blended));
+    set('r-monthly', fmt(monthly));
+    set('r-annual', fmt(annual));
+    set('r-wc', fmt(wc));
+    document.querySelectorAll('.lc-cur').forEach((el) => { el.textContent = cur; });
+  }
+
+  document.getElementById('psp-form')?.addEventListener('input', compute);
+  compute();
+</script>
+
+<style>
+  .lc-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .lc-header { margin-bottom: var(--space-6); }
+  .lc-header h1 { border: none; margin-bottom: var(--space-3); }
+  .lc-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lc-tool { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-6); margin: var(--space-6) 0 var(--space-10); align-items: start; }
+  .lc-form { display: flex; flex-direction: column; gap: var(--space-4); }
+  .lc-field { display: flex; flex-direction: column; gap: var(--space-1); }
+  .lc-field label { font-weight: 600; font-size: var(--text-sm); color: var(--color-text); }
+  .lc-field input { padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-size: var(--text-base); }
+  .lc-field input:focus { outline: 2px solid var(--color-accent); outline-offset: 1px; border-color: var(--color-accent); }
+  .lc-hint { font-size: var(--text-xs); color: var(--color-text-muted); }
+  .lc-fieldset { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-3) var(--space-4); }
+  .lc-fieldset legend { font-weight: 600; font-size: var(--text-sm); padding: 0 var(--space-2); }
+  .lc-method { display: grid; grid-template-columns: 1fr auto auto; gap: var(--space-2); align-items: center; padding: var(--space-2) 0; border-bottom: 1px solid var(--color-border-light); }
+  .lc-method:last-child { border-bottom: none; }
+  .lc-method__label { font-size: var(--text-sm); color: var(--color-text); }
+  .lc-method__inp { display: flex; flex-direction: column; align-items: flex-end; gap: 2px; }
+  .lc-method__inp span { font-size: var(--text-xs); color: var(--color-text-muted); }
+  .lc-method__inp input { width: 74px; padding: var(--space-1) var(--space-2); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-variant-numeric: tabular-nums; text-align: right; }
+  .lc-results { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-5); background: var(--color-bg-subtle); }
+  .lc-results h2 { margin-top: 0; border: none; font-size: var(--text-lg); }
+  .lc-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .lc-table th, .lc-table td { padding: var(--space-2) 0; text-align: left; border-bottom: 1px solid var(--color-border-light); }
+  .lc-table td { text-align: right; font-variant-numeric: tabular-nums; }
+  .lc-table tbody th { font-weight: 500; color: var(--color-text-muted); }
+  .lc-table .lc-total th, .lc-table .lc-total td { font-weight: 700; font-size: var(--text-base); color: var(--color-accent); }
+  .lc-disclaimer { margin-top: var(--space-3); font-size: var(--text-xs); color: var(--color-text-muted); line-height: 1.5; }
+  section { margin-bottom: var(--space-10); }
+  .lc-formula { line-height: 1.7; padding-left: var(--space-6); }
+  .lc-page section p a { color: var(--color-accent); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  @media (max-width: 720px) { .lc-tool { grid-template-columns: 1fr; } }
+</style>
