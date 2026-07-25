@@ -28,7 +28,16 @@ TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 
 RECENT_WINDOW = 40      # newest enriched articles to consider
 HEADLINE_COUNT = 6      # top items to post, ranked by importance
-SUMMARY_MAX_CHARS = 180
+SUMMARY_MAX_CHARS = 170
+
+# Per-topic emoji so the feed is scannable at a glance.
+TOPIC_EMOJI = {
+    "ecommerce": "🛒", "retail": "🛍️", "payments": "💳", "fintech": "📲",
+    "banking": "🏦", "logistics": "🚚", "platforms": "📱", "consumers": "👥",
+    "regulations": "⚖️", "financial-markets": "📈", "manufacturing": "🏭",
+    "real-estate": "🏢", "tourism": "✈️",
+}
+DIVIDER = "━━━━━━━━━━━━━━"
 
 
 def _state_path(settings: Settings) -> Path:
@@ -86,15 +95,22 @@ def _truncate(text: str, limit: int = SUMMARY_MAX_CHARS) -> str:
 
 
 def _format_message(items: list[dict], date_label: str) -> str:
-    lines = [f"📊 <b>Vietnam Market — Daily Headlines</b>", f"<i>{date_label}</i>", ""]
+    lines = [
+        f"🇻🇳 <b>Vietnam Market Brief</b>",
+        f"<i>{date_label}</i>",
+        DIVIDER,
+        "",
+    ]
     for it in items:
+        emoji = TOPIC_EMOJI.get(it["topic"], "📌")
         summary = html.escape(_truncate(it["summary_en"]))
         source = html.escape(it["source"] or "source")
         url = html.escape(it["url"], quote=True)
-        lines.append(f"• <a href=\"{url}\">{summary}</a>")
-        lines.append(f"  <i>{source}</i>")
+        lines.append(f"{emoji} <a href=\"{url}\">{summary}</a>")
+        lines.append(f"    <i>— {source}</i>")
         lines.append("")
-    lines.append(f"Full coverage &amp; analysis → {SITE_URL}")
+    lines.append(DIVIDER)
+    lines.append(f"📊 <a href=\"{SITE_URL}\">Full coverage &amp; free tools →</a>")
     return "\n".join(lines)
 
 
@@ -103,7 +119,9 @@ def run_telegram(settings: Settings) -> bool:
         print("  [info] TELEGRAM_BOT_TOKEN/TELEGRAM_CHANNEL not set — skipping Telegram push.")
         return False
 
-    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    now = datetime.now(timezone.utc)
+    today = now.strftime("%Y-%m-%d")
+    date_label = now.strftime("%d %B %Y")
     state = _load_state(settings)
     if state.get("last_telegram_date") == today:
         print(f"  [info] Telegram already posted for {today} — skipping (daily guard).")
@@ -117,7 +135,7 @@ def run_telegram(settings: Settings) -> bool:
         print("  [info] no enriched English headlines to post — skipping Telegram.")
         return False
 
-    message = _format_message(items, date_label=today)
+    message = _format_message(items, date_label=date_label)
     try:
         resp = httpx.post(
             TELEGRAM_API.format(token=settings.telegram_bot_token),
