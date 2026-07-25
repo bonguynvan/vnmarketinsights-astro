@@ -787,9 +787,7 @@ const allSchemas = [
               email_domain: email.split('@')[1] || ''
             });
             if (growthModalStatus) {
-              growthModalStatus.textContent = response?.alreadySubscribed
-                ? 'You are already subscribed and confirmed.'
-                : 'Check your email to confirm subscription.';
+              growthModalStatus.textContent = 'Thanks for subscribing!';
               growthModalStatus.classList.add('is-success');
             }
             window.vmiGrowthContext?.setMilestone?.('lead_pending_confirmation', true);

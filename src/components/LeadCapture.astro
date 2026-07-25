@@ -45,9 +45,7 @@ const TELEGRAM_URL = 'https://t.me/vnmarketinsights';
 
       req.then((res: any) => {
         if (status) {
-          status.textContent = res?.alreadySubscribed
-            ? 'You are already subscribed and confirmed.'
-            : 'Check your inbox to confirm your subscription.';
+          status.textContent = 'Thanks for subscribing!';
           status.classList.add('is-success');
         }
         if (input) input.value = '';
