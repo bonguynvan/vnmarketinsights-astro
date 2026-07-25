@@ -4,6 +4,11 @@
 // (no database needed). Env-gated on KIT_API_KEY + KIT_FORM_ID: when either is
 // unset the endpoint returns 503 so the client shows a graceful retry message.
 
+// Astro hybrid prerenders routes by default — opt out so this runs as an
+// on-demand serverless function. Without this the route is baked to a static
+// file and POST returns a platform 405 (every other /api route sets this).
+export const prerender = false;
+
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const KIT_API_BASE = 'https://api.kit.com/v4';
 
