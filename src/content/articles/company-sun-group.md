@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Xây tổ hợp dự án 10.750 tỉ đồng 'biểu tượng mới' bên sông Hàn Đà Nẵng**  
+
+A 10.75 trillion dong integrated complex project is being developed on a land area exceeding 210,000 square meters in the Da Nang Downtown urban area in Ngu Hanh Son ward. The core of the complex is an outdoor stage and auditorium with nearly 20,000 seats facing the Han River fireworks display area, designed to serve the Da Nang International Fireworks Festival (DIFF). Beyond hosting DIFF, the facility is designed to accommodate artistic performances, festivals, and cultural events.
+
+- Source: [TuoiTre](https://tuoitre.vn/xay-to-hop-du-an-10750-ti-dong-bieu-tuong-moi-ben-song-han-da-nang-100260725113129147.htm)
 
 **Gặp Phó Thủ tướng, lãnh đạo Sun Group đưa ra kiến nghị gì cho dự án kết nối với 'siêu sân bay' hơn 196.000 tỷ đồng**  
 
@@ -79,18 +85,12 @@ Banks have been granted expanded permissions for medium and long-term lending, b
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-duoc-mo-rong-cho-vay-dai-han-co-the-gay-suc-ep-len-thanh-khoan-va-lai-suat-188260626103811982.chn)
 
-**Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?**  
-
-The State Bank of Vietnam has implemented special mechanisms for 18 projects of Vingroup, Sun Group, and Masterise. The article notes that credit limits are no longer the primary constraint facing Vietnam's banking system. The State Bank has been signaling policy adjustments through measures such as expanding loan-to-deposit ratios, opening credit room, and raising caps on long-term lending.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn)
-
 ## Related coverage
 
+- [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
 - [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 
 ---
 

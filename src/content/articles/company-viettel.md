@@ -1,8 +1,8 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
@@ -39,10 +39,10 @@ Viettel has acquired the 095 mobile phone number prefix, adding to its existing 
 
 ## Related coverage
 
+- [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 - [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
 - [Sẽ phát triển doanh nghiệp 1 người?](https://cafef.vn/se-phat-trien-doanh-nghiep-1-nguoi-188260718134151712.chn) — CafeF
-- [Doanh nghiệp Nhà nước trước cuộc đại tái cơ cấu: Xoá tư duy giữ vốn dàn trải](https://cafef.vn/doanh-nghiep-nha-nuoc-truoc-cuoc-dai-tai-co-cau-xoa-tu-duy-giu-von-dan-trai-188260717075205481.chn) — CafeF
 
 ---
 

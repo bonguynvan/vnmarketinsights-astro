@@ -1,17 +1,23 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (62 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (63 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
 
 **Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, an
 Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
 
 - Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
-
-**Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-According to State Bank Governor Phạm Đức Ấn, the central bank has faced challenging interest rate management due to high capital demand while the economy's capital mobilization remains limited. The governor stated that the focus on economic growth and credit expansion naturally leads to higher interest rates when capital is scarce. Banks lack sufficient capital to supply numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
 
 ## Related coverage
 

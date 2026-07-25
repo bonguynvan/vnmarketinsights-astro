@@ -1,17 +1,23 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (79 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (80 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
 
 **Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ The State Bank Governor stated that interest rate management has been challengin
 Three major state-owned banks—BIDV, VietinBank, and Vietcombank—are scheduled to distribute dividend payments exceeding 10,500 billion Vietnamese dong to shareholders in the coming week. The dividend distribution marks a significant milestone for shareholder returns from these systemically important financial institutions. These three banks represent the largest asset bases among listed entities on Vietnamese stock exchanges.
 
 - Source: [CafeF](https://cafef.vn/tuan-toi-la-thoi-diem-quan-trong-voi-co-dong-vietcombank-vietinbank-va-bidv-188260719085953122.chn)
-
-**Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc**  
-
-Vietcombank Chairman Nguyễn Thanh Tùng proposed issuing international bonds to supplement capital sources for the economy, citing insufficient domestic accumulation. State Bank of Vietnam Governor Phạm Đức Ấn stated that the central bank is analyzing implementation options and confirmed it will participate in the initiative. The proposal addresses capital sourcing for economic development.
-
-- Source: [CafeF](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn)
 
 ## Related coverage
 

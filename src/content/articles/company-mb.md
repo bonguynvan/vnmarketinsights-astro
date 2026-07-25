@@ -1,17 +1,23 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (41 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
 
 **Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ Several bank stocks displayed positive momentum despite a sluggish overall marke
 Vietnamese banks are distributing record-breaking cash dividends in 2026, with a total payout exceeding 48,000 billion Vietnamese dong. Five banks have yet to finalize dividend record dates. This represents the largest cash dividend payout in the history of the Vietnamese banking sector.
 
 - Source: [CafeF](https://cafef.vn/cac-ngan-hang-chi-so-tien-lon-ky-luc-tra-co-tuc-tien-mat-van-con-5-ngan-hang-chua-chot-quyen-188260715112359266.chn)
-
-**Lãi suất ngân hàng 15/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates on July 15 shows the highest rate remains at 7.3% per annum, while most banks continue to maintain 12-month term deposit rates in the range of 6.6-6.9% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-15-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260715202748776.chn)
 
 ## Related coverage
 

@@ -1,8 +1,8 @@
 ---
 title: "Asia Commercial Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Asia Commercial Bank, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---

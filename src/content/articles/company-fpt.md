@@ -1,8 +1,8 @@
 ---
 title: "FPT — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FPT, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
@@ -46,9 +46,9 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 ## Related coverage
 
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
+- [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [Phó Thủ tướng: Không để doanh nghiệp thiếu vốn](https://cafef.vn/pho-thu-tuong-khong-de-doanh-nghiep-thieu-von-188260704160612542.chn) — CafeF
 - [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
-- [Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực](https://cafef.vn/kinh-te-xa-hoi-duy-tri-da-tang-truong-tich-cuc-tren-hau-het-cac-linh-vuc-188260706110742895.chn) — CafeF
 
 ---
 

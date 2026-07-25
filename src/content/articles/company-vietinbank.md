@@ -1,17 +1,35 @@
 ---
 title: "Vietinbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietinbank, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietinbank
 
-Recent Vietnam market news mentioning **Vietinbank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietinbank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
+
+**Cơ quan Thuế yêu cầu MBBank, Vietinbank, BIDV trích tiền từ tài khoản ngân hàng của những công ty có tên trong danh sách sau**  
+
+Hung Yen Tax Authority issued a notice on July 23, 2026, requiring MBBank, Vietinbank, and BIDV to enforce administrative decisions by collecting funds from bank accounts of listed companies. The tax authority is implementing compulsory tax collection measures against these entities. The notice concerns enforcement of tax management decisions through account deductions at the state treasury and credit organizations.
+
+- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-mbbank-vietinbank-bidv-trich-tien-tu-tai-khoan-ngan-hang-cua-nhung-cong-ty-co-ten-trong-danh-sach-sau-188260725155408334.chn)
+
+**Cục Thuế vừa có thông báo mới, hộ kinh doanh có doanh thu dưới 1 tỷ đồng/năm cần biết**  
+
+The Tax Authority issued new guidance on electronic invoice usage for household businesses with annual revenue below 1 billion VND. This announcement provides clarification for small-scale business operators on compliance requirements. The guidance aims to standardize invoice procedures for this business segment.
+
+- Source: [CafeF](https://cafef.vn/cuc-thue-vua-co-thong-bao-moi-ho-kinh-doanh-co-doanh-thu-duoi-1-ty-dong-nam-can-biet-188260725161957554.chn)
 
 **Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -67,30 +85,12 @@ A survey of online deposit rates across 34 banks on July 20 shows the highest ra
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn)
 
-**Giảm phát thải: Khi doanh nghiệp “chuyển vai” từ tìm hiểu sang triển khai**  
-
-Vietnamese businesses are shifting from studying emissions reduction to implementing practical measures including greenhouse gas inventory, emissions data digitalization, participation in carbon credit markets, and access to green financing. VietinBank organized a workshop in Ho Chi Minh City titled "Emissions Reduction – Opportunities and Challenges for Businesses" to discuss these transitions. Experts emphasized that the key to green transformation extends beyond technical measures.
-
-- Source: [CafeF](https://cafef.vn/giam-phat-thai-khi-doanh-nghiep-chuyen-vai-tu-tim-hieu-sang-trien-khai-188260720202426028.chn)
-
-**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Tuần tới là thời điểm quan trọng với cổ đông Vietcombank, VietinBank và BIDV**  
-
-Three major state-owned banks—BIDV, VietinBank, and Vietcombank—are scheduled to distribute dividend payments exceeding 10,500 billion Vietnamese dong to shareholders in the coming week. The dividend distribution marks a significant milestone for shareholder returns from these systemically important financial institutions. These three banks represent the largest asset bases among listed entities on Vietnamese stock exchanges.
-
-- Source: [CafeF](https://cafef.vn/tuan-toi-la-thoi-diem-quan-trong-voi-co-dong-vietcombank-vietinbank-va-bidv-188260719085953122.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 - [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
+- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "MobiFone — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MobiFone, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ Following enforcement measures to block SIM cards, many Vietnamese mobile users 
 
 - [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
 - [Kiến nghị nâng ngưỡng không phải đóng thuế trên doanh thu đối với hộ kinh doanh lên 3 tỷ đồng/năm](https://cafef.vn/kien-nghi-nang-nguong-khong-phai-dong-thue-tren-doanh-thu-doi-voi-ho-kinh-doanh-len-3-ty-dong-nam-18826071910443773.chn) — CafeF
+- [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [CẬP NHẬT: Hội nghị Thường trực Chính phủ với cộng đồng doanh nghiệp](https://cafef.vn/cap-nhat-hoi-nghi-thuong-truc-chinh-phu-voi-cong-dong-doanh-nghiep-188260718092654601.chn) — CafeF
-- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 
 ---
 

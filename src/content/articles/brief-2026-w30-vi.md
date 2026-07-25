@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 30/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 30 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng Quan Tin Tức Thị Trường Việt Nam Tuần Này
 
-Thị trường chứng khoán ghi nhận những tín hiệu tích cực từ các ngân hàng với lợi nhuận quý II tăng mạnh, trong khi nền kinh tế đạt mức tăng trưởng 8,18% trong nửa đầu năm 2026. Tuy nhiên, thị trường phải đối mặt với các áp lực từ việc Mỹ áp dụng thuế nhập khẩu mới (10-12,5%) từ ngày 24/7, bên cạnh những rủi ro nội tại từ việc sử dụng đòn bẩy cao của nhà đầu tư và sự sụt giảm niềm tin trong thị trường bán lẻ kim cương.
+Thị trường Việt Nam tuần này ghi nhận những tín hiệu trái chiều: kim ngạch xuất nhập khẩu 6 tháng đầu năm tăng 27,1% lên gần 550 tỷ USD, nhiều ngân hàng và công ty tài chính báo cáo lợi nhuận tăng trưởng, nhưng Việt Nam cũng phải đối mặt với các biện pháp thuế mới từ Mỹ (10-12,5%) kể từ ngày 24/7. Bên cạnh đó, các chuyên gia cảnh báo về rủi ro gia tăng từ việc sử dụng đòn bẩy trong chứng khoán, trong khi một vụ bê bối buôn lậu kim cương đã làm rung chuyển lòng tin khách hàng tại TP.HCM.
 
 ## Người tiêu dùng
 
@@ -24,6 +24,13 @@ Từ cuối tháng 5, hàng loạt cửa hàng bán kim cương đóng cửa ho�
 - Nguồn: [CafeF](https://cafef.vn/hang-loat-cua-hang-kim-cuong-dong-cua-bo-ngo-quyen-loi-khach-hang-188260722064532814.chn)
 
 ## Pháp lý
+
+**Thông tin mới nhất từ Bộ Ngoại giao về việc Hoa Kỳ áp thuế lên đến 12,5% cho hàng hóa nhập khẩu, trong đó có Việt Nam**  
+
+Cơ quan Đại diện Thương mại Hoa Kỳ (USTR) đã áp mức thuế lên đến 12,5% cho hàng hóa nhập khẩu từ các nước bị điều tra theo Mục 301, trong đó có Việt Nam. Phát ngôn viên Bộ Ngoại giao Việt Nam Phạm Thu Hằng đã phản hồi các câu hỏi của báo chí về phản ứng của Việt Nam đối với biện pháp thuế mới này. Vị trí của Bộ Ngoại giao và chi tiết về việc thực hiện vẫn đang được thảo luận.
+
+- Số liệu chính: Tariff rate imposed by USTR on imported goods: 12.5% %
+- Nguồn: [CafeF](https://cafef.vn/thong-tin-moi-nhat-tu-bo-ngoai-giao-ve-viec-hoa-ky-ap-thue-len-den-125-cho-hang-hoa-nhap-khau-trong-do-co-viet-nam-188260725144937058.chn)
 
 **Ai chịu tác động mạnh nhất sau cú sốc buôn lậu kim cương?**  
 
@@ -79,6 +86,13 @@ Bốn nhân viên ngân hàng, là những chuyên viên quan hệ khách hàng 
 - Nguồn: [CafeF](https://cafef.vn/truy-to-4-nhan-vien-ngan-hang-lien-quan-so-tien-hon-96-ty-dong-188260721071648088.chn)
 
 ## Chứng khoán
+
+**Ngân hàng đầu tiên báo lỗ trong quý 2/2026**  
+
+Ngân hàng TMCP Sài Gòn Công Thương (Saigonbank - SGB) báo cáo thua lỗ lần đầu tiên trong quý 2/2026 giữa những thách thức trong hoạt động kinh doanh. Lợi nhuận trước thuế luỹ kế 6 tháng đầu năm đạt 48 tỷ đồng, giảm 72,41% so với cùng kỳ năm 2025. Thu nhập lãi thuần - nguồn thu chính của ngân hàng giảm 31,34% xuống 160 tỷ đồng trong quý 2/2026.
+
+- Số liệu chính: Pre-tax profit (H1 2026): 48 billion VND VND; YoY change in pre-tax profit (H1 2026 vs H1 2025): -72.41% %; Net interest income (Q2 2026): 160 billion VND VND; YoY change in net interest income (Q2 2026 vs Q2 2025): -31.34% %
+- Nguồn: [CafeF](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn)
 
 **VietCredit lãi trước thuế hơn 1.049 tỷ nửa đầu 2026, CIR quý II giảm còn 9,93%**  
 
@@ -143,14 +157,14 @@ Lợi nhuận Quý 2 của Techcombank đạt kỷ lục mới, với lợi nhu�
 - Số liệu chính: VPBank pre-tax profit (H1 2026): 18,880 billion VND; Techcombank profit (H1 2026): 18,500+ billion VND; Number of banks reporting results: 10 banks
 - Nguồn: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
-**BVBank chính thức niêm yết cổ phiếu BVB trên sàn HoSE từ hôm nay 21/7**  
-
-Ngày 21/7/2026, Ngân hàng TMCP Bản Việt (BVBank) chính thức niêm yết hơn 640 triệu cổ phiếu BVB trên Sở Giao dịch Chứng khoán TP. Hồ Chí Minh (HoSE). Đây là cột mốc quan trọng trong hành trình phát triển của ngân hàng, đánh dấu bước chuyển mình sang một chu kỳ tăng trưởng mới với nền tảng quản trị hiện đại, minh bạch và chuẩn mực. Ngân hàng hướng đến tăng trưởng bền vững thông qua việc niêm yết trên thị trường chứng khoán công khai.
-
-- Số liệu chính: Shares listed: over 640 million shares; Listing date: July 21, 2026 date
-- Nguồn: [CafeF](https://cafef.vn/bvbank-chinh-thuc-niem-yet-co-phieu-bvb-tren-san-hose-tu-hom-nay-21-7-188260721144434853.chn)
-
 ## Kinh tế vĩ mô
+
+**Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần 550 tỷ USD trong 6 tháng**  
+
+Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần 550 tỷ USD trong 6 tháng đầu năm, tăng 27,1% so với cùng kỳ năm trước. Thứ trưởng Bộ Công Thương Phan Thị Thắng nhấn mạnh nội dung này tại Diễn đàn logistics ngày 24/7. Sự tăng trưởng này diễn ra trong bối cảnh thương mại thế giới vẫn còn nhiều biến động.
+
+- Số liệu chính: Total import-export goods value (6 months): 550 billion USD; Year-on-year growth rate: 27.1%
+- Nguồn: [CafeF](https://cafef.vn/tong-kim-ngach-xuat-nhap-khau-hang-hoa-cua-viet-nam-dat-gan-550-ty-usd-trong-6-thang-188260725133538931.chn)
 
 **Tập trung giải ngân đầu tư công để cán đích tăng trưởng**  
 
@@ -178,19 +192,6 @@ GDP Việt Nam tăng 8,18% trong nửa đầu năm, đạt mức cao nhất củ
 Tăng trưởng tín dụng tiếp tục vượt xa tốc độ huy động vốn, tạo áp lực lớn lên thanh khoản của hệ thống ngân hàng. Dư địa giảm lãi suất ngày càng hạn hẹp do áp lực này. Các chuyên gia cho rằng mặc bằng lãi suất sẽ duy trì ổn định trong những tháng cuối năm, với khả năng giảm nhẹ chỉ ở một số lĩnh vực ưu tiên thay vì quay trở lại mức thấp.
 
 - Nguồn: [CafeF](https://cafef.vn/du-dia-giam-lai-suat-ngay-cang-thu-hep-188260721094523231.chn)
-
-**Từ thu nhập trung bình cao tới thu nhập cao: Cột mốc mới của Việt Nam**  
-
-Việt Nam đã tiến từ nước thu nhập trung bình thấp lên nước thu nhập trung bình cao và đặt mục tiêu trở thành nước thu nhập cao vào năm 2045. Ngân hàng Thế giới xác nhận vào tháng 7/2026 rằng GNI bình quân đầu người của Việt Nam năm 2025 đã vượt qua ngưỡng thu nhập trung bình cao. Việt Nam đang phát triển nhanh hơn các quốc gia trong khu vực trong bước chuyển tiếp kinh tế này.
-
-- Nguồn: [CafeF](https://cafef.vn/tu-thu-nhap-trung-binh-cao-toi-thu-nhap-cao-cot-moc-moi-cua-viet-nam-188260721160224714.chn)
-
-**Tăng trưởng hai con số, kịch bản tăng tốc 6 tháng cuối năm**  
-
-Chính phủ Việt Nam đưa ra kịch bản tăng trưởng 11,9% cho 6 tháng cuối năm nhằm đạt mục tiêu tăng trưởng GDP cả năm từ 10% trở lên. Các động lực tăng trưởng bao gồm đầu tư công, tiêu dùng nội địa, xuất khẩu và các lĩnh vực mới như kinh tế số và AI. Thông báo này phản ánh nỗ lực chính sách duy trì tăng trưởng hai con số cho phần còn lại của năm.
-
-- Số liệu chính: Target GDP growth for H2: 11.9% %; Target full-year GDP growth: 10% %
-- Nguồn: [CafeF](https://cafef.vn/tang-truong-hai-con-so-kich-ban-tang-toc-6-thang-cuoi-nam-188260721141718775.chn)
 
 ---
 

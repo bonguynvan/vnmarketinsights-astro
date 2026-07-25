@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,24 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng Nhà nước lên tiếng việc chuyển trên 400 triệu phải chờ 24 giờ**  
+
+The State Bank of Vietnam clarified regulations regarding money transfers exceeding 400 million Vietnamese dong, which will require a 24-hour waiting period starting March 1, 2027. The bank emphasized that this regulation does not apply to all transactions. The clarification was issued to address public concerns about the new requirements for large-value online transfers.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-len-tieng-viec-chuyen-tren-400-trieu-phai-cho-24-gio-188260723150543769.chn)
+
+**Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới**  
+
+Vietnam is amending the 2010 State Bank Law to enhance the central bank's role in managing monetary policy and macroeconomic stability. The amendments address requirements for two-digit economic growth and changing management models through adjustments to financial capacity, organizational structure, and operational instruments. These modifications are designed to provide the State Bank with greater flexibility and institutional foundation to support long-term economic development.
+
+- Source: [CafeF](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn)
+
+**Đề xuất thương nhân cung cấp thông tin nguồn tiền để ngân hàng theo dõi giao dịch chuyển khẩu**  
+
+Vietnam's State Bank is circulating a draft circular to regulate payment and money transfer activities related to entrepôt trade operations, intended to replace Circular 02/2020/TT-NHNN. The new regulation proposes requiring merchants to provide information about money sources to enable banks to monitor entrepôt trade transactions. The draft aims to harmonize with new government regulations and address practical difficulties, particularly for foreign-invested enterprises.
+
+- Source: [CafeF](https://cafef.vn/de-xuat-thuong-nhan-cung-cap-thong-tin-nguon-tien-de-ngan-hang-theo-doi-giao-dich-chuyen-khau-188260725075053439.chn)
 
 **Đề xuất đóng tài khoản ngân hàng “ngủ đông”**  
 
@@ -67,30 +85,12 @@ The State Bank of Vietnam has approved a change in the legal structure of SHBFin
 
 - Source: [CafeF](https://cafef.vn/shb-sap-thu-ve-nguon-thang-du-von-lon-tu-thuong-vu-voi-krungsri-188260719173147673.chn)
 
-**Đề xuất lưu trữ 10 năm hồ sơ giao dịch trên tài khoản thanh toán của khách hàng**  
-
-The State Bank of Vietnam (SBV) is soliciting feedback on a draft circular to amend Circular 04/2025/TT-NHNN dated May 15, 2025, which regulates the retention period for banking records and documents. The draft contains 4 provisions focused on modifying regulations regarding record retention in the payments and anti-money laundering sectors. The SBV stated that the amendment stems from implementation requirements of a related decision.
-
-- Source: [CafeF](https://cafef.vn/de-xuat-luu-tru-10-nam-ho-so-giao-dich-tren-tai-khoan-thanh-toan-cua-khach-hang-188260718094408422.chn)
-
-**Thống đốc Phạm Đức Ấn: NHNN điều hành chính sách lãi suất tương đối 'vất vả'**  
-
-State Bank Governor Phạm Đức Ấn stated that managing interest rate policy has been relatively difficult. The central bank's focus on economic growth and credit expansion has led to capital shortages, driving up deposit rates and consequently lending rates. Higher lending rates directly impact manufacturing and business operations.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-pham-duc-an-nhnn-dieu-hanh-chinh-sach-lai-suat-tuong-doi-vat-va-188260718174143885.chn)
-
-**NHNN triển khai Kế hoạch hành động về trao đổi thông tin theo yêu cầu vì mục đích thuế**  
-
-The State Bank of Vietnam (SBV) has issued an action plan for implementing the national plan regarding the government's obligations on tax information exchange on request. The plan specifies tasks within the SBV's scope of management and clarifies responsibilities for relevant units. The implementation aims to ensure coordinated execution in accordance with recommendations from the Global Forum on Transparency and Exchange of Information for Tax Purposes.
-
-- Source: [CafeF](https://cafef.vn/nhnn-trien-khai-ke-hoach-hanh-dong-ve-trao-doi-thong-tin-theo-yeu-cau-vi-muc-dich-thue-188260715063949982.chn)
-
 ## Related coverage
 
 - [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
 - [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
+- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
 
 ---
 

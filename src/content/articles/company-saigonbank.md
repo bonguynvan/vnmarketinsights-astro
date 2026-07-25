@@ -1,17 +1,23 @@
 ---
 title: "Saigonbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Saigonbank, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # Saigonbank
 
-Recent Vietnam market news mentioning **Saigonbank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Saigonbank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng đầu tiên báo lỗ trong quý 2/2026**  
+
+Saigonbank (SGB) reported its first loss for Q2 2026 amid challenging business conditions. The bank's cumulative pre-tax profit for the first half of 2026 reached 48 billion VND, down 72.41% compared to the same period in 2025. Net interest income, the bank's primary revenue source, declined 31.34% year-over-year to 160 billion VND in Q2 2026.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn)
 
 **Lãi suất ngân hàng 26/6 tại MB, HDBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 

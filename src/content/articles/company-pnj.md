@@ -1,17 +1,35 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-24"
-lastUpdated: "2026-07-24"
+publishedDate: "2026-07-25"
+lastUpdated: "2026-07-25"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ**  
+
+Gold prices in Vietnam experienced an unexpected reversal on July 25, 2026, following a sharp decline of approximately 7 million dong per tael the previous day. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải reported fluctuations in both plain gold rings and gold bars. The morning session saw a notable price recovery after the significant drop recorded in the evening of July 24.
+
+- Source: [CafeF](https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn)
+
+**Khách đông nghẹt, tiệm vàng lâu đời tại TP.HCM giới hạn bán mỗi người 5 chỉ**  
+
+A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a purchase limit of 5 chỉ (a traditional weight unit for gold) per customer on July 25th due to high demand. Gold prices increased by 2 million VND per lượng compared to the previous day. The shop has experienced surging customer traffic amid ongoing controversies involving major players SJC and PNJ in the diamond market.
+
+- Source: [CafeF](https://cafef.vn/khach-dong-nghet-tiem-vang-lau-doi-tai-tphcm-gioi-han-ban-moi-nguoi-5-chi-188260725182102798.chn)
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 25/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
+
+Domestic gold prices closed the July 25 trading session with broad-based gains. Bar gold at major retailers rose uniformly by 2 million VND per tael on the buying side and 1 million VND per tael on the selling side. Ring gold also increased, with the highest gain reaching 2 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-25-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260725094309613.chn)
 
 **Hiện tượng lạ sáng 24/7: Giá vàng bán ra tại SJC, PNJ thấp hơn giá mua vào của DOJI và Bảo Tín Minh Châu, chênh lệch giữa các nhà vàng lên tới gần 6 triệu đồng/lượng**  
 
@@ -67,30 +85,12 @@ On the evening of July 21st, domestic gold prices cooled considerably after a sh
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-21-7-dong-loat-ha-nhiet-18826072107290918.chn)
 
-**Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm**  
-
-Domestic gold prices declined sharply on July 20, with major enterprises cutting quoted prices significantly. Bullion lost up to 1.5 million dong per tael compared to the previous session's close, falling to 146 million dong per tael on the selling side, while ring gold decreased between 200,000 and 1.5 million dong per tael depending on the brand.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn)
-
-**Tin tức sáng 12-7: Tổng giám đốc PNJ đăng ký mua vào 1 triệu cổ phiếu**  
-
-The CEO and board member of PNJ (Phu Nhuang Jewelry Joint Stock Company), Phan Quoc Cong, has registered to purchase 1 million PNJ shares, equivalent to 0.2% of charter capital. The transaction is intended for personal investment portfolio restructuring and is expected to occur between July 17 and August 14 through matching and negotiated methods.
-
-- Source: [TuoiTre](https://tuoitre.vn/tin-tuc-sang-12-7-tong-giam-doc-pnj-dang-ky-mua-vao-1-trieu-co-phieu-100260711193942322.htm)
-
-**Tổng giám đốc PNJ có hành động mới; cổ phiếu &amp;apos;đại gia&amp;apos; một thời sắp hủy niêm yết**  
-
-PNJ's CEO Phan Quoc Cong has registered to purchase 1 million shares of the company, while Cao Ngoc Duy, brother of board chair Cao Thi Ngoc Dung, has registered to buy 300,000 shares. These purchases are intended to restructure personal investment portfolios following the company's stock decline related to a diamond controversy. The company faces potential delisting.
-
-- Source: [VietnamNet](https://vietnamnet.vn/tong-giam-doc-pnj-co-hanh-dong-moi-co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-2534933.html)
-
 ## Related coverage
 
-- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn ngày 13/7: Giảm tới 2,2 triệu đồng/lượng](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-13-7-188260713071303393.chn) — CafeF
 
 ---
 
