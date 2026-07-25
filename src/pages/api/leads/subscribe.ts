@@ -88,17 +88,22 @@ export async function POST({ request }: { request: Request }) {
     console.error('Kit v4 subscribe error:', res.status, detail);
 
     if (isDiag) {
-      let forms: unknown = null;
-      try {
-        const fr = await kitFetch(`${KIT_API_BASE}/forms`, { method: 'GET', headers });
-        const fd = (await fr.json()) as { forms?: Array<{ id: number; name: string; format?: string }> };
-        forms = Array.isArray(fd.forms)
-          ? fd.forms.map((f) => ({ id: f.id, name: f.name, format: f.format }))
-          : fd;
-      } catch (e) {
-        forms = String(e);
-      }
-      return json({ success: false, debug: { usingFormId: formId, subscribeStatus: res.status, detail, forms } }, 200);
+      const probe = async (method: string, url: string, body?: unknown) => {
+        try {
+          const r = await kitFetch(url, { method, headers, body: body ? JSON.stringify(body) : undefined });
+          let t = '';
+          try { t = (await r.text()).slice(0, 160); } catch { /* ignore */ }
+          return { status: r.status, body: t };
+        } catch (e) {
+          return { error: String(e) };
+        }
+      };
+      const probes = {
+        A_form_subscribers: await probe('POST', `${KIT_API_BASE}/forms/${formId}/subscribers`, { email_address: email }),
+        B_create_subscriber: await probe('POST', `${KIT_API_BASE}/subscribers`, { email_address: email }),
+        C_form_subscribe: await probe('POST', `${KIT_API_BASE}/forms/${formId}/subscribe`, { email_address: email })
+      };
+      return json({ success: false, debug: { usingFormId: formId, probes } }, 200);
     }
 
     return json({ success: false, error: 'Could not subscribe right now.' }, 502);
