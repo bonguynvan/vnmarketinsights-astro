@@ -1,11 +1,11 @@
-// Lead capture -> Buttondown. Buttondown is the durable store AND the email
-// sender: double opt-in is on by default, so a new subscriber gets a
-// confirmation email (which also delivers the lead magnet). Env-gated — without
-// BUTTONDOWN_API_KEY the endpoint returns 503 so the client shows a graceful
-// retry message, matching the repo's degrade-when-unset convention.
+// Lead capture -> Kit (formerly ConvertKit). Adding a subscriber to a Kit form
+// creates them (if needed) AND triggers that form's incentive/confirmation email
+// — which is our double opt-in + lead-magnet delivery. Kit is the durable store
+// (no database needed). Env-gated on KIT_API_KEY + KIT_FORM_ID: when either is
+// unset the endpoint returns 503 so the client shows a graceful retry message.
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-const BUTTONDOWN_SUBSCRIBERS = 'https://api.buttondown.com/v1/subscribers';
+const KIT_API_BASE = 'https://api.kit.com/v4';
 
 type LeadPayload = {
   email?: string;
@@ -23,10 +23,13 @@ function json(body: unknown, status: number): Response {
   });
 }
 
-function getApiKey(): string | undefined {
-  // Belt-and-suspenders: import.meta.env for build-time, process.env for the
-  // value Vercel injects only at serverless runtime.
-  return import.meta.env.BUTTONDOWN_API_KEY || process.env.BUTTONDOWN_API_KEY;
+function getConfig(): { apiKey?: string; formId?: string } {
+  // Belt-and-suspenders: import.meta.env at build time, process.env for values
+  // Vercel injects only at serverless runtime.
+  return {
+    apiKey: import.meta.env.KIT_API_KEY || process.env.KIT_API_KEY,
+    formId: import.meta.env.KIT_FORM_ID || process.env.KIT_FORM_ID
+  };
 }
 
 export async function POST({ request }: { request: Request }) {
@@ -42,8 +45,8 @@ export async function POST({ request }: { request: Request }) {
     return json({ success: false, error: 'Invalid email address' }, 400);
   }
 
-  const apiKey = getApiKey();
-  if (!apiKey) {
+  const { apiKey, formId } = getConfig();
+  if (!apiKey || !formId) {
     return json({ success: false, error: 'Email signup is being set up.' }, 503);
   }
 
@@ -51,43 +54,35 @@ export async function POST({ request }: { request: Request }) {
 
   let res: Response;
   try {
-    res = await fetch(BUTTONDOWN_SUBSCRIBERS, {
+    res = await fetch(`${KIT_API_BASE}/forms/${encodeURIComponent(formId)}/subscribers`, {
       method: 'POST',
       headers: {
-        // Buttondown uses "Token", NOT "Bearer".
-        Authorization: `Token ${apiKey}`,
-        'Content-Type': 'application/json'
+        'X-Kit-Api-Key': apiKey, // Kit v4 personal-key auth header
+        'Content-Type': 'application/json',
+        Accept: 'application/json'
       },
       body: JSON.stringify({
-        email_address: email, // Buttondown's field is email_address, not email.
-        metadata: { source, path: payload.path || '' }
+        email_address: email, // Kit's field is email_address
+        referrer: payload.path || source
       })
     });
   } catch (error) {
-    console.error('Buttondown request failed:', error);
+    console.error('Kit request failed:', error);
     return json({ success: false, error: 'Subscription service unavailable.' }, 502);
   }
 
   if (res.ok) {
-    // Double opt-in: the subscriber is pending until they click confirm.
+    // Double opt-in: the subscriber is pending until they confirm by email.
     return json({ success: true, status: 'pending_confirmation' }, 200);
   }
 
-  // A duplicate means they are already on the list — treat as success.
   let detail = '';
   try {
     detail = JSON.stringify(await res.json()).toLowerCase();
   } catch {
     /* body not JSON — ignore */
   }
-  const isDuplicate =
-    (res.status === 400 || res.status === 409) &&
-    (detail.includes('already') || detail.includes('exists') || detail.includes('duplicate'));
-  if (isDuplicate) {
-    return json({ success: true, alreadySubscribed: true }, 200);
-  }
-
-  console.error('Buttondown subscribe error:', res.status, detail);
+  console.error('Kit subscribe error:', res.status, detail);
   return json({ success: false, error: 'Could not subscribe right now.' }, 502);
 }
 
