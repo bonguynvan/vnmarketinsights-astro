@@ -9,9 +9,15 @@ readingTime: 3
 
 # VinFast
 
-Recent Vietnam market news mentioning **VinFast** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VinFast** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?**  
+
+V-Green, a charging station operator within the Vingroup ecosystem, announced it will temporarily suspend accepting new franchise registration applications for charging stations from August 6 onwards. The company states the pause is intended for reviewing planning and preparing for the next development phase. The charging network currently serves only VinFast electric vehicles and has not opened charging services to other vehicle manufacturers.
+
+- Source: [TuoiTre](https://tuoitre.vn/v-green-tam-dung-nhan-ho-so-nhuong-quyen-tram-sac-moi-vi-sao-100260725135643286.htm)
 
 **Startup 5 năm tuổi bắt tay IBM, Siemens, đặt cứ điểm tại Silicon Valley**  
 
@@ -45,8 +51,8 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 ## Related coverage
 
-- [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
 - [Giải thưởng của tỷ phú Phạm Nhật Vượng kết nối những bộ óc kiệt xuất toàn cầu giải nhiều bài toán cho VN](https://cafef.vn/giai-thuong-cua-ty-phu-pham-nhat-vuong-ket-noi-nhung-bo-oc-kiet-xuat-toan-cau-giai-nhieu-bai-toan-cho-vn-188260716134816879.chn) — CafeF
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 

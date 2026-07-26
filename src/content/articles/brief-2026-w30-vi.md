@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng Quan Tin Tức Thị Trường Việt Nam Tuần Này
+# Tổng quan thị trường Việt Nam tuần này
 
-Thị trường Việt Nam tuần này ghi nhận những tín hiệu trái chiều: kim ngạch xuất nhập khẩu 6 tháng đầu năm tăng 27,1% lên gần 550 tỷ USD, nhiều ngân hàng và công ty tài chính báo cáo lợi nhuận tăng trưởng, nhưng Việt Nam cũng phải đối mặt với các biện pháp thuế mới từ Mỹ (10-12,5%) kể từ ngày 24/7. Bên cạnh đó, các chuyên gia cảnh báo về rủi ro gia tăng từ việc sử dụng đòn bẩy trong chứng khoán, trong khi một vụ bê bối buôn lậu kim cương đã làm rung chuyển lòng tin khách hàng tại TP.HCM.
+Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực với kim ngạch xuất nhập khẩu 6 tháng đầu năm tăng 27,1% và ngành thép tăng trưởng 26,9%, song thị trường chứng khoán chịu áp lực mạnh khi VN-Index giảm gần 10% trong một tháng qua. Thách thức từ các biện pháp thuế mới của Mỹ (12,5% từ ngày 24/7) và những bất ổn trong lĩnh vực tài chính (Saigonbank báo lỗ lần đầu, thị trường kim cương xáo trộn) cùng với định giá thị trường ở mức thấp nhất 10 năm đang tạo ra sự dao động lớn trong môi trường kinh doanh hiện tại.
 
 ## Người tiêu dùng
 
@@ -31,6 +31,13 @@ Cơ quan Đại diện Thương mại Hoa Kỳ (USTR) đã áp mức thuế lên
 
 - Số liệu chính: Tariff rate imposed by USTR on imported goods: 12.5% %
 - Nguồn: [CafeF](https://cafef.vn/thong-tin-moi-nhat-tu-bo-ngoai-giao-ve-viec-hoa-ky-ap-thue-len-den-125-cho-hang-hoa-nhap-khau-trong-do-co-viet-nam-188260725144937058.chn)
+
+**Việt Nam nói gì trước việc bị Mỹ áp mức thuế nhập khẩu mới 12,5%?**  
+
+Ngày 23-7, Văn phòng Đại diện Thương mại Mỹ (USTR) thông báo áp thuế nhập khẩu mới cho 60 nền kinh tế với lý do không thực thi hiệu quả lệnh cấm hàng hóa sản xuất bằng lao động cưỡng bức. Mỹ áp dụng mức thuế 12,5% từ ngày 24-7 cho tất cả nền kinh tế bị điều tra theo Mục 301. Trước đó ngày 29-5, USTR đã khởi động điều tra Việt Nam theo Mục 301 về các vấn đề liên quan đến bảo hộ quyền sở hữu trí tuệ.
+
+- Số liệu chính: New import tariff rate applied: 12.5% percentage; Number of economies with new tariffs: 60 count
+- Nguồn: [TuoiTre](https://tuoitre.vn/viet-nam-noi-gi-truoc-viec-bi-my-ap-muc-thue-nhap-khau-moi-125-100260725150720973.htm)
 
 **Ai chịu tác động mạnh nhất sau cú sốc buôn lậu kim cương?**  
 
@@ -71,20 +78,6 @@ Công an tỉnh Thanh Hóa đã khởi tố 4 bị can, gồm một Trưởng ph
 - Số liệu chính: Số lượng kim cương buôn lậu: 3.400 viên; Giá trị kim cương buôn lậu: 500 tỷ đồng; Số bị can bị khởi tố: 4 người
 - Nguồn: [CafeF](https://cafef.vn/danh-tinh-4-nguoi-vua-bi-khoi-to-trong-vu-buon-lau-hon-3400-vien-kim-cuong-vao-he-thong-ban-le-sjc-188260722200940613.chn)
 
-**3.400 viên kim cương nhập lậu được đưa vào hệ thống bán lẻ SJC thế nào?**  
-
-Cơ quan Cảnh sát điều tra Công an tỉnh Thanh Hóa khởi tố thêm 4 bị can vào ngày 22/7 liên quan đến đường dây buôn lậu kim cương xuyên quốc gia. Các bị can đều ở TP.HCM, bao gồm Phạm Thị Hồng Duyên (SN 1994), Trưởng phòng Kinh doanh của Công ty TNHH MTV Vàng bạc đá quý Sài Gòn (SJC), và Trần Công (SN 1975). Khoảng 3.400 viên kim cương nhập lậu được đưa vào hệ thống bán lẻ của SJC thông qua các hoạt động nhập khẩu và vận chuyển trái phép.
-
-- Số liệu chính: Smuggled diamonds: 3,400 units; Additional suspects charged: 4 persons; Investigation date: July 22 date
-- Nguồn: [CafeF](https://cafef.vn/3400-vien-kim-cuong-nhap-lau-duoc-dua-vao-he-thong-ban-le-sjc-the-nao-188260723064901898.chn)
-
-**Truy tố 4 nhân viên ngân hàng liên quan số tiền hơn 96 tỷ đồng**  
-
-Bốn nhân viên ngân hàng, là những chuyên viên quan hệ khách hàng cá nhân, đã bị truy tố vì vi phạm quy định của Ngân hàng Nhà nước và quy trình nội bộ của ngân hàng. Số tiền liên quan đến vụ án vượt quá 96 tỷ đồng. Vụ việc này là một phần của mô hình những hành vi sai phạm rộng lớn trong lĩnh vực ngân hàng trong những tháng gần đây.
-
-- Số liệu chính: Số tiền liên quan: hơn 96 tỷ đồng VND; Số bị can bị truy tố: 4 người
-- Nguồn: [CafeF](https://cafef.vn/truy-to-4-nhan-vien-ngan-hang-lien-quan-so-tien-hon-96-ty-dong-188260721071648088.chn)
-
 ## Chứng khoán
 
 **Ngân hàng đầu tiên báo lỗ trong quý 2/2026**  
@@ -93,6 +86,27 @@ Ngân hàng TMCP Sài Gòn Công Thương (Saigonbank - SGB) báo cáo thua lỗ
 
 - Số liệu chính: Pre-tax profit (H1 2026): 48 billion VND VND; YoY change in pre-tax profit (H1 2026 vs H1 2025): -72.41% %; Net interest income (Q2 2026): 160 billion VND VND; YoY change in net interest income (Q2 2026 vs Q2 2025): -31.34% %
 - Nguồn: [CafeF](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn)
+
+**Cổ phiếu về đáy nhiều năm, lãnh đạo doanh nghiệp chi hàng trăm tỉ đồng gom hàng**  
+
+Chỉ số VN-Index đã giảm gần 183 điểm, tương đương 9,8% xuống còn 1.686 điểm sau một tháng điều chỉnh. Các cổ phiếu đầu ngành đã chạm mức giá thấp nhất trong nhiều năm. Các lãnh đạo doanh nghiệp và những người có liên quan đã đăng ký mua cổ phiếu để tăng sở hữu, đặc biệt là tại Công ty CP Đầu tư và Kinh doanh Nhà Khang Điền (KDH).
+
+- Số liệu chính: VN-Index decline: 183 points points; VN-Index decline percentage: 9.8 %; VN-Index level: 1686 points
+- Nguồn: [TuoiTre](https://tuoitre.vn/co-phieu-ve-day-nhieu-nam-lanh-dao-doanh-nghiep-chi-hang-tram-ti-dong-gom-hang-100260725114531317.htm)
+
+**Hàng loạt sếp doanh nghiệp muốn 'bắt đáy' cổ phiếu**  
+
+Hàng loạt sếp doanh nghiệp từ lĩnh vực bất động sản, thép, bán lẻ, thủy sản đăng ký mua hàng trăm nghìn đến hàng chục triệu cổ phiếu khi giá xuống mức thấp nhất nhiều năm. Sau khoảng hai tuần biến động mạnh, thị trường chứng khoán đang ở vùng định giá thấp nhất trong 10 năm, với P/E giảm khoảng 10 lần trong 12 tháng gần nhất. Hàng loạt cổ phiếu đầu ngành giảm thẳng đức, chạm vùng giá thấp nhất nhiều năm, kích hoạt đợt mua vào của các sếp doanh nghiệp.
+
+- Số liệu chính: P/E ratio decline: approximately 10 times ratio; Market valuation timeframe: 10 years years; Recent volatility period: approximately two weeks weeks
+- Nguồn: [VnExpress](https://vnexpress.net/hang-loat-sep-doanh-nghiep-muon-bat-day-co-phieu-5101398.html)
+
+**PC1 báo lãi 6 tháng tăng 150%, ký hợp đồng hơn 2.000 tỉ sau biến động nhân sự**  
+
+Tập đoàn PC1 báo lãi 6 tháng tăng 150% và ký hợp đồng trên 2.000 tỉ đồng bất chấp những thay đổi trong ban quản lý. Cựu Chủ tịch Trịnh Văn Tuấn và nhiều thành viên hội đồng quản trị bị tạm giam vào tháng 5 với cáo buộc tham ô tài sản và vi phạm quy định kế toán. Tại đại hội cổ đông bất thường ngày 24-7, Trịnh Khánh Linh (27 tuổi, con gái ông Tuấn) được bầu làm chủ tịch.
+
+- Số liệu chính: Six-month profit increase: 150%; Signed contracts value: over 2,000 billion VND; Age of new chairman Trịnh Khánh Linh: 27; Date of extraordinary shareholders' meeting: July 24
+- Nguồn: [TuoiTre](https://tuoitre.vn/pc1-bao-lai-6-thang-tang-150-ky-hop-dong-hon-2000-ti-sau-bien-dong-nhan-su-100260725165031384.htm)
 
 **VietCredit lãi trước thuế hơn 1.049 tỷ nửa đầu 2026, CIR quý II giảm còn 9,93%**  
 
@@ -136,28 +150,14 @@ F88 báo cáo lợi nhuận sau thuế quý 2/2026 đạt 303 tỷ đồng, tăn
 - Số liệu chính: Q2 2026 after-tax profit: 303 billion VND; Year-over-year profit growth: 102 %; Physical store locations nationwide: 976 transaction points; New customers attracted: 89,000 customers
 - Nguồn: [CafeF](https://cafef.vn/f88-bao-lai-quy-2-2026-tang-truong-102-len-303-ty-dong-188260722181302077.chn)
 
-**Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
-
-LPBank đạt lợi nhuận trước thuế gần 6.000 tỷ đồng trong 6 tháng đầu năm 2026 trong bối cảnh ngành ngân hàng chịu áp lực NIM, nhưng vẫn duy trì đà tăng trưởng tích cực. Tổng tài sản của ngân hàng vượt 615 nghìn tỷ đồng, với huy động vốn và tín dụng tăng trưởng đồng đều. Thu ngoài lãi tăng 33%, khẳng định hiệu quả của chiến lược đa dạng hóa nguồn thu.
-
-- Số liệu chính: Pre-tax profit (6 months 2026): nearly 6,000 billion VND billion VND; Total assets: over 615 trillion VND trillion VND; Non-interest income growth: 33% percent
-- Nguồn: [CafeF](https://cafef.vn/da-dang-hoa-nguon-thu-lpbank-dat-gan-6000-ty-dong-loi-nhuan-sau-6-thang-dau-nam-2026-188260721115914992.chn)
-
-**Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá**  
-
-Lợi nhuận Quý 2 của Techcombank đạt kỷ lục mới, với lợi nhuận 6 tháng đầu năm 2026 là 18,5 nghìn tỷ đồng, tăng 22,5% so với năm ngoái. Thu nhập từ hoạt động dịch vụ ghi nhận các mức cao mới trong bối cảnh tăng trưởng đa dạng. Tỷ lệ nợ xấu giảm nhẹ xuống 1,15% so với quý trước, trong khi tỷ lệ bao phủ nợ xấu đạt 125,5%, thuộc nhóm dẫn đầu ngành.
-
-- Số liệu chính: First-half 2026 profit: 18.5 trillion Vietnamese dong; Profit growth year-over-year: 22.5 %; Non-performing loan ratio: 1.15 %; NPL coverage ratio: 125.5 %
-- Nguồn: [CafeF](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn)
-
-**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
-
-Đến chiều 21/7, đã có 10 ngân hàng công bố kết quả kinh doanh 6 tháng đầu năm 2026. VPBank dẫn đầu khối ngân hàng tư nhân với lợi nhuận trước thuế 18.880 tỷ đồng, trong khi Techcombank báo lãi hơn 18.500 tỷ đồng. Một số ngân hàng khác như ABBank, Vietbank, PGBank và BVBank ghi nhận mức tăng trưởng lợi nhuận rất cao.
-
-- Số liệu chính: VPBank pre-tax profit (H1 2026): 18,880 billion VND; Techcombank profit (H1 2026): 18,500+ billion VND; Number of banks reporting results: 10 banks
-- Nguồn: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
-
 ## Kinh tế vĩ mô
+
+**Việt Nam - &#039;qu&aacute;n qu&acirc;n&#039; FDI  Đ&ocirc;ng Nam &Aacute;**  
+
+Việt Nam được xếp hạng là đích đến hàng đầu về FDI trong khu vực Đông Nam Á. Năm 2026, Trung Quốc ghi nhận mức thâm hụt vốn ròng kỷ lục gần 170 tỷ USD, đánh dấu sự kết thúc chính thức của kỷ nguyên toàn cầu hóa cũ giữa căng thẳng địa chính trị gia tăng. Dòng vốn khổng lồ này đang hướng sang Đông Nam Á thông qua chiến lược "Trung Quốc + 1".
+
+- Số liệu chính: China's net FDI outflow in 2026: nearly 170 billion USD
+- Nguồn: [ThanhNien](https://thanhnien.vn/viet-nam-quan-quan-fdi-dong-nam-a-185260725214722733.htm)
 
 **Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần 550 tỷ USD trong 6 tháng**  
 
@@ -165,6 +165,13 @@ Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần
 
 - Số liệu chính: Total import-export goods value (6 months): 550 billion USD; Year-on-year growth rate: 27.1%
 - Nguồn: [CafeF](https://cafef.vn/tong-kim-ngach-xuat-nhap-khau-hang-hoa-cua-viet-nam-dat-gan-550-ty-usd-trong-6-thang-188260725133538931.chn)
+
+**Thép Việt bứt phá nửa đầu năm, giữ vững vị thế Top 10 thế giới**  
+
+Ngành thép Việt Nam ghi nhận tăng trưởng mạnh mẽ trong nửa đầu năm 2026, với sản lượng thép thô đạt 15,18 triệu tấn, tăng 26,9% so với cùng kỳ năm trước theo Hiệp hội Thép Việt Nam. Mặc dù phải đối mặt với các rủi ro địa chính trị và rào cản thương mại, ngành thép vẫn là một trong những động lực chính của nền kinh tế, được hỗ trợ bởi các dự án đầu tư công, phát triển hạ tầng và sự phục hồi của thị trường bất động sản. Việt Nam duy trì vị thế trong top 10 sản xuất thép thế giới.
+
+- Số liệu chính: Crude steel production H1 2026: 15.18 million tonnes; Year-over-year growth: 26.9 %
+- Nguồn: [TuoiTre](https://tuoitre.vn/thep-viet-but-pha-nua-dau-nam-giu-vung-vi-the-top-10-the-gioi-100260725115919876.htm)
 
 **Tập trung giải ngân đầu tư công để cán đích tăng trưởng**  
 
@@ -186,12 +193,6 @@ GDP Việt Nam tăng 8,18% trong nửa đầu năm, đạt mức cao nhất củ
 
 - Số liệu chính: GDP growth (H1 2026): 8.18 %; FDI disbursement peak: 5-year high period
 - Nguồn: [CafeF](https://cafef.vn/chi-trong-nua-nam-gdp-viet-nam-tang-818-fdi-giai-ngan-lap-dinh-5-nam-dau-se-la-ngoi-sao-hy-vong-cho-nen-kinh-te-trong-nua-cuoi-nam-2026-188260723111657833.chn)
-
-**Dư địa giảm lãi suất ngày càng thu hẹp**  
-
-Tăng trưởng tín dụng tiếp tục vượt xa tốc độ huy động vốn, tạo áp lực lớn lên thanh khoản của hệ thống ngân hàng. Dư địa giảm lãi suất ngày càng hạn hẹp do áp lực này. Các chuyên gia cho rằng mặc bằng lãi suất sẽ duy trì ổn định trong những tháng cuối năm, với khả năng giảm nhẹ chỉ ở một số lĩnh vực ưu tiên thay vì quay trở lại mức thấp.
-
-- Nguồn: [CafeF](https://cafef.vn/du-dia-giam-lai-suat-ngay-cang-thu-hep-188260721094523231.chn)
 
 ---
 

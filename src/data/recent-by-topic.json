@@ -1,6 +1,130 @@
 {
-  "generatedAt": "2026-07-25T18:28:18.322430+00:00",
+  "generatedAt": "2026-07-25T23:55:01.252177+00:00",
   "topics": {
+    "consumers": [
+      {
+        "title": "Rời Hàn Quốc về quê trồng loại nho ‘quý tộc’, thu 4 tỷ đồng mỗi năm",
+        "url": "https://vietnamnet.vn/bo-han-quoc-ve-que-trong-loai-nho-quy-toc-thu-4-ty-dong-moi-nam-2537514.html",
+        "source": "VietnamNet",
+        "summary_en": "A Vietnamese couple, Nguyễn Hữu Huân and Trần Thị Nhung, spent five years working on a grape farm in South Korea starting in 2019, learning modern cultivation techniques and agricultural systems. They returned to Vietnam and applied these methods to grow premium grapes. The couple reports annual revenue of approximately 4 billion Vietnamese dong from their grape farming operation.",
+        "summary_vn": "Cặp vợ chồng Nguyễn Hữu Huân và Trần Thị Nhung đã dành 5 năm làm việc tại một trang trại nho ở Hàn Quốc từ năm 2019, nắm vững các kỹ thuật canh tác hiện đại và hệ thống nông nghiệp. Họ quay trở lại Việt Nam và áp dụng những phương pháp này để trồng nho cao cấp. Cặp đôi báo cáo doanh thu hàng năm khoảng 4 tỷ đồng từ hoạt động trồng nho của họ.",
+        "pubDate": "Sun, 26 Jul 2026 05:30:00 +0700",
+        "sentiment": 0.6,
+        "importance": 2
+      },
+      {
+        "title": "Điện máy xả kho giữa năm: Tủ lạnh chỉ hơn 3,5 triệu đồng, tivi giảm giá 50%",
+        "url": "https://vietnamnet.vn/dien-may-xa-kho-giua-nam-tu-lanh-chi-hon-3-5-trieu-dong-tivi-giam-gia-50-2539134.html",
+        "source": "VietnamNet",
+        "summary_en": "Electronics retailers are running mid-year clearance campaigns with discounts ranging from 20-50% to boost consumer demand and clear inventory. Promotions focus on refrigerators, televisions, air conditioners, and washing machines, with offerings including 0% installment plans and gifts. Large-screen TVs are seeing significant price reductions, with a 43-inch Smart TV model priced at 5.49 million VND, approximately 30% below the regular price.",
+        "summary_vn": "Các hệ thống bán lẻ điện máy đang triển khai các chương trình khuyến mại giữa năm với mức giảm giá từ 20-50% nhằm kích cầu và xả tồn kho. Các chương trình tập trung vào tủ lạnh, tivi, điều hòa, máy giặt kèm các hỗ trợ như trả góp 0% và tặng quà. Phân khúc tivi màn hình lớn ghi nhận giảm giá đáng kể, với mẫu Smart TV 43 inch được bán ở giá 5,49 triệu đồng, thấp hơn khoảng 30% so với giá bình thường.",
+        "pubDate": "Sun, 26 Jul 2026 06:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Khách đông nghẹt, tiệm vàng lâu đời tại TP.HCM giới hạn bán mỗi người 5 chỉ",
+        "url": "https://cafef.vn/khach-dong-nghet-tiem-vang-lau-doi-tai-tphcm-gioi-han-ban-moi-nguoi-5-chi-188260725182102798.chn",
+        "source": "CafeF",
+        "summary_en": "A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a purchase limit of 5 chỉ (a traditional weight unit for gold) per customer on July 25th due to high demand. Gold prices increased by 2 million VND per lượng compared to the previous day. The shop has experienced surging customer traffic amid ongoing controversies involving major players SJC and PNJ in the diamond market.",
+        "summary_vn": "Tiệm vàng lâu đời Mi Hồng tại TP.HCM đã giới hạn bán tối đa 5 chỉ vàng nhẫn cho mỗi khách hàng vào ngày 25/7 do nhu cầu cao. Giá vàng tăng thêm 2 triệu đồng/lượng so với ngày trước đó. Tiệm vàng liên tục đông nghẹt khách trong bối cảnh các tranh cãi liên quan đến kim cương của hai công ty lớn SJC và PNJ.",
+        "pubDate": "Sat, 25 Jul 26 18:20:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "2 tháng nữa, hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận 1 khoản tiền, tăng gấp đôi so với mức cũ",
+        "url": "https://cafef.vn/2-thang-nua-hon-14000-tre-em-tren-dia-ban-ha-noi-co-the-duoc-nhan-1-khoan-tien-tang-gap-doi-so-voi-muc-cu-188260724154510559.chn",
+        "source": "CafeF",
+        "summary_en": "Over 14,000 children in Hanoi are eligible to receive a sum of money that has doubled from the previous amount within two months. The policy aims to provide financial support to children in the city. Details on the specific purpose and implementation timeline are indicated in the source.",
+        "summary_vn": "Hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận một khoản tiền tăng gấp đôi so với mức cũ trong vòng 2 tháng tới. Chính sách này nhằm cung cấp hỗ trợ tài chính cho trẻ em trong thành phố. Thông tin chi tiết về mục đích và lịch trình thực hiện được nêu trong nguồn.",
+        "pubDate": "Sat, 25 Jul 26 08:26:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Mức sinh ở Hà Nội giảm: Làm gì để người trẻ không ngại sinh con?",
+        "url": "https://cafef.vn/muc-sinh-o-ha-noi-giam-lam-gi-de-nguoi-tre-khong-ngai-sinh-con-188260725104019364.chn",
+        "source": "CafeF",
+        "summary_en": "Birth rates in Hanoi continue to decline as the population ages rapidly. Young people are delaying marriage and reducing fertility due to pressures including housing costs, employment concerns, and child-rearing expenses. Population policies need to be updated to address these practical needs and encourage young people to marry and have two children.",
+        "summary_vn": "Mức sinh tại Hà Nội tiếp tục giảm trong khi dân số già hóa nhanh chóng. Người trẻ trì hoãn kết hôn và giảm sinh do áp lực về nhà ở, việc làm và chi phí nuôi dạy con. Các chính sách dân số cần được cập nhật để giải quyết những nhu cầu thực tiễn này và khuyến khích người trẻ lập gia đình và sinh đủ hai con.",
+        "pubDate": "Sat, 25 Jul 26 10:57:00 +0700",
+        "sentiment": -0.6,
+        "importance": 3
+      },
+      {
+        "title": "'Loạn' biển hiệu tiếng nước ngoài tại Nha Trang, khách Việt 'đau đầu' vừa xem vừa đoán",
+        "url": "https://tuoitre.vn/loan-bien-hieu-tieng-nuoc-ngoai-tai-nha-trang-khach-viet-dau-dau-vua-xem-vua-doan-100260725104935826.htm",
+        "source": "TuoiTre",
+        "summary_en": "Signage in central Nha Trang displays predominantly foreign languages (Russian, Korean, English) with minimal or no Vietnamese text, leaving Vietnamese tourists confused about business types. The issue affects major tourist streets including Hung Vuong, Nguyen Thien Thuat, To Hien Thanh, Vo Tru, and Tran Quang Khai. The observation was documented by Tuoi Tre newspaper on July 25.",
+        "summary_vn": "Các biển hiệu tại trung tâm Nha Trang sử dụng chủ yếu tiếng nước ngoài (Nga, Hàn, Anh) với ít hoặc không có chữ Việt, làm du khách Việt bối rối khi không biết loại hình kinh doanh. Vấn đề này ảnh hưởng đến các tuyến đường du lịch lớn như Hùng Vương, Nguyễn Thiện Thuật, Tô Hiến Thành, Võ Trứ, Trần Quang Khải. Hiện tượng này được ghi nhận bởi báo Tuổi Trẻ ngày 25-7.",
+        "pubDate": "7/25/2026 12:43:00 PM",
+        "sentiment": -0.6,
+        "importance": 2
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "Giá vàng hôm nay 26/7/2026: Vàng miếng SJC &amp;apos;bốc hơi&amp;apos; 7 triệu đồng trong tuần",
+        "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-7-2026-vang-mieng-sjc-boc-hoi-7-trieu-dong-trong-tuan-2539135.html",
+        "source": "VietnamNet",
+        "summary_en": "Gold prices showed modest gains at the end of the week as selling pressure weakened, supported by declining oil prices and reduced U.S. Treasury bond yields. Spot gold closed the week around 4,053 USD/ounce, while August 2026 futures on COMEX New York traded near 4,055 USD/ounce. The U.S. dollar remained elevated, limiting gains for the precious metal despite these supportive factors.",
+        "summary_vn": "Giá vàng tăng nhẹ cuối tuần khi lực bán suy yếu, được hỗ trợ bởi giá dầu hạ nhiệt và lợi suất trái phiếu Chính phủ Mỹ giảm. Vàng giao ngay đóng cửa tuần ở mức khoảng 4.053 USD/ounce, trong khi hợp đồng tháng 8/2026 trên sàn Comex New York ở mức khoảng 4.055 USD/ounce. Đồng USD vẫn duy trì ở mức cao, hạn chế đà tăng của kim loại quý.",
+        "pubDate": "Sun, 26 Jul 2026 06:00:00 +0700",
+        "sentiment": 0.1,
+        "importance": 2
+      },
+      {
+        "title": "Loạn gi&aacute;, chất lượng đ&aacute; qu&yacute;",
+        "url": "https://thanhnien.vn/loan-gia-chat-luong-da-quy-185260725195505264.htm",
+        "source": "ThanhNien",
+        "summary_en": "SJC (Saigon Gold Silver Jewelry Company) faces market confusion over gemstone valuations in its 2025 audited financial report, which shows 170,876 colored stones and gemstones valued at over 1.045 trillion dong, averaging approximately 6,100 dong per stone. The company has attempted to clarify the matter, but gemstone enthusiasts and traders remain concerned about the valuation discrepancy. The controversy stems from the significant gap between reported average valuations and typical market prices for gemstones.",
+        "summary_vn": "Công ty SJC gặp phải hoang mang trên thị trường liên quan đến định giá đá quý trong báo cáo tài chính kiểm toán năm 2025, trong đó 170.876 viên đá màu và đá quý được định giá hơn 1.045 tỉ đồng, tính bình quân khoảng 6.100 đồng/viên. Công ty đã có lời giải thích nhưng giới chơi đá quý vẫn lo lắng về sự không khớp trong định giá. Cuộc tranh cãi xuất phát từ khoảng cách lớn giữa định giá bình quân được báo cáo và giá thị trường thực tế của đá quý.",
+        "pubDate": "Sun, 26 Jul 26 06:00:00 +0700",
+        "sentiment": -0.6,
+        "importance": 3
+      },
+      {
+        "title": "Việt Nam - &#039;qu&aacute;n qu&acirc;n&#039; FDI  Đ&ocirc;ng Nam &Aacute;",
+        "url": "https://thanhnien.vn/viet-nam-quan-quan-fdi-dong-nam-a-185260725214722733.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietnam is positioned as the leading FDI destination in Southeast Asia. In 2026, China faced a record net capital outflow of nearly $170 billion, marking the formal closure of the old globalization era amid rising geopolitical tensions. The massive capital flows are redirecting toward Southeast Asia through the \"China + 1\" strategy, with The Diplomat analyzing this shift.",
+        "summary_vn": "Việt Nam được xếp hạng là đích đến hàng đầu về FDI trong khu vực Đông Nam Á. Năm 2026, Trung Quốc ghi nhận mức thâm hụt vốn ròng kỷ lục gần 170 tỷ USD, đánh dấu sự kết thúc chính thức của kỷ nguyên toàn cầu hóa cũ giữa căng thẳng địa chính trị gia tăng. Dòng vốn khổng lồ này đang hướng sang Đông Nam Á thông qua chiến lược \"Trung Quốc + 1\".",
+        "pubDate": "Sun, 26 Jul 26 06:00:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
+      },
+      {
+        "title": "Có tránh được một 'cuộc đua lãi suất'?",
+        "url": "https://cafef.vn/co-tranh-duoc-mot-cuoc-dua-lai-suat-188260725110915572.chn",
+        "source": "CafeF",
+        "summary_en": "The article discusses whether Vietnam can avoid an interest rate competition among financial institutions. The core issue is system liquidity of credit institutions, which if tight, would cause borrowing rates to rise quickly and increase business capital costs. A company owner's experience shows interest rates rising from approximately 7% last year to higher levels this year at the same bank.",
+        "summary_vn": "Bài viết thảo luận về liệu Việt Nam có thể tránh được cuộc đua lãi suất giữa các tổ chức tín dụng hay không. Vấn đề cốt lõi là thanh khoản của hệ thống các tổ chức tín dụng, nếu căng thẳng sẽ khiến lãi suất cho vay tăng nhanh chóng và làm tăng chi phí vốn của doanh nghiệp. Kinh nghiệm của một chủ doanh nghiệp cho thấy lãi suất tăng từ khoảng 7% năm ngoái lên mức cao hơn năm nay tại cùng một ngân hàng.",
+        "pubDate": "Sat, 25 Jul 26 13:08:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ",
+        "url": "https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn",
+        "source": "CafeF",
+        "summary_en": "Gold prices in Vietnam experienced an unexpected reversal on July 25, 2026, following a sharp decline of approximately 7 million dong per tael the previous day. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải reported fluctuations in both plain gold rings and gold bars. The morning session saw a notable price recovery after the significant drop recorded in the evening of July 24.",
+        "summary_vn": "Giá vàng trong nước ghi nhận diễn biến bất ngờ vào ngày 25/7/2026 sau cú sập mạnh khoảng 7 triệu đồng/lượng vào hôm trước. Các nhà bán lẻ vàng lớn như SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải ghi nhận biến động giá cả cho cả vàng nhẫn trơn và vàng miếng. Phiên sáng ngày 25/7 ghi nhận sự phục hồi giá đáng kể sau cú giảm mạnh được ghi nhận vào tối ngày 24/7.",
+        "pubDate": "Sat, 25 Jul 26 16:38:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Tỷ giá cuối năm: Kỳ vọng giữ ổn định giữa nhiều sức ép",
+        "url": "https://cafef.vn/ty-gia-cuoi-nam-ky-vong-giu-on-dinh-giua-nhieu-suc-ep-188260725100833246.chn",
+        "source": "CafeF",
+        "summary_en": "The USD/VND exchange rate increased by only 0.07% during the first six months of the year despite pressures from high USD interest rates, geopolitical instability, and rising foreign currency demand. The second half of the year is expected to continue facing pressures, but Vietnam's macroeconomic fundamentals and the State Bank of Vietnam's flexible monetary policy management are anticipated to support exchange rate stability. The article examines the factors behind exchange rate stability amid various market fluctuations.",
+        "summary_vn": "Tỷ giá USD/VND chỉ tăng 0,07% trong 6 tháng đầu năm mặc dù chịu áp lực từ lãi suất USD cao, bất ổn địa chính trị và nhu cầu ngoại tệ gia tăng. Nửa cuối năm dự kiến tiếp tục chịu áp lực, nhưng các nền tảng vĩ mô của Việt Nam và chính sách tiền tệ linh hoạt của Ngân hàng Nhà nước được kỳ vọng sẽ hỗ trợ sự ổn định của tỷ giá. Bài viết phân tích các yếu tố đằng sau sự ổn định tỷ giá giữa nhiều biến động thị trường.",
+        "pubDate": "Sat, 25 Jul 26 18:08:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      }
+    ],
     "regulations": [
       {
         "title": "Ngân hàng Nhà nước lên tiếng việc chuyển trên 400 triệu phải chờ 24 giờ",
@@ -63,130 +187,6 @@
         "importance": 2
       }
     ],
-    "financial-markets": [
-      {
-        "title": "Có tránh được một 'cuộc đua lãi suất'?",
-        "url": "https://cafef.vn/co-tranh-duoc-mot-cuoc-dua-lai-suat-188260725110915572.chn",
-        "source": "CafeF",
-        "summary_en": "The article discusses whether Vietnam can avoid an interest rate competition among financial institutions. The core issue is system liquidity of credit institutions, which if tight, would cause borrowing rates to rise quickly and increase business capital costs. A company owner's experience shows interest rates rising from approximately 7% last year to higher levels this year at the same bank.",
-        "summary_vn": "Bài viết thảo luận về liệu Việt Nam có thể tránh được cuộc đua lãi suất giữa các tổ chức tín dụng hay không. Vấn đề cốt lõi là thanh khoản của hệ thống các tổ chức tín dụng, nếu căng thẳng sẽ khiến lãi suất cho vay tăng nhanh chóng và làm tăng chi phí vốn của doanh nghiệp. Kinh nghiệm của một chủ doanh nghiệp cho thấy lãi suất tăng từ khoảng 7% năm ngoái lên mức cao hơn năm nay tại cùng một ngân hàng.",
-        "pubDate": "Sat, 25 Jul 26 13:08:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ",
-        "url": "https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn",
-        "source": "CafeF",
-        "summary_en": "Gold prices in Vietnam experienced an unexpected reversal on July 25, 2026, following a sharp decline of approximately 7 million dong per tael the previous day. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải reported fluctuations in both plain gold rings and gold bars. The morning session saw a notable price recovery after the significant drop recorded in the evening of July 24.",
-        "summary_vn": "Giá vàng trong nước ghi nhận diễn biến bất ngờ vào ngày 25/7/2026 sau cú sập mạnh khoảng 7 triệu đồng/lượng vào hôm trước. Các nhà bán lẻ vàng lớn như SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải ghi nhận biến động giá cả cho cả vàng nhẫn trơn và vàng miếng. Phiên sáng ngày 25/7 ghi nhận sự phục hồi giá đáng kể sau cú giảm mạnh được ghi nhận vào tối ngày 24/7.",
-        "pubDate": "Sat, 25 Jul 26 16:38:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Tỷ giá cuối năm: Kỳ vọng giữ ổn định giữa nhiều sức ép",
-        "url": "https://cafef.vn/ty-gia-cuoi-nam-ky-vong-giu-on-dinh-giua-nhieu-suc-ep-188260725100833246.chn",
-        "source": "CafeF",
-        "summary_en": "The USD/VND exchange rate increased by only 0.07% during the first six months of the year despite pressures from high USD interest rates, geopolitical instability, and rising foreign currency demand. The second half of the year is expected to continue facing pressures, but Vietnam's macroeconomic fundamentals and the State Bank of Vietnam's flexible monetary policy management are anticipated to support exchange rate stability. The article examines the factors behind exchange rate stability amid various market fluctuations.",
-        "summary_vn": "Tỷ giá USD/VND chỉ tăng 0,07% trong 6 tháng đầu năm mặc dù chịu áp lực từ lãi suất USD cao, bất ổn địa chính trị và nhu cầu ngoại tệ gia tăng. Nửa cuối năm dự kiến tiếp tục chịu áp lực, nhưng các nền tảng vĩ mô của Việt Nam và chính sách tiền tệ linh hoạt của Ngân hàng Nhà nước được kỳ vọng sẽ hỗ trợ sự ổn định của tỷ giá. Bài viết phân tích các yếu tố đằng sau sự ổn định tỷ giá giữa nhiều biến động thị trường.",
-        "pubDate": "Sat, 25 Jul 26 18:08:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn",
-        "source": "CafeF",
-        "summary_en": "A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.",
-        "summary_vn": "Khảo sát lãi suất huy động trực tuyến ngày 25/7 cho thấy mức cao nhất ở kỳ hạn 12 tháng vẫn là 7,8%/năm. Hiện có 7 ngân hàng niêm yết từ 7%/năm trở lên, trong khi phần lớn ngân hàng còn lại duy trì quanh vùng 6-6,9%/năm.",
-        "pubDate": "Sat, 25 Jul 26 20:00:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Ngân hàng đầu tiên báo lỗ trong quý 2/2026",
-        "url": "https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn",
-        "source": "CafeF",
-        "summary_en": "Saigonbank (SGB) reported its first loss for Q2 2026 amid challenging business conditions. The bank's cumulative pre-tax profit for the first half of 2026 reached 48 billion VND, down 72.41% compared to the same period in 2025. Net interest income, the bank's primary revenue source, declined 31.34% year-over-year to 160 billion VND in Q2 2026.",
-        "summary_vn": "Ngân hàng TMCP Sài Gòn Công Thương (Saigonbank - SGB) báo cáo thua lỗ lần đầu tiên trong quý 2/2026 giữa những thách thức trong hoạt động kinh doanh. Lợi nhuận trước thuế luỹ kế 6 tháng đầu năm đạt 48 tỷ đồng, giảm 72,41% so với cùng kỳ năm 2025. Thu nhập lãi thuần - nguồn thu chính của ngân hàng giảm 31,34% xuống 160 tỷ đồng trong quý 2/2026.",
-        "pubDate": "Sun, 26 Jul 26 00:03:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
-      },
-      {
-        "title": "Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần 550 tỷ USD trong 6 tháng",
-        "url": "https://cafef.vn/tong-kim-ngach-xuat-nhap-khau-hang-hoa-cua-viet-nam-dat-gan-550-ty-usd-trong-6-thang-188260725133538931.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's total import-export goods value reached nearly 550 billion USD in the first six months of the year, representing a 27.1% increase compared to the same period last year. This growth was highlighted by Deputy Minister of Industry and Trade Phan Thi Thang at a logistics forum on July 24th. The expansion occurred despite ongoing volatility in global trade conditions.",
-        "summary_vn": "Tổng kim ngạch xuất nhập khẩu hàng hóa của Việt Nam đạt gần 550 tỷ USD trong 6 tháng đầu năm, tăng 27,1% so với cùng kỳ năm trước. Thứ trưởng Bộ Công Thương Phan Thị Thắng nhấn mạnh nội dung này tại Diễn đàn logistics ngày 24/7. Sự tăng trưởng này diễn ra trong bối cảnh thương mại thế giới vẫn còn nhiều biến động.",
-        "pubDate": "Sat, 25 Jul 26 13:37:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      }
-    ],
-    "consumers": [
-      {
-        "title": "Khách đông nghẹt, tiệm vàng lâu đời tại TP.HCM giới hạn bán mỗi người 5 chỉ",
-        "url": "https://cafef.vn/khach-dong-nghet-tiem-vang-lau-doi-tai-tphcm-gioi-han-ban-moi-nguoi-5-chi-188260725182102798.chn",
-        "source": "CafeF",
-        "summary_en": "A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a purchase limit of 5 chỉ (a traditional weight unit for gold) per customer on July 25th due to high demand. Gold prices increased by 2 million VND per lượng compared to the previous day. The shop has experienced surging customer traffic amid ongoing controversies involving major players SJC and PNJ in the diamond market.",
-        "summary_vn": "Tiệm vàng lâu đời Mi Hồng tại TP.HCM đã giới hạn bán tối đa 5 chỉ vàng nhẫn cho mỗi khách hàng vào ngày 25/7 do nhu cầu cao. Giá vàng tăng thêm 2 triệu đồng/lượng so với ngày trước đó. Tiệm vàng liên tục đông nghẹt khách trong bối cảnh các tranh cãi liên quan đến kim cương của hai công ty lớn SJC và PNJ.",
-        "pubDate": "Sat, 25 Jul 26 18:20:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "2 tháng nữa, hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận 1 khoản tiền, tăng gấp đôi so với mức cũ",
-        "url": "https://cafef.vn/2-thang-nua-hon-14000-tre-em-tren-dia-ban-ha-noi-co-the-duoc-nhan-1-khoan-tien-tang-gap-doi-so-voi-muc-cu-188260724154510559.chn",
-        "source": "CafeF",
-        "summary_en": "Over 14,000 children in Hanoi are eligible to receive a sum of money that has doubled from the previous amount within two months. The policy aims to provide financial support to children in the city. Details on the specific purpose and implementation timeline are indicated in the source.",
-        "summary_vn": "Hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận một khoản tiền tăng gấp đôi so với mức cũ trong vòng 2 tháng tới. Chính sách này nhằm cung cấp hỗ trợ tài chính cho trẻ em trong thành phố. Thông tin chi tiết về mục đích và lịch trình thực hiện được nêu trong nguồn.",
-        "pubDate": "Sat, 25 Jul 26 08:26:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Mức sinh ở Hà Nội giảm: Làm gì để người trẻ không ngại sinh con?",
-        "url": "https://cafef.vn/muc-sinh-o-ha-noi-giam-lam-gi-de-nguoi-tre-khong-ngai-sinh-con-188260725104019364.chn",
-        "source": "CafeF",
-        "summary_en": "Birth rates in Hanoi continue to decline as the population ages rapidly. Young people are delaying marriage and reducing fertility due to pressures including housing costs, employment concerns, and child-rearing expenses. Population policies need to be updated to address these practical needs and encourage young people to marry and have two children.",
-        "summary_vn": "Mức sinh tại Hà Nội tiếp tục giảm trong khi dân số già hóa nhanh chóng. Người trẻ trì hoãn kết hôn và giảm sinh do áp lực về nhà ở, việc làm và chi phí nuôi dạy con. Các chính sách dân số cần được cập nhật để giải quyết những nhu cầu thực tiễn này và khuyến khích người trẻ lập gia đình và sinh đủ hai con.",
-        "pubDate": "Sat, 25 Jul 26 10:57:00 +0700",
-        "sentiment": -0.6,
-        "importance": 3
-      },
-      {
-        "title": "Khổ như đi bán kim cương: Người giàu cũng khóc!",
-        "url": "https://cafef.vn/kho-nhu-di-ban-kim-cuong-nguoi-giau-cung-khoc-188260724070347004.chn",
-        "source": "CafeF",
-        "summary_en": "Residents in Ho Chi Minh City face difficulties selling diamonds, with buyers experiencing long waits and rejections due to daily purchase quotas being full. Successful transactions often involve staggered payments extending over four months, making sellers feel like creditors. The excerpt describes a July 23 experience of a 43-year-old woman from An Lac ward attempting to sell diamond earrings.",
-        "summary_vn": "Cư dân ở TPHCM gặp khó khăn khi bán kim cương, với nhiều người bị từ chối vì cửa hàng hết suất mua trong ngày. Các giao dịch thành công thường có thanh toán theo nhiều đợt kéo dài tới 4 tháng, khiến người bán cảm thấy mình như người cho vay. Bài viết mô tả trải nghiệm ngày 23/7 của một phụ nữ 43 tuổi ở phường An Lạc khi cố gắng bán đôi bông tai kim cương.",
-        "pubDate": "Fri, 24 Jul 26 07:31:00 +0700",
-        "sentiment": -0.6,
-        "importance": 2
-      },
-      {
-        "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại",
-        "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese gold prices showed mixed movements on the evening of July 24, with bullion rising across major brands while plain gold rings displayed divergent trends. SJC and PNJ increased strongly, while DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải declined. The market exhibited significant price differentiation across different retailers and product types.",
-        "summary_vn": "Giá vàng trong nước khép lại phiên chiều 24/7 với diễn biến trái chiều, khi vàng miếng tại các thương hiệu lớn đồng loạt tăng. Vàng nhẫn trơn tiếp tục phân hóa mạnh với SJC, PNJ tăng giá trong khi DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải giảm giá. Thị trường vàng cho thấy sự phân hóa giá đáng kể giữa các nhà bán lẻ khác nhau.",
-        "pubDate": "Fri, 24 Jul 26 15:31:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Cảnh tượng lạ tại tiệm vàng Mi Hồng ở TP.HCM sau nhiều phiên giá vàng giảm mạnh",
-        "url": "https://cafef.vn/canh-tuong-la-tai-tiem-vang-mi-hong-o-tphcm-sau-nhieu-phien-gia-vang-giam-manh-188260724154543832.chn",
-        "source": "CafeF",
-        "summary_en": "Following a sharp decline in gold prices over multiple trading sessions, Mi Hồng gold shop in Ho Chi Minh City experienced an unusual surge in customer traffic seeking to purchase gold and jewelry. Many customers had to wait in line or return the next day to complete their transactions.",
-        "summary_vn": "Sau nhiều phiên giá vàng giảm mạnh, tiệm vàng Mi Hồng tại TP.HCM ghi nhận lượng khách mua vàng và trang sức tăng đột biến. Nhiều khách hàng phải xếp hàng chờ đợi hoặc quay lại ngày hôm sau để thực hiện giao dịch.",
-        "pubDate": "Fri, 24 Jul 26 19:28:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      }
-    ],
     "logistics": [
       {
         "title": "Khởi công Ga S1 Quần Ngựa, mở rộng thi công đồng bộ tuyến metro số 5",
@@ -219,6 +219,16 @@
         "pubDate": "7/25/2026 10:59:00 AM",
         "sentiment": 0.3,
         "importance": 3
+      },
+      {
+        "title": "V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?",
+        "url": "https://tuoitre.vn/v-green-tam-dung-nhan-ho-so-nhuong-quyen-tram-sac-moi-vi-sao-100260725135643286.htm",
+        "source": "TuoiTre",
+        "summary_en": "V-Green, a charging station operator within the Vingroup ecosystem, announced it will temporarily suspend accepting new franchise registration applications for charging stations from August 6 onwards. The company states the pause is intended for reviewing planning and preparing for the next development phase. The charging network currently serves only VinFast electric vehicles and has not opened charging services to other vehicle manufacturers.",
+        "summary_vn": "V-Green, doanh nghiệp phát triển trạm sạc thuộc hệ sinh thái Vingroup, thông báo tạm dừng tiếp nhận hồ sơ đăng ký nhượng quyền mới từ ngày 6-8. Công ty cho biết việc tạm dừng nhằm rà soát quy hoạch và chuẩn bị cho giai đoạn phát triển tiếp theo. Hệ thống trạm sạc hiện chỉ phục vụ riêng xe điện VinFast và chưa mở sạc cho các hãng xe khác.",
+        "pubDate": "7/25/2026 2:12:00 PM",
+        "sentiment": 0.0,
+        "importance": 2
       }
     ],
     "ecommerce": [
@@ -231,47 +241,25 @@
         "pubDate": "7/25/2026 11:53:00 AM",
         "sentiment": 0.0,
         "importance": 3
-      }
-    ],
-    "payments": [
-      {
-        "title": "Người Việt thanh toán xuyên biên giới nhiều hơn, VIB triển khai chương trình hoàn 100% phí giao dịch quốc tế",
-        "url": "https://cafef.vn/nguoi-viet-thanh-toan-xuyen-bien-gioi-nhieu-hon-vib-trien-khai-chuong-trinh-hoan-100-phi-giao-dich-quoc-te-188260724095212943.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese consumers increasingly make cross-border payments for digital services, software platforms, and online bookings, beyond traditional spending on travel and shopping abroad. Viet Nam International Bank (VIB) has launched a program offering 100% refund of international transaction fees to capture this growing demand. The shift reflects how digital subscriptions and online services have become part of everyday spending for many Vietnamese people.",
-        "summary_vn": "Người Việt ngày càng thực hiện nhiều thanh toán xuyên biên giới cho các dịch vụ số, phần mềm và đặt chỗ trực tuyến, vượt ra ngoài chi tiêu truyền thống cho du lịch và mua sắm ở nước ngoài. Ngân hàng Quốc tế Việt Nam (VIB) đã triển khai chương trình hoàn 100% phí giao dịch quốc tế để nắm bắt nhu cầu tăng trưởng này. Sự chuyển dịch phản ánh cách các gói dịch vụ kỹ thuật số và các dịch vụ trực tuyến đã trở thành một phần của chi tiêu hàng ngày của nhiều người Việt.",
-        "pubDate": "Fri, 24 Jul 26 10:51:00 +0700",
-        "sentiment": 0.2,
-        "importance": 2
       },
       {
-        "title": "Sự thay đổi của Fintech trong 1 thập kỷ trở lại đây",
-        "url": "https://cafef.vn/su-thay-doi-cua-fintech-trong-1-thap-ky-tro-lai-day-188260723114302716.chn",
-        "source": "CafeF",
-        "summary_en": "Over a decade ago, fintech emerged as technology startups aimed to disrupt traditional financial institutions perceived as cumbersome and slow to innovate. Early discourse centered on when fintech would capture market share from banks rather than whether it would develop. The actual market evolution has differed from these initial expectations.",
-        "summary_vn": "Hơn một thập kỷ trước, fintech xuất hiện dưới hình ảnh những startup công nghệ nhằm phá vỡ các định chế tài chính truyền thống được coi là cồng kềnh và chậm đổi mới. Các cuộc thảo luận ban đầu tập trung vào thời điểm fintech sẽ chiếm lĩnh thị phần từ ngân hàng thay vì liệu nó có phát triển hay không. Thực tế, sự phát triển thị trường đã khác biệt với những kỳ vọng ban đầu.",
-        "pubDate": "Fri, 24 Jul 26 10:59:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Biến chi tiêu doanh nghiệp thành dặm bay: VPBank, Vietnam Airlines và Visa ra mắt thẻ SkyVoyage",
-        "url": "https://cafef.vn/bien-chi-tieu-doanh-nghiep-thanh-dam-bay-vpbank-vietnam-airlines-va-visa-ra-mat-the-skyvoyage-188260724105407768.chn",
-        "source": "CafeF",
-        "summary_en": "VPBank, Vietnam Airlines, and Visa have launched the SkyVoyage credit card, a co-branded product designed for businesses. The card allows unlimited accumulation of airline miles from business spending while supporting cash flow management and global payment capabilities. The launch occurred on July 23.",
-        "summary_vn": "VPBank, Vietnam Airlines và Visa chính thức ra mắt thẻ tín dụng SkyVoyage dành cho doanh nghiệp. Thẻ cho phép tích lũy dặm thưởng không giới hạn từ chi tiêu kinh doanh đồng thời hỗ trợ quản trị dòng tiền và thanh toán toàn cầu. Sản phẩm được công bố vào ngày 23 tháng 7.",
-        "pubDate": "Fri, 24 Jul 26 11:00:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt",
-        "url": "https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn",
-        "source": "CafeF",
-        "summary_en": "Techcombank and Visa announced a strategic partnership to launch an international money receiving account on Techcombank Mobile. The service is built on Visa's global payment infrastructure to simplify cross-border transactions for Vietnamese users. The account enables users to receive money from abroad through a streamlined process.",
-        "summary_vn": "Techcombank và Visa công bố hợp tác chiến lược để ra mắt tài khoản nhận tiền quốc tế trên Techcombank Mobile. Dịch vụ được xây dựng trên hạ tầng thanh toán toàn cầu của Visa nhằm đơn giản hóa giao dịch xuyên biên giới cho người dùng Việt Nam. Tài khoản cho phép người dùng nhận tiền từ nước ngoài thông qua quy trình được tối ưu hóa.",
-        "pubDate": "Fri, 24 Jul 26 13:30:00 +0700",
+        "title": "Đấu giá sầu riêng tại vườn, lô hàng gần 24 tỉ đồng ở Đắk Lắk",
+        "url": "https://tuoitre.vn/dau-gia-sau-rieng-tai-vuon-lo-hang-gan-24-ti-dong-o-dak-lak-100260725114607922.htm",
+        "source": "TuoiTre",
+        "summary_en": "Dak Lak province held its first-ever durian auction at the orchard site on July 25, bringing together producers and businesses. The final bid price for Dona durians reached 68,000 VND per kilogram. The auction aimed to establish direct connection between growers and enterprises while improving price transparency and product value.",
+        "summary_vn": "Sáng 25-7, tỉnh Đắk Lắk tổ chức lần đầu tiên phiên đấu giá sầu riêng tại vườn nhằm kết nối trực tiếp giữa người trồng và doanh nghiệp. Giá chốt cuối cùng của lô sầu riêng Dona đạt 68.000 đồng/kg. Phiên đấu giá nhằm minh bạch giá thu mua, nâng cao giá trị sản phẩm cho nông dân.",
+        "pubDate": "7/25/2026 12:20:00 PM",
         "sentiment": 0.5,
+        "importance": 2
+      },
+      {
+        "title": "Thương hiệu từ Việt Nam ‘dồn dập’ mở cửa hàng ra nước ngoài",
+        "url": "https://tuoitre.vn/thuong-hieu-tu-viet-nam-don-dap-mo-cua-hang-ra-nuoc-ngoai-100260725133750955.htm",
+        "source": "TuoiTre",
+        "summary_en": "Vietnamese brands Hasaki, Pizza 4P's, and Maison Marou expanded into international markets during July 2026, marking significant milestones in their global expansion efforts. These companies are exporting products developed or manufactured in Vietnam to reach international customers. The retailers are opening physical stores abroad as part of their expansion strategy beyond the domestic market.",
+        "summary_vn": "Ba thương hiệu Việt Nam là Hasaki, Pizza 4P's và Maison Marou đã liên tiếp mở cửa hàng và mở rộng vào các thị trường quốc tế vào tháng 7 năm 2026. Các doanh nghiệp này mang theo những sản phẩm được phát triển hoặc sản xuất tại Việt Nam để phục vụ khách hàng nước ngoài. Hasaki khai trương cửa hàng đầu tiên tại bang California ở Mỹ, đánh dấu bước mở rộng quốc tế đầu tiên của hãng.",
+        "pubDate": "7/25/2026 1:55:00 PM",
+        "sentiment": 0.6,
         "importance": 3
       }
     ]

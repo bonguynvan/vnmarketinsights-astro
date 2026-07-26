@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-25T18:28:18.323920+00:00",
+  "generatedAt": "2026-07-25T23:55:01.253547+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 564,
-      "growthRate": 9.0,
+      "total": 569,
+      "growthRate": 11.5,
       "avgSentiment": -0.097,
       "tag": "Rising Star",
       "series": [
@@ -176,17 +176,17 @@
         },
         {
           "date": "2026-07-25",
-          "count": 20,
-          "sentiment": -0.12
+          "count": 25,
+          "sentiment": -0.132
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 360,
-      "growthRate": 1.333,
-      "avgSentiment": 0.074,
+      "total": 369,
+      "growthRate": 4.333,
+      "avgSentiment": 0.075,
       "tag": "Rising Star",
       "series": [
         {
@@ -356,17 +356,17 @@
         },
         {
           "date": "2026-07-25",
-          "count": 7,
-          "sentiment": 0.2
+          "count": 16,
+          "sentiment": 0.225
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 186,
-      "growthRate": -0.933,
-      "avgSentiment": 0.234,
+      "total": 191,
+      "growthRate": -0.6,
+      "avgSentiment": 0.252,
       "tag": "Stable",
       "series": [
         {
@@ -526,17 +526,17 @@
         },
         {
           "date": "2026-07-25",
-          "count": 1,
-          "sentiment": -0.8
+          "count": 6,
+          "sentiment": -0.2
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 124,
-      "growthRate": 1.0,
-      "avgSentiment": 0.231,
+      "total": 132,
+      "growthRate": 5.0,
+      "avgSentiment": 0.23,
       "tag": "Rising Star",
       "series": [
         {
@@ -701,18 +701,18 @@
         },
         {
           "date": "2026-07-25",
-          "count": 4,
-          "sentiment": 0.175
+          "count": 12,
+          "sentiment": 0.133
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 63,
-      "growthRate": -0.4,
-      "avgSentiment": 0.122,
-      "tag": "Stable",
+      "total": 69,
+      "growthRate": 0.8,
+      "avgSentiment": 0.127,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-21",
@@ -851,17 +851,17 @@
         },
         {
           "date": "2026-07-25",
-          "count": 3,
-          "sentiment": -0.2
+          "count": 9,
+          "sentiment": -0.067
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 61,
-      "growthRate": -0.5,
-      "avgSentiment": 0.192,
+      "total": 62,
+      "growthRate": -0.25,
+      "avgSentiment": 0.186,
       "tag": "Stable",
       "series": [
         {
@@ -1001,18 +1001,18 @@
         },
         {
           "date": "2026-07-25",
-          "count": 2,
-          "sentiment": 0.5
+          "count": 3,
+          "sentiment": 0.333
         }
       ]
     },
     {
       "topic": "payments",
       "siteSlug": "payments",
-      "total": 32,
-      "growthRate": 1.0,
-      "avgSentiment": 0.491,
-      "tag": "Rising Star",
+      "total": 33,
+      "growthRate": -0.5,
+      "avgSentiment": 0.504,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -1088,111 +1088,21 @@
           "date": "2026-07-24",
           "count": 4,
           "sentiment": 0.25
-        }
-      ]
-    },
-    {
-      "topic": "platforms",
-      "siteSlug": "platforms",
-      "total": 27,
-      "growthRate": 0.0,
-      "avgSentiment": 0.411,
-      "tag": "Stable",
-      "series": [
-        {
-          "date": "2026-06-20",
-          "count": 1,
-          "sentiment": 0.4
-        },
-        {
-          "date": "2026-06-21",
-          "count": 1,
-          "sentiment": 0.7
-        },
-        {
-          "date": "2026-06-22",
-          "count": 1,
-          "sentiment": 0.0
-        },
-        {
-          "date": "2026-06-23",
-          "count": 1,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-06-24",
-          "count": 1,
-          "sentiment": 0.3
-        },
-        {
-          "date": "2026-06-29",
-          "count": 2,
-          "sentiment": 0.15
-        },
-        {
-          "date": "2026-06-30",
-          "count": 2,
-          "sentiment": 0.5
-        },
-        {
-          "date": "2026-07-02",
-          "count": 2,
-          "sentiment": 0.6
-        },
-        {
-          "date": "2026-07-03",
-          "count": 1,
-          "sentiment": 0.7
-        },
-        {
-          "date": "2026-07-06",
-          "count": 1,
-          "sentiment": 0.5
-        },
-        {
-          "date": "2026-07-09",
-          "count": 3,
-          "sentiment": 0.433
-        },
-        {
-          "date": "2026-07-10",
-          "count": 4,
-          "sentiment": 0.5
-        },
-        {
-          "date": "2026-07-11",
-          "count": 1,
-          "sentiment": 0.6
-        },
-        {
-          "date": "2026-07-12",
-          "count": 2,
-          "sentiment": 0.15
-        },
-        {
-          "date": "2026-07-15",
-          "count": 2,
-          "sentiment": 0.55
-        },
-        {
-          "date": "2026-07-16",
-          "count": 1,
-          "sentiment": 0.3
         },
         {
           "date": "2026-07-25",
           "count": 1,
-          "sentiment": 0.3
+          "sentiment": 0.7
         }
       ]
     },
     {
       "topic": "ecommerce",
       "siteSlug": "ecommerce",
-      "total": 26,
-      "growthRate": -0.5,
-      "avgSentiment": 0.335,
-      "tag": "Stable",
+      "total": 29,
+      "growthRate": 1.0,
+      "avgSentiment": 0.36,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-21",
@@ -1276,8 +1186,103 @@
         },
         {
           "date": "2026-07-25",
+          "count": 4,
+          "sentiment": 0.425
+        }
+      ]
+    },
+    {
+      "topic": "platforms",
+      "siteSlug": "platforms",
+      "total": 28,
+      "growthRate": 1.0,
+      "avgSentiment": 0.402,
+      "tag": "Rising Star",
+      "series": [
+        {
+          "date": "2026-06-20",
+          "count": 1,
+          "sentiment": 0.4
+        },
+        {
+          "date": "2026-06-21",
+          "count": 1,
+          "sentiment": 0.7
+        },
+        {
+          "date": "2026-06-22",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-06-23",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-06-24",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-06-29",
+          "count": 2,
+          "sentiment": 0.15
+        },
+        {
+          "date": "2026-06-30",
+          "count": 2,
+          "sentiment": 0.5
+        },
+        {
+          "date": "2026-07-02",
+          "count": 2,
+          "sentiment": 0.6
+        },
+        {
+          "date": "2026-07-03",
+          "count": 1,
+          "sentiment": 0.7
+        },
+        {
+          "date": "2026-07-06",
+          "count": 1,
+          "sentiment": 0.5
+        },
+        {
+          "date": "2026-07-09",
+          "count": 3,
+          "sentiment": 0.433
+        },
+        {
+          "date": "2026-07-10",
+          "count": 4,
+          "sentiment": 0.5
+        },
+        {
+          "date": "2026-07-11",
+          "count": 1,
+          "sentiment": 0.6
+        },
+        {
+          "date": "2026-07-12",
+          "count": 2,
+          "sentiment": 0.15
+        },
+        {
+          "date": "2026-07-15",
+          "count": 2,
+          "sentiment": 0.55
+        },
+        {
+          "date": "2026-07-16",
+          "count": 1,
+          "sentiment": 0.3
+        },
+        {
+          "date": "2026-07-25",
+          "count": 2,
+          "sentiment": 0.15
         }
       ]
     },
@@ -1448,6 +1453,21 @@
           "date": "2026-07-07",
           "count": 1,
           "sentiment": 0.8
+        }
+      ]
+    },
+    {
+      "topic": "companies",
+      "siteSlug": "",
+      "total": 1,
+      "growthRate": 0.0,
+      "avgSentiment": 0.5,
+      "tag": "Emerging",
+      "series": [
+        {
+          "date": "2026-07-25",
+          "count": 1,
+          "sentiment": 0.5
         }
       ]
     },

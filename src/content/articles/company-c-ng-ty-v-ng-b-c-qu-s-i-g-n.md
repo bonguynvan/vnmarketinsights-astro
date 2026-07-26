@@ -9,9 +9,15 @@ readingTime: 3
 
 # Công ty Vàng bạc Đá quý Sài Gòn
 
-Recent Vietnam market news mentioning **Công ty Vàng bạc Đá quý Sài Gòn** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Công ty Vàng bạc Đá quý Sài Gòn** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng vọt tăng, chênh lệch mua vào - bán ra rất lớn**  
+
+SJC gold bars rose to 141.5 million Vietnamese dong per tael on the morning of July 25th. The bid-ask spread remained wide at 4 million dong per tael, presenting risk for short-term buyers. At 9 AM, Saigon Gold Silver Precious Stones Company quoted SJC gold bars at 137.5 - 141.5 million dong per tael, up 3.5 million dong per tael on the bid side and 2.5 million dong per tael on the ask side compared to the previous morning.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-vot-tang-chenh-lech-mua-vao-ban-ra-rat-lon-188260725103339131.chn)
 
 **Càng mua vàng càng lỗ**  
 
@@ -33,10 +39,10 @@ Vietnamese gold prices exceeded world gold prices by 19 million dong per tael on
 
 ## Related coverage
 
-- [Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn) — CafeF
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
-- [Giá vàng miếng SJC, vàng nhẫn ngày 19/7](https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-19-7-188260719081833314.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn) — CafeF
 - [Gi&aacute; v&agrave;ng h&ocirc;m nay 28.6.2026: Người mua li&ecirc;n tục thua lỗ](https://thanhnien.vn/gia-vang-hom-nay-2862026-nguoi-mua-lien-tuc-thua-lo-18526062720575088.htm) — ThanhNien
+- [Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn) — CafeF
 
 ---
 

@@ -34,9 +34,9 @@ Nguyễn Thiên Hương Jenny, daughter of Âu Lạc chairman, completed a share
 ## Related coverage
 
 - [Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm) — ThanhNien
+- [Gi&aacute; USD h&ocirc;m nay 25.7.2026: Ghi nhận tuần tăng](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm) — ThanhNien
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Ngân hàng đầu tiên báo lỗ trong quý 2/2026](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn) — CafeF
-- [Lãi suất ngân hàng 14/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-14-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260714192305926.chn) — CafeF
 
 ---
 

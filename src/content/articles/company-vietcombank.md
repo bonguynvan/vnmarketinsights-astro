@@ -9,7 +9,7 @@ readingTime: 3
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (80 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (81 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
 
@@ -18,6 +18,12 @@ Recent Vietnam market news mentioning **Vietcombank** (80 mentions tracked). Sum
 A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
+
+**Gi&aacute; USD h&ocirc;m nay 25.7.2026: Ghi nhận tuần tăng**  
+
+The USD appreciated by 20 dong at Vietnamese banks during the week, with Vietcombank's buying rate reaching 26,100-26,130 dong and selling rate at 26,510 dong. Other major currencies like EUR and GBP declined against the dong during the same period. The global USD Index rose to 101.47 points, reflecting a slight strengthening of the US currency internationally.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm)
 
 **Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ A survey of online deposit rates across 34 banks on July 20 shows the highest ra
 The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
 
 - Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Tuần tới là thời điểm quan trọng với cổ đông Vietcombank, VietinBank và BIDV**  
-
-Three major state-owned banks—BIDV, VietinBank, and Vietcombank—are scheduled to distribute dividend payments exceeding 10,500 billion Vietnamese dong to shareholders in the coming week. The dividend distribution marks a significant milestone for shareholder returns from these systemically important financial institutions. These three banks represent the largest asset bases among listed entities on Vietnamese stock exchanges.
-
-- Source: [CafeF](https://cafef.vn/tuan-toi-la-thoi-diem-quan-trong-voi-co-dong-vietcombank-vietinbank-va-bidv-188260719085953122.chn)
 
 ## Related coverage
 

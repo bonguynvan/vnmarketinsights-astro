@@ -9,9 +9,15 @@ readingTime: 3
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; USD h&ocirc;m nay 25.7.2026: Ghi nhận tuần tăng**  
+
+The USD appreciated by 20 dong at Vietnamese banks during the week, with Vietcombank's buying rate reaching 26,100-26,130 dong and selling rate at 26,510 dong. Other major currencies like EUR and GBP declined against the dong during the same period. The global USD Index rose to 101.47 points, reflecting a slight strengthening of the US currency internationally.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm)
 
 **ACB đạt lợi nhuận hơn 10.700 tỷ đồng trong 6 tháng đầu năm 2026, bán lẻ và SME hồi phục tích cực**  
 
@@ -78,12 +84,6 @@ Vietnamese bank interest rates on July 14 remained stable after Bac A Bank's adj
 HR Asia Magazine published its "Best Places to Work in Asia 2026" list, recognizing 109 enterprises and banks in Vietnam. The banking sector had 13 representatives on the list, with several banks receiving additional awards for technology, sustainable development, and employee care.
 
 - Source: [CafeF](https://cafef.vn/vietcombank-sacombank-hdbank-acb-lpbank-cung-nhieu-ngan-hang-lot-top-noi-lam-viec-tot-nhat-chau-a-nam-2026-188260712172122173.chn)
-
-**Lãi suất ngân hàng 12/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates across 34 banks on July 12 shows the market high remains at 7.3% per annum for a 12-month tenor, while state-owned banks maintain 6.8% per annum. Vietcombank, Sacombank, HDBank, ACB, and LPBank are among multiple banks recognized as top workplaces in Asia for 2026.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn)
 
 ## Related coverage
 

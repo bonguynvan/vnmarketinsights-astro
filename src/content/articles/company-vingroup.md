@@ -9,9 +9,15 @@ readingTime: 3
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?**  
+
+V-Green, a charging station operator within the Vingroup ecosystem, announced it will temporarily suspend accepting new franchise registration applications for charging stations from August 6 onwards. The company states the pause is intended for reviewing planning and preparing for the next development phase. The charging network currently serves only VinFast electric vehicles and has not opened charging services to other vehicle manufacturers.
+
+- Source: [TuoiTre](https://tuoitre.vn/v-green-tam-dung-nhan-ho-so-nhuong-quyen-tram-sac-moi-vi-sao-100260725135643286.htm)
 
 **Tuyến metro 72.300 tỷ đồng có sự tham gia của Tập đoàn xây dựng hàng đầu Trung Quốc vừa bắt đầu hạng mục quan trọng**  
 
@@ -79,18 +85,12 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 - Source: [TuoiTre](https://tuoitre.vn/cuoc-chay-dua-gom-cac-tram-sac-len-app-chung-100260621231243778.htm)
 
-**Vinpearl ch&agrave;o b&aacute;n 100 triệu cổ phiếu gi&aacute; ưu đ&atilde;i**  
-
-Vinpearl Corporation (ticker VPL), a member of Vingroup, announced a Board of Directors resolution to execute and implement a preferential share offering contract with professional securities investors. This continues the implementation of a shareholder-approved private placement plan for preferred dividend shares with conversion rights. At the 2026 Annual General Meeting, Vinpearl shareholders approved a plan to offer a maximum of 100 million preferred shares.
-
-- Source: [ThanhNien](https://thanhnien.vn/vinpearl-chao-ban-100-trieu-co-phieu-gia-uu-dai-185260621093036426.htm)
-
 ## Related coverage
 
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
-- [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
+- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
+- [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
 
 ---
 
