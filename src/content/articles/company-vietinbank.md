@@ -1,8 +1,8 @@
 ---
 title: "Vietinbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietinbank, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Vietinbank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 27 found that 7 banks quoted rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covered major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects the competitive landscape in Vietnam's banking sector regarding deposit rate offerings.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn)
 
 **Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất**  
 
@@ -78,12 +84,6 @@ Starting July 30, 2026, customers of VietinBank and VPBank will need to update t
 A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
-
-**Người dùng Vietcombank, BIDV, VietinBank, Agribank... nên làm điều này càng sớm càng tốt**  
-
-Vietnamese bank customers are experiencing unexpected monthly charges of 10,000 to 25,000 VND being deducted from their accounts. The charges stem from SMS Banking service fees that many customers subscribed to long ago but have since forgotten to cancel. Banks including Vietcombank, BIDV, VietinBank, and Agribank are affected.
-
-- Source: [CafeF](https://cafef.vn/nguoi-dung-vietcombank-bidv-vietinbank-agribank-nen-lam-dieu-nay-cang-som-cang-tot-188260721072310989.chn)
 
 ## Related coverage
 

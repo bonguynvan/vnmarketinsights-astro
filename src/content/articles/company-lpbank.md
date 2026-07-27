@@ -1,17 +1,29 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank công bố danh sách cổ đông mới nhất sở hữu trên 1% vốn: Hai cá nhân sở hữu gần 10%**  
+
+LPBank has disclosed its latest shareholder list for stakeholders owning over 1% of capital. Ms. Phạm Thu Hương holds 148.3 million LPB shares, equivalent to 4.965% of the bank's charter capital. Together with Mr. Phạm Nhật Vượng, these two related individuals directly hold a combined total of approximately 9.86% of the bank's capital.
+
+- Source: [CafeF](https://cafef.vn/ba-pham-thu-huong-mua-hon-148-trieu-co-phieu-lpb-cung-ong-pham-nhat-vuong-nam-gan-10-von-lpbank-18826072708524071.chn)
+
+**Sáng 27/7, cổ phiếu LPBank tăng vọt sau khi danh sách cổ đông mới được công bố**  
+
+LPBank stock surged sharply on July 27 following the announcement of a new shareholder list. The bank disclosed that Phạm Thu Hương holds over 148 million shares. Two individuals are reported to own nearly 10% of the bank's capital.
+
+- Source: [CafeF](https://cafef.vn/sang-27-7-co-phieu-lpbank-tang-vot-sau-khi-danh-sach-co-dong-moi-duoc-cong-bo-188260727101945538.chn)
 
 **LPBank thông báo dừng chương trình tặng tiền cho khách hàng**  
 
@@ -73,23 +85,11 @@ Eight Vietnamese banks are distributing cash dividends totaling more than 39,000
 
 - Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
-**Cổ đông ngân hàng nhận nghìn tỷ cổ tức bằng tiền mặt**  
-
-Bank shareholders received hundreds of billions of dong in cash dividends as MB distributed approximately 8.055 trillion dong, LPBank distributed 8.962 trillion dong, Techcombank distributed over 4.960 trillion dong, VIB distributed over 3.000 trillion dong, and ACB distributed nearly 3.600 trillion dong. In a recent week, 35 enterprises announced dividend record dates with 26 companies distributing cash dividends ranging from 3% to 40%, while others distributed stock dividends. This represents a significant capital distribution to shareholders across multiple banking institutions.
-
-- Source: [CafeF](https://cafef.vn/co-dong-ngan-hang-nhan-nghin-ty-co-tuc-bang-tien-mat-188260706093517075.chn)
-
-**LPBank nhận hai giải thưởng về ESG**  
-
-LPBank received two ESG-related awards, including the Green Leadership award at the 2026 Asia Responsible Enterprise Awards (AREA) held on June 26 in Malaysia. The bank also ranked in the top 10 Vietnamese banks for ESG practices. LPBank's recognition reflects its integration of ESG principles into governance, operations, and customer solutions.
-
-- Source: [VnExpress](https://vnexpress.net/lpbank-nhan-hai-giai-thuong-ve-esg-5093282.html)
-
 ## Related coverage
 
 - [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
-- [LPBank có gì đặc biệt?](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn) — CafeF
 - [Một cổ phiếu ngân hàng được thỏa thuận đột biến trong phiên 23/6, hơn 7.500 tỷ đồng được trao tay](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-thoa-thuan-dot-bien-trong-phien-23-6-hon-7500-ty-dong-duoc-trao-tay-18826062316154226.chn) — CafeF
+- [LPBank có gì đặc biệt?](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn) — CafeF
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---

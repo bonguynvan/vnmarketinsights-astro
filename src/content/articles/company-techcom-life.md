@@ -1,17 +1,23 @@
 ---
 title: "Techcom Life — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcom Life, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcom Life
 
-Recent Vietnam market news mentioning **Techcom Life** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcom Life** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcom Life củng cố vốn điều lệ lên 4.300 tỷ đồng và tăng tốc chiến lược AI-First**  
+
+Techcom Life is strengthening its charter capital to 4.300 trillion VND through additional capital contributions. Techcombank has committed to injecting an additional 2.400 trillion VND, while One Mount Group joins as a strategic shareholder focused on technology and data capabilities. The capital increase plan was approved by Techcombank's Board of Directors to support the next phase of Techcom Life's development.
+
+- Source: [CafeF](https://cafef.vn/techcom-life-cung-co-von-dieu-le-len-4300-ty-dong-va-tang-toc-chien-luoc-ai-first-188260727192937423.chn)
 
 **Techcom Life đoạt cú đúp giải thưởng tại Insurance Asia Awards 2026**  
 
@@ -45,10 +51,10 @@ Vietnam's central bank has issued guidance to commercial banks to reduce interes
 
 ## Related coverage
 
-- [Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn) — CafeF
 - [Techcom Insurance chính thức ra mắt bảo hiểm sức khỏe Song An: tiên phong kiến tạo phân khúc Bảo hiểm Y tế bổ sung tại Việt Nam](https://cafef.vn/techcom-insurance-chinh-thuc-ra-mat-bao-hiem-suc-khoe-song-an-tien-phong-kien-tao-phan-khuc-bao-hiem-y-te-bo-sung-tai-viet-nam-188260716074802356.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
-- [Thúc đẩy lộ trình trung hòa carbon: Techcombank nhận giải thưởng Top 10 Doanh nghiệp Net Zero 2026](https://cafef.vn/thuc-day-lo-trinh-trung-hoa-carbon-techcombank-nhan-giai-thuong-top-10-doanh-nghiep-net-zero-2026-188260713150116198.chn) — CafeF
+- [Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn) — CafeF
+- [Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn) — CafeF
 
 ---
 

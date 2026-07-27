@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank và hành trình gìn giữ những điều không thể quên**  
+
+TPBank bases its sustainable brand value on growth figures, product innovation, and technological advancement rooted in responsibility toward the nation and community. The bank pursues development through a commitment to innovation while preserving national values and cultural identity. This approach reflects TPBank's strategy of building long-term growth on a foundation of social and national responsibility.
+
+- Source: [CafeF](https://cafef.vn/tpbank-va-hanh-trinh-gin-giu-nhung-dieu-khong-the-quen-188260727193718304.chn)
 
 **TPBank ủng hộ 15 tỷ đồng cho Quỹ “Đền ơn đáp nghĩa”, góp phần tri ân người có công với Cách mạng**  
 
@@ -79,18 +85,12 @@ TPBank launched the Visa FlashBiz card with a 2-in-1 design to help businesses m
 
 - Source: [CafeF](https://cafef.vn/quan-ly-chi-phi-doanh-nghiep-thong-minh-cung-the-tpbank-visa-flashbiz-188260624105947389.chn)
 
-**6 ngân hàng giảm lãi suất cho vay trong tháng 5**  
-
-Six banks reduced their average lending rates in May compared to April. GPBank led with the largest reduction of 1.63 percentage points to 8.84% per annum, followed by TPBank's 1.01 percentage point decrease to 9.93% per annum. MBV and VIB each reduced rates by 0.55 percentage points, announcing average lending rates of 8.86% and 8.58% per annum respectively.
-
-- Source: [VietnamNet](https://vietnamnet.vn/6-ngan-hang-giam-lai-suat-cho-vay-binh-quan-thang-5-2527859.html)
-
 ## Related coverage
 
-- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 
 ---
 

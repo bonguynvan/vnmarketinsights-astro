@@ -1,17 +1,23 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chiều tối 27/7: Giá vàng miếng, vàng nhẫn trơn tại Mi Hồng bất ngờ đảo chiều**  
+
+Gold bar and smooth gold ring prices at Mi Hồng jeweler reversed course downward on the evening of July 27th, while other major dealers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải maintained their prices. The bid-ask spread for gold rings and bars remained at 3-4 million dong per tael across the market.
+
+- Source: [CafeF](https://cafef.vn/chieu-toi-27-7-gia-vang-mieng-vang-nhan-tron-tai-mi-hong-bat-ngo-dao-chieu-188260727064300179.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 26/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
 
@@ -78,12 +84,6 @@ Gold prices declined sharply on the evening of July 23 as investors shifted focu
 PNJ announced a list of authorized stores for gold buyback transactions nationwide, effective July 21. Customers can only conduct transactions at designated stores during specified 2-hour windows each day. The company offers payment options up to 120 days or product exchange with promotional benefits.
 
 - Source: [CafeF](https://cafef.vn/muon-ban-lai-vang-pnj-khach-chi-duoc-giao-dich-tai-cua-hang-chi-dinh-va-trong-2-gio-moi-ngay-188260723192531415.chn)
-
-**Động thái gây chú ý của em trai nữ Chủ tịch PNJ**  
-
-Cao Ngoc Duy, the brother of PNJ's female chairwoman, purchased 300,000 share units as registered, but PNJ stock continued to fall for three consecutive sessions at the limit. While family members and PNJ leadership were buying in, foreign funds continued to sell off PNJ shares. The article also references comments from Nguyen Quoc Anh regarding housing loan demand at different interest rates and notes gold price movements for bars, ingots, and other forms.
-
-- Source: [CafeF](https://cafef.vn/dong-thai-gay-chu-y-cua-em-trai-nu-chu-tich-pnj-188260723194750553.chn)
 
 ## Related coverage
 

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá USD ngân hàng vượt 26.500 đồng**  
+
+Bank USD exchange rates have surpassed 26,500 VND, approaching historical highs recorded in late August 2025. The US dollar is experiencing strong weekly gains on international markets, marking its strongest week since June. The State Bank of Vietnam is prioritizing exchange rate stability amid external pressures.
+
+- Source: [CafeF](https://cafef.vn/gia-usd-ngan-hang-vuot-26500-dong-188260727171706109.chn)
 
 **Ngân hàng Nhà nước lên tiếng việc chuyển trên 400 triệu phải chờ 24 giờ**  
 
@@ -79,18 +85,12 @@ Vietcombank Chairman Nguyễn Thanh Tùng proposed issuing international bonds t
 
 - Source: [CafeF](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn)
 
-**SHB sắp thu về nguồn thặng dư vốn lớn từ thương vụ với Krungsri**  
-
-The State Bank of Vietnam has approved a change in the legal structure of SHBFinance from a two-member to a single-member limited liability company. This legal milestone creates the basis for SHB and Krungsri, a major Thai financial conglomerate and member of MUFG Financial Group, to proceed with their transaction. The deal is expected to generate significant capital reserves for SHB.
-
-- Source: [CafeF](https://cafef.vn/shb-sap-thu-ve-nguon-thang-du-von-lon-tu-thuong-vu-voi-krungsri-188260719173147673.chn)
-
 ## Related coverage
 
 - [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
 - [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
 - [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
-- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Ngành ngân hàng muốn tăng huy động vốn quốc tế](https://cafef.vn/nganh-ngan-hang-muon-tang-huy-dong-von-quoc-te-188260722064830031.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (83 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (84 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 27 found that 7 banks quoted rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covered major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects the competitive landscape in Vietnam's banking sector regarding deposit rate offerings.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn)
 
 **Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất**  
 
@@ -78,12 +84,6 @@ A survey of deposit interest rates across 34 banks on July 21 shows the highest 
 The State Bank of Vietnam reported lending and deposit interest rates across the banking system for June 2026. The average lending rate for state-owned commercial banks and joint-stock commercial banks ranged from 8.1% to 10.5% per annum during the month. The source includes references to interest rate data from various banks including MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank, and Agribank.
 
 - Source: [CafeF](https://cafef.vn/so-lieu-lai-suat-cho-vay-lai-suat-huy-dong-moi-nhat-cua-he-thong-ngan-hang-188260721204319885.chn)
-
-**Thống đốc cập nhật loạt giải pháp khơi thông vốn cho doanh nghiệp: Mở rộng cho vay ngoại tệ, bổ sung chính sách nhận tài sản bảo đảm phục vụ phát hành trái phiếu**  
-
-Vietnam's State Bank Governor Pham Duc An announced that the central bank is researching ways to expand foreign currency lending eligibility and proposing mechanisms for commercial banks to participate in managing collateral assets for corporate bond issuance. The measures aim to improve capital access for enterprises.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-cap-nhat-loat-giai-phap-khoi-thong-von-cho-doanh-nghiep-mo-rong-cho-vay-ngoai-te-bo-sung-chinh-sach-nhan-tai-san-bao-dam-phuc-vu-phat-hanh-trai-phieu-188260720164218963.chn)
 
 ## Related coverage
 

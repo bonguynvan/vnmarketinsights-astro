@@ -1,17 +1,29 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-07-26"
-lastUpdated: "2026-07-26"
+publishedDate: "2026-07-27"
+lastUpdated: "2026-07-27"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VIB: Lợi nhuận trước thuế đạt hơn 5.180 tỷ đồng, tổng tài sản vượt 580 nghìn tỷ đồng trong 6 tháng đầu năm 2026**  
+
+Vietnam International Bank (VIB) reported pre-tax profit of over 5,180 billion VND for the first half of 2026, representing a 3% increase year-over-year. Total assets exceeded 580 trillion VND as of June 30, 2026. The bank maintained growth despite competitive pressure in the financial market through stable asset quality and operational efficiency.
+
+- Source: [CafeF](https://cafef.vn/vib-loi-nhuan-truoc-thue-dat-hon-5180-ty-dong-tong-tai-san-vuot-580-nghin-ty-dong-trong-6-thang-dau-nam-2026-188260727100730195.chn)
+
+**Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...**  
+
+VIB reported first-half 2026 pre-tax profit of over 5,180 billion VND, up 3% year-on-year. Total assets exceeded 580 trillion VND as of June 30, 2026, rising 4% from the start of the year. Customer mobilization reached over 317 trillion VND, increasing 8%.
+
+- Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn)
 
 **Người Việt thanh toán xuyên biên giới nhiều hơn, VIB triển khai chương trình hoàn 100% phí giao dịch quốc tế**  
 
@@ -73,24 +85,12 @@ VIB Privilege Banking's "Northern Lights Aurora Hunt" program has awarded three 
 
 - Source: [CafeF](https://cafef.vn/cham-anh-cuc-quang-cua-vib-privilege-banking-goi-ten-3-chu-nhan-dau-tien-188260703082823135.chn)
 
-**VIB tích cực tham gia cùng Bộ Công an trong công tác phòng chống tội phạm**  
-
-VIB (Vietnam International Bank) actively participates with the Ministry of Public Security in crime prevention programs focusing on data, digital identity, and high-tech crime prevention. The bank has developed comprehensive protection measures for customers from initial account opening through daily transactions. VIB's digital identity infrastructure serves as a foundational platform for crime prevention efforts.
-
-- Source: [CafeF](https://cafef.vn/vib-tich-cuc-tham-gia-cung-bo-cong-an-trong-cong-tac-phong-chong-toi-pham-188260701085455977.chn)
-
-**Lãi suất ngân hàng hôm nay 1/7/2026: Những nhà băng còn niêm yết từ 7%/năm**  
-
-As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7% per annum or higher, primarily for longer terms. ACB, MBV, and VCBNeo offer rates of 7% or above starting from the 6-month term, with ACB offering 7.1% for 6 months, 7.2% for 9 months, and 7.3% for 12 months. MBV and VCBNeo, both under mandatory transfer status, quote 7% per annum for deposit terms ranging from 6 months to 36 months.
-
-- Source: [VietnamNet](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-1-7-2026-nhung-nha-bang-con-niem-yet-tu-7-nam-2531130.html)
-
 ## Related coverage
 
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn) — CafeF
 - [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
-- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 
 ---
 
