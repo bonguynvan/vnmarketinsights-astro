@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-25"
-lastUpdated: "2026-07-25"
+publishedDate: "2026-07-26"
+lastUpdated: "2026-07-26"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Chủ tịch Eximbank: Là tiến sĩ kỹ thuật hạt nhân tại Mỹ, ghi dấu ấn tại Techcombank trong giai đoạn tăng trưởng bùng nổ**  
+
+Nguyễn Lê Quốc Anh, former CEO of Techcombank, has been officially appointed as Chairman of Eximbank. He holds a Ph.D. in nuclear engineering from the United States and has worked as a nuclear engineer and researcher there. Prior to joining Eximbank, he held positions at major organizations including McKinsey, Wells Fargo, Fortress Investment Group, and T-Mobile US.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn)
 
 **Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT**  
 
@@ -70,9 +76,9 @@ Eximbank announced an adjustment to reduce the number of Board of Directors memb
 ## Related coverage
 
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
 - [Thủ tướng bổ nhiệm Tổng Giám đốc Ngân hàng Chính sách xã hội](https://cafef.vn/thu-tuong-bo-nhiem-tong-giam-doc-ngan-hang-chinh-sach-xa-hoi-188260630065502297.chn) — CafeF
+- [VPBank bổ nhiệm thêm một Phó Chủ tịch HĐQT](https://cafef.vn/vpbank-bo-nhiem-them-mot-pho-chu-tich-hdqt-188260708151931065.chn) — CafeF
 
 ---
 

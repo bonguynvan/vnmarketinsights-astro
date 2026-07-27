@@ -1,8 +1,8 @@
 ---
 title: "Công ty Vàng bạc Đá quý Sài Gòn — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Công ty Vàng bạc Đá quý Sài Gòn, with neutral summaries and source links."
-publishedDate: "2026-07-25"
-lastUpdated: "2026-07-25"
+publishedDate: "2026-07-26"
+lastUpdated: "2026-07-26"
 category: "Company"
 readingTime: 3
 ---
@@ -41,8 +41,8 @@ Vietnamese gold prices exceeded world gold prices by 19 million dong per tael on
 
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC sáng ngày 12/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sjc-sang-ngay-12-7-188260712085738787.chn) — CafeF
+- [Giá vàng miếng SJC giảm hơn 6 triệu đồng/lượng trong một tuần](https://cafef.vn/gia-vang-mieng-sjc-giam-hon-6-trieu-dong-luong-trong-mot-tuan-188260726091146067.chn) — CafeF
 - [Gi&aacute; v&agrave;ng h&ocirc;m nay 28.6.2026: Người mua li&ecirc;n tục thua lỗ](https://thanhnien.vn/gia-vang-hom-nay-2862026-nguoi-mua-lien-tuc-thua-lo-18526062720575088.htm) — ThanhNien
-- [Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn) — CafeF
 
 ---
 

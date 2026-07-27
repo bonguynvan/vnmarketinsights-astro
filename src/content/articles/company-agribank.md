@@ -1,17 +1,29 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-07-25"
-lastUpdated: "2026-07-25"
+publishedDate: "2026-07-26"
+lastUpdated: "2026-07-26"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (63 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (65 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất**  
+
+Vietnam's total economic outstanding debt exceeded 20 million billion Vietnamese dong, according to a State Bank of Vietnam official update. In the first half of the year, the banking system supplied approximately 1.46 million billion dong in additional credit to the economy to support production, business operations and economic growth.
+
+- Source: [CafeF](https://cafef.vn/du-no-toan-nen-kinh-te-vuot-20-trieu-ty-dong-dai-dien-ngan-hang-nha-nuoc-cap-nhat-so-lieu-tang-truong-tin-dung-moi-nhat-18826072615195886.chn)
+
+**Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates on July 26 shows that 7 banks quote rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covers major banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects current market conditions for Vietnamese bank deposit products.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn)
 
 **Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -72,18 +84,6 @@ The State Bank Governor stated that interest rate management has been challengin
 A survey of online deposit interest rates across 34 banks on July 19 shows the interest rate environment remains stable. Only 6 banks are offering rates of 7% per annum or higher for 12-month terms, while the Big 4 banking group maintains rates at 6.8% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-19-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-188260719171059549.chn)
-
-**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
-
-Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank—have extended over 27,000 billion VND in loans for a BOT transportation project led by Đèo Cả Group, Tasco, and CII. This is the largest-scale credit financing for a BOT transport project in Vietnam, designed to meet growing transportation demand between provinces in the Southeast region, particularly between Ho Chi Minh City and the Mekong Delta. The project contributes to improving the national north-south transport corridor network.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
-
-**Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
-
-Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
 
 ## Related coverage
 

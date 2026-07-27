@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-07-25T23:55:01.252177+00:00",
+  "generatedAt": "2026-07-26T23:55:31.438882+00:00",
   "topics": {
     "consumers": [
+      {
+        "title": "Mua vì kỳ vọng, bán vì sợ hãi!",
+        "url": "https://cafef.vn/mua-vi-ky-vong-ban-vi-so-hai-188260726073254145.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese consumers exhibit herding behavior in gold markets, purchasing SJC gold despite price premiums of up to millions of dong per tael compared to international prices, then quickly selling when prices decline. This boom-bust cycle reflects speculative rather than investment-driven demand. According to independent expert Phan Dũng Khánh, the pattern of buying at peaks is attributed to speculative trading mentality among retail participants.",
+        "summary_vn": "Người tiêu dùng Việt Nam thể hiện hành vi bầy đàn trong thị trường vàng, mua vàng SJC mặc dù giá chênh lệch lên đến hàng triệu đồng/lượng so với thế giới, sau đó nhanh chóng bán khi giá giảm. Chu kỳ boom-bust này phản ánh nhu cầu đầu cơ hơn là đầu tư thực sự. Theo chuyên gia độc lập Phan Dũng Khánh, mô típ mua ở đỉnh giá xuất phát từ tâm lý giao dịch đầu cơ của các nhà đầu tư bán lẻ.",
+        "pubDate": "Sun, 26 Jul 26 07:32:00 +0700",
+        "sentiment": -0.4,
+        "importance": 3
+      },
+      {
+        "title": "Có nên mua chứng chỉ tiền gửi vì lãi suất cao?",
+        "url": "https://cafef.vn/co-nen-mua-chung-chi-tien-gui-vi-lai-suat-cao-188260726082656168.chn",
+        "source": "CafeF",
+        "summary_en": "The article addresses a reader's question about whether to purchase certificates of deposit (CDs) due to their higher interest rates compared to regular savings accounts. The article examines the appeal of CDs offered by banks with rates exceeding standard time deposits. The piece appears to provide guidance on the investment considerations for certificates of deposit products.",
+        "summary_vn": "Bài viết trả lời câu hỏi của độc giả về việc có nên mua chứng chỉ tiền gửi do lãi suất cao hơn so với tài khoản tiết kiệm thông thường. Bài viết xem xét sức hấp dẫn của các chứng chỉ tiền gửi do ngân hàng phát hành với lãi suất vượt quá các khoản tiền gửi có kỳ hạn tiêu chuẩn. Bài viết dường như cung cấp hướng dẫn về các cân nhân để xem xét về các sản phẩm chứng chỉ tiền gửi.",
+        "pubDate": "Sun, 26 Jul 26 09:24:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Tin vui: Hôm nay và ngày mai - 26,27/7, hàng trăm nghìn người được miễn phí 1 dịch vụ",
+        "url": "https://cafef.vn/tin-vui-hom-nay-va-ngay-mai-2627-7-hang-tram-nghin-nguoi-duoc-mien-phi-1-dich-vu-188260726082738797.chn",
+        "source": "CafeF",
+        "summary_en": "Sun World Ba Den Mountain is running a promotional program offering free cable car tickets to people with policy entitlements on July 26-27, 2026. The program commemorates the 79th anniversary of Fallen Soldiers and Wounded Soldiers Day. The promotion period extends from July 25 to July 27, 2026, with July 26-27 being the final two days for eligible individuals to receive the benefit.",
+        "summary_vn": "Sun World Ba Den Mountain triển khai chương trình tặng vé cáp treo miễn phí cho người thuộc diện chính sách vào các ngày 26-27 tháng 7 năm 2026. Chương trình này nhân kỷ niệm 79 năm Ngày Thương binh – Liệt sĩ. Thời gian triển khai chương trình kéo dài từ ngày 25/7 đến hết ngày 27/7/2026, trong đó ngày 26-27 là hai ngày cuối cùng người đủ điều kiện có thể nhận ưu đãi.",
+        "pubDate": "Sun, 26 Jul 26 13:38:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
+      {
+        "title": "Vịnh Hạ Long dẫn đầu danh sách tìm kiếm điểm đến trong nước",
+        "url": "https://cafef.vn/vinh-ha-long-dan-dau-danh-sach-tim-kiem-diem-den-trong-nuoc-188260726183234465.chn",
+        "source": "CafeF",
+        "summary_en": "Search data from Cốc Cốc between May 1 and July 20, 2026 shows that Ha Long Bay leads domestic destination searches among users planning summer trips. Three main demand categories emerged: transportation, domestic destinations, and accommodation. Online travel booking platforms are driving summer tourism search trends.",
+        "summary_vn": "Dữ liệu tìm kiếm từ Cốc Cốc trong khoảng thời gian từ 01/05 đến 20/07/2026 cho thấy Vịnh Hạ Long dẫn đầu trong các tìm kiếm điểm đến trong nước giữa những người dùng lên kế hoạch cho các chuyến đi hè. Ba nhóm nhu cầu chính xuất hiện: di chuyển, điểm đến trong nước và lưu trú. Các nền tảng đặt dịch vụ du lịch trực tuyến đang dẫn dắt xu hướng tìm kiếm du lịch hè.",
+        "pubDate": "Sun, 26 Jul 26 18:32:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "Rời Hàn Quốc về quê trồng loại nho ‘quý tộc’, thu 4 tỷ đồng mỗi năm",
         "url": "https://vietnamnet.vn/bo-han-quoc-ve-que-trong-loai-nho-quy-toc-thu-4-ty-dong-moi-nam-2537514.html",
@@ -21,245 +61,153 @@
         "pubDate": "Sun, 26 Jul 2026 06:30:00 +0700",
         "sentiment": 0.0,
         "importance": 2
-      },
-      {
-        "title": "Khách đông nghẹt, tiệm vàng lâu đời tại TP.HCM giới hạn bán mỗi người 5 chỉ",
-        "url": "https://cafef.vn/khach-dong-nghet-tiem-vang-lau-doi-tai-tphcm-gioi-han-ban-moi-nguoi-5-chi-188260725182102798.chn",
-        "source": "CafeF",
-        "summary_en": "A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a purchase limit of 5 chỉ (a traditional weight unit for gold) per customer on July 25th due to high demand. Gold prices increased by 2 million VND per lượng compared to the previous day. The shop has experienced surging customer traffic amid ongoing controversies involving major players SJC and PNJ in the diamond market.",
-        "summary_vn": "Tiệm vàng lâu đời Mi Hồng tại TP.HCM đã giới hạn bán tối đa 5 chỉ vàng nhẫn cho mỗi khách hàng vào ngày 25/7 do nhu cầu cao. Giá vàng tăng thêm 2 triệu đồng/lượng so với ngày trước đó. Tiệm vàng liên tục đông nghẹt khách trong bối cảnh các tranh cãi liên quan đến kim cương của hai công ty lớn SJC và PNJ.",
-        "pubDate": "Sat, 25 Jul 26 18:20:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "2 tháng nữa, hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận 1 khoản tiền, tăng gấp đôi so với mức cũ",
-        "url": "https://cafef.vn/2-thang-nua-hon-14000-tre-em-tren-dia-ban-ha-noi-co-the-duoc-nhan-1-khoan-tien-tang-gap-doi-so-voi-muc-cu-188260724154510559.chn",
-        "source": "CafeF",
-        "summary_en": "Over 14,000 children in Hanoi are eligible to receive a sum of money that has doubled from the previous amount within two months. The policy aims to provide financial support to children in the city. Details on the specific purpose and implementation timeline are indicated in the source.",
-        "summary_vn": "Hơn 14.000 trẻ em trên địa bàn Hà Nội có thể được nhận một khoản tiền tăng gấp đôi so với mức cũ trong vòng 2 tháng tới. Chính sách này nhằm cung cấp hỗ trợ tài chính cho trẻ em trong thành phố. Thông tin chi tiết về mục đích và lịch trình thực hiện được nêu trong nguồn.",
-        "pubDate": "Sat, 25 Jul 26 08:26:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Mức sinh ở Hà Nội giảm: Làm gì để người trẻ không ngại sinh con?",
-        "url": "https://cafef.vn/muc-sinh-o-ha-noi-giam-lam-gi-de-nguoi-tre-khong-ngai-sinh-con-188260725104019364.chn",
-        "source": "CafeF",
-        "summary_en": "Birth rates in Hanoi continue to decline as the population ages rapidly. Young people are delaying marriage and reducing fertility due to pressures including housing costs, employment concerns, and child-rearing expenses. Population policies need to be updated to address these practical needs and encourage young people to marry and have two children.",
-        "summary_vn": "Mức sinh tại Hà Nội tiếp tục giảm trong khi dân số già hóa nhanh chóng. Người trẻ trì hoãn kết hôn và giảm sinh do áp lực về nhà ở, việc làm và chi phí nuôi dạy con. Các chính sách dân số cần được cập nhật để giải quyết những nhu cầu thực tiễn này và khuyến khích người trẻ lập gia đình và sinh đủ hai con.",
-        "pubDate": "Sat, 25 Jul 26 10:57:00 +0700",
-        "sentiment": -0.6,
-        "importance": 3
-      },
-      {
-        "title": "'Loạn' biển hiệu tiếng nước ngoài tại Nha Trang, khách Việt 'đau đầu' vừa xem vừa đoán",
-        "url": "https://tuoitre.vn/loan-bien-hieu-tieng-nuoc-ngoai-tai-nha-trang-khach-viet-dau-dau-vua-xem-vua-doan-100260725104935826.htm",
-        "source": "TuoiTre",
-        "summary_en": "Signage in central Nha Trang displays predominantly foreign languages (Russian, Korean, English) with minimal or no Vietnamese text, leaving Vietnamese tourists confused about business types. The issue affects major tourist streets including Hung Vuong, Nguyen Thien Thuat, To Hien Thanh, Vo Tru, and Tran Quang Khai. The observation was documented by Tuoi Tre newspaper on July 25.",
-        "summary_vn": "Các biển hiệu tại trung tâm Nha Trang sử dụng chủ yếu tiếng nước ngoài (Nga, Hàn, Anh) với ít hoặc không có chữ Việt, làm du khách Việt bối rối khi không biết loại hình kinh doanh. Vấn đề này ảnh hưởng đến các tuyến đường du lịch lớn như Hùng Vương, Nguyễn Thiện Thuật, Tô Hiến Thành, Võ Trứ, Trần Quang Khải. Hiện tượng này được ghi nhận bởi báo Tuổi Trẻ ngày 25-7.",
-        "pubDate": "7/25/2026 12:43:00 PM",
-        "sentiment": -0.6,
-        "importance": 2
       }
     ],
     "financial-markets": [
       {
-        "title": "Giá vàng hôm nay 26/7/2026: Vàng miếng SJC &amp;apos;bốc hơi&amp;apos; 7 triệu đồng trong tuần",
-        "url": "https://vietnamnet.vn/gia-vang-hom-nay-26-7-2026-vang-mieng-sjc-boc-hoi-7-trieu-dong-trong-tuan-2539135.html",
-        "source": "VietnamNet",
-        "summary_en": "Gold prices showed modest gains at the end of the week as selling pressure weakened, supported by declining oil prices and reduced U.S. Treasury bond yields. Spot gold closed the week around 4,053 USD/ounce, while August 2026 futures on COMEX New York traded near 4,055 USD/ounce. The U.S. dollar remained elevated, limiting gains for the precious metal despite these supportive factors.",
-        "summary_vn": "Giá vàng tăng nhẹ cuối tuần khi lực bán suy yếu, được hỗ trợ bởi giá dầu hạ nhiệt và lợi suất trái phiếu Chính phủ Mỹ giảm. Vàng giao ngay đóng cửa tuần ở mức khoảng 4.053 USD/ounce, trong khi hợp đồng tháng 8/2026 trên sàn Comex New York ở mức khoảng 4.055 USD/ounce. Đồng USD vẫn duy trì ở mức cao, hạn chế đà tăng của kim loại quý.",
-        "pubDate": "Sun, 26 Jul 2026 06:00:00 +0700",
-        "sentiment": 0.1,
+        "title": "Giá vàng miếng SJC giảm hơn 6 triệu đồng/lượng trong một tuần",
+        "url": "https://cafef.vn/gia-vang-mieng-sjc-giam-hon-6-trieu-dong-luong-trong-mot-tuan-188260726091146067.chn",
+        "source": "CafeF",
+        "summary_en": "The domestic gold market experienced significant volatility during the trading week of July 20-25, with SJC gold bars declining by 6-7 million VND per tael. On the morning of July 20, SJC gold prices fell 300,000 VND per tael compared to the previous week's close, trading at 144.2-147.2 million VND per tael (bid-ask spread). By the afternoon of July 20, prices continued to decline to 143.6-146.6 million VND per tael.",
+        "summary_vn": "Thị trường vàng trong nước ghi nhận biến động mạnh trong tuần giao dịch 20-25 tháng 7, với giá vàng miếng SJC giảm 6-7 triệu đồng/lượng. Sáng ngày 20/7, giá vàng miếng SJC giảm 300.000 đồng/lượng so với cuối tuần trước, xuống 144,2 - 147,2 triệu đồng/lượng (giá mua - giá bán). Chiều cùng ngày, giá vàng tiếp tục giảm xuống 143,6 - 146,6 triệu đồng/lượng.",
+        "pubDate": "Sun, 26 Jul 26 09:11:00 +0700",
+        "sentiment": -0.5,
         "importance": 2
       },
       {
-        "title": "Loạn gi&aacute;, chất lượng đ&aacute; qu&yacute;",
-        "url": "https://thanhnien.vn/loan-gia-chat-luong-da-quy-185260725195505264.htm",
-        "source": "ThanhNien",
-        "summary_en": "SJC (Saigon Gold Silver Jewelry Company) faces market confusion over gemstone valuations in its 2025 audited financial report, which shows 170,876 colored stones and gemstones valued at over 1.045 trillion dong, averaging approximately 6,100 dong per stone. The company has attempted to clarify the matter, but gemstone enthusiasts and traders remain concerned about the valuation discrepancy. The controversy stems from the significant gap between reported average valuations and typical market prices for gemstones.",
-        "summary_vn": "Công ty SJC gặp phải hoang mang trên thị trường liên quan đến định giá đá quý trong báo cáo tài chính kiểm toán năm 2025, trong đó 170.876 viên đá màu và đá quý được định giá hơn 1.045 tỉ đồng, tính bình quân khoảng 6.100 đồng/viên. Công ty đã có lời giải thích nhưng giới chơi đá quý vẫn lo lắng về sự không khớp trong định giá. Cuộc tranh cãi xuất phát từ khoảng cách lớn giữa định giá bình quân được báo cáo và giá thị trường thực tế của đá quý.",
-        "pubDate": "Sun, 26 Jul 26 06:00:00 +0700",
-        "sentiment": -0.6,
+        "title": "KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần",
+        "url": "https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn",
+        "source": "CafeF",
+        "summary_en": "As of July 26, 2026, 13 banks have reported first-half earnings results, showing significant divergence in performance. Some banks experienced negative growth compared to the prior year, while others set profit records. Saigonbank recorded a pre-tax loss of 40 billion dong in Q2 2026, compared to a profit of 76.4 billion dong in the same quarter of the previous year.",
+        "summary_vn": "Tính đến ngày 26/7, có 13 ngân hàng công bố kết quả lợi nhuận 6 tháng đầu năm 2026, cho thấy sự phân hoá mạnh mẽ trong kết quả kinh doanh. Một số ngân hàng ghi nhận tăng trưởng âm so với năm trước, trong khi những ngân hàng khác lập được kỷ lục lợi nhuận mới. Saigonbank ghi nhận mức lỗ trước thuế 40 tỷ đồng trong Quý 2/2026, so với mức lãi 76,4 tỷ đồng cùng kỳ năm ngoái.",
+        "pubDate": "Sun, 26 Jul 26 14:55:00 +0700",
+        "sentiment": -0.2,
         "importance": 3
       },
       {
-        "title": "Việt Nam - &#039;qu&aacute;n qu&acirc;n&#039; FDI  Đ&ocirc;ng Nam &Aacute;",
-        "url": "https://thanhnien.vn/viet-nam-quan-quan-fdi-dong-nam-a-185260725214722733.htm",
-        "source": "ThanhNien",
-        "summary_en": "Vietnam is positioned as the leading FDI destination in Southeast Asia. In 2026, China faced a record net capital outflow of nearly $170 billion, marking the formal closure of the old globalization era amid rising geopolitical tensions. The massive capital flows are redirecting toward Southeast Asia through the \"China + 1\" strategy, with The Diplomat analyzing this shift.",
-        "summary_vn": "Việt Nam được xếp hạng là đích đến hàng đầu về FDI trong khu vực Đông Nam Á. Năm 2026, Trung Quốc ghi nhận mức thâm hụt vốn ròng kỷ lục gần 170 tỷ USD, đánh dấu sự kết thúc chính thức của kỷ nguyên toàn cầu hóa cũ giữa căng thẳng địa chính trị gia tăng. Dòng vốn khổng lồ này đang hướng sang Đông Nam Á thông qua chiến lược \"Trung Quốc + 1\".",
-        "pubDate": "Sun, 26 Jul 26 06:00:00 +0700",
-        "sentiment": 0.6,
+        "title": "Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất",
+        "url": "https://cafef.vn/du-no-toan-nen-kinh-te-vuot-20-trieu-ty-dong-dai-dien-ngan-hang-nha-nuoc-cap-nhat-so-lieu-tang-truong-tin-dung-moi-nhat-18826072615195886.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's total economic outstanding debt exceeded 20 million billion Vietnamese dong, according to a State Bank of Vietnam official update. In the first half of the year, the banking system supplied approximately 1.46 million billion dong in additional credit to the economy to support production, business operations and economic growth.",
+        "summary_vn": "Dư nợ toàn nền kinh tế Việt Nam vượt 20 triệu tỷ đồng theo cập nhật của đại diện Ngân hàng Nhà nước. Chỉ trong nửa đầu năm, hệ thống ngân hàng cung ứng thêm khoảng 1,46 triệu tỷ đồng cho nền kinh tế nhằm hỗ trợ sản xuất, kinh doanh và thúc đẩy tăng trưởng.",
+        "pubDate": "Sun, 26 Jul 26 15:16:00 +0700",
+        "sentiment": 0.3,
         "importance": 4
       },
       {
-        "title": "Có tránh được một 'cuộc đua lãi suất'?",
-        "url": "https://cafef.vn/co-tranh-duoc-mot-cuoc-dua-lai-suat-188260725110915572.chn",
+        "title": "Chuyên gia: Chu kì thị trường bất động sản đang nhanh hơn",
+        "url": "https://cafef.vn/bat-dong-san-cat-lo-tran-lan-chuyen-gia-noi-thang-nhieu-noi-thuc-chat-chi-dang-cat-lai-188260726154846832.chn",
         "source": "CafeF",
-        "summary_en": "The article discusses whether Vietnam can avoid an interest rate competition among financial institutions. The core issue is system liquidity of credit institutions, which if tight, would cause borrowing rates to rise quickly and increase business capital costs. A company owner's experience shows interest rates rising from approximately 7% last year to higher levels this year at the same bank.",
-        "summary_vn": "Bài viết thảo luận về liệu Việt Nam có thể tránh được cuộc đua lãi suất giữa các tổ chức tín dụng hay không. Vấn đề cốt lõi là thanh khoản của hệ thống các tổ chức tín dụng, nếu căng thẳng sẽ khiến lãi suất cho vay tăng nhanh chóng và làm tăng chi phí vốn của doanh nghiệp. Kinh nghiệm của một chủ doanh nghiệp cho thấy lãi suất tăng từ khoảng 7% năm ngoái lên mức cao hơn năm nay tại cùng một ngân hàng.",
-        "pubDate": "Sat, 25 Jul 26 13:08:00 +0700",
+        "summary_en": "A real estate market expert notes that market cycles are accelerating, with listings appearing on transaction floors while selling prices remain high. Real estate lending rates have increased significantly to 12-14% annually according to Dat Xanh Services Research Institute's first-half report, with some banks offering floating rates as high as 16.5% annually, compared to 6.5-7% in the same period last year.",
+        "summary_vn": "Theo chuyên gia, chu kỳ thị trường bất động sản đang nhanh hơn, với nhiều tin rao trên các sàn giao dịch nhưng giá bán vẫn ở mức cao. Báo cáo của Viện Nghiên cứu Đất Xanh Services cho thấy lãi suất vay bất động sản phổ biến đã tăng lên 12-14%/năm, thậm chí tại một số ngân hàng lên tới 16,5%/năm, tăng so với mức 6,5-7%/năm cùng kỳ năm ngoái.",
+        "pubDate": "Sun, 26 Jul 26 15:49:00 +0700",
         "sentiment": -0.3,
         "importance": 3
       },
       {
-        "title": "Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ",
-        "url": "https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn",
+        "title": "Đang diễn ra việc 'đi đêm' lãi suất huy động",
+        "url": "https://cafef.vn/dang-dien-ra-viec-di-dem-lai-suat-huy-dong-18826072615580761.chn",
         "source": "CafeF",
-        "summary_en": "Gold prices in Vietnam experienced an unexpected reversal on July 25, 2026, following a sharp decline of approximately 7 million dong per tael the previous day. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải reported fluctuations in both plain gold rings and gold bars. The morning session saw a notable price recovery after the significant drop recorded in the evening of July 24.",
-        "summary_vn": "Giá vàng trong nước ghi nhận diễn biến bất ngờ vào ngày 25/7/2026 sau cú sập mạnh khoảng 7 triệu đồng/lượng vào hôm trước. Các nhà bán lẻ vàng lớn như SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải ghi nhận biến động giá cả cho cả vàng nhẫn trơn và vàng miếng. Phiên sáng ngày 25/7 ghi nhận sự phục hồi giá đáng kể sau cú giảm mạnh được ghi nhận vào tối ngày 24/7.",
-        "pubDate": "Sat, 25 Jul 26 16:38:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
+        "summary_en": "Vietnamese banks are engaged in undisclosed interest rate competition to attract deposits despite stable official rate sheets in July. Many banks are offering unofficial rate premiums above their published rates, bringing actual deposit rates to over 9% per annum for 6-12 month terms. Official quoted rates remain stable while actual market rates exceed 9% annually.",
+        "summary_vn": "Các ngân hàng Việt Nam đang tiến hành cuộc đua ngầm huy động vốn bằng lãi suất mặc dù biểu lãi suất niêm yết trong tháng 7 ổn định. Nhiều ngân hàng cung cấp mức cộng thêm lãi suất ngoài chính thức, đưa lãi suất thực tế lên trên 9% mỗi năm cho kỳ hạn 6-12 tháng. Lãi suất niêm yết vẫn ổn định trong khi lãi suất thị trường thực tế vượt quá 9% hàng năm.",
+        "pubDate": "Sun, 26 Jul 26 16:57:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
       },
       {
-        "title": "Tỷ giá cuối năm: Kỳ vọng giữ ổn định giữa nhiều sức ép",
-        "url": "https://cafef.vn/ty-gia-cuoi-nam-ky-vong-giu-on-dinh-giua-nhieu-suc-ep-188260725100833246.chn",
+        "title": "Chân dung tân Chủ tịch Eximbank: Là tiến sĩ kỹ thuật hạt nhân tại Mỹ, ghi dấu ấn tại Techcombank trong giai đoạn tăng trưởng bùng nổ",
+        "url": "https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn",
         "source": "CafeF",
-        "summary_en": "The USD/VND exchange rate increased by only 0.07% during the first six months of the year despite pressures from high USD interest rates, geopolitical instability, and rising foreign currency demand. The second half of the year is expected to continue facing pressures, but Vietnam's macroeconomic fundamentals and the State Bank of Vietnam's flexible monetary policy management are anticipated to support exchange rate stability. The article examines the factors behind exchange rate stability amid various market fluctuations.",
-        "summary_vn": "Tỷ giá USD/VND chỉ tăng 0,07% trong 6 tháng đầu năm mặc dù chịu áp lực từ lãi suất USD cao, bất ổn địa chính trị và nhu cầu ngoại tệ gia tăng. Nửa cuối năm dự kiến tiếp tục chịu áp lực, nhưng các nền tảng vĩ mô của Việt Nam và chính sách tiền tệ linh hoạt của Ngân hàng Nhà nước được kỳ vọng sẽ hỗ trợ sự ổn định của tỷ giá. Bài viết phân tích các yếu tố đằng sau sự ổn định tỷ giá giữa nhiều biến động thị trường.",
-        "pubDate": "Sat, 25 Jul 26 18:08:00 +0700",
-        "sentiment": 0.0,
+        "summary_en": "Nguyễn Lê Quốc Anh, former CEO of Techcombank, has been officially appointed as Chairman of Eximbank. He holds a Ph.D. in nuclear engineering from the United States and has worked as a nuclear engineer and researcher there. Prior to joining Eximbank, he held positions at major organizations including McKinsey, Wells Fargo, Fortress Investment Group, and T-Mobile US.",
+        "summary_vn": "Ông Nguyễn Lê Quốc Anh, cựu Tổng giám đốc Techcombank, vừa được bổ nhiệm chính thức làm Chủ tịch HĐQT Eximbank. Ông sở hữu bằng tiến sĩ kỹ thuật hạt nhân từ Mỹ và từng làm kỹ sư hạt nhân cũng như nhà nghiên cứu tại đó. Trước khi gia nhập Eximbank, ông đã từng làm việc tại các tổ chức lớn bao gồm McKinsey, Wells Fargo, Fortress Investment Group và T-Mobile US.",
+        "pubDate": "Sun, 26 Jul 26 17:48:00 +0700",
+        "sentiment": 0.3,
         "importance": 3
       }
     ],
     "regulations": [
       {
-        "title": "Ngân hàng Nhà nước lên tiếng việc chuyển trên 400 triệu phải chờ 24 giờ",
-        "url": "https://cafef.vn/ngan-hang-nha-nuoc-len-tieng-viec-chuyen-tren-400-trieu-phai-cho-24-gio-188260723150543769.chn",
+        "title": "100 ngày tăng tốc chuyển đổi số của ngành ngân hàng",
+        "url": "https://cafef.vn/100-ngay-tang-toc-chuyen-doi-so-cua-nganh-ngan-hang-18826072616011742.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam clarified regulations regarding money transfers exceeding 400 million Vietnamese dong, which will require a 24-hour waiting period starting March 1, 2027. The bank emphasized that this regulation does not apply to all transactions. The clarification was issued to address public concerns about the new requirements for large-value online transfers.",
-        "summary_vn": "Ngân hàng Nhà nước làm rõ về quy định chuyển tiền vượt quá 400 triệu đồng sẽ phải chờ 24 giờ từ ngày 1/3/2027. Ngân hàng nhấn mạnh rằng quy định này không áp dụng cho tất cả giao dịch. Thông tin làm rõ này được phát hành nhằm giải đáp những lo ngại của công chúng về các yêu cầu mới liên quan đến chuyển tiền trực tuyến có giá trị lớn.",
-        "pubDate": "Sat, 25 Jul 26 07:39:00 +0700",
+        "summary_en": "The State Bank of Vietnam (SBV) has issued a 100-day action plan to implement Resolution 57 of the Communist Party on the development of science, technology, innovation, and digital transformation in the banking sector. The plan identifies 11 key tasks and requires implementation units to follow a \"6-clear\" principle linked to specific products and completion deadlines. The plan builds on related notifications and directives from central authorities.",
+        "summary_vn": "Ngân hàng Nhà nước đã ban hành Kế hoạch hành động 100 ngày để thực hiện Nghị quyết số 57-NQ/TW của Bộ Chính trị về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số trong lĩnh vực ngân hàng. Kế hoạch xác định 11 nhiệm vụ trọng tâm và yêu cầu các đơn vị triển khai theo nguyên tắc \"6 rõ\" gắn với sản phẩm cụ thể và thời hạn hoàn thành. Kế hoạch được ban hành nhằm thực hiện các thông báo và kế hoạch của các cấp quản lý trung ương.",
+        "pubDate": "Sun, 26 Jul 26 18:00:00 +0700",
         "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới",
-        "url": "https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn",
+        "title": "Lần đầu tiên quy định kiểm tra thuế bằng phương thức điện tử",
+        "url": "https://cafef.vn/lan-dau-tien-quy-dinh-kiem-tra-thue-bang-phuong-thuc-dien-tu-188260726081725836.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam is amending the 2010 State Bank Law to enhance the central bank's role in managing monetary policy and macroeconomic stability. The amendments address requirements for two-digit economic growth and changing management models through adjustments to financial capacity, organizational structure, and operational instruments. These modifications are designed to provide the State Bank with greater flexibility and institutional foundation to support long-term economic development.",
-        "summary_vn": "Việt Nam đang sửa đổi Luật Ngân hàng Nhà nước 2010 nhằm nâng cao vai trò của ngân hàng trung ương trong quản lý chính sách tiền tệ và ổn định kinh tế vĩ mô. Các sửa đổi liên quan đến yêu cầu tăng trưởng kinh tế hai chữ số và thay đổi trong các mô hình quản lý thông qua điều chỉnh năng lực tài chính, cấu trúc tổ chức và công cụ điều hành. Những sửa đổi này nhằm cung cấp cho Ngân hàng Nhà nước sự linh hoạt hơn và nền tảng thể chế vững chắc để hỗ trợ phát triển kinh tế dài hạn.",
-        "pubDate": "Sat, 25 Jul 26 07:47:00 +0700",
+        "summary_en": "Vietnam's Ministry of Finance issued Circular 89/2026/TT-BTC on June 30, 2026, establishing the first specific regulations for electronic tax inspections. The new circular provides a legal framework to conduct tax audits in a digital environment, modernizing tax administration. The regulation aims to enhance transparency, public disclosure, and convenience for taxpayers.",
+        "summary_vn": "Bộ Tài chính Việt Nam ban hành Thông tư số 89/2026/TT-BTC ngày 30-6-2026, quy định lần đầu tiên về kiểm tra thuế bằng phương thức điện tử. Quy định mới cung cấp cơ sở pháp lý để triển khai kiểm tra thuế trên môi trường số, hiện đại hóa công tác quản lý thuế. Thông tư nhằm nâng cao tính công khai, minh bạch và tạo thuận lợi cho người nộp thuế.",
+        "pubDate": "Sun, 26 Jul 26 09:00:00 +0700",
         "sentiment": 0.3,
         "importance": 3
       },
       {
-        "title": "Phong tỏa tài khoản ngân hàng, phạt tiền nếu người dùng nhận và chuyển tiền với mục đích sau",
-        "url": "https://cafef.vn/phong-toa-tai-khoan-ngan-hang-phat-tien-neu-nguoi-dung-nhan-va-chuyen-tien-voi-muc-dich-sau-188260724161810952.chn",
+        "title": "Việt Nam để lại dấu ấn nổi bật tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 59",
+        "url": "https://cafef.vn/viet-nam-de-lai-dau-an-noi-bat-tai-hoi-nghi-bo-truong-ngoai-giao-asean-lan-thu-59-188260726082020792.chn",
         "source": "CafeF",
-        "summary_en": "Vietnamese banking regulators warn users that certain account activities can result in transaction freezes and criminal penalties. Banks may suspend accounts and take legal action against holders engaged in prohibited money transfers. Users are advised to avoid specific behaviors to prevent account seizure and financial loss.",
-        "summary_vn": "Các cơ quan điều tiết ngân hàng Việt Nam cảnh báo rằng một số hoạt động tài khoản có thể dẫn đến đóng băng giao dịch và các hình phạt hình sự. Các ngân hàng có thể tạm dừng tài khoản và thực hiện các biện pháp pháp lý chống lại những chủ tài khoản tham gia vào các chuyển tiền bị cấm. Người dùng được khuyên tránh các hành vi cụ thể để ngăn chặn việc tịch thu tài khoản và mất tiền.",
-        "pubDate": "Sat, 25 Jul 26 09:40:00 +0700",
-        "sentiment": -0.5,
-        "importance": 3
+        "summary_en": "Vietnam held a prominent role at the 59th ASEAN Foreign Ministers' Meeting (AMM-59) and related conferences. Vietnamese Deputy Foreign Minister Dang Hoang Giang shared remarks with the press about the meeting's notable outcomes and Vietnam's delegation contributions. The article focuses on Vietnam's diplomatic engagement and the results achieved at this regional ministerial forum.",
+        "summary_vn": "Việt Nam để lại dấu ấn nổi bật tại Hội nghị Bộ trưởng Ngoại giao ASEAN lần thứ 59 (AMM-59) và các hội nghị liên quan. Thứ trưởng Bộ Ngoại giao Đặng Hoàng Giang chia sẻ với báo chí về những kết quả đáng chú ý của hội nghị và những đóng góp của đoàn Việt Nam. Bài viết tập trung vào vai trò ngoại giao của Việt Nam và những kết quả đạt được tại diễn đàn bộ trưởng khu vực.",
+        "pubDate": "Sun, 26 Jul 26 09:33:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
       },
       {
-        "title": "Đề xuất thương nhân cung cấp thông tin nguồn tiền để ngân hàng theo dõi giao dịch chuyển khẩu",
-        "url": "https://cafef.vn/de-xuat-thuong-nhan-cung-cap-thong-tin-nguon-tien-de-ngan-hang-theo-doi-giao-dich-chuyen-khau-188260725075053439.chn",
+        "title": "Thông đồng, bao che người nộp thuế nhằm ngăn cản cơ quan thuế xác minh thông tin bị phạt tới 100 triệu đồng",
+        "url": "https://cafef.vn/thong-dong-bao-che-nguoi-nop-thue-nham-ngan-can-co-quan-thue-xac-minh-thong-tin-bi-phat-toi-100-trieu-dong-188260726081855106.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's State Bank is circulating a draft circular to regulate payment and money transfer activities related to entrepôt trade operations, intended to replace Circular 02/2020/TT-NHNN. The new regulation proposes requiring merchants to provide information about money sources to enable banks to monitor entrepôt trade transactions. The draft aims to harmonize with new government regulations and address practical difficulties, particularly for foreign-invested enterprises.",
-        "summary_vn": "Ngân hàng Nhà nước lấy ý kiến dự thảo Thông tư mới về hoạt động thanh toán và chuyển tiền liên quan đến kinh doanh chuyển khẩu hàng hóa, nhằm thay thế Thông tư số 02/2020/TT-NHNN. Dự thảo đề xuất yêu cầu thương nhân cung cấp thông tin nguồn tiền để ngân hàng theo dõi giao dịch chuyển khẩu. Mục đích của dự thảo là đồng bộ hóa với quy định mới của Chính phủ và tháo gỡ các vướng mắc thực tiễn, đặc biệt đối với doanh nghiệp có vốn đầu tư nước ngoài.",
-        "pubDate": "Sat, 25 Jul 26 09:50:00 +0700",
+        "summary_en": "The Vietnamese Government issued Decree No. 291/2026/NĐ-CP on July 21, 2026, which amends and supplements administrative penalties for tax violations. The decree introduces new penalties for collusion and obstruction of tax authority verification, with fines up to 100 million Vietnamese dong. This represents an expansion of penalties previously established under Decree No. 125/2020/NĐ-CP and its amendments.",
+        "summary_vn": "Chính phủ ban hành Nghị định số 291/2026/NĐ-CP ngày 21/7/2026 sửa đổi, bổ sung các quy định xử phạt vi phạm hành chính về thuế. Nghị định này bổ sung chế tài phạt tới 100 triệu đồng đối với hành vi thông đồng, bao che người nộp thuế nhằm ngăn cản cơ quan thuế xác minh thông tin. Những quy định này là sửa đổi, bổ sung của Nghị định số 125/2020/NĐ-CP và các nghị định liên quan khác.",
+        "pubDate": "Sun, 26 Jul 26 10:33:00 +0700",
         "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Người từng chuyển tiền vào các tài khoản ngân hàng này, khẩn trương liên hệ công an",
-        "url": "https://cafef.vn/nguoi-tung-chuyen-tien-vao-cac-tai-khoan-ngan-hang-nay-khan-truong-lien-he-cong-an-188260724154722477.chn",
+        "title": "Quy định mới về thẻ Căn cước đã chính thức có hiệu lực, tất cả người dân cần biết",
+        "url": "https://cafef.vn/quy-dinh-moi-ve-the-can-cuoc-da-chinh-thuc-co-hieu-luc-tat-ca-nguoi-dan-can-biet-18826072608264323.chn",
         "source": "CafeF",
-        "summary_en": "Da Nang police issued a notice seeking victims of a fraud scheme involving AI-generated fake bookings for concert tickets (DIFF), hotel rooms, and tourism services that operated from March to July 2026. The police department's investigation bureau is handling the case and urged anyone who transferred money to related bank accounts to contact authorities immediately. The scheme defrauded people across Da Nang and other locations.",
-        "summary_vn": "Công an TP Đà Nẵng phát thông báo tìm kiếm các nạn nhân của vụ lừa đảo sử dụng AI để tạo các booking giả mạo cho vé concert (DIFF), phòng khách sạn và dịch vụ du lịch hoạt động từ tháng 3 đến tháng 7 năm 2026. Cơ quan Cảnh sát điều tra đang thụ lý vụ án và kêu gọi bất kỳ ai từng chuyển tiền vào các tài khoản liên quan liên hệ với cơ quan chức năng. Vụ lừa đảo ảnh hưởng đến những người ở Đà Nẵng và nhiều địa phương khác.",
-        "pubDate": "Sat, 25 Jul 26 11:16:00 +0700",
-        "sentiment": -1.0,
-        "importance": 3
+        "summary_en": "Decree 58 of the Government came into effect on March 15, 2026, introducing modifications to regulations regarding identity cards. The new rules integrate the 9-digit national ID number and canceled personal identification numbers from VNeID into the QR code on the identity card. Agencies, organizations, and individuals can scan the QR code to access encrypted information for verification purposes.",
+        "summary_vn": "Nghị định 58 của Chính phủ có hiệu lực từ ngày 15/3/2026 đưa ra những sửa đổi về quy định liên quan đến thẻ Căn cước. Quy định mới tích hợp số chứng minh nhân dân 9 số và các số định danh cá nhân đã hủy từ VNeID vào mã QR trên thẻ Căn cước. Các cơ quan, tổ chức và cá nhân có thể quét mã QR để truy cập thông tin được mã hóa nhằm phục vụ xác minh.",
+        "pubDate": "Sun, 26 Jul 26 11:31:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
       },
       {
-        "title": "Chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ nổi bật tuần từ 18-24/7/2026",
-        "url": "https://cafef.vn/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-noi-bat-tuan-tu-18-24-7-2026-18826072507452563.chn",
+        "title": "Khẩn trương sắp xếp, sáp nhập trường học, cơ sở giáo dục nghề nghiệp công lập cấp tỉnh, cấp xã",
+        "url": "https://cafef.vn/khan-truong-sap-xep-sap-nhap-truong-hoc-co-so-giao-duc-nghe-nghiep-cong-lap-cap-tinh-cap-xa-188260726133257779.chn",
         "source": "CafeF",
-        "summary_en": "Government directives from the week of July 18-24, 2026 focus on removing bottlenecks and unlocking resources for businesses. The Prime Minister issued notification 394/TB-VPCP directing ministries, departments, and local authorities to implement these measures. Additional emphasis was placed on establishing a unified, modern, and interconnected national data ecosystem for shared use.",
-        "summary_vn": "Các chỉ đạo của Chính phủ trong tuần từ ngày 18-24/7/2026 tập trung vào việc tháo gỡ các rào cản và khơi thông nguồn lực cho doanh nghiệp. Thủ tướng Chính phủ đã ban hành Thông báo số 394/TB-VPCP yêu cầu các Bộ, ngành và địa phương thực hiện các biện pháp này. Ngoài ra, còn nhấn mạnh việc hình thành hệ sinh thái dữ liệu quốc gia thống nhất, hiện đại và liên thông để sử dụng chung.",
-        "pubDate": "Sat, 25 Jul 26 08:24:00 +0700",
+        "summary_en": "Quang Tri Provincial People's Committee has issued a directive to urgently reorganize and merge public educational institutions at provincial and commune levels, including kindergartens, secondary schools, vocational training centers, and vocational education facilities. The directive follows guidance from the Prime Minister's Office regarding the consolidation of these educational establishments. The reorganization effort is part of a broader governmental initiative to streamline the public education system.",
+        "summary_vn": "UBND tỉnh Quảng Trị đã ban hành chỉ đạo khẩn trương sắp xếp và sáp nhập các cơ sở giáo dục công lập cấp tỉnh và cấp xã, bao gồm các trường mầm non, phổ thông, dạy nghề và giáo dục nghề nghiệp. Chỉ đạo này tuân thủ hướng dẫn từ Thủ tướng Chính phủ về việc sắp xếp lại các cơ sở giáo dục. Nỗ lực sắp xếp này là một phần của sáng kiến rộng lớn hơn nhằm hợp lý hóa hệ thống giáo dục công lập.",
+        "pubDate": "Sun, 26 Jul 26 14:10:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       }
     ],
     "logistics": [
       {
-        "title": "Khởi công Ga S1 Quần Ngựa, mở rộng thi công đồng bộ tuyến metro số 5",
-        "url": "https://cafef.vn/khoi-cong-ga-s1-quan-ngua-mo-rong-thi-cong-dong-bo-tuyen-metro-so-5-188260725133355839.chn",
+        "title": "Cận cảnh đại công trường thi công nhà ga metro số 5 giữa trung tâm Hà Nội",
+        "url": "https://cafef.vn/can-canh-dai-cong-truong-thi-cong-nha-ga-metro-so-5-giua-trung-tam-ha-noi-188260726080829128.chn",
         "source": "CafeF",
-        "summary_en": "Hanoi's metro line 5 project has entered its initial underground construction phase. The Hanoi Urban Railway Management Board (MRB) and an EPC contractor consortium have begun construction of S1 station (Quần Ngựa station). The project represents an expansion of coordinated construction work along the metro line 5 route.",
-        "summary_vn": "Dự án metro số 5 của Hà Nội đã bước vào giai đoạn thi công ngầm đầu tiên. Ban Quản lý đường sắt đô thị Hà Nội (MRB) và liên danh nhà thầu EPC đã khởi công xây dựng Ga S1 (Ga Quần Ngựa). Dự án thể hiện sự mở rộng công tác thi công đồng bộ dọc theo tuyến metro số 5.",
-        "pubDate": "Sat, 25 Jul 26 14:11:00 +0700",
-        "sentiment": 0.3,
+        "summary_en": "Hanoi's Metro Line 5 (Văn Cao - Hòa Lạc) project has advanced to the underground structural construction phase, with the contractor implementing the first retaining wall at station S3 (Ring Road 1 station). This milestone marks significant progress following site preparation and traffic management arrangements. The S3 station construction site, located at the Nguyễn Chí Thanh - Ring Road 1 junction, is equipped with specialized machinery and large-scale equipment.",
+        "summary_vn": "Dự án đường sắt đô thị số 5 (Văn Cao - Hòa Lạc) của Hà Nội đã tiến vào giai đoạn thi công kết cấu ngầm, với nhà thầu triển khai hạng mục tường vây đầu tiên tại ga S3 (ga Vành đai 1). Đây là một dấu mốc quan trọng sau thời gian chuẩn bị mặt bằng và tổ chức giao thông phục vụ thi công. Công trường ga S3 nằm ở nút giao Nguyễn Chí Thanh - Vành đai 1 được trang bị máy móc chuyên dụng và thiết bị cỡ lớn.",
+        "pubDate": "Sun, 26 Jul 26 08:07:00 +0700",
+        "sentiment": 0.5,
         "importance": 3
-      },
-      {
-        "title": "Đúng 2h sáng, Hà Nội vừa chứng kiến một “kỳ tích” nặng hơn 38 tấn tại công trình hơn 72.000 tỷ đồng",
-        "url": "https://cafef.vn/dung-2h-sang-ha-noi-vua-chung-kien-mot-ky-tich-nang-hon-38-tan-tai-cong-trinh-hon-72000-ty-dong-188260725154715633.chn",
-        "source": "CafeF",
-        "summary_en": "Hanoi witnessed a major technical milestone at 2 AM on metro line 5 Văn Cao – Hòa Lạc, involving the installation of a component weighing over 38 tons as part of a project valued at over 72,000 billion VND. This represents a complex engineering task within the metro development project. The construction milestone was documented as part of the city's ongoing urban infrastructure expansion.",
-        "summary_vn": "Hà Nội vừa chứng kiến một kỳ tích kỹ thuật vào lúc 2h sáng tại tuyến metro số 5 Văn Cao – Hòa Lạc, liên quan đến lắp đặt một hạng mục nặng hơn 38 tấn thuộc dự án trị giá hơn 72.000 tỷ đồng. Đây là một công việc kỹ thuật phức tạp trong dự án phát triển hạ tầng giao thông công cộng của thành phố. Cột mốc xây dựng này được ghi nhận như là một phần của kế hoạch mở rộng hạ tầng đô thị đang diễn ra.",
-        "pubDate": "Sat, 25 Jul 26 15:48:00 +0700",
-        "sentiment": 0.7,
-        "importance": 3
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Lần đầu hé lộ doanh thu hãng taxi tỉ phú Phạm Nhật Vượng, 'ăn đứt' truyền thống lẫn công nghệ?",
-        "url": "https://tuoitre.vn/lan-dau-he-lo-doanh-thu-hang-taxi-ti-phu-pham-nhat-vuong-an-dut-truyen-thong-lan-cong-nghe-100260725095749057.htm",
-        "source": "TuoiTre",
-        "summary_en": "Saigon Ratings conducted a periodic credit rating monitoring for GSM (Green SM), a taxi company owned by billionaire Phạm Nhật Vượng. By Q4 2025, GSM held approximately 51.5% market share in the technology taxi segment, surpassing major competitors. The company achieved net revenue exceeding 16,000 billion VND in 2025.",
-        "summary_vn": "Saigon Ratings thực hiện giám sát xếp hạng tín nhiệm định kỳ cho GSM (Green SM), công ty taxi của tỉ phú Phạm Nhật Vượng. Đến quý 4-2025, GSM chiếm khoảng 51,5% thị phần taxi công nghệ, vượt qua các đối thủ chính. Doanh thu thuần năm 2025 của công ty đạt hơn 16.000 tỉ đồng.",
-        "pubDate": "7/25/2026 10:59:00 AM",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?",
-        "url": "https://tuoitre.vn/v-green-tam-dung-nhan-ho-so-nhuong-quyen-tram-sac-moi-vi-sao-100260725135643286.htm",
-        "source": "TuoiTre",
-        "summary_en": "V-Green, a charging station operator within the Vingroup ecosystem, announced it will temporarily suspend accepting new franchise registration applications for charging stations from August 6 onwards. The company states the pause is intended for reviewing planning and preparing for the next development phase. The charging network currently serves only VinFast electric vehicles and has not opened charging services to other vehicle manufacturers.",
-        "summary_vn": "V-Green, doanh nghiệp phát triển trạm sạc thuộc hệ sinh thái Vingroup, thông báo tạm dừng tiếp nhận hồ sơ đăng ký nhượng quyền mới từ ngày 6-8. Công ty cho biết việc tạm dừng nhằm rà soát quy hoạch và chuẩn bị cho giai đoạn phát triển tiếp theo. Hệ thống trạm sạc hiện chỉ phục vụ riêng xe điện VinFast và chưa mở sạc cho các hãng xe khác.",
-        "pubDate": "7/25/2026 2:12:00 PM",
-        "sentiment": 0.0,
-        "importance": 2
       }
     ],
     "ecommerce": [
       {
-        "title": "Xây tổ hợp dự án 10.750 tỉ đồng 'biểu tượng mới' bên sông Hàn Đà Nẵng",
-        "url": "https://tuoitre.vn/xay-to-hop-du-an-10750-ti-dong-bieu-tuong-moi-ben-song-han-da-nang-100260725113129147.htm",
+        "title": "Chỉ sau 57 ngày, Khu công nghiệp VSIP Đà Nẵng quy mô 250ha được chấp thuận đầu tư",
+        "url": "https://tuoitre.vn/chi-sau-57-ngay-khu-cong-nghiep-vsip-da-nang-quy-mo-250ha-duoc-chap-thuan-dau-tu-100260726095848782.htm",
         "source": "TuoiTre",
-        "summary_en": "A 10.75 trillion dong integrated complex project is being developed on a land area exceeding 210,000 square meters in the Da Nang Downtown urban area in Ngu Hanh Son ward. The core of the complex is an outdoor stage and auditorium with nearly 20,000 seats facing the Han River fireworks display area, designed to serve the Da Nang International Fireworks Festival (DIFF). Beyond hosting DIFF, the facility is designed to accommodate artistic performances, festivals, and cultural events.",
-        "summary_vn": "Dự án tổ hợp trị giá 10.75 nghìn tỉ đồng được xây dựng trên diện tích hơn 210.000 m² tại khu đô thị Da Nang Downtown, phường Ngũ Hành Sơn. Hạt nhân của dự án là sân khấu và khán đài ngoài trời với gần 20.000 chỗ ngồi hướng trực diện ra khu vực trình diễn pháo hoa trên sông Hàn, phục vụ Lễ hội Pháo hoa quốc tế Đà Nẵng (DIFF). Công trình được thiết kế không chỉ để phục vụ DIFF mà còn có khả năng tổ chức các chương trình biểu diễn nghệ thuật, lễ hội văn hóa.",
-        "pubDate": "7/25/2026 11:53:00 AM",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Đấu giá sầu riêng tại vườn, lô hàng gần 24 tỉ đồng ở Đắk Lắk",
-        "url": "https://tuoitre.vn/dau-gia-sau-rieng-tai-vuon-lo-hang-gan-24-ti-dong-o-dak-lak-100260725114607922.htm",
-        "source": "TuoiTre",
-        "summary_en": "Dak Lak province held its first-ever durian auction at the orchard site on July 25, bringing together producers and businesses. The final bid price for Dona durians reached 68,000 VND per kilogram. The auction aimed to establish direct connection between growers and enterprises while improving price transparency and product value.",
-        "summary_vn": "Sáng 25-7, tỉnh Đắk Lắk tổ chức lần đầu tiên phiên đấu giá sầu riêng tại vườn nhằm kết nối trực tiếp giữa người trồng và doanh nghiệp. Giá chốt cuối cùng của lô sầu riêng Dona đạt 68.000 đồng/kg. Phiên đấu giá nhằm minh bạch giá thu mua, nâng cao giá trị sản phẩm cho nông dân.",
-        "pubDate": "7/25/2026 12:20:00 PM",
+        "summary_en": "Da Nang City Government has approved investment plans for the VSIP Da Nang Industrial Park, a 249.8-hectare project developed by Vietnam-Singapore Industrial Park Joint Venture Company. The project, located in Dien Ban Bac Ward, involves constructing and operating industrial park infrastructure with total investment capital of 3,730 billion VND, of which 559.5 billion VND is from the investor.",
+        "summary_vn": "UBND TP Đà Nẵng vừa chấp thuận chủ trương đầu tư cho Công ty Liên doanh TNHH Khu công nghiệp Việt Nam - Singapore để xây dựng và kinh doanh kết cấu hạ tầng Khu công nghiệp VSIP Đà Nẵng. Dự án có quy mô 249,8ha tại phường Điện Bàn Bắc với tổng vốn đầu tư 3.730 tỉ đồng, trong đó vốn của nhà đầu tư là 559,5 tỉ đồng. Dự án được phê duyệt chỉ sau 57 ngày từ khi đề xuất.",
+        "pubDate": "7/26/2026 11:33:00 AM",
         "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Thương hiệu từ Việt Nam ‘dồn dập’ mở cửa hàng ra nước ngoài",
-        "url": "https://tuoitre.vn/thuong-hieu-tu-viet-nam-don-dap-mo-cua-hang-ra-nuoc-ngoai-100260725133750955.htm",
-        "source": "TuoiTre",
-        "summary_en": "Vietnamese brands Hasaki, Pizza 4P's, and Maison Marou expanded into international markets during July 2026, marking significant milestones in their global expansion efforts. These companies are exporting products developed or manufactured in Vietnam to reach international customers. The retailers are opening physical stores abroad as part of their expansion strategy beyond the domestic market.",
-        "summary_vn": "Ba thương hiệu Việt Nam là Hasaki, Pizza 4P's và Maison Marou đã liên tiếp mở cửa hàng và mở rộng vào các thị trường quốc tế vào tháng 7 năm 2026. Các doanh nghiệp này mang theo những sản phẩm được phát triển hoặc sản xuất tại Việt Nam để phục vụ khách hàng nước ngoài. Hasaki khai trương cửa hàng đầu tiên tại bang California ở Mỹ, đánh dấu bước mở rộng quốc tế đầu tiên của hãng.",
-        "pubDate": "7/25/2026 1:55:00 PM",
-        "sentiment": 0.6,
         "importance": 3
       }
     ]

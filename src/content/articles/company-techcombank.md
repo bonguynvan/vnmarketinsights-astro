@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-25"
-lastUpdated: "2026-07-25"
+publishedDate: "2026-07-26"
+lastUpdated: "2026-07-26"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (29 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Chủ tịch Eximbank: Là tiến sĩ kỹ thuật hạt nhân tại Mỹ, ghi dấu ấn tại Techcombank trong giai đoạn tăng trưởng bùng nổ**  
+
+Nguyễn Lê Quốc Anh, former CEO of Techcombank, has been officially appointed as Chairman of Eximbank. He holds a Ph.D. in nuclear engineering from the United States and has worked as a nuclear engineer and researcher there. Prior to joining Eximbank, he held positions at major organizations including McKinsey, Wells Fargo, Fortress Investment Group, and T-Mobile US.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn)
 
 **Phong tỏa tài khoản ngân hàng, phạt tiền nếu người dùng nhận và chuyển tiền với mục đích sau**  
 
@@ -79,18 +85,12 @@ Techcombank has won the "Best Domestic Bank in Vietnam" award from FinanceAsia f
 
 - Source: [CafeF](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn)
 
-**Thúc đẩy lộ trình trung hòa carbon: Techcombank nhận giải thưởng Top 10 Doanh nghiệp Net Zero 2026**  
-
-Techcombank received a Top 10 Net Zero 2026 award at the World Energy and Environment Forum – Vietnam 2026, organized by the Vietnam Chamber of Commerce and Industry (VCCI). The award recognizes the bank's commitment to advancing a carbon-neutral roadmap. This reflects the bank's efforts to align with Vietnam's path toward net-zero emissions targets.
-
-- Source: [CafeF](https://cafef.vn/thuc-day-lo-trinh-trung-hoa-carbon-techcombank-nhan-giai-thuong-top-10-doanh-nghiep-net-zero-2026-188260713150116198.chn)
-
 ## Related coverage
 
-- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
-- [Techcombank và Techcom Life ghi dấu ấn đậm nét tại đấu trường châu lục với 3 giải thưởng từ The Asian Banker 2026](https://cafef.vn/techcombank-va-techcom-life-ghi-dau-an-dam-net-tai-dau-truong-chau-luc-voi-3-giai-thuong-tu-the-asian-banker-2026-188260627094839776.chn) — CafeF
+- [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 
 ---
 

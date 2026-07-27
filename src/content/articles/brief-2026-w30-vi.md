@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 30/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 30 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-25"
-lastUpdated: "2026-07-25"
+publishedDate: "2026-07-26"
+lastUpdated: "2026-07-26"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan thị trường tuần này
 
-Nền kinh tế Việt Nam ghi nhận những tín hiệu tích cực với kim ngạch xuất nhập khẩu 6 tháng đầu năm tăng 27,1% và ngành thép tăng trưởng 26,9%, song thị trường chứng khoán chịu áp lực mạnh khi VN-Index giảm gần 10% trong một tháng qua. Thách thức từ các biện pháp thuế mới của Mỹ (12,5% từ ngày 24/7) và những bất ổn trong lĩnh vực tài chính (Saigonbank báo lỗ lần đầu, thị trường kim cương xáo trộn) cùng với định giá thị trường ở mức thấp nhất 10 năm đang tạo ra sự dao động lớn trong môi trường kinh doanh hiện tại.
+Thị trường chứng khoán Việt Nam giảm sâu khoảng 9,8% trong một tháng qua, với chỉ số VN-Index xuống 1.686 điểm, trong khi nhiều doanh nghiệp báo cáo kết quả kinh doanh suy giảm ở quý II/2026. Bên cạnh đó, nền kinh tế ghi nhận các tín hiệu tích cực từ kim ngạch xuất nhập khẩu tăng 27,1% trong 6 tháng đầu năm và ngành thép tăng trưởng 26,9%, nhưng phải đối mặt với các áp lực từ rào cản thương mại mới như thuế nhập khẩu 12,5% từ Mỹ.
 
 ## Người tiêu dùng
 
@@ -71,14 +71,21 @@ Nguyễn Thị Hương Giang, cựu Giám đốc chi nhánh SeABank Hai Bà Trư
 - Số liệu chính: Indictment date: 21/7; Number of suspects charged: 2
 - Nguồn: [CafeF](https://cafef.vn/cuu-giam-doc-chi-nhanh-seabank-bi-truy-to-vang-mat-trong-vu-an-lien-quan-vina-megastar-188260722084600063.chn)
 
-**Danh tính 4 người vừa bị khởi tố trong vụ buôn lậu hơn 3.400 viên kim cương vào hệ thống bán lẻ SJC**  
-
-Công an tỉnh Thanh Hóa đã khởi tố 4 bị can, gồm một Trưởng phòng Kinh doanh của Công ty TNHH MTV Vàng bạc đá quý Sài Gòn (SJC) và 3 người liên quan, để điều tra hành vi buôn lậu hơn 3.400 viên kim cương vào hệ thống bán lẻ SJC. Vụ việc được thông báo vào chiều ngày 22/7 sau quyết định khởi tố ngày 20/7. Kim cương buôn lậu có giá trị trên 500 tỷ đồng.
-
-- Số liệu chính: Số lượng kim cương buôn lậu: 3.400 viên; Giá trị kim cương buôn lậu: 500 tỷ đồng; Số bị can bị khởi tố: 4 người
-- Nguồn: [CafeF](https://cafef.vn/danh-tinh-4-nguoi-vua-bi-khoi-to-trong-vu-buon-lau-hon-3400-vien-kim-cuong-vao-he-thong-ban-le-sjc-188260722200940613.chn)
-
 ## Chứng khoán
+
+**Sau thời cố Chủ tịch Nguyễn Thiện Tuấn: Siêu cổ phiếu lao dốc, gia đình hết cổ đông lớn**  
+
+Sau khi cố Chủ tịch Nguyễn Thiện Tuấn qua đời, các thành viên gia đình và cổ đông liên quan của DIC Corp phải chịu nhiều lần bán giải chấp cổ phiếu, làm mất vị trí cổ đông lớn. Công ty công bố loạt giao dịch bán giải chấp cổ phiếu của các nhóm cổ đông nội bộ, trong đó Chủ tịch HĐQT Nguyễn Hùng Cường bị các công ty chứng khoán bán giải chấp khối lượng lớn. Doanh nghiệp đối mặt nhiều thách thức sau giai đoạn tăng trưởng nóng.
+
+- Số liệu chính: Shares liquidated by securities firms for Chairman Nguyễn Hùng Cường: 11.16 million shares
+- Nguồn: [VietnamNet](https://vietnamnet.vn/sau-thoi-co-chu-tich-nguyen-thien-tuan-sieu-co-lao-doc-het-sach-co-dong-lon-2539040.html)
+
+**Phân bón Bình Điền (BFC) báo lãi giảm sốc trong quý II**  
+
+Phân bón Bình Điền (BFC) báo cáo lợi nhuận giảm sốc trong quý II/2026 sau khi ghi nhận tăng trưởng tích cực trong quý I. Doanh thu thuần đạt hơn 1.724 tỷ đồng, giảm gần 52% so với cùng kỳ năm trước. Lợi nhuận gộp chỉ còn 220 tỷ đồng khi giảm giá vốn hàng bán không đủ bù đắp mức sụt giảm doanh thu.
+
+- Số liệu chính: Net revenue Q2/2026: 1.724 trillion dong VND; Revenue decline YoY: 52% %; Gross profit Q2/2026: 220 billion dong VND
+- Nguồn: [CafeF](https://cafef.vn/phan-bon-binh-dien-bfc-bao-lai-giam-soc-trong-quy-ii-188260725232433928.chn)
 
 **Ngân hàng đầu tiên báo lỗ trong quý 2/2026**  
 
@@ -136,21 +143,14 @@ Ngân hàng TMCP Á Châu (ACB) báo cáo lợi nhuận trước thuế hợp nh
 - Số liệu chính: Consolidated pre-tax profit (H1 2026): over 10,700 billion dong billion VND
 - Nguồn: [CafeF](https://cafef.vn/acb-dat-loi-nhuan-hon-10700-ty-dong-trong-6-thang-dau-nam-2026-ban-le-va-sme-hoi-phuc-tich-cuc-188260722111520747.chn)
 
-**Từ UPCoM lên HOSE: Cột mốc mới trong hành trình phát triển của BVBank**  
-
-Ngày 21/7/2026, BVBank chính thức niêm yết cổ phiếu BVB trên HOSE, trở thành ngân hàng tiếp theo gia nhập sàn giao dịch chứng khoán lớn nhất Việt Nam. Sau nhiều năm chuẩn bị, cổ phiếu của Ngân hàng TMCP Bản Việt bắt đầu giao dịch trên Sở Giao dịch Chứng khoán TP.HCM. Sự kiện này không chỉ là thay đổi địa chỉ niêm yết mà còn đánh dấu một bước tiến quan trọng trong chiến lược phát triển của ngân hàng.
-
-- Số liệu chính: Listing date: July 21, 2026
-- Nguồn: [CafeF](https://cafef.vn/tu-upcom-len-hose-cot-moc-moi-trong-hanh-trinh-phat-trien-cua-bvbank-188260722113207478.chn)
-
-**F88 báo lãi quý 2/2026 tăng trưởng 102% lên 303 tỷ đồng**  
-
-F88 báo cáo lợi nhuận sau thuế quý 2/2026 đạt 303 tỷ đồng, tăng trưởng 102% so với cùng kỳ năm trước. Công ty đạt mức giải ngân cho vay cao kỷ lục, với mảng bảo hiểm tiếp tục tăng tốc. Ba kênh phân phối chính góp phần vào sự tăng trưởng của công ty trong nửa đầu năm 2026, với các cửa hàng vật lý mở rộng lên 976 phòng giao dịch trên toàn quốc và thu hút khoảng 89.000 khách hàng mới.
-
-- Số liệu chính: Q2 2026 after-tax profit: 303 billion VND; Year-over-year profit growth: 102 %; Physical store locations nationwide: 976 transaction points; New customers attracted: 89,000 customers
-- Nguồn: [CafeF](https://cafef.vn/f88-bao-lai-quy-2-2026-tang-truong-102-len-303-ty-dong-188260722181302077.chn)
-
 ## Kinh tế vĩ mô
+
+**Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất**  
+
+Dư nợ toàn nền kinh tế Việt Nam vượt 20 triệu tỷ đồng theo cập nhật của đại diện Ngân hàng Nhà nước. Chỉ trong nửa đầu năm, hệ thống ngân hàng cung ứng thêm khoảng 1,46 triệu tỷ đồng cho nền kinh tế nhằm hỗ trợ sản xuất, kinh doanh và thúc đẩy tăng trưởng.
+
+- Số liệu chính: Total economic outstanding debt: Over 20 million billion Vietnamese dong; Additional credit supplied in first half of year: Approximately 1.46 million billion Vietnamese dong
+- Nguồn: [CafeF](https://cafef.vn/du-no-toan-nen-kinh-te-vuot-20-trieu-ty-dong-dai-dien-ngan-hang-nha-nuoc-cap-nhat-so-lieu-tang-truong-tin-dung-moi-nhat-18826072615195886.chn)
 
 **Việt Nam - &#039;qu&aacute;n qu&acirc;n&#039; FDI  Đ&ocirc;ng Nam &Aacute;**  
 
