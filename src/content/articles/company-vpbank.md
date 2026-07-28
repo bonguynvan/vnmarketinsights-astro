@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (37 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Xuất hiện một nhà đầu tư cá nhân nắm giữ lượng lớn cổ phiếu ngân hàng, giàu hơn cả ông Đặng Khắc Vỹ và Lương Trí Thìn trên sàn chứng khoán**  
+
+A private investor has emerged in VPBank's list of shareholders holding at least 1% of charter capital, acquiring more than 98 million VPB shares. This investor's shareholding in the banking sector exceeds that of known wealthy individuals Đặng Khắc Vỹ and Lương Trí Thìn in the stock market. The development marks a significant concentration of banking sector ownership among Vietnam's top shareholders.
+
+- Source: [CafeF](https://cafef.vn/xuat-hien-mot-nha-dau-tu-ca-nhan-nam-giu-luong-lon-co-phieu-ngan-hang-giau-hon-ca-ong-dang-khac-vy-va-luong-tri-thin-tren-san-chung-khoan-188260728233536936.chn)
 
 **Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...**  
 
@@ -79,18 +85,12 @@ Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, an
 
 - Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
-**Chủ tịch Vietcombank: Các ngân hàng không dư vốn để cung ứng cho rất nhiều dự án lớn trong thời gian tới**  
-
-Vietcombank's chairman stated that Vietnamese banks lack sufficient capital to fund numerous large-scale projects in the near term. He proposed that the Ministry of Finance could issue international bonds, which he believes would secure favorable interest rates given Vietnam's current creditworthiness, rather than having enterprises source funding independently. Six banks (Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank) have provided over 27,000 billion dong in loans for projects led by Tập đoàn Đèo Cả, Tasco, and CII.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-vietcombank-cac-ngan-hang-khong-du-von-de-cung-ung-cho-rat-nhieu-du-an-lon-trong-thoi-gian-toi-188260718154951901.chn)
-
 ## Related coverage
 
 - [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---
 

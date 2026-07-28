@@ -1,17 +1,23 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm**  
+
+BVBank reported pretax profit of over 547 billion Vietnamese dong in the first half of 2026, nearly 5 times higher than the same period in the previous year, driven by significant growth in the second quarter. The bank has completed 80% of its full-year profit plan as of mid-2026. BVBank showed improvements across asset scale, core income, and operational efficiency during the period when its stock transitioned to listing on HoSE.
+
+- Source: [CafeF](https://cafef.vn/bvbank-loi-nhuan-6-thang-cao-gap-gan-5-lan-cung-ky-hoan-thanh-80-ke-hoach-ca-nam-188260728171846251.chn)
 
 **Từ UPCoM lên HOSE: Cột mốc mới trong hành trình phát triển của BVBank**  
 
@@ -79,18 +85,12 @@ BVBank has completed more than a decade of "foundation-building" strategy and is
 
 - Source: [CafeF](https://cafef.vn/bvbank-mot-thap-ky-xay-nen-mot-chu-ky-tang-truong-moi-188260709145837117.chn)
 
-**Điều gì đứng sau sự chuyển động ấn tượng của BVBank?**  
-
-BVBank is experiencing steady growth across asset size, credit, and profitability metrics. The bank's development strategy is built on pillars including retail banking, SME customers, digital transformation, and risk management. After years of operational restructuring and technology platform investments, BVBank is entering a phase of accelerated growth.
-
-- Source: [CafeF](https://cafef.vn/dieu-gi-dung-sau-su-chuyen-dong-an-tuong-cua-bvbank-188260703165026165.chn)
-
 ## Related coverage
 
 - [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
-- [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
-- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 - [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
+- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
+- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 
 ---
 

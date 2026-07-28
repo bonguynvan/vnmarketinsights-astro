@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...**  
+
+Major Vietnamese gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải adjusted prices downward on the afternoon of July 28. Gold bar prices on the market currently range from 137.5 to 141.5 million VND per tael, declining 1.5 million VND per tael compared to the morning. The bid-ask spread for gold bars and plain gold rings stands at approximately 3-4 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn)
 
 **Chiều tối 27/7: Giá vàng miếng, vàng nhẫn trơn tại Mi Hồng bất ngờ đảo chiều**  
 
@@ -78,12 +84,6 @@ Domestic gold prices declined sharply in the previous week due to global gold pr
 Domestic gold prices rebounded on July 18th after declining in the previous trading session. Gold bar prices showed varied adjustments across different businesses. Price movements differed between companies in the bullion segment.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-18-7-1882607180738565.chn)
-
-**Giá vàng miếng SJC, vàng nhẫn ngày 16/7**  
-
-Domestic gold prices in Vietnam adjusted downward slightly on the morning of July 16, 2026. SJC gold bars decreased 300,000 VND/tael in both buy and sell prices compared to the start of the day, falling to 145.2 million VND. Gold ring prices at major dealers including SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and DOJI also showed declines.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-16-7-188260716071512571.chn)
 
 ## Related coverage
 

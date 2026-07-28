@@ -1,69 +1,235 @@
 {
-  "generatedAt": "2026-07-27T23:59:03.689369+00:00",
+  "generatedAt": "2026-07-28T23:54:28.218562+00:00",
   "topics": {
     "regulations": [
       {
-        "title": "Công an điều tra giao dịch gần 1.200 tỷ đồng: Khởi tố Nguyễn Công Võ cùng 23 người khác",
-        "url": "https://cafef.vn/cong-an-dieu-tra-giao-dich-gan-1200-ty-dong-khoi-to-nguyen-cong-vo-cung-23-nguoi-khac-188260726202924969.chn",
+        "title": "Một đồng vốn sẽ không còn đi qua hai quy trình?",
+        "url": "https://cafef.vn/mot-dong-von-se-khong-con-di-qua-hai-quy-trinh-188260728072739556.chn",
         "source": "CafeF",
-        "summary_en": "Police in Quang Ngai province have initiated prosecutions against 24 individuals, including Nguyen Cong Vo and Nguyen Duc Nghiem, for involvement in a large-scale football betting ring. The investigation concerns transactions totaling nearly 1.2 trillion dong. The law enforcement agency announced the charges on July 26.",
-        "summary_vn": "Cảnh sát tỉnh Quảng Ngãi đã khởi tố 24 người, trong đó có Nguyễn Công Võ và Nguyễn Đức Nghiêm, liên quan đến đường dây cá độ bóng đá quy mô lớn. Cuộc điều tra liên quan đến các giao dịch với tổng giá trị gần 1.200 tỷ đồng. Cơ quan cảnh sát điều tra công bố quyết định này vào ngày 26/7.",
-        "pubDate": "Mon, 27 Jul 26 07:10:00 +0700",
-        "sentiment": -0.8,
+        "summary_en": "Vietnam's National Assembly Standing Committee reviewed a consolidated State Budget Law draft on July 27, proposing to integrate budget and public investment procedures to eliminate the requirement for capital to go through two concurrent legal processes. The proposal aims to streamline the system while authorities have emphasized the need for stronger power control mechanisms and effectiveness evaluation alongside decentralization efforts.",
+        "summary_vn": "Chiều 27/7, Ủy ban Thường vụ Quốc hội cho ý kiến về dự án Luật Ngân sách nhà nước (hợp nhất), đề xuất tích hợp quy trình ngân sách và đầu tư công nhằm xóa bỏ tình trạng một khoản vốn phải thực hiện đồng thời hai hệ thống thủ tục pháp lý. Việc đẩy mạnh phân cấp, phân quyền cũng được yêu cầu phải kèm theo cơ chế kiểm soát quyền lực và đánh giá hiệu quả đầu tư công.",
+        "pubDate": "Tue, 28 Jul 26 07:27:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Vì sao cựu Chủ tịch Vĩnh Phúc Lê Duy Thành được trả lại hơn 21 tỷ đồng và 330.000 USD?",
-        "url": "https://cafef.vn/vi-sao-cuu-chu-tich-vinh-phuc-le-duy-thanh-duoc-tra-lai-hon-21-ty-dong-va-330000-usd-188260727150302648.chn",
+        "title": "Phân cấp thẩm quyền kiểm tra chuyên ngành lĩnh vực hải quan, kế toán, kiểm toán, chứng khoán, bảo hiểm",
+        "url": "https://cafef.vn/phan-cap-tham-quyen-kiem-tra-chuyen-nganh-linh-vuc-hai-quan-ke-toan-kiem-toan-chung-khoan-bao-hiem-188260728093434928.chn",
         "source": "CafeF",
-        "summary_en": "Former Vinh Phuc Provincial People's Committee Chairman Lê Duy Thành was returned over 21 billion VND and 330,000 USD after completing his civil enforcement obligations. Legal experts note that seized or voluntarily surrendered funds during litigation proceedings are not automatically subject to confiscation under legal principles. Funds that cannot be proven as illegally obtained must be returned to the person involved.",
-        "summary_vn": "Cựu Chủ tịch UBND tỉnh Vĩnh Phúc Lê Duy Thành được hoàn trả hơn 21 tỷ đồng và 330.000 USD sau khi hoàn thành nghĩa vụ thi hành án dân sự. Các luật sư cho rằng theo nguyên tắc pháp lý, tiền bị thu giữ hoặc tự nguyện giao nộp trong quá trình tố tụng không mặc nhiên bị tịch thu. Các khoản tiền không chứng minh được là bất chính phải được trả lại cho người liên quan.",
-        "pubDate": "Mon, 27 Jul 26 15:03:00 +0700",
+        "summary_en": "The Ministry of Finance issued Circular 104/2026/TT-BTC defining the delegation of authority and procedures for specialized inspections in several state management sectors under the Ministry. The circular covers specialized inspections in the fields of customs, accounting, auditing, securities, and insurance. This delegation establishes a structured framework for conducting inspections across these regulated sectors.",
+        "summary_vn": "Bộ Tài chính ban hành Thông tư số 104/2026/TT-BTC quy định phân cấp thẩm quyền và quy trình kiểm tra chuyên ngành trong các lĩnh vực quản lý nhà nước. Thông tư này bao gồm phân cấp thẩm quyền kiểm tra trong các lĩnh vực hải quan, kế toán, kiểm toán, chứng khoán và bảo hiểm. Đây là một khung pháp lý nhằm thiết lập quy trình kiểm tra chuyên ngành có cấu trúc rõ ràng trong các lĩnh vực này.",
+        "pubDate": "Tue, 28 Jul 26 09:34:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Chủ tịch Techcom Insurance Ông Pranav Seth: Bảo hiểm bổ sung là mảnh ghép quan trọng để hoàn thiện hệ thống bảo vệ sức khỏe toàn dân",
+        "url": "https://cafef.vn/chu-tich-techcom-insurance-ong-pranav-seth-bao-hiem-bo-sung-la-manh-ghep-quan-trong-de-hoan-thien-he-thong-bao-ve-suc-khoe-toan-dan-188260728120152615.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam is approaching universal health insurance coverage at approximately 95%, but citizens still bear around 40% of healthcare costs out-of-pocket, which exceeds WHO recommendations. Techcom Insurance Chairman Pranav Seth states that supplementary insurance is essential to bridge the gap between having insurance and being fully protected against financial risks. The company views supplementary insurance as a critical component to complete Vietnam's national health protection system.",
+        "summary_vn": "Việt Nam đang tiến gần mục tiêu bảo hiểm y tế toàn dân với tỷ lệ bao phủ khoảng 95%, nhưng người dân vẫn phải tự chi trả khoảng 40% chi phí khám chữa bệnh, vượt quá khuyến nghị của WHO. Chủ tịch Techcom Insurance Ông Pranav Seth cho rằng bảo hiểm bổ sung là mảnh ghép quan trọng để thu hẹp khoảng cách giữa \"có bảo hiểm\" và \"được bảo vệ đầy đủ trước rủi ro tài chính\". Công ty coi bảo hiểm bổ sung là thành phần thiết yếu để hoàn thiện hệ thống bảo vệ sức khỏe toàn dân Việt Nam.",
+        "pubDate": "Tue, 28 Jul 26 12:30:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Trong vòng 4 ngày, một ngân hàng Việt chấm dứt hoạt động 9 chi nhánh tại nhiều tỉnh, thành phố",
+        "url": "https://cafef.vn/trong-vong-4-ngay-mot-ngan-hang-vietcham-dut-hoat-dong-9-chi-nhanh-tai-nhieu-tinh-thanh-pho-188260728161322819.chn",
+        "source": "CafeF",
+        "summary_en": "A Vietnamese bank has closed 9 branches across multiple provinces and cities within a 4-day period. Customer rights and transactions at these branches remain protected through designated transaction points. The bank is consolidating its branch network as part of operational adjustments.",
+        "summary_vn": "Một ngân hàng Việt Nam đã chấm dứt hoạt động 9 chi nhánh ở nhiều tỉnh, thành phố trong vòng 4 ngày. Quyền lợi và giao dịch của khách hàng tại các chi nhánh này vẫn được bảo đảm thông qua các điểm giao dịch được chỉ định. Ngân hàng đang sắp xếp lại mạng lưới chi nhánh của mình như một phần trong điều chỉnh hoạt động.",
+        "pubDate": "Tue, 28 Jul 26 16:14:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Bộ trang sức kim cương của bà Trương Mỹ Lan được định giá bao nhiêu tiền?",
+        "url": "https://cafef.vn/bo-trang-suc-kim-cuong-cua-ba-truong-my-lan-duoc-dinh-gia-bao-nhieu-tien-188260728161844658.chn",
+        "source": "CafeF",
+        "summary_en": "A diamond jewelry set belonging to Trương Mỹ Lan has been appraised in preparation for asset auction proceedings. The auction of Hermès bags previously owned by Trương Mỹ Lan, which she claimed had minimal value, generated proceeds exceeding 14 billion Vietnamese Dong. The case involves the Civil Enforcement Department of Ho Chi Minh City managing the asset liquidation process.",
+        "summary_vn": "Bộ trang sức kim cương của bà Trương Mỹ Lan vừa được thẩm định giá để chuẩn bị đấu giá thi hành án. Những chiếc túi Hermès từng được bà Trương Mỹ Lan cho rằng \"không có giá trị bao nhiêu\" đã đấu giá thu về hơn 14 tỉ đồng. Cục Thi hành án dân sự TPHCM đang quản lý quá trình thanh lý tài sản liên quan đến vụ án.",
+        "pubDate": "Tue, 28 Jul 26 16:21:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Ngân hàng Nhà nước Khu vực 2 có thông tin đáng chú ý về vi phạm trong lĩnh vực kim cương",
-        "url": "https://cafef.vn/ngan-hang-nha-nuoc-khu-vuc-2-co-thong-tin-dang-chu-y-ve-vi-pham-trong-linh-vuc-kim-cuong-188260727145228137.chn",
+        "title": "'Nữ quái' dựng kịch bản lừa góp vốn kinh doanh, chiếm đoạt hơn 10 tỷ đồng",
+        "url": "https://cafef.vn/nu-quai-dung-kich-ban-lua-gop-von-kinh-doanh-chiem-doat-hon-10-ty-dong-188260728213426454.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank's Region 2 branch has noted concerns about violations in the diamond sector. Officials have cautioned against conflating violations by certain individuals or organizations with the entire jewelry and handicraft production and trading activities in the region. On July 27, Trần Thị Ngọc Liên, Deputy Director of the State Bank's Region 2 branch (covering Ho Chi Minh City and Dong Nai), discussed recent information related to certain violations.",
-        "summary_vn": "Ngân hàng Nhà nước Khu vực 2 đã lưu ý những lo ngại về các vi phạm trong lĩnh vực kim cương. Các quan chức đã cảnh báo không nên đồng nhất các vi phạm của một số cá nhân hoặc tổ chức với toàn bộ hoạt động sản xuất và kinh doanh vàng trang sức, mỹ nghệ trong khu vực. Ngày 27/7, Phó giám đốc Ngân hàng Nhà nước chi nhánh Khu vực 2 Trần Thị Ngọc Liên thảo luận về các thông tin liên quan đến những vi phạm nào đó.",
-        "pubDate": "Mon, 27 Jul 26 16:51:00 +0700",
+        "summary_en": "Nguyễn Thị Kiều Vân, born in 1988 and residing in Đà Nẵng, has been charged with fraud and asset misappropriation by the Đà Nẵng City Police Investigation Agency. Using schemes to solicit investment capital in business ventures, she allegedly defrauded and misappropriated over 10 billion Vietnamese Dong. Movement restrictions have been imposed on her as an investigative measure.",
+        "summary_vn": "Nguyễn Thị Kiều Vân, sinh năm 1988 và cư trú tại Đà Nẵng, đã bị Cơ quan Cảnh sát điều tra Công an TP Đà Nẵng ra quyết định khởi tố về tội \"Lừa đảo chiếm đoạt tài sản\". Bằng các thủ đoạn kêu gọi góp vốn kinh doanh, cô ta đã chiếm đoạt tổng số tiền hơn 10 tỷ đồng. Biện pháp cấm đi khỏi nơi cư trú đã được áp dụng để phục vụ công tác điều tra.",
+        "pubDate": "Tue, 28 Jul 26 21:34:00 +0700",
+        "sentiment": -1.0,
+        "importance": 3
+      }
+    ],
+    "consumers": [
+      {
+        "title": "Xu hướng “Wealth Lifestyle”: Tài sản không chỉ sinh lời mà còn kiến tạo trải nghiệm sống",
+        "url": "https://cafef.vn/xu-huong-wealth-lifestyle-tai-san-khong-chi-sinh-loi-ma-con-kien-tao-trai-nghiem-song-188260727144155259.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam is increasingly becoming a second home for foreign experts and workers, whose financial needs are shifting beyond basic payments and transfers. Foreign customers are seeking solutions that optimize idle funds in Vietnam while aligning with a mobile lifestyle and high service quality standards. This trend reflects a broader \"Wealth Lifestyle\" movement where assets generate both returns and meaningful living experiences.",
+        "summary_vn": "Việt Nam ngày càng trở thành ngôi nhà thứ hai của cộng đồng chuyên gia và lao động nước ngoài, với nhu cầu tài chính chuyển dịch rõ nét. Khách hàng nước ngoài không chỉ cần dịch vụ thanh toán hay chuyển khoản mà còn tìm kiếm giải pháp tối ưu nguồn tiền nhàn rỗi tại Việt Nam. Các giải pháp này cần phù hợp với phong cách sống di động và yêu cầu cao về chất lượng dịch vụ, phản ánh xu hướng \"Wealth Lifestyle\" toàn cầu.",
+        "pubDate": "Tue, 28 Jul 26 07:59:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...",
+        "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn",
+        "source": "CafeF",
+        "summary_en": "Major Vietnamese gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải adjusted prices downward on the afternoon of July 28. Gold bar prices on the market currently range from 137.5 to 141.5 million VND per tael, declining 1.5 million VND per tael compared to the morning. The bid-ask spread for gold bars and plain gold rings stands at approximately 3-4 million VND per tael.",
+        "summary_vn": "Các nhà bán lẻ vàng lớn ở Việt Nam bao gồm SJC, PNJ, DOJI, Bảo Tín Minh Châu, và Bảo Tín Mạnh Hải đã điều chỉnh giảm giá vào chiều ngày 28/7. Giá vàng miếng trên thị trường hiện dao động từ 137,5 đến 141,5 triệu đồng/lượng, giảm 1,5 triệu đồng/lượng so với buổi sáng. Chênh lệch giá mua-bán vàng miếng và vàng nhẫn trơn ở mức khoảng 3-4 triệu đồng/lượng.",
+        "pubDate": "Tue, 28 Jul 26 14:44:00 +0700",
+        "sentiment": -0.2,
+        "importance": 2
+      },
+      {
+        "title": "'Chưa có người dân nào phản ánh về việc khó bán lại kim cương'",
+        "url": "https://cafef.vn/chua-co-nguoi-dan-nao-phan-anh-ve-viec-kho-ban-lai-kim-cuong-188260728142621621.chn",
+        "source": "CafeF",
+        "summary_en": "A representative of the Vietnam Consumer Protection Association stated on July 28 that no complaints have been filed by consumers about difficulty reselling diamonds. Multiple diamond shops in Ho Chi Minh City have closed or suspended operations. The Ho Chi Minh City Jewelry and Gemstone Association (SJA) reported that at least 30 businesses in the diamond, gold, and gemstone sectors have left the market in recent times.",
+        "summary_vn": "Đại diện Hội Bảo vệ người tiêu dùng Việt Nam cho biết vào ngày 28/7 rằng chưa có khiếu nại nào từ người tiêu dùng về khó bán lại kim cương. Nhiều cửa hàng kim cương tại TP.HCM đã đóng cửa hoặc tạm dừng hoạt động. Hội Mỹ nghệ kim hoàn đá quý TP.HCM (SJA) thống kê rằng ít nhất 30 doanh nghiệp kinh doanh kim cương, vàng, đá quý đã rời bỏ thị trường trong thời gian gần đây.",
+        "pubDate": "Tue, 28 Jul 26 14:52:00 +0700",
         "sentiment": -0.3,
         "importance": 2
       },
       {
-        "title": "Tin vui: Người nộp thuế sắp được hưởng nhiều lợi ích thiết thực từ cơ sở pháp lý mới tại Thông tư 89",
-        "url": "https://cafef.vn/tin-vui-nguoi-nop-thue-sap-duoc-huong-nhieu-loi-ich-thiet-thuc-tu-co-so-phap-ly-moi-tai-thong-tu-89-188260727101153002.chn",
+        "title": "Nhiều tiệm vàng tại TPHCM đóng cửa, giao dịch trầm lắng",
+        "url": "https://cafef.vn/nhieu-tiem-vang-tai-tphcm-dong-cua-giao-dich-tram-lang-188260728163148889.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's Ministry of Finance issued Circular 89/2026/TT-BTC on June 30 to implement tax inspection procedures in electronic form, aiming to save time and costs while improving management efficiency and taxpayer services. This is the first regulation establishing electronic tax inspection methods under Law 108/2025/QH15. The measure seeks to provide practical benefits to taxpayers through the new legal framework.",
-        "summary_vn": "Ngày 30/6, Bộ Tài chính ban hành Thông tư số 89/2026/TT-BTC để hướng dẫn thi hành kiểm tra thuế bằng phương thức điện tử, nhằm tiết kiệm thời gian, chi phí và nâng cao hiệu quả quản lý cũng như dịch vụ cho người nộp thuế. Đây là lần đầu tiên có quy định về kiểm tra thuế trên môi trường điện tử theo Luật Quản lý thuế số 108/2025/QH15. Biện pháp này nhằm mang lại những lợi ích thiết thực cho người nộp thuế thông qua cơ sở pháp lý mới.",
-        "pubDate": "Mon, 27 Jul 26 10:11:00 +0700",
-        "sentiment": 0.6,
-        "importance": 3
+        "summary_en": "Multiple jewelry and gold shops in Ho Chi Minh City have closed their doors, with those still operating experiencing quiet business activity. The reporting captured on July 28 documents a slowdown in the traditional jewelry retail sector across major commercial hubs in the city. No specific reasons for the closures or trading stagnation are detailed in the excerpt.",
+        "summary_vn": "Nhiều tiệm vàng và cửa hàng trang sức tại TPHCM đã đóng cửa, những nơi còn hoạt động cũng vắng khách. Ghi nhận ngày 28-7 cho thấy tình trạng này diễn ra tại các khu kinh doanh truyền thống của thành phố. Các chi tiết cụ thể về nguyên nhân của sự đóng cửa và sự trầm lắng trong giao dịch không được nêu rõ trong đoạn trích này.",
+        "pubDate": "Tue, 28 Jul 26 16:42:00 +0700",
+        "sentiment": -0.6,
+        "importance": 2
       },
       {
-        "title": "Thông tin quan trọng về đăng ký tạm trú, tất cả người dân cần biết để tránh bị   phạt",
-        "url": "https://cafef.vn/thong-tin-quan-trong-ve-dang-ky-tam-tru-tat-ca-nguoi-dan-can-biet-de-tranh-bi-phat-188260727110707048.chn",
+        "title": "TP. Hồ Chí Minh đề xuất nâng mức trần thu nhập có thể mua nhà ở xã hội lên 60 triệu đồng/tháng",
+        "url": "https://cafef.vn/tp-ho-chi-minh-de-xuat-nang-muc-tran-thu-nhap-co-the-mua-nha-o-xa-hoi-len-60-trieu-dong-thang-188260728134208448.chn",
         "source": "CafeF",
-        "summary_en": "Police authorities have advised citizens to strictly comply with temporary residence registration on the system according to legal regulations to avoid administrative penalties. The article addresses important information about temporary residence registration that all citizens need to know. The source focuses on regulatory compliance requirements for residence registration.",
-        "summary_vn": "Cơ quan công an khuyến cáo người dân cần thực hiện nghiêm việc khai báo tạm trú trên hệ thống theo đúng quy định của pháp luật để tránh bị xử phạt hành chính. Bài viết cung cấp thông tin quan trọng về đăng ký tạm trú mà tất cả người dân cần biết. Nguồn tập trung vào các yêu cầu tuân thủ quy định về đăng ký tạm trú.",
-        "pubDate": "Mon, 27 Jul 26 11:07:00 +0700",
+        "summary_en": "Ho Chi Minh City has proposed raising the income ceiling for purchasing social housing to a maximum of 60 million VND per month for households with three or more dependents. The proposal aims to expand access to affordable social housing for middle-income families. The specific implementation timeline and approval status are not detailed in the source excerpt.",
+        "summary_vn": "TP. Hồ Chí Minh đề xuất nâng mức trần thu nhập để mua nhà ở xã hội lên tối đa 60 triệu đồng/tháng đối với hộ gia đình có từ 3 người phụ thuộc trở lên. Đề xuất nhằm mở rộng quyền tiếp cận nhà ở xã hội giá rẻ cho các gia đình thu nhập trung bình. Thời gian triển khai cụ thể và tình trạng phê duyệt không được nêu chi tiết trong đoạn trích.",
+        "pubDate": "Tue, 28 Jul 26 14:06:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Chủ hộ kinh doanh đóng BHXH bắt buộc mức nào?",
-        "url": "https://cafef.vn/chu-ho-kinh-doanh-dong-bhxh-bat-buoc-muc-nao-188260727133258131.chn",
+        "title": "Cảnh tượng khó tin tại \"thủ phủ\" vàng bạc, đá quý TP.HCM: Hàng loạt cửa tiệm đóng cửa, treo biển tạm nghỉ vì \"nhà có việc\", \"để sửa chữa\"",
+        "url": "https://cafef.vn/canh-tuong-kho-tin-tai-thu-phu-vang-bac-da-quy-tphcm-hang-loat-cua-tiem-dong-cua-treo-bien-tam-nghi-vi-nha-co-viec-de-sua-chua-188260727153813197.chn",
         "source": "CafeF",
-        "summary_en": "From July 1, 2025, registered household business owners are required to participate in mandatory social insurance according to Law 41/2024/QH15. Household business owners can choose their own salary level as the basis for calculating insurance contributions. The Ho Chi Minh City Social Insurance Agency provided guidance in response to an inquiry about mandatory social insurance requirements for household business owners.",
-        "summary_vn": "Từ ngày 1/7/2025, chủ hộ kinh doanh có đăng ký kinh doanh sẽ trở thành đối tượng bắt buộc tham gia BHXH theo Luật BHXH số 41/2024/QH15. Chủ hộ kinh doanh được lựa chọn mức tiền lương làm căn cứ tính đóng bảo hiểm. Cục Bảo hiểm xã hội Thành phố Hồ Chí Minh đã cung cấp hướng dẫn về vấn đề này.",
-        "pubDate": "Mon, 27 Jul 26 13:44:00 +0700",
+        "summary_en": "Many jewelry and precious stone shops in Ho Chi Minh City's An Dong Market have closed or suspended operations due to market volatility in the diamond market. Remaining open shops experience sparse customer traffic and subdued trading atmosphere. The closures are attributed to recent market disturbances affecting the precious metals and gemstone sector.",
+        "summary_vn": "Nhiều cửa hàng vàng bạc, đá quý tại chợ An Đông TP.HCM đã đóng cửa hoặc tạm ngừng hoạt động do biến động thị trường kim cương gần đây. Các tiệm còn mở cửa đang trải qua tình trạng vắng khách và không khí mua bán trầm lắng. Các đóng cửa được cho là do những biến động gần đây trên thị trường kim cương ảnh hưởng đến ngành vàng bạc, đá quý.",
+        "pubDate": "Mon, 27 Jul 26 16:15:00 +0700",
+        "sentiment": -0.6,
+        "importance": 2
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "Thu nhập nhân viên LPBank tăng mạnh",
+        "url": "https://cafef.vn/thu-nhap-nhan-vien-lpbank-tang-manh-188260728080904586.chn",
+        "source": "CafeF",
+        "summary_en": "LPBank employees' average income in the first half of 2026 reached nearly 37 million VND per month, up over 37% year-on-year. Average wages specifically increased nearly 40% to 33.86 million VND per month. LPBank's stock price surged following the announcement of a new shareholder list on July 27.",
+        "summary_vn": "Thu nhập bình quân của nhân viên LPBank trong 6 tháng đầu năm 2026 đạt gần 37 triệu đồng/tháng, tăng hơn 37% so với cùng kỳ. Tiền lương bình quân riêng tăng gần 40%, lên 33,86 triệu đồng/tháng. Cổ phiếu LPBank tăng vọt sau khi danh sách cổ đông mới được công bố vào ngày 27/7.",
+        "pubDate": "Tue, 28 Jul 26 08:07:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Sáng ngày 28/7: Giá bạc giảm hơn 2 triệu đồng, giao dịch trên 58 triệu đồng/kg",
+        "url": "https://cafef.vn/sang-ngay-28-7-gia-bac-giam-hon-2-trieu-dong-giao-dich-tren-58-trieu-dong-kg-188260728073145742.chn",
+        "source": "CafeF",
+        "summary_en": "Silver prices fell more than 2 million dong per kilogram on the morning of July 28, trading above 58 million dong/kg domestically. Global silver prices traded around 57.3 USD/ounce, down more than 2 USD/ounce compared to the previous morning. Gold prices also declined, trading around 4,045 USD/ounce, down 55 USD/ounce from the previous day.",
+        "summary_vn": "Giá bạc giảm hơn 2 triệu đồng/kg vào sáng 28/7, giao dịch trên 58 triệu đồng/kg trong nước. Giá bạc thế giới giao dịch quanh 57,3 USD/ounce, giảm hơn 2 USD/ounce so với sáng hôm trước. Giá vàng cũng giảm, giao dịch quanh 4.045 USD/ounce, giảm 55 USD/ounce.",
+        "pubDate": "Tue, 28 Jul 26 10:41:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
+      {
+        "title": "GPBank ghi nhận bước chuyển mình mạnh mẽ trong 6 tháng đầu năm 2026",
+        "url": "https://cafef.vn/gpbank-ghi-nhan-buoc-chuyen-minh-manh-me-trong-6-thang-dau-nam-2026-188260728102852913.chn",
+        "source": "CafeF",
+        "summary_en": "GPBank has achieved significant transformation progress in the first half of 2026 following over a year of comprehensive reform implementation. The bank has improved business metrics while modernizing its technology platform, expanding product ecosystem, restructuring its network, and enhancing operational capabilities. These results indicate that GPBank's transformation is proceeding according to its strategic direction.",
+        "summary_vn": "GPBank ghi nhận những tiến bộ đáng kể trong quá trình chuyển đổi trong nửa đầu năm 2026 sau hơn một năm triển khai cải cách toàn diện. Ngân hàng đã cải thiện các chỉ tiêu kinh doanh trong khi hiện đại hóa nền tảng công nghệ, mở rộng hệ sinh thái sản phẩm, tái cấu trúc mạng lưới và nâng cao năng lực vận hành. Những kết quả này cho thấy quá trình chuyển đổi tại GPBank đang tuân theo định hướng chiến lược.",
+        "pubDate": "Tue, 28 Jul 26 11:00:00 +0700",
+        "sentiment": 0.7,
+        "importance": 3
+      },
+      {
+        "title": "Ngày 28/7: Tỷ giá trung tâm tăng 13 đồng",
+        "url": "https://cafef.vn/ngay-28-7-ty-gia-trung-tam-tang-13-dong-188260728101935802.chn",
+        "source": "CafeF",
+        "summary_en": "On July 28, the State Bank of Vietnam announced a central exchange rate of 25.306 VND/USD, an increase of 13 dong from the previous session and marking the highest level since the central rate mechanism was implemented. Exchange rates at commercial banks also rose, typically by 10-15 dong compared to the previous day. With a trading band of ±5%, commercial banks are permitted to trade USD within the range of 24.040-26.571 VND/USD.",
+        "summary_vn": "Ngày 28/7, Ngân hàng Nhà nước công bố tỷ giá trung tâm của đồng Việt Nam với USD ở mức 25.306 đồng/USD, tăng 13 đồng so với phiên trước và là mức cao nhất kể từ khi cơ chế tỷ giá trung tâm được áp dụng. Tỷ giá tại các ngân hàng thương mại cũng tăng, phổ biến 10-15 đồng so với hôm qua. Với biên độ giao dịch ±5%, các ngân hàng thương mại được phép giao dịch USD trong khoảng 24.040-26.571 đồng/USD.",
+        "pubDate": "Tue, 28 Jul 26 11:15:00 +0700",
         "sentiment": 0.0,
         "importance": 3
+      },
+      {
+        "title": "Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới",
+        "url": "https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn",
+        "source": "CafeF",
+        "summary_en": "Techcombank reported a 22% profit increase year-over-year in Q2, marking record quarterly results. The bank is leveraging artificial intelligence as a strategic lever for a new growth cycle. Core income growth, particularly driven by fee income increases, combined with digital transformation and improved risk management capabilities contributed to the results.",
+        "summary_vn": "Techcombank ghi nhận tăng trưởng lợi nhuận 22% so với cùng kỳ năm trước trong quý 2, đạt kỷ lục mới. Ngân hàng sử dụng trí tuệ nhân tạo như một đòn bẩy chiến lược cho chu kỳ tăng trưởng mới. Sự tăng trưởng thu nhập cốt lõi, đặc biệt là từ tăng trưởng thu nhập phí, cùng với chuyển đổi số và cải thiện khả năng quản trị rủi ro đã góp phần vào kết quả này.",
+        "pubDate": "Tue, 28 Jul 26 11:21:00 +0700",
+        "sentiment": 0.8,
+        "importance": 4
+      },
+      {
+        "title": "BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm",
+        "url": "https://cafef.vn/bvbank-loi-nhuan-6-thang-cao-gap-gan-5-lan-cung-ky-hoan-thanh-80-ke-hoach-ca-nam-188260728171846251.chn",
+        "source": "CafeF",
+        "summary_en": "BVBank reported pretax profit of over 547 billion Vietnamese dong in the first half of 2026, nearly 5 times higher than the same period in the previous year, driven by significant growth in the second quarter. The bank has completed 80% of its full-year profit plan as of mid-2026. BVBank showed improvements across asset scale, core income, and operational efficiency during the period when its stock transitioned to listing on HoSE.",
+        "summary_vn": "BVBank ghi nhận lợi nhuận trước thuế hơn 547 tỷ đồng trong nửa đầu năm 2026, tăng gấp gần 5 lần cùng kỳ năm trước nhờ tăng trưởng đột phá ở quý II. Ngân hàng đã hoàn thành 80% kế hoạch lợi nhuận cả năm. BVBank thể hiện cải thiện rõ ràng trên quy mô tài sản, thu nhập cốt lõi và hiệu quả vận hành trong thời kỳ chuyển sang niêm yết trên HoSE.",
+        "pubDate": "Tue, 28 Jul 26 18:15:00 +0700",
+        "sentiment": 0.7,
+        "importance": 4
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Ngân hàng ồ ạt huy động chứng chỉ tiền gửi: Có nơi tăng gấp đôi trong 6 tháng",
+        "url": "https://cafef.vn/ngan-hang-o-at-huy-dong-chung-chi-tien-gui-co-noi-tang-gap-doi-trong-6-thang-188260728143043866.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese banks have intensified their issuance of certificates of deposit (CDs) as fundraising competition becomes fiercer. In the second quarter, many banks saw strong growth in CD issuance while traditional savings deposits remained flat or declined slightly. These products are attracting customers due to high interest rates and flexibility, with the ability to trade on secondary markets.",
+        "summary_vn": "Các ngân hàng Việt Nam đang ồ ạt huy động chứng chỉ tiền gửi khi cạnh tranh huy động vốn ngày càng gay gắt. Trong quý 2, nhiều ngân hàng ghi nhận tăng trưởng mạnh mẽ về huy động CD trong khi tiền gửi tiết kiệm truyền thống đi ngang hoặc giảm nhẹ. Sản phẩm này thu hút khách nhờ lãi suất cao, linh hoạt và có thể giao dịch trên kênh thứ cấp.",
+        "pubDate": "Tue, 28 Jul 26 14:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Cái bắt tay trị giá 95 tỷ USD: Chương tiếp theo của Hàn Quốc tại Việt Nam mới chỉ bắt đầu",
+        "url": "https://cafef.vn/cai-bat-tay-tri-gia-95-ty-usd-chuong-tiep-theo-cua-han-quoc-tai-viet-nam-moi-chi-bat-dau-188260728103851016.chn",
+        "source": "CafeF",
+        "summary_en": "Samsung's initial 2008 investment in Bac Ninh province marked a turning point in bilateral relations between South Korea and Vietnam. Approximately half of Samsung smartphones sold globally are now manufactured in Vietnam. This foundational investment catalyzed a sustained bilateral partnership valued at $95 billion.",
+        "summary_vn": "Khoản đầu tư của Samsung tại tỉnh Bắc Ninh năm 2008 là một bước ngoặt trong quan hệ song phương giữa Hàn Quốc và Việt Nam. Hiện nay, khoảng một nửa số điện thoại thông minh Samsung bán ra trên toàn thế giới được sản xuất tại Việt Nam. Khoản đầu tư ban đầu này đã khơi dậy một mối quan hệ đối tác bền vững trị giá 95 tỷ USD.",
+        "pubDate": "Tue, 28 Jul 26 10:38:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
       }
     ],
     "payments": [
+      {
+        "title": "1 chạm mở tài khoản doanh nghiệp: Khi ngân hàng số hiểu đúng nhịp sống của chủ doanh nghiệp",
+        "url": "https://cafef.vn/1-cham-mo-tai-khoan-doanh-nghiep-khi-ngan-hang-so-hieu-dung-nhip-song-cua-chu-doanh-nghiep-188260728151205051.chn",
+        "source": "CafeF",
+        "summary_en": "VietinBank eFAST introduces a one-touch account opening feature for businesses using NFC-enabled smartphones, allowing entrepreneurs to open payment accounts and register services online without visiting a branch. The digital banking service leverages eKYC technology to streamline account opening for business customers. The feature is designed to accommodate busy business owners who need banking services while traveling, in meetings, or waiting for flights.",
+        "summary_vn": "VietinBank eFAST giới thiệu tính năng mở tài khoản doanh nghiệp chỉ cần một chạm bằng điện thoại thông minh có NFC, cho phép doanh nghiệp mở tài khoản thanh toán và đăng ký dịch vụ trực tuyến mà không cần tới chi nhánh. Dịch vụ ngân hàng số sử dụng công nghệ eKYC để đơn giản hóa quá trình mở tài khoản cho khách hàng doanh nghiệp. Tính năng này được thiết kế để đáp ứng nhu cầu của những doanh nhân bận rộn cần sử dụng dịch vụ ngân hàng khi đi lại, trong cuộc họp hoặc chờ máy bay.",
+        "pubDate": "Tue, 28 Jul 26 16:00:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "VietinBank cùng VNPAY đưa giải pháp nộp thuế số đến từng hộ kinh doanh",
+        "url": "https://cafef.vn/vietinbank-cung-vnpay-dua-giai-phap-nop-thue-so-den-tung-ho-kinh-doanh-188260728175042062.chn",
+        "source": "CafeF",
+        "summary_en": "VietinBank and VNPAY have partnered to deploy a digital tax payment solution targeted at small business households. The initiative aims to standardize business processes from revenue generation to tax declaration, helping businesses save time and effort in fulfilling tax obligations. The solution supports small business households seeking simpler and more accurate ways to meet their tax requirements.",
+        "summary_vn": "VietinBank và VNPAY đã hợp tác để triển khai giải pháp nộp thuế số cho các hộ kinh doanh. Sáng kiến nhằm chuẩn hóa quy trình kinh doanh từ phát sinh doanh thu đến kê khai thuế, giúp các hộ kinh doanh tiết kiệm thời gian và công sức khi thực hiện nghĩa vụ thuế. Giải pháp hỗ trợ các hộ kinh doanh tìm kiếm cách thức đơn giản và chính xác hơn để đáp ứng các yêu cầu thuế.",
+        "pubDate": "Tue, 28 Jul 26 19:30:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "Xu hướng “chia nhỏ” thẻ tín dụng: Vì sao nên kết hợp Shinhan Mylife Platinum và Shinhan Supreme?",
         "url": "https://cafef.vn/xu-huong-chia-nho-the-tin-dung-vi-sao-nen-ket-hop-shinhan-mylife-platinum-va-shinhan-supreme-188260725114210439.chn",
@@ -75,152 +241,26 @@
         "importance": 2
       }
     ],
-    "financial-markets": [
-      {
-        "title": "LPBank công bố danh sách cổ đông mới nhất sở hữu trên 1% vốn: Hai cá nhân sở hữu gần 10%",
-        "url": "https://cafef.vn/ba-pham-thu-huong-mua-hon-148-trieu-co-phieu-lpb-cung-ong-pham-nhat-vuong-nam-gan-10-von-lpbank-18826072708524071.chn",
-        "source": "CafeF",
-        "summary_en": "LPBank has disclosed its latest shareholder list for stakeholders owning over 1% of capital. Ms. Phạm Thu Hương holds 148.3 million LPB shares, equivalent to 4.965% of the bank's charter capital. Together with Mr. Phạm Nhật Vượng, these two related individuals directly hold a combined total of approximately 9.86% of the bank's capital.",
-        "summary_vn": "LPBank công bố danh sách cổ đông mới nhất sở hữu trên 1% vốn. Bà Phạm Thu Hương nắm giữ hơn 148,3 triệu cổ phiếu LPB, tương đương 4,965% vốn điều lệ ngân hàng. Cùng với ông Phạm Nhật Vượng, hai cá nhân có liên quan sở hữu tổng cộng gần 9,86% vốn ngân hàng.",
-        "pubDate": "Mon, 27 Jul 26 08:51:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "VIB: Lợi nhuận trước thuế đạt hơn 5.180 tỷ đồng, tổng tài sản vượt 580 nghìn tỷ đồng trong 6 tháng đầu năm 2026",
-        "url": "https://cafef.vn/vib-loi-nhuan-truoc-thue-dat-hon-5180-ty-dong-tong-tai-san-vuot-580-nghin-ty-dong-trong-6-thang-dau-nam-2026-188260727100730195.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam International Bank (VIB) reported pre-tax profit of over 5,180 billion VND for the first half of 2026, representing a 3% increase year-over-year. Total assets exceeded 580 trillion VND as of June 30, 2026. The bank maintained growth despite competitive pressure in the financial market through stable asset quality and operational efficiency.",
-        "summary_vn": "Ngân hàng TMCP Quốc tế Việt Nam (VIB) công bố lợi nhuận trước thuế hơn 5.180 tỷ đồng trong 6 tháng đầu năm 2026, tăng 3% so với cùng kỳ năm trước. Tổng tài sản vượt 580 nghìn tỷ đồng tính đến ngày 30/6/2026. Ngân hàng duy trì tăng trưởng trong bối cảnh thị trường cạnh tranh qua việc cải thiện chất lượng tài sản và ổn định hiệu quả hoạt động.",
-        "pubDate": "Mon, 27 Jul 26 10:07:00 +0700",
-        "sentiment": 0.3,
-        "importance": 4
-      },
-      {
-        "title": "Sáng 27/7, cổ phiếu LPBank tăng vọt sau khi danh sách cổ đông mới được công bố",
-        "url": "https://cafef.vn/sang-27-7-co-phieu-lpbank-tang-vot-sau-khi-danh-sach-co-dong-moi-duoc-cong-bo-188260727101945538.chn",
-        "source": "CafeF",
-        "summary_en": "LPBank stock surged sharply on July 27 following the announcement of a new shareholder list. The bank disclosed that Phạm Thu Hương holds over 148 million shares. Two individuals are reported to own nearly 10% of the bank's capital.",
-        "summary_vn": "Cổ phiếu LPBank tăng kịch trần vào sáng 27/7 sau khi công bố danh sách cổ đông mới. Ngân hàng thông báo bà Phạm Thu Hương sở hữu hơn 148 triệu cổ phiếu. Hai cá nhân được thông báo sở hữu gần 10% vốn của ngân hàng.",
-        "pubDate": "Mon, 27 Jul 26 10:18:00 +0700",
-        "sentiment": 1.0,
-        "importance": 3
-      },
-      {
-        "title": "VietABank tăng trưởng vững chắc, thúc đẩy hội nhập quốc tế và phát triển bền vững",
-        "url": "https://cafef.vn/vietabank-tang-truong-vung-chac-thuc-day-hoi-nhap-quoc-te-va-phat-trien-ben-vung-188260727111000835.chn",
-        "source": "CafeF",
-        "summary_en": "VietABank maintained safe and effective operations in the first half of 2026 amid volatile financial market conditions. The bank focused on digital transformation, green finance development, and expanding international cooperation. The bank achieved balanced growth between scale and quality with positive business results reflecting effective management and risk control capabilities.",
-        "summary_vn": "Trong 6 tháng đầu năm 2026 giữa bối cảnh thị trường tài chính biến động, VietABank duy trì hoạt động an toàn và hiệu quả. Ngân hàng tập trung vào chuyển đổi số, phát triển tài chính xanh, và mở rộng hợp tác quốc tế. VietABank ghi nhận kết quả kinh doanh tích cực với tăng trưởng cân bằng giữa quy mô và chất lượng.",
-        "pubDate": "Mon, 27 Jul 26 13:30:00 +0700",
-        "sentiment": 0.6,
-        "importance": 3
-      },
-      {
-        "title": "Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...",
-        "url": "https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn",
-        "source": "CafeF",
-        "summary_en": "VIB reported first-half 2026 pre-tax profit of over 5,180 billion VND, up 3% year-on-year. Total assets exceeded 580 trillion VND as of June 30, 2026, rising 4% from the start of the year. Customer mobilization reached over 317 trillion VND, increasing 8%.",
-        "summary_vn": "VIB công bố lợi nhuận trước thuế 6 tháng 2026 vượt 5.180 tỷ đồng, tăng 3% so với cùng kỳ. Tổng tài sản vượt 580 nghìn tỷ đồng tính đến 30/6/2026, tăng 4% so với đầu năm. Huy động khách hàng đạt hơn 317 nghìn tỷ đồng, tăng 8%.",
-        "pubDate": "Mon, 27 Jul 26 14:07:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Người dân tăng gửi tiền vào ngân hàng",
-        "url": "https://cafef.vn/nguoi-dan-tang-gui-tien-vao-ngan-hang-188260727152610814.chn",
-        "source": "CafeF",
-        "summary_en": "Residential deposits at banks reached 10,826,998 billion VND by the end of May 2026, up 4.76%. The total money supply (M2) of the economy reached 19,974,985 billion VND, increasing 2.73% compared to the previous period. The State Bank of Vietnam officially raised the maximum deposit insurance payout threshold to 350 million VND.",
-        "summary_vn": "Tiền gửi của cư dân tại các ngân hàng đạt 10.826.998 tỷ đồng vào cuối tháng 5/2026, tăng 4,76%. Tổng phương tiện thanh toán (M2) của nền kinh tế đạt 19.974.985 tỷ đồng, tăng 2,73% so với kỳ trước. Ngân hàng Nhà nước chính thức nâng hạn mức bảo hiểm tiền gửi tối đa lên 350 triệu đồng.",
-        "pubDate": "Mon, 27 Jul 26 16:28:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      }
-    ],
-    "consumers": [
-      {
-        "title": "Cảnh tượng khó tin tại \"thủ phủ\" vàng bạc, đá quý TP.HCM: Hàng loạt cửa tiệm đóng cửa, treo biển tạm nghỉ vì \"nhà có việc\", \"để sửa chữa\"",
-        "url": "https://cafef.vn/canh-tuong-kho-tin-tai-thu-phu-vang-bac-da-quy-tphcm-hang-loat-cua-tiem-dong-cua-treo-bien-tam-nghi-vi-nha-co-viec-de-sua-chua-188260727153813197.chn",
-        "source": "CafeF",
-        "summary_en": "Many jewelry and precious stone shops in Ho Chi Minh City's An Dong Market have closed or suspended operations due to market volatility in the diamond market. Remaining open shops experience sparse customer traffic and subdued trading atmosphere. The closures are attributed to recent market disturbances affecting the precious metals and gemstone sector.",
-        "summary_vn": "Nhiều cửa hàng vàng bạc, đá quý tại chợ An Đông TP.HCM đã đóng cửa hoặc tạm ngừng hoạt động do biến động thị trường kim cương gần đây. Các tiệm còn mở cửa đang trải qua tình trạng vắng khách và không khí mua bán trầm lắng. Các đóng cửa được cho là do những biến động gần đây trên thị trường kim cương ảnh hưởng đến ngành vàng bạc, đá quý.",
-        "pubDate": "Mon, 27 Jul 26 16:15:00 +0700",
-        "sentiment": -0.6,
-        "importance": 2
-      },
-      {
-        "title": "Một loại hình du lịch mới đang bùng nổ, Việt Nam có tiềm năng trở thành điểm đến hấp dẫn của khu vực",
-        "url": "https://cafef.vn/mot-loai-hinh-du-lich-moi-dang-bung-no-viet-nam-co-tiem-nang-tro-thanh-diem-den-hap-dan-cua-khu-vuc-188260727110834167.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam is emerging as a potential regional destination for a growing form of tourism centered on sports and wellness activities. In recent years, tourism has evolved beyond traditional leisure and sightseeing to include sports-related travel, health care experiences, and active participation. Major sporting events such as marathons, triathlons, cycling races, and golf competitions are becoming primary drivers motivating tourists to plan extended trips.",
-        "summary_vn": "Việt Nam đang nổi lên như một điểm đến có tiềm năng trong khu vực cho một hình thức du lịch đang phát triển dựa trên các hoạt động thể thao và chăm sóc sức khỏe. Trong những năm gần đây, du lịch đã phát triển vượt ra ngoài du lịch truyền thống và tham quan cảnh quan để bao gồm du lịch liên quan đến thể thao, trải nghiệm chăm sóc sức khỏe và tham gia tích cực. Các sự kiện thể thao lớn như marathon, triathlon, đua xe đạp và các giải đấu golf đang trở thành những yếu tố chính thúc đẩy du khách lên kế hoạch cho các chuyến đi kéo dài.",
-        "pubDate": "Mon, 27 Jul 26 11:08:00 +0700",
-        "sentiment": 0.6,
-        "importance": 2
-      },
-      {
-        "title": "Chi tiền tỷ đầu tư lấy lãi tới 11%/năm, người phụ nữ đòi DN trả hơn 4,1 tỷ",
-        "url": "https://vietnamnet.vn/chi-hon-3-ty-dau-tu-lay-lai-toi-11-nam-nguoi-phu-nu-doi-dn-tra-hon-4-1-ty-2539345.html",
-        "source": "VietnamNet",
-        "summary_en": "A woman in Hanoi invested 3.2 billion dong across five business cooperation contracts with Company K from late 2021 to late 2022, seeking fixed profit returns. The first contract, signed on December 3, 2021, involved 1 billion dong with a fixed annual return of 11% and quarterly payments. The woman is now seeking over 4.1 billion dong from the company.",
-        "summary_vn": "Một phụ nữ ở Hà Nội đã đầu tư 3,2 tỷ đồng qua năm hợp đồng hợp tác kinh doanh với Công ty K từ cuối năm 2021 đến cuối năm 2022, nhằm mục đích hưởng lợi nhuận cố định. Hợp đồng đầu tiên được ký ngày 3/12/2021 với giá trị đầu tư 1 tỷ đồng, lợi nhuận cố định 11%/năm và được thanh toán định kỳ 3 tháng một lần. Hiện tại, bà này đang đòi Công ty K trả hơn 4,1 tỷ đồng.",
-        "pubDate": "Mon, 27 Jul 2026 09:13:46 +0700",
-        "sentiment": -0.7,
-        "importance": 2
-      },
-      {
-        "title": "Mua vì kỳ vọng, bán vì sợ hãi!",
-        "url": "https://cafef.vn/mua-vi-ky-vong-ban-vi-so-hai-188260726073254145.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese consumers exhibit herding behavior in gold markets, purchasing SJC gold despite price premiums of up to millions of dong per tael compared to international prices, then quickly selling when prices decline. This boom-bust cycle reflects speculative rather than investment-driven demand. According to independent expert Phan Dũng Khánh, the pattern of buying at peaks is attributed to speculative trading mentality among retail participants.",
-        "summary_vn": "Người tiêu dùng Việt Nam thể hiện hành vi bầy đàn trong thị trường vàng, mua vàng SJC mặc dù giá chênh lệch lên đến hàng triệu đồng/lượng so với thế giới, sau đó nhanh chóng bán khi giá giảm. Chu kỳ boom-bust này phản ánh nhu cầu đầu cơ hơn là đầu tư thực sự. Theo chuyên gia độc lập Phan Dũng Khánh, mô típ mua ở đỉnh giá xuất phát từ tâm lý giao dịch đầu cơ của các nhà đầu tư bán lẻ.",
-        "pubDate": "Sun, 26 Jul 26 07:32:00 +0700",
-        "sentiment": -0.4,
-        "importance": 3
-      },
-      {
-        "title": "Có nên mua chứng chỉ tiền gửi vì lãi suất cao?",
-        "url": "https://cafef.vn/co-nen-mua-chung-chi-tien-gui-vi-lai-suat-cao-188260726082656168.chn",
-        "source": "CafeF",
-        "summary_en": "The article addresses a reader's question about whether to purchase certificates of deposit (CDs) due to their higher interest rates compared to regular savings accounts. The article examines the appeal of CDs offered by banks with rates exceeding standard time deposits. The piece appears to provide guidance on the investment considerations for certificates of deposit products.",
-        "summary_vn": "Bài viết trả lời câu hỏi của độc giả về việc có nên mua chứng chỉ tiền gửi do lãi suất cao hơn so với tài khoản tiết kiệm thông thường. Bài viết xem xét sức hấp dẫn của các chứng chỉ tiền gửi do ngân hàng phát hành với lãi suất vượt quá các khoản tiền gửi có kỳ hạn tiêu chuẩn. Bài viết dường như cung cấp hướng dẫn về các cân nhân để xem xét về các sản phẩm chứng chỉ tiền gửi.",
-        "pubDate": "Sun, 26 Jul 26 09:24:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      }
-    ],
     "logistics": [
       {
-        "title": "\"Chưa từng thấy sân bay nào thi công với tốc độ như ở Phú Quốc, khiến hàng loạt nhà thầu quốc tế ngỡ ngàng”",
-        "url": "https://cafef.vn/chua-tung-thay-san-bay-nao-thi-cong-voi-toc-do-nhu-o-phu-quoc-khien-hang-loat-nha-thau-quoc-te-ngo-ngang-188260727081212393.chn",
+        "title": "Việt Nam xác lập kỷ lục với tàu lớn nhất thế giới, thành công làm được điều chưa từng có trong lịch sử",
+        "url": "https://cafef.vn/viet-nam-xac-lap-ky-luc-voi-tau-lon-nhat-the-gioi-thanh-cong-lam-duoc-dieu-chua-tung-co-trong-lich-su-188260728144201273.chn",
         "source": "CafeF",
-        "summary_en": "An aviation expert noted that Phu Quoc Airport's runway construction proceeded at an unprecedented speed that impressed international contractors. The article references comments from aviation specialist Trinh Nhu Long about the accelerated construction pace. Additional news items mentioned include traffic violation penalties and infrastructure projects.",
-        "summary_vn": "Một chuyên gia hàng không cho rằng tốc độ thi công đường băng sân bay Phú Quốc chưa từng thấy trước đây, gây kinh ngạc cho nhiều nhà thầu quốc tế. Bài viết trích dẫn nhận xét từ chuyên gia hàng không Trịnh Như Long về nhịp độ xây dựng nhanh chóng này. Các tin tức khác đề cập đến xử phạt vi phạm giao thông và các dự án cơ sở hạ tầng.",
-        "pubDate": "Mon, 27 Jul 26 08:32:00 +0700",
-        "sentiment": 0.6,
+        "summary_en": "Vietnam received the container ship MATZ MAERSK with a deadweight tonnage of 213,970.8 DWT at berth 5-6 of Lach Huyen Port in Haiphong on June 23, 2026. This vessel is among the largest container ships ever permitted to operate at Vietnam's seaports. The Haiphong Maritime Port Authority confirmed the successful docking of the ship.",
+        "summary_vn": "Ngày 23/6/2026, tàu container MATZ MAERSK có trọng tải 213.970,8 DWT đã cập an toàn tại Bến cảng số 5, 6 – Khu bến cảng Lạch Huyện thuộc Cảng Container Quốc tế Hateco Hải Phòng. Đây là một trong những tàu container có trọng tải lớn nhất từng được phép khai thác tại các cảng biển Việt Nam. Sự kiện này đánh dấu bước tiến quan trọng trong lĩnh vực cảng biển của Việt Nam.",
+        "pubDate": "Tue, 28 Jul 26 14:41:00 +0700",
+        "sentiment": 0.7,
         "importance": 3
       },
       {
-        "title": "Cận cảnh đại công trường thi công nhà ga metro số 5 giữa trung tâm Hà Nội",
-        "url": "https://cafef.vn/can-canh-dai-cong-truong-thi-cong-nha-ga-metro-so-5-giua-trung-tam-ha-noi-188260726080829128.chn",
+        "title": "Tuyến cao tốc gần 19.800 tỷ đồng, rút ngắn thời gian di chuyển Ninh Bình - Hải Phòng do liên danh Geleximco đầu tư có diễn biến mới",
+        "url": "https://cafef.vn/tuyen-cao-toc-gan-19800-ty-dong-rut-ngan-thoi-gian-di-chuyen-ninh-binh-hai-phong-do-lien-danh-geleximco-dau-tu-co-dien-bien-moi-188260728141406859.chn",
         "source": "CafeF",
-        "summary_en": "Hanoi's Metro Line 5 (Văn Cao - Hòa Lạc) project has advanced to the underground structural construction phase, with the contractor implementing the first retaining wall at station S3 (Ring Road 1 station). This milestone marks significant progress following site preparation and traffic management arrangements. The S3 station construction site, located at the Nguyễn Chí Thanh - Ring Road 1 junction, is equipped with specialized machinery and large-scale equipment.",
-        "summary_vn": "Dự án đường sắt đô thị số 5 (Văn Cao - Hòa Lạc) của Hà Nội đã tiến vào giai đoạn thi công kết cấu ngầm, với nhà thầu triển khai hạng mục tường vây đầu tiên tại ga S3 (ga Vành đai 1). Đây là một dấu mốc quan trọng sau thời gian chuẩn bị mặt bằng và tổ chức giao thông phục vụ thi công. Công trường ga S3 nằm ở nút giao Nguyễn Chí Thanh - Vành đai 1 được trang bị máy móc chuyên dụng và thiết bị cỡ lớn.",
-        "pubDate": "Sun, 26 Jul 26 08:07:00 +0700",
-        "sentiment": 0.5,
+        "summary_en": "A highway project connecting Ninh Binh and Hai Phong (CT.08) spans approximately 60.9 kilometers with a total investment of nearly 19,785 billion VND. The project is being invested by a consortium led by Geleximco. Recent developments have emerged regarding this infrastructure initiative.",
+        "summary_vn": "Dự án cao tốc Ninh Bình - Hải Phòng (CT.08) có chiều dài khoảng 60,9 km với tổng mức đầu tư gần 19.785 tỷ đồng. Dự án được đầu tư bởi liên danh do Geleximco dẫn đầu. Gần đây có những diễn biến mới liên quan đến dự án hạ tầng này.",
+        "pubDate": "Tue, 28 Jul 26 15:09:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Hơn 1.000 doanh nghiệp ngành thực phẩm, đồ uống từ hơn 20 quốc gia, vùng lãnh thổ sắp quy tụ tại một sự kiện tầm cỡ tại TP.HCM",
-        "url": "https://cafef.vn/hon-1000-doanh-nghiep-nganh-thuc-pham-do-uong-tu-hon-20-quoc-gia-vung-lanh-tho-sap-quy-tu-tai-mot-su-kien-tam-co-tai-tphcm-188260727112259811.chn",
-        "source": "CafeF",
-        "summary_en": "Over 1,000 food and beverage businesses from more than 20 countries and territories are set to gather at a major event in Ho Chi Minh City. Beyond production lines, enterprises are increasingly focused on solutions for material savings, production automation, packaging improvements, and environmental impact reduction. According to data from the General Statistics Office (Ministry of Finance), the first half of 2026 recorded strong growth in accommodation and food service revenue.",
-        "summary_vn": "Hơn 1.000 doanh nghiệp ngành thực phẩm, đồ uống từ hơn 20 quốc gia, vùng lãnh thổ sắp quy tụ tại một sự kiện tầm cỡ ở TP.HCM. Ngoài dây chuyền sản xuất, doanh nghiệp quan tâm nhiều hơn đến các giải pháp tiết kiệm nguyên liệu, tự động hóa sản xuất, cải tiến bao bì và giảm tác động đến môi trường. Theo Cục Thống kê (Bộ Tài chính), nửa đầu năm 2026 ghi nhận sự tăng trưởng mạnh về doanh thu lưu trú, ăn uống.",
-        "pubDate": "Mon, 27 Jul 26 11:22:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
       }
     ]
   }

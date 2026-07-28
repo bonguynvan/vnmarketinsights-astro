@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (22 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thu nhập nhân viên LPBank tăng mạnh**  
+
+LPBank employees' average income in the first half of 2026 reached nearly 37 million VND per month, up over 37% year-on-year. Average wages specifically increased nearly 40% to 33.86 million VND per month. LPBank's stock price surged following the announcement of a new shareholder list on July 27.
+
+- Source: [CafeF](https://cafef.vn/thu-nhap-nhan-vien-lpbank-tang-manh-188260728080904586.chn)
 
 **LPBank công bố danh sách cổ đông mới nhất sở hữu trên 1% vốn: Hai cá nhân sở hữu gần 10%**  
 
@@ -78,12 +84,6 @@ HR Asia Magazine published its "Best Places to Work in Asia 2026" list, recogniz
 A survey of online deposit interest rates across 34 banks on July 12 shows the market high remains at 7.3% per annum for a 12-month tenor, while state-owned banks maintain 6.8% per annum. Vietcombank, Sacombank, HDBank, ACB, and LPBank are among multiple banks recognized as top workplaces in Asia for 2026.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260712175443842.chn)
-
-**8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
-
-Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.
-
-- Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
 ## Related coverage
 

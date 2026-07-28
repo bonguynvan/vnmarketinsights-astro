@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới**  
+
+Techcombank reported a 22% profit increase year-over-year in Q2, marking record quarterly results. The bank is leveraging artificial intelligence as a strategic lever for a new growth cycle. Core income growth, particularly driven by fee income increases, combined with digital transformation and improved risk management capabilities contributed to the results.
+
+- Source: [CafeF](https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn)
 
 **Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...**  
 
@@ -79,18 +85,12 @@ Nguyễn Lê Quốc Anh, former CEO of Techcombank (2016-2020), is a candidate f
 
 - Source: [CafeF](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn)
 
-**Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá**  
-
-Techcombank's Q2 2026 profit reached a record level, with first-half earnings totaling 18.5 trillion Vietnamese dong, representing a 22.5% year-over-year increase. Service revenue achieved new highs among diversified growth drivers. The bank's non-performing loan ratio declined slightly to 1.15% quarter-over-quarter, while the NPL coverage ratio reached 125.5%, placing it among the industry leaders.
-
-- Source: [CafeF](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn)
-
 ## Related coverage
 
 - [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

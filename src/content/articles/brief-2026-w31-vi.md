@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 31/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 31 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,18 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường tuần này
+# Tổng quan tin tức thị trường tuần này
 
-Thị trường Việt Nam tuần này ghi nhận những tín hiệu hỗn hợp, với lĩnh vực ngân hàng có sự phân hóa rõ rệt khi VIB duy trì tăng trưởng 3% trong 6 tháng đầu năm trong khi Saigonbank lần đầu tiên ghi nhận thua lỗ quý II. Bên cạnh đó, dòng vốn FDI tiếp tục chảy vào Việt Nam ở mức cao nhất Đông Nam Á, trong khi xuất nhập khẩu tăng 27,1% so với cùng kỳ, tuy nhiên áp lực từ tỷ giá USD vượt 26.500 đồng và lệnh thuế mới từ Mỹ có mục 301 đang tạo thách thức cho nền kinh tế.
+Thị trường chứng khoán Việt Nam ghi nhận những tín hiệu tích cực từ các ngân hàng lớn, với Techcombank đạt tăng trưởng lợi nhuận 22%, BVBank tăng gấp gần 5 lần và VIB tăng 3% so với cùng kỳ năm trước, trong khi một số ngành khác như phân bón ghi nhận sự sụt giảm mạnh. Các động lực kinh tế vĩ mô bao gồm áp lực tỷ giá với USD tiến sát mức cao nhất lịch sử, song song với sự mở rộng dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng nhằm hỗ trợ tăng trưởng. Ngoài ra, Việt Nam tiếp tục thu hút dòng vốn FDI kỷ lục từ chiến lược "Trung Quốc + 1" của các nhà đầu tư toàn cầu.
+
+## Thương mại điện tử
+
+**Cái bắt tay trị giá 95 tỷ USD: Chương tiếp theo của Hàn Quốc tại Việt Nam mới chỉ bắt đầu**  
+
+Khoản đầu tư của Samsung tại tỉnh Bắc Ninh năm 2008 là một bước ngoặt trong quan hệ song phương giữa Hàn Quốc và Việt Nam. Hiện nay, khoảng một nửa số điện thoại thông minh Samsung bán ra trên toàn thế giới được sản xuất tại Việt Nam. Khoản đầu tư ban đầu này đã khơi dậy một mối quan hệ đối tác bền vững trị giá 95 tỷ USD.
+
+- Số liệu chính: Value of bilateral partnership: 95 billion USD; Share of Samsung smartphones manufactured in Vietnam: approximately one-half percentage of global sales; Year of initial Samsung investment in Bac Ninh: 2008 year
+- Nguồn: [CafeF](https://cafef.vn/cai-bat-tay-tri-gia-95-ty-usd-chuong-tiep-theo-cua-han-quoc-tai-viet-nam-moi-chi-bat-dau-188260728103851016.chn)
 
 ## Pháp lý
 
@@ -50,13 +59,21 @@ Thủ tướng Chính phủ yêu cầu các bộ ngành, địa phương và doa
 
 - Nguồn: [CafeF](https://cafef.vn/hoan-thien-trinh-thu-tuong-ban-hanh-de-an-cai-cach-tong-the-thi-truong-tai-chinh-viet-nam-trong-thang-7-188260723070344809.chn)
 
-**Tuyệt đối không làm điều này nếu không muốn bị chiếm quyền điện thoại, mất tiền trong tài khoản**  
-
-Cơ quan Bảo hiểm Xã hội Việt Nam và Công an tỉnh Bắc Ninh phát hành cảnh báo về một vụ lừa đảo liên quan đến mạo danh các cơ quan chính phủ. Những kẻ lừa đảo đang lừa mọi người cài đặt ứng dụng VssID giả mạo để kiểm soát điện thoại của họ và đánh cắp tiền từ tài khoản ngân hàng. Thủ đoạn này sử dụng kỹ thuật lợi dụng tâm lý để lừa nạn nhân tải xuống ứng dụng có hại.
-
-- Nguồn: [CafeF](https://cafef.vn/tuyet-doi-khong-lam-dieu-nay-neu-khong-muon-bi-chiem-quyen-dien-thoai-mat-tien-trong-tai-khoan-188260723074454306.chn)
-
 ## Chứng khoán
+
+**Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới**  
+
+Techcombank ghi nhận tăng trưởng lợi nhuận 22% so với cùng kỳ năm trước trong quý 2, đạt kỷ lục mới. Ngân hàng sử dụng trí tuệ nhân tạo như một đòn bẩy chiến lược cho chu kỳ tăng trưởng mới. Sự tăng trưởng thu nhập cốt lõi, đặc biệt là từ tăng trưởng thu nhập phí, cùng với chuyển đổi số và cải thiện khả năng quản trị rủi ro đã góp phần vào kết quả này.
+
+- Số liệu chính: Profit growth year-over-year in Q2: 22% percent
+- Nguồn: [CafeF](https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn)
+
+**BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm**  
+
+BVBank ghi nhận lợi nhuận trước thuế hơn 547 tỷ đồng trong nửa đầu năm 2026, tăng gấp gần 5 lần cùng kỳ năm trước nhờ tăng trưởng đột phá ở quý II. Ngân hàng đã hoàn thành 80% kế hoạch lợi nhuận cả năm. BVBank thể hiện cải thiện rõ ràng trên quy mô tài sản, thu nhập cốt lõi và hiệu quả vận hành trong thời kỳ chuyển sang niêm yết trên HoSE.
+
+- Số liệu chính: Pretax profit (first half 2026): over 547 billion VND billion VND; Year-on-year growth (pretax profit): nearly 5 times multiple; Full-year plan completion: 80% %
+- Nguồn: [CafeF](https://cafef.vn/bvbank-loi-nhuan-6-thang-cao-gap-gan-5-lan-cung-ky-hoan-thanh-80-ke-hoach-ca-nam-188260728171846251.chn)
 
 **VIB: Lợi nhuận trước thuế đạt hơn 5.180 tỷ đồng, tổng tài sản vượt 580 nghìn tỷ đồng trong 6 tháng đầu năm 2026**  
 
@@ -120,20 +137,6 @@ VietCredit ghi nhận lợi nhuận trước thuế khoảng 472 tỷ đồng tr
 
 - Số liệu chính: Pre-tax profit Q2/2026: 472 billion VND; YoY growth Q2/2026: 230 %; Pre-tax profit H1/2026: 1.049 trillion VND; Cost-to-income ratio Q2: 9.93 %
 - Nguồn: [CafeF](https://cafef.vn/vietcredit-lai-truoc-thue-hon-1049-ty-nua-dau-2026-cir-quy-ii-giam-con-993-188260723163724229.chn)
-
-**KienlongBank công bố BCTC quý II/2026: Quy mô tài sản bứt phá mạnh mẽ, lợi nhuận bứt tốc**  
-
-KienlongBank công bố kết quả tài chính quý II/2026 với lợi nhuận trước thuế đạt 655 tỷ đồng, tăng 15,8% so với cùng kỳ năm trước. Lợi nhuận trước thuế lũy kế 6 tháng đầu năm 2026 là 1.176 tỷ đồng, tăng 27,6% so với cùng kỳ năm 2025. Tính đến 30/6/2026, tổng tài sản của ngân hàng đạt gần 115.000 tỷ đồng, tăng 11,2% so với đầu năm.
-
-- Số liệu chính: Q2 2026 pre-tax profit: 655 billion VND; Q2 2026 YoY profit growth: 15.8 %; H1 2026 cumulative pre-tax profit: 1,176 billion VND; H1 2026 vs H1 2025 profit growth: 27.6 %
-- Nguồn: [CafeF](https://cafef.vn/kienlongbank-cong-bo-bctc-quy-ii-2026-quy-mo-tai-san-but-pha-manh-me-loi-nhuan-but-toc-188260723110815949.chn)
-
-**TS. Cấn Văn Lực: Nhà đầu tư chứng khoán sử dụng đòn bẩy ngày càng lớn, tiềm ẩn rủi ro khi thị trường đảo chiều**  
-
-Các chuyên gia chứng khoán cảnh báo rằng nhà đầu tư đang sử dụng đòn bẩy ngày càng lớn, với dư nợ cho vay ký quỹ tại các công ty chứng khoán tăng đáng kể. Dư nợ cho vay ký quỹ tăng từ khoảng 125.000 tỷ đồng vào cuối quý I/2023 lên 445.000 tỷ đồng vào cuối quý II/2026, tương đương mức tăng hơn 3,5 lần. Xu hướng này tiềm ẩn rủi ro khi tình cảm thị trường đảo chiều theo ý kiến của chuyên gia.
-
-- Số liệu chính: Margin loan debt (end of Q1 2023): 125,000 billion VND; Margin loan debt (end of Q2 2026): 445,000 billion VND; Growth multiple: 3.5 times
-- Nguồn: [CafeF](https://cafef.vn/ts-can-van-luc-nha-dau-tu-chung-khoan-su-dung-don-bay-ngay-cang-lon-tiem-an-rui-ro-khi-thi-truong-dao-chieu-188260723154324096.chn)
 
 ## Kinh tế vĩ mô
 

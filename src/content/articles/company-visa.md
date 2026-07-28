@@ -1,8 +1,8 @@
 ---
 title: "Visa — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Visa, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
@@ -65,8 +65,8 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 
 - [TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn) — CafeF
 - [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
+- [1 chạm mở tài khoản doanh nghiệp: Khi ngân hàng số hiểu đúng nhịp sống của chủ doanh nghiệp](https://cafef.vn/1-cham-mo-tai-khoan-doanh-nghiep-khi-ngan-hang-so-hieu-dung-nhip-song-cua-chu-doanh-nghiep-188260728151205051.chn) — CafeF
 - [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
-- [Hết cảnh người Việt phải đổi cả xấp ngoại tệ để đi du lịch tại nhiều nước](https://cafef.vn/het-canh-nguoi-viet-phai-doi-ca-xap-ngoai-te-de-di-du-lich-tai-nhieu-nuoc-188260629071523545.chn) — CafeF
 
 ---
 

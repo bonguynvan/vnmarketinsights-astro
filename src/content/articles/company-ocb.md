@@ -1,8 +1,8 @@
 ---
 title: "OCB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning OCB, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
@@ -41,8 +41,8 @@ The banking sector is experiencing significant shifts from customer behavior to 
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới](https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 
 ---
 

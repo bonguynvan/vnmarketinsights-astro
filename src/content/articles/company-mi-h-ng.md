@@ -1,17 +1,23 @@
 ---
 title: "Mi Hồng — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Mi Hồng, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # Mi Hồng
 
-Recent Vietnam market news mentioning **Mi Hồng** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Mi Hồng** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...**  
+
+Major Vietnamese gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải adjusted prices downward on the afternoon of July 28. Gold bar prices on the market currently range from 137.5 to 141.5 million VND per tael, declining 1.5 million VND per tael compared to the morning. The bid-ask spread for gold bars and plain gold rings stands at approximately 3-4 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn)
 
 **Chiều tối 27/7: Giá vàng miếng, vàng nhẫn trơn tại Mi Hồng bất ngờ đảo chiều**  
 
@@ -34,9 +40,9 @@ A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a p
 ## Related coverage
 
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
-- [Hiện tượng lạ sáng 24/7: Giá vàng bán ra tại SJC, PNJ thấp hơn giá mua vào của DOJI và Bảo Tín Minh Châu, chênh lệch giữa các nhà vàng lên tới gần 6 triệu đồng/lượng](https://cafef.vn/hien-tuong-la-sang-24-7-gia-vang-ban-ra-tai-sjc-pnj-thap-hon-gia-mua-vao-cua-doji-va-bao-tin-minh-chau-chenh-lech-giua-cac-nha-vang-len-toi-gan-6-trieu-dong-luong-188260724101856814.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 26/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-26-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260726091648978.chn) — CafeF
 
 ---
 

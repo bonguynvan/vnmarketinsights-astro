@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...**  
+
+Major Vietnamese gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải adjusted prices downward on the afternoon of July 28. Gold bar prices on the market currently range from 137.5 to 141.5 million VND per tael, declining 1.5 million VND per tael compared to the morning. The bid-ask spread for gold bars and plain gold rings stands at approximately 3-4 million VND per tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn)
 
 **Chiều tối 27/7: Giá vàng miếng, vàng nhẫn trơn tại Mi Hồng bất ngờ đảo chiều**  
 
@@ -79,18 +85,12 @@ On the evening of July 21st, domestic gold prices cooled considerably after a sh
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-21-7-dong-loat-ha-nhiet-18826072107290918.chn)
 
-**Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm**  
-
-Domestic gold prices declined sharply on July 20, with major enterprises cutting quoted prices significantly. Bullion lost up to 1.5 million dong per tael compared to the previous session's close, falling to 146 million dong per tael on the selling side, while ring gold decreased between 200,000 and 1.5 million dong per tael depending on the brand.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn)
-
 ## Related coverage
 
+- [Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng miếng SJC, vàng nhẫn ngày 16/7](https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-16-7-188260716071512571.chn) — CafeF
 
 ---
 

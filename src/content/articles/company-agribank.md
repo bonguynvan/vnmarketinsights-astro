@@ -1,17 +1,23 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-07-27"
-lastUpdated: "2026-07-27"
+publishedDate: "2026-07-28"
+lastUpdated: "2026-07-28"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (66 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (67 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 28/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates at 34 banks on July 28 shows that the general interest rate level remains stable. BaoViet Bank adjusted rates downward across multiple terms, while the highest rate for the 12-month term remains at 7.8% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-28-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826072820364625.chn)
 
 **Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -78,12 +84,6 @@ The State Bank of Vietnam reported lending and deposit interest rates across the
 A survey of online deposit rates across 34 banks on July 20 shows the highest rate on the market reaching 7.8% per annum for a 12-month term. Seven banks now quote rates of 7% per annum or higher. The data reflects current deposit rate conditions in the Vietnamese banking sector.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn)
-
-**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
 
 ## Related coverage
 
