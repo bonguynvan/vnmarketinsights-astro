@@ -1,17 +1,23 @@
 ---
 title: "Samsung — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Samsung, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # Samsung
 
-Recent Vietnam market news mentioning **Samsung** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Samsung** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tỉnh nào có thu nhập bình quân đầu người cao nhất cả nước?**  
+
+The article discusses which province has the highest average per capita income in Vietnam. The source mentions a province with diverse terrain that is sometimes described as "Vietnam in miniature." The article also references economic developments including a highway project, industrial zones, and foreign direct investment figures.
+
+- Source: [CafeF](https://cafef.vn/tinh-nao-co-thu-nhap-binh-quan-dau-nguoi-cao-nhat-ca-nuoc-188260730155322866.chn)
 
 **Cái bắt tay trị giá 95 tỷ USD: Chương tiếp theo của Hàn Quốc tại Việt Nam mới chỉ bắt đầu**  
 

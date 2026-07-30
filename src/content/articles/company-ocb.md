@@ -1,17 +1,29 @@
 ---
 title: "OCB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning OCB, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # OCB
 
-Recent Vietnam market news mentioning **OCB** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **OCB** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**OCB báo cáo lợi nhuận tăng hơn 30% trong 6 tháng đầu năm**  
+
+OCB reported pre-tax profit of 1.246 trillion VND in Q2 2026, up nearly 25% year-over-year. Cumulative profit for the first six months of 2026 reached 2.470 trillion VND, representing a 30.5% increase. As of June 30, 2026, OCB's total assets stood at 351.741 trillion VND, up approximately 9% from year-end.
+
+- Source: [CafeF](https://cafef.vn/ocb-bao-cao-loi-nhuan-tang-hon-30-trong-6-thang-dau-nam-188260730162805228.chn)
+
+**Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...**  
+
+Multiple Vietnamese banks released second-quarter 2026 financial reports. Vietcombank reported pre-tax profit increasing 58% in Q2 2026, with total assets reaching over 2,657 trillion dong (up 8.8% from year-start), customer loans at 1,758 trillion dong (up 5.1%), and customer deposits at 1,729 trillion dong (up 3.4%).
+
+- Source: [CafeF](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn)
 
 **OCB nâng cấp dòng thẻ Mastercard World 2in1, chiều lòng tín đồ mê du lịch**  
 
@@ -40,8 +52,8 @@ The banking sector is experiencing significant shifts from customer behavior to 
 ## Related coverage
 
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới](https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [KienlongBank công bố BCTC quý II/2026: Quy mô tài sản bứt phá mạnh mẽ, lợi nhuận bứt tốc](https://cafef.vn/kienlongbank-cong-bo-bctc-quy-ii-2026-quy-mo-tai-san-but-pha-manh-me-loi-nhuan-but-toc-188260723110815949.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 
 ---

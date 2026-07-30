@@ -1,17 +1,23 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # Nam A Bank
 
-Recent Vietnam market news mentioning **Nam A Bank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Nam A Bank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Từ phát triển bền vững đến làn sóng công nghệ lượng tử tương lai**  
+
+Nam A Bank is developing a research and application ecosystem for quantum technology to strengthen security and data protection in banking operations. The bank is recognized as a pioneer in this field and is expected to participate in "Quantum Year Gia Lai 2026". This is part of the bank's long-term sustainable development strategy to lead emerging technology trends.
+
+- Source: [CafeF](https://cafef.vn/tu-phat-trien-ben-vung-den-lan-song-cong-nghe-luong-tu-tuong-lai-188260730161604686.chn)
 
 **Một cổ phiếu ngân hàng bất ngờ tăng kịch trần phiên 23/7**  
 
@@ -41,8 +47,8 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 - [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
-- [Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn) — CafeF
 - [Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn) — CafeF
+- [Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng**  
+
+VietABank has been approved by the State Bank of Vietnam to increase its charter capital to approximately 9.021 trillion dong in the first phase of 2026. The capital increase of over 857 billion dong will be implemented through stock issuance using accumulated profits. The issuance will be conducted as a dividend payment to existing shareholders.
+
+- Source: [CafeF](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn)
+
+**Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau**  
+
+Multiple major Vietnamese banks including Vietcombank, VietinBank, and Agribank will temporarily suspend withdrawal and transfer transactions for accounts that have not provided complete identity documents and biometric data. The State Bank of Vietnam (SBV) has issued regulations requiring these account holders to promptly update their information to avoid service interruption. Five specific categories of bank accounts are subject to these transaction restrictions.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn)
 
 **Giá USD ngân hàng vượt 26.500 đồng**  
 
@@ -73,24 +85,12 @@ The State Bank Governor stated that interest rate management has been challengin
 
 - Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
 
-**Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng**  
-
-The State Bank of Vietnam is working on replacing Circular 22/2019/TT-NHNN, described as the banking sector's most important circular. Deputy Governor Đoàn Thái Sơn directed relevant units to urgently gather and incorporate feedback from steering committee members, commercial banks, and advisory and audit firms to finalize the draft documents. The bank aims to ensure the revised circular and related guidance documents meet the timeline for submission to competent authorities for review and issuance.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn)
-
-**Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc**  
-
-Vietcombank Chairman Nguyễn Thanh Tùng proposed issuing international bonds to supplement capital sources for the economy, citing insufficient domestic accumulation. State Bank of Vietnam Governor Phạm Đức Ấn stated that the central bank is analyzing implementation options and confirmed it will participate in the initiative. The proposal addresses capital sourcing for economic development.
-
-- Source: [CafeF](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn)
-
 ## Related coverage
 
-- [NHNN dự kiến bỏ quy định về hạn mức cho vay, gửi tiền giữa các TCTD tại thị trường liên ngân hàng](https://cafef.vn/nhnn-du-kien-bo-quy-dinh-ve-han-muc-cho-vay-gui-tien-giua-cac-tctd-tai-thi-truong-lien-ngan-hang-188260722163444776.chn) — CafeF
-- [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
-- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
-- [Ngành ngân hàng muốn tăng huy động vốn quốc tế](https://cafef.vn/nganh-ngan-hang-muon-tang-huy-dong-von-quoc-te-188260722064830031.chn) — CafeF
+- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
+- [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
 
 ---
 

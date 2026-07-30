@@ -1,8 +1,8 @@
 ---
 title: "NAPAS — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning NAPAS, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---

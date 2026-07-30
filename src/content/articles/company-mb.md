@@ -1,17 +1,35 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (46 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (49 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một loại lãi suất quan trọng trên thị trường giảm sâu, xuống còn hơn 1%/năm**  
+
+Overnight interbank lending rates have fallen below 1% per annum, declining by up to 0.9 percentage points on July 29, reflecting abundant short-term liquidity in the banking system. The decline in this key market rate indicates excess cash availability among banks seeking short-term funding. This movement reflects current conditions in Vietnam's interbank money market.
+
+- Source: [CafeF](https://cafef.vn/mot-loai-lai-suat-quan-trong-tren-thi-truong-giam-sau-xuong-con-hon-1-nam-188260730101238097.chn)
+
+**Chủ tịch HĐQT MB: Từ những bài toán thực tiễn đến những mô hình có thể vươn ra thế giới**  
+
+MB Chairman Lưu Trung Thái spoke at the opening of the Global Innovation Forum Vietnam 2026 (VGIC 2026) on July 29. He stated that Vietnam faces an "opportunity window" to make a leap in labor productivity and national competitiveness through science, technology, and innovation. The forum is organized with the theme of future technology and related topics.
+
+- Source: [CafeF](https://cafef.vn/chu-tich-hdqt-mb-tu-nhung-bai-toan-thuc-tien-den-nhung-mo-hinh-co-the-vuon-ra-the-gioi-188260730151510031.chn)
+
+**Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit interest rates at 34 banks on July 30 shows ACB offering the highest rate at 7.8% per annum for 12-month terms. Seven banks quoted rates of 7% per annum or higher during this period. The article appears to be part of ongoing coverage of daily banking interest rate movements.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn)
 
 **Ngân hàng gia cố “lá chắn” bảo vệ khách hàng trong thanh toán số**  
 
@@ -67,29 +85,11 @@ Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking 
 
 - Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
 
-**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
-
-**Số liệu lãi suất cho vay, lãi suất huy động mới nhất của hệ thống ngân hàng**  
-
-The State Bank of Vietnam reported lending and deposit interest rates across the banking system for June 2026. The average lending rate for state-owned commercial banks and joint-stock commercial banks ranged from 8.1% to 10.5% per annum during the month. The source includes references to interest rate data from various banks including MB, Sacombank, HDBank, Vietcombank, BIDV, VietinBank, and Agribank.
-
-- Source: [CafeF](https://cafef.vn/so-lieu-lai-suat-cho-vay-lai-suat-huy-dong-moi-nhat-cua-he-thong-ngan-hang-188260721204319885.chn)
-
-**Lãi suất ngân hàng 18/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A banking interest rate survey conducted on July 18 shows stability in online deposit rates. Six banks quote rates of 7% per year or higher for 12-month terms, while the Big4 banks maintain 6.8% per year. One bank offers 8% per year for 6-month savings accounts.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-18-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260718202708241.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 - [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
+- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
 
 ---

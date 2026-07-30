@@ -1,17 +1,23 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...**  
+
+Multiple Vietnamese banks released second-quarter 2026 financial reports. Vietcombank reported pre-tax profit increasing 58% in Q2 2026, with total assets reaching over 2,657 trillion dong (up 8.8% from year-start), customer loans at 1,758 trillion dong (up 5.1%), and customer deposits at 1,729 trillion dong (up 3.4%).
+
+- Source: [CafeF](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn)
 
 **Phó Chủ tịch SHB Đỗ Quang Vinh tham gia Đoàn Chủ tịch Hội Doanh nhân trẻ Việt Nam khóa VIII**  
 
@@ -79,18 +85,12 @@ SHB has been consecutively recognized in prestigious domestic and international 
 
 - Source: [CafeF](https://cafef.vn/shb-vao-top-200-fortune-dong-nam-a-top-10-ngan-hang-thuong-mai-uy-tin-188260630210617063.chn)
 
-**SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp**  
-
-SHB has upgraded its SHB Corporate Mobile application with new digital features including biometric authentication via VNeID, card issuance registration, and online disbursement. The new functionalities aim to reduce transaction time, decrease paperwork, limit in-branch visits, and enable businesses to manage finances digitally. The bank is positioning these digital solutions to meet growing demand from enterprises for flexible, fast, and secure financial services.
-
-- Source: [CafeF](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn)
-
 ## Related coverage
 
+- [SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn) — CafeF
 - [SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn) — CafeF
 - [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

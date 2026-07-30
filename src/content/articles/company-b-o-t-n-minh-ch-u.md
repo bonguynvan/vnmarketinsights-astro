@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 30/7 bất ngờ quay đầu giảm tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
+
+Gold bar and plain gold ring prices unexpectedly reversed and declined on the afternoon of July 30. Major dealers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải simultaneously reduced prices by 0.8 million VND/tael on both buy and sell sides, falling to 137.7 million VND (buy) and 141.7 million VND (sell). Mi Hồng experienced a sharper decline of 1.5 million VND/tael.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-30-7-bat-ngo-quay-dau-giam-tai-sjc-doji-pnj-bao-tin-minh-chau-bao-tin-manh-hai-188260730093744843.chn)
 
 **Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
 
@@ -78,12 +84,6 @@ On the evening of July 21st, domestic gold prices cooled considerably after a sh
 Domestic gold prices declined sharply on July 20, with major enterprises cutting quoted prices significantly. Bullion lost up to 1.5 million dong per tael compared to the previous session's close, falling to 146 million dong per tael on the selling side, while ring gold decreased between 200,000 and 1.5 million dong per tael depending on the brand.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn)
-
-**Giá vàng giảm mạnh, chuyên gia phố Wall dự báo tuần tới gây bất ngờ**  
-
-Domestic gold prices declined sharply in the previous week due to global gold price movements. As of mid-morning July 19, Saigon Gold Silver and Jewelry Company quoted SJC gold bars at 144.5 - 147.5 million VND/tael (buy-sell spread), unchanged from the previous morning. Other major brands including DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and Phú Quý applied the same price levels for SJC gold bars.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-giam-manh-chuyen-gia-pho-wall-du-bao-tuan-toi-gay-bat-ngo-188260719153650597.chn)
 
 ## Related coverage
 

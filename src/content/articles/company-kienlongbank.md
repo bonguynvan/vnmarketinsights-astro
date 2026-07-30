@@ -1,8 +1,8 @@
 ---
 title: "KienlongBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning KienlongBank, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ KienlongBank announced a dividend payout ratio of 29.5% scheduled for early July
 ## Related coverage
 
 - [Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%](https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
+- [Vietbank lãi trước thuế 777 tỷ đồng trong quý II/2026, gần gấp 3 lần cùng kỳ, cho vay khách hàng tăng mạnh](https://cafef.vn/vietbank-lai-truoc-thue-777-ty-dong-trong-quy-ii-2026-gan-gap-3-lan-cung-ky-cho-vay-khach-hang-tang-manh-188260730134937097.chn) — CafeF
 
 ---
 

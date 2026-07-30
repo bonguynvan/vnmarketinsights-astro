@@ -1,8 +1,8 @@
 ---
 title: "VietBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietBank, with neutral summaries and source links."
-publishedDate: "2026-07-29"
-lastUpdated: "2026-07-29"
+publishedDate: "2026-07-30"
+lastUpdated: "2026-07-30"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **VietBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Vietbank lãi trước thuế 777 tỷ đồng trong quý II/2026, gần gấp 3 lần cùng kỳ, cho vay khách hàng tăng mạnh**  
+
+Vietbank reported pre-tax profit of 777 billion VND in Q2 2026, nearly three times higher than the same period in 2025. Total assets reached nearly 205 trillion VND as of June 30, up over 4% from end-2025, with customer loans increasing 11% to 120.3 trillion VND. Customer deposits reached nearly 104 trillion VND, up 2.4% from end-2025.
+
+- Source: [CafeF](https://cafef.vn/vietbank-lai-truoc-thue-777-ty-dong-trong-quy-ii-2026-gan-gap-3-lan-cung-ky-cho-vay-khach-hang-tang-manh-188260730134937097.chn)
 
 **Từ tháng 8, người có tài khoản ACB, VIETBANK chú ý: Phí dịch vụ thay đổi, chuyển khoản không thành công có thể mất phí**  
 
@@ -83,8 +89,8 @@ VietBank's VBB stock rose more than 11% on the morning of June 26, reaching 13,9
 
 - [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
-- [Bất ngờ diễn biến nợ xấu mới nhất tại Vietcombank, Agribank, Sacombank, ABBank, ...](https://cafef.vn/bat-ngo-dien-bien-no-xau-moi-nhat-tai-vietcombank-agribank-sacombank-abbank-188260713103215498.chn) — CafeF
 
 ---
 
