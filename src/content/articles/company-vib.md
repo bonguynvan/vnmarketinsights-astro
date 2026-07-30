@@ -1,8 +1,8 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **VIB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chọn gói VIB up để mỗi khoản tiền gửi tạo ra nhiều giá trị hơn**  
+
+VIB Bank is promoting a savings product package designed to help depositors earn more value from their idle funds beyond interest rates. The product addresses growing customer expectations that savings should generate additional benefits during the accumulation period. The initiative reflects broader banking sector trends where financial institutions compete on value-added services alongside traditional interest rates.
+
+- Source: [CafeF](https://cafef.vn/vib-up-chon-goi-nang-hang-de-moi-khoan-tien-gui-tao-ra-nhieu-gia-tri-hon-188260728155336313.chn)
 
 **VIB: Lợi nhuận trước thuế đạt hơn 5.180 tỷ đồng, tổng tài sản vượt 580 nghìn tỷ đồng trong 6 tháng đầu năm 2026**  
 
@@ -79,18 +85,12 @@ Bank shareholders received hundreds of billions of dong in cash dividends as MB 
 
 - Source: [CafeF](https://cafef.vn/co-dong-ngan-hang-nhan-nghin-ty-co-tuc-bang-tien-mat-188260706093517075.chn)
 
-**“Chạm ánh cực quang” của VIB Privilege Banking gọi tên 3 chủ nhân đầu tiên**  
-
-VIB Privilege Banking's "Northern Lights Aurora Hunt" program has awarded three customers with all-expenses-paid northern lights trips for two people valued at 400 million Vietnamese dong. The winners are Nguyễn Hoàng Anh, Trịnh Minh Đức, and Thiều Văn Chung, who are VIB Privilege Banking customers at different branches. The program continues until July 31, 2026 with six additional northern lights trips to be awarded.
-
-- Source: [CafeF](https://cafef.vn/cham-anh-cuc-quang-cua-vib-privilege-banking-goi-ten-3-chu-nhan-dau-tien-188260703082823135.chn)
-
 ## Related coverage
 
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn) — CafeF
-- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
+- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
+- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 
 ---
 

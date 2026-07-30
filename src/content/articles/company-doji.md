@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (28 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
+
+Domestic gold prices showed an unexpected reversal on the afternoon of July 29th across multiple retailers including SJC, PNJ, DOJI, and several Bảo Tín outlets. The price gap between SJC gold bars and plain gold rings narrowed at many establishments, with some retailers like DOJI and Bảo Tín units even pricing plain gold rings higher than SJC bars. Gold prices rebounded from morning declines, nearly erasing the losses recorded in the morning session.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-29-7-bat-ngo-dao-chieu-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-188260729080505828.chn)
 
 **Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...**  
 
@@ -79,18 +85,12 @@ Domestic gold prices reversed sharply downward during the evening trading sessio
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn)
 
-**Giá vàng nhẫn trơn, vàng miếng chiều tối 21/7 đồng loạt hạ nhiệt**  
-
-On the evening of July 21st, domestic gold prices cooled considerably after a sharp morning rally. Gold bars closed at 146.4 million dong per tael, up 400,000 dong from the previous day but 1.2 million dong below the intraday high. The market showed modest gains compared to the prior session but retreated significantly from peak levels.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-21-7-dong-loat-ha-nhiet-18826072107290918.chn)
-
 ## Related coverage
 
 - [Giá vàng nhẫn trơn, vàng miếng chiều 20/7: SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải tiếp tục giảm](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-20-7-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-tiep-tuc-giam-188260720073629733.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 
 ---
 

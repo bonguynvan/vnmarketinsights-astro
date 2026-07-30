@@ -1,17 +1,23 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # VinFast
 
-Recent Vietnam market news mentioning **VinFast** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VinFast** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Diễn biến mới tại dự án cao tốc kết nối 'rừng - biển' đầu tiên của Việt Nam, có chiều dài hơn 117km**  
+
+A highway project connecting Khánh Hòa and Đắk Lắk provinces in Vietnam is under development with a length of over 117 kilometers. When completed, the highway will reduce the distance between the two provinces from approximately 200 kilometers to about 117 kilometers, creating improved regional connectivity between the Central Highlands and South Central Coast. Within 7 months, the related economic zone has attracted 6.2 billion USD in investment capital, including major projects such as VinMetal, VinFast, and LNG Vũng Áng III with a combined scale exceeding 140,000 billion Vietnamese dong.
+
+- Source: [CafeF](https://cafef.vn/dien-bien-moi-tai-du-an-cao-toc-ket-noi-rung-bien-dau-tien-cua-viet-nam-co-chieu-dai-hon-117km-188260729165940103.chn)
 
 **V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?**  
 
@@ -53,8 +59,8 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
+- [Tiến độ sân bay Long Thành hiện nay ra sao?](https://cafef.vn/tien-do-san-bay-long-thanh-hien-nay-ra-sao-188260622140324676.chn) — CafeF
 - [Giải thưởng của tỷ phú Phạm Nhật Vượng kết nối những bộ óc kiệt xuất toàn cầu giải nhiều bài toán cho VN](https://cafef.vn/giai-thuong-cua-ty-phu-pham-nhat-vuong-ket-noi-nhung-bo-oc-kiet-xuat-toan-cau-giai-nhieu-bai-toan-cho-vn-188260716134816879.chn) — CafeF
-- [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 
 ---
 

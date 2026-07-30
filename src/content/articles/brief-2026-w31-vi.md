@@ -1,19 +1,19 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 31/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 31 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Market Brief"
-readingTime: 16
+readingTime: 15
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 31/2026
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường tuần này
+# Tổng quan thị trường tuần này
 
-Thị trường chứng khoán Việt Nam ghi nhận những tín hiệu tích cực từ các ngân hàng lớn, với Techcombank đạt tăng trưởng lợi nhuận 22%, BVBank tăng gấp gần 5 lần và VIB tăng 3% so với cùng kỳ năm trước, trong khi một số ngành khác như phân bón ghi nhận sự sụt giảm mạnh. Các động lực kinh tế vĩ mô bao gồm áp lực tỷ giá với USD tiến sát mức cao nhất lịch sử, song song với sự mở rộng dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng nhằm hỗ trợ tăng trưởng. Ngoài ra, Việt Nam tiếp tục thu hút dòng vốn FDI kỷ lục từ chiến lược "Trung Quốc + 1" của các nhà đầu tư toàn cầu.
+Thị trường chứng khoán Việt Nam ghi nhận những tín hiệu tích cực từ khối ngân hàng, với nhiều lớp phát sinh lợi nhuận tăng trưởng mạnh mẽ trong nửa đầu năm 2026 và BVBank chính thức niêm yết trên HOSE ngày 21/7. Cùng lúc đó, áp lực cạnh tranh trên thị trường tín dụng đang leo thang khi tốc độ tăng trưởng cho vay vượt xa huy động vốn, buộc các ngân hàng phải nâng lãi suất huy động để thu hút tiền gửi. Trên trận địa vĩ mô, tỷ giá USD tiếp tục tăng và tiến sát mức cao nhất lịch sử, trong khi Ngân hàng Nhà nước đang nỗ lực ổn định tỷ giá giữa các sức ép từ bên ngoài.
 
 ## Thương mại điện tử
 
@@ -24,7 +24,22 @@ Khoản đầu tư của Samsung tại tỉnh Bắc Ninh năm 2008 là một bư
 - Số liệu chính: Value of bilateral partnership: 95 billion USD; Share of Samsung smartphones manufactured in Vietnam: approximately one-half percentage of global sales; Year of initial Samsung investment in Bac Ninh: 2008 year
 - Nguồn: [CafeF](https://cafef.vn/cai-bat-tay-tri-gia-95-ty-usd-chuong-tiep-theo-cua-han-quoc-tai-viet-nam-moi-chi-bat-dau-188260728103851016.chn)
 
+## Logistics
+
+**240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có**  
+
+Sân bay Phú Quốc hoàn thành xây dựng đường băng dài 3.300 mét trong vòng 240 ngày, đánh dấu một thành tích chưa từng có trong lịch sử hạ tầng hàng không Việt Nam. Dự án phải đối mặt với những điều kiện khó khăn bao gồm mưa lớn trong mùa gió mùa. Đường băng được hoàn thành chính thức vào ngày 27 tháng 7.
+
+- Số liệu chính: Runway length: 3,300 meters; Construction duration: 240 days
+- Nguồn: [CafeF](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn)
+
 ## Pháp lý
+
+**Thanh tra Chính phủ chỉ ra loạt vi phạm tại dự án sân bay Long Thành**  
+
+Thanh tra Chính phủ công bố kết luận thanh tra dự án Cảng hàng không quốc tế Long Thành giai đoạn 1, chỉ ra nhiều thiếu sót và vi phạm từ khâu phê duyệt dự án, đấu thầu, thi công cho đến nghiệm thu. Các vi phạm xuất hiện trong quá trình triển khai Dự án thành phần 2 và các dự án khác. Kết luận thanh tra xác định những sai phạm trong việc chấp hành chính sách và pháp luật.
+
+- Nguồn: [CafeF](https://cafef.vn/thanh-tra-chinh-phu-chi-ra-loat-vi-pham-tai-du-an-san-bay-long-thanh-188260729135236173.chn)
 
 **Thông tin mới nhất từ Bộ Ngoại giao về việc Hoa Kỳ áp thuế lên đến 12,5% cho hàng hóa nhập khẩu, trong đó có Việt Nam**  
 
@@ -40,26 +55,20 @@ Ngày 23-7, Văn phòng Đại diện Thương mại Mỹ (USTR) thông báo áp
 - Số liệu chính: New import tariff rate applied: 12.5% percentage; Number of economies with new tariffs: 60 count
 - Nguồn: [TuoiTre](https://tuoitre.vn/viet-nam-noi-gi-truoc-viec-bi-my-ap-muc-thue-nhap-khau-moi-125-100260725150720973.htm)
 
-**Ai chịu tác động mạnh nhất sau cú sốc buôn lậu kim cương?**  
-
-Một vụ bê bối buôn lậu kim cương đã gây rung chuyển thị trường và làm mất niềm tin của khách hàng. Nhiều cửa hàng kim cương nối tiếp đóng cửa, có nơi không có bất kỳ thông báo chính thức nào. Những tuyến phố từng là trung tâm kinh doanh vàng bạc, đá quý tại TP.HCM nay trở nên vắng vẻ khi các doanh nghiệp đóng cửa để ngăn chặn làn sóng bán tháo.
-
-- Nguồn: [CafeF](https://cafef.vn/ai-chiu-tac-dong-manh-nhat-sau-cu-soc-buon-lau-kim-cuong-188260724094036766.chn)
-
-**Từ 0h ngày 24/7, Mỹ bắt đầu áp thuế nhập khẩu mới với 60 nền kinh tế, trong đó có Việt Nam**  
-
-Từ 0h ngày 24/7, Mỹ bắt đầu áp thuế nhập khẩu mới với 60 nền kinh tế, bao gồm Việt Nam. Thuế mới có hai mức là 10% và 12,5%, thay thế mức tạm thời 10% hết hạn cùng thời điểm. Theo thông báo của Văn phòng Đại diện thương mại Mỹ (USTR), thuế bổ sung được áp dụng đối với hàng hóa làm thủ tục tiêu thụ hoặc rút khỏi kho ngoại quan kể từ 0h01' ngày 24/7/2026.
-
-- Số liệu chính: Number of economies affected: 60; New tariff rate (lower): 10% percent; New tariff rate (higher): 12.5% percent; Previous temporary tariff rate: 10% percent
-- Nguồn: [CafeF](https://cafef.vn/tu-0h-ngay-24-7-my-bat-dau-ap-thue-nhap-khau-moi-voi-60-nen-kinh-te-trong-do-co-viet-nam-188260724155008433.chn)
-
-**Hoàn thiện, trình Thủ tướng ban hành Đề án cải cách tổng thể thị trường tài chính Việt Nam trong tháng 7**  
-
-Thủ tướng Chính phủ yêu cầu các bộ ngành, địa phương và doanh nghiệp tập trung thực hiện các nhóm nhiệm vụ tập trung vào tháo gỡ điểm nghẽn, khơi thông nguồn lực và thúc đẩy tăng trưởng. Đề án cải cách tổng thể thị trường tài chính Việt Nam sẽ được hoàn thiện và trình Thủ tướng ban hành trong tháng 7. Văn phòng Chính phủ đã ban hành thông báo về xử lý dứt điểm các dự án chậm triển khai.
-
-- Nguồn: [CafeF](https://cafef.vn/hoan-thien-trinh-thu-tuong-ban-hanh-de-an-cai-cach-tong-the-thi-truong-tai-chinh-viet-nam-trong-thang-7-188260723070344809.chn)
-
 ## Chứng khoán
+
+**NCB tăng tốc mạnh mẽ trong nửa đầu 2026, sẵn sàng năng lực cho giai đoạn tăng trưởng mới**  
+
+NCB ghi nhận kết quả kinh doanh tăng trưởng mạnh mẽ trong 6 tháng đầu năm 2026, với nhiều chỉ tiêu vượt kế hoạch đã đặt ra. Sự tăng trưởng này là kết quả của 5 năm triển khai phương án cơ cấu lại và chiến lược chuyển đổi toàn diện nhằm phát triển bền vững. Những kết quả này tạo nền tảng cho giai đoạn tăng trưởng mới.
+
+- Nguồn: [CafeF](https://cafef.vn/ncb-tang-toc-manh-me-trong-nua-dau-2026-san-sang-nang-luc-cho-giai-doan-tang-truong-moi-188260729144431184.chn)
+
+**Chủ tịch HĐQT BVBank: "Chúng tôi đang bước vào giai đoạn khai thác hiệu quả các nền tảng đã được đầu tư trong nhiều năm qua"**  
+
+BVBank chính thức niêm yết cổ phiếu BVB trên Sàn giao dịch chứng khoán TP. Hồ Chí Minh (HOSE) ngày 21/7/2026, đánh dấu cột mốc quan trọng sau nhiều năm chuẩn bị. Ngân hàng báo cáo lợi nhuận 6 tháng đầu năm tăng gần 5 lần so với cùng kỳ năm trước, phản ánh sự chuyển mình của BVBank. Chủ tịch HĐQT Lê Anh Tài cho biết BVBank đang bước vào giai đoạn phát triển mới để khai thác hiệu quả các nền tảng đã được đầu tư.
+
+- Số liệu chính: Stock listing date: 21/7/2026; First-half profit growth: nearly 5 times
+- Nguồn: [CafeF](https://cafef.vn/chu-tich-hdqt-bvbank-chung-toi-dang-buoc-vao-giai-doan-khai-thac-hieu-qua-cac-nen-tang-da-duoc-dau-tu-trong-nhieu-nam-qua-1882607291452262.chn)
 
 **Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới**  
 
@@ -124,21 +133,13 @@ Hàng loạt sếp doanh nghiệp từ lĩnh vực bất động sản, thép, b
 - Số liệu chính: P/E ratio decline: approximately 10 times ratio; Market valuation timeframe: 10 years years; Recent volatility period: approximately two weeks weeks
 - Nguồn: [VnExpress](https://vnexpress.net/hang-loat-sep-doanh-nghiep-muon-bat-day-co-phieu-5101398.html)
 
-**PC1 báo lãi 6 tháng tăng 150%, ký hợp đồng hơn 2.000 tỉ sau biến động nhân sự**  
-
-Tập đoàn PC1 báo lãi 6 tháng tăng 150% và ký hợp đồng trên 2.000 tỉ đồng bất chấp những thay đổi trong ban quản lý. Cựu Chủ tịch Trịnh Văn Tuấn và nhiều thành viên hội đồng quản trị bị tạm giam vào tháng 5 với cáo buộc tham ô tài sản và vi phạm quy định kế toán. Tại đại hội cổ đông bất thường ngày 24-7, Trịnh Khánh Linh (27 tuổi, con gái ông Tuấn) được bầu làm chủ tịch.
-
-- Số liệu chính: Six-month profit increase: 150%; Signed contracts value: over 2,000 billion VND; Age of new chairman Trịnh Khánh Linh: 27; Date of extraordinary shareholders' meeting: July 24
-- Nguồn: [TuoiTre](https://tuoitre.vn/pc1-bao-lai-6-thang-tang-150-ky-hop-dong-hon-2000-ti-sau-bien-dong-nhan-su-100260725165031384.htm)
-
-**VietCredit lãi trước thuế hơn 1.049 tỷ nửa đầu 2026, CIR quý II giảm còn 9,93%**  
-
-VietCredit ghi nhận lợi nhuận trước thuế khoảng 472 tỷ đồng trong quý II/2026, tăng 230% so với cùng kỳ năm trước. Lợi nhuận trước thuế trong 6 tháng đầu năm 2026 vượt 1.049 tỷ đồng, được thúc đẩy bởi sự tăng trưởng mạnh mẽ về dư nợ tín dụng và thu nhập hoạt động kinh doanh cốt lõi. Tỷ lệ chi phí trên thu nhập (CIR) quý II giảm xuống 9,93%.
-
-- Số liệu chính: Pre-tax profit Q2/2026: 472 billion VND; YoY growth Q2/2026: 230 %; Pre-tax profit H1/2026: 1.049 trillion VND; Cost-to-income ratio Q2: 9.93 %
-- Nguồn: [CafeF](https://cafef.vn/vietcredit-lai-truoc-thue-hon-1049-ty-nua-dau-2026-cir-quy-ii-giam-con-993-188260723163724229.chn)
-
 ## Kinh tế vĩ mô
+
+**Đằng sau cuộc đua lãi suất huy động và cho vay**  
+
+Các ngân hàng Việt Nam đang trải qua thời kỳ tăng trưởng cho vay vượt xa mức tăng huy động vốn, buộc họ phải cạnh tranh gay gắt để thu hút tiền gửi thông qua việc tăng lãi suất và các chương trình khuyến mãi. Khoảng cách giữa tốc độ tăng trưởng cho vay và huy động vốn đang mở rộng, như các báo cáo tài chính quý II từ nhiều ngân hàng cho thấy. Các cơ quan quản lý đang nỗ lực duy trì ổn định lãi suất để tránh tạo áp lực tăng chi phí vốn cho nền kinh tế.
+
+- Nguồn: [CafeF](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn)
 
 **Giá USD ngân hàng vượt 26.500 đồng**  
 
@@ -181,13 +182,6 @@ Ngành thép Việt Nam ghi nhận tăng trưởng mạnh mẽ trong nửa đầ
 
 - Số liệu chính: Crude steel production H1 2026: 15.18 million tonnes; Year-over-year growth: 26.9 %
 - Nguồn: [TuoiTre](https://tuoitre.vn/thep-viet-but-pha-nua-dau-nam-giu-vung-vi-the-top-10-the-gioi-100260725115919876.htm)
-
-**Tập trung giải ngân đầu tư công để cán đích tăng trưởng**  
-
-Việt Nam tập trung giải ngân vốn đầu tı́ từ công để đạt mục tiêu tăng trưởng hai con số tại các tỉnh, thành phố. Trong nửa đầu năm, 9 trên 34 tỉnh, thành phố đã ghi nhận mức tăng trưởng kinh tế trên 10%, với Thái Nguyên ở mức 10,01% và Hà Tĩnh là những địa phương dẫn đầu. Giải ngân vốn đầu tư công được xác định là một trong những động lực quan trọng nhất để đạt mục tiêu tăng trưởng chung của đất nước.
-
-- Số liệu chính: Provinces with economic growth above 10%: 9 out of 34; Economic growth rate - Thái Nguyên: 10.01% %
-- Nguồn: [CafeF](https://cafef.vn/tap-trung-giai-ngan-dau-tu-cong-de-can-dich-tang-truong-188260724093151702.chn)
 
 ## Khác
 

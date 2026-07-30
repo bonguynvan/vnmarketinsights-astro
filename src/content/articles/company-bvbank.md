@@ -1,17 +1,29 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chủ tịch HĐQT BVBank: "Chúng tôi đang bước vào giai đoạn khai thác hiệu quả các nền tảng đã được đầu tư trong nhiều năm qua"**  
+
+BVBank officially listed its stock ticker BVB on the Ho Chi Minh Stock Exchange (HOSE) on July 21, 2026, marking a significant milestone after years of preparation. The bank reported first-half profit growth of nearly 5 times compared to the same period last year, demonstrating its transformation. Chairman Le Anh Tai stated that BVBank is entering a new development phase to efficiently leverage platforms invested in over many years.
+
+- Source: [CafeF](https://cafef.vn/chu-tich-hdqt-bvbank-chung-toi-dang-buoc-vao-giai-doan-khai-thac-hieu-qua-cac-nen-tang-da-duoc-dau-tu-trong-nhieu-nam-qua-1882607291452262.chn)
+
+**Lãi suất qua đêm liên ngân hàng giảm còn 2,2%/năm, thấp nhất từ đầu năm**  
+
+Vietnam's overnight interbank VND lending rate fell to 2.2% per annum on July 28, marking the lowest level since the beginning of the year, indicating continued abundant short-term liquidity in the banking system. The State Bank of Vietnam conducted open market operations, withdrawing approximately 2,000 billion dong in net terms. This reflects prevailing liquidity management dynamics in Vietnam's interbank market.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-qua-dem-lien-ngan-hang-giam-con-22-nam-thap-nhat-tu-dau-nam-188260729151655747.chn)
 
 **BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm**  
 
@@ -73,22 +85,10 @@ Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to lis
 
 - Source: [CafeF](https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn)
 
-**Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng**  
-
-The State Bank of Vietnam (SBV) approved BVBank to increase its charter capital by over 3,500 billion VND on July 8, 2026, bringing the total charter capital to nearly 10,000 billion VND. This approval supports BVBank's capital expansion and preparation for listing on the Ho Chi Minh Stock Exchange (HoSE). The bank is progressing with its planned stock market debut.
-
-- Source: [CafeF](https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn)
-
-**BVBank: Một thập kỷ "xây nền", một chu kỳ tăng trưởng mới**  
-
-BVBank has completed more than a decade of "foundation-building" strategy and is now showing clear results in scale, operational efficiency, and profitability. The bank's growth reflects a comprehensive transformation across business model, technology infrastructure, and management systems. The article suggests the bank is transitioning to a new growth cycle following its foundational development phase.
-
-- Source: [CafeF](https://cafef.vn/bvbank-mot-thap-ky-xay-nen-mot-chu-ky-tang-truong-moi-188260709145837117.chn)
-
 ## Related coverage
 
+- [Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng](https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn) — CafeF
 - [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
-- [Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7](https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn) — CafeF
 - [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 - [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 

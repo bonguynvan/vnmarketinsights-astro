@@ -1,17 +1,29 @@
 ---
 title: "Vinhomes — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinhomes, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # Vinhomes
 
-Recent Vietnam market news mentioning **Vinhomes** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vinhomes** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng dành riêng 5.000 tỷ đồng cho vay mua bất động sản Vinhomes**  
+
+SACOMBANK has launched a preferential loan program for Vinhomes real estate purchases with a total credit limit of 5,000 billion Vietnamese dong. The program runs until December 31, 2026, offering fixed interest rate packages ranging from 12 to 36 months at rates starting from 10.5% per annum. Customers are eligible for early repayment fee waiver from the fifth year onwards.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-danh-rieng-5000-ty-dong-cho-vay-mua-bat-dong-san-vinhomes-188260729111752406.chn)
+
+**Những ngân hàng báo lãi sụt giảm trong nửa đầu năm 2026**  
+
+Several Vietnamese banks reported declining profits in the first half of 2026, though most banks showed positive profit growth during the same period. Some banks allocated significant capital for mortgage lending on Vinhomes properties. Vietnam's largest bank entered into comprehensive cooperation with a leading state-owned enterprise under the Ministry of Public Security.
+
+- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-bao-lai-sut-giam-trong-nua-dau-nam-2026-188260729145647301.chn)
 
 **Siêu dự án Cần Giờ thay đổi ra sao sau sau hơn 1 năm thi công thần tốc?**  
 
@@ -33,10 +45,10 @@ Hanoi is pioneering a new housing rental model under government initiative, with
 
 ## Related coverage
 
-- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Thủ tướng dự lễ khởi công 5 tuyến đường sắt, 3 dự án nhà ở cho thuê tại Hà Nội với tổng vốn hơn 1,3 triệu tỷ đồng](https://cafef.vn/thu-tuong-du-le-khoi-cong-5-tuyen-duong-sat-3-du-an-nha-o-cho-thue-tai-ha-noi-voi-tong-von-hon-13-trieu-ty-dong-188260622095113621.chn) — CafeF
-- [Hà Nội vừa chứng kiến kỷ lục trị giá hơn 1,3 triệu tỷ đồng, DN của tỷ phú Phạm Nhật Vượng trực tiếp làm](https://cafef.vn/ha-noi-vua-chung-kien-ky-luc-tri-gia-hon-13-trieu-ty-dong-dn-cua-ty-phu-pham-nhat-vuong-truc-tiep-lam-188260622121531901.chn) — CafeF
 - [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
+- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
+
+Domestic gold prices showed an unexpected reversal on the afternoon of July 29th across multiple retailers including SJC, PNJ, DOJI, and several Bảo Tín outlets. The price gap between SJC gold bars and plain gold rings narrowed at many establishments, with some retailers like DOJI and Bảo Tín units even pricing plain gold rings higher than SJC bars. Gold prices rebounded from morning declines, nearly erasing the losses recorded in the morning session.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-29-7-bat-ngo-dao-chieu-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-188260729080505828.chn)
 
 **Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...**  
 
@@ -79,18 +85,12 @@ Domestic gold prices declined sharply in the previous week due to global gold pr
 
 - Source: [CafeF](https://cafef.vn/gia-vang-giam-manh-chuyen-gia-pho-wall-du-bao-tuan-toi-gay-bat-ngo-188260719153650597.chn)
 
-**Giá vàng SJC, vàng nhẫn ngày 18/7**  
-
-Domestic gold prices rebounded on July 18th after declining in the previous trading session. Gold bar prices showed varied adjustments across different businesses. Price movements differed between companies in the bullion segment.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-18-7-1882607180738565.chn)
-
 ## Related coverage
 
 - [Giá vàng giảm 7 triệu đồng/lượng](https://cafef.vn/gia-vang-giam-7-trieu-dong-luong-188260723150405692.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 22/7: SJC, PNJ, DOJI, Bảo Tín Mạnh Hải đồng loạt quay đầu giảm giá tới 1,4 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-22-7-sjc-pnj-doji-bao-tin-manh-hai-dong-loat-quay-dau-giam-gia-toi-14-trieu-dong-luong-18826072207512079.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
 
 ---
 

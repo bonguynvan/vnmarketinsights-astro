@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-28"
-lastUpdated: "2026-07-28"
+publishedDate: "2026-07-29"
+lastUpdated: "2026-07-29"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đằng sau cuộc đua lãi suất huy động và cho vay**  
+
+Vietnamese banks are experiencing a lending boom that is outpacing deposit mobilization, forcing them to compete aggressively for deposits through interest rate increases and promotional programs. The gap between lending growth and deposit growth is widening, as shown in Q2 financial reports from multiple banks. Regulatory authorities are working to maintain stability in the interest rate environment to prevent upward pressure on the cost of capital for the broader economy.
+
+- Source: [CafeF](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn)
 
 **Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới**  
 
@@ -79,18 +85,12 @@ Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking 
 
 - Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
 
-**Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank**  
-
-Nguyễn Lê Quốc Anh, former CEO of Techcombank (2016-2020), is a candidate for Eximbank's board of directors. Eximbank announced an extraordinary shareholder meeting scheduled for July 24 at JW Marriott Hanoi to consider personnel matters and other board-related items. The meeting will include a proposal for shareholder approval regarding board composition.
-
-- Source: [CafeF](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn)
-
 ## Related coverage
 
-- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
 
 ---
 
