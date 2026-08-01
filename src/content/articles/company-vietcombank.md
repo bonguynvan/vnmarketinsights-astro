@@ -1,17 +1,35 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (91 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (94 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
+
+Multiple Vietnamese banks reported exceptional profit growth in the first half of 2026 during their interim earnings announcements. Some banks achieved profit increases ranging from 50% to nearly 500% compared to the same period last year. As of July 21, 2026, ten banks had disclosed their six-month results, with Techcombank reporting profit exceeding 18,500 billion Vietnamese dong.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
+
+**Nhờ đâu lợi nhuận Vietcombank tăng vọt lên mức cao chưa từng có?**  
+
+Vietcombank reported pre-tax profit of 17.420 trillion VND in Q2 2026, representing a nearly 58% increase compared to the same period last year and marking an all-time high. The bank's strong earnings growth reflects favorable market conditions during the period. This performance is part of a broader trend of significant profit increases across the banking sector.
+
+- Source: [CafeF](https://cafef.vn/nho-dau-loi-nhuan-vietcombank-tang-vot-len-muc-cao-chua-tung-co-188260731112102574.chn)
+
+**Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit rates across 34 banks on July 31 shows ACB leading the market with 7.8% per annum for 12-month terms, while the Big4 banks maintain 6.8% per annum. The data provides a snapshot of prevailing interest rate offerings in the Vietnamese banking system on that date.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn)
 
 **Một loại lãi suất quan trọng trên thị trường giảm sâu, xuống còn hơn 1%/năm**  
 
@@ -67,30 +85,12 @@ Vietnam's total economic outstanding debt exceeded 20 million billion Vietnamese
 
 - Source: [CafeF](https://cafef.vn/du-no-toan-nen-kinh-te-vuot-20-trieu-ty-dong-dai-dien-ngan-hang-nha-nuoc-cap-nhat-so-lieu-tang-truong-tin-dung-moi-nhat-18826072615195886.chn)
 
-**Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on July 26 shows that 7 banks quote rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covers major banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects current market conditions for Vietnamese bank deposit products.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn)
-
-**Lãi suất ngân hàng 25/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
-
-**Gi&aacute; USD h&ocirc;m nay 25.7.2026: Ghi nhận tuần tăng**  
-
-The USD appreciated by 20 dong at Vietnamese banks during the week, with Vietcombank's buying rate reaching 26,100-26,130 dong and selling rate at 26,510 dong. Other major currencies like EUR and GBP declined against the dong during the same period. The global USD Index rose to 101.47 points, reflecting a slight strengthening of the US currency internationally.
-
-- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
+- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

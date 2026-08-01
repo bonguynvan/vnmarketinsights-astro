@@ -1,17 +1,35 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # Ngân hàng Nhà nước Việt Nam
 
-Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
+
+The Prime Minister issued a new directive on combating fraud and preventing misuse of digital wallets for illegal purposes. The State Bank of Vietnam was instructed to research, review, and propose amendments to regulations to prevent the use of payment accounts, digital wallets, and mobile money with incorrect holder information for law violations. This reflects regulatory tightening in Vietnam's digital payment sector.
+
+- Source: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
+
+**Vụ trưởng Vụ Tín dụng NHNN được bổ nhiệm làm Trợ lý Phó Chủ tịch Quốc hội Nguyễn Thị Hồng**  
+
+Hà Thu Giang, Chief of the Credit Department at the State Bank of Vietnam, has been appointed as Assistant to Vice Chairman of the National Assembly Nguyễn Thị Hồng. The appointment was announced on July 31 at the National Assembly headquarters by Đỗ Văn Chiến, a Politburo member and Standing Vice Chairman of the National Assembly. The appointment was made through a resolution of the National Assembly's Standing Committee.
+
+- Source: [CafeF](https://cafef.vn/vu-truong-vu-tin-dung-nhnn-duoc-bo-nhiem-lam-tro-ly-pho-chu-tich-quoc-hoi-nguyen-thi-hong-188260731205837846.chn)
+
+**Thống đốc NHNN Phạm Đức Ấn trao quyết định bổ nhiệm nhân sự cấp cao Agribank**  
+
+The State Bank of Vietnam Governor Phạm Đức Ấn announced personnel decisions for Agribank's senior leadership at a conference held on July 31, 2026, in Hanoi. The Governor emphasized that strengthening Agribank's leadership team is important in the current context of the banking industry. The State Bank of Vietnam made appointments to key positions at the agricultural bank.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-trao-quyet-dinh-bo-nhiem-nhan-su-cap-cao-agribank-188260731221545804.chn)
 
 **VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng**  
 
@@ -67,30 +85,12 @@ Trần Văn Phước has been appointed as Director of the State Bank of Vietnam
 
 - Source: [CafeF](https://cafef.vn/ong-tran-van-phuoc-duoc-bo-nhiem-lam-giam-doc-nhnn-khu-vuc-15-188260722090613228.chn)
 
-**Truy tố 4 nhân viên ngân hàng liên quan số tiền hơn 96 tỷ đồng**  
-
-Four bank employees, who are personal relationship specialists, have been indicted for violations of State Bank regulations and internal procedures of their bank. The amount involved in the case exceeds 96 billion Vietnamese dong. This case is part of a broader pattern of banking sector misconduct documented over recent months.
-
-- Source: [CafeF](https://cafef.vn/truy-to-4-nhan-vien-ngan-hang-lien-quan-so-tien-hon-96-ty-dong-188260721071648088.chn)
-
-**Thống đốc cập nhật loạt giải pháp khơi thông vốn cho doanh nghiệp: Mở rộng cho vay ngoại tệ, bổ sung chính sách nhận tài sản bảo đảm phục vụ phát hành trái phiếu**  
-
-Vietnam's State Bank Governor Pham Duc An announced that the central bank is researching ways to expand foreign currency lending eligibility and proposing mechanisms for commercial banks to participate in managing collateral assets for corporate bond issuance. The measures aim to improve capital access for enterprises.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-cap-nhat-loat-giai-phap-khoi-thong-von-cho-doanh-nghiep-mo-rong-cho-vay-ngoai-te-bo-sung-chinh-sach-nhan-tai-san-bao-dam-phuc-vu-phat-hanh-trai-phieu-188260720164218963.chn)
-
-**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
 ## Related coverage
 
-- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
-- [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
+- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
+- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
 
 ---
 

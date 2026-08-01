@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Quyền Tổng giám đốc một ngân hàng xin từ nhiệm, đề nghị thôi chức từ ngày mai (1/8)**  
+
+Acting General Director Tran Tan Loc of Eximbank submitted a resignation request for personal reasons, effective August 1, 2026. This is the second resignation request from this veteran leader in less than three years. The bank has recently appointed a new Chairman with a Ph.D. in nuclear engineering from the United States.
+
+- Source: [CafeF](https://cafef.vn/quyen-tong-giam-doc-mot-ngan-hang-xin-tu-nhiem-de-nghi-thoi-chuc-tu-ngay-mai-1-8-18826073120561973.chn)
 
 **Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...**  
 

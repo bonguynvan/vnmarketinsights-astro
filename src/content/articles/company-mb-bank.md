@@ -1,17 +1,23 @@
 ---
 title: "MB Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB Bank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # MB Bank
 
-Recent Vietnam market news mentioning **MB Bank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB Bank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
+
+Multiple Vietnamese banks reported exceptional profit growth in the first half of 2026 during their interim earnings announcements. Some banks achieved profit increases ranging from 50% to nearly 500% compared to the same period last year. As of July 21, 2026, ten banks had disclosed their six-month results, with Techcombank reporting profit exceeding 18,500 billion Vietnamese dong.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
 
 **Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
 
@@ -79,17 +85,11 @@ On 22 June, a survey of online deposit interest rates showed the market continui
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-188260622162300767.chn)
 
-**Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng**  
-
-Multiple Vietnamese banks have received approval from the State Bank and their shareholders to increase charter capital. The article references several major banks including MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, and Sacombank undertaking capital increases. An Ernst & Young expert commented that the future of digital banking depends on transaction presence rather than customer quantity.
-
-- Source: [CafeF](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
 - [Lãi suất ngân hàng 6/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260706173607427.chn) — CafeF
+- [Lãi suất ngân hàng 17/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-17-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260717185358828.chn) — CafeF
 - [Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn) — CafeF
 
 ---

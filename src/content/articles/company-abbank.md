@@ -1,8 +1,8 @@
 ---
 title: "ABBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ABBank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
@@ -82,9 +82,9 @@ Multiple Vietnamese banks have received approval from the State Bank and their s
 ## Related coverage
 
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 

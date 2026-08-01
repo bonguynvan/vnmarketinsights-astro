@@ -1,8 +1,8 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---

@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank Biz Expense: Lời giải mới cho bài toán quản trị chi phí doanh nghiệp**  
+
+TPBank has launched Biz Expense, a new feature on its TPBank Biz platform designed to help businesses manage and control operational expenses. The feature addresses challenges businesses face following new regulations on cashless payments for tax deductions. The product targets common expense management issues such as employee advances and reimbursements, which have become compliance risks under the new payment regulations.
+
+- Source: [CafeF](https://cafef.vn/tpbank-biz-expense-loi-giai-moi-cho-bai-toan-quan-tri-chi-phi-doanh-nghiep-188260730215649426.chn)
 
 **Moody’s nâng triển vọng TPBank lên “Tích cực” giữa đà tăng trưởng bán niên**  
 
@@ -79,18 +85,12 @@ TPBank served as the Diamond Sponsor for Tinh Hà "Say Hi," an event launched by
 
 - Source: [CafeF](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn)
 
-**TPBank được Bộ Công an trao Bằng khen vì thành tích xuất sắc trong phòng, chống tội phạm công nghệ cao**  
-
-TPBank received a commendation certificate from the Ministry of Public Security for outstanding achievements in combating high-tech crime. The certificate was presented by the Minister of Public Security at a meeting to finalize a cooperation plan between the Ministry of Public Security and the State Bank of Vietnam on preventing online fraud. The meeting took place at the Ministry of Public Security headquarters.
-
-- Source: [CafeF](https://cafef.vn/tpbank-duoc-bo-cong-an-trao-bang-khen-vi-thanh-tich-xuat-sac-trong-phong-chong-toi-pham-cong-nghe-cao-188260624073249433.chn)
-
 ## Related coverage
 
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
-- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
+- [HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn) — CafeF
+- [Đằng sau cuộc đua lãi suất huy động và cho vay](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 

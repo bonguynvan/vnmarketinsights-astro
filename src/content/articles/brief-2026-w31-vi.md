@@ -1,39 +1,41 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 31/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 31 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Market Brief"
-readingTime: 15
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 31/2026
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan thị trường tuần này
 
-Các ngân hàng Việt Nam công bố kết quả kinh doanh nửa đầu năm 2026 với lợi nhuận tăng trưởng mạnh, song áp lực huy động vốn vẫn tiếp tục khi nhu cầu tín dụng của nền kinh tế ở mức cao. Các tổ chức xếp hạng quốc tế nâng triển vọng cho nhiều ngân hàng, đồng thời HDBank thực hiện thành công khoản vay hợp vốn quốc tế trị giá 721 triệu USD. Ngân sách nhà nước ghi nhận mức thu kỷ lục trong bối cảnh nền kinh tế chuyển dịch sang các lĩnh vực công nghệ và sản xuất.
-
-## Thương mại điện tử
-
-**Cái bắt tay trị giá 95 tỷ USD: Chương tiếp theo của Hàn Quốc tại Việt Nam mới chỉ bắt đầu**  
-
-Khoản đầu tư của Samsung tại tỉnh Bắc Ninh năm 2008 là một bước ngoặt trong quan hệ song phương giữa Hàn Quốc và Việt Nam. Hiện nay, khoảng một nửa số điện thoại thông minh Samsung bán ra trên toàn thế giới được sản xuất tại Việt Nam. Khoản đầu tư ban đầu này đã khơi dậy một mối quan hệ đối tác bền vững trị giá 95 tỷ USD.
-
-- Số liệu chính: Value of bilateral partnership: 95 billion USD; Share of Samsung smartphones manufactured in Vietnam: approximately one-half percentage of global sales; Year of initial Samsung investment in Bac Ninh: 2008 year
-- Nguồn: [CafeF](https://cafef.vn/cai-bat-tay-tri-gia-95-ty-usd-chuong-tiep-theo-cua-han-quoc-tai-viet-nam-moi-chi-bat-dau-188260728103851016.chn)
-
-## Logistics
-
-**240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có**  
-
-Sân bay Phú Quốc hoàn thành xây dựng đường băng dài 3.300 mét trong vòng 240 ngày, đánh dấu một thành tích chưa từng có trong lịch sử hạ tầng hàng không Việt Nam. Dự án phải đối mặt với những điều kiện khó khăn bao gồm mưa lớn trong mùa gió mùa. Đường băng được hoàn thành chính thức vào ngày 27 tháng 7.
-
-- Số liệu chính: Runway length: 3,300 meters; Construction duration: 240 days
-- Nguồn: [CafeF](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn)
+Ngành ngân hàng Việt Nam ghi nhận kết quả kinh doanh nổi bật trong nửa đầu năm 2026, với nhiều ngân hàng công bố mức tăng lợi nhuận từ 25% đến gần 500% so với cùng kỳ năm trước, trong đó Vietcombank đạt lợi nhuận quý II cao nhất từ trước đến nay ở mức 17.420 tỷ đồng. Bên cạnh đó, Ngân hàng Nhà nước thực hiện các điều chỉnh chính sách như giảm tỷ lệ khấu trừ tiền gửi Kho bạc từ 80% xuống 50% (có hiệu lực từ 1/8/2026) và siết chặt các quy định về thanh toán số để chống lừa đảo. Trên diễn đàn hạ tầng, Hải Phòng phê duyệt các dự án đầu tư mới với tổng vốn 3,2 tỷ USD và khởi động khu kinh tế quy mô 6.200 hectare kết nối với cầu vượt biển khu vực Đông Nam Á.
 
 ## Pháp lý
+
+**Nóng: Ngân hàng Nhà nước nâng tỷ lệ tính tiền gửi Kho bạc Nhà nước vào LDR lên 50%, áp dụng chính thức từ ngày mai (1/8)**  
+
+Ngân hàng Nhà nước quyết định giảm tỷ lệ khấu trừ số dư tiền gửi của Kho bạc Nhà nước trong tính toán tỷ lệ dư nợ cho vay trên tổng tiền gửi từ 80% xuống 50%. Chính sách này sẽ có hiệu lực chính thức từ ngày 1/8/2026 cho đến hết ngày 31/7/2028.
+
+- Số liệu chính: Previous deduction ratio for State Treasury deposits in LDR calculation: 80%; New deduction ratio for State Treasury deposits in LDR calculation: 50%; Effective date: 1/8/2026; End date of policy period: 31/7/2028
+- Nguồn: [CafeF](https://cafef.vn/nong-ngan-hang-nha-nuoc-nang-ty-le-tinh-tien-gui-kho-bac-nha-nuoc-vao-ldr-len-50-ap-dung-chinh-thuc-tu-ngay-mai-1-8-188260731150341967.chn)
+
+**Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
+
+Thủ tướng ra chỉ thị mới về chống lừa đảo và ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật. Thủ tướng yêu cầu Ngân hàng Nhà nước Việt Nam nghiên cứu, rà soát và đề xuất sửa đổi các quy định nhằm ngăn chặn sử dụng tài khoản thanh toán, ví điện tử, mobile money với thông tin chủ thể không đúng để vi phạm pháp luật. Chỉ thị này phản ánh việc siết chặt quy định trong lĩnh vực thanh toán số của Việt Nam.
+
+- Nguồn: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
+
+**Từ tháng này, Cục Thuế có thể đánh thuế TNCN lên đến 35% nếu như phát hiện cá nhân làm dịch vụ, KOL, KOC... không làm việc sau**  
+
+Từ ngày 1/7/2026, Cục Thuế áp dụng Nghị định 253/2026/NĐ-CP quy định mới về thuế thu nhập cá nhân. Quy định tập trung vào việc xác định bản chất thu nhập của cá nhân làm dịch vụ, Freelancer, Affiliate, KOL/KOC để áp dụng cách tính thuế phù hợp. Cục Thuế có thể đánh thuế TNCN lên đến 35% đối với những cá nhân không tuân thủ quy định mới.
+
+- Số liệu chính: Maximum personal income tax rate: 35% %; Decree effective date: 1/7/2026 date
+- Nguồn: [CafeF](https://cafef.vn/tu-thang-nay-cuc-thue-co-the-danh-thue-tncn-len-den-35-neu-nhu-phat-hien-ca-nhan-lam-dich-vu-kol-koc-khong-lam-viec-sau-18826073110423512.chn)
 
 **Sẽ thí điểm cơ chế Nhà nước mua lại dự án nhà ở không còn khả năng thực hiện**  
 
@@ -41,13 +43,42 @@ Bộ Chính trị yêu cầu trình Quốc hội ban hành nghị quyết về t
 
 - Nguồn: [CafeF](https://cafef.vn/se-thi-diem-co-che-nha-nuoc-mua-lai-du-an-nha-o-khong-con-kha-nang-thuc-hien-188260730072215658.chn)
 
-**Thanh tra Chính phủ chỉ ra loạt vi phạm tại dự án sân bay Long Thành**  
-
-Thanh tra Chính phủ công bố kết luận thanh tra dự án Cảng hàng không quốc tế Long Thành giai đoạn 1, chỉ ra nhiều thiếu sót và vi phạm từ khâu phê duyệt dự án, đấu thầu, thi công cho đến nghiệm thu. Các vi phạm xuất hiện trong quá trình triển khai Dự án thành phần 2 và các dự án khác. Kết luận thanh tra xác định những sai phạm trong việc chấp hành chính sách và pháp luật.
-
-- Nguồn: [CafeF](https://cafef.vn/thanh-tra-chinh-phu-chi-ra-loat-vi-pham-tai-du-an-san-bay-long-thanh-188260729135236173.chn)
-
 ## Chứng khoán
+
+**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
+
+Nhiều ngân hàng Việt Nam ghi nhận mức tăng trưởng lợi nhuận ngoại lệ trong kỳ công bố kết quả kinh doanh bán niên 2026. Một số ngân hàng đạt mức tăng lợi nhuận từ 50% đến gần 500% so với cùng kỳ năm trước. Đến ngày 21/7/2026, đã có 10 ngân hàng công bố kết quả bán niên, với Techcombank báo lãi vượt quá 18.500 tỷ đồng.
+
+- Số liệu chính: Techcombank profit (6 months 2026): 18,500 billion Vietnamese dong VND billion; Number of banks reporting by July 21, 2026: 10 banks; Profit growth range: 50% to nearly 500% year-on-year percentage
+- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
+
+**HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế**  
+
+HDBank gia nhập nhóm ngân hàng có quy mô tài sản trên 1 triệu tỷ đồng. Ngân hàng công bố lợi nhuận trước thuế vượt 13.200 tỷ đồng cho nửa đầu năm 2026, với ROE đạt 25,4%, thuộc nhóm cao nhất ngành. HDBank tiếp tục khẳng định vị thế mới trên thị trường vốn quốc tế.
+
+- Số liệu chính: Total assets threshold: 1,000,000 billion dong; Pre-tax profit (H1 2026): 13,200 billion dong; ROE: 25.4 %
+- Nguồn: [CafeF](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn)
+
+**Nhờ đâu lợi nhuận Vietcombank tăng vọt lên mức cao chưa từng có?**  
+
+Vietcombank ghi nhận lợi nhuận trước thuế quý II/2026 đạt 17.420 tỷ đồng, tăng gần 58% so với cùng kỳ năm trước và là mức cao nhất từ trước đến nay. Kết quả kinh doanh mạnh mẽ của ngân hàng phản ánh các điều kiện thị trường thuận lợi trong kỳ báo cáo. Hiệu suất này là một phần của xu hướng lợi nhuận tăng đáng kể trên toàn bộ ngành ngân hàng.
+
+- Số liệu chính: Pre-tax profit Q2 2026: 17.420 trillion VND; YoY growth: 57.8 %
+- Nguồn: [CafeF](https://cafef.vn/nho-dau-loi-nhuan-vietcombank-tang-vot-len-muc-cao-chua-tung-co-188260731112102574.chn)
+
+**Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét quý 2/2026**  
+
+Nam A Bank ghi nhận lợi nhuận trước thuế 6 tháng đầu năm 2026 đạt 3.159 tỷ đồng, tăng 25% so với cùng kỳ năm trước. Chất lượng tài sản cải thiện rõ nét khi tỷ lệ nợ nhóm 2 giảm xuống 0,54% (từ 1,31% cuối năm 2025) và tỷ lệ nợ xấu giảm xuống 1,47% (từ 2,16% cuối năm 2025). Ngân hàng tiếp tục ghi nhận kết quả kinh doanh tích cực trong nửa đầu năm.
+
+- Số liệu chính: Pre-tax profit (H1 2026): 3.159 trillion VND; Pre-tax profit growth YoY: 25 %; Group 2 loan ratio (H1 2026): 0.54 %; Group 2 loan ratio (End-2025): 1.31 %
+- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nam-a-bank-tang-25-chat-luong-tai-san-cai-thien-ro-net-quy-2-2026-1882607311142497.chn)
+
+**MB tối ưu vận hành với CIR chỉ 24,17%, phục vụ gần 40 triệu khách hàng**  
+
+MB công bố kết quả tài chính hợp nhất quý II/2026 với lợi nhuận tiếp tục tăng trưởng hai chữ số nhờ nguồn thu nhập lãi thuần mạnh. Tính đến ngày 30/6/2026, tổng tài sản hợp nhất của MB đạt 1.733.013 tỷ đồng, tăng 7,3% so với cuối năm 2025, dư nợ tín dụng đạt 1.256.084 tỷ đồng, tăng 13,2%. Ngân hàng duy trì quản trị hiệu quả với chỉ số chi phí trên thu nhập là 24,17% và phục vụ gần 40 triệu khách hàng.
+
+- Số liệu chính: Tổng tài sản hợp nhất: 1.733.013 tỷ đồng; Tăng trưởng tài sản so với cuối năm 2025: 7,3 %; Dư nợ tín dụng: 1.256.084 tỷ đồng; Tăng trưởng dư nợ tín dụng: 13,2 %
+- Nguồn: [CafeF](https://cafef.vn/mb-toi-uu-van-hanh-voi-cir-chi-2417-phuc-vu-gan-40-trieu-khach-hang-188260731173024495.chn)
 
 **SeABank được Moody's nâng xếp hạng tín nhiệm nhiều hạng mục, đánh giá triển vọng Tích cực**  
 
@@ -109,42 +140,21 @@ NCB ghi nhận kết quả kinh doanh tăng trưởng mạnh mẽ trong 6 tháng
 
 - Nguồn: [CafeF](https://cafef.vn/ncb-tang-toc-manh-me-trong-nua-dau-2026-san-sang-nang-luc-cho-giai-doan-tang-truong-moi-188260729144431184.chn)
 
-**Chủ tịch HĐQT BVBank: "Chúng tôi đang bước vào giai đoạn khai thác hiệu quả các nền tảng đã được đầu tư trong nhiều năm qua"**  
-
-BVBank chính thức niêm yết cổ phiếu BVB trên Sàn giao dịch chứng khoán TP. Hồ Chí Minh (HOSE) ngày 21/7/2026, đánh dấu cột mốc quan trọng sau nhiều năm chuẩn bị. Ngân hàng báo cáo lợi nhuận 6 tháng đầu năm tăng gần 5 lần so với cùng kỳ năm trước, phản ánh sự chuyển mình của BVBank. Chủ tịch HĐQT Lê Anh Tài cho biết BVBank đang bước vào giai đoạn phát triển mới để khai thác hiệu quả các nền tảng đã được đầu tư.
-
-- Số liệu chính: Stock listing date: 21/7/2026; First-half profit growth: nearly 5 times
-- Nguồn: [CafeF](https://cafef.vn/chu-tich-hdqt-bvbank-chung-toi-dang-buoc-vao-giai-doan-khai-thac-hieu-qua-cac-nen-tang-da-duoc-dau-tu-trong-nhieu-nam-qua-1882607291452262.chn)
-
-**Bứt phá lợi nhuận quý 2, Techcombank dùng AI làm đòn bẩy cho chu kỳ chiến lược mới**  
-
-Techcombank ghi nhận tăng trưởng lợi nhuận 22% so với cùng kỳ năm trước trong quý 2, đạt kỷ lục mới. Ngân hàng sử dụng trí tuệ nhân tạo như một đòn bẩy chiến lược cho chu kỳ tăng trưởng mới. Sự tăng trưởng thu nhập cốt lõi, đặc biệt là từ tăng trưởng thu nhập phí, cùng với chuyển đổi số và cải thiện khả năng quản trị rủi ro đã góp phần vào kết quả này.
-
-- Số liệu chính: Profit growth year-over-year in Q2: 22% percent
-- Nguồn: [CafeF](https://cafef.vn/but-pha-loi-nhuan-quy-2-techcombank-dung-ai-lam-don-bay-cho-chu-ky-chien-luoc-moi-188260728112101242.chn)
-
-**BVBank: Lợi nhuận 6 tháng cao gấp gần 5 lần cùng kỳ, hoàn thành 80% kế hoạch cả năm**  
-
-BVBank ghi nhận lợi nhuận trước thuế hơn 547 tỷ đồng trong nửa đầu năm 2026, tăng gấp gần 5 lần cùng kỳ năm trước nhờ tăng trưởng đột phá ở quý II. Ngân hàng đã hoàn thành 80% kế hoạch lợi nhuận cả năm. BVBank thể hiện cải thiện rõ ràng trên quy mô tài sản, thu nhập cốt lõi và hiệu quả vận hành trong thời kỳ chuyển sang niêm yết trên HoSE.
-
-- Số liệu chính: Pretax profit (first half 2026): over 547 billion VND billion VND; Year-on-year growth (pretax profit): nearly 5 times multiple; Full-year plan completion: 80% %
-- Nguồn: [CafeF](https://cafef.vn/bvbank-loi-nhuan-6-thang-cao-gap-gan-5-lan-cung-ky-hoan-thanh-80-ke-hoach-ca-nam-188260728171846251.chn)
-
-**VIB: Lợi nhuận trước thuế đạt hơn 5.180 tỷ đồng, tổng tài sản vượt 580 nghìn tỷ đồng trong 6 tháng đầu năm 2026**  
-
-Ngân hàng TMCP Quốc tế Việt Nam (VIB) công bố lợi nhuận trước thuế hơn 5.180 tỷ đồng trong 6 tháng đầu năm 2026, tăng 3% so với cùng kỳ năm trước. Tổng tài sản vượt 580 nghìn tỷ đồng tính đến ngày 30/6/2026. Ngân hàng duy trì tăng trưởng trong bối cảnh thị trường cạnh tranh qua việc cải thiện chất lượng tài sản và ổn định hiệu quả hoạt động.
-
-- Số liệu chính: Pre-tax profit (H1 2026): 5,180 billion VND; Year-over-year growth: 3 %; Total assets: 580 trillion VND
-- Nguồn: [CafeF](https://cafef.vn/vib-loi-nhuan-truoc-thue-dat-hon-5180-ty-dong-tong-tai-san-vuot-580-nghin-ty-dong-trong-6-thang-dau-nam-2026-188260727100730195.chn)
-
-**Techcom Life củng cố vốn điều lệ lên 4.300 tỷ đồng và tăng tốc chiến lược AI-First**  
-
-Techcom Life tăng cường vốn điều lệ lên 4.300 tỷ đồng thông qua các khoản góp vốn bổ sung. Techcombank cam kết góp thêm 2.400 tỷ đồng, trong khi One Mount Group tham gia với vai trò cổ đông chiến lược tập trung vào công nghệ và dữ liệu. Kế hoạch tăng vốn được phê duyệt bởi Hội đồng Quản trị Techcombank để hỗ trợ giai đoạn phát triển tiếp theo của Techcom Life.
-
-- Số liệu chính: Target charter capital: 4.300 trillion VND VND; Additional capital contribution by Techcombank: 2.400 trillion VND VND
-- Nguồn: [CafeF](https://cafef.vn/techcom-life-cung-co-von-dieu-le-len-4300-ty-dong-va-tang-toc-chien-luoc-ai-first-188260727192937423.chn)
-
 ## Kinh tế vĩ mô
+
+**Vượt bẫy thu nhập trung bình: Không thể đi tiếp bằng mô hình tăng trưởng cũ**  
+
+Việc Ngân hàng Thế giới xếp Việt Nam vào nhóm thu nhập trung bình cao từ tháng 7/2026 là cột mốc đáng ghi nhận nhưng chưa phải dấu hiệu phát triển hoàn toàn. Với GNI bình quân đầu người hiện tại khoảng 5.000 USD và mục tiêu đạt 8.500 USD năm 2030, Việt Nam cần thay đổi mô hình tăng trưởng từ huy động vốn và lao động giá rẻ. Thách thức phía trước đòi hỏi một sự thay đổi căn bản về quỹ đạo tăng trưởng thay vì chỉ tăng đầu tư và nguồn lao động.
+
+- Số liệu chính: GNI per capita (current): 5,000 USD; GNI per capita target: 8,500 USD; Target year: 2030 year; World Bank classification effective date: July 2026 date
+- Nguồn: [CafeF](https://cafef.vn/vuot-bay-thu-nhap-trung-binh-khong-the-di-tiep-bang-mo-hinh-tang-truong-cu-188260731093506729.chn)
+
+**TP phía Bắc chính thức khởi động đại công trình 6.200ha chưa từng có, nối với cầu vượt biển top Đông Nam Á**  
+
+Thành phố Hải Phòng chính thức khởi động một đại công trình phát triển quy mô 6.200 hectare, sẽ kết nối với cầu vượt biển lớn của khu vực Đông Nam Á. Thành phố tổ chức hội nghị vào ngày 30/7 để công bố các Quyết định của Thủ tướng Chính phủ về thành lập khu kinh tế và khởi động Khu Thương mại tự do Hải Phòng. Dự án nhằm đặt Hải Phòng làm mô hình cho sự đổi mới tăng trưởng và góp phần phát triển đất nước.
+
+- Số liệu chính: Diện tích dự án: 6.200 hectare; Ngày khởi động: 30/7
+- Nguồn: [CafeF](https://cafef.vn/tp-phia-bac-chinh-thuc-khoi-dong-dai-cong-trinh-6200ha-chua-tung-co-noi-voi-cau-vuot-bien-top-dong-nam-a-188260731111057943.chn)
 
 **Mặt bằng lãi suất chưa hết áp lực khi nhu cầu vốn ở mức cao**  
 
@@ -165,27 +175,14 @@ Chủ tịch hiệp hội đại diện hơn 3.000 doanh nghiệp đã gặp Ph�
 
 - Nguồn: [CafeF](https://cafef.vn/gap-pho-thu-tuong-chu-tich-hiep-hoi-hon-3000-dn-thua-nhan-3-loi-the-cua-vn-trong-linh-vuc-1000-ty-usd-188260730164609992.chn)
 
-**Đằng sau cuộc đua lãi suất huy động và cho vay**  
-
-Các ngân hàng Việt Nam đang trải qua thời kỳ tăng trưởng cho vay vượt xa mức tăng huy động vốn, buộc họ phải cạnh tranh gay gắt để thu hút tiền gửi thông qua việc tăng lãi suất và các chương trình khuyến mãi. Khoảng cách giữa tốc độ tăng trưởng cho vay và huy động vốn đang mở rộng, như các báo cáo tài chính quý II từ nhiều ngân hàng cho thấy. Các cơ quan quản lý đang nỗ lực duy trì ổn định lãi suất để tránh tạo áp lực tăng chi phí vốn cho nền kinh tế.
-
-- Nguồn: [CafeF](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn)
-
-**Giá USD ngân hàng vượt 26.500 đồng**  
-
-Giá USD tại các ngân hàng đã vượt 26.500 đồng, tiến sát mức cao nhất lịch sử ghi nhận vào cuối tháng 8/2025. Đồng bạc xanh trên thị trường quốc tế ghi nhận tuần tăng mạnh nhất kể từ tháng 6. Ngân hàng Nhà nước đang ưu tiên ổn định tỷ giá trong bối cảnh nhiều sức ép từ bên ngoài.
-
-- Số liệu chính: Giá bán USD tại ngân hàng: >26.500 VND
-- Nguồn: [CafeF](https://cafef.vn/gia-usd-ngan-hang-vuot-26500-dong-188260727171706109.chn)
-
 ## Khác
 
-**Chưa từng có: Hơn 30 doanh nghiệp vàng bạc, kim cương ở TPHCM đóng cửa**  
+**Hải Phòng có 'siêu dự án' mạch chip bán dẫn**  
 
-Hơn 30 doanh nghiệp vàng bạc, kim cương ở TPHCM đã đóng cửa sau vụ án buôn lậu kim cương xuyên quốc gia. Ngoài những cửa hàng liên quan trực tiếp, nhiều tiệm vàng, bạc, kim cương khác ở các khu kinh doanh lớn tại TPHCM cũng lần lượt ngừng hoạt động, giải thể hoặc phá sản. Thị trường kim hoàn đang trải qua đợt biến động mạnh hiếm thấy.
+Hải Phòng cấp chứng nhận đăng ký đầu tư cho 13 dự án mới và mở rộng với tổng vốn khoảng 3,2 tỷ USD, bao gồm nhà máy sản xuất chip bán dẫn 1 tỷ USD của LG Innotek tại khu thương mại tự do. Thành phố cũng ký kết 2 biên bản ghi nhớ về hợp tác phát triển hạ tầng khu công nghiệp. Các chứng nhận được cấp vào ngày 30/7.
 
-- Số liệu chính: Jewelry businesses closed in HCMC since early July: over 30 businesses
-- Nguồn: [CafeF](https://cafef.vn/chua-tung-co-hon-30-doanh-nghiep-vang-bac-kim-cuong-o-tphcm-dong-cua-188260727120203044.chn)
+- Số liệu chính: Total investment capital for 13 projects: 3.2 billion USD; LG Innotek semiconductor chip manufacturing facility capital: 1 billion USD; Number of new and expanded investment projects: 13 projects; Number of memoranda of understanding signed: 2 MOU
+- Nguồn: [CafeF](https://cafef.vn/hai-phong-co-sieu-du-an-mach-chip-ban-dan-18826073111080147.chn)
 
 ---
 

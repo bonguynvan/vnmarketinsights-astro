@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Người dùng VPBank chú ý, quy định mới liên quan đến chuyển khoản chính thức áp dụng từ hôm nay**  
+
+VPBank officially implements new regulations on Smart OTP authentication in its VPBank NEO application starting July 30, 2026. The measure is in compliance with State Bank of Vietnam Circular 50/2024/TT-NHNN regarding safety and security standards for electronic banking services. The bank has notified customers of these new requirements through official communication.
+
+- Source: [CafeF](https://cafef.vn/nguoi-dung-vpbank-chu-y-quy-dinh-moi-lien-quan-den-chuyen-khoan-chinh-thuc-ap-dung-tu-hom-nay-188260730164745227.chn)
 
 **Xuất hiện một nhà đầu tư cá nhân nắm giữ lượng lớn cổ phiếu ngân hàng, giàu hơn cả ông Đặng Khắc Vỹ và Lương Trí Thìn trên sàn chứng khoán**  
 
@@ -78,12 +84,6 @@ Twenty-eight Vietnamese CEOs participated in a second day of the Alibaba Study T
 CUBHCM received an award from Asian Banking & Finance's Corporate & Investment Banking Awards 2026 for its capital arrangement and distribution capabilities. The award recognized a 1.563 billion USD sustainable syndicated loan facility for VPBank, which is reported as the largest such facility ever arranged in Vietnam. The credit facility for VPBank was initially deployed at a 1 billion USD scale.
 
 - Source: [CafeF](https://cafef.vn/cubhcm-cung-co-vi-the-tai-viet-nam-voi-thuong-vu-vay-hop-von-va-nhan-giai-thuong-quoc-te-188260718112255323.chn)
-
-**Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư**  
-
-Six major Vietnamese banks—Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank—have extended over 27,000 billion VND in loans for a BOT transportation project led by Đèo Cả Group, Tasco, and CII. This is the largest-scale credit financing for a BOT transport project in Vietnam, designed to meet growing transportation demand between provinces in the Southeast region, particularly between Ho Chi Minh City and the Mekong Delta. The project contributes to improving the national north-south transport corridor network.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn)
 
 ## Related coverage
 

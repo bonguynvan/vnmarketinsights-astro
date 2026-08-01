@@ -1,17 +1,23 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # Nam A Bank
 
-Recent Vietnam market news mentioning **Nam A Bank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Nam A Bank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét quý 2/2026**  
+
+Nam A Bank reported pre-tax profit of 3.159 trillion VND for the first six months of 2026, up 25% year-on-year. Asset quality improved notably with the ratio of group 2 loans declining to 0.54% from 1.31% at end-2025, and the non-performing loan ratio falling to 1.47% from 2.16% at end-2025. The bank continued to achieve positive business results in the first half of the year.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-nam-a-bank-tang-25-chat-luong-tai-san-cai-thien-ro-net-quy-2-2026-1882607311142497.chn)
 
 **Từ phát triển bền vững đến làn sóng công nghệ lượng tử tương lai**  
 
@@ -47,7 +53,7 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 - [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
-- [Cựu CEO Techcombank Nguyễn Lê Quốc Anh ứng cử tham gia HĐQT Eximbank](https://cafef.vn/cuu-ceo-techcombank-nguyen-le-quoc-anh-ung-cu-tham-gia-hdqt-eximbank-188260722154621636.chn) — CafeF
+- [VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn) — CafeF
 - [Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn) — CafeF
 
 ---

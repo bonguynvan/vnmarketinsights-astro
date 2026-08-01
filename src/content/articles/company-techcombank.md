@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (36 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (37 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
+
+Multiple Vietnamese banks reported exceptional profit growth in the first half of 2026 during their interim earnings announcements. Some banks achieved profit increases ranging from 50% to nearly 500% compared to the same period last year. As of July 21, 2026, ten banks had disclosed their six-month results, with Techcombank reporting profit exceeding 18,500 billion Vietnamese dong.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
 
 **Xuất hiện ngân hàng lãi gấp 25 lần cùng kỳ năm trước**  
 
@@ -79,18 +85,12 @@ Nguyễn Lê Quốc Anh, former Chief Executive Officer of Techcombank, was elec
 
 - Source: [CafeF](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn)
 
-**Lãi suất huy động có quay đầu giảm trong thời gian tới?: Sếp Techcombank đưa ra dự báo**  
-
-Techcombank leadership stated that despite implementing deposit rate reduction directives thoroughly, the overall system deposit rates have not actually decreased in the recent period. The bank's executive addressed investor questions about the possibility of deposit rates cooling down in the second half of 2026 at a recent investor meeting with analysts.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-huy-dong-co-quay-dau-giam-trong-thoi-gian-toi-sep-techcombank-dua-ra-du-bao-188260723155717007.chn)
-
 ## Related coverage
 
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
-- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
-- [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
+- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
 
 ---
 

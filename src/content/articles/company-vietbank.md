@@ -1,8 +1,8 @@
 ---
 title: "VietBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietBank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
@@ -88,9 +88,9 @@ VietBank's VBB stock rose more than 11% on the morning of June 26, reaching 13,9
 ## Related coverage
 
 - [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
+- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
-- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---
 

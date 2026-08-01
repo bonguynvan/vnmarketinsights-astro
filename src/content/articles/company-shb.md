@@ -1,17 +1,29 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
+
+Multiple Vietnamese banks reported exceptional profit growth in the first half of 2026 during their interim earnings announcements. Some banks achieved profit increases ranging from 50% to nearly 500% compared to the same period last year. As of July 21, 2026, ten banks had disclosed their six-month results, with Techcombank reporting profit exceeding 18,500 billion Vietnamese dong.
+
+- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
+
+**SHB lãi hơn 9.000 tỷ đồng trong 6 tháng, hoàn thành 51% kế hoạch năm**  
+
+Saigon-Hanoi Joint Stock Commercial Bank (SHB) reported pre-tax profit of 9,092 billion VND for the first six months of 2026. This result represents 51% completion of the bank's annual profit target. The earnings announcement was made at the end of the first half of 2026.
+
+- Source: [CafeF](https://cafef.vn/shb-lai-hon-9000-ty-dong-trong-6-thang-hoan-thanh-51-ke-hoach-nam-188260731123736395.chn)
 
 **Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...**  
 
@@ -73,24 +85,12 @@ SHB has announced the implementation of a fraud detection warning feature on its
 
 - Source: [CafeF](https://cafef.vn/shb-bo-sung-lop-canh-bao-rui-ro-trong-giao-dich-chuyen-tien-dien-tu-188260702211640347.chn)
 
-**SHB vào top 200 doanh nghiệp lớn nhất Đông Nam Á**  
-
-SHB ranked 141st in Fortune Southeast Asia 500, a ranking of the largest companies across seven Southeast Asian countries based on previous fiscal year revenue. The bank also received recognition in Vietnam Report's top 10 most reputable commercial banks in Vietnam for 2026. SHB improved its ranking by 20 positions compared to 2025.
-
-- Source: [VnExpress](https://vnexpress.net/shb-vao-top-200-doanh-nghiep-lon-nhat-dong-nam-a-5092234.html)
-
-**SHB vào top 200 Fortune Đông Nam Á, Top 10 ngân hàng thương mại uy tín**  
-
-SHB has been consecutively recognized in prestigious domestic and international rankings and awards, confirming its position as a leading financial institution in Vietnam. The bank has appeared in Fortune Southeast Asia 500 for three consecutive years. Fortune magazine recently published the Fortune SEA 500 ranking for 2026, listing the 500 largest businesses in Southeast Asia.
-
-- Source: [CafeF](https://cafef.vn/shb-vao-top-200-fortune-dong-nam-a-top-10-ngan-hang-thuong-mai-uy-tin-188260630210617063.chn)
-
 ## Related coverage
 
-- [SHB gia tăng tiện ích số dành cho khách hàng doanh nghiệp](https://cafef.vn/shb-gia-tang-tien-ich-so-danh-cho-khach-hang-doanh-nghiep-188260629214816481.chn) — CafeF
-- [SHB được The Asian Banker vinh danh với giải pháp tài chính xuất sắc cho tiểu thương](https://cafef.vn/shb-duoc-the-asian-banker-vinh-danh-voi-giai-phap-tai-chinh-xuat-sac-cho-tieu-thuong-188260622152554351.chn) — CafeF
-- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
-- [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
+- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
+- [Ngân hàng đầu tiên báo lỗ trong quý 2/2026](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn) — CafeF
+- [Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...](https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn) — CafeF
 
 ---
 

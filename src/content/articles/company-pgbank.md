@@ -1,8 +1,8 @@
 ---
 title: "PGBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PGBank, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
@@ -41,8 +41,8 @@ As of July 1, 2026, only a few banks publicly quote deposit interest rates at 7%
 
 - [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
 - [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
+- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 

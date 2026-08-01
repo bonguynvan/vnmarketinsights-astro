@@ -1,17 +1,29 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (80 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (82 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
+
+The Prime Minister issued a new directive on combating fraud and preventing misuse of digital wallets for illegal purposes. The State Bank of Vietnam was instructed to research, review, and propose amendments to regulations to prevent the use of payment accounts, digital wallets, and mobile money with incorrect holder information for law violations. This reflects regulatory tightening in Vietnam's digital payment sector.
+
+- Source: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
+
+**Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit rates across 34 banks on July 31 shows ACB leading the market with 7.8% per annum for 12-month terms, while the Big4 banks maintain 6.8% per annum. The data provides a snapshot of prevailing interest rate offerings in the Vietnamese banking system on that date.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn)
 
 **Một loại lãi suất quan trọng trên thị trường giảm sâu, xuống còn hơn 1%/năm**  
 
@@ -72,18 +84,6 @@ A survey of online deposit interest rates on July 26 shows that 7 banks quote ra
 A survey of online deposit interest rates on July 25 shows that the highest rate for 12-month terms remains at 7.8% per annum. Seven banks are currently quoting rates at 7% per annum or higher, while most other banks maintain rates around 6-6.9% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-25-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260725185423289.chn)
-
-**Cơ quan Thuế yêu cầu MBBank, Vietinbank, BIDV trích tiền từ tài khoản ngân hàng của những công ty có tên trong danh sách sau**  
-
-Hung Yen Tax Authority issued a notice on July 23, 2026, requiring MBBank, Vietinbank, and BIDV to enforce administrative decisions by collecting funds from bank accounts of listed companies. The tax authority is implementing compulsory tax collection measures against these entities. The notice concerns enforcement of tax management decisions through account deductions at the state treasury and credit organizations.
-
-- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-mbbank-vietinbank-bidv-trich-tien-tu-tai-khoan-ngan-hang-cua-nhung-cong-ty-co-ten-trong-danh-sach-sau-188260725155408334.chn)
-
-**Cục Thuế vừa có thông báo mới, hộ kinh doanh có doanh thu dưới 1 tỷ đồng/năm cần biết**  
-
-The Tax Authority issued new guidance on electronic invoice usage for household businesses with annual revenue below 1 billion VND. This announcement provides clarification for small-scale business operators on compliance requirements. The guidance aims to standardize invoice procedures for this business segment.
-
-- Source: [CafeF](https://cafef.vn/cuc-thue-vua-co-thong-bao-moi-ho-kinh-doanh-co-doanh-thu-duoi-1-ty-dong-nam-can-biet-188260725161957554.chn)
 
 ## Related coverage
 

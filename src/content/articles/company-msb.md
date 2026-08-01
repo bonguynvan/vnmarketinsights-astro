@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-07-30"
-lastUpdated: "2026-07-30"
+publishedDate: "2026-07-31"
+lastUpdated: "2026-07-31"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **MSB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSB khai trương Hội sở chính và Sở Giao Dịch mới, chào mừng 35 năm thành lập**  
+
+MSB (Maritime Bank) officially inaugurated its new headquarters and trading branch on July 30, 2026, located at 54A Nguyen Chi Thanh Street in Hanoi. The new facilities are designed to reflect the bank's commitment to modernization and service improvement over its 35 years of operation. The facilities aim to enhance operational capacity and deliver differentiated customer experiences.
+
+- Source: [CafeF](https://cafef.vn/msb-khai-truong-hoi-so-chinh-va-so-giao-dich-moi-chao-mung-35-nam-thanh-lap-188260731173059379.chn)
 
 **MSB công bố kết quả kinh doanh 6 tháng: Tổng tài sản tăng trưởng gần 30% so với cùng kỳ**  
 
@@ -70,8 +76,8 @@ Vietnamese banking sector's Q2 2026 profit forecasts show divergent growth traje
 ## Related coverage
 
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 - [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
