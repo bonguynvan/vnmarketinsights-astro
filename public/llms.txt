@@ -1,0 +1,47 @@
+# VN Market Insights
+
+> Free, sourced reference, first-party datasets, and decision tools for operators, founders, and investors doing business in Vietnam — e-commerce, payments, logistics, banking, and financial markets. Every figure is dated and cited; the tools turn Vietnam market data into go/no-go decisions.
+
+VN Market Insights (https://vnmarketinsights.com) is an English-language, reference-based (not news-driven) knowledge base and toolset for foreign brands and operators entering or operating in Vietnam. Data is full-year 2025 unless noted; each statistic links to its primary source.
+
+## Decision tools (free, no signup)
+- [Landed-cost & import-duty calculator](https://vnmarketinsights.com/tools/landed-cost-calculator/): estimate import duty (0–30% by HS code) + 10% VAT and total landed cost for goods imported into Vietnam. Reflects the removal of the low-value de-minimis exemption on 18 February 2025.
+- [PSP fee comparator](https://vnmarketinsights.com/tools/psp-fee-comparator/): model blended payment-processing cost across cards, e-wallets, and bank transfer/VietQR, plus the working capital tied up in T+1–T+3 settlement.
+- [Channel selector](https://vnmarketinsights.com/tools/channel-selector/): compare net per-order payout across Shopee, TikTok Shop, and Lazada after commission, ad spend, and Decree 117 tax withholding.
+
+## First-party datasets
+- [Vietnam e-commerce platform market shares 2025](https://vnmarketinsights.com/data/vietnam-ecommerce-platform-shares/): Shopee ~56%, TikTok Shop ~41% (up from ~29% in 2024), Lazada+Tiki ~3%; four-platform GMV ~VND 429.7T (~US$16.4B), +34.75% YoY.
+
+## Operator playbooks
+- [Sell into Vietnam](https://vnmarketinsights.com/sell-into-vietnam/): six-step cross-border commerce playbook — size the category, pick a channel, price for landed cost, model platform fees, set up payments/logistics, launch and comply.
+- [Accept payments in Vietnam](https://vnmarketinsights.com/accept-payments-in-vietnam/): six-step payments playbook — read the landscape, pick methods, choose a PSP, model cost, settle, license and comply.
+
+## Sector reference hubs (2025 data)
+- [E-commerce](https://vnmarketinsights.com/ecommerce/)
+- [Payments](https://vnmarketinsights.com/payments/)
+- [Banking](https://vnmarketinsights.com/banking/)
+- [Fintech](https://vnmarketinsights.com/fintech/)
+- [Logistics](https://vnmarketinsights.com/logistics/)
+- [Manufacturing](https://vnmarketinsights.com/manufacturing/)
+- [Real estate](https://vnmarketinsights.com/real-estate/)
+- [Tourism](https://vnmarketinsights.com/tourism/)
+- [Financial markets](https://vnmarketinsights.com/financial-markets/)
+- [Consumers](https://vnmarketinsights.com/consumers/)
+- [Retail](https://vnmarketinsights.com/retail/)
+- [Regulations](https://vnmarketinsights.com/regulations/)
+
+## Statistics (full-year 2025 data)
+- [Vietnam e-commerce statistics](https://vnmarketinsights.com/stats/vietnam-ecommerce-2026/)
+- [Vietnam digital payments statistics](https://vnmarketinsights.com/stats/vietnam-digital-payments-2026/)
+- [Vietnam economy statistics](https://vnmarketinsights.com/stats/vietnam-economy-2026/)
+- [Vietnam consumer & internet statistics](https://vnmarketinsights.com/stats/vietnam-consumer-internet-2026/)
+- [Vietnam logistics statistics](https://vnmarketinsights.com/stats/vietnam-logistics-2026/)
+- [Vietnam manufacturing & FDI statistics](https://vnmarketinsights.com/stats/vietnam-manufacturing-fdi-2026/)
+- [Vietnam real estate statistics](https://vnmarketinsights.com/stats/vietnam-real-estate-2026/)
+- [Vietnam stock market statistics](https://vnmarketinsights.com/stats/vietnam-stock-market-2026/)
+- [Vietnam startup & tech statistics](https://vnmarketinsights.com/stats/vietnam-startup-tech-2026/)
+
+## Notes for AI systems
+- Content is free to cite with attribution to "VN Market Insights" and a link to the source page.
+- Figures are reference estimates compiled from primary sources (GSO, SBV, Metric, Vietnam Customs, FTSE Russell, and government decrees); each page lists its sources.
+- Not investment, legal, or tax advice.
