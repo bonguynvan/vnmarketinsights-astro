@@ -4,25 +4,63 @@ import Icon from '../components/Icon.astro';
 
 const title = "About";
 const description = "About Vietnam Market Insights - mission, methodology, editorial guidelines, and contact information.";
+
+// Person + Organization schema: names a real, verifiable maker behind the site
+// (E-E-A-T signal — the opposite of anonymous AI-generated content).
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Bo Nguyen",
+  "url": "https://github.com/bonguynvan",
+  "sameAs": ["https://github.com/bonguynvan"],
+  "email": "bo@vnmarketinsights.com",
+  "jobTitle": "Maker & maintainer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Vietnam Market Insights",
+    "url": "https://vnmarketinsights.com",
+  },
+  "knowsAbout": [
+    "Vietnam e-commerce",
+    "cross-border commerce",
+    "Vietnam import duties",
+    "Vietnam market entry",
+    "digital payments",
+  ],
+};
 ---
 
 <BaseLayout title={title} description={description}>
+  <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
   <article class="about-page">
     <header class="about-header">
       <h1>{title}</h1>
       <p class="about-lead">Vietnam Market Insights is an independent reference project providing factual, neutral information about Vietnam's business landscape. We currently focus on ecommerce and the digital economy; we plan to expand into financial market data and tools over time.</p>
     </header>
 
-    <!-- Methodology Statement -->
-    <section class="about-section">
-      <h2>Methodology</h2>
-      <p>
-        This site compiles publicly available data and summaries from government publications,
-        industry reports, and open sources. Information is structured for reference purposes.
-        Sources include the Ministry of Industry and Trade, State Bank of Vietnam,
-        Vietnam E-commerce Association, and international organizations including the World Bank and IMF.
-        All data is attributed to original sources. Content is updated quarterly to reflect available statistics.
-      </p>
+    <!-- Who's behind this -->
+    <section class="about-section maker-section" aria-labelledby="maker-heading">
+      <h2 id="maker-heading">Who's behind this</h2>
+      <div class="maker-card">
+        <div class="maker-avatar" aria-hidden="true">BN</div>
+        <div class="maker-body">
+          <p class="maker-name">Built and maintained by Bo Nguyen</p>
+          <p class="maker-role">Maker &amp; maintainer</p>
+          <p class="maker-bio">
+            This is a solo, independent project — not a company, an agency, or a content farm.
+            I build the datasets, the calculators, and the daily news pipeline myself, and I read
+            Vietnam's primary sources — government decrees, General Statistics Office and State Bank
+            figures, Customs tariff tables — in the original Vietnamese and translate them into plain
+            English for foreign operators. No employer affiliation, no sponsored content, no affiliate
+            links. If a figure looks wrong, tell me and I'll fix it: every dataset is dated and every
+            number is sourced.
+          </p>
+          <p class="maker-links">
+            <a href="https://github.com/bonguynvan" target="_blank" rel="noopener noreferrer me">GitHub → github.com/bonguynvan</a>
+            <a href="mailto:bo@vnmarketinsights.com">bo@vnmarketinsights.com</a>
+          </p>
+        </div>
+      </div>
     </section>
 
     <!-- Mission Statement -->
@@ -96,7 +134,7 @@ const description = "About Vietnam Market Insights - mission, methodology, edito
       <p>Every significant claim has a source. We prefer public sources that readers can verify themselves. When using proprietary reports, we note the limitation.</p>
 
       <h3>Currency</h3>
-      <p>We date all content and update regularly. Market data becomes outdated quickly—we aim to refresh content quarterly or when significant changes occur.</p>
+      <p>We date every dataset and page, and update as new figures are published or regulations change. Reference statistics are refreshed on a rolling basis; the market brief is generated from primary news sources on a daily pipeline. When a number changes, the date stamp changes with it.</p>
 
       <h3>Clarity</h3>
       <p>We write for busy professionals. Content is organized for scanning, with clear headings, bullet points, and concise explanations of technical terms.</p>
@@ -201,6 +239,64 @@ const description = "About Vietnam Market Insights - mission, methodology, edito
 
     .about-section {
       margin-bottom: var(--space-12);
+    }
+
+    .maker-card {
+      display: flex;
+      gap: var(--space-5);
+      align-items: flex-start;
+      background: var(--color-bg-subtle);
+      border: 1px solid var(--color-border);
+      border-left: 3px solid var(--color-accent);
+      padding: var(--space-6);
+      border-radius: 2px;
+      margin-top: var(--space-5);
+    }
+
+    .maker-avatar {
+      flex-shrink: 0;
+      width: 56px;
+      height: 56px;
+      border-radius: 50%;
+      background: var(--color-accent);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: var(--text-lg);
+      letter-spacing: 0.03em;
+    }
+
+    .maker-name {
+      font-weight: 600;
+      font-size: var(--text-lg);
+      margin: 0;
+    }
+
+    .maker-role {
+      font-size: var(--text-sm);
+      color: var(--color-text-muted);
+      margin: var(--space-1) 0 var(--space-3);
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .maker-bio {
+      margin: 0 0 var(--space-4);
+      line-height: var(--leading-relaxed);
+    }
+
+    .maker-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-2) var(--space-5);
+      margin: 0;
+      font-size: var(--text-sm);
+    }
+
+    @media (max-width: 480px) {
+      .maker-card { flex-direction: column; gap: var(--space-4); }
     }
 
     .about-section h2 {
