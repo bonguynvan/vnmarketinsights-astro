@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-07-31"
-lastUpdated: "2026-07-31"
+publishedDate: "2026-08-01"
+lastUpdated: "2026-08-01"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)**  
+
+Phạm Thị Huyền Trang has been appointed as General Director of Eximbank effective August 1, 2026, following her previous role as Board Chair. The appointment, approved by the State Bank of Vietnam, has a three-year tenure. An extraordinary shareholder meeting is scheduled for October 2026 to review personnel matters.
+
+- Source: [CafeF](https://cafef.vn/ba-pham-thi-huyen-trang-lam-tong-giam-doc-eximbank-tu-hom-ngay-1-8-188260801151516876.chn)
 
 **Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
 
@@ -79,17 +85,11 @@ TPBank donated 15 billion Vietnamese dong to the "Gratitude Fund" in response to
 
 - Source: [CafeF](https://cafef.vn/tpbank-ung-ho-15-ty-dong-cho-quy-den-on-dap-nghia-gop-phan-tri-an-nguoi-co-cong-voi-cach-mang-188260723154658527.chn)
 
-**Ông Trần Văn Phước được bổ nhiệm làm Giám đốc NHNN Khu vực 15**  
-
-Trần Văn Phước has been appointed as Director of the State Bank of Vietnam's Region 15 branch, effective July 15, 2026, until retirement age. The appointment was announced at a conference held on July 21 in An Giang province. Region 15 covers An Giang and Cà Mau provinces.
-
-- Source: [CafeF](https://cafef.vn/ong-tran-van-phuoc-duoc-bo-nhiem-lam-giam-doc-nhnn-khu-vuc-15-188260722090613228.chn)
-
 ## Related coverage
 
-- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
 - [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
 
 ---

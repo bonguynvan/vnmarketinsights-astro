@@ -1,8 +1,8 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-07-31"
-lastUpdated: "2026-07-31"
+publishedDate: "2026-08-01"
+lastUpdated: "2026-08-01"
 category: "Company"
 readingTime: 3
 ---

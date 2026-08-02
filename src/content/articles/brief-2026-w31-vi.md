@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 31/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 31 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-07-31"
-lastUpdated: "2026-07-31"
+publishedDate: "2026-08-01"
+lastUpdated: "2026-08-01"
 category: "Market Brief"
-readingTime: 16
+readingTime: 15
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 31/2026
@@ -13,9 +13,22 @@ readingTime: 16
 
 # Tổng quan thị trường tuần này
 
-Ngành ngân hàng Việt Nam ghi nhận kết quả kinh doanh nổi bật trong nửa đầu năm 2026, với nhiều ngân hàng công bố mức tăng lợi nhuận từ 25% đến gần 500% so với cùng kỳ năm trước, trong đó Vietcombank đạt lợi nhuận quý II cao nhất từ trước đến nay ở mức 17.420 tỷ đồng. Bên cạnh đó, Ngân hàng Nhà nước thực hiện các điều chỉnh chính sách như giảm tỷ lệ khấu trừ tiền gửi Kho bạc từ 80% xuống 50% (có hiệu lực từ 1/8/2026) và siết chặt các quy định về thanh toán số để chống lừa đảo. Trên diễn đàn hạ tầng, Hải Phòng phê duyệt các dự án đầu tư mới với tổng vốn 3,2 tỷ USD và khởi động khu kinh tế quy mô 6.200 hectare kết nối với cầu vượt biển khu vực Đông Nam Á.
+Thị trường ngân hàng Việt Nam ghi nhận kết quả kinh doanh bán niên 2026 khá tích cực với nhiều ngân hàng công bố mức tăng trưởng lợi nhuận đáng kể, trong khi ngành bất động sản được mong đợi hưởng lợi từ các định hướng pháp lý mới về căn hộ và chung cư cũ. Ngoài ra, các cơ quan chức năng tiếp tục thực hiện các biện pháp quản lý chặt chẽ về chống lừa đảo và thanh toán số, còn một số đường dây vi phạm liên quan đến hóa đơn giá trị gia tăng trái phép cũng được triệt phá.
 
 ## Pháp lý
+
+**Đề xuất quy định niên hạn sử dụng căn hộ: Gỡ 'nút thắt' hàng chục năm trong cải tạo chung cư cũ**  
+
+Đề xuất quy định niên hạn sử dụng cho căn hộ được đánh giá là bước đột phá để gỡ những rào cản quy định dài hạn trong cải tạo chung cư cũ và nhà tập thể. Viện Nghiên cứu và đánh giá thị trường bất động sản (VARS IRE) xem đây là định hướng quan trọng để hoàn thiện khung pháp lý cho chung cư và giải quyết những vấn đề tồn tại trong cải tạo, xây dựng lại chung cư cũ.
+
+- Nguồn: [CafeF](https://cafef.vn/de-xuat-quy-dinh-nien-han-su-dung-can-ho-go-nut-that-hang-chuc-nam-trong-cai-tao-chung-cu-cu-188260801133542846.chn)
+
+**Đà Nẵng: Triệt phá đường dây mua bán hóa đơn khống hơn 2.000 tỷ đồng**  
+
+Cảnh sát Đà Nẵng đã triệt phá một đường dây mua bán hóa đơn giá trị gia tăng trái phép hoạt động tại Đà Nẵng và TP Hồ Chí Minh với tổng giá trị giao dịch vượt quá 2.000 tỷ đồng. Cuộc điều tra phát hiện Công ty Cổ phần Dưỡng khí Đà Nẵng nằm ở Khu công nghiệp Hòa Khánh, do Nguyễn Anh Tuấn (58 tuổi) ở phường An Khê, TP Đà Nẵng điều hành là trung tâm của vụ việc. Vụ án được công bố vào ngày 1/8 bởi Phòng Cảnh sát kinh tế, Công an TP Đà Nẵng.
+
+- Số liệu chính: Total transaction value of illegal VAT invoice trading: 2,000 billion dong; Age of main suspect: 58 years
+- Nguồn: [CafeF](https://cafef.vn/da-nang-triet-pha-duong-day-mua-ban-hoa-don-khong-hon-2000-ty-dong-18826080113494365.chn)
 
 **Nóng: Ngân hàng Nhà nước nâng tỷ lệ tính tiền gửi Kho bạc Nhà nước vào LDR lên 50%, áp dụng chính thức từ ngày mai (1/8)**  
 
@@ -37,13 +50,14 @@ Từ ngày 1/7/2026, Cục Thuế áp dụng Nghị định 253/2026/NĐ-CP quy 
 - Số liệu chính: Maximum personal income tax rate: 35% %; Decree effective date: 1/7/2026 date
 - Nguồn: [CafeF](https://cafef.vn/tu-thang-nay-cuc-thue-co-the-danh-thue-tncn-len-den-35-neu-nhu-phat-hien-ca-nhan-lam-dich-vu-kol-koc-khong-lam-viec-sau-18826073110423512.chn)
 
-**Sẽ thí điểm cơ chế Nhà nước mua lại dự án nhà ở không còn khả năng thực hiện**  
-
-Bộ Chính trị yêu cầu trình Quốc hội ban hành nghị quyết về thí điểm cơ chế Nhà nước mua lại dự án nhà ở thương mại của những chủ đầu tư không còn khả năng thực hiện. Chính sách này nhằm giải quyết các dự án bất động sản bị treo lơ lửng và tạo khung pháp lý cho sự can thiệp của Nhà nước. Chương trình thí điểm đại diện cho một cách tiếp cận mới trong quản lý các dự án phát triển nhà ở có vấn đề trên thị trường bất động sản Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/se-thi-diem-co-che-nha-nuoc-mua-lai-du-an-nha-o-khong-con-kha-nang-thuc-hien-188260730072215658.chn)
-
 ## Chứng khoán
+
+**Hơn 3.700 cán bộ nhân viên của một ngân hàng lớn nghỉ việc**  
+
+Sacombank đã sa thải hơn 3.700 nhân viên trong nửa đầu năm 2026, được các quan sát viên ngành ngân hàng đánh giá là đợt cắt giảm nhân sự lớn nhất của ngân hàng cho đến nay. Lực lượng lao động hợp nhất giảm từ 16.816 nhân viên vào cuối năm 2025 xuống còn 14.080 vào cuối quý 1 năm 2026, giảm 2.736 nhân viên chỉ trong ba tháng. Số lượng nhân viên công ty mẹ giảm xuống 13.281 từ 15.851, phản ánh mức giảm 2.570 nhân viên.
+
+- Số liệu chính: Consolidated employees at 31/12/2025: 16,816; Consolidated employees at 31/3/2026: 14,080; Consolidated employee reduction in Q1 2026: 2,736; Standalone subsidiary employees at 31/12/2025: 15,851
+- Nguồn: [CafeF](https://cafef.vn/hon-3700-can-bo-nhan-vien-cua-mot-ngan-hang-lon-nghi-viec-188260801170040619.chn)
 
 **Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
 
@@ -127,20 +141,20 @@ Ngân hàng TMCP Hàng Hải Việt Nam (MSB) công bố kết quả kinh doanh 
 - Số liệu chính: Consolidated pre-tax profit (first half 2026): 3.423 trillion VND VND; Pre-tax profit growth YoY: 7.9% %; Total assets (first half 2026): 441,000 billion VND VND; Total assets growth YoY: 29.2% %
 - Nguồn: [CafeF](https://cafef.vn/msb-cong-bo-ket-qua-kinh-doanh-6-thang-tong-tai-san-tang-truong-gan-30-so-voi-cung-ky-188260730204054846.chn)
 
-**Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...**  
-
-Nhiều ngân hàng Việt Nam công bố báo cáo tài chính quý II/2026. Vietcombank báo cáo lợi nhuận trước thuế tăng 58% trong quý 2 năm 2026, với tổng tài sản vượt quá 2.657 triệu tỷ đồng (tăng 8,8% so với đầu năm), dư nợ cho vay khách hàng đạt 1.758 triệu tỷ đồng (tăng 5,1%), và tiền gửi khách hàng đạt 1.729 triệu tỷ đồng (tăng 3,4%).
-
-- Số liệu chính: Vietcombank pre-tax profit growth Q2 2026: 58% percent; Vietcombank total assets as of 30/6/2026: 2,657 trillion dong; Vietcombank total assets growth from year-start: 8.8 percent; Vietcombank customer loans: 1,758 trillion dong
-- Nguồn: [CafeF](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn)
-
-**NCB tăng tốc mạnh mẽ trong nửa đầu 2026, sẵn sàng năng lực cho giai đoạn tăng trưởng mới**  
-
-NCB ghi nhận kết quả kinh doanh tăng trưởng mạnh mẽ trong 6 tháng đầu năm 2026, với nhiều chỉ tiêu vượt kế hoạch đã đặt ra. Sự tăng trưởng này là kết quả của 5 năm triển khai phương án cơ cấu lại và chiến lược chuyển đổi toàn diện nhằm phát triển bền vững. Những kết quả này tạo nền tảng cho giai đoạn tăng trưởng mới.
-
-- Nguồn: [CafeF](https://cafef.vn/ncb-tang-toc-manh-me-trong-nua-dau-2026-san-sang-nang-luc-cho-giai-doan-tang-truong-moi-188260729144431184.chn)
-
 ## Kinh tế vĩ mô
+
+**EVN chuẩn bị toàn diện cho dự án điện hạt nhân đầu tiên của Việt Nam**  
+
+Tập đoàn Điện lực Việt Nam (EVN) đang chuẩn bị toàn diện cho dự án nhà máy điện hạt nhân đầu tiên của Việt Nam. Công ty đang tập trung giải quyết ba nhóm thách thức lớn và triển khai năm nhóm giải pháp trọng tâm để hỗ trợ việc xây dựng nhà máy. Việt Nam đang tích cực chuẩn bị triển khai chương trình điện hạt nhân, bao gồm đầu tư xây dựng lò phản ứng hạt nhân nghiên cứu mới và mở rộng ứng dụng năng lượng nguyên tử vì mục đích hòa bình trong nhiều lĩnh vực kinh tế.
+
+- Nguồn: [CafeF](https://cafef.vn/evn-chuan-bi-toan-dien-cho-du-an-dien-hat-nhan-dau-tien-cua-viet-nam-18826080118550423.chn)
+
+**Giá trị khoa học công nghệ Việt từ công trình mỏ Đại Hùng**  
+
+Mỏ Đại Hùng, từng bị các tập đoàn dầu khí quốc tế đánh giá là không hiệu quả và chuyển nhượng chỉ với giá 1 USD, hiện nay đã mang lại doanh thu hơn 4,5 tỷ USD và trở thành minh chứng cho năng lực khoa học - công nghệ của kỹ sư Việt Nam. Mỏ Đại Hùng (Lô 05-1A, bồn trũng Nam Côn Sơn) nằm ở vùng nước sâu 110-120 m, cách Vũng Tàu khoảng 265 km. Công trình này thể hiện khả năng làm chủ công nghệ của Việt Nam.
+
+- Số liệu chính: Total revenue from Dai Hung oil field: 4.5 billion USD; Original sale price of Dai Hung field: 1 USD; Water depth of Dai Hung field: 110-120 meters; Distance from Vung Tau: 265 kilometers
+- Nguồn: [CafeF](https://cafef.vn/gia-tri-khoa-hoc-cong-nghe-viet-tu-cong-trinh-mo-dai-hung-188260801190034593.chn)
 
 **Vượt bẫy thu nhập trung bình: Không thể đi tiếp bằng mô hình tăng trưởng cũ**  
 
@@ -161,19 +175,6 @@ Thành phố Hải Phòng chính thức khởi động một đại công trình
 Khoảng cách giữa tăng trưởng tín dụng và huy động vốn tiếp tục nới rộng khi nhu cầu vốn của nền kinh tế ở mức cao. Mặc dù thanh khoản ngắn hạn trên thị trường liên ngân hàng đã cải thiện, nhưng áp lực huy động vốn, chi phí đầu vào và mất cân đối kỳ hạn vẫn khiến dư địa giảm lãi suất ngày càng hẹp. Báo cáo tài chính quý II/2026 của các ngân hàng cho thấy tín dụng tăng nhanh nhưng huy động vốn chưa theo kịp.
 
 - Nguồn: [CafeF](https://cafef.vn/mat-bang-lai-suat-chua-het-ap-luc-khi-nhu-cau-von-o-muc-cao-188260730094029243.chn)
-
-**Chuyên gia thuế: Việt Nam lập kỷ lục với 2,65 triệu tỷ đồng, một khoản thu bất thường xuất hiện trong tổng thu ngân sách cao nhất lịch sử**  
-
-Việt Nam ghi nhận mức thu ngân sách kỷ lục 2,65 triệu tỷ đồng, theo lời của chuyên gia thuế Nguyễn Văn Phụng, một chuyên gia cao cấp về thuế và quản trị doanh nghiệp, cũng là nguyên Cục trưởng cục thuế Doanh nghiệp lớn. Chuyên gia này cho rằng con số kỷ lục này không chỉ do sự chuyển mình của nền kinh tế mà còn là kết quả của cuộc cách mạng quản lý thuế kéo dài hơn 10 năm dựa trên dữ liệu, minh bạch hóa dòng tiền, và chiến lược chuyển dịch nguồn thu từ bất động sản sang công nghệ và sản xuất. Năm 2025 được xem là một cột mốc quan trọng trong quá trình cải cách này.
-
-- Số liệu chính: Record budget revenue: 2.65 quadrillion dong VND; Duration of tax management reform: over 10 years years
-- Nguồn: [CafeF](https://cafef.vn/chuyen-gia-thue-viet-nam-lap-ky-luc-voi-265-trieu-ty-dong-mot-khoan-thu-bat-thuong-xuat-hien-trong-tong-thu-ngan-sach-cao-nhat-lich-su-188260730115059854.chn)
-
-**Gặp Phó Thủ tướng, Chủ tịch hiệp hội hơn 3.000 DN thừa nhận 3 lợi thế của VN trong lĩnh vực 1.000 tỷ USD**  
-
-Chủ tịch hiệp hội đại diện hơn 3.000 doanh nghiệp đã gặp Phó Thủ tướng để thảo luận ba lợi thế cạnh tranh của Việt Nam trong một lĩnh vực trị giá một nghìn tỷ USD. Lĩnh vực này được dự kiến sẽ tạo ra giá trị lớn cho nền kinh tế toàn cầu. Bối cảnh cho thấy điều này liên quan đến tiềm năng phát triển kinh tế và đầu tư lớn cho Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/gap-pho-thu-tuong-chu-tich-hiep-hoi-hon-3000-dn-thua-nhan-3-loi-the-cua-vn-trong-linh-vuc-1000-ty-usd-188260730164609992.chn)
 
 ## Khác
 

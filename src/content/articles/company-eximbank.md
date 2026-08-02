@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-07-31"
-lastUpdated: "2026-07-31"
+publishedDate: "2026-08-01"
+lastUpdated: "2026-08-01"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)**  
+
+Phạm Thị Huyền Trang has been appointed as General Director of Eximbank effective August 1, 2026, following her previous role as Board Chair. The appointment, approved by the State Bank of Vietnam, has a three-year tenure. An extraordinary shareholder meeting is scheduled for October 2026 to review personnel matters.
+
+- Source: [CafeF](https://cafef.vn/ba-pham-thi-huyen-trang-lam-tong-giam-doc-eximbank-tu-hom-ngay-1-8-188260801151516876.chn)
 
 **Quyền Tổng giám đốc một ngân hàng xin từ nhiệm, đề nghị thôi chức từ ngày mai (1/8)**  
 
@@ -79,18 +85,12 @@ Trần Tấn Lộc has been reappointed as Acting General Director of Eximbank. 
 
 - Source: [CafeF](https://cafef.vn/ong-tran-tan-loc-tiep-tuc-lam-quyen-tong-giam-doc-eximbank-188260703135653431.chn)
 
-**Diễn biến mới phương án nhân sự HĐQT ở Eximbank**  
-
-Eximbank announced an adjustment to reduce the number of Board of Directors members for the eighth term (2025–2030) through Resolution 175A/2026/EIB/NQ-HĐQT issued on June 23, 2026. The bank will elect and appoint replacements for 6 board members instead of the previously planned 7 members. The total board size for the eighth term has been reduced from 8 members.
-
-- Source: [CafeF](https://cafef.vn/dien-bien-moi-phuong-an-nhan-su-hdqt-o-eximbank-18826062418240156.chn)
-
 ## Related coverage
 
+- [Diễn biến mới phương án nhân sự HĐQT ở Eximbank](https://cafef.vn/dien-bien-moi-phuong-an-nhan-su-hdqt-o-eximbank-18826062418240156.chn) — CafeF
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 15/7: Thêm nhà băng báo lãi tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-15-7-them-nha-bang-bao-lai-tang-vot-188260715154021257.chn) — CafeF
 - [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 
 ---
 
