@@ -1,17 +1,35 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả**  
+
+Phạm Thị Huyền Trang has been appointed as the new Chief Executive Officer (CEO/Tổng Giám đốc) of Eximbank. Within over one year at the bank, she has progressed through three senior leadership positions: board member, board chairperson, and now CEO. She brings approximately 20 years of experience in finance, banking, and business management from previous roles at VietinBank, Sun Group, and Đèo Cả Corporation.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-tong-giam-doc-eximbank-hon-mot-nam-trai-qua-ba-vi-tri-lanh-dao-cao-nhat-tai-ngan-hang-tung-lam-viec-tai-vietinbank-sun-group-va-tap-doan-deo-ca-188260802080734159.chn)
+
+**Tránh tình trạng Nhà hát, Trung tâm Hội nghị APEC... hoàn thành nhưng không thể đưa vào sử dụng, lãnh đạo tỉnh An Giang yêu cầu phải làm ngay việc này**  
+
+An Giang province leadership is emphasizing the need to avoid situations where major facilities like theaters and conference centers are completed but cannot be put into use, in the context of accelerating 21 priority projects for the 2027 APEC high-level conference. The provincial chairman praised the efforts of Phu Quoc special zone administration, investors, contractors, and Sun Group in advancing these projects. A 3,300-meter runway at Sun Group's airport project recently set a record in construction history.
+
+- Source: [CafeF](https://cafef.vn/tranh-tinh-trang-nha-hat-trung-tam-hoi-nghi-apec-hoan-thanh-nhung-khong-the-dua-vao-su-dung-lanh-dao-tinh-an-giang-yeu-cau-phai-lam-ngay-viec-nay-188260802133527254.chn)
+
+**Sun Group đầu tư 40.000 tỷ đồng xây gần 50.000 căn nhà ở xã hội, nhà ở cho thuê "tiêu chuẩn Singapore" tại Phú Quốc**  
+
+Sun Group launched a housing development program at the An Thới urban area in Phú Quốc with an investment of 40,000 billion VND to construct approximately 50,000 social housing units and rental housing to Singapore standards. The formal program initiation ceremony was held on August 2, 2026, marking a key milestone in realizing the company's social housing and urban infrastructure development strategy. The project aims to improve living standards and social welfare for local residents.
+
+- Source: [CafeF](https://cafef.vn/sun-group-dau-tu-40000-ty-dong-xay-gan-50000-can-nha-o-xa-hoi-nha-o-cho-thue-tieu-chuan-singapore-tai-phu-quoc-188260802165120488.chn)
 
 **Xây tổ hợp dự án 10.750 tỉ đồng 'biểu tượng mới' bên sông Hàn Đà Nẵng**  
 
@@ -67,30 +85,12 @@ Bac Ninh Province approved an additional 145 billion dong in public investment c
 
 - Source: [CafeF](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn)
 
-**Ngân hàng Nhà nước nêu lý do miễn "room tín dụng” cho 18 dự án**  
-
-The State Bank of Vietnam has announced exemptions from credit growth caps for 18 infrastructure projects from three conglomerates: Vingroup, Sun Group, and Masterise. The exemption aims to exclude outstanding credit from these projects from the credit growth limit calculation. According to Deputy Director Phạm Chí Quang of the Monetary Policy Department, these projects are considered drivers of economic growth.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-ly-do-mien-room-tin-dung-cho-18-du-an-188260703181521537.chn)
-
-**"Tháo van" tín dụng: Ngân hàng Nhà nước phát tín hiệu bơm 1,5 triệu tỷ đồng**  
-
-The State Bank of Vietnam is signaling a focused credit expansion cycle through a series of policy measures, including special room allocations for 18 priority projects from Vingroup, Sun Group, and Masterise. The central bank is adjusting systemic management indicators and preparing to inject approximately 1.5 quadrillion Vietnamese dong into the economy. These measures represent a significant policy shift toward strategic credit loosening.
-
-- Source: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
-
-**Ngân hàng được mở rộng cho vay dài hạn có thể gây sức ép lên thanh khoản và lãi suất**  
-
-Banks have been granted expanded permissions for medium and long-term lending, but the banking system lacks additional sources of capital mobilization to support this expansion. This mismatch could prolong liquidity pressure and upward pressure on deposit interest rates.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-duoc-mo-rong-cho-vay-dai-han-co-the-gay-suc-ep-len-thanh-khoan-va-lai-suat-188260626103811982.chn)
-
 ## Related coverage
 
-- [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
-- [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
+- [Một nhà ga của sân bay đông đúc nhất Việt Nam đứng trước thay đổi lớn chưa từng có](https://cafef.vn/mot-nha-ga-cua-san-bay-dong-duc-nhat-viet-nam-dung-truoc-thay-doi-lon-chua-tung-co-188260716145840464.chn) — CafeF
+- [240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn) — CafeF
+- [Ngân hàng Nhà nước nêu lý do miễn "room tín dụng” cho 18 dự án](https://cafef.vn/ngan-hang-nha-nuoc-neu-ly-do-mien-room-tin-dung-cho-18-du-an-188260703181521537.chn) — CafeF
 
 ---
 

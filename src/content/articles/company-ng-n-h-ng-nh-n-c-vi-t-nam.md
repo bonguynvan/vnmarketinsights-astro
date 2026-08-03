@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---

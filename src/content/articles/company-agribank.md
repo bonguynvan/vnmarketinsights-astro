@@ -1,17 +1,35 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (75 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (78 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng Agribank mới nhất tháng 8/2026: Mức cao nhất là bao nhiêu?**  
+
+Agribank announced its August 2026 deposit interest rates with a maximum rate of 6% per annum for over-the-counter deposits and 6.8% per annum for online deposits. The online channel maintained preferential rates across most deposit terms. The rates were effective from early August 2026.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-8-2026-muc-cao-nhat-la-bao-nhieu-188260802075809885.chn)
+
+**Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit interest rates at 34 banks on August 2 shows the rate environment remains stable. ACB leads with 7.8% per annum for 12-month terms and is among 7 banks offering rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn)
+
+**Nợ xấu ngân hàng gia tăng**  
+
+Non-performing loans (NPLs) at Vietnamese banks showed notable increases in the first half of 2026, with the rate of NPL growth outpacing credit expansion despite most banks maintaining NPL ratios below the 3% regulatory threshold. The article covers banking sector developments including interest rate information and branch closures at financial institutions. Current NPL trends indicate a divergence between credit growth and asset quality metrics across the banking system.
+
+- Source: [CafeF](https://cafef.vn/no-xau-ngan-hang-gia-tang-188260802200644186.chn)
 
 **Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -67,30 +85,12 @@ A survey of online deposit interest rates at 34 banks on July 28 shows that the 
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-28-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826072820364625.chn)
 
-**Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on July 27 found that 7 banks quoted rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covered major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects the competitive landscape in Vietnam's banking sector regarding deposit rate offerings.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn)
-
-**Dư nợ toàn nền kinh tế vượt 20 triệu tỷ đồng: Đại diện Ngân hàng Nhà nước cập nhật số liệu tăng trưởng tín dụng mới nhất**  
-
-Vietnam's total economic outstanding debt exceeded 20 million billion Vietnamese dong, according to a State Bank of Vietnam official update. In the first half of the year, the banking system supplied approximately 1.46 million billion dong in additional credit to the economy to support production, business operations and economic growth.
-
-- Source: [CafeF](https://cafef.vn/du-no-toan-nen-kinh-te-vuot-20-trieu-ty-dong-dai-dien-ngan-hang-nha-nuoc-cap-nhat-so-lieu-tang-truong-tin-dung-moi-nhat-18826072615195886.chn)
-
-**Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates on July 26 shows that 7 banks quote rates of 7% per annum or higher for 12-month terms, with the highest rate reaching 7.8% per annum. The survey covers major banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank. This reflects current market conditions for Vietnamese bank deposit products.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
-- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
+- [Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn) — CafeF
+- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 
 ---
 

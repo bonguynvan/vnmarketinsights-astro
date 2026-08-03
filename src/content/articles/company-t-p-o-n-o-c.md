@@ -1,17 +1,23 @@
 ---
 title: "Tập đoàn Đèo Cả — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Đèo Cả, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Tập đoàn Đèo Cả
 
-Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả**  
+
+Phạm Thị Huyền Trang has been appointed as the new Chief Executive Officer (CEO/Tổng Giám đốc) of Eximbank. Within over one year at the bank, she has progressed through three senior leadership positions: board member, board chairperson, and now CEO. She brings approximately 20 years of experience in finance, banking, and business management from previous roles at VietinBank, Sun Group, and Đèo Cả Corporation.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-tong-giam-doc-eximbank-hon-mot-nam-trai-qua-ba-vi-tri-lanh-dao-cao-nhat-tai-ngan-hang-tung-lam-viec-tai-vietinbank-sun-group-va-tap-doan-deo-ca-188260802080734159.chn)
 
 **Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
 
@@ -42,7 +48,7 @@ Thai Nguyen Province and Deo Ca Group discussed an investment plan for a tunnel-
 - [Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn) — CafeF
 - [Đèo Cả nghiên cứu xây hầm xuyên núi dài gần 19km kết nối Phú Thọ - Thái Nguyên - Hà Nội, phấn đấu khởi công ngay năm sau](https://cafef.vn/deo-ca-nghien-cuu-xay-ham-xuyen-nui-dai-gan-19km-ket-noi-phu-tho-thai-nguyen-ha-noi-phan-dau-khoi-cong-ngay-nam-sau-188260709103020019.chn) — CafeF
 - [Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn) — CafeF
-- [Thống đốc: Chúng ta tập trung vào tăng trưởng kinh tế, tập trung vào tín dụng, vì vậy khi thiếu hụt vốn thì đương nhiên lãi suất lên cao](https://cafef.vn/thong-doc-chung-ta-tap-trung-vao-tang-truong-kinh-te-tap-trung-vao-tin-dung-vi-vay-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn) — CafeF
+- [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
 
 ---
 

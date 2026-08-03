@@ -1,19 +1,37 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 31/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 31 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Market Brief"
-readingTime: 15
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 31/2026
 
 ## Tổng quan
 
-# Tổng quan thị trường tuần này
+# Tổng quan thị trường Việt Nam tuần này
 
-Thị trường ngân hàng Việt Nam ghi nhận kết quả kinh doanh bán niên 2026 khá tích cực với nhiều ngân hàng công bố mức tăng trưởng lợi nhuận đáng kể, trong khi ngành bất động sản được mong đợi hưởng lợi từ các định hướng pháp lý mới về căn hộ và chung cư cũ. Ngoài ra, các cơ quan chức năng tiếp tục thực hiện các biện pháp quản lý chặt chẽ về chống lừa đảo và thanh toán số, còn một số đường dây vi phạm liên quan đến hóa đơn giá trị gia tăng trái phép cũng được triệt phá.
+Các ngân hàng Việt Nam ghi nhận mức tăng trưởng lợi nhuận đáng kể trong nửa đầu năm 2026, với nhiều đơn vị đạt tăng trưởng từ 50% đến gần 500%, phản ánh điều kiện thị trường thuận lợi và chất lượng tài sản cải thiện. Cùng lúc, các dự án hạ tầng lớn như Cảng hàng không quốc tế Long Thành và nhà máy điện hạt nhân đầu tiên của Việt Nam đang được tập trung hoàn thiện, trong khi các chương trình phát triển bất động sản quy mô lớn được khởi động với mục tiêu nâng cao chất lượng sống. Tuy nhiên, một số doanh nghiệp như PV Oil ghi nhận mức doanh thu kỷ lục nhưng báo lỗ, và các ngân hàng như Sacombank thực hiện cắt giảm nhân sự đáng kể.
+
+## Thương mại điện tử
+
+**Sun Group đầu tư 40.000 tỷ đồng xây gần 50.000 căn nhà ở xã hội, nhà ở cho thuê "tiêu chuẩn Singapore" tại Phú Quốc**  
+
+Tập đoàn Sun Group khởi động chương trình phát triển nhà ở tại khu đô thị An Thới, Phú Quốc với mức đầu tư 40.000 tỷ đồng để xây dựng gần 50.000 căn nhà ở xã hội và nhà ở cho thuê đạt tiêu chuẩn Singapore. Lễ khởi động chương trình được tổ chức vào ngày 2/8/2026, đánh dấu bước tiến quan trọng trong việc thực hiện chiến lược phát triển nhà ở xã hội và hạ tầng đô thị. Dự án nhằm nâng cao chất lượng sống và an sinh xã hội cho người dân địa phương.
+
+- Số liệu chính: Investment amount: 40,000 billion VND; Number of social housing units: approximately 50,000 units
+- Nguồn: [CafeF](https://cafef.vn/sun-group-dau-tu-40000-ty-dong-xay-gan-50000-can-nha-o-xa-hoi-nha-o-cho-thue-tieu-chuan-singapore-tai-phu-quoc-188260802165120488.chn)
+
+## Logistics
+
+**Diễn biến mới nhất về 'siêu' sân bay lớn nhất Việt Nam**  
+
+Cục Hàng không Việt Nam gửi văn bản cho Bộ Xây dựng và Ban chỉ đạo công tác chuẩn bị khai thác về các điều kiện đưa Cảng hàng không quốc tế Long Thành vào khai thác chính thức từ 1/12/2026. Các hạng mục Dự án thành phần 3 bao gồm khu bay, nhà ga hành khách, nhà ga hàng hóa, hệ thống giao thông nội cảng, hạ tầng kỹ thuật và công trình phụ trợ đang được tập trung hoàn thiện.
+
+- Số liệu chính: Ngày khai thác chính thức dự kiến: 1/12/2026
+- Nguồn: [CafeF](https://cafef.vn/dien-bien-moi-nhat-ve-sieu-san-bay-lon-nhat-viet-nam-18826080210242866.chn)
 
 ## Pháp lý
 
@@ -51,6 +69,13 @@ Từ ngày 1/7/2026, Cục Thuế áp dụng Nghị định 253/2026/NĐ-CP quy 
 - Nguồn: [CafeF](https://cafef.vn/tu-thang-nay-cuc-thue-co-the-danh-thue-tncn-len-den-35-neu-nhu-phat-hien-ca-nhan-lam-dich-vu-kol-koc-khong-lam-viec-sau-18826073110423512.chn)
 
 ## Chứng khoán
+
+**Xuất hiện DN có doanh thu vượt xa Hòa Phát, Thế Giới Di Động, Vietnam Airlines,… nhưng báo lỗ**  
+
+Công ty dầu khí PV Oil (OIL) ghi nhận doanh thu kỷ lục hơn 90.000 tỷ đồng trong quý 2/2026, tăng 125% so với cùng kỳ năm trước, đưa công ty trở thành doanh nghiệp có doanh thu lớn thứ 3 trên sàn chứng khoán trong quý đó. Mặc dù doanh thu tăng trưởng mạnh mẽ, công ty báo lỗ trong quý 2/2026, lần đầu tiên kể từ quý 3/2022. Doanh thu của công ty hiện vượt xa các tập đoàn lớn như Hòa Phát, Thế Giới Di Động và Vietnam Airlines.
+
+- Số liệu chính: Q2 2026 Revenue: 90,000 billion VND VND; Year-over-year Revenue Growth: 125% %; Market Position by Revenue: 3rd largest on stock exchange ranking
+- Nguồn: [CafeF](https://cafef.vn/xuat-hien-dn-co-doanh-thu-vuot-xa-hoa-phat-the-gioi-di-dong-vietnam-airlines-nhung-bao-lo-1882608012245272.chn)
 
 **Hơn 3.700 cán bộ nhân viên của một ngân hàng lớn nghỉ việc**  
 
@@ -120,26 +145,6 @@ OCB báo cáo lợi nhuận trước thuế quý 2/2026 đạt 1.246 tỷ đồn
 
 - Số liệu chính: Q2 2026 pre-tax profit: 1.246 trillion VND; Q2 2026 YoY profit growth: 25 %; H1 2026 cumulative pre-tax profit: 2.470 trillion VND; H1 2026 YoY profit growth: 30.5 %
 - Nguồn: [CafeF](https://cafef.vn/ocb-bao-cao-loi-nhuan-tang-hon-30-trong-6-thang-dau-nam-188260730162805228.chn)
-
-**HDBank lập kỷ lục với khoản vay xã hội, bền vững hợp vốn quốc tế lớn nhất từ trước tới nay tại Việt Nam**  
-
-HDBank ký kết khoản vay xã hội bền vững hợp vốn quốc tế trị giá 721 triệu USD vào ngày 30/7, lập kỷ lục về khoản vay hợp vốn quốc tế lớn nhất từ trước tới nay do một tổ chức Việt Nam huy động. Giao dịch này phản ánh sự tin tưởng mạnh mẽ của các định chế tài chính toàn cầu đối với HDBank và triển vọng phát triển của nền kinh tế Việt Nam. Thành công này chứng tỏ sự phát triển của thị trường vốn Việt Nam và vị thế của HDBank trong huy động vốn quốc tế.
-
-- Số liệu chính: Syndicated sustainable social loan value: 721 million USD; Date of signing: 30/7
-- Nguồn: [CafeF](https://cafef.vn/hdbank-lap-ky-luc-voi-khoan-vay-xa-hoi-ben-vung-hop-von-quoc-te-lon-nhat-tu-truoc-toi-nay-tai-viet-nam-188260730175228182.chn)
-
-**Moody’s nâng triển vọng TPBank lên “Tích cực” giữa đà tăng trưởng bán niên**  
-
-Moody's nâng triển vọng xếp hạng của TPBank từ "Ổn định" lên "Tích cực" trong khi xác nhận xếp hạng tiền gửi và nhà phát hành dài hạn ở mức B1. Động thái này ghi nhận những tiến bộ của TPBank trong củng cố đệm vốn, duy trì chất lượng tài sản ổn định và cải thiện quản trị công ty.
-
-- Nguồn: [CafeF](https://cafef.vn/moodys-nang-trien-vong-tpbank-len-tich-cuc-giua-da-tang-truong-ban-nien-188260730180623705.chn)
-
-**MSB công bố kết quả kinh doanh 6 tháng: Tổng tài sản tăng trưởng gần 30% so với cùng kỳ**  
-
-Ngân hàng TMCP Hàng Hải Việt Nam (MSB) công bố kết quả kinh doanh 6 tháng năm 2026 với lợi nhuận trước thuế hợp nhất gần 3.423 tỷ đồng, tăng 7,9% so với cùng kỳ, và tổng tài sản đạt gần 441.000 tỷ đồng, tăng 29,2%. Các chỉ số an toàn và chất lượng tài sản được kiểm soát tốt, phản ánh mức tăng trưởng ổn định, bền vững và nâng cao hiệu quả hoạt động của Ngân hàng.
-
-- Số liệu chính: Consolidated pre-tax profit (first half 2026): 3.423 trillion VND VND; Pre-tax profit growth YoY: 7.9% %; Total assets (first half 2026): 441,000 billion VND VND; Total assets growth YoY: 29.2% %
-- Nguồn: [CafeF](https://cafef.vn/msb-cong-bo-ket-qua-kinh-doanh-6-thang-tong-tai-san-tang-truong-gan-30-so-voi-cung-ky-188260730204054846.chn)
 
 ## Kinh tế vĩ mô
 

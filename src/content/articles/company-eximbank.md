@@ -1,17 +1,23 @@
 ---
 title: "Eximbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Eximbank, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Eximbank
 
-Recent Vietnam market news mentioning **Eximbank** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Eximbank** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả**  
+
+Phạm Thị Huyền Trang has been appointed as the new Chief Executive Officer (CEO/Tổng Giám đốc) of Eximbank. Within over one year at the bank, she has progressed through three senior leadership positions: board member, board chairperson, and now CEO. She brings approximately 20 years of experience in finance, banking, and business management from previous roles at VietinBank, Sun Group, and Đèo Cả Corporation.
+
+- Source: [CafeF](https://cafef.vn/chan-dung-tan-tong-giam-doc-eximbank-hon-mot-nam-trai-qua-ba-vi-tri-lanh-dao-cao-nhat-tai-ngan-hang-tung-lam-viec-tai-vietinbank-sun-group-va-tap-doan-deo-ca-188260802080734159.chn)
 
 **Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)**  
 
@@ -79,18 +85,12 @@ Eximbank announced the scheduling of an extraordinary shareholder meeting planne
 
 - Source: [CafeF](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn)
 
-**Ông Trần Tấn Lộc tiếp tục làm Quyền Tổng Giám đốc Eximbank**  
-
-Trần Tấn Lộc has been reappointed as Acting General Director of Eximbank. The reappointment occurs as the bank undergoes significant personnel changes at both the Board of Directors and Management Board levels. An extraordinary shareholders' meeting is scheduled for July 2026.
-
-- Source: [CafeF](https://cafef.vn/ong-tran-tan-loc-tiep-tuc-lam-quyen-tong-giam-doc-eximbank-188260703135653431.chn)
-
 ## Related coverage
 
+- [Ông Trần Tấn Lộc tiếp tục làm Quyền Tổng Giám đốc Eximbank](https://cafef.vn/ong-tran-tan-loc-tiep-tuc-lam-quyen-tong-giam-doc-eximbank-188260703135653431.chn) — CafeF
 - [Diễn biến mới phương án nhân sự HĐQT ở Eximbank](https://cafef.vn/dien-bien-moi-phuong-an-nhan-su-hdqt-o-eximbank-18826062418240156.chn) — CafeF
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
 - [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 
 ---
 

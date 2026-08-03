@@ -1,17 +1,23 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Choáng ngợp tháp đôi kỷ lục thế giới cao 99 tầng, vốn hàng tỷ USD: Công ty con của Vingroup tham gia đề xuất**  
+
+A 99-story twin tower project with multi-billion USD capital is being proposed as a new architectural symbol for Hanoi's future development. A subsidiary of Vingroup is participating in this proposal. The project involves significant land acquisition affecting thousands of households.
+
+- Source: [CafeF](https://cafef.vn/choang-ngop-thap-doi-ky-luc-the-gioi-cao-99-tang-von-hang-ty-usd-cong-ty-con-cua-vingroup-tham-gia-de-xuat-188260801204723525.chn)
 
 **V-Green tạm dừng nhận hồ sơ nhượng quyền trạm sạc mới, vì sao?**  
 
@@ -79,18 +85,12 @@ The State Bank of Vietnam has permitted commercial banks to exclude new debt fro
 
 - Source: [CafeF](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn)
 
-**Cuộc chạy đua gom các trạm sạc lên app chung**  
-
-Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam with at least 53,685 electric vehicles. V-Green, part of the Vingroup ecosystem, operates approximately 150,000 charging ports for electric cars and motorcycles across 34 provinces and cities, representing the largest market coverage. The article discusses the rapid growth of electric vehicles and the fragmented charging experience across different platforms.
-
-- Source: [TuoiTre](https://tuoitre.vn/cuoc-chay-dua-gom-cac-tram-sac-len-app-chung-100260621231243778.htm)
-
 ## Related coverage
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
 - [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
-- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 - [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
+- [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 
 ---
 

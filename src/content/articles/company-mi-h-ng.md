@@ -1,17 +1,23 @@
 ---
 title: "Mi Hồng — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Mi Hồng, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Mi Hồng
 
-Recent Vietnam market news mentioning **Mi Hồng** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Mi Hồng** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 2/8**  
+
+Gold prices for smooth rings and gold bars in Vietnam declined to their lowest levels in the past two weeks on August 2. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải quoted gold bars at 137–141 million VND/tael, while Mi Hồng offered 137.3–139 million VND/tael. Smooth 9999 gold rings traded at 136–138 million VND/tael on the buy side and 140–142 million VND/tael on the sell side.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-2-8-188260802113447989.chn)
 
 **Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
 
@@ -54,7 +60,7 @@ A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a p
 - [Giá vàng nhẫn trơn, vàng miếng chiều 31/7 bất ngờ quay đầu](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-31-7-bat-ngo-quay-dau-188260731074336327.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-29-7-bat-ngo-dao-chieu-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-188260729080505828.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 26/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-26-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260726091648978.chn) — CafeF
-- [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 
 ---
 

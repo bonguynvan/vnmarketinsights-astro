@@ -1,8 +1,8 @@
 ---
 title: "Military Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Military Bank, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ Military Bank (MB) will roll out cash dividend payments to hundreds of thousands
 
 - [Lãi suất ngân hàng 9/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-9-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826070920280182.chn) — CafeF
 - [Một ngân hàng lớn chuẩn bị trả cổ tức tiền mặt tỷ lệ 10%](https://cafef.vn/mot-ngan-hang-lon-chuan-bi-tra-co-tuc-tien-mat-ty-le-10-188260630223810533.chn) — CafeF
+- [Lãi suất ngân hàng Quân đội (MB) tháng 8/2026: Mức cao nhất là bao nhiêu?](https://cafef.vn/lai-suat-ngan-hang-quan-doi-mb-thang-8-2026-muc-cao-nhat-la-bao-nhieu-188260802221559893.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
 
 ---
 

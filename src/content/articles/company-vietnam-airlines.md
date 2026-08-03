@@ -1,17 +1,23 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Airlines
 
-Recent Vietnam market news mentioning **Vietnam Airlines** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Airlines** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Xuất hiện DN có doanh thu vượt xa Hòa Phát, Thế Giới Di Động, Vietnam Airlines,… nhưng báo lỗ**  
+
+PV Oil (OIL) reported record revenue of over 90,000 billion VND in Q2 2026, up 125% year-on-year, making it the third-largest revenue company on the stock exchange in that quarter. Despite the exceptional revenue growth, the company reported a loss in Q2 2026, marking its first quarterly loss since Q3 2022. The company's revenue now exceeds that of major corporations including Hoa Phat, The Gioi Di Dong, and Vietnam Airlines.
+
+- Source: [CafeF](https://cafef.vn/xuat-hien-dn-co-doanh-thu-vuot-xa-hoa-phat-the-gioi-di-dong-vietnam-airlines-nhung-bao-lo-1882608012245272.chn)
 
 **Biến chi tiêu doanh nghiệp thành dặm bay: VPBank, Vietnam Airlines và Visa ra mắt thẻ SkyVoyage**  
 
@@ -57,10 +63,10 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 
 ## Related coverage
 
-- [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
+- [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Hành khách đi máy bay đặc biệt chú ý quy định mới đã bắt đầu áp dụng từ ngày 1/7](https://cafef.vn/hanh-khach-di-may-bay-dac-biet-chu-y-quy-dinh-moi-da-bat-dau-ap-dung-tu-ngay-1-7-18826070208081655.chn) — CafeF
-- [Chính thức từ ngày 1/7: Hành khách bị cấm bay vĩnh viễn nếu có những hành vi sau](https://cafef.vn/chinh-thuc-tu-ngay-1-7-hanh-khach-bi-cam-bay-vinh-vien-neu-co-nhung-hanh-vi-sau-188260701142738514.chn) — CafeF
+- [Hành khách quốc tế qua đường hàng không tăng 15,4%](https://cafef.vn/hanh-khach-quoc-te-qua-duong-hang-khong-tang-154-188260720154458932.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Mạnh Hải — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Mạnh Hải, with neutral summaries and source links."
-publishedDate: "2026-08-01"
-lastUpdated: "2026-08-01"
+publishedDate: "2026-08-02"
+lastUpdated: "2026-08-02"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Mạnh Hải
 
-Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (28 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Mạnh Hải** (29 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 2/8**  
+
+Gold prices for smooth rings and gold bars in Vietnam declined to their lowest levels in the past two weeks on August 2. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải quoted gold bars at 137–141 million VND/tael, while Mi Hồng offered 137.3–139 million VND/tael. Smooth 9999 gold rings traded at 136–138 million VND/tael on the buy side and 140–142 million VND/tael on the sell side.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-2-8-188260802113447989.chn)
 
 **Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
 
@@ -78,12 +84,6 @@ PNJ reduced its listed prices for SJC gold bars and PNJ-branded 999 gold on July
 SJC gold bars declined by up to 7 million VND per tael on July 23, 2026, with a bid-ask spread reaching 5 million VND per tael. Gold prices, including plain rings and bars from major retailers SJC and PNJ, have been falling significantly. Multiple gold dealers including SJC, PNJ, DOJI, and Bảo Tín Mạnh Hải have adjusted prices downward by up to 1.4 million VND per tael.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-giam-7-trieu-dong-luong-188260723150405692.chn)
-
-**Giá vàng nhẫn trơn, vàng miếng chiều tối 23/7 giảm tới 7 triệu đồng/lượng, SJC và PNJ niêm yết giá mua vào rất thấp**  
-
-Gold prices in Vietnam declined sharply on the evening of July 23, with plain gold rings and gold bars falling up to 7 million dong per tael. Major retailers SJC and PNJ posted very low buying-in prices. International gold prices also weakened significantly after two consecutive days of gains.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-23-7-giam-toi-7-trieu-dong-luong-sjc-va-pnj-niem-yet-gia-mua-vao-rat-thap-188260723070404988.chn)
 
 ## Related coverage
 
