@@ -1,17 +1,23 @@
 ---
 title: "VietBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VietBank, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # VietBank
 
-Recent Vietnam market news mentioning **VietBank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VietBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử**  
+
+In Q2 2026, VietBank, NCB, and BVBank led the system in profit growth rate compared to the previous quarter. Vietcombank continued to expand its lead over the rest of the system by achieving the highest profit level in banking industry history. The article provides an overview of profit performance across 27 banks in the first half of 2026.
+
+- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-dang-tang-truong-loi-nhuan-nhanh-nhat-nhieu-nha-bang-tang-theo-cap-so-nhan-xuat-hien-muc-lai-cao-nhat-lich-su-188260803100614839.chn)
 
 **Vietbank lãi trước thuế 777 tỷ đồng trong quý II/2026, gần gấp 3 lần cùng kỳ, cho vay khách hàng tăng mạnh**  
 
@@ -79,17 +85,11 @@ Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to lis
 
 - Source: [CafeF](https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn)
 
-**Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6**  
-
-VietBank's VBB stock rose more than 11% on the morning of June 26, reaching 13,900 VND per share. The stock has gained approximately 18% since the beginning of June and 58% from its mid-March low. The price increase was driven by the bank's dividend distribution in the form of stock and its plan to migrate to the HoSE exchange.
-
-- Source: [CafeF](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn)
-
 ## Related coverage
 
-- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 - [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: "MSCI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSCI, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
@@ -33,10 +33,10 @@ An expert discusses three industry groups expected to attract capital inflows du
 
 ## Related coverage
 
+- [Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm) — TuoiTre
 - [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
 - [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
 - [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
-- [Thanh khoản giảm thấp nhất một tháng qua, chứng khoán đi về đâu tuần tới?](https://cafef.vn/thanh-khoan-giam-thap-nhat-mot-thang-qua-chung-khoan-di-ve-dau-tuan-toi-188260719101452543.chn) — CafeF
 
 ---
 

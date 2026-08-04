@@ -1,17 +1,41 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (29 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng SJC, vàng nhẫn trơn ngày 3/8 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải,...**  
+
+Domestic gold prices in Vietnam increased slightly on August 3rd compared to the previous week's closing. The article references prices across multiple gold retailers including SJC, DOJI, PNJ, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải. No specific price figures or percentage changes are provided in the excerpt.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-3-8-188260803091527562.chn)
+
+**Giá vàng miếng, vàng nhẫn ngày 4/8 tại SJC, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý,...**  
+
+Gold prices for bars and rings on August 4 are displayed across major Vietnamese jewelers including SJC, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, and Phú Quý. Gold bars are widely quoted at 141 million dong per tael in selling prices. The article provides daily gold price tracking across these retail outlets.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-4-8-tai-sjc-doji-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-188260804062018792.chn)
+
+**Ai vừa tung hàng trăm tỷ "bắt đáy" PNJ?**  
+
+PNJ stock broke through a near 6-year low in late July before surging sharply in early August. The article discusses significant buying activity supporting the recovery. Market movement reflects shifting investor sentiment in the stock.
+
+- Source: [CafeF](https://cafef.vn/ai-vua-tung-hang-tram-ty-bat-day-pnj-188260803154254797.chn)
+
+**Cổ phiếu FPT, PNJ, FRT... 'rủ nhau' tím trần, VN-Index tăng hơn 27 điểm**  
+
+Multiple Vietnamese stocks rallied on August 3, with technology, retail and aviation stocks closing at daily limit-up prices. FPT surged 6.86% to 71,700 VND per share with trading volume exceeding 16.27 million shares, approximately double the 10-session average, while also attracting the strongest foreign net buying on the market with over 524 billion VND in transactions. The VN-Index gained more than 27 points during the session.
+
+- Source: [TuoiTre](https://tuoitre.vn/co-phieu-fpt-pnj-frt-ru-nhau-tim-tran-vn-index-tang-hon-27-diem-100260803152039691.htm)
 
 **SJC, DOJI, PNJ... giá vàng nào mới là con số bạn thực sự nên quan tâm?**  
 
@@ -61,36 +85,12 @@ Domestic gold prices closed a volatile week with significant declines, with bull
 
 - Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-26-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260726091648978.chn)
 
-**Giá vàng nhẫn trơn, vàng miếng sáng 27/7 tại SJC, PNJ, DOJI, Mi Hồng, Bảo Tín Minh Châu,...**  
-
-Gold prices for both plain gold rings and gold bars were reported across multiple Vietnamese retailers on the morning of July 27. The price spread between buy and sell for both product types was typically 3-4 million dong per tael. Major retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải quoted gold bars at 137.5–141.5 million dong per tael, while Mi Hồng offered slightly different pricing at 138.5–141.0 million dong per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-7-tai-sjc-pnj-doji-mi-hong-bao-tin-minh-chau-188260727064300179.chn)
-
-**Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ**  
-
-Gold prices in Vietnam experienced an unexpected reversal on July 25, 2026, following a sharp decline of approximately 7 million dong per tael the previous day. Major gold retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải reported fluctuations in both plain gold rings and gold bars. The morning session saw a notable price recovery after the significant drop recorded in the evening of July 24.
-
-- Source: [CafeF](https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn)
-
-**Khách đông nghẹt, tiệm vàng lâu đời tại TP.HCM giới hạn bán mỗi người 5 chỉ**  
-
-A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a purchase limit of 5 chỉ (a traditional weight unit for gold) per customer on July 25th due to high demand. Gold prices increased by 2 million VND per lượng compared to the previous day. The shop has experienced surging customer traffic amid ongoing controversies involving major players SJC and PNJ in the diamond market.
-
-- Source: [CafeF](https://cafef.vn/khach-dong-nghet-tiem-vang-lau-doi-tai-tphcm-gioi-han-ban-moi-nguoi-5-chi-188260725182102798.chn)
-
-**Giá vàng nhẫn trơn, vàng miếng chiều tối 25/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
-
-Domestic gold prices closed the July 25 trading session with broad-based gains. Bar gold at major retailers rose uniformly by 2 million VND per tael on the buying side and 1 million VND per tael on the selling side. Ring gold also increased, with the highest gain reaching 2 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-25-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260725094309613.chn)
-
 ## Related coverage
 
 - [Giá vàng nhẫn trơn, vàng miếng chiều 31/7 bất ngờ quay đầu](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-31-7-bat-ngo-quay-dau-188260731074336327.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng sáng 27/7 tại SJC, PNJ, DOJI, Mi Hồng, Bảo Tín Minh Châu,...](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-7-tai-sjc-pnj-doji-mi-hong-bao-tin-minh-chau-188260727064300179.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều tối 24/7: SJC và PNJ tăng mạnh trở lại](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-24-7-sjc-va-pnj-tang-manh-tro-lai-188260724072213954.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
 
 ---
 

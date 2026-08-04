@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chiến lược số của TPBank: Động lực tăng trưởng mới ngoài tín dụng**  
+
+TPBank is implementing a digital strategy to drive growth beyond traditional lending as the banking sector faces pressure from narrow net interest margins (NIM) due to low lending rates supporting the economy. The source indicates a shift in how the market evaluates banks, moving beyond profit as the primary metric to understanding how that profit is generated. The mid-2026 financial reporting season reveals clear differentiation among banks in how they respond to margin compression challenges.
+
+- Source: [CafeF](https://cafef.vn/chien-luoc-so-cua-tpbank-dong-luc-tang-truong-moi-ngoai-tin-dung-188260803120102848.chn)
 
 **TPBank Biz Expense: Lời giải mới cho bài toán quản trị chi phí doanh nghiệp**  
 
@@ -79,18 +85,12 @@ TPBank is expanding its cross-border QR payment connections to strengthen its gl
 
 - Source: [CafeF](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn)
 
-**TPBank và Tinh Hà “Say Hi”: Cuộc gặp gỡ của những thương hiệu tiên phong trải nghiệm và phong cách sống**  
-
-TPBank served as the Diamond Sponsor for Tinh Hà "Say Hi," an event launched by DatVietVAC on June 23, 2026, at Thiso Mall in Ho Chi Minh City. TPBank positions itself as a "bank for young people" with a "lifestyle banking" strategy that integrates banking services into modern daily life. Tinh Hà "Say Hi" represents a new initiative combining pioneering experience and lifestyle positioning.
-
-- Source: [CafeF](https://cafef.vn/tpbank-va-tinh-ha-say-hi-cuoc-gap-go-cua-nhung-thuong-hieu-tien-phong-trai-nghiem-va-phong-cach-song-18826062614072123.chn)
-
 ## Related coverage
 
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
-- [HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn) — CafeF
 - [Đằng sau cuộc đua lãi suất huy động và cho vay](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn) — CafeF
 
 ---
 

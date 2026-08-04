@@ -1,17 +1,23 @@
 ---
 title: "BVBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BVBank, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # BVBank
 
-Recent Vietnam market news mentioning **BVBank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BVBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử**  
+
+In Q2 2026, VietBank, NCB, and BVBank led the system in profit growth rate compared to the previous quarter. Vietcombank continued to expand its lead over the rest of the system by achieving the highest profit level in banking industry history. The article provides an overview of profit performance across 27 banks in the first half of 2026.
+
+- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-dang-tang-truong-loi-nhuan-nhanh-nhat-nhieu-nha-bang-tang-theo-cap-so-nhan-xuat-hien-muc-lai-cao-nhat-lich-su-188260803100614839.chn)
 
 **Chủ tịch HĐQT BVBank: "Chúng tôi đang bước vào giai đoạn khai thác hiệu quả các nền tảng đã được đầu tư trong nhiều năm qua"**  
 
@@ -79,17 +85,11 @@ Vietnamese banks reported strong profit growth in the first half of 2026. VPBank
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn)
 
-**Ba ngân hàng chuẩn bị lên sàn HoSE: VietBank chốt ngày giao dịch, BVBank và ABBank tăng tốc**  
-
-Three banks—VietBank, BVBank, and ABBank—are accelerating their plans to list on the Ho Chi Minh Stock Exchange (HoSE), following earlier listings by VietABank and KienlongBank. VietBank has confirmed its trading date on HoSE. These banks are expected to complete their transfers to the main market in the coming period.
-
-- Source: [CafeF](https://cafef.vn/ba-ngan-hang-chuan-bi-len-san-hose-vietbank-chot-ngay-giao-dich-bvbank-va-abbank-tang-toc-188260713102526417.chn)
-
 ## Related coverage
 
 - [Trước thềm niêm yết HOSE, BVBank được NHNN chấp thuận tăng vốn điều lệ thêm hơn 3.500 tỷ đồng](https://cafef.vn/truoc-them-niem-yet-hose-bvbank-duoc-nhnn-chap-thuan-tang-von-dieu-le-them-hon-3500-ty-dong-188260713121321689.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
 - [Một ngân hàng sắp niêm yết cổ phiếu trên HoSE](https://cafef.vn/mot-ngan-hang-sap-niem-yet-co-phieu-tren-hose-188260623064834177.chn) — CafeF
-- [Cổ phiếu Vietbank chính thức niêm yết trên HOSE](https://cafef.vn/co-phieu-vietbank-chinh-thuc-niem-yet-tren-hose-188260714135621145.chn) — CafeF
 - [Cổ phiếu ngân hàng chuyển sàn gây chú ý: Một mã tăng 9% trong tuần đầu tiên lên HOSE](https://cafef.vn/co-phieu-ngan-hang-chuyen-san-gay-chu-y-mot-ma-tang-9-trong-tuan-dau-tien-len-hose-188260720101522811.chn) — CafeF
 
 ---

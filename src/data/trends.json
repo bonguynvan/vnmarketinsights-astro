@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-02T23:53:32.941956+00:00",
+  "generatedAt": "2026-08-04T00:03:08.806460+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 674,
-      "growthRate": 6.5,
-      "avgSentiment": -0.09,
+      "total": 680,
+      "growthRate": 2.0,
+      "avgSentiment": -0.091,
       "tag": "Rising Star",
       "series": [
         {
@@ -218,16 +218,21 @@
           "date": "2026-08-02",
           "count": 15,
           "sentiment": -0.087
+        },
+        {
+          "date": "2026-08-03",
+          "count": 6,
+          "sentiment": -0.167
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 431,
-      "growthRate": 0.0,
-      "avgSentiment": 0.086,
-      "tag": "Stable",
+      "total": 443,
+      "growthRate": 3.0,
+      "avgSentiment": 0.085,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-20",
@@ -438,15 +443,20 @@
           "date": "2026-08-02",
           "count": 3,
           "sentiment": 0.1
+        },
+        {
+          "date": "2026-08-03",
+          "count": 12,
+          "sentiment": 0.067
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 245,
-      "growthRate": -0.6,
-      "avgSentiment": 0.244,
+      "total": 259,
+      "growthRate": -0.067,
+      "avgSentiment": 0.247,
       "tag": "Stable",
       "series": [
         {
@@ -648,15 +658,20 @@
           "date": "2026-08-02",
           "count": 6,
           "sentiment": -0.05
+        },
+        {
+          "date": "2026-08-03",
+          "count": 14,
+          "sentiment": 0.343
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 164,
-      "growthRate": 1.0,
-      "avgSentiment": 0.24,
+      "total": 169,
+      "growthRate": 1.5,
+      "avgSentiment": 0.228,
       "tag": "Rising Star",
       "series": [
         {
@@ -863,15 +878,20 @@
           "date": "2026-08-02",
           "count": 4,
           "sentiment": 0.2
+        },
+        {
+          "date": "2026-08-03",
+          "count": 5,
+          "sentiment": -0.28
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 94,
-      "growthRate": -0.2,
-      "avgSentiment": 0.131,
+      "total": 95,
+      "growthRate": -0.8,
+      "avgSentiment": 0.135,
       "tag": "Stable",
       "series": [
         {
@@ -1048,6 +1068,11 @@
           "date": "2026-08-02",
           "count": 4,
           "sentiment": 0.175
+        },
+        {
+          "date": "2026-08-03",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
@@ -1244,9 +1269,9 @@
     {
       "topic": "ecommerce",
       "siteSlug": "ecommerce",
-      "total": 39,
+      "total": 40,
       "growthRate": -0.5,
-      "avgSentiment": 0.38,
+      "avgSentiment": 0.373,
       "tag": "Stable",
       "series": [
         {
@@ -1368,6 +1393,11 @@
           "date": "2026-08-02",
           "count": 1,
           "sentiment": 0.6
+        },
+        {
+          "date": "2026-08-03",
+          "count": 1,
+          "sentiment": 0.2
         }
       ]
     },

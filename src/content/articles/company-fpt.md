@@ -1,17 +1,29 @@
 ---
 title: "FPT — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FPT, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # FPT
 
-Recent Vietnam market news mentioning **FPT** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **FPT** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**FPT “tái sinh”**  
+
+FPT Corporation's stock has risen over 15% after five trading sessions of returning foreign capital inflows. The stock surged to the intraday ceiling at 71,700 VND per share, reaching its highest level in approximately one month, with a rare phenomenon of "no selling interest" and excess buying orders. Foreign investors unexpectedly increased net purchases of FPT to over 500 billion VND in the period covered.
+
+- Source: [CafeF](https://cafef.vn/fpt-tai-sinh-188260803144752644.chn)
+
+**Cổ phiếu FPT, PNJ, FRT... 'rủ nhau' tím trần, VN-Index tăng hơn 27 điểm**  
+
+Multiple Vietnamese stocks rallied on August 3, with technology, retail and aviation stocks closing at daily limit-up prices. FPT surged 6.86% to 71,700 VND per share with trading volume exceeding 16.27 million shares, approximately double the 10-session average, while also attracting the strongest foreign net buying on the market with over 524 billion VND in transactions. The VN-Index gained more than 27 points during the session.
+
+- Source: [TuoiTre](https://tuoitre.vn/co-phieu-fpt-pnj-frt-ru-nhau-tim-tran-vn-index-tang-hon-27-diem-100260803152039691.htm)
 
 **FE CREDIT tăng tốc chuyển đổi số trong quản trị nguồn nhân lực**  
 
@@ -45,10 +57,10 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 
 ## Related coverage
 
+- [Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực](https://cafef.vn/kinh-te-xa-hoi-duy-tri-da-tang-truong-tich-cuc-tren-hau-het-cac-linh-vuc-188260706110742895.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
-- [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [Phó Thủ tướng: Không để doanh nghiệp thiếu vốn](https://cafef.vn/pho-thu-tuong-khong-de-doanh-nghiep-thieu-von-188260704160612542.chn) — CafeF
-- [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
+- [Hoàn thiện thể chế, khơi thông nguồn lực cho tăng trưởng](https://cafef.vn/hoan-thien-the-che-khoi-thong-nguon-luc-cho-tang-truong-188260718151520861.chn) — CafeF
 
 ---
 

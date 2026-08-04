@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Sửa đổi Nghị định 50 để phù hợp với quản lý dự trữ ngoại hối nhà nước**  
+
+The State Bank of Vietnam is proposing amendments to Decree 50 to align with state foreign exchange reserve management. The proposal includes adjustments to profit calculation that would exclude income and expenses related to gold investment activities. This regulatory revision aims to better reflect the management framework for Vietnam's foreign exchange reserves.
+
+- Source: [CafeF](https://cafef.vn/sua-doi-nghi-dinh-50-de-phu-hop-voi-quan-ly-du-tru-ngoai-hoi-nha-nuoc-188260803103725563.chn)
 
 **Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)**  
 
@@ -79,18 +85,12 @@ The State Bank of Vietnam proposes closing dormant bank accounts that have not g
 
 - Source: [CafeF](https://cafef.vn/de-xuat-dong-tai-khoan-ngan-hang-ngu-dong-188260724135756079.chn)
 
-**TPBank ủng hộ 15 tỷ đồng cho Quỹ “Đền ơn đáp nghĩa”, góp phần tri ân người có công với Cách mạng**  
-
-TPBank donated 15 billion Vietnamese dong to the "Gratitude Fund" in response to a call from the Prime Minister and the State Bank of Vietnam. The donation was announced on July 23, 2026, at a national conference honoring those with contributions to the revolution held at the National Convention Center in Hanoi. The bank stated its action reflects corporate social responsibility and commitment to supporting those with historical contributions to the nation's revolution.
-
-- Source: [CafeF](https://cafef.vn/tpbank-ung-ho-15-ty-dong-cho-quy-den-on-dap-nghia-gop-phan-tri-an-nguoi-co-cong-voi-cach-mang-188260723154658527.chn)
-
 ## Related coverage
 
-- [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
-- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
-- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
+- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
+- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
 
 ---
 

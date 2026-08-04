@@ -1,7 +1,153 @@
 {
-  "generatedAt": "2026-08-02T23:53:32.940454+00:00",
+  "generatedAt": "2026-08-04T00:03:08.805118+00:00",
   "topics": {
+    "regulations": [
+      {
+        "title": "'Bức tranh' tín dụng của các ngân hàng",
+        "url": "https://cafef.vn/buc-tranh-tin-dung-cua-cac-ngan-hang-188260802200644186.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese banks showed a notable increase in non-performing loan (NPL) growth during the first half of 2026, with NPL acceleration rates significantly outpacing credit expansion. Most banks maintained NPL ratios below the 3% regulatory threshold despite this acceleration trend.",
+        "summary_vn": "Các ngân hàng Việt Nam ghi nhận mức tăng nợ xấu đáng chú ý trong 6 tháng đầu năm 2026, với tốc độ gia tăng nợ xấu vượt xa tốc độ mở rộng tín dụng. Mặc dù vậy, hầu hết các ngân hàng vẫn duy trì tỷ lệ nợ xấu dưới ngưỡng 3% theo quy định.",
+        "pubDate": "Sun, 02 Aug 26 20:06:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Sửa đổi Nghị định 50 để phù hợp với quản lý dự trữ ngoại hối nhà nước",
+        "url": "https://cafef.vn/sua-doi-nghi-dinh-50-de-phu-hop-voi-quan-ly-du-tru-ngoai-hoi-nha-nuoc-188260803103725563.chn",
+        "source": "CafeF",
+        "summary_en": "The State Bank of Vietnam is proposing amendments to Decree 50 to align with state foreign exchange reserve management. The proposal includes adjustments to profit calculation that would exclude income and expenses related to gold investment activities. This regulatory revision aims to better reflect the management framework for Vietnam's foreign exchange reserves.",
+        "summary_vn": "Ngân hàng Nhà nước đang đề xuất sửa đổi Nghị định 50 để phù hợp với quản lý dự trữ ngoại hối nhà nước. Đề xuất bao gồm điều chỉnh cách tính lợi nhuận sao cho loại trừ thu nhập và chi phí liên quan đến hoạt động đầu tư vàng. Sửa đổi quy định này nhằm phù hợp hơn với khung quản lý dự trữ ngoại hối của Việt Nam.",
+        "pubDate": "Mon, 03 Aug 26 10:37:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Lý do KienlongBank dừng hoạt động một số phòng giao dịch",
+        "url": "https://cafef.vn/ly-do-kienlongbank-dung-hoat-dong-mot-so-phong-giao-dich-188260803165652336.chn",
+        "source": "CafeF",
+        "summary_en": "KienlongBank is discontinuing operations at multiple branch locations as part of its strategic service model transformation. The bank states this is part of its digitalization efforts and expansion of its 24/7 X-Digi automated transaction system across over 100 transaction points. KienlongBank plans to close 10 branch offices according to its announced service model conversion roadmap.",
+        "summary_vn": "KienlongBank sẽ dừng hoạt động một số phòng giao dịch tại nhiều địa phương theo lộ trình chuyển đổi mô hình phục vụ chiến lược. Ngân hàng xem đây là bước đi nằm trong quá trình số hoá và phát triển hệ thống giao dịch tự động X-Digi \"Ngân hàng không ngủ\" tại hơn 100 điểm. KienlongBank sẽ đóng cửa 10 phòng giao dịch theo lộ trình đã công bố.",
+        "pubDate": "Mon, 03 Aug 26 18:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Chuyển cơ quan điều tra vụ gần 1 tấn thịt heo nghi nhiễm dịch tả heo châu Phi",
+        "url": "https://tuoitre.vn/chuyen-co-quan-dieu-tra-vu-gan-1-tan-thit-heo-nghi-nhiem-dich-ta-heo-chau-phi-100260803122608468.htm",
+        "source": "TuoiTre",
+        "summary_en": "The Market Management Team No. 9 under Hung Yen Province's Market Management Bureau transferred a case file and evidence involving nearly 1 ton of pork suspected to be contaminated with African swine fever to the Criminal Investigation Agency of Hung Yen Province Police for verification and handling. The pork was stored under unhygienic conditions. The case transfer was conducted in accordance with Plan No. 440 dated June 2, 2026, issued by the Ministry of Public Security and Ministry of Industry and Trade regarding comprehensive review, inspection, detection, and enforcement of food safety law violations.",
+        "summary_vn": "Đội quản lý thị trường số 9 thuộc Chi cục Quản lý thị trường tỉnh Hưng Yên đã chuyển hồ sơ và toàn bộ tang vật liên quan gần 1 tấn thịt heo nghi nhiễm dịch tả heo châu Phi đến Cơ quan cảnh sát điều tra, Công an tỉnh Hưng Yên để xác minh và xử lý. Thịt heo được bảo quản trong điều kiện không đảm bảo vệ sinh. Việc chuyển hồ sơ được thực hiện theo Kế hoạch số 440 ngày 2-6-2026 của Bộ Công an và Bộ Công Thương về kiểm tra, phát hiện và xử lý vi phạm pháp luật liên quan đến an toàn thực phẩm.",
+        "pubDate": "8/3/2026 1:24:00 PM",
+        "sentiment": -0.7,
+        "importance": 3
+      },
+      {
+        "title": "Đề xuất tăng cường phân cấp, giao quyền cho Petrovietnam trong hoạt động dầu khí",
+        "url": "https://tuoitre.vn/de-xuat-tang-cuong-phan-cap-giao-quyen-cho-petrovietnam-trong-hoat-dong-dau-khi-100260803131225314.htm",
+        "source": "TuoiTre",
+        "summary_en": "The Ministry of Industry and Trade proposes strengthening decentralization and delegation of authority to PetroVietnam in oil and gas operations. Minister Lê Mạnh Hùng emphasizes the need to amend regulations to address bottlenecks and unlock resources in response to new national development demands and energy market volatility. The proposed law aims to enhance efficient resource extraction while maintaining energy security and national sovereignty.",
+        "summary_vn": "Bộ Công Thương đề xuất tăng cường phân cấp và giao quyền cho PetroVietnam trong hoạt động dầu khí. Bộ trưởng Lê Mạnh Hùng nhấn mạnh nhu cầu sửa đổi luật để tháo gỡ điểm nghẽn và khơi thông nguồn lực nhằm đáp ứng yêu cầu phát triển mới và biến động thị trường năng lượng. Dự án luật tập trung thể chế hóa các chủ trương nhằm nâng cao khai thác hiệu quả tài nguyên đồng thời giữ vững an ninh năng lượng và chủ quyền quốc gia.",
+        "pubDate": "8/3/2026 1:29:00 PM",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Đề xuất cấm kinh doanh khí cười N2O",
+        "url": "https://vnexpress.net/de-xuat-cam-kinh-doanh-khi-cuoi-n2o-5104488.html",
+        "source": "VnExpress",
+        "summary_en": "The government proposes to ban the commercial sale of laughing gas (N2O) except for medical, food technology, and scientific research purposes. On August 3, Finance Minister Ngô Văn Tuấn, acting on the Prime Minister's authority, presented to the National Assembly a draft law amending Article 6 (on prohibited investment and business sectors) and Annex IV (list of conditional investment and business sectors) of the Investment Law. Under the draft law, N2O used for recreational inhalation would be banned.",
+        "summary_vn": "Chính phủ đề xuất cấm kinh doanh khí cười N2O trừ phục vụ y tế, công nghệ thực phẩm và nghiên cứu khoa học. Sáng 3/8, Bộ trưởng Tài chính Ngô Văn Tuấn trình Quốc hội dự án Luật sửa đổi, bổ sung điều 6 (về ngành, nghề cấm đầu tư kinh doanh) và phụ lục IV (danh mục ngành, nghề đầu tư kinh doanh có điều kiện) của Luật Đầu tư. Theo dự thảo, khí N2O dùng cho người qua đường hô hấp sẽ bị cấm.",
+        "pubDate": "Mon, 03 Aug 2026 11:32:50 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "28 ngân hàng Agribank, Vietcombank, BIDV, VietinBank, MB,... đang tạo ra bao nhiêu việc làm, đóng góp bao nhiêu vào ngân sách?",
+        "url": "https://cafef.vn/28-ngan-hang-agribank-vietcombank-bidv-vietinbank-mb-dang-tao-ra-bao-nhieu-viec-lam-dong-gop-bao-nhieu-vao-ngan-sach-188260802194113323.chn",
+        "source": "CafeF",
+        "summary_en": "An article examines the workforce scale and economic contributions of 28 banks including Agribank, Vietcombank, BIDV, VietinBank, and MB. The piece describes the diverse range of job functions within banking institutions, extending beyond traditional teller and credit specialist roles to include risk management, compliance, internal audit, IT, data analysis, cybersecurity, card operations, investment advisory, asset management, HR, legal, marketing, and customer service. Banks maintain extensive branch networks across the country employing workers in these varied roles.",
+        "summary_vn": "Bài viết khảo sát quy mô nhân sự và đóng góp kinh tế của 28 ngân hàng bao gồm Agribank, Vietcombank, BIDV, VietinBank, và MB. Bài viết mô tả phạm vi đa dạng các chức năng công việc trong các tổ chức ngân hàng, vượt ra ngoài các vai trò truyền thống của giao dịch viên và chuyên viên tín dụng để bao gồm quản trị rủi ro, tuân thủ, kiểm toán nội bộ, công nghệ thông tin, phân tích dữ liệu, an ninh mạng, vận hành thẻ và thanh toán, tư vấn đầu tư, quản lý tài sản, nhân sự, pháp chế, marketing và dịch vụ khách hàng. Các ngân hàng duy trì mạng lưới chi nhánh phủ khắp cả nước với công nhân viên làm việc ở các vị trí đa dạng này.",
+        "pubDate": "Mon, 03 Aug 26 08:29:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Khơi thông dòng vốn trung hạn và dài hạn",
+        "url": "https://cafef.vn/khoi-thong-dong-von-trung-han-va-dai-han-188260803102840092.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's government has approved a comprehensive financial market reform plan aimed at achieving sustained high growth through 2045, with a key focus on shifting the investor base from individuals to institutional investors, prioritizing those with strong financial capacity. The plan addresses the need to unlock medium and long-term capital flows in the financial system. This reform is part of broader efforts to modernize Vietnam's financial market structure.",
+        "summary_vn": "Chính phủ Việt Nam vừa phê duyệt một kế hoạch cải cách thị trường tài chính toàn diện nhằm đạt mục tiêu tăng trưởng cao và bền vững đến năm 2045, với trọng tâm là chuyển dịch cơ cấu nhà đầu tư từ cá nhân sang tổ chức, ưu tiên những nhà đầu tư có tiềm lực tài chính mạnh. Kế hoạch này nhằm khơi thông dòng vốn trung hạn và dài hạn trong hệ thống tài chính. Đây là phần của những nỗ lực hiện đại hóa cấu trúc thị trường tài chính của Việt Nam.",
+        "pubDate": "Mon, 03 Aug 26 10:28:00 +0700",
+        "sentiment": 0.3,
+        "importance": 4
+      },
+      {
+        "title": "Chiến lược số của TPBank: Động lực tăng trưởng mới ngoài tín dụng",
+        "url": "https://cafef.vn/chien-luoc-so-cua-tpbank-dong-luc-tang-truong-moi-ngoai-tin-dung-188260803120102848.chn",
+        "source": "CafeF",
+        "summary_en": "TPBank is implementing a digital strategy to drive growth beyond traditional lending as the banking sector faces pressure from narrow net interest margins (NIM) due to low lending rates supporting the economy. The source indicates a shift in how the market evaluates banks, moving beyond profit as the primary metric to understanding how that profit is generated. The mid-2026 financial reporting season reveals clear differentiation among banks in how they respond to margin compression challenges.",
+        "summary_vn": "TPBank đang triển khai chiến lược số để thúc đẩy tăng trưởng ngoài lĩnh vực cho vay truyền thống khi ngành ngân hàng chịu áp lực từ biên lãi thuần hẹp do lãi suất cho vay thấp nhằm hỗ trợ nền kinh tế. Nguồn tin cho thấy sự thay đổi trong cách thị trường đánh giá các ngân hàng, từ chỉ tiêu lợi nhuận sang sự hiểu biết về cách tạo ra lợi nhuận đó. Mùa công bố báo cáo tài chính bán niên 2026 phản ánh sự phân hóa rõ nét giữa các ngân hàng trong cách ứng phó với thách thức nén biên lợi nhuận.",
+        "pubDate": "Mon, 03 Aug 26 12:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử",
+        "url": "https://cafef.vn/nhung-ngan-hang-dang-tang-truong-loi-nhuan-nhanh-nhat-nhieu-nha-bang-tang-theo-cap-so-nhan-xuat-hien-muc-lai-cao-nhat-lich-su-188260803100614839.chn",
+        "source": "CafeF",
+        "summary_en": "In Q2 2026, VietBank, NCB, and BVBank led the system in profit growth rate compared to the previous quarter. Vietcombank continued to expand its lead over the rest of the system by achieving the highest profit level in banking industry history. The article provides an overview of profit performance across 27 banks in the first half of 2026.",
+        "summary_vn": "Trong quý II/2026, VietBank, NCB và BVBank dẫn đầu về tốc độ tăng trưởng lợi nhuận so với quý trước. Vietcombank tiếp tục tạo khoảng cách với phần còn lại của hệ thống khi đạt mức lãi cao nhất lịch sử ngành ngân hàng. Bài viết cung cấp toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026.",
+        "pubDate": "Mon, 03 Aug 26 12:03:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
+      },
+      {
+        "title": "Một ngân hàng sắp trả cổ tức 15%",
+        "url": "https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn",
+        "source": "CafeF",
+        "summary_en": "A bank is set to pay a 15% dividend through stock issuance. August 12 is the date Military Commercial Joint Stock Bank (MB) will close its shareholder list for receiving stock dividends at a 15% ratio and execute rights to purchase additional issued shares. The announcement reflects activity among Vietnamese banks distributing earnings to shareholders.",
+        "summary_vn": "Một ngân hàng sắp trả cổ tức 15% bằng cổ phiếu. Ngày 12/8 là ngày MB chốt danh sách cổ đông nhận cổ tức theo tỷ lệ 15% và thực hiện quyền mua cổ phiếu phát hành thêm. Hoạt động này là một phần của xu hướng các ngân hàng Việt Nam phân phối lợi nhuận cho cổ đông.",
+        "pubDate": "Mon, 03 Aug 26 13:17:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Cổ phiếu ngân hàng đồng loạt tăng mạnh, một mã gần tím trần",
+        "url": "https://cafef.vn/co-phieu-ngan-hang-dong-loat-tang-manh-mot-ma-gan-tim-tran-188260803153255063.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese bank stocks rallied strongly as of August 3, following Q2 2026 earnings announcements and changes in LDR calculation methodology. The VN-Index rose 27.06 points to 1,762.84 (+1.56%), while the VN30 index climbed 45.62 points to 1,917.69 (+2.44%). Out of 27 bank stocks, 22 advanced, with MBB stock showing the strongest gains among banking shares.",
+        "summary_vn": "Cổ phiếu ngân hàng tăng mạnh kể từ cuối tuần trước đến ngày 3/8 sau khi công bố kết quả kinh doanh quý 2/2026 và những thay đổi trong cách tính LDR. Chỉ số VNINDEX tăng 27,06 điểm lên 1.762,84 điểm (tăng 1,56%), trong khi VN30 tăng 45,62 điểm lên 1.917,69 điểm (tăng 2,44%). Nhóm cổ phiếu ngân hàng có 22/27 mã tăng giá, với MBB là mã tăng mạnh nhất.",
+        "pubDate": "Mon, 03 Aug 26 15:32:00 +0700",
+        "sentiment": 0.8,
+        "importance": 4
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Khải Ho&agrave;n Imperial chinh phục kh&aacute;ch h&agrave;ng bằng gi&aacute; trị thực",
+        "url": "https://thanhnien.vn/khai-hoan-imperial-chinh-phuc-khach-hang-bang-gia-tri-thuc-185260802161936596.htm",
+        "source": "ThanhNien",
+        "summary_en": "Khai Hoan Imperial is attracting customers through real value as rising interest rates reshape investment preferences. Financial markets face volatile conditions including fluctuating securities, gold prices, and exchange rates. Real estate continues to appeal as an asset class due to its ability to serve multiple purposes including housing, rental income, and value preservation.",
+        "summary_vn": "Khải Hoàn Imperial thu hút khách hàng bằng giá trị thực khi lãi suất tăng cao định hình lại khẩu vị đầu tư. Thị trường tài chính đang chịu áp lực từ biến động chứng khoán, giá vàng, và tỷ giá. Bất động sản vẫn giữ sức hút nhờ khả năng đáp ứng nhiều mục tiêu như ở, cho thuê, hoặc bảo toàn giá trị.",
+        "pubDate": "Mon, 03 Aug 26 08:00:00 +0700",
+        "sentiment": 0.2,
+        "importance": 2
+      }
+    ],
     "consumers": [
+      {
+        "title": "Cà phê trong mắt giới ẩm thực Ả Rập xưa",
+        "url": "https://tuoitre.vn/ca-phe-trong-mat-gioi-am-thuc-a-rap-xua-10026080311191038.htm",
+        "source": "TuoiTre",
+        "summary_en": "A Vietnamese article discusses historical perspectives on coffee in classical Arabic culinary circles, featuring a poem excerpt from Kushājim, a famous food poet from the Abbasid caliphate in the 10th century. The poem describes coffee's qualities, such as its ability to cleanse hands and its pleasant properties. The article explores how coffee was perceived and valued in classical Arabic gastronomy.",
+        "summary_vn": "Bài viết tiếng Việt thảo luận về cách nhìn nhận cà phê trong các vòng tròn ẩm thực Ả Rập cổ điển, lấy một đoạn thơ từ Kushājim, nhà thơ ẩm thực nổi tiếng thời kỳ Abbasid vào thế kỷ 10. Đoạn thơ miêu tả các đặc điểm của cà phê, chẳng hạn như khả năng làm sạch tay và các tính chất dễ chịu của nó. Bài viết khám phá cách cà phê được coi trọng trong ẩm thực cổ điển Ả Rập.",
+        "pubDate": "8/3/2026 3:34:00 PM",
+        "sentiment": 0.3,
+        "importance": 1
+      },
       {
         "title": "SJC, DOJI, PNJ... giá vàng nào mới là con số bạn thực sự nên quan tâm?",
         "url": "https://cafef.vn/sjc-doji-pnj-gia-vang-nao-moi-la-con-so-ban-thuc-su-nen-quan-tam-188260801083639963.chn",
@@ -31,160 +177,6 @@
         "pubDate": "Sun, 02 Aug 26 09:00:00 +0700",
         "sentiment": 0.5,
         "importance": 2
-      },
-      {
-        "title": "Đắk Lắk muốn lễ hội sầu riêng thành 'bệ phóng' ngành hàng",
-        "url": "https://tuoitre.vn/dak-lak-muon-le-hoi-sau-rieng-thanh-be-phong-nganh-hang-10026080210581022.htm",
-        "source": "TuoiTre",
-        "summary_en": "Đắk Lắk Province's Chairman Đỗ Hữu Huy announced plans on August 2 to transform the 2026 Đắk Lắk Durian Festival into a long-term platform for the durian industry. The festival aims to become an annual provincial event that promotes the durian brand, boosts sales, facilitates trade, attracts investment, and develops tourism. Provincial authorities are directed to organize the festival professionally and ensure its lasting impact on the sector.",
-        "summary_vn": "Vào ngày 2-8, Chủ tịch UBND tỉnh Đắk Lắk Đỗ Hữu Huy công bố kế hoạch biến Lễ hội sầu riêng Đắk Lắk 2026 thành nền tảng lâu dài cho ngành sầu riêng. Lễ hội nhằm trở thành sự kiện thường niên của tỉnh, quảng bá thương hiệu, thúc đẩy tiêu thụ, xúc tiến thương mại, thu hút đầu tư và phát triển du lịch. Các sở ngành được yêu cầu tổ chức lễ hội một cách chuyên nghiệp và hiệu quả.",
-        "pubDate": "8/2/2026 11:32:00 AM",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-        "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-chieu-toi-1-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260801084746665.chn",
-        "source": "CafeF",
-        "summary_en": "Gold bar and ring prices declined across major Vietnamese jewelry retailers on the evening of August 1st. Major enterprises including SJC, PNJ, DOJI, and other established retailers all decreased prices by 0.9 million VND per tael on both bid and ask sides, bringing prices to 137 million VND on the buy side and 141 million VND on the sell side. Smaller retailers showed relatively smaller price adjustments.",
-        "summary_vn": "Giá vàng miếng và vàng nhẫn đã giảm tại các nhà bán lẻ vàng lớn của Việt Nam vào tối ngày 1/8. Các doanh nghiệp lớn như SJC, PNJ, DOJI và các nhà bán lẻ nổi tiếng khác đều giảm giá 0,9 triệu đồng/lượng ở cả hai phía mua bán, kéo giá xuống 137 triệu đồng chiều mua và 141 triệu đồng chiều bán. Các tiệm vàng nhỏ hơn có mức giảm tương đối ít hơn.",
-        "pubDate": "Sat, 01 Aug 26 17:07:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      },
-      {
-        "title": "Quảng Ninh: Đón trên 15,1 triệu lượt du khách trong 7 tháng đầu năm 2026",
-        "url": "https://cafef.vn/quang-ninh-don-tren-151-trieu-luot-du-khach-trong-7-thang-dau-nam-2026-188260801134845905.chn",
-        "source": "CafeF",
-        "summary_en": "Quang Ninh province received over 15.1 million tourist arrivals in the first seven months of 2026, generating estimated tourism revenue of 44.310 trillion Vietnamese dong. The visitors comprised nearly 12 million domestic tourists, over 3.1 million international tourists, and over 5.6 million overnight guests.",
-        "summary_vn": "Tỉnh Quảng Ninh đã đón trên 15,1 triệu lượt khách du lịch trong 7 tháng đầu năm 2026, với doanh thu du lịch ước đạt 44.310 tỷ đồng. Trong đó gồm gần 12 triệu lượt khách nội địa, hơn 3,1 triệu lượt khách quốc tế, và hơn 5,6 triệu lượt khách lưu trú.",
-        "pubDate": "Sat, 01 Aug 26 14:40:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      }
-    ],
-    "financial-markets": [
-      {
-        "title": "Xuất hiện nhiều lô trái phiếu lãi suất 'khủng'",
-        "url": "https://cafef.vn/xuat-hien-nhieu-lo-trai-phieu-lai-suat-khung-188260802075010038.chn",
-        "source": "CafeF",
-        "summary_en": "The corporate bond market is seeing an increase in bond offerings with double-digit interest rates. Not only established real estate companies, but also newly-formed enterprises are willing to accept high capital costs to mobilize thousands of billions of Vietnamese dong. Crystal Infrastructure Construction Company Limited has announced completion of issuing a bond series (CIC12601) with a total value of 2,000 billion dong.",
-        "summary_vn": "Thị trường trái phiếu doanh nghiệp đang ghi nhận sự xuất hiện nhiều lô trái phiếu có lãi suất lên tới hai con số. Không chỉ các doanh nghiệp bất động sản quen thuộc mà cả những doanh nghiệp mới thành lập cũng chấp nhận mức chi phí vốn cao để huy động hàng nghìn tỷ đồng. Công ty TNHH Xây dựng Hạ tầng Crystal đã hoàn tất phát hành lô trái phiếu mã CIC12601 với tổng giá trị 2.000 tỷ đồng.",
-        "pubDate": "Sun, 02 Aug 26 07:50:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Ngân hàng rầm rộ phát hành chứng chỉ tiền gửi",
-        "url": "https://cafef.vn/ngan-hang-ram-ro-phat-hanh-chung-chi-tien-gui-188260731072059104.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese banks are actively issuing certificates of deposit and bonds in response to credit growth outpacing capital mobilization rates. Banks are competing through savings interest rates as well as certificates of deposit and bonds offering annual interest rates ranging from 8.8% to 9.7%. This reflects efforts by banks to attract deposits amid tightening liquidity conditions.",
-        "summary_vn": "Các ngân hàng Việt Nam đang rầm rộ phát hành chứng chỉ tiền gửi và trái phiếu do tăng trưởng tín dụng vượt quá tốc độ huy động vốn. Các ngân hàng không chỉ cạnh tranh bằng lãi suất tiết kiệm mà còn cung cấp chứng chỉ tiền gửi và trái phiếu với mức lãi suất từ 8,8% đến 9,7% mỗi năm. Điều này phản ánh nỗ lực của các ngân hàng để huy động vốn trong bối cảnh thanh khoản thắt chặt.",
-        "pubDate": "Sun, 02 Aug 26 07:51:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất ngân hàng Agribank mới nhất tháng 8/2026: Mức cao nhất là bao nhiêu?",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-agribank-moi-nhat-thang-8-2026-muc-cao-nhat-la-bao-nhieu-188260802075809885.chn",
-        "source": "CafeF",
-        "summary_en": "Agribank announced its August 2026 deposit interest rates with a maximum rate of 6% per annum for over-the-counter deposits and 6.8% per annum for online deposits. The online channel maintained preferential rates across most deposit terms. The rates were effective from early August 2026.",
-        "summary_vn": "Agribank công bố lãi suất gửi tiền tháng 8/2026 với mức cao nhất là 6%/năm tại quầy và 6,8%/năm cho gửi tiền trực tuyến. Kênh online duy trì mức ưu đãi vượt trội ở hầu hết các kỳ hạn gửi. Lãi suất có hiệu lực từ đầu tháng 8/2026.",
-        "pubDate": "Sun, 02 Aug 26 07:54:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả",
-        "url": "https://cafef.vn/chan-dung-tan-tong-giam-doc-eximbank-hon-mot-nam-trai-qua-ba-vi-tri-lanh-dao-cao-nhat-tai-ngan-hang-tung-lam-viec-tai-vietinbank-sun-group-va-tap-doan-deo-ca-188260802080734159.chn",
-        "source": "CafeF",
-        "summary_en": "Phạm Thị Huyền Trang has been appointed as the new Chief Executive Officer (CEO/Tổng Giám đốc) of Eximbank. Within over one year at the bank, she has progressed through three senior leadership positions: board member, board chairperson, and now CEO. She brings approximately 20 years of experience in finance, banking, and business management from previous roles at VietinBank, Sun Group, and Đèo Cả Corporation.",
-        "summary_vn": "Phạm Thị Huyền Trang được bổ nhiệm làm Tổng Giám đốc Eximbank. Trong vòng hơn một năm tại ngân hàng, cô đã trải qua ba vị trí lãnh đạo cao nhất: thành viên HĐQT, Chủ tịch HĐQT, và hiện là Tổng Giám đốc. Cô mang theo gần 20 năm kinh nghiệm trong lĩnh vực tài chính, ngân hàng và quản trị doanh nghiệp từ các vị trí trước đó tại VietinBank, Sun Group và Tập đoàn Đèo Cả.",
-        "pubDate": "Sun, 02 Aug 26 09:05:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn",
-        "source": "CafeF",
-        "summary_en": "A survey of deposit interest rates at 34 banks on August 2 shows the rate environment remains stable. ACB leads with 7.8% per annum for 12-month terms and is among 7 banks offering rates of 7% per annum or higher.",
-        "summary_vn": "Khảo sát lãi suất huy động tại 34 ngân hàng ngày 2/8 cho thấy mặt bằng lãi suất tiếp tục ổn định. ACB dẫn đầu với mức 7,8%/năm cho kỳ hạn 12 tháng và là một trong 7 ngân hàng niêm yết lãi suất từ 7%/năm trở lên.",
-        "pubDate": "Sun, 02 Aug 26 18:20:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Thu ngân sách 7 tháng của Hà Nội đạt 73,8% dự toán",
-        "url": "https://cafef.vn/thu-ngan-sach-7-thang-cua-ha-noi-dat-738-du-toan-188260802131815671.chn",
-        "source": "CafeF",
-        "summary_en": "Hanoi's state budget revenue for the first seven months of 2026 reached 479.6 trillion VND, achieving 73.8% of the annual budget target. Financial management authorities maintained large balance objectives and upheld national financial discipline while credit institutions continued supporting customers and businesses. The city's budget implementation remained on track with positive results during the first seven months of 2026.",
-        "summary_vn": "Thu ngân sách nhà nước của Hà Nội trong 7 tháng đầu năm 2026 đạt 479,6 nghìn tỷ đồng, hoàn thành 73,8% dự toán hàng năm. Các cơ quan quản lý tài chính duy trì các mục tiêu cân đối lớn và tuân thủ kỷ cương tài chính quốc gia trong khi các tổ chức tín dụng tiếp tục hỗ trợ khách hàng và doanh nghiệp. Công tác điều hành ngân sách của thành phố đạt kết quả tích cực trong bảy tháng đầu năm 2026.",
-        "pubDate": "Sun, 02 Aug 26 14:45:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Những chính sách mới liên quan hoạt động ngân hàng có hiệu lực từ tháng 8/2026",
-        "url": "https://cafef.vn/nhung-chinh-sach-moi-lien-quan-hoat-dong-ngan-hang-co-hieu-luc-tu-thang-8-2026-188260731150839145.chn",
-        "source": "CafeF",
-        "summary_en": "New banking policies are set to take effect from August 2026 in Vietnam. These policies include raising caps on small loans, implementing more flexible debt collection mechanisms to stimulate credit, expanding legal frameworks for financing leases, and digitizing credit transactions. Additional regulations cover foreign investment lending activities and independent audit requirements for commercial banks.",
-        "summary_vn": "Những chính sách ngân hàng mới sẽ có hiệu lực từ tháng 8/2026 tại Việt Nam. Các chính sách này bao gồm nâng trần vay nhỏ, áp dụng cơ chế thu nợ linh hoạt hơn để kích thích tín dụng, mở rộng khung pháp lý cho thuê tài chính, và số hóa giao dịch tín dụng. Ngoài ra còn có các quy định về hoạt động cho vay đầu tư ra nước ngoài và yêu cầu kiểm toán độc lập đối với ngân hàng thương mại.",
-        "pubDate": "Sun, 02 Aug 26 09:05:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Một ngân hàng chấm dứt hoạt động 10 Phòng giao dịch",
-        "url": "https://cafef.vn/mot-ngan-hang-cham-dut-hoat-dong-10-phong-giao-dich-188260802175101372.chn",
-        "source": "CafeF",
-        "summary_en": "Kiên Long Bank's Board of Directors has passed resolutions to terminate operations of multiple transaction offices. Successor branches will assume responsibility for managing data, business plans, assets, documents, and staff from the dissolved offices. The bank will develop detailed plans to manage and care for existing customer portfolios to ensure maximum protection of customer interests.",
-        "summary_vn": "Hội đồng quản trị Ngân hàng TMCP Kiên Long đã ban hành các nghị quyết chấm dứt hoạt động của nhiều phòng giao dịch. Các chi nhánh tiếp quản sẽ chịu trách nhiệm quản lý dữ liệu, kế hoạch kinh doanh, tài sản, hồ sơ và nhân sự từ các phòng giải thể. Ngân hàng sẽ xây dựng phương án chi tiết để quản lý và chăm sóc khách hàng hiện hữu nhằm bảo vệ quyền lợi của họ.",
-        "pubDate": "Sun, 02 Aug 26 17:50:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Nợ xấu ngân hàng gia tăng",
-        "url": "https://cafef.vn/no-xau-ngan-hang-gia-tang-188260802200644186.chn",
-        "source": "CafeF",
-        "summary_en": "Non-performing loans (NPLs) at Vietnamese banks showed notable increases in the first half of 2026, with the rate of NPL growth outpacing credit expansion despite most banks maintaining NPL ratios below the 3% regulatory threshold. The article covers banking sector developments including interest rate information and branch closures at financial institutions. Current NPL trends indicate a divergence between credit growth and asset quality metrics across the banking system.",
-        "summary_vn": "Nợ xấu của nhiều ngân hàng Việt Nam trong 6 tháng đầu năm 2026 cho thấy dấu hiệu gia tăng đáng chú ý, với tốc độ tăng nợ xấu vượt xa tốc độ mở rộng tín dụng mặc dù hầu hết các ngân hàng vẫn duy trì tỷ lệ nợ xấu dưới ngưỡng 3%. Bài viết đề cập đến các diễn biến trong lĩnh vực ngân hàng bao gồm thông tin lãi suất và đóng cửa các phòng giao dịch. Tình hình nợ xấu hiện tại cho thấy sự chênh lệch giữa tăng trưởng tín dụng và các chỉ tiêu chất lượng tài sản trên toàn hệ thống ngân hàng.",
-        "pubDate": "Sun, 02 Aug 26 20:06:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Chính phủ thông qua hồ sơ Đề án thành lập thành phố Bắc Ninh trực thuộc Trung ương",
-        "url": "https://cafef.vn/chinh-phu-thong-qua-ho-so-de-an-thanh-lap-thanh-pho-bac-ninh-truc-thuoc-trung-uong-188260802072551784.chn",
-        "source": "CafeF",
-        "summary_en": "The Vietnamese Government approved the dossier for the proposal to establish Bac Ninh City as a centrally-controlled city under Resolution No. 205/NQ-CP dated August 1, 2026. The Ministry of Interior was assigned to lead the initiative in coordination with relevant ministries and agencies. The government will incorporate feedback from cabinet members to finalize the submission, proposal, and draft resolution to the National Assembly for the establishment of Bac Ninh City.",
-        "summary_vn": "Chính phủ thông qua hồ sơ Đề án thành lập thành phố Bắc Ninh trực thuộc Trung ương theo Nghị quyết số 205/NQ-CP ngày 1/8/2026. Bộ Nội vụ được giao chủ trì, phối hợp với các Bộ, cơ quan liên quan để tiếp thu ý kiến của các Thành viên Chính phủ. Chính phủ sẽ hoàn thiện Tờ trình, Đề án, Dự thảo Nghị quyết của Quốc hội về thành lập thành phố Bắc Ninh.",
-        "pubDate": "Sun, 02 Aug 26 07:25:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "363 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
-        "url": "https://cafef.vn/363-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-188260801204526452.chn",
-        "source": "CafeF",
-        "summary_en": "363 vehicle owners who violated traffic regulations by improper rear license plates quickly paid fines under Decree 168 in Ninh Binh province. The violations were detected by AI cameras between July 21-29 and required immediate payment under Decree 168 regulations. This represents enforcement of traffic rules using automated camera technology in the province.",
-        "summary_vn": "363 chủ phương tiện vi phạm quy định về biển số sau đã nhanh chóng nộp phạt theo Nghị định 168 tại tỉnh Ninh Bình. Các vi phạm được phát hiện bằng camera AI từ ngày 21 đến 29 tháng 7 và phải nộp phạt nguội ngay theo quy định Nghị định 168. Đây là kết quả thực thi luật giao thông sử dụng công nghệ camera tự động tại tỉnh này.",
-        "pubDate": "Sun, 02 Aug 26 08:31:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Quy định về Sổ đỏ dự kiến sẽ có loạt thay đổi lớn trong thời gian tới, toàn bộ người dân lưu ý!",
-        "url": "https://cafef.vn/quy-dinh-ve-so-do-du-kien-se-co-loat-thay-doi-lon-trong-thoi-gian-toi-toan-bo-nguoi-dan-luu-y-188260802094014355.chn",
-        "source": "CafeF",
-        "summary_en": "A draft amendment to Vietnam's Land Law proposes significant changes to regulations governing land use certificates (Red Book/Sổ đỏ). The draft stipulates that electronic land use certificates will have equal legal standing to paper certificates. Land use certificates will be issued in a unified national format comprising both paper and electronic versions.",
-        "summary_vn": "Dự thảo Luật Đất đai sửa đổi đề xuất những thay đổi lớn đối với quy định về Sổ đỏ và giấy chứng nhận quyền sử dụng đất. Theo dự thảo, Sổ đỏ điện tử sẽ có giá trị pháp lý ngang bằng với Sổ đỏ bản giấy. Giấy chứng nhận sẽ được cấp theo mẫu thống nhất toàn quốc dưới cả hình thức giấy và điện tử.",
-        "pubDate": "Sun, 02 Aug 26 09:39:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
       }
     ],
     "logistics": [
@@ -195,70 +187,6 @@
         "summary_en": "The Thăng Long Avenue expressway project, connecting National Road 21 to the Hà Nội - Hòa Bình expressway, has a total investment of 5.249 trillion VND and spans approximately 6.7 km. Land clearance work has been substantially completed, and the project management board and contractors are accelerating construction to meet the planned timeline. The project is managed by Hà Nội's civil engineering project management board.",
         "summary_vn": "Dự án đường cao tốc Đại lộ Thăng Long nối quốc lộ 21 với cao tốc Hà Nội - Hòa Bình có tổng mức đầu tư 5.249 tỷ đồng và dài khoảng 6,7km. Công tác giải phóng mặt bằng cơ bản đã hoàn thành, Ban Quản lý dự án và các nhà thầu đang nỗ lực đẩy nhanh tiến độ thi công. Dự án do Ban Quản lý dự án đầu tư xây dựng công trình dân dụng thành phố Hà Nội làm chủ đầu tư.",
         "pubDate": "Sun, 02 Aug 26 09:35:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Diễn biến mới nhất về 'siêu' sân bay lớn nhất Việt Nam",
-        "url": "https://cafef.vn/dien-bien-moi-nhat-ve-sieu-san-bay-lon-nhat-viet-nam-18826080210242866.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's Civil Aviation Authority has submitted a document to the Ministry of Construction and the Long Thanh International Airport exploitation preparation steering committee outlining preparations for the official opening of Long Thanh Airport on December 1, 2026. Project component 3 works including the runway, passenger terminal, cargo terminal, internal airport transportation systems, technical infrastructure, and auxiliary structures are being finalized to meet the exploitation target.",
-        "summary_vn": "Cục Hàng không Việt Nam gửi văn bản cho Bộ Xây dựng và Ban chỉ đạo công tác chuẩn bị khai thác về các điều kiện đưa Cảng hàng không quốc tế Long Thành vào khai thác chính thức từ 1/12/2026. Các hạng mục Dự án thành phần 3 bao gồm khu bay, nhà ga hành khách, nhà ga hàng hóa, hệ thống giao thông nội cảng, hạ tầng kỹ thuật và công trình phụ trợ đang được tập trung hoàn thiện.",
-        "pubDate": "Sun, 02 Aug 26 11:11:00 +0700",
-        "sentiment": 0.0,
-        "importance": 4
-      },
-      {
-        "title": "Sẽ có 3 đợt vận hành thử nghiệm sân bay Long Thành",
-        "url": "https://cafef.vn/se-co-3-dot-van-hanh-thu-nghiem-san-bay-long-thanh-188260802095847225.chn",
-        "source": "CafeF",
-        "summary_en": "Long Thanh Airport will conduct three trial operations in a three-month period from September to November 2026. The trials are part of the airport's commissioning process before full operational status. The announcement confirms the planned timeline for testing major airport systems and procedures.",
-        "summary_vn": "Sân bay Long Thành sẽ tiến hành ba đợt vận hành thử nghiệm trong giai đoạn ba tháng từ tháng 9 đến tháng 11 năm 2026. Các đợt thử nghiệm là một phần của quá trình đưa sân bay vào hoạt động trước khi đạt trạng thái hoạt động đầy đủ. Thông báo xác nhận lịch trình dự kiến để kiểm tra các hệ thống và quy trình sân bay chính.",
-        "pubDate": "Sun, 02 Aug 26 15:20:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Châu Âu 'khát' điều hòa, Trung Quốc kịp thời dùng đường sắt giao hàng",
-        "url": "https://tuoitre.vn/chau-au-khat-dieu-hoa-trung-quoc-kip-thoi-dung-duong-sat-giao-hang-100260802092045396.htm",
-        "source": "TuoiTre",
-        "summary_en": "Europe is experiencing record-breaking heat, causing a sharp increase in demand for air conditioning units. Chinese state railway and appliance companies Midea and Gree Electric Appliances have accelerated rail transport of air conditioners to Europe. Rail freight from China to Europe is becoming a critical supply solution as local European supply cannot keep pace with surging demand.",
-        "summary_vn": "Châu Âu đang chịu ảnh hưởng của nắng nóng kỷ lục khiến nhu cầu máy điều hòa tăng vọt. Tập đoàn Đường sắt nhà nước Trung Quốc cùng các hãng điện tử Midea và Gree Electric Appliances đã tăng tốc độ vận chuyển máy điều hòa sang châu Âu. Đường sắt Trung Quốc - châu Âu trở thành giải pháp cung cấp quan trọng khi nguồn cung địa phương không theo kịp nhu cầu.",
-        "pubDate": "8/2/2026 9:48:00 AM",
-        "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "Cú bắt tay gã khổng lồ số 1 thế giới: \"Chìa khóa\" 5 tỷ USD mở cánh cửa đưa Việt Nam thành cường quốc biển",
-        "url": "https://cafef.vn/cu-bat-tay-ga-khong-lo-so-1-the-gioi-chia-khoa-5-ty-usd-mo-canh-cua-dua-viet-nam-thanh-cuong-quoc-bien-188260801082901742.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam possesses over 3,200 km of coastline and sits on one of the world's busiest maritime shipping routes as a major export economy in Southeast Asia. The article discusses a paradox in Vietnam's maritime industry involving a $5 billion port project. Vietnam's maritime administration is mentioned as a relevant authority on the sector.",
-        "summary_vn": "Việt Nam sở hữu hơn 3.200 km đường bờ biển và nằm trên một trong những tuyến vận tải biển nhộn nhịp nhất thế giới với tư cách là một nền kinh tế xuất khẩu lớn ở Đông Nam Á. Bài viết đề cập đến một nghịch lý trong ngành hàng hải Việt Nam liên quan đến dự án cảng biển 5 tỷ USD. Cục Hàng hải và Đường thủy Việt Nam được nhắc tới như một cơ quan chủ quản của ngành.",
-        "pubDate": "Sat, 01 Aug 26 11:02:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Sun Group đầu tư 40.000 tỷ đồng xây gần 50.000 căn nhà ở xã hội, nhà ở cho thuê \"tiêu chuẩn Singapore\" tại Phú Quốc",
-        "url": "https://cafef.vn/sun-group-dau-tu-40000-ty-dong-xay-gan-50000-can-nha-o-xa-hoi-nha-o-cho-thue-tieu-chuan-singapore-tai-phu-quoc-188260802165120488.chn",
-        "source": "CafeF",
-        "summary_en": "Sun Group launched a housing development program at the An Thới urban area in Phú Quốc with an investment of 40,000 billion VND to construct approximately 50,000 social housing units and rental housing to Singapore standards. The formal program initiation ceremony was held on August 2, 2026, marking a key milestone in realizing the company's social housing and urban infrastructure development strategy. The project aims to improve living standards and social welfare for local residents.",
-        "summary_vn": "Tập đoàn Sun Group khởi động chương trình phát triển nhà ở tại khu đô thị An Thới, Phú Quốc với mức đầu tư 40.000 tỷ đồng để xây dựng gần 50.000 căn nhà ở xã hội và nhà ở cho thuê đạt tiêu chuẩn Singapore. Lễ khởi động chương trình được tổ chức vào ngày 2/8/2026, đánh dấu bước tiến quan trọng trong việc thực hiện chiến lược phát triển nhà ở xã hội và hạ tầng đô thị. Dự án nhằm nâng cao chất lượng sống và an sinh xã hội cho người dân địa phương.",
-        "pubDate": "Sun, 02 Aug 26 16:51:00 +0700",
-        "sentiment": 0.6,
-        "importance": 4
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Truth Social bán quyền đọc trước bài đăng của ông Trump với mức giá lên đến 100.000 USD/tháng",
-        "url": "https://tuoitre.vn/truth-social-ban-quyen-doc-truoc-bai-dang-cua-ong-trump-voi-muc-gia-len-den-100000-usd-thang-100260802085639685.htm",
-        "source": "TuoiTre",
-        "summary_en": "Trump Media & Technology Group, where former U.S. President Donald Trump is majority shareholder, launched a paid data service called Truth API on August 1st. The service allows customers to access posts on Truth Social before regular users, with subscription pricing reaching up to $100,000 per month. The company announced the product through Acting Chief Executive Officer Kevin McGurn.",
-        "summary_vn": "Tập đoàn Truyền thông và công nghệ Trump, nơi cựu Tổng thống Donald Trump là cổ đông đa số, đã ra mắt dịch vụ dữ liệu trả phí có tên Truth API vào ngày 1-8. Dịch vụ cho phép khách hàng tiếp cận các bài đăng trên Truth Social sớm hơn người dùng thông thường, với mức giá thuê bao lên đến 100.000 USD/tháng. Công ty công bố sản phẩm thông qua Quyền Tổng giám đốc Kevin McGurn.",
-        "pubDate": "8/2/2026 9:50:00 AM",
         "sentiment": 0.0,
         "importance": 2
       }

@@ -1,17 +1,23 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-08-02"
-lastUpdated: "2026-08-02"
+publishedDate: "2026-08-04"
+lastUpdated: "2026-08-04"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Airlines
 
-Recent Vietnam market news mentioning **Vietnam Airlines** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Airlines** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cổ phiếu FPT, PNJ, FRT... 'rủ nhau' tím trần, VN-Index tăng hơn 27 điểm**  
+
+Multiple Vietnamese stocks rallied on August 3, with technology, retail and aviation stocks closing at daily limit-up prices. FPT surged 6.86% to 71,700 VND per share with trading volume exceeding 16.27 million shares, approximately double the 10-session average, while also attracting the strongest foreign net buying on the market with over 524 billion VND in transactions. The VN-Index gained more than 27 points during the session.
+
+- Source: [TuoiTre](https://tuoitre.vn/co-phieu-fpt-pnj-frt-ru-nhau-tim-tran-vn-index-tang-hon-27-diem-100260803152039691.htm)
 
 **Xuất hiện DN có doanh thu vượt xa Hòa Phát, Thế Giới Di Động, Vietnam Airlines,… nhưng báo lỗ**  
 
@@ -66,7 +72,7 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 - [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Hành khách đi máy bay đặc biệt chú ý quy định mới đã bắt đầu áp dụng từ ngày 1/7](https://cafef.vn/hanh-khach-di-may-bay-dac-biet-chu-y-quy-dinh-moi-da-bat-dau-ap-dung-tu-ngay-1-7-18826070208081655.chn) — CafeF
-- [Hành khách quốc tế qua đường hàng không tăng 15,4%](https://cafef.vn/hanh-khach-quoc-te-qua-duong-hang-khong-tang-154-188260720154458932.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 
 ---
 
