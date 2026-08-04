@@ -4,16 +4,16 @@ description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, 
 publishedDate: "2026-08-04"
 lastUpdated: "2026-08-04"
 category: "Market Brief"
-readingTime: 16
+readingTime: 17
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 32/2026
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng Quan Thị Trường Tuần Này
 
-Thị trường chứng khoán Việt Nam ghi nhận sự hồi phục sau những phiên giảm mạnh tháng 7, với VN-Index tăng 1,56% và nhóm cổ phiếu ngân hàng dẫn đầu đà tăng nhờ công bố kết quả kinh doanh quý II. Ngoài ra, cổ phiếu công nghệ như FPT hưởng lợi từ dòng vốn ngoại mạnh mẽ, tăng vượt 15% trong tuần. Về kinh tế vĩ mô, TP.HCM tiếp tục thu hút vốn FDI ở mức cao (tăng 144,5% so với cùng kỳ năm trước), trong khi Chính phủ phê duyệt kế hoạch cải cách thị trường tài chính toàn diện hướng tới năm 2045.
+Thị trường chứng khoán Việt Nam ghi nhận sự phục hồi trong tuần qua khi chỉ số VN-Index tăng 1,56% lên 1.762,84 điểm, sau khi tháng 7 chứng kiến mức giảm hơn 124 điểm do áp lực từ cổ phiếu ngân hàng. Cổ phiếu ngân hàng là động lực chính của đợt tăng này với 22 trên 27 mã tăng giá, được hỗ trợ bởi công bố kết quả kinh doanh quý II/2026 và các biện pháp hỗ trợ thanh khoản từ Ngân hàng Nhà nước. Bên cạnh đó, nền kinh tế cho thấy những tín hiệu tích cực với xuất khẩu tăng 21,7% trong 7 tháng đầu năm và khối ngoại tăng cường mua vào, đặc biệt là cổ phiếu FPT tăng hơn 15%.
 
 ## Thương mại điện tử
 
@@ -33,7 +33,37 @@ Cục Hàng không Việt Nam gửi văn bản cho Bộ Xây dựng và Ban ch�
 - Số liệu chính: Ngày khai thác chính thức dự kiến: 1/12/2026
 - Nguồn: [CafeF](https://cafef.vn/dien-bien-moi-nhat-ve-sieu-san-bay-lon-nhat-viet-nam-18826080210242866.chn)
 
+## Người tiêu dùng
+
+**Việt Nam vừa lập một kỷ lục mới, Trung Quốc, Mỹ, Campuchia có đóng góp lớn, riêng Nga ghi nhận tăng 174%**  
+
+Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đóng góp lớn từ Trung Quốc, Mỹ và Campuchia, riêng Nga ghi nhận tăng 174%. Ngành du lịch đã thu được hơn 580.000 tỷ đồng cho Việt Nam. Việt Nam đón gần 14 triệu lượt khách quốc tế.
+
+- Số liệu chính: Tourism revenue: over 580,000 billion VND billion VND; International tourist arrivals: nearly 14 million visitors; Russian tourist growth: 174% percent increase
+- Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
+
 ## Pháp lý
+
+**Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động**  
+
+Ngân hàng Nhà nước Việt Nam quyết định nâng tỷ lệ tiền gửi Kho bạc Nhà nước được tính vào chỉ số LDR từ 20% lên 50%, có hiệu lực từ ngày 1/8/2026 đến 31/7/2028. Điều chỉnh này được coi là một bước đi chiến lược nhằm giải tỏa áp lực thanh khoản và hạ nhiệt cuộc đua lãi suất huy động giữa các ngân hàng. Biện pháp này nhằm mở rộng dư địa tín dụng để hỗ trợ nền kinh tế.
+
+- Số liệu chính: LDR ratio increase for State Treasury deposits: 20% to 50%; Effective period: 1/8/2026 to 31/7/2028
+- Nguồn: [CafeF](https://cafef.vn/nang-ty-le-tien-gui-kho-bac-nha-nuoc-len-50-khi-tinh-ldr-cu-hich-thanh-khoan-ha-nhiet-cuoc-dua-lai-suat-huy-dong-188260804065514216.chn)
+
+**Hải Phòng triệt xóa đường dây rửa tiền cờ bạc, phong tỏa hơn 3.000 tỷ đồng**  
+
+Công an Hải Phòng bắt tạm giam 28 đối tượng trong đường dây tổ chức đánh bạc và rửa tiền quy mô đặc biệt lớn. Cơ quan chức năng phong tỏa hơn 3.000 tỷ đồng trong tài khoản tại 36 ngân hàng. Vụ án được khởi tố vào tối ngày 3/8.
+
+- Số liệu chính: Số đối tượng bị bắt tạm giam: 28 người; Số tiền phong tỏa: 3.000 tỷ đồng; Số ngân hàng có tài khoản bị phong tỏa: 36 ngân hàng
+- Nguồn: [CafeF](https://cafef.vn/hai-phong-triet-xoa-duong-day-rua-tien-co-bac-phong-toa-hon-3000-ty-dong-18826080410004623.chn)
+
+**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
+
+Bộ Tài chính dự kiến sửa quy định liên quan đến hàng trăm nghìn tỷ đồng nhằm hỗ trợ thanh khoản hệ thống ngân hàng, với dự kiến áp dụng từ ngày 1/1/2027. Hiện nay, dư nợ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại hệ thống ngân hàng đạt khoảng 740.000 tỷ đồng. Sửa đổi này nhằm cải thiện cơ chế hỗ trợ thanh khoản trong toàn bộ hệ thống tài chính.
+
+- Số liệu chính: Dư nợ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại hệ thống ngân hàng: 740,000 tỷ đồng
+- Nguồn: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
 
 **Đề xuất quy định niên hạn sử dụng căn hộ: Gỡ 'nút thắt' hàng chục năm trong cải tạo chung cư cũ**  
 
@@ -47,19 +77,6 @@ Cảnh sát Đà Nẵng đã triệt phá một đường dây mua bán hóa đ�
 
 - Số liệu chính: Total transaction value of illegal VAT invoice trading: 2,000 billion dong; Age of main suspect: 58 years
 - Nguồn: [CafeF](https://cafef.vn/da-nang-triet-pha-duong-day-mua-ban-hoa-don-khong-hon-2000-ty-dong-18826080113494365.chn)
-
-**Nóng: Ngân hàng Nhà nước nâng tỷ lệ tính tiền gửi Kho bạc Nhà nước vào LDR lên 50%, áp dụng chính thức từ ngày mai (1/8)**  
-
-Ngân hàng Nhà nước quyết định giảm tỷ lệ khấu trừ số dư tiền gửi của Kho bạc Nhà nước trong tính toán tỷ lệ dư nợ cho vay trên tổng tiền gửi từ 80% xuống 50%. Chính sách này sẽ có hiệu lực chính thức từ ngày 1/8/2026 cho đến hết ngày 31/7/2028.
-
-- Số liệu chính: Previous deduction ratio for State Treasury deposits in LDR calculation: 80%; New deduction ratio for State Treasury deposits in LDR calculation: 50%; Effective date: 1/8/2026; End date of policy period: 31/7/2028
-- Nguồn: [CafeF](https://cafef.vn/nong-ngan-hang-nha-nuoc-nang-ty-le-tinh-tien-gui-kho-bac-nha-nuoc-vao-ldr-len-50-ap-dung-chinh-thuc-tu-ngay-mai-1-8-188260731150341967.chn)
-
-**Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
-
-Thủ tướng ra chỉ thị mới về chống lừa đảo và ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật. Thủ tướng yêu cầu Ngân hàng Nhà nước Việt Nam nghiên cứu, rà soát và đề xuất sửa đổi các quy định nhằm ngăn chặn sử dụng tài khoản thanh toán, ví điện tử, mobile money với thông tin chủ thể không đúng để vi phạm pháp luật. Chỉ thị này phản ánh việc siết chặt quy định trong lĩnh vực thanh toán số của Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
 
 ## Chứng khoán
 
@@ -118,42 +135,28 @@ Sacombank đã sa thải hơn 3.700 nhân viên trong nửa đầu năm 2026, đ
 - Số liệu chính: Consolidated employees at 31/12/2025: 16,816; Consolidated employees at 31/3/2026: 14,080; Consolidated employee reduction in Q1 2026: 2,736; Standalone subsidiary employees at 31/12/2025: 15,851
 - Nguồn: [CafeF](https://cafef.vn/hon-3700-can-bo-nhan-vien-cua-mot-ngan-hang-lon-nghi-viec-188260801170040619.chn)
 
-**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
-
-Nhiều ngân hàng Việt Nam ghi nhận mức tăng trưởng lợi nhuận ngoại lệ trong kỳ công bố kết quả kinh doanh bán niên 2026. Một số ngân hàng đạt mức tăng lợi nhuận từ 50% đến gần 500% so với cùng kỳ năm trước. Đến ngày 21/7/2026, đã có 10 ngân hàng công bố kết quả bán niên, với Techcombank báo lãi vượt quá 18.500 tỷ đồng.
-
-- Số liệu chính: Techcombank profit (6 months 2026): 18,500 billion Vietnamese dong VND billion; Number of banks reporting by July 21, 2026: 10 banks; Profit growth range: 50% to nearly 500% year-on-year percentage
-- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
-
-**HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế**  
-
-HDBank gia nhập nhóm ngân hàng có quy mô tài sản trên 1 triệu tỷ đồng. Ngân hàng công bố lợi nhuận trước thuế vượt 13.200 tỷ đồng cho nửa đầu năm 2026, với ROE đạt 25,4%, thuộc nhóm cao nhất ngành. HDBank tiếp tục khẳng định vị thế mới trên thị trường vốn quốc tế.
-
-- Số liệu chính: Total assets threshold: 1,000,000 billion dong; Pre-tax profit (H1 2026): 13,200 billion dong; ROE: 25.4 %
-- Nguồn: [CafeF](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn)
-
-**Nhờ đâu lợi nhuận Vietcombank tăng vọt lên mức cao chưa từng có?**  
-
-Vietcombank ghi nhận lợi nhuận trước thuế quý II/2026 đạt 17.420 tỷ đồng, tăng gần 58% so với cùng kỳ năm trước và là mức cao nhất từ trước đến nay. Kết quả kinh doanh mạnh mẽ của ngân hàng phản ánh các điều kiện thị trường thuận lợi trong kỳ báo cáo. Hiệu suất này là một phần của xu hướng lợi nhuận tăng đáng kể trên toàn bộ ngành ngân hàng.
-
-- Số liệu chính: Pre-tax profit Q2 2026: 17.420 trillion VND; YoY growth: 57.8 %
-- Nguồn: [CafeF](https://cafef.vn/nho-dau-loi-nhuan-vietcombank-tang-vot-len-muc-cao-chua-tung-co-188260731112102574.chn)
-
-**Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét quý 2/2026**  
-
-Nam A Bank ghi nhận lợi nhuận trước thuế 6 tháng đầu năm 2026 đạt 3.159 tỷ đồng, tăng 25% so với cùng kỳ năm trước. Chất lượng tài sản cải thiện rõ nét khi tỷ lệ nợ nhóm 2 giảm xuống 0,54% (từ 1,31% cuối năm 2025) và tỷ lệ nợ xấu giảm xuống 1,47% (từ 2,16% cuối năm 2025). Ngân hàng tiếp tục ghi nhận kết quả kinh doanh tích cực trong nửa đầu năm.
-
-- Số liệu chính: Pre-tax profit (H1 2026): 3.159 trillion VND; Pre-tax profit growth YoY: 25 %; Group 2 loan ratio (H1 2026): 0.54 %; Group 2 loan ratio (End-2025): 1.31 %
-- Nguồn: [CafeF](https://cafef.vn/loi-nhuan-nam-a-bank-tang-25-chat-luong-tai-san-cai-thien-ro-net-quy-2-2026-1882607311142497.chn)
-
-**MB tối ưu vận hành với CIR chỉ 24,17%, phục vụ gần 40 triệu khách hàng**  
-
-MB công bố kết quả tài chính hợp nhất quý II/2026 với lợi nhuận tiếp tục tăng trưởng hai chữ số nhờ nguồn thu nhập lãi thuần mạnh. Tính đến ngày 30/6/2026, tổng tài sản hợp nhất của MB đạt 1.733.013 tỷ đồng, tăng 7,3% so với cuối năm 2025, dư nợ tín dụng đạt 1.256.084 tỷ đồng, tăng 13,2%. Ngân hàng duy trì quản trị hiệu quả với chỉ số chi phí trên thu nhập là 24,17% và phục vụ gần 40 triệu khách hàng.
-
-- Số liệu chính: Tổng tài sản hợp nhất: 1.733.013 tỷ đồng; Tăng trưởng tài sản so với cuối năm 2025: 7,3 %; Dư nợ tín dụng: 1.256.084 tỷ đồng; Tăng trưởng dư nợ tín dụng: 13,2 %
-- Nguồn: [CafeF](https://cafef.vn/mb-toi-uu-van-hanh-voi-cir-chi-2417-phuc-vu-gan-40-trieu-khach-hang-188260731173024495.chn)
-
 ## Kinh tế vĩ mô
+
+**Kích hoạt gói tín dụng 220.000 tỷ đồng và loạt giải pháp hỗ trợ doanh nghiệp bứt tốc**  
+
+Tại cuộc họp báo chính phủ thường kỳ tháng 7/2026, Bộ Tài chính và Ngân hàng Nhà nước công bố gói tín dụng 220.000 tỷ đồng và nhiều biện pháp hỗ trợ doanh nghiệp. Các giải pháp bao gồm các gói cho vay với lãi suất ưu đãi, nới room vốn trung dài hạn, và chính sách gia hạn thuế cũng như tiền thuê đất. Những biện pháp này nhằm tạo đà bứt phá cho toàn nền kinh tế.
+
+- Số liệu chính: Credit package announced: 220,000 billion VND
+- Nguồn: [CafeF](https://cafef.vn/kich-hoat-goi-tin-dung-220000-ty-dong-va-loat-giai-phap-ho-tro-doanh-nghiep-but-toc-188260804075648734.chn)
+
+**7 'ngôi sao' sáng nhất thị trường xuất khẩu Việt Nam sau 7 tháng đầu năm**  
+
+Xuất khẩu của Việt Nam đạt 319,53 tỷ USD trong 7 tháng đầu năm 2026, tăng 21,7% so với cùng kỳ năm trước, theo Cục Thống kê (Bộ Tài chính). Bảy mặt hàng xuất khẩu đạt trên 10 tỷ USD mỗi loại trong cùng kỳ. Tổng cộng 31 mặt hàng xuất khẩu vượt quá 1 tỷ USD, chiếm 93,0% tổng kim ngạch xuất khẩu.
+
+- Số liệu chính: Total exports value: 319.53 billion USD; Year-on-year export growth: 21.7 %; Number of commodities exceeding $10 billion: 7 commodities; Number of commodities exceeding $1 billion: 31 commodities
+- Nguồn: [CafeF](https://cafef.vn/7-ngoi-sao-sang-nhat-thi-truong-xuat-khau-viet-nam-sau-7-thang-dau-nam-188260804081013008.chn)
+
+**Hàn Quốc mất 40 năm, Trung Quốc mất 30 năm nhưng Việt Nam chỉ có 5 năm để làm   điều này**  
+
+Việt Nam phấn đấu chi cho nghiên cứu khoa học là 2% GDP vào năm 2030. Năm 2025, vốn đầu tư tư nhân vào hệ sinh thái công nghệ và đổi mới sáng tạo phục hồi mạnh mẽ, đạt khoảng 4,5 tỷ USD qua 149 thương vụ. Trong đó, vốn đầu tư cổ phần tư nhân đạt mức cao kỷ lục khoảng 4 tỷ USD, còn vốn đầu tư mạo hiểm tăng khoảng 28%.
+
+- Số liệu chính: Target R&D spending as % of GDP by 2030: 2%; Total private investment in technology ecosystem 2025: 4.5 billion USD; Number of transactions: 149; Private equity investment 2025: 4 billion USD
+- Nguồn: [CafeF](https://cafef.vn/han-quoc-mat-40-nam-trung-quoc-mat-30-nam-nhung-viet-nam-chi-co-5-nam-de-lam-dieu-nay-188260804143707243.chn)
 
 **Khơi thông dòng vốn trung hạn và dài hạn**  
 

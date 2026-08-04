@@ -9,9 +9,39 @@ readingTime: 3
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (103 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (108 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Những ngân hàng nào có tỷ lệ nợ xấu thấp nhất hiện nay?**  
+
+Ten Vietnamese banks maintained non-performing loan (NPL) ratios below 1.5% in the first half of 2026, with Vietcombank and ACB among those with the lowest ratios. The banking sector faced increased liquidity pressure during the first half of 2026, leading to higher system-wide deposit rates. Industry-wide credit growth reached 8.5% while deposit growth lagged at 5%, creating a liquidity gap that pressured funding costs across the sector.
+
+- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-nao-co-ty-le-no-xau-thap-nhat-hien-nay-188260804075641978.chn)
+
+**Lãi suất ngân hàng BIDV mới nhất tháng 8/2026**  
+
+BIDV maintained its attractive deposit interest rates for individual customers entering August 2026. The article provides an update on BIDV's current interest rate offerings as of early August 2026. Other banks including LPBank, Agribank, Vietcombank, VietinBank, MB, Sacombank, and HDBank also adjusted their rates during this period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-bidv-moi-nhat-thang-8-2026-188260804102939508.chn)
+
+**Vietcombank bổ nhiệm 3 Phó Tổng giám đốc**  
+
+Vietcombank announced the appointment of three new Deputy General Directors: Nguyễn Thị Hồng Vân, Bạch Thành Long, and Nguyễn Văn Lập, effective August 3, 2026. Each appointment is for a five-year term. This is part of a series of personnel decisions announced by the bank.
+
+- Source: [CafeF](https://cafef.vn/vietcombank-bo-nhiem-3-pho-tong-giam-doc-188260804115824347.chn)
+
+**Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
+
+**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
+
+The Ministry of Finance plans to amend regulations affecting approximately hundreds of thousands of billion dong to improve liquidity in the banking system, with implementation expected from January 1, 2027. As of the date of report, Vietnam's State Treasury maintains term deposits at the banking system totaling approximately 740,000 billion dong. The amendment aims to address liquidity support mechanisms across the financial sector.
+
+- Source: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
 
 **'Bức tranh' tín dụng của các ngân hàng**  
 
@@ -55,42 +85,12 @@ Non-performing loans (NPLs) at Vietnamese banks showed notable increases in the 
 
 - Source: [CafeF](https://cafef.vn/no-xau-ngan-hang-gia-tang-188260802200644186.chn)
 
-**9 ngân hàng nào lãi trên 10.000 tỉ đồng, đóng thuế bao nhiêu?**  
-
-Vietnamese banks reported first-half 2024 profit results with nine banks earning more than 10,000 billion VND. Vietcombank led the system with pre-tax profit exceeding 29,222 billion VND and paid corporate income tax of 5,209 billion VND, resulting in after-tax profit over 24,013 billion VND. VietinBank ranked second with pre-tax profit exceeding 25,868 billion VND.
-
-- Source: [TuoiTre](https://tuoitre.vn/9-ngan-hang-nao-lai-tren-10000-ti-dong-dong-thue-bao-nhieu-10026080208043615.htm)
-
-**Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of bank deposit rates on August 1st shows that seven banks are quoting rates of 7% per annum or higher for 12-month term deposits. The article compares deposit rate offerings across major Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank. The survey is part of ongoing daily monitoring of Vietnamese banking sector interest rates.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn)
-
-**Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
-
-Multiple Vietnamese banks reported exceptional profit growth in the first half of 2026 during their interim earnings announcements. Some banks achieved profit increases ranging from 50% to nearly 500% compared to the same period last year. As of July 21, 2026, ten banks had disclosed their six-month results, with Techcombank reporting profit exceeding 18,500 billion Vietnamese dong.
-
-- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn)
-
-**Nhờ đâu lợi nhuận Vietcombank tăng vọt lên mức cao chưa từng có?**  
-
-Vietcombank reported pre-tax profit of 17.420 trillion VND in Q2 2026, representing a nearly 58% increase compared to the same period last year and marking an all-time high. The bank's strong earnings growth reflects favorable market conditions during the period. This performance is part of a broader trend of significant profit increases across the banking sector.
-
-- Source: [CafeF](https://cafef.vn/nho-dau-loi-nhuan-vietcombank-tang-vot-len-muc-cao-chua-tung-co-188260731112102574.chn)
-
-**Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of deposit rates across 34 banks on July 31 shows ACB leading the market with 7.8% per annum for 12-month terms, while the Big4 banks maintain 6.8% per annum. The data provides a snapshot of prevailing interest rate offerings in the Vietnamese banking system on that date.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 - [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
-- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 8/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-8-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260708164423693.chn) — CafeF
+- [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 
 ---
 

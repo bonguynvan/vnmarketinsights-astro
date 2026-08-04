@@ -9,9 +9,27 @@ readingTime: 3
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (28 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Những ngân hàng nào có tỷ lệ nợ xấu thấp nhất hiện nay?**  
+
+Ten Vietnamese banks maintained non-performing loan (NPL) ratios below 1.5% in the first half of 2026, with Vietcombank and ACB among those with the lowest ratios. The banking sector faced increased liquidity pressure during the first half of 2026, leading to higher system-wide deposit rates. Industry-wide credit growth reached 8.5% while deposit growth lagged at 5%, creating a liquidity gap that pressured funding costs across the sector.
+
+- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-nao-co-ty-le-no-xau-thap-nhat-hien-nay-188260804075641978.chn)
+
+**ACB vào Top 20 VNSI: Chất lượng tài sản Top đầu đi cùng tăng trưởng hiệu quả và bền vững**  
+
+ACB (Asia Commercial Bank) was selected into the Top 20 enterprises of the Vietnam Sustainability Index (VNSI) for 2026, following positive business results in the first half of 2026. The ranking recognizes ACB's progress in building long-term growth foundations through asset quality, risk management, and sustainable development governance. The bank's inclusion reflects its commitment to information transparency and sustainable business practices.
+
+- Source: [CafeF](https://cafef.vn/acb-vao-top-20-vnsi-chat-luong-tai-san-top-dau-di-cung-tang-truong-hieu-qua-va-ben-vung-188260804091241493.chn)
+
+**Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
 
 **Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -67,30 +85,12 @@ The USD appreciated by 20 dong at Vietnamese banks during the week, with Vietcom
 
 - Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm)
 
-**ACB đạt lợi nhuận hơn 10.700 tỷ đồng trong 6 tháng đầu năm 2026, bán lẻ và SME hồi phục tích cực**  
-
-Asia Commercial Bank (ACB) reported consolidated pre-tax profit of over 10,700 billion dong for the first six months of 2026. Despite ongoing economic challenges, effects from public investment projects, infrastructure development, and government growth-promotion policies are gradually spreading. The recovery momentum is creating positive signs in the retail and SME segments.
-
-- Source: [CafeF](https://cafef.vn/acb-dat-loi-nhuan-hon-10700-ty-dong-trong-6-thang-dau-nam-2026-ban-le-va-sme-hoi-phuc-tich-cuc-188260722111520747.chn)
-
-**NHNN đang hoàn thiện những bước cuối cùng để thay thế Thông tư quan trọng bậc nhất ngành ngân hàng: VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, VIB… nói gì?**  
-
-Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking regulation. Deputy Governor Doan Thai Son emphasized that the central bank's consistent approach is to gradually align banking operations and risk management practices with international standards while ensuring compatibility with Vietnam's actual conditions. Major banks including VietinBank, Vietcombank, BIDV, Techcombank, MB, ACB, and VIB are engaged in this regulatory transition.
-
-- Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
-
-**Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates at 34 banks on July 22 showed the rate environment remained stable. ACB led the market with 7.8% per annum for 12-month terms, while 7 banks quoted rates of 7% per annum or higher.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn) — CafeF
 - [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
-- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn) — CafeF
+- [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
 
 ---
 

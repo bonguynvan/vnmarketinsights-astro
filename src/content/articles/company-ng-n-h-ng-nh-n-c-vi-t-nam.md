@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5
 
 ## Recent mentions
 
+**Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động**  
+
+The State Bank of Vietnam has increased the ratio of State Treasury deposits counted in the LDR (Loan-to-Deposit Ratio) calculation from 20% to 50%, effective from August 1, 2026 to July 31, 2028. This adjustment is considered a strategic measure to ease liquidity pressure and cool down the competition for deposit interest rates among banks. The move is intended to expand credit capacity to support economic growth.
+
+- Source: [CafeF](https://cafef.vn/nang-ty-le-tien-gui-kho-bac-nha-nuoc-len-50-khi-tinh-ldr-cu-hich-thanh-khoan-ha-nhiet-cuoc-dua-lai-suat-huy-dong-188260804065514216.chn)
+
 **Sửa đổi Nghị định 50 để phù hợp với quản lý dự trữ ngoại hối nhà nước**  
 
 The State Bank of Vietnam is proposing amendments to Decree 50 to align with state foreign exchange reserve management. The proposal includes adjustments to profit calculation that would exclude income and expenses related to gold investment activities. This regulatory revision aims to better reflect the management framework for Vietnam's foreign exchange reserves.
@@ -79,17 +85,11 @@ Vietnam's State Bank is circulating a draft circular to regulate payment and mon
 
 - Source: [CafeF](https://cafef.vn/de-xuat-thuong-nhan-cung-cap-thong-tin-nguon-tien-de-ngan-hang-theo-doi-giao-dich-chuyen-khau-188260725075053439.chn)
 
-**Đề xuất đóng tài khoản ngân hàng “ngủ đông”**  
-
-The State Bank of Vietnam proposes closing dormant bank accounts that have not generated transactions for 3 years to clean up data, reduce risks, and improve banking system safety. The proposal has generated public discussion about account security, interest earnings on deposits, and the distinction between regular payment accounts and savings products.
-
-- Source: [CafeF](https://cafef.vn/de-xuat-dong-tai-khoan-ngan-hang-ngu-dong-188260724135756079.chn)
-
 ## Related coverage
 
 - [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
-- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
+- [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
 - [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
 
 ---

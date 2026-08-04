@@ -89,8 +89,8 @@ Eximbank announced the scheduling of an extraordinary shareholder meeting planne
 
 - [Ông Trần Tấn Lộc tiếp tục làm Quyền Tổng Giám đốc Eximbank](https://cafef.vn/ong-tran-tan-loc-tiep-tuc-lam-quyen-tong-giam-doc-eximbank-188260703135653431.chn) — CafeF
 - [Diễn biến mới phương án nhân sự HĐQT ở Eximbank](https://cafef.vn/dien-bien-moi-phuong-an-nhan-su-hdqt-o-eximbank-18826062418240156.chn) — CafeF
+- [HDBank dự kiến chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 30%](https://cafef.vn/hdbank-du-kien-chia-co-tuc-co-phieu-thuong-tong-ty-le-30-188260804105204154.chn) — CafeF
 - [Nhiều ngân hàng kiện toàn nhân sự cấp cao trong tháng 7](https://cafef.vn/nhieu-ngan-hang-kien-toan-nhan-su-cap-cao-trong-thang-7-18826070912373835.chn) — CafeF
-- [Ông Nguyễn Thanh Tùng giữ chức vụ Phó Tổng Giám đốc VietinBank](https://cafef.vn/ong-nguyen-thanh-tung-giu-chuc-vu-pho-tong-giam-doc-vietinbank-18826070214321938.chn) — CafeF
 
 ---
 

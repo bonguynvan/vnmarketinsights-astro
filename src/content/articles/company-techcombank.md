@@ -9,9 +9,15 @@ readingTime: 3
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (37 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Techcombank bổ nhiệm thêm Phó Tổng giám đốc**  
+
+Techcombank appointed two new Deputy General Directors starting July 2026: Nguyễn Vân Hoài, who was previously Director of Bank Administration Division and will retain that role concurrently, and Trần Thị Thu Lan. The announcements occurred within early July 2026.
+
+- Source: [CafeF](https://cafef.vn/techcombank-bo-nhiem-them-pho-tong-giam-doc-188260804115944361.chn)
 
 **Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
 
@@ -78,12 +84,6 @@ Techcombank served as the national sponsor for broadcasting rights to the 2026 F
 Techcombank and Visa announced a strategic partnership to launch an international money receiving account on Techcombank Mobile. The service is built on Visa's global payment infrastructure to simplify cross-border transactions for Vietnamese users. The account enables users to receive money from abroad through a streamlined process.
 
 - Source: [CafeF](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn)
-
-**Eximbank có chủ tịch mới**  
-
-Nguyễn Lê Quốc Anh, former Chief Executive Officer of Techcombank, was elected as Chairman of Eximbank's Board of Directors. This follows an extraordinary shareholders' meeting held on July 24, 2026, where multiple Board members were replaced. The Board of Supervisors' Chairman also submitted a resignation letter around the same time.
-
-- Source: [CafeF](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn)
 
 ## Related coverage
 

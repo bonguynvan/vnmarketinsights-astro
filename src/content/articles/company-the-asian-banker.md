@@ -46,9 +46,9 @@ SHB (Saigon-Hanoi Joint Stock Commercial Bank) received the "Best Merchant Servi
 ## Related coverage
 
 - [SHB nhận 4 giải thưởng lớn tại Asian Banking & Finance Awards 2026](https://cafef.vn/shb-nhan-4-giai-thuong-lon-tai-asian-banking-finance-awards-2026-188260714070132877.chn) — CafeF
+- [SHB được Global Banking & Finance Review vinh danh là Ngân hàng tiết kiệm tốt nhất Việt Nam năm 2026](https://cafef.vn/shb-duoc-global-banking-finance-review-vinh-danh-la-ngan-hang-tiet-kiem-tot-nhat-viet-nam-nam-2026-188260803220141959.chn) — CafeF
 - [Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026](https://cafef.vn/vietcombank-sacombank-hdbank-acb-lpbank-cung-nhieu-ngan-hang-lot-top-noi-lam-viec-tot-nhat-chau-a-nam-2026-188260712172122173.chn) — CafeF
 - [Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn) — CafeF
-- [HDBank ghi dấu ấn với bộ ba giải thưởng quốc tế uy tín](https://vietnamnet.vn/hdbank-ghi-dau-an-voi-bo-ba-giai-thuong-quoc-te-uy-tin-2532371.html) — VietnamNet
 
 ---
 

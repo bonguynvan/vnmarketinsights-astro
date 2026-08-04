@@ -9,9 +9,15 @@ readingTime: 3
 
 # Phú Quý
 
-Recent Vietnam market news mentioning **Phú Quý** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Phú Quý** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cuối ngày 4/8, giá vàng tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đảo chiều tăng**  
+
+Gold prices at Vietnamese retailers including SJC, DOJI, Bảo Tín Mạnh Hải, and Phú Quý reversed course and increased at the end of August 4. Prices recovered partially after declines earlier in the trading session but remained lower than opening levels in the morning. The article tracks daily gold price movements across multiple Vietnamese gold trading brands.
+
+- Source: [CafeF](https://cafef.vn/cuoi-ngay-4-8-gia-vang-tai-sjc-doji-bao-tin-manh-hai-phu-quy-dao-chieu-tang-188260804170044988.chn)
 
 **Giá vàng miếng, vàng nhẫn ngày 4/8 tại SJC, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý,...**  
 
@@ -46,9 +52,9 @@ Domestic gold prices remain at their lowest levels in recent days after declinin
 ## Related coverage
 
 - [Chiều 8-7, giá vàng giảm thêm 1 triệu đồng/lượng](https://cafef.vn/chieu-8-7-gia-vang-giam-them-1-trieu-dong-luong-18826070906112162.chn) — CafeF
-- [Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng](https://cafef.vn/sang-25-6-gia-vang-bac-lao-doc-nha-dau-tu-soc-nang-188260625105005435.chn) — CafeF
-- [Giá vàng miếng SJC, vàng nhẫn ngày 16/7](https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-16-7-188260716071512571.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn) — CafeF
+- [Sáng 25-6, giá vàng, bạc lao dốc, nhà đầu tư sốc nặng](https://cafef.vn/sang-25-6-gia-vang-bac-lao-doc-nha-dau-tu-soc-nang-188260625105005435.chn) — CafeF
 
 ---
 

@@ -9,9 +9,15 @@ readingTime: 3
 
 # SHB
 
-Recent Vietnam market news mentioning **SHB** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SHB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**SHB được Global Banking & Finance Review vinh danh là Ngân hàng tiết kiệm tốt nhất Việt Nam năm 2026**  
+
+SHB received the "Best Savings Bank Vietnam 2026" award from Global Banking & Finance Review. The award recognizes the bank's efforts in innovating savings products, enhancing customer experience, and promoting inclusive finance. SHB is positioned as one of the top 5 private commercial banks in Vietnam.
+
+- Source: [CafeF](https://cafef.vn/shb-duoc-global-banking-finance-review-vinh-danh-la-ngan-hang-tiet-kiem-tot-nhat-viet-nam-nam-2026-188260803220141959.chn)
 
 **Lợi nhuận nhiều ngân hàng tăng rất mạnh**  
 
@@ -79,18 +85,12 @@ Multiple Vietnamese banks including Techcombank, VPBank, MB, HDBank, SHB, and MS
 
 - Source: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
 
-**SHB bổ sung lớp cảnh báo rủi ro trong giao dịch chuyển tiền điện tử**  
-
-SHB has announced the implementation of a fraud detection warning feature on its electronic transaction channels starting July 1, 2026. The new feature will automatically alert customers when a recipient account shows signs of suspicious activity or fraud. This measure is designed to strengthen transaction security and help customers proactively manage risks in the context of increasingly sophisticated financial fraud schemes.
-
-- Source: [CafeF](https://cafef.vn/shb-bo-sung-lop-canh-bao-rui-ro-trong-giao-dich-chuyen-tien-dien-tu-188260702211640347.chn)
-
 ## Related coverage
 
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
-- [Ngân hàng đầu tiên báo lỗ trong quý 2/2026](https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn) — CafeF
 - [Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...](https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn) — CafeF
+- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 
 ---
 

@@ -9,9 +9,27 @@ readingTime: 3
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (89 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (92 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng BIDV mới nhất tháng 8/2026**  
+
+BIDV maintained its attractive deposit interest rates for individual customers entering August 2026. The article provides an update on BIDV's current interest rate offerings as of early August 2026. Other banks including LPBank, Agribank, Vietcombank, VietinBank, MB, Sacombank, and HDBank also adjusted their rates during this period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-bidv-moi-nhat-thang-8-2026-188260804102939508.chn)
+
+**Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
+
+**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
+
+The Ministry of Finance plans to amend regulations affecting approximately hundreds of thousands of billion dong to improve liquidity in the banking system, with implementation expected from January 1, 2027. As of the date of report, Vietnam's State Treasury maintains term deposits at the banking system totaling approximately 740,000 billion dong. The amendment aims to address liquidity support mechanisms across the financial sector.
+
+- Source: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
 
 **'Bức tranh' tín dụng của các ngân hàng**  
 
@@ -67,30 +85,12 @@ A survey of deposit rates across 34 banks on July 31 shows ACB leading the marke
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn)
 
-**Một loại lãi suất quan trọng trên thị trường giảm sâu, xuống còn hơn 1%/năm**  
-
-Overnight interbank lending rates have fallen below 1% per annum, declining by up to 0.9 percentage points on July 29, reflecting abundant short-term liquidity in the banking system. The decline in this key market rate indicates excess cash availability among banks seeking short-term funding. This movement reflects current conditions in Vietnam's interbank money market.
-
-- Source: [CafeF](https://cafef.vn/mot-loai-lai-suat-quan-trong-tren-thi-truong-giam-sau-xuong-con-hon-1-nam-188260730101238097.chn)
-
-**Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of deposit interest rates at 34 banks on July 30 shows ACB offering the highest rate at 7.8% per annum for 12-month terms. Seven banks quoted rates of 7% per annum or higher during this period. The article appears to be part of ongoing coverage of daily banking interest rate movements.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn)
-
-**Ngân hàng lớn nhất Việt Nam hợp tác toàn diện với doanh nghiệp hàng đầu trực thuộc Bộ Công an**  
-
-Vietnam's largest bank BIDV has signed a comprehensive cooperation agreement with GTEL, a leading enterprise under the Public Security Ministry. Under the agreement, BIDV will provide capital arrangement, financial solutions, banking services, investment and insurance products to support GTEL's key programs and projects. BIDV will also implement preferential policies for GTEL's employees and the enterprise's business ecosystem.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-hop-tac-toan-dien-voi-doanh-nghiep-hang-dau-truc-thuoc-bo-cong-an-188260729100906648.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
 - [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
-- [Lãi suất ngân hàng 20/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-20-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-18826072018530975.chn) — CafeF
-- [Lãi suất ngân hàng 11/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-11-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260711180328611.chn) — CafeF
+- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 
 ---
 

@@ -9,9 +9,27 @@ readingTime: 3
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (23 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank tăng lãi suất tiết kiệm ngay đầu tháng 8, lên nhóm cao nhất hệ thống**  
+
+LPBank increased deposit interest rates effective August 3, 2026, joining the highest rate tier in the system. Deposit rates for tenors from 6 to 25 months rose by 0.3 percentage points across both online and over-the-counter channels. The online deposit rate reached a maximum of 7.3% per annum.
+
+- Source: [CafeF](https://cafef.vn/lpbank-tang-lai-suat-tiet-kiem-ngay-dau-thang-8-len-nhom-cao-nhat-he-thong-188260804075927302.chn)
+
+**Lãi suất ngân hàng BIDV mới nhất tháng 8/2026**  
+
+BIDV maintained its attractive deposit interest rates for individual customers entering August 2026. The article provides an update on BIDV's current interest rate offerings as of early August 2026. Other banks including LPBank, Agribank, Vietcombank, VietinBank, MB, Sacombank, and HDBank also adjusted their rates during this period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-bidv-moi-nhat-thang-8-2026-188260804102939508.chn)
+
+**Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
 
 **Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -67,30 +85,12 @@ LPBank experienced a large block trade on the afternoon of July 21, with approxi
 
 - Source: [CafeF](https://cafef.vn/lpbank-xuat-hien-giao-dich-thoa-thuan-dot-bien-chieu-21-7-188260721143028149.chn)
 
-**Tài khoản ngân hàng thuộc trường hợp sau sẽ bị đóng từ 30/7**  
-
-LPBank announced on July 30, 2026, it will close personal payment accounts that meet two conditions simultaneously: having no remaining balance and showing no transaction activity for an extended period. Customers in this category have until July 29, 2026, to take action to maintain their accounts.
-
-- Source: [CafeF](https://cafef.vn/tai-khoan-ngan-hang-thuoc-truong-hop-sau-se-bi-dong-tu-30-7-188260715074400348.chn)
-
-**Các tài khoản ngân hàng dưới đây sẽ bị đóng từ ngày 30/7**  
-
-LPBank announced it will close transaction accounts for individual customers that have zero balances and no continuous transactions for 12 months, effective from July 30. Banks in Vietnam are implementing policies to manage inactive accounts and charge fees on accounts below certain minimum balances. The closure applies to personal accounts meeting the specified inactivity criteria.
-
-- Source: [CafeF](https://cafef.vn/cac-tai-khoan-ngan-hang-duoi-day-se-bi-dong-tu-ngay-30-7-188260714164034383.chn)
-
-**Vietcombank, Sacombank, HDBank, ACB, LPBank... cùng nhiều ngân hàng lọt Top nơi làm việc tốt nhất châu Á năm 2026**  
-
-HR Asia Magazine published its "Best Places to Work in Asia 2026" list, recognizing 109 enterprises and banks in Vietnam. The banking sector had 13 representatives on the list, with several banks receiving additional awards for technology, sustainable development, and employee care.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-sacombank-hdbank-acb-lpbank-cung-nhieu-ngan-hang-lot-top-noi-lam-viec-tot-nhat-chau-a-nam-2026-188260712172122173.chn)
-
 ## Related coverage
 
 - [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
 - [Một cổ phiếu ngân hàng được thỏa thuận đột biến trong phiên 23/6, hơn 7.500 tỷ đồng được trao tay](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-thoa-thuan-dot-bien-trong-phien-23-6-hon-7500-ty-dong-duoc-trao-tay-18826062316154226.chn) — CafeF
+- [Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html) — VietnamNet
 - [LPBank có gì đặc biệt?](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn) — CafeF
-- [Bảng xếp hạng lợi nhuận ngân hàng sau một thập kỷ: Ngôi vương đổi chủ, một nhà băng rơi 10 bậc, HDBank và LPBank "leo rank" ấn tượng](https://cafef.vn/bang-xep-hang-loi-nhuan-ngan-hang-sau-mot-thap-ky-ngoi-vuong-doi-chu-mot-nha-bang-roi-10-bac-hdbank-va-lpbank-leo-rank-an-tuong-188260629154003402.chn) — CafeF
 
 ---
 

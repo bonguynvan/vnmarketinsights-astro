@@ -52,9 +52,9 @@ Vietnam's central bank has issued guidance to commercial banks to reduce interes
 ## Related coverage
 
 - [Techcom Insurance chính thức ra mắt bảo hiểm sức khỏe Song An: tiên phong kiến tạo phân khúc Bảo hiểm Y tế bổ sung tại Việt Nam](https://cafef.vn/techcom-insurance-chinh-thuc-ra-mat-bao-hiem-suc-khoe-song-an-tien-phong-kien-tao-phan-khuc-bao-hiem-y-te-bo-sung-tai-viet-nam-188260716074802356.chn) — CafeF
+- [Techcombank bổ nhiệm thêm Phó Tổng giám đốc](https://cafef.vn/techcombank-bo-nhiem-them-pho-tong-giam-doc-188260804115944361.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
 - [Techcombank lập kỷ lục 4 năm liên tiếp được vinh danh "Ngân hàng tốt nhất Việt Nam" bởi FinanceAsia](https://cafef.vn/techcombank-lap-ky-luc-4-nam-lien-tiep-duoc-vinh-danh-ngan-hang-tot-nhat-viet-nam-boi-financeasia-188260714175146424.chn) — CafeF
-- [Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn) — CafeF
 
 ---
 

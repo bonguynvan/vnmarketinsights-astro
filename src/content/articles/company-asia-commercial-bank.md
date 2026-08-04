@@ -9,9 +9,15 @@ readingTime: 3
 
 # Asia Commercial Bank
 
-Recent Vietnam market news mentioning **Asia Commercial Bank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Asia Commercial Bank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ACB vào Top 20 VNSI: Chất lượng tài sản Top đầu đi cùng tăng trưởng hiệu quả và bền vững**  
+
+ACB (Asia Commercial Bank) was selected into the Top 20 enterprises of the Vietnam Sustainability Index (VNSI) for 2026, following positive business results in the first half of 2026. The ranking recognizes ACB's progress in building long-term growth foundations through asset quality, risk management, and sustainable development governance. The bank's inclusion reflects its commitment to information transparency and sustainable business practices.
+
+- Source: [CafeF](https://cafef.vn/acb-vao-top-20-vnsi-chat-luong-tai-san-top-dau-di-cung-tang-truong-hieu-qua-va-ben-vung-188260804091241493.chn)
 
 **Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -42,7 +48,7 @@ On July 16, 2024, the Vietnamese stock market recovered sharply, led by banking 
 - [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 - [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
 - [Lãi suất ngân hàng 27/6 tại MB, Agribank, Vietcombank, BIDV, VietinBank, HDBank, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-27-6-tai-mb-agribank-vietcombank-bidv-vietinbank-hdbank-sacombank-hdbank-188260627181805981.chn) — CafeF
-- [Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn) — CafeF
+- [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 
 ---
 

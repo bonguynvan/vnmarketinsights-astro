@@ -72,7 +72,7 @@ Vietnam Airlines announced at its 2026 annual shareholder meeting on June 28 tha
 - [Tất cả người dân chú ý quy định mới nhất khi đi máy bay từ 1/7](https://cafef.vn/tat-ca-nguoi-dan-chu-y-quy-dinh-moi-nhat-khi-di-may-bay-tu-1-7-188260629212253872.chn) — CafeF
 - [Việt Nam sẽ có 36 cảng hàng không, sân bay](https://cafef.vn/viet-nam-se-co-36-cang-hang-khong-san-bay-188260708084124786.chn) — CafeF
 - [Hành khách đi máy bay đặc biệt chú ý quy định mới đã bắt đầu áp dụng từ ngày 1/7](https://cafef.vn/hanh-khach-di-may-bay-dac-biet-chu-y-quy-dinh-moi-da-bat-dau-ap-dung-tu-ngay-1-7-18826070208081655.chn) — CafeF
-- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [HDBank dự kiến chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 30%](https://cafef.vn/hdbank-du-kien-chia-co-tuc-co-phieu-thuong-tong-ty-le-30-188260804105204154.chn) — CafeF
 
 ---
 

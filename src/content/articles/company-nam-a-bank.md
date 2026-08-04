@@ -54,7 +54,7 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 - [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
 - [VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn) — CafeF
-- [Eximbank họp cổ đông bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-hop-co-dong-bat-thuong-thay-loat-thanh-vien-hdqt-188260724095315212.chn) — CafeF
+- [HDBank dự kiến chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 30%](https://cafef.vn/hdbank-du-kien-chia-co-tuc-co-phieu-thuong-tong-ty-le-30-188260804105204154.chn) — CafeF
 
 ---
 

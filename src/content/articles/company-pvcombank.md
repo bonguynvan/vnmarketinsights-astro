@@ -9,9 +9,15 @@ readingTime: 3
 
 # PVcomBank
 
-Recent Vietnam market news mentioning **PVcomBank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PVcomBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng chuẩn bị đưa cổ phiếu lên Upcom, giá tham chiếu 10.000 đồng/cp**  
+
+PVcomBank's shares are set to begin trading on Upcom on August 12, 2026, with a reference price of 10,000 VND per share. The reference price was announced by the Hanoi Stock Exchange on August 3, 2026. The opening session will have a price band of ±40%, with floor and ceiling prices corresponding to specific levels.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-chuan-bi-dua-co-phieu-len-upcom-gia-tham-chieu-10000-dong-cp-188260804095122959.chn)
 
 **Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng**  
 
@@ -40,9 +46,9 @@ PVcomBank held its 2026 annual shareholder meeting on June 27, 2026, in Hanoi. T
 ## Related coverage
 
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
-- [Nhiều cổ phiếu ngân hàng diễn biến tích cực dù thị trường chung ảm đạm](https://cafef.vn/nhieu-co-phieu-ngan-hang-dien-bien-tich-cuc-du-thi-truong-chung-am-dam-188260716074624331.chn) — CafeF
-- [Các ngân hàng phát hành thêm gần 67 tỷ cổ phiếu trong 10 năm qua: Nhà băng nào dẫn đầu?](https://cafef.vn/cac-ngan-hang-phat-hanh-them-gan-67-ty-co-phieu-trong-10-nam-qua-nha-bang-nao-dan-dau-188260627091435257.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
+- [HDBank dự kiến chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 30%](https://cafef.vn/hdbank-du-kien-chia-co-tuc-co-phieu-thuong-tong-ty-le-30-188260804105204154.chn) — CafeF
+- [Chuẩn bị chào sàn HoSE và kế hoạch tăng vốn: Vietbank khởi động cho giai đoạn tăng trưởng mới](https://cafef.vn/chuan-bi-chao-san-hose-va-ke-hoach-tang-von-vietbank-khoi-dong-cho-giai-doan-tang-truong-moi-18826071222194671.chn) — CafeF
+- [Từ hôm nay (9/7), một ngân hàng chính thức dừng giao dịch cổ phiếu trên UPCoM](https://cafef.vn/tu-hom-nay-9-7-mot-ngan-hang-chinh-thuc-dung-giao-dich-co-phieu-tren-upcom-188260709103832071.chn) — CafeF
 
 ---
 

@@ -9,9 +9,15 @@ readingTime: 3
 
 # Ngân hàng TMCP Quốc Dân
 
-Recent Vietnam market news mentioning **Ngân hàng TMCP Quốc Dân** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Ngân hàng TMCP Quốc Dân** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng khóa tài khoản vĩnh viễn đối với trường hợp sau**  
+
+Multiple banks are implementing a major data cleanup initiative that includes closing inactive payment accounts or those with balances below 20,000 Vietnamese Dong. The article mentions regulatory measures related to account freezing and penalties for users who receive and transfer money for certain purposes. Banks have been proposed to close dormant accounts as part of broader compliance efforts.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-khoa-tai-khoan-vinh-vien-doi-voi-truong-hop-sau-188260804070331876.chn)
 
 **Nhiều tài khoản ngân hàng sắp bị khóa trong trường hợp sau**  
 
@@ -33,10 +39,10 @@ On July 9, 2026, National Commercial Bank (NCB) received three awards at the HR 
 
 ## Related coverage
 
-- [NCB tăng tốc mạnh mẽ trong nửa đầu 2026, sẵn sàng năng lực cho giai đoạn tăng trưởng mới](https://cafef.vn/ncb-tang-toc-manh-me-trong-nua-dau-2026-san-sang-nang-luc-cho-giai-doan-tang-truong-moi-188260729144431184.chn) — CafeF
 - [Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn) — CafeF
-- [NCB Visa Tự Hào giành giải thưởng quốc tế, khẳng định dấu ấn đổi mới của ngân hàng Việt](https://cafef.vn/ncb-visa-tu-hao-gianh-giai-thuong-quoc-te-khang-dinh-dau-an-doi-moi-cua-ngan-hang-viet-188260703105003702.chn) — CafeF
-- [NCB ra mắt sản phẩm tiết kiệm siêu đặc quyền, kết nối hệ sinh thái trải nghiệm hàng đầu Việt Nam](https://cafef.vn/ncb-ra-mat-san-pham-tiet-kiem-sieu-dac-quyen-ket-noi-he-sinh-thai-trai-nghiem-hang-dau-viet-nam-188260701110312256.chn) — CafeF
+- [Ngân hàng đóng tài khoản có số dư dưới 20.000 đồng, người dân cần làm gì?](https://cafef.vn/ngan-hang-dong-tai-khoan-co-so-du-duoi-20000-dong-nguoi-dan-can-lam-gi-188260720091113281.chn) — CafeF
+- [Từ năm 2026, Vietcombank, VietinBank, Agribank, BIDV... ngừng giao dịch chuyển tiền/nhận tiền đối với trường hợp sau](https://cafef.vn/tu-nam-2026-vietcombank-vietinbank-agribank-bidv-ngung-giao-dich-chuyen-tien-nhan-tien-doi-voi-truong-hop-sau-188260715141342932.chn) — CafeF
+- [Đề xuất đóng tài khoản ngân hàng “ngủ đông”](https://cafef.vn/de-xuat-dong-tai-khoan-ngan-hang-ngu-dong-188260724135756079.chn) — CafeF
 
 ---
 

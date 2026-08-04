@@ -40,9 +40,9 @@ Foreign funds linked to Dragon Capital have sold millions of shares, while T-Cor
 ## Related coverage
 
 - [VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm) — TuoiTre
+- [HSBC: Nghị quyết 10 tạo nền tảng để Việt Nam thu hút dòng vốn chất lượng cao](https://cafef.vn/hsbc-nghi-quyet-10-tao-nen-tang-de-viet-nam-thu-hut-dong-von-chat-luong-cao-188260804144834067.chn) — CafeF
 - [Hàng loạt cửa hàng kim cương đóng cửa: Bỏ ngỏ quyền lợi khách hàng](https://cafef.vn/hang-loat-cua-hang-kim-cuong-dong-cua-bo-ngo-quyen-loi-khach-hang-188260722064532814.chn) — CafeF
 - [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
-- [Chứng khoán Rồng Việt sắp phát hành 500 tỷ đồng trái phiếu](https://cafef.vn/chung-khoan-rong-viet-sap-phat-hanh-500-ty-dong-trai-phieu-188260719104335425.chn) — CafeF
 
 ---
 
