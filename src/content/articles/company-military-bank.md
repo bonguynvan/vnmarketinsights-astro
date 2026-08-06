@@ -1,8 +1,8 @@
 ---
 title: "Military Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Military Bank, with neutral summaries and source links."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Company"
 readingTime: 3
 ---

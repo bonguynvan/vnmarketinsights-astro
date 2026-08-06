@@ -1,150 +1,184 @@
 {
-  "generatedAt": "2026-08-04T23:58:35.239312+00:00",
+  "generatedAt": "2026-08-05T23:50:58.522375+00:00",
   "topics": {
     "regulations": [
       {
-        "title": "Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động",
-        "url": "https://cafef.vn/nang-ty-le-tien-gui-kho-bac-nha-nuoc-len-50-khi-tinh-ldr-cu-hich-thanh-khoan-ha-nhiet-cuoc-dua-lai-suat-huy-dong-188260804065514216.chn",
+        "title": "Vietcombank công bố lãi suất cho vay mới nhất",
+        "url": "https://cafef.vn/vietcombank-cong-bo-lai-suat-cho-vay-moi-nhat-188260805072059639.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam has increased the ratio of State Treasury deposits counted in the LDR (Loan-to-Deposit Ratio) calculation from 20% to 50%, effective from August 1, 2026 to July 31, 2028. This adjustment is considered a strategic measure to ease liquidity pressure and cool down the competition for deposit interest rates among banks. The move is intended to expand credit capacity to support economic growth.",
-        "summary_vn": "Ngân hàng Nhà nước Việt Nam quyết định nâng tỷ lệ tiền gửi Kho bạc Nhà nước được tính vào chỉ số LDR từ 20% lên 50%, có hiệu lực từ ngày 1/8/2026 đến 31/7/2028. Điều chỉnh này được coi là một bước đi chiến lược nhằm giải tỏa áp lực thanh khoản và hạ nhiệt cuộc đua lãi suất huy động giữa các ngân hàng. Biện pháp này nhằm mở rộng dư địa tín dụng để hỗ trợ nền kinh tế.",
-        "pubDate": "Tue, 04 Aug 26 07:35:00 +0700",
+        "summary_en": "Vietcombank has announced its latest lending rate at 7.5% per annum for June 2026. Compared to the previous month, both the average lending rate and interest rate spread indicators increased. The announcement reflects routine monthly rate updates across major Vietnamese banks.",
+        "summary_vn": "Vietcombank công bố lãi suất cho vay bình quân tháng 6/2026 ở mức 7,5%/năm. So với tháng trước, cả lãi suất cho vay bình quân và các chỉ tiêu chênh lệch lãi suất đều tăng. Đây là phần của việc cập nhật lãi suất hàng tháng của các ngân hàng lớn tại Việt Nam.",
+        "pubDate": "Wed, 05 Aug 26 07:19:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam",
+        "url": "https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's banking system is preparing entirely new regulations on artificial intelligence (AI) applications. According to State Bank leaders, while AI offers benefits, it also poses risks related to information security, model risk, data, and decision-making accountability. At a workshop titled \"AI and Data Governance in Banking Operations\" on August 5, 2026, Deputy Chairman and Secretary-General of the Vietnam Bankers Association (VNBA) Dao Minh Tu discussed the shift from the digitalization era in global finance and banking.",
+        "summary_vn": "Hệ thống ngân hàng Việt Nam đang chuẩn bị các quy định hoàn toàn mới về ứng dụng trí tuệ nhân tạo (AI). Theo lãnh đạo NHNN, AI mang lại nhiều lợi ích nhưng cũng đặt ra rủi ro về an toàn thông tin, rủi ro mô hình, dữ liệu và trách nhiệm ra quyết định. Tại hội thảo \"AI và Quản trị dữ liệu trong hoạt động ngân hàng\" ngày 5/8/2026, Phó Chủ tịch kiêm Tổng Thư ký VNBA Đào Minh Tú nhắc tới sự chuyển đổi từ kỷ nguyên số hóa trong ngành tài chính-ngân hàng toàn cầu.",
+        "pubDate": "Wed, 05 Aug 26 16:16:00 +0700",
         "sentiment": 0.0,
         "importance": 4
       },
       {
-        "title": "Hải Phòng triệt xóa đường dây rửa tiền cờ bạc, phong tỏa hơn 3.000 tỷ đồng",
-        "url": "https://cafef.vn/hai-phong-triet-xoa-duong-day-rua-tien-co-bac-phong-toa-hon-3000-ty-dong-18826080410004623.chn",
+        "title": "Cựu Tổng Giám đốc SJC Lê Thúy Hằng được giảm 4 năm tù",
+        "url": "https://cafef.vn/cuu-tong-giam-doc-sjc-le-thuy-hang-duoc-giam-4-nam-tu-188260805195616531.chn",
         "source": "CafeF",
-        "summary_en": "Police in Hai Phong arrested 28 suspects in a large-scale gambling and money laundering operation. Authorities seized and froze over 3,000 billion VND in accounts across 36 banks. The case was formally initiated on the evening of August 3.",
-        "summary_vn": "Công an Hải Phòng bắt tạm giam 28 đối tượng trong đường dây tổ chức đánh bạc và rửa tiền quy mô đặc biệt lớn. Cơ quan chức năng phong tỏa hơn 3.000 tỷ đồng trong tài khoản tại 36 ngân hàng. Vụ án được khởi tố vào tối ngày 3/8.",
-        "pubDate": "Tue, 04 Aug 26 10:06:00 +0700",
+        "summary_en": "The appellate court of the Supreme People's Court in Ho Chi Minh City issued a sentence on August 5 for Lê Thúy Hằng, former CEO of Saigon Gold Silver and Jewelry Company (SJC), and co-defendants. The court reduced Lê Thúy Hằng's prison sentence from the initial trial verdict by 4 years, sentencing her to 21 years in prison for embezzlement and abuse of position while performing official duties. The ruling represents a reduction from the original first-instance judgment.",
+        "summary_vn": "Vào chiều 5-8, Tòa phúc thẩm TAND Tối cao tại TPHCM đã tuyên án đối với bị cáo Lê Thúy Hằng, cựu Tổng Giám đốc Công ty Vàng bạc đá quý Sài Gòn (SJC), và các đồng phạm. Tòa giảm 4 năm tù so với bản án sơ thẩm, phạt Lê Thúy Hằng 21 năm tù về các tội tham ô tài sản và lợi dụng chức vụ, quyền hạn. Bản án phúc thẩm thể hiện sự giảm خم so với mức án lần đầu tiên.",
+        "pubDate": "Wed, 05 Aug 26 19:56:00 +0700",
         "sentiment": -0.5,
+        "importance": 3
+      },
+      {
+        "title": "Nhóm đối tượng người nước ngoài 'ẩn mình' trong chung cư cao cấp để vận hành đường dây cờ bạc 30.000 tỷ đồng",
+        "url": "https://cafef.vn/nhom-doi-tuong-nguoi-nuoc-ngoai-an-minh-trong-chung-cu-cao-cap-de-van-hanh-duong-day-co-bac-30000-ty-dong-188260805202806863.chn",
+        "source": "CafeF",
+        "summary_en": "Foreign nationals, primarily Chinese, rented multiple high-end apartment units in Hanoi and hired dozens of young Vietnamese to operate hundreds of mobile phones for managing a gambling network. The operation processed cash flows totaling 30,000 billion Vietnamese dong through bank accounts to conceal proceeds from illegal online gambling activities. The criminal ring was uncovered through citizen reports and law enforcement investigation.",
+        "summary_vn": "Nhóm đối tượng người nước ngoài, chủ yếu là người Trung Quốc, thuê nhiều căn hộ cao cấp ở Hà Nội và tuyển dụng hàng chục thanh niên Việt Nam để vận hành hàng trăm chiếc điện thoại phục vụ mạng lưới cờ bạc. Hoạt động này xử lý dòng tiền lên đến 30.000 tỷ đồng qua các tài khoản ngân hàng nhằm che giấu lợi tức từ các hoạt động \"tổ chức đánh bạc\" trên không gian mạng. Đường dây tội phạm này bị bộc lộ từ tin báo của công dân và cuộc điều tra của cơ quan pháp luật.",
+        "pubDate": "Wed, 05 Aug 26 20:27:00 +0700",
+        "sentiment": -1.0,
         "importance": 4
       },
       {
-        "title": "Ngân hàng khóa tài khoản vĩnh viễn đối với trường hợp sau",
-        "url": "https://cafef.vn/ngan-hang-khoa-tai-khoan-vinh-vien-doi-voi-truong-hop-sau-188260804070331876.chn",
+        "title": "Đề xuất đưa kim cương vào ngành nghề kinh doanh có điều kiện",
+        "url": "https://cafef.vn/de-xuat-dua-kim-cuong-vao-nganh-nghe-kinh-doanh-co-dieu-kien-188260806064343589.chn",
         "source": "CafeF",
-        "summary_en": "Multiple banks are implementing a major data cleanup initiative that includes closing inactive payment accounts or those with balances below 20,000 Vietnamese Dong. The article mentions regulatory measures related to account freezing and penalties for users who receive and transfer money for certain purposes. Banks have been proposed to close dormant accounts as part of broader compliance efforts.",
-        "summary_vn": "Nhiều ngân hàng đang triển khai dợt thanh lọc dữ liệu lớn, đóng các tài khoản thanh toán không hoạt động hoặc có số dư dưới 20.000 đồng. Các biện pháp quy định liên quan đến phong tỏa tài khoản và phạt tiền đối với người dùng nhận và chuyển tiền với mục đích nhất định được đề cập. Các ngân hàng được đề xuất đóng các tài khoản \"ngủ đông\" như là một phần của nỗ lực tuân thủ rộng lớn hơn.",
-        "pubDate": "Tue, 04 Aug 26 13:15:00 +0700",
-        "sentiment": -0.2,
-        "importance": 2
-      },
-      {
-        "title": "Nộp thêm 1,5 tỷ đồng, cựu Tổng giám đốc SJC Lê Thúy Hằng được đề nghị giảm án",
-        "url": "https://cafef.vn/nop-them-15-ty-dong-cuu-tong-giam-doc-sjc-le-thuy-hang-duoc-de-nghi-giam-an-188260804144141295.chn",
-        "source": "CafeF",
-        "summary_en": "The prosecutors accepted a partial appeal and proposed reducing the sentence for Lê Thúy Hằng, former CEO of SJC, from 7-9 years of imprisonment. After several days of adjournment, the Supreme People's Court's Appellate Division in Ho Chi Minh City continued the appellate trial in the case involving Sai Gon Precious Metals and Jewelry Company (SJC). Lê Thúy Hằng deposited an additional 1.5 billion dong as part of the legal proceedings.",
-        "summary_vn": "Viện Kiểm sát chấp nhận một phần kháng cáo và đề nghị giảm án từ 7-9 năm tù cho cựu Tổng giám đốc SJC Lê Thúy Hằng. Sau nhiều ngày tạm dừng, Tòa Phúc thẩm TAND Tối cao tại TPHCM tiếp tục xét xử phúc thẩm vụ án liên quan đến Công ty TNHH MTV Vàng bạc đá quý Sài Gòn (SJC). Lê Thúy Hằng nộp thêm 1,5 tỷ đồng trong quá trình xét xử.",
-        "pubDate": "Tue, 04 Aug 26 14:50:00 +0700",
+        "summary_en": "A representative from Dong Nai province proposed adding diamonds to the list of conditional business sectors, suggesting stricter conditions than those applied to similar sectors. On August 5, the National Assembly discussed amendments to Article 6 and Appendix IV of the Investment Law regarding the list of conditional business sectors. The proposal was made in response to recent issues in gold and related precious materials trading.",
+        "summary_vn": "Đại biểu đoàn Đồng Nai đề xuất đưa kim cương vào danh mục ngành, nghề kinh doanh có điều kiện, với các điều kiện chặt chẽ hơn. Ngày 5/8, Quốc hội thảo luận về dự án sửa đổi, bổ sung Luật Đầu tư liên quan đến danh mục ngành, nghề đầu tư kinh doanh có điều kiện. Đề xuất này được đưa ra nhằm giải quyết các vấn đề gần đây trong hoạt động kinh doanh vàng và các vật liệu quý tương tự.",
+        "pubDate": "Thu, 06 Aug 26 06:43:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Phó Thống đốc Phạm Thanh Hà: Có 4 ngân hàng chủ động bố trí 220.000 tỷ đồng cho vay ưu đãi doanh nghiệp nhỏ và vừa",
-        "url": "https://cafef.vn/pho-thong-doc-pham-thanh-ha-co-4-ngan-hang-chu-dong-bo-tri-220000-ty-dong-cho-vay-uu-dai-doanh-nghiep-nho-va-vua-188260804160423535.chn",
+        "title": "Công an đề nghị 315 chủ xe vi phạm có biển số sau nhanh chóng liên hệ, nộp phạt nguội theo Nghị định 168",
+        "url": "https://cafef.vn/cong-an-de-nghi-315-chu-xe-vi-pham-co-bien-so-sau-nhanh-chong-lien-he-nop-phat-nguoi-theo-nghi-dinh-168-188260805093040533.chn",
         "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam announced that four banks are proactively allocating 220,000 billion dong in preferential loans to small and medium-sized enterprises. The State Bank is urgently developing specific and detailed guidelines for banks to implement in the coming days. At a regular July 2026 government press conference on August 3, State Bank leadership discussed monetary policy scenarios to balance growth acceleration with inflation control and exchange rate stability.",
-        "summary_vn": "Ngân hàng Nhà nước thông báo rằng có 4 ngân hàng chủ động bố trí 220.000 tỷ đồng cho vay ưu đãi cho doanh nghiệp nhỏ và vừa. Ngân hàng Nhà nước đang khẩn trương xây dựng các hướng dẫn cụ thể, chi tiết để các ngân hàng triển khai trong vài ngày tới. Tại buổi họp báo Chính phủ thường kỳ tháng 7/2026 diễn ra ngày 3/8, lãnh đạo Ngân hàng Nhà nước thảo luận về các kịch bản điều hành để cân bằng thúc đẩy tăng trưởng với kiểm soát lạm phát và ổn định tỉ giá.",
-        "pubDate": "Tue, 04 Aug 26 16:04:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Mở rộng tài sản thế chấp, tăng cơ hội vay vốn",
-        "url": "https://cafef.vn/mo-rong-tai-san-the-chap-tang-co-hoi-vay-von-188260804200617214.chn",
-        "source": "CafeF",
-        "summary_en": "The government is drafting legislation to expand collateral assets for loans, including intellectual property rights and future-formed assets, to help small and medium-sized enterprises access credit. Prime Minister Lê Minh Hưng chaired the July regular government meeting on August 3 and requested ministries and agencies to implement solutions to achieve growth targets of 10% or higher in 2026. The government is also urgently researching fiscal policy measures to support enterprises.",
-        "summary_vn": "Chính phủ đang soạn thảo dự luật mở rộng tài sản thế chấp cho vay, bao gồm quyền sở hữu trí tuệ và tài sản hình thành trong tương lai, nhằm giúp doanh nghiệp nhỏ và vừa tiếp cận tín dụng. Thủ tướng Lê Minh Hưng chủ trì Phiên họp Chính phủ thường kỳ tháng 7 vào ngày 3/8 và yêu cầu các bộ, ngành triển khai các giải pháp nhằm đạt mục tiêu tăng trưởng 10% trở lên năm 2026. Chính phủ cũng khẩn trương nghiên cứu các chính sách tài khóa hỗ trợ doanh nghiệp.",
-        "pubDate": "Tue, 04 Aug 26 20:05:31 +0700",
-        "sentiment": 0.5,
-        "importance": 3
+        "summary_en": "Police authorities identified 315 vehicle owners with violations related to rear license plates and urged them to promptly contact authorities and pay fines under Decree 168. Police also issued warnings to traffic participants to increase legal compliance awareness and follow road traffic signal systems. The announcement was made to encourage voluntary payment of administrative fines.",
+        "summary_vn": "Cơ quan Công an xác định 315 chủ xe vi phạm liên quan đến biển số sau và kêu gọi họ nhanh chóng liên hệ để nộp phạt theo Nghị định 168. Công an cũng đưa ra cảnh cáo đối với những người tham gia giao thông để nâng cao ý thức chấp hành pháp luật và tuân thủ hệ thống báo hiệu đường bộ. Thông báo được đưa ra nhằm khuyến khích việc nộp phạt hành chính tự nguyện.",
+        "pubDate": "Wed, 05 Aug 26 09:54:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
       }
     ],
     "financial-markets": [
       {
-        "title": "Kích hoạt gói tín dụng 220.000 tỷ đồng và loạt giải pháp hỗ trợ doanh nghiệp bứt tốc",
-        "url": "https://cafef.vn/kich-hoat-goi-tin-dung-220000-ty-dong-va-loat-giai-phap-ho-tro-doanh-nghiep-but-toc-188260804075648734.chn",
+        "title": "Một ngân hàng tư nhân tăng quy mô tài sản mạnh hơn cả Big4, bằng BIDV và Agribank cộng lại",
+        "url": "https://cafef.vn/mot-ngan-hang-tu-nhan-tang-quy-mo-tai-san-manh-hon-ca-big4-bang-bidv-va-agribank-cong-lai-18826080508001068.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's government announced a 220,000 billion VND credit package and multiple support measures for businesses at a July 2026 regular press conference. The Ministry of Finance and State Bank of Vietnam disclosed preferential lending programs, expanded medium and long-term capital room, and policies for tax and land rent deferrals. These measures are intended to accelerate economic momentum across the economy.",
-        "summary_vn": "Tại cuộc họp báo chính phủ thường kỳ tháng 7/2026, Bộ Tài chính và Ngân hàng Nhà nước công bố gói tín dụng 220.000 tỷ đồng và nhiều biện pháp hỗ trợ doanh nghiệp. Các giải pháp bao gồm các gói cho vay với lãi suất ưu đãi, nới room vốn trung dài hạn, và chính sách gia hạn thuế cũng như tiền thuê đất. Những biện pháp này nhằm tạo đà bứt phá cho toàn nền kinh tế.",
-        "pubDate": "Tue, 04 Aug 26 07:55:00 +0700",
-        "sentiment": 0.5,
-        "importance": 4
-      },
-      {
-        "title": "Những ngân hàng nào có tỷ lệ nợ xấu thấp nhất hiện nay?",
-        "url": "https://cafef.vn/nhung-ngan-hang-nao-co-ty-le-no-xau-thap-nhat-hien-nay-188260804075641978.chn",
-        "source": "CafeF",
-        "summary_en": "Ten Vietnamese banks maintained non-performing loan (NPL) ratios below 1.5% in the first half of 2026, with Vietcombank and ACB among those with the lowest ratios. The banking sector faced increased liquidity pressure during the first half of 2026, leading to higher system-wide deposit rates. Industry-wide credit growth reached 8.5% while deposit growth lagged at 5%, creating a liquidity gap that pressured funding costs across the sector.",
-        "summary_vn": "Mười ngân hàng Việt Nam duy trì tỷ lệ nợ xấu dưới 1,5% trong nửa đầu năm 2026, trong đó Vietcombank và ACB nằm trong nhóm có tỷ lệ thấp nhất. Toàn ngành ngân hàng gặp áp lực thanh khoản gia tăng trong nửa đầu năm 2026, dẫn tới lãi suất huy động toàn hệ thống tăng đáng kể. Tăng trưởng tín dụng toàn ngành đạt 8,5% trong khi tăng trưởng huy động vốn chỉ 5%, tạo ra khoảng cách thanh khoản gây áp lực lên chi phí vốn của ngành.",
-        "pubDate": "Tue, 04 Aug 26 07:56:00 +0700",
+        "summary_en": "A private bank expanded its total assets by over 242,000 billion VND in the first half of 2026, outpacing Vietcombank, VietinBank, and BIDV in asset growth rate. Despite state-owned banks maintaining the largest asset base, private banks are demonstrating faster expansion in the banking sector. The asset scale of this private bank now equals the combined assets of BIDV and Agribank.",
+        "summary_vn": "Một ngân hàng tư nhân đã mở rộng quy mô tài sản thêm hơn 242.000 tỷ đồng trong nửa đầu năm 2026, vượt tốc độ tăng của Vietcombank, VietinBank và BIDV. Mặc dù các ngân hàng quốc doanh vẫn duy trì quy mô tài sản lớn nhất, các ngân hàng tư nhân đang thể hiện tốc độ mở rộng nhanh hơn trong ngành. Quy mô tài sản của ngân hàng tư nhân này hiện bằng tổng tài sản của BIDV và Agribank cộng lại.",
+        "pubDate": "Wed, 05 Aug 26 07:58:00 +0700",
         "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "LPBank tăng lãi suất tiết kiệm ngay đầu tháng 8, lên nhóm cao nhất hệ thống",
-        "url": "https://cafef.vn/lpbank-tang-lai-suat-tiet-kiem-ngay-dau-thang-8-len-nhom-cao-nhat-he-thong-188260804075927302.chn",
+        "title": "Sáng 5/8: NHNN niêm yết tỷ giá trung tâm ở mức 25.405 đồng",
+        "url": "https://cafef.vn/sang-5-8-nhnn-niem-yet-ty-gia-trung-tam-o-muc-25405-dong-188260805114313985.chn",
         "source": "CafeF",
-        "summary_en": "LPBank increased deposit interest rates effective August 3, 2026, joining the highest rate tier in the system. Deposit rates for tenors from 6 to 25 months rose by 0.3 percentage points across both online and over-the-counter channels. The online deposit rate reached a maximum of 7.3% per annum.",
-        "summary_vn": "LPBank tăng lãi suất huy động có hiệu lực từ ngày 3/8/2026, vươn lên nhóm cao nhất hệ thống. Lãi suất tiền gửi các kỳ hạn từ 6 đến 25 tháng tăng 0,3 điểm phần trăm trên cả hai kênh trực tuyến và giao dịch tại quầy. Lãi suất gửi tiền online đạt mức tối đa 7,3% mỗi năm.",
-        "pubDate": "Tue, 04 Aug 26 07:57:00 +0700",
+        "summary_en": "On August 5, the State Bank of Vietnam (NHNN) quoted the central exchange rate at 25.405 dong per USD. Commercial banks adjusted their USD buying and selling prices with typical fluctuations of 16-20 dong compared to the previous session. The USD remained stable in the foreign exchange market as attention shifted to prospects for resuming traffic through the Strait of Hormuz and signals from the U.S. Federal Reserve (Fed).",
+        "summary_vn": "Ngày 5/8, NHNN niêm yết tỷ giá trung tâm ở mức 25.405 đồng/USD. Các ngân hàng thương mại điều chỉnh giá mua - bán USD với biên độ phổ biến từ 16-20 đồng so với phiên trước. Đồng USD ổn định trên thị trường ngoại hối khi thị trường chuyển sự chú ý sang triển vọng nối lại lưu thông qua eo biển Hormuz và các tín hiệu từ Cục Dự trữ Liên bang Mỹ (Fed).",
+        "pubDate": "Wed, 05 Aug 26 11:42:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "SHB được Global Banking & Finance Review vinh danh là Ngân hàng tiết kiệm tốt nhất Việt Nam năm 2026",
-        "url": "https://cafef.vn/shb-duoc-global-banking-finance-review-vinh-danh-la-ngan-hang-tiet-kiem-tot-nhat-viet-nam-nam-2026-188260803220141959.chn",
+        "title": "Giải bài toán vốn dài hạn cho tăng trưởng cao",
+        "url": "https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn",
         "source": "CafeF",
-        "summary_en": "SHB received the \"Best Savings Bank Vietnam 2026\" award from Global Banking & Finance Review. The award recognizes the bank's efforts in innovating savings products, enhancing customer experience, and promoting inclusive finance. SHB is positioned as one of the top 5 private commercial banks in Vietnam.",
-        "summary_vn": "SHB được Global Banking & Finance Review vinh danh với giải thưởng \"Ngân hàng tiết kiệm tốt nhất Việt Nam 2026\". Giải thưởng ghi nhận những nỗ lực của ngân hàng trong đổi mới sản phẩm tiết kiệm, nâng cao trải nghiệm khách hàng và thúc đẩy tài chính toàn diện. SHB được định vị là một trong năm ngân hàng thương mại cổ phần tư nhân hàng đầu Việt Nam.",
-        "pubDate": "Tue, 04 Aug 26 08:00:00 +0700",
-        "sentiment": 0.7,
+        "summary_en": "Vietnam faces a structural mismatch between capital supply and demand for long-term growth. The banking system currently funds approximately 80% of investment through short-term sources and only 20% through long-term capital. High growth objectives in infrastructure, energy, strategic industries, digitalization, and green transition require substantial long-term investment capital that cannot be entirely sourced from the banking system.",
+        "summary_vn": "Việt Nam đối mặt với sự mismatch cấu trúc giữa cung vốn và nhu cầu vốn dài hạn cho tăng trưởng. Hệ thống ngân hàng hiện tại huy động khoảng 80% vốn từ các nguồn ngắn hạn và chỉ 20% từ vốn dài hạn. Các mục tiêu tăng trưởng cao trong lĩnh vực hạ tầng, năng lượng, công nghiệp chiến lược, chuyển đổi số và xanh đòi hỏi nguồn vốn dài hạn đáng kể mà không thể toàn bộ đến từ hệ thống ngân hàng.",
+        "pubDate": "Wed, 05 Aug 26 14:54:00 +0700",
+        "sentiment": -0.3,
+        "importance": 4
+      },
+      {
+        "title": "Cuộc đua ngân hàng số hiện nay là cuộc đua về chất lượng dữ liệu và năng lực quản trị AI",
+        "url": "https://cafef.vn/cuoc-dua-ngan-hang-so-hien-nay-la-cuoc-dua-ve-chat-luong-du-lieu-va-nang-luc-quan-tri-ai-188260805155249119.chn",
+        "source": "CafeF",
+        "summary_en": "The global financial and banking sector is transitioning from a digitalization era to an artificial intelligence era. The shift requires moving from passive compliance policy-building to AI-enhanced data governance models. An event was held on August 5, 2026, in Hanoi by Financial Market Money Magazine in collaboration with the Technology Committee and Policy Committee.",
+        "summary_vn": "Ngành tài chính – ngân hàng toàn cầu đang chuyển dịch từ kỷ nguyên số hóa sang kỷ nguyên trí tuệ nhân tạo. Sự chuyển dịch này đòi hỏi thay đổi tư duy từ xây dựng chính sách tuân thủ thụ động sang mô hình quản trị dữ liệu tăng cường bằng AI. Vào ngày 5/8/2026 tại Hà Nội, Tạp chí Thị trường Tài chính Tiền tệ phối hợp cùng Ủy ban Công nghệ và Ủy ban Chính sách tổ chức một sự kiện liên quan đến chủ đề này.",
+        "pubDate": "Wed, 05 Aug 26 15:52:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "Dòng vốn ngoại tiếp sức hệ thống ngân hàng",
-        "url": "https://cafef.vn/dong-von-ngoai-tiep-suc-he-thong-ngan-hang-188260804070333148.chn",
+        "title": "Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý",
+        "url": "https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn",
         "source": "CafeF",
-        "summary_en": "Vietnamese banks are mobilizing foreign capital through syndicated loans, green financing, and sustainable development-linked financing from international markets, valued at hundreds of millions to billions of USD. This foreign capital provides medium and long-term funding, reduces pressure on domestic fundraising, and supports credit expansion for SMEs, green finance, and inclusive finance. International syndicated social loans worth $721 million are being used to extend the maturity of capital sources.",
-        "summary_vn": "Các ngân hàng Việt Nam đang huy động vốn ngoại thông qua các khoản vay hợp vốn quốc tế, vốn xanh và vốn liên kết phát triển bền vững từ thị trường quốc tế, trị giá hàng trăm triệu đến hàng tỷ USD. Dòng vốn này cung cấp nguồn tài trợ trung và dài hạn, giảm áp lực huy động trong nước, và hỗ trợ mở rộng tín dụng cho doanh nghiệp nhỏ và vừa, tài chính xanh và tài chính toàn diện. Các khoản vay xã hội hợp vốn quốc tế trị giá 721 triệu đô la được sử dụng để kéo dài kỳ hạn nguồn vốn.",
-        "pubDate": "Tue, 04 Aug 26 08:03:00 +0700",
+        "summary_en": "In Q2 2026, five Vietnamese banks—Vietcombank, VietinBank, BIDV, MB, and VPBank—each reported quarterly profits exceeding 10 trillion Vietnamese dong. This marks a milestone shift in the banking sector, with several other banks approaching this threshold and heralding what analysts describe as a \"10 trillion dong per quarter era\" for the industry.",
+        "summary_vn": "Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VPBank—mỗi ngân hàng báo lãi quý vượt 10 nghìn tỷ đồng. Đây là mốc quan trọng thể hiện sự thay đổi trong ngành ngân hàng, với một số ngân hàng khác cũng đang tiến gần đến ngưỡng này và dấu hiệu của \"kỷ nguyên 10 nghìn tỷ đồng mỗi quý\" cho toàn ngành.",
+        "pubDate": "Wed, 05 Aug 26 16:01:00 +0700",
+        "sentiment": 0.6,
+        "importance": 4
+      },
+      {
+        "title": "Lãi suất cho vay mới nhất tại Agribank",
+        "url": "https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn",
+        "source": "CafeF",
+        "summary_en": "Agribank announced its latest lending rates, maintaining short-term lending rates at 4% per annum for priority sectors. The average lending rate decreased to 8.51% per annum. The announcement was published on August 5, 2026.",
+        "summary_vn": "Agribank công bố lãi suất cho vay mới nhất, duy trì lãi suất cho vay ngắn hạn ở mức 4%/năm đối với các lĩnh vực ưu tiên. Lãi suất cho vay bình quân giảm xuống 8,51%/năm. Thông báo được công bố vào ngày 5 tháng 8 năm 2026.",
+        "pubDate": "Wed, 05 Aug 26 16:57:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "payments": [
+      {
+        "title": "VIB ra mắt One Card, mở ra bước tiến mới về thẻ tín dụng",
+        "url": "https://cafef.vn/vib-ra-mat-one-card-mo-ra-buoc-tien-moi-ve-the-tin-dung-188260805074729089.chn",
+        "source": "CafeF",
+        "summary_en": "VIB (Vietnam International Bank) has launched One Card, a new credit card product that integrates multiple card tiers, benefits, and privileges on a single card. The card is designed with a \"ONE is ENOUGH\" approach to serve customers' current spending needs while expanding value as their financial situation evolves. The product aims to adapt to customers' changing needs throughout their financial journey.",
+        "summary_vn": "Ngân hàng Quốc Tế (VIB) chính thức ra mắt One Card, một sản phẩm thẻ tín dụng mới tích hợp nhiều hạng thẻ, hạng quyền lợi và đặc quyền trên một chiếc thẻ. Thẻ được thiết kế với triết lý \"ONE là ĐỦ\" để đáp ứng nhu cầu chi tiêu hiện tại của khách hàng đồng thời mở rộng giá trị khi tình hình tài chính thay đổi. Sản phẩm nhằm thích ứng với các nhu cầu thay đổi trong suốt hành trình tài chính của khách hàng.",
+        "pubDate": "Wed, 05 Aug 26 08:00:00 +0700",
         "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "ACB vào Top 20 VNSI: Chất lượng tài sản Top đầu đi cùng tăng trưởng hiệu quả và bền vững",
-        "url": "https://cafef.vn/acb-vao-top-20-vnsi-chat-luong-tai-san-top-dau-di-cung-tang-truong-hieu-qua-va-ben-vung-188260804091241493.chn",
-        "source": "CafeF",
-        "summary_en": "ACB (Asia Commercial Bank) was selected into the Top 20 enterprises of the Vietnam Sustainability Index (VNSI) for 2026, following positive business results in the first half of 2026. The ranking recognizes ACB's progress in building long-term growth foundations through asset quality, risk management, and sustainable development governance. The bank's inclusion reflects its commitment to information transparency and sustainable business practices.",
-        "summary_vn": "Ngân hàng TMCP Á Châu (ACB) được chọn vào Top 20 doanh nghiệp thuộc Bộ chỉ số Phát triển bền vững Việt Nam (VNSI) năm 2026, sau kết quả kinh doanh tích cực trong nửa đầu năm 2026. Xếp hạng này ghi nhận những tiến bộ của ACB trong xây dựng nền tảng tăng trưởng dài hạn thông qua chất lượng tài sản, quản trị rủi ro và quản trị phát triển bền vững. Sự lựa chọn này phản ánh cam kết của ngân hàng đối với minh bạch thông tin và phát triển kinh doanh bền vững.",
-        "pubDate": "Tue, 04 Aug 26 09:12:00 +0700",
-        "sentiment": 0.7,
-        "importance": 3
+        "importance": 2
       }
     ],
     "consumers": [
       {
-        "title": "Du lịch Việt Nam đón gần 14 triệu lượt khách quốc tế",
-        "url": "https://cafef.vn/du-lich-viet-nam-don-gan-14-trieu-luot-khach-quoc-te-188260804094821312.chn",
+        "title": "SJC phát cảnh báo tới toàn bộ khách hàng",
+        "url": "https://cafef.vn/sjc-phat-canh-bao-toi-toan-bo-khach-hang-18826080522361221.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam's tourism sector received nearly 14 million international visitors during the first seven months of 2026, maintaining positive growth despite a global tourism slowdown. In July 2026 alone, Vietnam welcomed 1.67 million international visitors, a 6.6% increase compared to the same period in 2025. Europe emerged as a notable growth driver with outstanding expansion rates during this period.",
-        "summary_vn": "Du lịch Việt Nam đón gần 14 triệu lượt khách quốc tế trong 7 tháng đầu năm 2026, duy trì tốc độ tăng trưởng tích cực bất chấp sự suy giảm chung trên toàn cầu. Riêng tháng 7-2026, Việt Nam đón 1,67 triệu lượt khách quốc tế, tăng 6,6% so với cùng kỳ năm 2025. Châu Âu nổi lên như một điểm sáng với tốc độ tăng trưởng vượt trội trong giai đoạn này.",
-        "pubDate": "Tue, 04 Aug 26 11:30:00 +0700",
-        "sentiment": 0.6,
+        "summary_en": "SJC (Sai Gon Jewelry & Precious Metals Company) issued a warning to all customers about fraudulent social media accounts impersonating the company's brand. Scammers are creating fake fanpages using names like \"SJC Ho Chi Minh\" and \"SJC Ha Noi\" while copying images and content from legitimate SJC posts. The company is alerting customers to be cautious of these fraudulent accounts.",
+        "summary_vn": "Công ty TNHH MTV Vàng bạc Đá quý Sài Gòn (SJC) phát hành cảnh báo tới toàn bộ khách hàng về các tài khoản mạng xã hội giả mạo thương hiệu công ty. Các đối tượng lừa đảo đang tạo lập các fanpage giả mạo sử dụng các tên như \"SJC Hồ Chí Minh\" và \"SJC Hà Nội\" đồng thời sao chép hình ảnh và nội dung từ các bài đăng hợp pháp của SJC. Công ty khuyến cáo khách hàng cần cảnh báo với những tài khoản giả mạo này.",
+        "pubDate": "Wed, 05 Aug 26 22:34:00 +0700",
+        "sentiment": -0.8,
+        "importance": 3
+      }
+    ],
+    "logistics": [
+      {
+        "title": "Từ đầu tháng 8: Sân bay Nội Bài có làn xuất nhập cảnh riêng cho khách Việt",
+        "url": "https://cafef.vn/tu-dau-thang-8-san-bay-noi-bai-co-lan-xuat-nhap-canh-rieng-cho-khach-viet-188260805103443545.chn",
+        "source": "CafeF",
+        "summary_en": "Noi Bai Airport has established a dedicated immigration lane for Vietnamese citizens beginning in early August 2026. The article addresses questions about the location of this lane, how it differs from automated border control gates, and whether using it guarantees priority processing. This change applies to Terminal 2 at Noi Bai International Airport.",
+        "summary_vn": "Sân bay Nội Bài đã thiết lập một làn xuất nhập cảnh riêng cho công dân Việt Nam từ đầu tháng 8 năm 2026. Bài viết giải đáp các câu hỏi về vị trí của làn này, sự khác biệt so với cổng kiểm soát tự động, và liệu việc sử dụng nó có đảm bảo ưu tiên xử lý hay không. Thay đổi này áp dụng cho nhà ga quốc tế T2 tại sân bay Nội Bài.",
+        "pubDate": "Wed, 05 Aug 26 10:51:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Dự kiến đúng 2 tuần nữa, sân bay quốc tế tại tỉnh rộng nhất cả nước sẽ mở cửa trở lại",
+        "url": "https://cafef.vn/du-kien-dung-2-tuan-nua-san-bay-quoc-te-tai-tinh-rong-nhat-ca-nuoc-se-mo-cua-tro-lai-188260805153715822.chn",
+        "source": "CafeF",
+        "summary_en": "An international airport in Vietnam's largest province is expected to reopen in approximately two weeks. The airport is projected to handle around 816,000 passenger movements during the final four months of 2026. The province has an economic scale of 21 billion USD, ranking fifth nationally after Ho Chi Minh City, Hanoi, Hai Phong, and Dong Nai, and hosts major manufacturers including Samsung, Canon, and Foxconn.",
+        "summary_vn": "Một sân bay quốc tế tại tỉnh rộng nhất của Việt Nam dự kiến sẽ mở cửa trở lại trong khoảng hai tuần nữa. Sân bay này được dự báo sẽ xử lý khoảng 816.000 lượt khách trong bốn tháng cuối năm 2026. Tỉnh này có quy mô kinh tế đạt 21 tỷ USD, đứng thứ năm trên toàn quốc sau TP.HCM, Hà Nội, Hải Phòng và Đồng Nai, và là nơi các nhà sản xuất lớn như Samsung, Canon, Foxconn chọn đặt cơ sở.",
+        "pubDate": "Wed, 05 Aug 26 15:38:00 +0700",
+        "sentiment": 0.3,
         "importance": 3
       },
       {
-        "title": "Việt Nam vừa lập một kỷ lục mới, Trung Quốc, Mỹ, Campuchia có đóng góp lớn, riêng Nga ghi nhận tăng 174%",
-        "url": "https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn",
+        "title": "Siêu dự án đường sắt tốc độ cao hơn 5,6 tỷ USD, rút ngắn thời gian đi từ Hà Nội - Quảng Ninh có diễn biến mới",
+        "url": "https://cafef.vn/sieu-du-an-duong-sat-toc-do-cao-hon-56-ty-usd-rut-ngan-thoi-gian-di-tu-ha-noi-quang-ninh-co-dien-bien-moi-188260805154141944.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam has set a new record with tourism contributing significantly, with China, the United States, and Cambodia being major contributors. Russia showed a 174% increase. The tourism sector generated over 580,000 billion Vietnamese dong for Vietnam. Vietnam received nearly 14 million international tourist arrivals.",
-        "summary_vn": "Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đóng góp lớn từ Trung Quốc, Mỹ và Campuchia, riêng Nga ghi nhận tăng 174%. Ngành du lịch đã thu được hơn 580.000 tỷ đồng cho Việt Nam. Việt Nam đón gần 14 triệu lượt khách quốc tế.",
-        "pubDate": "Tue, 04 Aug 26 13:36:00 +0700",
-        "sentiment": 0.8,
-        "importance": 4
+        "summary_en": "The People's Committee of Uong Bi ward in Quang Ninh province has organized the first phase of compensation and land clearance support for 15 households affected by the Hanoi-Quang Ninh high-speed railway project. The project is valued at over 5.6 billion USD and aims to reduce travel time between Hanoi and Quang Ninh. This marks a new development in the implementation of the megaproject.",
+        "summary_vn": "Ủy ban nhân dân phường Uông Bí (tỉnh Quảng Ninh) đã tổ chức chi trả tiền bồi thường và hỗ trợ giải phóng mặt bằng đợt 1 cho 15 hộ dân bị ảnh hưởng bởi dự án đường sắt tốc độ cao Hà Nội - Quảng Ninh. Dự án có giá trị hơn 5,6 tỷ USD và nhằm rút ngắn thời gian đi lại giữa Hà Nội và Quảng Ninh. Đây là diễn biến mới trong quá trình triển khai của megadự án.",
+        "pubDate": "Wed, 05 Aug 26 16:16:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
       }
     ]
   }

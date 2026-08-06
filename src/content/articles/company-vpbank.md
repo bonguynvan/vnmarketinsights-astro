@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
+
+In Q2 2026, five Vietnamese banks—Vietcombank, VietinBank, BIDV, MB, and VPBank—each reported quarterly profits exceeding 10 trillion Vietnamese dong. This marks a milestone shift in the banking sector, with several other banks approaching this threshold and heralding what analysts describe as a "10 trillion dong per quarter era" for the industry.
+
+- Source: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
 
 **Người dùng VPBank chú ý, quy định mới liên quan đến chuyển khoản chính thức áp dụng từ hôm nay**  
 
@@ -79,18 +85,12 @@ Twenty-eight Vietnamese CEOs participated in a second day of the Alibaba Study T
 
 - Source: [CafeF](https://cafef.vn/dieu-khien-28-ceo-viet-nam-bat-ngo-trong-ngay-hoc-thu-hai-tai-alibaba-188260718084400074.chn)
 
-**CUBHCM củng cố vị thế tại Việt Nam với thương vụ vay hợp vốn và nhận giải thưởng quốc tế**  
-
-CUBHCM received an award from Asian Banking & Finance's Corporate & Investment Banking Awards 2026 for its capital arrangement and distribution capabilities. The award recognized a 1.563 billion USD sustainable syndicated loan facility for VPBank, which is reported as the largest such facility ever arranged in Vietnam. The credit facility for VPBank was initially deployed at a 1 billion USD scale.
-
-- Source: [CafeF](https://cafef.vn/cubhcm-cung-co-vi-the-tai-viet-nam-voi-thuong-vu-vay-hop-von-va-nhan-giai-thuong-quoc-te-188260718112255323.chn)
-
 ## Related coverage
 
 - [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 16/7: Một nhà băng báo lãi bán niên gần 4.700 tỷ, lợi nhuận VietBank và ABBank tăng vọt](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-16-7-mot-nha-bang-bao-lai-ban-nien-gan-4700-ty-loi-nhuan-vietbank-va-abbank-tang-vot-18826071608071097.chn) — CafeF
 
 ---
 

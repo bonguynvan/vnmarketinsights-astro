@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 32/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 32 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Market Brief"
-readingTime: 17
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 32/2026
@@ -13,25 +13,7 @@ readingTime: 17
 
 # Tổng Quan Thị Trường Tuần Này
 
-Thị trường chứng khoán Việt Nam ghi nhận sự phục hồi trong tuần qua khi chỉ số VN-Index tăng 1,56% lên 1.762,84 điểm, sau khi tháng 7 chứng kiến mức giảm hơn 124 điểm do áp lực từ cổ phiếu ngân hàng. Cổ phiếu ngân hàng là động lực chính của đợt tăng này với 22 trên 27 mã tăng giá, được hỗ trợ bởi công bố kết quả kinh doanh quý II/2026 và các biện pháp hỗ trợ thanh khoản từ Ngân hàng Nhà nước. Bên cạnh đó, nền kinh tế cho thấy những tín hiệu tích cực với xuất khẩu tăng 21,7% trong 7 tháng đầu năm và khối ngoại tăng cường mua vào, đặc biệt là cổ phiếu FPT tăng hơn 15%.
-
-## Thương mại điện tử
-
-**Sun Group đầu tư 40.000 tỷ đồng xây gần 50.000 căn nhà ở xã hội, nhà ở cho thuê "tiêu chuẩn Singapore" tại Phú Quốc**  
-
-Tập đoàn Sun Group khởi động chương trình phát triển nhà ở tại khu đô thị An Thới, Phú Quốc với mức đầu tư 40.000 tỷ đồng để xây dựng gần 50.000 căn nhà ở xã hội và nhà ở cho thuê đạt tiêu chuẩn Singapore. Lễ khởi động chương trình được tổ chức vào ngày 2/8/2026, đánh dấu bước tiến quan trọng trong việc thực hiện chiến lược phát triển nhà ở xã hội và hạ tầng đô thị. Dự án nhằm nâng cao chất lượng sống và an sinh xã hội cho người dân địa phương.
-
-- Số liệu chính: Investment amount: 40,000 billion VND; Number of social housing units: approximately 50,000 units
-- Nguồn: [CafeF](https://cafef.vn/sun-group-dau-tu-40000-ty-dong-xay-gan-50000-can-nha-o-xa-hoi-nha-o-cho-thue-tieu-chuan-singapore-tai-phu-quoc-188260802165120488.chn)
-
-## Logistics
-
-**Diễn biến mới nhất về 'siêu' sân bay lớn nhất Việt Nam**  
-
-Cục Hàng không Việt Nam gửi văn bản cho Bộ Xây dựng và Ban chỉ đạo công tác chuẩn bị khai thác về các điều kiện đưa Cảng hàng không quốc tế Long Thành vào khai thác chính thức từ 1/12/2026. Các hạng mục Dự án thành phần 3 bao gồm khu bay, nhà ga hành khách, nhà ga hàng hóa, hệ thống giao thông nội cảng, hạ tầng kỹ thuật và công trình phụ trợ đang được tập trung hoàn thiện.
-
-- Số liệu chính: Ngày khai thác chính thức dự kiến: 1/12/2026
-- Nguồn: [CafeF](https://cafef.vn/dien-bien-moi-nhat-ve-sieu-san-bay-lon-nhat-viet-nam-18826080210242866.chn)
+Thị trường chứng khoán Việt Nam tháng 7 ghi nhận diễn biến tiêu cực với VN-Index giảm hơn 124 điểm (6,68%), trong đó cổ phiếu ngân hàng là nhân tố kéo lùi chính khi vốn hóa của 27 ngân hàng niêm yết sụt giảm 7,84%. Trái chiều với áp lực thị trường chứng khoán, nền kinh tế vĩ mô 7 tháng đầu năm cho thấy những tín hiệu tích cực với chỉ số sản xuất công nghiệp tăng 11,4% (mức cao nhất kể từ 2019) và FDI đạt 38,06 tỷ USD. Cơ quan chức năng đã triển khai các biện pháp hỗ trợ như gói tín dụng 220.000 tỷ đồng và điều chỉnh tỷ lệ tính LDR nhằm giảm áp lực thanh khoản và hỗ trợ nền kinh tế.
 
 ## Người tiêu dùng
 
@@ -43,6 +25,19 @@ Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đ�
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
 
 ## Pháp lý
+
+**Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam**  
+
+Hệ thống ngân hàng Việt Nam đang chuẩn bị các quy định hoàn toàn mới về ứng dụng trí tuệ nhân tạo (AI). Theo lãnh đạo NHNN, AI mang lại nhiều lợi ích nhưng cũng đặt ra rủi ro về an toàn thông tin, rủi ro mô hình, dữ liệu và trách nhiệm ra quyết định. Tại hội thảo "AI và Quản trị dữ liệu trong hoạt động ngân hàng" ngày 5/8/2026, Phó Chủ tịch kiêm Tổng Thư ký VNBA Đào Minh Tú nhắc tới sự chuyển đổi từ kỷ nguyên số hóa trong ngành tài chính-ngân hàng toàn cầu.
+
+- Nguồn: [CafeF](https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn)
+
+**Nhóm đối tượng người nước ngoài 'ẩn mình' trong chung cư cao cấp để vận hành đường dây cờ bạc 30.000 tỷ đồng**  
+
+Nhóm đối tượng người nước ngoài, chủ yếu là người Trung Quốc, thuê nhiều căn hộ cao cấp ở Hà Nội và tuyển dụng hàng chục thanh niên Việt Nam để vận hành hàng trăm chiếc điện thoại phục vụ mạng lưới cờ bạc. Hoạt động này xử lý dòng tiền lên đến 30.000 tỷ đồng qua các tài khoản ngân hàng nhằm che giấu lợi tức từ các hoạt động "tổ chức đánh bạc" trên không gian mạng. Đường dây tội phạm này bị bộc lộ từ tin báo của công dân và cuộc điều tra của cơ quan pháp luật.
+
+- Số liệu chính: Cash flow processed: 30,000 billion dong VND; Duration of operation: approximately one year time
+- Nguồn: [CafeF](https://cafef.vn/nhom-doi-tuong-nguoi-nuoc-ngoai-an-minh-trong-chung-cu-cao-cap-de-van-hanh-duong-day-co-bac-30000-ty-dong-188260805202806863.chn)
 
 **Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động**  
 
@@ -65,19 +60,6 @@ Bộ Tài chính dự kiến sửa quy định liên quan đến hàng trăm ngh
 - Số liệu chính: Dư nợ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại hệ thống ngân hàng: 740,000 tỷ đồng
 - Nguồn: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
 
-**Đề xuất quy định niên hạn sử dụng căn hộ: Gỡ 'nút thắt' hàng chục năm trong cải tạo chung cư cũ**  
-
-Đề xuất quy định niên hạn sử dụng cho căn hộ được đánh giá là bước đột phá để gỡ những rào cản quy định dài hạn trong cải tạo chung cư cũ và nhà tập thể. Viện Nghiên cứu và đánh giá thị trường bất động sản (VARS IRE) xem đây là định hướng quan trọng để hoàn thiện khung pháp lý cho chung cư và giải quyết những vấn đề tồn tại trong cải tạo, xây dựng lại chung cư cũ.
-
-- Nguồn: [CafeF](https://cafef.vn/de-xuat-quy-dinh-nien-han-su-dung-can-ho-go-nut-that-hang-chuc-nam-trong-cai-tao-chung-cu-cu-188260801133542846.chn)
-
-**Đà Nẵng: Triệt phá đường dây mua bán hóa đơn khống hơn 2.000 tỷ đồng**  
-
-Cảnh sát Đà Nẵng đã triệt phá một đường dây mua bán hóa đơn giá trị gia tăng trái phép hoạt động tại Đà Nẵng và TP Hồ Chí Minh với tổng giá trị giao dịch vượt quá 2.000 tỷ đồng. Cuộc điều tra phát hiện Công ty Cổ phần Dưỡng khí Đà Nẵng nằm ở Khu công nghiệp Hòa Khánh, do Nguyễn Anh Tuấn (58 tuổi) ở phường An Khê, TP Đà Nẵng điều hành là trung tâm của vụ việc. Vụ án được công bố vào ngày 1/8 bởi Phòng Cảnh sát kinh tế, Công an TP Đà Nẵng.
-
-- Số liệu chính: Total transaction value of illegal VAT invoice trading: 2,000 billion dong; Age of main suspect: 58 years
-- Nguồn: [CafeF](https://cafef.vn/da-nang-triet-pha-duong-day-mua-ban-hoa-don-khong-hon-2000-ty-dong-18826080113494365.chn)
-
 ## Chứng khoán
 
 **Tháng 7 ‘bi đát’ của các ngân hàng Việt: Vốn hóa bốc hơi hơn 220.000 tỉ đồng, xóa sạch thành quả từ đầu năm**  
@@ -86,6 +68,13 @@ Thị trường chứng khoán Việt Nam tháng 7 chứng kiến những phiên
 
 - Số liệu chính: VN-Index decline (July): 124 points points; VN-Index percentage decline (July): 6.68 %; Number of listed banks: 27 banks; Banking sector market cap (June 30): 2,829 trillion dong
 - Nguồn: [TuoiTre](https://tuoitre.vn/thang-7-bi-dat-cua-cac-ngan-hang-viet-von-hoa-boc-hoi-hon-220000-ti-dong-xoa-sach-thanh-qua-tu-dau-nam-10026080311275086.htm)
+
+**Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
+
+Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VPBank—mỗi ngân hàng báo lãi quý vượt 10 nghìn tỷ đồng. Đây là mốc quan trọng thể hiện sự thay đổi trong ngành ngân hàng, với một số ngân hàng khác cũng đang tiến gần đến ngưỡng này và dấu hiệu của "kỷ nguyên 10 nghìn tỷ đồng mỗi quý" cho toàn ngành.
+
+- Số liệu chính: Quarterly profit threshold reached by five banks: 10,000 billion VND; Quarter: Q2 2026
+- Nguồn: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
 
 **Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử**  
 
@@ -121,21 +110,42 @@ Nhiều cổ phiếu Việt Nam tăng trần vào ngày 3 tháng 8, với cổ p
 - Số liệu chính: FPT price increase: 6.86%; FPT closing price: 71,700 VND/share; FPT trading volume: 16.27 million shares; FPT foreign net buying: 524 billion VND
 - Nguồn: [TuoiTre](https://tuoitre.vn/co-phieu-fpt-pnj-frt-ru-nhau-tim-tran-vn-index-tang-hon-27-diem-100260803152039691.htm)
 
-**Xuất hiện DN có doanh thu vượt xa Hòa Phát, Thế Giới Di Động, Vietnam Airlines,… nhưng báo lỗ**  
-
-Công ty dầu khí PV Oil (OIL) ghi nhận doanh thu kỷ lục hơn 90.000 tỷ đồng trong quý 2/2026, tăng 125% so với cùng kỳ năm trước, đưa công ty trở thành doanh nghiệp có doanh thu lớn thứ 3 trên sàn chứng khoán trong quý đó. Mặc dù doanh thu tăng trưởng mạnh mẽ, công ty báo lỗ trong quý 2/2026, lần đầu tiên kể từ quý 3/2022. Doanh thu của công ty hiện vượt xa các tập đoàn lớn như Hòa Phát, Thế Giới Di Động và Vietnam Airlines.
-
-- Số liệu chính: Q2 2026 Revenue: 90,000 billion VND VND; Year-over-year Revenue Growth: 125% %; Market Position by Revenue: 3rd largest on stock exchange ranking
-- Nguồn: [CafeF](https://cafef.vn/xuat-hien-dn-co-doanh-thu-vuot-xa-hoa-phat-the-gioi-di-dong-vietnam-airlines-nhung-bao-lo-1882608012245272.chn)
-
-**Hơn 3.700 cán bộ nhân viên của một ngân hàng lớn nghỉ việc**  
-
-Sacombank đã sa thải hơn 3.700 nhân viên trong nửa đầu năm 2026, được các quan sát viên ngành ngân hàng đánh giá là đợt cắt giảm nhân sự lớn nhất của ngân hàng cho đến nay. Lực lượng lao động hợp nhất giảm từ 16.816 nhân viên vào cuối năm 2025 xuống còn 14.080 vào cuối quý 1 năm 2026, giảm 2.736 nhân viên chỉ trong ba tháng. Số lượng nhân viên công ty mẹ giảm xuống 13.281 từ 15.851, phản ánh mức giảm 2.570 nhân viên.
-
-- Số liệu chính: Consolidated employees at 31/12/2025: 16,816; Consolidated employees at 31/3/2026: 14,080; Consolidated employee reduction in Q1 2026: 2,736; Standalone subsidiary employees at 31/12/2025: 15,851
-- Nguồn: [CafeF](https://cafef.vn/hon-3700-can-bo-nhan-vien-cua-mot-ngan-hang-lon-nghi-viec-188260801170040619.chn)
-
 ## Kinh tế vĩ mô
+
+**Giải bài toán vốn dài hạn cho tăng trưởng cao**  
+
+Việt Nam đối mặt với sự mismatch cấu trúc giữa cung vốn và nhu cầu vốn dài hạn cho tăng trưởng. Hệ thống ngân hàng hiện tại huy động khoảng 80% vốn từ các nguồn ngắn hạn và chỉ 20% từ vốn dài hạn. Các mục tiêu tăng trưởng cao trong lĩnh vực hạ tầng, năng lượng, công nghiệp chiến lược, chuyển đổi số và xanh đòi hỏi nguồn vốn dài hạn đáng kể mà không thể toàn bộ đến từ hệ thống ngân hàng.
+
+- Số liệu chính: Share of short-term capital in banking system funding: 80% percent; Share of long-term capital in banking system funding: 20% percent
+- Nguồn: [CafeF](https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn)
+
+**Khởi công Nhà máy Điện mặt trời Dầu Tiếng 5, bổ sung hơn 808 GWh điện sạch mỗi năm**  
+
+Nhà máy Điện mặt trời Dầu Tiếng 5 khởi công với công suất lắp đặt 450 MW và tổng mức đầu tư 7.774 tỷ đồng. Dự án dự kiến cung cấp hơn 808 GWh điện sạch mỗi năm cho hệ thống điện quốc gia. Sáng kiến này nhằm hỗ trợ chuyển dịch năng lượng và góp phần vào phát triển kinh tế-xã hội địa phương.
+
+- Số liệu chính: Installed capacity: 450 MW; Total investment: 7.774 trillion VND; Annual clean electricity supply: 808 GWh
+- Nguồn: [CafeF](https://cafef.vn/khoi-cong-nha-may-dien-mat-troi-dau-tieng-5-bo-sung-hon-808-gwh-dien-sach-moi-nam-188260805105341341.chn)
+
+**Nền kinh tế lớn nhất Đông Nam Á công bố tăng trưởng GDP quý 2/2026 vượt dự báo, so với Việt Nam thì sao?**  
+
+Cơ quan thống kê Indonesia công bố tăng trưởng GDP quý 2/2026 đạt 5,29%, vượt dự báo 5,1% của các nhà phân tích. Nền kinh tế lớn nhất Đông Nam Á này vượt qua các ước tính trước đó của Reuters. Tuy nhiên, áp lực tỷ giá, lãi suất và lo ngại về niềm tin nhà đầu tư đang ảnh hưởng tiêu cực đến triển vọng.
+
+- Số liệu chính: Indonesia Q2 2026 GDP growth (actual): 5.29% percent; Indonesia Q2 2026 GDP growth (analyst forecast): 5.1% percent
+- Nguồn: [CafeF](https://cafef.vn/nen-kinh-te-lon-nhat-dong-nam-a-cong-bo-tang-truong-gdp-quy-2-2026-vuot-du-bao-so-voi-viet-nam-thi-sao-188260805125219119.chn)
+
+**Ấn tượng 'bức tranh' kinh tế Việt Nam vừa công bố**  
+
+Thông tin kinh tế 7 tháng đầu năm của Việt Nam cho thấy nhiều tín hiệu tích cực. Chỉ số sản xuất công nghiệp (IIP) tăng 11,4%, mức cao nhất kể từ năm 2019, trong khi vốn đầu tư trực tiếp nước ngoài (FDI) đạt 38,06 tỷ USD. Thu ngân sách nhà nước tăng 16% so với cùng kỳ năm trước.
+
+- Số liệu chính: Industrial production index (IIP) growth: 11.4% percent; Foreign direct investment (FDI) registrations: 38.06 billion USD; State budget revenue growth: 16% percent year-on-year
+- Nguồn: [CafeF](https://cafef.vn/an-tuong-buc-tranh-kinh-te-viet-nam-vua-cong-bo-18826080513335149.chn)
+
+**Đúng 14h, Việt Nam thành công làm được điều chưa từng có trong lĩnh vực năng lượng, một bước ngoặt lớn đã diễn ra từ 14 năm trước**  
+
+Nhà máy phong điện đầu tiên của Việt Nam chính thức đi vào hoạt động vào lúc 14 giờ chiều ngày 18/4/2012 tại tỉnh Bình Thuận cũ (nay là tỉnh Lâm Đồng), đánh dấu một bước ngoặt lớn trong lĩnh vực năng lượng của đất nước. Công trình được xây dựng với tổng vốn đầu tư khoảng 2.000 tỷ đồng, có tổng công suất 30 MW và khởi công từ năm 2008, với 20 turbin loại 1,5MW mỗi cái. Dự án này đại diện cho một thành tích quan trọng của Việt Nam trong phát triển năng lượng tái tạo.
+
+- Số liệu chính: Total investment: 2000 billion VND; Total capacity: 30 MW; Number of turbines: 20 units; Turbine capacity per unit: 1.5 MW
+- Nguồn: [CafeF](https://cafef.vn/dung-14h-viet-nam-thanh-cong-lam-duoc-dieu-chua-tung-co-trong-linh-vuc-nang-luong-mot-buoc-ngoat-lon-da-dien-ra-tu-14-nam-truoc-188260805141838095.chn)
 
 **Kích hoạt gói tín dụng 220.000 tỷ đồng và loạt giải pháp hỗ trợ doanh nghiệp bứt tốc**  
 
@@ -177,19 +187,6 @@ TP.HCM đã thu hút được hơn 9,8 tỉ USD vốn đầu tư trực tiếp n
 
 - Số liệu chính: FDI into Ho Chi Minh City (as of July 24, 2026): 9.8 billion USD; Year-over-year FDI growth: 144.5 %; FDI in July 2026: 3 billion USD; FDI for first 6 months of 2026: 6.8 billion USD
 - Nguồn: [TuoiTre](https://tuoitre.vn/von-fdi-vao-tphcm-duoc-gan-10-ti-usd-sau-7-thang-100260803150500974.htm)
-
-**EVN chuẩn bị toàn diện cho dự án điện hạt nhân đầu tiên của Việt Nam**  
-
-Tập đoàn Điện lực Việt Nam (EVN) đang chuẩn bị toàn diện cho dự án nhà máy điện hạt nhân đầu tiên của Việt Nam. Công ty đang tập trung giải quyết ba nhóm thách thức lớn và triển khai năm nhóm giải pháp trọng tâm để hỗ trợ việc xây dựng nhà máy. Việt Nam đang tích cực chuẩn bị triển khai chương trình điện hạt nhân, bao gồm đầu tư xây dựng lò phản ứng hạt nhân nghiên cứu mới và mở rộng ứng dụng năng lượng nguyên tử vì mục đích hòa bình trong nhiều lĩnh vực kinh tế.
-
-- Nguồn: [CafeF](https://cafef.vn/evn-chuan-bi-toan-dien-cho-du-an-dien-hat-nhan-dau-tien-cua-viet-nam-18826080118550423.chn)
-
-**Giá trị khoa học công nghệ Việt từ công trình mỏ Đại Hùng**  
-
-Mỏ Đại Hùng, từng bị các tập đoàn dầu khí quốc tế đánh giá là không hiệu quả và chuyển nhượng chỉ với giá 1 USD, hiện nay đã mang lại doanh thu hơn 4,5 tỷ USD và trở thành minh chứng cho năng lực khoa học - công nghệ của kỹ sư Việt Nam. Mỏ Đại Hùng (Lô 05-1A, bồn trũng Nam Côn Sơn) nằm ở vùng nước sâu 110-120 m, cách Vũng Tàu khoảng 265 km. Công trình này thể hiện khả năng làm chủ công nghệ của Việt Nam.
-
-- Số liệu chính: Total revenue from Dai Hung oil field: 4.5 billion USD; Original sale price of Dai Hung field: 1 USD; Water depth of Dai Hung field: 110-120 meters; Distance from Vung Tau: 265 kilometers
-- Nguồn: [CafeF](https://cafef.vn/gia-tri-khoa-hoc-cong-nghe-viet-tu-cong-trinh-mo-dai-hung-188260801190034593.chn)
 
 ## Khác
 

@@ -1,17 +1,23 @@
 ---
 title: "Samsung — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Samsung, with neutral summaries and source links."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Company"
 readingTime: 3
 ---
 
 # Samsung
 
-Recent Vietnam market news mentioning **Samsung** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Samsung** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Dự kiến đúng 2 tuần nữa, sân bay quốc tế tại tỉnh rộng nhất cả nước sẽ mở cửa trở lại**  
+
+An international airport in Vietnam's largest province is expected to reopen in approximately two weeks. The airport is projected to handle around 816,000 passenger movements during the final four months of 2026. The province has an economic scale of 21 billion USD, ranking fifth nationally after Ho Chi Minh City, Hanoi, Hai Phong, and Dong Nai, and hosts major manufacturers including Samsung, Canon, and Foxconn.
+
+- Source: [CafeF](https://cafef.vn/du-kien-dung-2-tuan-nua-san-bay-quoc-te-tai-tinh-rong-nhat-ca-nuoc-se-mo-cua-tro-lai-188260805153715822.chn)
 
 **20 năm đầu dựa chỉ vào công nghệ ngoại, 10 năm tự chủ công nghệ, 10 năm tiếp dẫn đầu thế giới: Việt Nam học được gì từ kỳ tích của Samsung?**  
 
@@ -64,9 +70,9 @@ TechWorld by Thế Giới Di Động opened on June 20th as a large-scale techno
 ## Related coverage
 
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
-- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 - [Trong năm nay, 'ông lớn' Hàn Quốc sẽ khởi công xây dựng nhà máy bán dẫn 1 tỷ USD, quy mô hơn 300.000 m² tại thành phố cảng lớn nhất miền Bắc](https://cafef.vn/trong-nam-nay-ong-lon-han-quoc-se-khoi-cong-xay-dung-nha-may-ban-dan-1-ty-usd-quy-mo-hon-300000-m-tai-thanh-pho-cang-lon-nhat-mien-bac-188260705084705836.chn) — CafeF
-- [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
+- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
+- [Đại bàng Hàn Quốc rót 1 tỷ USD xây dựng đại nhà máy  tương đương 43 sân bóng đá tại thành phố cảng lớn nhất Việt Nam: Giới truyền thông quốc tế nói gì?](https://cafef.vn/dai-bang-han-quoc-rot-1-ty-usd-xay-dung-dai-nha-may-tuong-duong-43-san-bong-da-tai-thanh-pho-cang-lon-nhat-viet-nam-gioi-truyen-thong-quoc-te-noi-gi-188260709111929109.chn) — CafeF
 
 ---
 

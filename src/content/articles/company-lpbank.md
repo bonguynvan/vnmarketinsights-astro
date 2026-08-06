@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (26 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online deposit interest rates across 34 banks on August 5 shows overall stability in rate levels. SeABank reduced rates across multiple terms, while ACB continues to lead with 7.8% per annum and LPBank maintains 7.3% per annum.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn)
 
 **LPBank tăng lãi suất tiết kiệm ngay đầu tháng 8, lên nhóm cao nhất hệ thống**  
 
@@ -79,18 +85,12 @@ LPBank achieved pre-tax profit of nearly 6,000 billion VND in the first half of 
 
 - Source: [CafeF](https://cafef.vn/da-dang-hoa-nguon-thu-lpbank-dat-gan-6000-ty-dong-loi-nhuan-sau-6-thang-dau-nam-2026-188260721115914992.chn)
 
-**LPBank xuất hiện giao dịch thỏa thuận đột biến chiều 21/7**  
-
-LPBank experienced a large block trade on the afternoon of July 21, with approximately 130 million shares exchanged at 50,000 VND per share. The transaction represented over 4.3% of the bank's charter capital with a total value exceeding 6,490 billion VND. This was the only significant trading activity reported for the period.
-
-- Source: [CafeF](https://cafef.vn/lpbank-xuat-hien-giao-dich-thoa-thuan-dot-bien-chieu-21-7-188260721143028149.chn)
-
 ## Related coverage
 
 - [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
-- [Một cổ phiếu ngân hàng được thỏa thuận đột biến trong phiên 23/6, hơn 7.500 tỷ đồng được trao tay](https://cafef.vn/mot-co-phieu-ngan-hang-duoc-thoa-thuan-dot-bien-trong-phien-23-6-hon-7500-ty-dong-duoc-trao-tay-18826062316154226.chn) — CafeF
 - [Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html) — VietnamNet
-- [LPBank có gì đặc biệt?](https://cafef.vn/lpbank-co-gi-dac-biet-188260623160340188.chn) — CafeF
+- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
 
 ---
 

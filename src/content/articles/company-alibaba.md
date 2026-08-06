@@ -1,8 +1,8 @@
 ---
 title: "Alibaba — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Alibaba, with neutral summaries and source links."
-publishedDate: "2026-08-04"
-lastUpdated: "2026-08-04"
+publishedDate: "2026-08-05"
+lastUpdated: "2026-08-05"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ The article discusses how leading companies serve as foundational pillars for ec
 - [Bứt phá trong kỷ nguyên mới, Việt Nam cần một thế hệ doanh nghiệp kiến quốc](https://cafef.vn/but-pha-trong-ky-nguyen-moi-viet-nam-can-mot-the-he-doanh-nghiep-kien-quoc-188260705134110634.chn) — CafeF
 - [UOB FinLab đồng hành cùng nữ lãnh đạo doanh nghiệp khai thác AI và thúc đẩy tăng trưởng trong nền kinh tế số](https://cafef.vn/uob-finlab-dong-hanh-cung-nu-lanh-dao-doanh-nghiep-khai-thac-ai-va-thuc-day-tang-truong-trong-nen-kinh-te-so-188260720181505015.chn) — CafeF
 - [Doanh nhân Việt Nam và khát vọng xây dựng các tập đoàn mang thương hiệu quốc gia](https://cafef.vn/doanh-nhan-viet-nam-va-khat-vong-xay-dung-cac-tap-doan-mang-thuong-hieu-quoc-gia-188260716073849819.chn) — CafeF
-- [Từ khát vọng đến hiện thực: Vì sao Việt Nam chưa có nhiều Tập đoàn kinh tế tư nhân tầm khu vực và toàn cầu?](https://cafef.vn/tu-khat-vong-den-hien-thuc-vi-sao-viet-nam-chua-co-nhieu-tap-doan-kinh-te-tu-nhan-tam-khu-vuc-va-toan-cau-188260709141320847.chn) — CafeF
+- [Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam](https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn) — CafeF
 
 ---
 
