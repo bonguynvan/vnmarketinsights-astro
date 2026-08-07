@@ -1,17 +1,23 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
 
 # Nam A Bank
 
-Recent Vietnam market news mentioning **Nam A Bank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Nam A Bank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nam A Bank đón dòng vốn xanh từ Thụy Sĩ, nâng tổng quy mô huy động vốn quốc tế gần 350 triệu USD**  
+
+Nam A Bank signed a green credit agreement with SIFEM AG and gained access to additional funding from funds managed by responsAbility Investments AG. The bank raised total international capital inflows of approximately $350 million since the beginning of the year. The agreement represents the bank's efforts to attract green financing and international capital sources.
+
+- Source: [CafeF](https://cafef.vn/nam-a-bank-don-dong-von-xanh-tu-thuy-si-nang-tong-quy-mo-huy-dong-von-quoc-te-gan-350-trieu-usd-188260806151704066.chn)
 
 **Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét quý 2/2026**  
 
@@ -52,9 +58,9 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 ## Related coverage
 
 - [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
-- [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
 - [VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn) — CafeF
-- [HDBank dự kiến chia cổ tức, cổ phiếu thưởng tổng tỷ lệ 30%](https://cafef.vn/hdbank-du-kien-chia-co-tuc-co-phieu-thuong-tong-ty-le-30-188260804105204154.chn) — CafeF
+- [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
+- [VietABank tăng trưởng vững chắc, thúc đẩy hội nhập quốc tế và phát triển bền vững](https://cafef.vn/vietabank-tang-truong-vung-chac-thuc-day-hoi-nhap-quoc-te-va-phat-trien-ben-vung-188260727111000835.chn) — CafeF
 
 ---
 

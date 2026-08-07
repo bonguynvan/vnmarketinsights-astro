@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank ra mắt tính năng rút tiền mặt cho Doanh nghiệp tại LiveBank 24/7**  
+
+TPBank launched a cash withdrawal feature for business customers at its LiveBank 24/7 ATM network, enabling withdrawals of up to 300 million VND per day through the TPBank Biz mobile application. The feature allows businesses to perform cash transactions without physical cards using smartphone authentication, providing flexibility for cash management at any time including after-hours and weekends. This enhancement aims to improve business liquidity management capabilities and operational convenience.
+
+- Source: [CafeF](https://cafef.vn/tpbank-ra-mat-tinh-nang-rut-tien-mat-cho-doanh-nghiep-tai-livebank-24-7-188260805195226885.chn)
 
 **Chiến lược số của TPBank: Động lực tăng trưởng mới ngoài tín dụng**  
 
@@ -79,18 +85,12 @@ A Vietnamese bank reported first-half 2026 profit growth of 80% compared to the 
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn)
 
-**TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu**  
-
-TPBank is expanding its cross-border QR payment connections to strengthen its global digital banking ecosystem. The bank is among the first to implement the VietQRGlobal cross-border QR payment service alongside NAPAS. The expansion aims to serve customers on international journeys and help Vietnamese shops and businesses connect more conveniently with global customer flows.
-
-- Source: [CafeF](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn)
-
 ## Related coverage
 
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Đằng sau cuộc đua lãi suất huy động và cho vay](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
-- [HDBank gia nhập nhóm ngân hàng triệu tỷ, lợi nhuận vượt 13.200 tỷ đồng, vị thế mới trên thị trường vốn quốc tế](https://cafef.vn/hdbank-gia-nhap-nhom-ngan-hang-trieu-ty-loi-nhuan-vuot-13200-ty-dong-vi-the-moi-tren-thi-truong-von-quoc-te-188260731091938574.chn) — CafeF
+- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
 
 ---
 

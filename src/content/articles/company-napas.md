@@ -1,17 +1,23 @@
 ---
 title: "NAPAS — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning NAPAS, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
 
 # NAPAS
 
-Recent Vietnam market news mentioning **NAPAS** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **NAPAS** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Mốc quan trọng 06/8/2026: Cùng với BIDV và Weixin Pay, NAPAS đã hoàn thiện kết nối thanh toán xuyên biên giới với thị trường hơn 1,4 tỷ dân**  
+
+On August 6, 2026, NAPAS, WeChat Pay (Weixin Pay), and BIDV jointly announced the expansion of cross-border QR code payment services between Vietnam and China. The partnership marks a milestone in expanding payment connectivity to a market of over 1.4 billion people. The event represents progress in broadening cross-border payment infrastructure.
+
+- Source: [CafeF](https://cafef.vn/moc-quan-trong-06-8-2026-cung-voi-bidv-va-weixin-pay-napas-da-hoan-thien-ket-noi-thanh-toan-xuyen-bien-gioi-voi-thi-truong-hon-14-ty-dan-188260806151736178.chn)
 
 **TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu**  
 
@@ -53,8 +59,8 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 
 - [Từ Thái Lan, Lào đến Singapore: VietinBank từng bước mở rộng "Bản đồ QR" xuyên biên giới](https://cafef.vn/tu-thai-lan-lao-den-singapore-vietinbank-tung-buoc-mo-rong-ban-do-qr-xuyen-bien-gioi-188260708165248151.chn) — CafeF
 - [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
+- [Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn) — CafeF
 - [Visa kết hợp 3 ngân hàng ra mắt nền tảng thanh toán toàn cầu](https://tuoitre.vn/visa-ket-hop-3-ngan-hang-ra-mat-nen-tang-thanh-toan-toan-cau-100260629121100761.htm) — TuoiTre
-- [BVBank chính thức triển khai dịch vụ thanh toán qua Google Wallet dành cho thẻ tín dụng BVBank Visa](https://cafef.vn/bvbank-chinh-thuc-trien-khai-dich-vu-thanh-toan-qua-google-wallet-danh-cho-the-tin-dung-bvbank-visa-188260625130631849.chn) — CafeF
 
 ---
 

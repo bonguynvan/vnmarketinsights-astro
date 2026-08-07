@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (27 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (28 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of online interest rates at 34 banks on August 6 shows ACB leading with 7.8% per annum for 12-month terms. LPBank maintained 7.3% per annum, while eight banks across the market quoted rates of 7% per annum or higher. The survey tracks deposit mobilization rates at major Vietnamese commercial banks.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn)
 
 **Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ LPBank is deploying financial solutions targeting households and individual busi
 
 - Source: [CafeF](https://cafef.vn/lpbank-dong-hanh-ho-kinh-doanh-va-ca-nhan-kinh-doanh-thich-ung-chuyen-doi-so-va-quy-dinh-thue-moi-188260723120445614.chn)
 
-**Đa dạng hóa nguồn thu, LPBank đạt gần 6.000 tỷ đồng lợi nhuận sau 6 tháng đầu năm 2026**  
-
-LPBank achieved pre-tax profit of nearly 6,000 billion VND in the first half of 2026 while maintaining positive growth momentum despite industry-wide net interest margin pressure. The bank's total assets exceeded 615 trillion VND, with deposits and credit growth expanding in tandem. Non-interest income increased by 33%, demonstrating the effectiveness of the bank's revenue diversification strategy.
-
-- Source: [CafeF](https://cafef.vn/da-dang-hoa-nguon-thu-lpbank-dat-gan-6000-ty-dong-loi-nhuan-sau-6-thang-dau-nam-2026-188260721115914992.chn)
-
 ## Related coverage
 
-- [Cổ phiếu LPBank tăng kịch trần sáng 23/6](https://cafef.vn/co-phieu-lpbank-tang-kich-tran-sang-23-6-188260623115034103.chn) — CafeF
-- [Lãi suất ngân hàng hôm nay 3/8/2026: Nhà băng đầu tiên mở màn tăng lãi suất](https://vietnamnet.vn/lai-suat-ngan-hang-hom-nay-3-8-2026-nha-bang-dau-tien-mo-man-tang-lai-suat-2541455.html) — VietnamNet
-- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
+- [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
+- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 
 ---
 

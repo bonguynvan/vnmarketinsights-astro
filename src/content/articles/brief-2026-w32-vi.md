@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 32/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 32 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,18 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng Quan Thị Trường Tuần Này
+# Tổng quan thị trường Việt Nam tuần này
 
-Thị trường chứng khoán Việt Nam tháng 7 ghi nhận diễn biến tiêu cực với VN-Index giảm hơn 124 điểm (6,68%), trong đó cổ phiếu ngân hàng là nhân tố kéo lùi chính khi vốn hóa của 27 ngân hàng niêm yết sụt giảm 7,84%. Trái chiều với áp lực thị trường chứng khoán, nền kinh tế vĩ mô 7 tháng đầu năm cho thấy những tín hiệu tích cực với chỉ số sản xuất công nghiệp tăng 11,4% (mức cao nhất kể từ 2019) và FDI đạt 38,06 tỷ USD. Cơ quan chức năng đã triển khai các biện pháp hỗ trợ như gói tín dụng 220.000 tỷ đồng và điều chỉnh tỷ lệ tính LDR nhằm giảm áp lực thanh khoản và hỗ trợ nền kinh tế.
+Thị trường chứng khoán Việt Nam tháng 7 ghi nhận sự giảm mạnh với chỉ số VN-Index mất hơn 124 điểm, chủ yếu do cổ phiếu ngân hàng suy giảm, mặc dù ngành này báo cáo lợi nhuận quý II/2026 đạt mốc cao nhất lịch sử với năm ngân hàng hàng đầu vượt 10 nghìn tỷ đồng mỗi quý. Về phía kinh tế vĩ mô, 7 tháng đầu năm cho thấy những tín hiệu tích cực với sản xuất công nghiệp tăng 11,4% và FDI đạt 38,06 tỷ USD, đồng thời nền kinh tế được định hướng thu hút vốn xanh quy mô lớn từ các định chế tài chính quốc tế. Hạ tầng thanh toán xuyên biên giới và qui định về ứng dụng trí tuệ nhân tạo trong ngân hàng cũng được triển khai để hỗ trợ quá trình hiện đại hóa hệ thống tài chính.
+
+## Thanh toán
+
+**Mốc quan trọng 06/8/2026: Cùng với BIDV và Weixin Pay, NAPAS đã hoàn thiện kết nối thanh toán xuyên biên giới với thị trường hơn 1,4 tỷ dân**  
+
+Ngày 06/8/2026, NAPAS, Weixin Pay và BIDV phối hợp công bố mở rộng triển khai dịch vụ thanh toán QR xuyên biên giới giữa Việt Nam và Trung Quốc. Sự kiện đánh dấu cột mốc quan trọng trong quá trình mở rộng kết nối thanh toán với thị trường hơn 1,4 tỷ dân. Đây là bước tiến trong việc mở rộng hạ tầng thanh toán xuyên biên giới.
+
+- Số liệu chính: Target market population: over 1.4 billion people
+- Nguồn: [CafeF](https://cafef.vn/moc-quan-trong-06-8-2026-cung-voi-bidv-va-weixin-pay-napas-da-hoan-thien-ket-noi-thanh-toan-xuyen-bien-gioi-voi-thi-truong-hon-14-ty-dan-188260806151736178.chn)
 
 ## Người tiêu dùng
 
@@ -25,6 +34,12 @@ Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đ�
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
 
 ## Pháp lý
+
+**EuroCham: Nghị quyết 10 tạo niềm tin để doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam**  
+
+Nghị quyết 10 được cộng đồng doanh nghiệp châu Âu đánh giá là bước tiến quan trọng trong chiến lược thu hút đầu tư của Việt Nam, chuyển từ mục tiêu thu hút vốn sang xây dựng hệ sinh thái FDI chất lượng cao. EuroCham nhận định rằng nghị quyết này tạo niềm tin để các doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam. Sáng kiến phản ánh chiến lược phát triển đầu tư bền vững và chất lượng cao của Việt Nam.
+
+- Nguồn: [CafeF](https://cafef.vn/eurocham-nghi-quyet-10-tao-niem-tin-de-doanh-nghiep-chau-au-mo-rong-dau-tu-tai-viet-nam-188260806111848279.chn)
 
 **Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam**  
 
@@ -69,6 +84,12 @@ Thị trường chứng khoán Việt Nam tháng 7 chứng kiến những phiên
 - Số liệu chính: VN-Index decline (July): 124 points points; VN-Index percentage decline (July): 6.68 %; Number of listed banks: 27 banks; Banking sector market cap (June 30): 2,829 trillion dong
 - Nguồn: [TuoiTre](https://tuoitre.vn/thang-7-bi-dat-cua-cac-ngan-hang-viet-von-hoa-boc-hoi-hon-220000-ti-dong-xoa-sach-thanh-qua-tu-dau-nam-10026080311275086.htm)
 
+**Tỷ lệ nợ xấu xuống mức thấp nhất trong nhiều năm, VPBank được nhiều CTCK đánh giá tích cực**  
+
+Chất lượng tài sản của VPBank cải thiện đáng kể trong nửa đầu năm 2026, với tỷ lệ nợ xấu và nợ nhóm 2 xuống mức thấp nhất nhiều năm. Ngân hàng quy điều này cho chiến lược đầu tư dài hạn vào quản trị rủi ro, dữ liệu và công nghệ. Nhiều công ty chứng khoán đã đưa ra đánh giá tích cực về VPBank dựa trên những diễn biến này.
+
+- Nguồn: [CafeF](https://cafef.vn/ty-le-no-xau-xuong-muc-thap-nhat-trong-nhieu-nam-vpbank-duoc-nhieu-ctck-danh-gia-tich-cuc-188260807061824215.chn)
+
 **Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
 
 Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VPBank—mỗi ngân hàng báo lãi quý vượt 10 nghìn tỷ đồng. Đây là mốc quan trọng thể hiện sự thay đổi trong ngành ngân hàng, với một số ngân hàng khác cũng đang tiến gần đến ngưỡng này và dấu hiệu của "kỷ nguyên 10 nghìn tỷ đồng mỗi quý" cho toàn ngành.
@@ -96,21 +117,14 @@ Cổ phiếu FPT tăng hơn 15% sau 5 phiên có dòng tiền ngoại trở lạ
 - Số liệu chính: Stock price increase: over 15% %; Stock price level: 71,700 VND/share; Foreign net purchase value: over 500 billion VND
 - Nguồn: [CafeF](https://cafef.vn/fpt-tai-sinh-188260803144752644.chn)
 
-**Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?**  
-
-Thị trường chứng khoán Việt Nam dự kiến sẽ hút khoảng 1,5 tỉ USD từ dòng vốn thụ động của các quỹ ETF mô phỏng bộ chỉ số FTSE sau khi nâng hạng. Dòng vốn này sẽ được phân bổ theo lộ trình bốn đợt từ tháng 9-2026 đến 9-2027 để đảm bảo quá trình chuyển đổi suôn sẻ và giảm tác động đến thị trường. Hai cổ phiếu cụ thể được xác định là những người hưởi lợi tiềm năng với khả năng hút khoảng 62 triệu USD từ các dòng vốn này.
-
-- Số liệu chính: Expected passive flows from FTSE ETF funds to Vietnamese stock market: 1.5 billion USD; Expected funds to two identified stocks: 62 million USD; Distribution period start: September 2026; Distribution period end: September 2027
-- Nguồn: [TuoiTre](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm)
-
-**Cổ phiếu FPT, PNJ, FRT... 'rủ nhau' tím trần, VN-Index tăng hơn 27 điểm**  
-
-Nhiều cổ phiếu Việt Nam tăng trần vào ngày 3 tháng 8, với cổ phiếu công nghệ, bán lẻ và hàng không đóng cửa ở giới hạn tăng hằng ngày. FPT tăng 6,86% lên 71.700 đồng/cổ phiếu với khối lượng giao dịch vượt 16,27 triệu cổ phiếu, tương đương khoảng gấp đôi mức bình quân 10 phiên, đồng thời hấp dẫn lượng mua ròng ngoại mạnh nhất thị trường với giá trị hơn 524 tỉ đồng. VN-Index tăng hơn 27 điểm trong phiên giao dịch.
-
-- Số liệu chính: FPT price increase: 6.86%; FPT closing price: 71,700 VND/share; FPT trading volume: 16.27 million shares; FPT foreign net buying: 524 billion VND
-- Nguồn: [TuoiTre](https://tuoitre.vn/co-phieu-fpt-pnj-frt-ru-nhau-tim-tran-vn-index-tang-hon-27-diem-100260803152039691.htm)
-
 ## Kinh tế vĩ mô
+
+**Thu hút 700 tỷ USD cho mục tiêu Net Zero: Ngân hàng giữ vai trò kênh dẫn vốn chủ lực**  
+
+Việt Nam đang có cơ hội thu hút lượng vốn xanh quy mô lớn khi các định chế tài chính quốc tế đánh giá cao nền tảng kinh tế vĩ mô và cam kết chuyển đổi xanh của Chính phủ. Khoảng 700 tỷ USD được cần thiết để hỗ trợ mục tiêu Net Zero của Việt Nam đến năm 2050. Hệ thống ngân hàng được xác định là kênh dẫn vốn chủ lực để huy động và điều phối nguồn vốn này.
+
+- Số liệu chính: Capital needed for Net Zero target: 700 billion USD; Net Zero target year: 2050 year
+- Nguồn: [CafeF](https://cafef.vn/thu-hut-700-ty-usd-cho-muc-tieu-net-zero-ngan-hang-giu-vai-tro-kenh-dan-von-chu-luc-188260807062443173.chn)
 
 **Giải bài toán vốn dài hạn cho tăng trưởng cao**  
 
@@ -180,22 +194,6 @@ Bộ Tài chính Mỹ đã phối hợp với Nhật Bản can thiệp thị tr�
 
 - Số liệu chính: Khoảng thời gian kể từ lần can thiệp trước: gần 30 năm năm; Năm can thiệp trước đó: 1998 năm
 - Nguồn: [TuoiTre](https://tuoitre.vn/my-can-thiep-ho-tro-dong-yen-nhat-sau-gan-30-nam-vi-tinh-huu-nghi-100260803120313501.htm)
-
-**Vốn FDI vào TP.HCM được gần 10 tỉ USD sau 7 tháng**  
-
-TP.HCM đã thu hút được hơn 9,8 tỉ USD vốn đầu tư trực tiếp nước ngoài (FDI) tính đến ngày 24-7-2026, tăng trưởng 144,5% so với cùng kỳ năm trước. Riêng tháng 7, TP.HCM thu hút khoảng 3 tỉ USD với 1.188 dự án cấp mới có tổng vốn hơn 3,6 tỉ USD và 181 dự án điều chỉnh tăng vốn thêm gần 3,5 tỉ USD. Sau 6 tháng đầu năm, TP.HCM thu hút được hơn 6,8 tỉ USD vốn FDI.
-
-- Số liệu chính: FDI into Ho Chi Minh City (as of July 24, 2026): 9.8 billion USD; Year-over-year FDI growth: 144.5 %; FDI in July 2026: 3 billion USD; FDI for first 6 months of 2026: 6.8 billion USD
-- Nguồn: [TuoiTre](https://tuoitre.vn/von-fdi-vao-tphcm-duoc-gan-10-ti-usd-sau-7-thang-100260803150500974.htm)
-
-## Khác
-
-**Cất Bitcoin trong két, không lên internet, tại sao người đàn ông này vẫn mất 18,25 BTC chỉ trong 7 phút?**  
-
-Ông Jonathan Goodman mất 18,25 BTC trong vòng 7 phút mặc dù lưu trữ Bitcoin trong một két an toàn không kết nối internet. Hơn một nghìn ví Bitcoin lạnh được báo cáo bị xâm phạm trong cuộc tấn công này mặc dù không tiếp xúc với internet bên ngoài. Sự cố này làm nổi bật một vi phạm bảo mật lớn ảnh hưởng đến nhiều ví lưu trữ lạnh được cho là an toàn trước các mối đe dọa kỹ thuật số thông thường.
-
-- Số liệu chính: Bitcoin lost by Jonathan Goodman: 18.25 BTC; Time frame of loss: 7 minutes; Number of cold wallets compromised: over one thousand wallets
-- Nguồn: [CafeF](https://cafef.vn/cat-bitcoin-trong-ket-khong-len-internet-tai-sao-nguoi-dan-ong-nay-van-mat-1825-btc-chi-trong-7-phut-18826080316424752.chn)
 
 ---
 

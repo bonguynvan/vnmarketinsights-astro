@@ -1,17 +1,29 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (42 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VPBank "cảnh báo đỏ" về rủi ro lừa đảo gắn mác "vé nội bộ"**  
+
+VPBank, the Vietnamese organizer for BIGBANG's 2026-2027 World Tour in Hanoi, issued a fraud alert warning the public against scams involving alleged "internal tickets." Multiple online accounts have been promoting discounted "internal tickets" claiming to guarantee good seating arrangements, but VPBank stated this information is false. All tickets for both concert nights are distributed exclusively through CTicket, with no separate internal ticket sales channel.
+
+- Source: [CafeF](https://cafef.vn/vpbank-canh-bao-do-ve-rui-ro-lua-dao-gan-mac-ve-noi-bo-18826080618294547.chn)
+
+**Tỷ lệ nợ xấu xuống mức thấp nhất trong nhiều năm, VPBank được nhiều CTCK đánh giá tích cực**  
+
+VPBank's asset quality improved significantly in the first half of 2026, with non-performing loan (NPL) ratio and Group 2 loan ratio reaching multi-year lows. The bank attributes this improvement to its long-term investment strategy in risk management, data, and technology. Multiple securities companies have issued positive assessments of VPBank based on these developments.
+
+- Source: [CafeF](https://cafef.vn/ty-le-no-xau-xuong-muc-thap-nhat-trong-nhieu-nam-vpbank-duoc-nhieu-ctck-danh-gia-tich-cuc-188260807061824215.chn)
 
 **Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
 
@@ -72,18 +84,6 @@ VPBank Diamond has been nominated in the "Best Family Wealth Management Product"
 Vietnamese banks released their first-half 2024 earnings results during an active reporting season. Multiple banks including VPBank, ABBank, Vietbank, PGBank, BVBank, and MSB reported significant profit increases, while some banks faced declining profits due to capital cost pressures and loan loss provisions. MSB recorded profit exceeding 3,400 billion VND in the first half of the year.
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn)
-
-**Thống đốc: Khi thiếu hụt vốn thì đương nhiên lãi suất lên cao**  
-
-The State Bank Governor stated that interest rate management has been challenging recently due to high capital demand while the economy's capital mobilization remains constrained. Major banks including Vietcombank, Vietinbank, BIDV, Agribank, VPBank, and TPBank have extended loans exceeding 27,000 billion VND for projects by corporations such as Deo Ca Group, Tasco, and CII. Bank leadership noted that financial institutions lack sufficient capital reserves to support numerous large projects in the coming period.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-khi-thieu-hut-von-thi-duong-nhien-lai-suat-len-cao-188260718162131509.chn)
-
-**Điều khiến 28 CEO Việt Nam bất ngờ trong ngày học thứ hai tại Alibaba**  
-
-Twenty-eight Vietnamese CEOs participated in a second day of the Alibaba Study Tour sponsored by VPBank SME, focusing on AI's impact on business organization and competitive advantage. The tour moved beyond surface-level questions about AI adoption to deeper discussions on how AI is redefining management thinking, leadership decision-making, and competitive advantage creation. Topics covered included AI-era management philosophy and Hema's New Retail model.
-
-- Source: [CafeF](https://cafef.vn/dieu-khien-28-ceo-viet-nam-bat-ngo-trong-ngay-hoc-thu-hai-tai-alibaba-188260718084400074.chn)
 
 ## Related coverage
 

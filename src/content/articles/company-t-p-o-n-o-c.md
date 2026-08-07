@@ -1,8 +1,8 @@
 ---
 title: "Tập đoàn Đèo Cả — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Đèo Cả, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
@@ -48,7 +48,7 @@ Thai Nguyen Province and Deo Ca Group discussed an investment plan for a tunnel-
 - [Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn) — CafeF
 - [Đèo Cả nghiên cứu xây hầm xuyên núi dài gần 19km kết nối Phú Thọ - Thái Nguyên - Hà Nội, phấn đấu khởi công ngay năm sau](https://cafef.vn/deo-ca-nghien-cuu-xay-ham-xuyen-nui-dai-gan-19km-ket-noi-phu-tho-thai-nguyen-ha-noi-phan-dau-khoi-cong-ngay-nam-sau-188260709103020019.chn) — CafeF
 - [Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn) — CafeF
-- [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
+- [Thống nhất làm đường hầm Tam Đảo gần 5.800 tỷ đồng](https://cafef.vn/thong-nhat-lam-duong-ham-tam-dao-gan-5800-ty-dong-188260806093037281.chn) — CafeF
 
 ---
 

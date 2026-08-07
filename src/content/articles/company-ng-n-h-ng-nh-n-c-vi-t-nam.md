@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lo ngại việc áp dụng tùy nghi "tỷ lệ an toàn khác" đối với ngân hàng**  
+
+Vietnamese parliament representatives expressed concerns about vague regulations allowing the State Bank of Vietnam to apply discretionary "alternative safety ratios" for banks in support of socioeconomic development goals. The representatives worry that overly general wording could lead to arbitrary enforcement when implementing amendments to banking and anti-money laundering laws.
+
+- Source: [CafeF](https://cafef.vn/lo-ngai-viec-ap-dung-tuy-nghi-ty-le-an-toan-khac-doi-voi-ngan-hang-188260807063736815.chn)
 
 **Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động**  
 
@@ -79,18 +85,12 @@ Vietnam is amending the 2010 State Bank Law to enhance the central bank's role i
 
 - Source: [CafeF](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn)
 
-**Đề xuất thương nhân cung cấp thông tin nguồn tiền để ngân hàng theo dõi giao dịch chuyển khẩu**  
-
-Vietnam's State Bank is circulating a draft circular to regulate payment and money transfer activities related to entrepôt trade operations, intended to replace Circular 02/2020/TT-NHNN. The new regulation proposes requiring merchants to provide information about money sources to enable banks to monitor entrepôt trade transactions. The draft aims to harmonize with new government regulations and address practical difficulties, particularly for foreign-invested enterprises.
-
-- Source: [CafeF](https://cafef.vn/de-xuat-thuong-nhan-cung-cap-thong-tin-nguon-tien-de-ngan-hang-theo-doi-giao-dich-chuyen-khau-188260725075053439.chn)
-
 ## Related coverage
 
-- [Ngân hàng Nhà nước bàn việc thay thế thông tư quan trọng bậc nhất ngành ngân hàng](https://cafef.vn/ngan-hang-nha-nuoc-ban-viec-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-188260719092130966.chn) — CafeF
+- [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
 - [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
-- [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
 - [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
+- [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
 
 ---
 

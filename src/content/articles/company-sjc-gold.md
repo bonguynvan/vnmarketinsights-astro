@@ -1,8 +1,8 @@
 ---
 title: "SJC Gold — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC Gold, with neutral summaries and source links."
-publishedDate: "2026-08-05"
-lastUpdated: "2026-08-05"
+publishedDate: "2026-08-07"
+lastUpdated: "2026-08-07"
 category: "Company"
 readingTime: 3
 ---
