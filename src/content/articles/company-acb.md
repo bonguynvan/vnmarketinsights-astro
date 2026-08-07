@@ -9,9 +9,21 @@ readingTime: 3
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nợ xấu của ngân hàng Agribank hiện nay**  
+
+Agribank maintains a non-performing loan (NPL) ratio of 1.28% as of end-June 2026, down slightly from 1.3% at the start of the year, with NPL balances at over 26,500 billion VND. The bank ranks among the system's lowest NPL ratio holders and maintains a top-tier reserve coverage buffer against NPLs. Agribank's NPL ratio is comparable to other major banks including Vietcombank (0.61%), ACB (1.03%), and Techcombank (1.08%).
+
+- Source: [CafeF](https://cafef.vn/no-xau-cua-ngan-hang-agribank-hien-nay-188260807105844412.chn)
+
+**Lãi suất ngân hàng 7/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+A survey of deposit rates on August 7 across 35 banks showed ACB offering the highest rate at 7.8% per annum for 12-month terms, while LPBank maintained 7.3% per annum. Eight banks in total posted rates of 7% per annum or higher.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-7-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260807192505937.chn)
 
 **Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -73,23 +85,11 @@ The State Bank of Vietnam Governor Phạm Đức Ấn announced personnel decisi
 
 - Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-trao-quyet-dinh-bo-nhiem-nhan-su-cap-cao-agribank-188260731221545804.chn)
 
-**Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of deposit interest rates at 34 banks on July 30 shows ACB offering the highest rate at 7.8% per annum for 12-month terms. Seven banks quoted rates of 7% per annum or higher during this period. The article appears to be part of ongoing coverage of daily banking interest rate movements.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn)
-
-**Từ tháng 8, người có tài khoản ACB, VIETBANK chú ý: Phí dịch vụ thay đổi, chuyển khoản không thành công có thể mất phí**  
-
-ACB and VIETBANK have announced changes to their service fees effective August 2024. ACB will charge 5,500 VND for each unsuccessful international debit card transaction. The fee changes affect customers with accounts at these banks and require their attention regarding new service charges.
-
-- Source: [CafeF](https://cafef.vn/tu-thang-8-nguoi-co-tai-khoan-acb-vietbank-chu-y-phi-dich-vu-thay-doi-chuyen-khoan-khong-thanh-cong-co-the-mat-phi-188260728150144479.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
 - [Lãi suất ngân hàng 29/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-29-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260729203901269.chn) — CafeF
 - [Lãi suất ngân hàng 22/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-22-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-18826072221044386.chn) — CafeF
-- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 
 ---

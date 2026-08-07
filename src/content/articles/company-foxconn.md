@@ -9,9 +9,15 @@ readingTime: 3
 
 # Foxconn
 
-Recent Vietnam market news mentioning **Foxconn** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Foxconn** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tỉnh rộng nhất đồng bằng sông Cửu Long chính thức được công nhận là đơn vị hành chính cấp tỉnh loại I**  
+
+A province in the Mekong Delta region has been officially recognized as a Class I provincial administrative unit, reflecting its scale, location, and new development requirements following a merger. The province has an economic scale of $21 billion USD, ranking fifth after Ho Chi Minh City, Hanoi, Hai Phong, and Dong Nai, and is home to major manufacturers including Samsung, Canon, and Foxconn. The province has been noted for having the highest per capita income in the country.
+
+- Source: [CafeF](https://cafef.vn/tinh-rong-nhat-dong-bang-song-cuu-long-chinh-thuc-duoc-cong-nhan-la-don-vi-hanh-chinh-cap-tinh-loai-i-188260807112113218.chn)
 
 **Dự kiến đúng 2 tuần nữa, sân bay quốc tế tại tỉnh rộng nhất cả nước sẽ mở cửa trở lại**  
 
@@ -33,10 +39,10 @@ Bac Ninh province has an economic scale of $21 billion, ranking fifth in Vietnam
 
 ## Related coverage
 
-- [Chỉ trong 6 tháng, một địa phương ghi nhận tăng trưởng GRDP lọt TOP10, FDI tăng bằng lần, đặt mục tiêu thành "thủ phủ" công nghiệp công nghệ cao của Việt Nam](https://cafef.vn/chi-trong-6-thang-mot-dia-phuong-ghi-nhan-tang-truong-grdp-lot-top10-fdi-tang-bang-lan-dat-muc-tieu-thanh-thu-phu-cong-nghiep-cong-nghe-cao-cua-viet-nam-188260715101421513.chn) — CafeF
 - [Lần đầu tiên công bố bảng xếp hạng thu nhập bình quân tháng của 34 tỉnh, thành sau sáp nhập: Địa phương nào đang dẫn đầu?](https://cafef.vn/lan-dau-tien-cong-bo-bang-xep-hang-thu-nhap-binh-quan-thang-cua-34-tinh-thanh-sau-sap-nhap-dia-phuong-nao-dang-dan-dau-188260711090453958.chn) — CafeF
+- [Chỉ trong 6 tháng, một địa phương ghi nhận tăng trưởng GRDP lọt TOP10, FDI tăng bằng lần, đặt mục tiêu thành "thủ phủ" công nghiệp công nghệ cao của Việt Nam](https://cafef.vn/chi-trong-6-thang-mot-dia-phuong-ghi-nhan-tang-truong-grdp-lot-top10-fdi-tang-bang-lan-dat-muc-tieu-thanh-thu-phu-cong-nghiep-cong-nghe-cao-cua-viet-nam-188260715101421513.chn) — CafeF
+- [Đây chính là tỉnh có diện tích nhỏ nhất Việt Nam, tăng trưởng kinh tế thuộc nhóm dẫn đầu cả nước](https://cafef.vn/day-chinh-la-tinh-co-dien-tich-nho-nhat-viet-nam-tang-truong-kinh-te-thuoc-nhom-dan-dau-ca-nuoc-188260708140809905.chn) — CafeF
 - [Đổ xô săn vé máy bay đến tỉnh lớn nhất Việt Nam, chuyện gì đang xảy ra?](https://cafef.vn/do-xo-san-ve-may-bay-den-tinh-lon-nhat-viet-nam-chuyen-gi-dang-xay-ra-188260731135220502.chn) — CafeF
-- [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
 
 ---
 

@@ -9,9 +9,15 @@ readingTime: 3
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027**  
+
+Sun Group is undertaking a 9,000 billion VND light rail transit (LRT) project in Phu Quoc, with accelerated construction schedules for bridges, tunnels, and road foundations in preparation for APEC 2027. Despite geological challenges and monsoon seasons on the island, the project maintains continuous three-shift construction operations with first rail laying scheduled for August 2026. The first test train is planned to run in mid-2027 as part of the green transport infrastructure development.
+
+- Source: [CafeF](https://cafef.vn/sieu-du-an-lrt-9000-ty-tai-phu-quoc-lo-trinh-nghet-tho-vuot-ai-thien-tai-san-sang-dua-doan-tau-dau-tien-chay-thu-vao-giua-nam-2027-188260807114249175.chn)
 
 **Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả**  
 
@@ -79,18 +85,12 @@ Sun Group's chairman Đặng Minh Trường stated that the company does not inv
 
 - Source: [CafeF](https://cafef.vn/chu-tich-sun-group-dang-minh-truong-sun-group-khong-dau-tu-de-gianh-lay-mot-mieng-banh-thi-truong-co-san-188260707194543693.chn)
 
-**Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới**  
-
-Bac Ninh Province approved an additional 145 billion dong in public investment capital for 2026 to support land clearance for a road project connecting Gia Binh airport with Hanoi. The project, valued at 83 trillion dong, is led by a Sun Group consortium and aims to connect a world-class five-star airport with Hanoi. On July 3rd, Bac Ninh's Provincial People's Committee Deputy Chairman Pham Van Thinh signed Decision No. 902/QD-UBND regarding the supplementary allocation and detailed distribution of the 2026 public investment plan for the project.
-
-- Source: [CafeF](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn)
-
 ## Related coverage
 
+- [Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Một nhà ga của sân bay đông đúc nhất Việt Nam đứng trước thay đổi lớn chưa từng có](https://cafef.vn/mot-nha-ga-cua-san-bay-dong-duc-nhat-viet-nam-dung-truoc-thay-doi-lon-chua-tung-co-188260716145840464.chn) — CafeF
 - [240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn) — CafeF
-- [Ngân hàng Nhà nước nêu lý do miễn "room tín dụng” cho 18 dự án](https://cafef.vn/ngan-hang-nha-nuoc-neu-ly-do-mien-room-tin-dung-cho-18-du-an-188260703181521537.chn) — CafeF
+- [Một nhà ga của sân bay đông đúc nhất Việt Nam đứng trước thay đổi lớn chưa từng có](https://cafef.vn/mot-nha-ga-cua-san-bay-dong-duc-nhat-viet-nam-dung-truoc-thay-doi-lon-chua-tung-co-188260716145840464.chn) — CafeF
 
 ---
 

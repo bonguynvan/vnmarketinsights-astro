@@ -58,9 +58,9 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 ## Related coverage
 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Yêu cầu hoàn thiện hạ tầng sạc điện tại các trạm dừng nghỉ](https://cafef.vn/yeu-cau-hoan-thien-ha-tang-sac-dien-tai-cac-tram-dung-nghi-188260807144313927.chn) — CafeF
+- [Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027](https://cafef.vn/sieu-du-an-lrt-9000-ty-tai-phu-quoc-lo-trinh-nghet-tho-vuot-ai-thien-tai-san-sang-dua-doan-tau-dau-tien-chay-thu-vao-giua-nam-2027-188260807114249175.chn) — CafeF
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
-- [Tiến độ sân bay Long Thành hiện nay ra sao?](https://cafef.vn/tien-do-san-bay-long-thanh-hien-nay-ra-sao-188260622140324676.chn) — CafeF
-- [Giải thưởng của tỷ phú Phạm Nhật Vượng kết nối những bộ óc kiệt xuất toàn cầu giải nhiều bài toán cho VN](https://cafef.vn/giai-thuong-cua-ty-phu-pham-nhat-vuong-ket-noi-nhung-bo-oc-kiet-xuat-toan-cau-giai-nhieu-bai-toan-cho-vn-188260716134816879.chn) — CafeF
 
 ---
 

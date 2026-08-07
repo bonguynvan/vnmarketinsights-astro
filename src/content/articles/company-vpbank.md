@@ -9,9 +9,15 @@ readingTime: 3
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (42 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (43 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VPBank và hành trình kiến tạo mô hình chạy bộ đa trải nghiệm tại Việt Nam**  
+
+VPBank organized the Ho Chi Minh City Music Half Marathon 2026, combining sports, music and challenge themes. The event attracted over 10,500 athletes from 35 countries and territories, with 60 award categories presented. VPBank donated 100 million Vietnamese dong to the Ho Chi Minh City Young Talent Sports Fund as part of its sustainable development initiative.
+
+- Source: [CafeF](https://cafef.vn/vpbank-va-hanh-trinh-kien-tao-mo-hinh-chay-bo-da-trai-nghiem-tai-viet-nam-188260807120520015.chn)
 
 **VPBank "cảnh báo đỏ" về rủi ro lừa đảo gắn mác "vé nội bộ"**  
 
@@ -79,17 +85,11 @@ VPBank Diamond has been nominated in the "Best Family Wealth Management Product"
 
 - Source: [CafeF](https://cafef.vn/family-banking-giup-vpbank-diamond-tao-khac-biet-tai-global-banking-finance-awards-188260720154235643.chn)
 
-**Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm**  
-
-Vietnamese banks released their first-half 2024 earnings results during an active reporting season. Multiple banks including VPBank, ABBank, Vietbank, PGBank, BVBank, and MSB reported significant profit increases, while some banks faced declining profits due to capital cost pressures and loan loss provisions. MSB recorded profit exceeding 3,400 billion VND in the first half of the year.
-
-- Source: [CafeF](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn)
-
 ## Related coverage
 
 - [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
+- [Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026](https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
-- [Lợi nhuận nhiều ngân hàng tăng rất mạnh](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-rat-manh-188260731075316388.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
 
 ---

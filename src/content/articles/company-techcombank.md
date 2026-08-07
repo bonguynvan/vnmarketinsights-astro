@@ -9,9 +9,15 @@ readingTime: 3
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nợ xấu của ngân hàng Agribank hiện nay**  
+
+Agribank maintains a non-performing loan (NPL) ratio of 1.28% as of end-June 2026, down slightly from 1.3% at the start of the year, with NPL balances at over 26,500 billion VND. The bank ranks among the system's lowest NPL ratio holders and maintains a top-tier reserve coverage buffer against NPLs. Agribank's NPL ratio is comparable to other major banks including Vietcombank (0.61%), ACB (1.03%), and Techcombank (1.08%).
+
+- Source: [CafeF](https://cafef.vn/no-xau-cua-ngan-hang-agribank-hien-nay-188260807105844412.chn)
 
 **Techcombank bổ nhiệm thêm Phó Tổng giám đốc**  
 
@@ -79,18 +85,12 @@ Techcombank served as the national sponsor for broadcasting rights to the 2026 F
 
 - Source: [CafeF](https://cafef.vn/dau-an-techcombank-nha-tai-tro-quoc-gia-ban-quyen-phat-song-ky-fifa-world-cup-2026-lich-su-188260725114116989.chn)
 
-**Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt**  
-
-Techcombank and Visa announced a strategic partnership to launch an international money receiving account on Techcombank Mobile. The service is built on Visa's global payment infrastructure to simplify cross-border transactions for Vietnamese users. The account enables users to receive money from abroad through a streamlined process.
-
-- Source: [CafeF](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn)
-
 ## Related coverage
 
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
-- [Techcombank góp thêm 2.400 tỉ đồng vào Công ty bảo hiểm nhân thọ Techcom Life](https://cafef.vn/techcombank-gop-them-2400-ti-dong-vao-cong-ty-bao-hiem-nhan-tho-techcom-life-188260701102554496.chn) — CafeF
+- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 

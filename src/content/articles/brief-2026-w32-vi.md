@@ -4,7 +4,7 @@ description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, 
 publishedDate: "2026-08-07"
 lastUpdated: "2026-08-07"
 category: "Market Brief"
-readingTime: 16
+readingTime: 15
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 32/2026
@@ -13,7 +13,7 @@ readingTime: 16
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Thị trường chứng khoán Việt Nam tháng 7 ghi nhận sự giảm mạnh với chỉ số VN-Index mất hơn 124 điểm, chủ yếu do cổ phiếu ngân hàng suy giảm, mặc dù ngành này báo cáo lợi nhuận quý II/2026 đạt mốc cao nhất lịch sử với năm ngân hàng hàng đầu vượt 10 nghìn tỷ đồng mỗi quý. Về phía kinh tế vĩ mô, 7 tháng đầu năm cho thấy những tín hiệu tích cực với sản xuất công nghiệp tăng 11,4% và FDI đạt 38,06 tỷ USD, đồng thời nền kinh tế được định hướng thu hút vốn xanh quy mô lớn từ các định chế tài chính quốc tế. Hạ tầng thanh toán xuyên biên giới và qui định về ứng dụng trí tuệ nhân tạo trong ngân hàng cũng được triển khai để hỗ trợ quá trình hiện đại hóa hệ thống tài chính.
+Thị trường chứng khoán Việt Nam tháng 7 ghi nhận đợt giảm mạnh với VN-Index mất hơn 124 điểm (6,68%), trong đó cổ phiếu ngân hàng là nhân tố kéo lùi chính với vốn hóa giảm 7,84%. Bên cạnh đó, Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và doanh nghiệp cho các doanh nghiệp nhỏ và siêu nhỏ trong năm 2026-2027, nhằm hỗ trợ các chủ thể kinh tế. Trên lĩnh vực thanh toán, NAPAS, Weixin Pay và BIDV đã công bố mở rộng dịch vụ thanh toán QR xuyên biên giới với Trung Quốc, đánh dấu bước tiến trong kết nối thanh toán khu vực.
 
 ## Thanh toán
 
@@ -34,6 +34,13 @@ Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đ�
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
 
 ## Pháp lý
+
+**Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu dưới 10 tỷ đồng**  
+
+Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp cho năm 2026 và 2027 dành cho hộ kinh doanh, cá nhân kinh doanh và doanh nghiệp có doanh thu dưới 10 tỷ đồng. Biện pháp này nhằm hỗ trợ các doanh nghiệp siêu nhỏ và nhỏ trong giai đoạn này. Đề xuất này là một phần của những điều chỉnh chính sách thuế rộng lớn hơn cho các năm tài chính sắp tới.
+
+- Số liệu chính: Proposed tax reduction rate: 30% percent; Revenue threshold for eligibility: 10 billion VND; Applicable fiscal years: 2026, 2027 years
+- Nguồn: [CafeF](https://cafef.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-duoi-10-ty-dong-188260807160012158.chn)
 
 **EuroCham: Nghị quyết 10 tạo niềm tin để doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam**  
 
@@ -187,13 +194,6 @@ Việt Nam phấn đấu chi cho nghiên cứu khoa học là 2% GDP vào năm 2
 Chính phủ Việt Nam vừa phê duyệt một kế hoạch cải cách thị trường tài chính toàn diện nhằm đạt mục tiêu tăng trưởng cao và bền vững đến năm 2045, với trọng tâm là chuyển dịch cơ cấu nhà đầu tư từ cá nhân sang tổ chức, ưu tiên những nhà đầu tư có tiềm lực tài chính mạnh. Kế hoạch này nhằm khơi thông dòng vốn trung hạn và dài hạn trong hệ thống tài chính. Đây là phần của những nỗ lực hiện đại hóa cấu trúc thị trường tài chính của Việt Nam.
 
 - Nguồn: [CafeF](https://cafef.vn/khoi-thong-dong-von-trung-han-va-dai-han-188260803102840092.chn)
-
-**Mỹ can thiệp hỗ trợ đồng yen Nhật sau gần 30 năm 'vì tình hữu nghị'**  
-
-Bộ Tài chính Mỹ đã phối hợp với Nhật Bản can thiệp thị trường ngoại hối để hỗ trợ đồng yen, đây là lần đầu tiên hai nước cùng thực hiện hành động này sau gần ba thập kỷ kể từ năm 1998. Tổng thống Mỹ Donald Trump cho biết động thái này được thúc đẩy bởi mối quan hệ tốt giữa hai nước và sẽ mang lại lợi ích tài chính cho Mỹ. Cuộc can thiệp phản ánh những lo ngại rộng lớn hơn về ổn định tiền tệ và khoán hợp tác kinh tế giữa hai quốc gia.
-
-- Số liệu chính: Khoảng thời gian kể từ lần can thiệp trước: gần 30 năm năm; Năm can thiệp trước đó: 1998 năm
-- Nguồn: [TuoiTre](https://tuoitre.vn/my-can-thiep-ho-tro-dong-yen-nhat-sau-gan-30-nam-vi-tinh-huu-nghi-100260803120313501.htm)
 
 ---
 

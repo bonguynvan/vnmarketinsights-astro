@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **VIB** (13 mentions tracked). Summaries a
 
 ## Recent mentions
 
+**VIB One Card: Một chiếc thẻ cho mọi giai đoạn tài chính**  
+
+VIB launched the One Card, a credit card designed to evolve with customers' financial stages and automatically upgrade as customers' financial capacity improves. The card integrates multiple benefits on a single card and continues to develop with customers throughout their personal financial journey. VIB positions this as a new advancement in credit card experience following its "Leading Card Trends" positioning.
+
+- Source: [CafeF](https://cafef.vn/vib-one-card-mot-chiec-the-cho-moi-giai-doan-tai-chinh-188260807085217583.chn)
+
 **VIB ra mắt One Card, mở ra bước tiến mới về thẻ tín dụng**  
 
 VIB (Vietnam International Bank) has launched One Card, a new credit card product that integrates multiple card tiers, benefits, and privileges on a single card. The card is designed with a "ONE is ENOUGH" approach to serve customers' current spending needs while expanding value as their financial situation evolves. The product aims to adapt to customers' changing needs throughout their financial journey.
@@ -79,17 +85,11 @@ Eight Vietnamese banks are distributing cash dividends totaling more than 39,000
 
 - Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
-**VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay**  
-
-VIB Bank launched a "VIB Up" program offering lifetime interest rate reductions on home loans. The program targets homebuyers who typically focus on monthly installments but may overlook potential savings from even small basis point reductions in interest rates over 15-25 year loan periods. The article highlights that reducing interest rates by a few dozen basis points could result in savings of hundreds of millions of dong over the loan duration.
-
-- Source: [CafeF](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn)
-
 ## Related coverage
 
+- [VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn) — CafeF
 - [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
 - [Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn) — CafeF
-- [Lãi suất ngân hàng 13/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-13-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260713202249465.chn) — CafeF
 - [Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn) — CafeF
 
 ---

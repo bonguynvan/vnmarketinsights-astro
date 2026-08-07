@@ -13,6 +13,12 @@ Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5
 
 ## Recent mentions
 
+**Ngày 7/8: Tỷ giá trung tâm tăng 30 đồng**  
+
+On August 7, Vietnam's State Bank set the VND/USD central exchange rate at 25,463 dong, up 30 dong from August 6. The trading band was set at 24,190 to 26,736 VND/USD based on a ±5% fluctuation margin. The Foreign Exchange Management Department provided a reference rate range of 24,212 to 26,654 VND/USD for buying and selling.
+
+- Source: [CafeF](https://cafef.vn/ngay-7-8-ty-gia-trung-tam-tang-30-dong-188260807142110228.chn)
+
 **Lo ngại việc áp dụng tùy nghi "tỷ lệ an toàn khác" đối với ngân hàng**  
 
 Vietnamese parliament representatives expressed concerns about vague regulations allowing the State Bank of Vietnam to apply discretionary "alternative safety ratios" for banks in support of socioeconomic development goals. The representatives worry that overly general wording could lead to arbitrary enforcement when implementing amendments to banking and anti-money laundering laws.
@@ -79,18 +85,12 @@ The State Bank of Vietnam clarified regulations regarding money transfers exceed
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-len-tieng-viec-chuyen-tren-400-trieu-phai-cho-24-gio-188260723150543769.chn)
 
-**Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới**  
-
-Vietnam is amending the 2010 State Bank Law to enhance the central bank's role in managing monetary policy and macroeconomic stability. The amendments address requirements for two-digit economic growth and changing management models through adjustments to financial capacity, organizational structure, and operational instruments. These modifications are designed to provide the State Bank with greater flexibility and institutional foundation to support long-term economic development.
-
-- Source: [CafeF](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn)
-
 ## Related coverage
 
+- [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
 - [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
 - [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
 - [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
-- [Chính phủ yêu cầu NHNN nghiên cứu tăng nguồn thanh khoản cho hệ thống ngân hàng từ tiền gửi Kho bạc Nhà nước](https://cafef.vn/chinh-phu-yeu-cau-nhnn-nghien-cuu-tang-nguon-thanh-khoan-cho-he-thong-ngan-hang-tu-tien-gui-kho-bac-nha-nuoc-188260628192926729.chn) — CafeF
 
 ---
 
