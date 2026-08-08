@@ -386,7 +386,7 @@ const allSchemas = [
           ? ctx.submitLead({ email: email, source: 'footer', context: { reason: 'footer_signup' } })
           : Promise.reject(new Error('unavailable'));
         req.then(function () {
-          if (status) { status.textContent = 'Thanks for subscribing! Check your inbox for the kit.'; status.classList.add('is-success'); }
+          if (status) { status.innerHTML = 'Thanks for subscribing! <a href="/downloads/sell-into-vietnam-operator-kit.html" target="_blank" rel="noopener">Download your Operator Kit &rarr;</a>'; status.classList.add('is-success'); }
           input.value = '';
           if (typeof window.vmiTrack === 'function') {
             window.vmiTrack('footer_signup_submit', { event_category: 'acquisition', event_label: 'footer', email_domain: email.split('@')[1] || '' });
@@ -835,7 +835,7 @@ const allSchemas = [
               email_domain: email.split('@')[1] || ''
             });
             if (growthModalStatus) {
-              growthModalStatus.textContent = 'Thanks for subscribing!';
+              growthModalStatus.innerHTML = 'Thanks for subscribing! <a href="/downloads/sell-into-vietnam-operator-kit.html" target="_blank" rel="noopener">Download your Operator Kit &rarr;</a>';
               growthModalStatus.classList.add('is-success');
             }
             window.vmiGrowthContext?.setMilestone?.('lead_pending_confirmation', true);

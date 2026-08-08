@@ -163,7 +163,7 @@ import WeekInMarkets from '@components/WeekInMarkets.astro';
           ? ctx.submitLead({ email: email, source: 'homepage_hero', context: { reason: 'hero_signup' } })
           : Promise.reject(new Error('unavailable'));
         req.then(function () {
-          if (status) { status.textContent = 'Thanks for subscribing! Check your inbox for the kit.'; status.classList.add('is-success'); }
+          if (status) { status.innerHTML = 'Thanks for subscribing! <a href="/downloads/sell-into-vietnam-operator-kit.html" target="_blank" rel="noopener">Download your Operator Kit &rarr;</a>'; status.classList.add('is-success'); }
           input.value = '';
           if (typeof window.vmiTrack === 'function') {
             window.vmiTrack('hero_signup_submit', { event_category: 'acquisition', event_label: 'home_hero', email_domain: email.split('@')[1] || '' });
