@@ -1,17 +1,23 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Quỹ Thiện Tâm: Gần 20 năm gieo cơ hội, để mạch ngầm nhân ái mãi sinh sôi**  
+
+Vingroup's Thiện Tâm Fund has operated for nearly 20 years, channeling resources back to communities through healthcare, education, livelihood, disaster relief, and support for vulnerable populations. The fund operates quietly without public promotion, directing its programs to underserved areas across the country. This represents Vingroup's long-term social responsibility commitment alongside its major business projects.
+
+- Source: [TuoiTre](https://tuoitre.vn/quy-thien-tam-gan-20-nam-gieo-co-hoi-de-mach-ngam-nhan-ai-mai-sinh-soi-100260807090719068.htm)
 
 **Choáng ngợp tháp đôi kỷ lục thế giới cao 99 tầng, vốn hàng tỷ USD: Công ty con của Vingroup tham gia đề xuất**  
 
@@ -79,17 +85,11 @@ Circular 25 policy may enable the banking system to inject approximately 1 milli
 
 - Source: [CafeF](https://cafef.vn/chuyen-gia-thong-tu-25-co-the-giup-he-thong-ngan-hang-bom-them-1-trieu-ty-dong-von-trung-va-dai-han-linh-vuc-bat-dong-san-huong-loi-188260624024703421.chn)
 
-**Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?**  
-
-The State Bank of Vietnam has permitted commercial banks to exclude new debt from 18 projects developed by Vingroup, Sun Group, and Masterise when calculating annual credit growth limits. The projects span infrastructure sectors including aviation, high-speed rail, and APEC-related facilities, with total funding requirements exceeding 752,000 billion dong.
-
-- Source: [CafeF](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn)
-
 ## Related coverage
 
 - [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Giới hạn quan trọng bậc nhất ngành ngân hàng sẽ được nới từ tuần tới: Dư địa cho vay bất động sản, hạ tầng, sản xuất kinh doanh có thể mở rộng cả triệu tỷ đồng](https://cafef.vn/gioi-han-quan-trong-bac-nhat-nganh-ngan-hang-se-duoc-noi-tu-tuan-toi-du-dia-cho-vay-bat-dong-san-ha-tang-san-xuat-kinh-doanh-co-the-mo-rong-ca-trieu-ty-dong-188260628101830706.chn) — CafeF
+- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 
 ---

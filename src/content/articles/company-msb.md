@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **MSB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSB được Vietnam Report vinh danh tại hai bảng xếp hạng uy tín năm 2026**  
+
+Maritime Bank (MSB) was recognized by Vietnam Report on August 6 in two prestigious 2026 rankings: Top 10 Trusted Private Commercial Banks and Top 50 Trusted & Efficient Public Companies. Vietnam Report is an independent business research and evaluation firm in Vietnam. The rankings are constructed based on Vietnam Report's methodology.
+
+- Source: [CafeF](https://cafef.vn/msb-duoc-vietnam-report-vinh-danh-tai-hai-bang-xep-hang-uy-tin-nam-2026-188260808164925627.chn)
 
 **MSB tổ chức giải golf kỷ niệm 35 năm thành lập**  
 

@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng thu 'đống tiền' từ trái phiếu**  
+
+Several Vietnamese banks have successfully mobilized significant capital through corporate bond issuances. Sacombank raised 3,650 billion VND, HDBank plans to issue 100 million bonds to raise 10,000 billion VND, LPBank attracted 10,100 billion VND, Techcombank mobilized 9,000 billion VND, and VPBank collected 4,000 billion VND through bond offerings. Banks are engaged in an implicit competition on savings interest rates, with some large banks posting rates of 6% but actually paying up to 9% per annum.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-thu-dong-tien-tu-trai-phieu-188260807152352753.chn)
 
 **Nợ xấu của ngân hàng Agribank hiện nay**  
 
@@ -79,18 +85,12 @@ Vietnamese banking regulators warn users that certain account activities can res
 
 - Source: [CafeF](https://cafef.vn/phong-toa-tai-khoan-ngan-hang-phat-tien-neu-nguoi-dung-nhan-va-chuyen-tien-voi-muc-dich-sau-188260724161810952.chn)
 
-**Dấu ấn Techcombank – Nhà tài trợ Quốc gia bản quyền phát sóng kỳ FIFA World Cup 2026 lịch sử**  
-
-Techcombank served as the national sponsor for broadcasting rights to the 2026 FIFA World Cup. The bank partnered with Vietnam Television (VTV) to ensure Vietnamese audiences could watch all 104 matches for free. Techcombank and its ecosystem created engagement activities, promotional programs, and exclusive benefits for football fans.
-
-- Source: [CafeF](https://cafef.vn/dau-an-techcombank-nha-tai-tro-quoc-gia-ban-quyen-phat-song-ky-fifa-world-cup-2026-lich-su-188260725114116989.chn)
-
 ## Related coverage
 
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
-- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 32/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 32 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Market Brief"
-readingTime: 15
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 32/2026
@@ -13,7 +13,7 @@ readingTime: 15
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Thị trường chứng khoán Việt Nam tháng 7 ghi nhận đợt giảm mạnh với VN-Index mất hơn 124 điểm (6,68%), trong đó cổ phiếu ngân hàng là nhân tố kéo lùi chính với vốn hóa giảm 7,84%. Bên cạnh đó, Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và doanh nghiệp cho các doanh nghiệp nhỏ và siêu nhỏ trong năm 2026-2027, nhằm hỗ trợ các chủ thể kinh tế. Trên lĩnh vực thanh toán, NAPAS, Weixin Pay và BIDV đã công bố mở rộng dịch vụ thanh toán QR xuyên biên giới với Trung Quốc, đánh dấu bước tiến trong kết nối thanh toán khu vực.
+Thị trường chứng khoán Việt Nam tháng 7 ghi nhận sự suy giảm mạnh với VN-Index giảm hơn 124 điểm (6,68%), chủ yếu do cổ phiếu ngân hàng kéo lùi, làm mất vốn hóa hơn 220 nghìn tỉ đồng. Trên thị trường vàng, giá đã tăng vọt hơn 300 USD/ounce trong tuần, đạt mức 4.341 USD/ounce vào ngày 8/8 trên nền dữ liệu việc làm Mỹ yếu hơn kỳ vọng. Các ngân hàng Việt Nam tiếp tục nâng lãi suất huy động ở nhiều kỳ hạn, với lãi suất ngắn hạn áp sát 4,75%/năm nhằm cân bằng giữa huy động vốn và tăng trưởng tín dụng.
 
 ## Thanh toán
 
@@ -34,6 +34,13 @@ Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đ�
 - Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
 
 ## Pháp lý
+
+**Chính phủ đề xuất giảm 30% thuế thu nhập cho hộ kinh doanh, doanh nghiệp có doanh thu đến 10 tỷ đồng**  
+
+Chính phủ đang chuẩn bị trình Quốc hội xem xét giảm 30% thuế thu nhập cho hộ, cá nhân kinh doanh và doanh nghiệp có doanh thu đến 10 tỷ đồng trong năm 2026-2027. Biện pháp này nhằm hỗ trợ các doanh nghiệp nhỏ và vừa trong giai đoạn này. Đề xuất vẫn đang trong quá trình chuẩn bị của chính phủ và chờ phê duyệt của quốc hội.
+
+- Số liệu chính: Proposed income tax reduction percentage: 30%; Revenue threshold for eligible businesses: 10 billion VND VND; Implementation period: 2026-2027
+- Nguồn: [CafeF](https://cafef.vn/chinh-phu-de-xuat-giam-30-thue-thu-nhap-cho-ho-kinh-doanh-doanh-nghiep-co-doanh-thu-den-10-ty-dong-188260808132639766.chn)
 
 **Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu dưới 10 tỷ đồng**  
 
@@ -91,6 +98,13 @@ Thị trường chứng khoán Việt Nam tháng 7 chứng kiến những phiên
 - Số liệu chính: VN-Index decline (July): 124 points points; VN-Index percentage decline (July): 6.68 %; Number of listed banks: 27 banks; Banking sector market cap (June 30): 2,829 trillion dong
 - Nguồn: [TuoiTre](https://tuoitre.vn/thang-7-bi-dat-cua-cac-ngan-hang-viet-von-hoa-boc-hoi-hon-220000-ti-dong-xoa-sach-thanh-qua-tu-dau-nam-10026080311275086.htm)
 
+**EVN có lãi trong 6 tháng đầu năm, xóa sạch lỗ lũy kế từ năm 2022**  
+
+Tập đoàn Điện lực Việt Nam (EVN) báo cáo có lãi trong nửa đầu năm 2026 và xóa sạch lỗ lũy kế từ năm 2022. Tập đoàn duy trì cấp điện an toàn, ổn định cho cả nước đồng thời hỗ trợ phát triển kinh tế xã hội. Tổng sản lượng điện sản xuất và nhập khẩu trong nửa đầu năm đạt 171,54 tỉ kWh, tăng 9,8%.
+
+- Số liệu chính: Total electricity production and imports (first half of 2026): 171.54 billion kWh; Increase in electricity production and imports: 9.8 %
+- Nguồn: [TuoiTre](https://tuoitre.vn/evn-co-lai-trong-6-thang-dau-nam-xoa-sach-lo-luy-ke-tu-nam-2022-100260808072813687.htm)
+
 **Tỷ lệ nợ xấu xuống mức thấp nhất trong nhiều năm, VPBank được nhiều CTCK đánh giá tích cực**  
 
 Chất lượng tài sản của VPBank cải thiện đáng kể trong nửa đầu năm 2026, với tỷ lệ nợ xấu và nợ nhóm 2 xuống mức thấp nhất nhiều năm. Ngân hàng quy điều này cho chiến lược đầu tư dài hạn vào quản trị rủi ro, dữ liệu và công nghệ. Nhiều công ty chứng khoán đã đưa ra đánh giá tích cực về VPBank dựa trên những diễn biến này.
@@ -104,27 +118,28 @@ Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VP
 - Số liệu chính: Quarterly profit threshold reached by five banks: 10,000 billion VND; Quarter: Q2 2026
 - Nguồn: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
 
-**Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử**  
-
-Trong quý II/2026, VietBank, NCB và BVBank dẫn đầu về tốc độ tăng trưởng lợi nhuận so với quý trước. Vietcombank tiếp tục tạo khoảng cách với phần còn lại của hệ thống khi đạt mức lãi cao nhất lịch sử ngành ngân hàng. Bài viết cung cấp toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026.
-
-- Nguồn: [CafeF](https://cafef.vn/nhung-ngan-hang-dang-tang-truong-loi-nhuan-nhanh-nhat-nhieu-nha-bang-tang-theo-cap-so-nhan-xuat-hien-muc-lai-cao-nhat-lich-su-188260803100614839.chn)
-
-**Cổ phiếu ngân hàng đồng loạt tăng mạnh, một mã gần tím trần**  
-
-Cổ phiếu ngân hàng tăng mạnh kể từ cuối tuần trước đến ngày 3/8 sau khi công bố kết quả kinh doanh quý 2/2026 và những thay đổi trong cách tính LDR. Chỉ số VNINDEX tăng 27,06 điểm lên 1.762,84 điểm (tăng 1,56%), trong khi VN30 tăng 45,62 điểm lên 1.917,69 điểm (tăng 2,44%). Nhóm cổ phiếu ngân hàng có 22/27 mã tăng giá, với MBB là mã tăng mạnh nhất.
-
-- Số liệu chính: VN-Index increase: 27.06 points; VN-Index closing level: 1762.84 points; VN-Index percentage gain: 1.56 %; VN30 increase: 45.62 points
-- Nguồn: [CafeF](https://cafef.vn/co-phieu-ngan-hang-dong-loat-tang-manh-mot-ma-gan-tim-tran-188260803153255063.chn)
-
-**FPT “tái sinh”**  
-
-Cổ phiếu FPT tăng hơn 15% sau 5 phiên có dòng tiền ngoại trở lại. Giá cổ phiếu tăng kịch trần lên mức 71.700 đồng/cp, cao nhất trong khoảng 1 tháng, hiện tượng hiếm thấy với tình trạng "trắng bên bán" và dư mua giá trần. Khối ngoại bất ngờ tăng mạnh mua ròng FPT với giá trị hơn 500 tỷ đồng trong giai đoạn này.
-
-- Số liệu chính: Stock price increase: over 15% %; Stock price level: 71,700 VND/share; Foreign net purchase value: over 500 billion VND
-- Nguồn: [CafeF](https://cafef.vn/fpt-tai-sinh-188260803144752644.chn)
-
 ## Kinh tế vĩ mô
+
+**Giá vàng tăng vọt, nhà đầu tư vui mừng trở lại**  
+
+Giá vàng tăng vọt hơn 100 USD/ounce vào sáng ngày 8/8, đạt mức 4.341 USD/ounce giao ngay, cao nhất trong 2 tháng gần đây. Mức tăng trong tuần lên khoảng 300 USD/ounce. Vàng và bạc tăng mạnh sau khi thị trường chứng khoán Bắc Mỹ đóng cửa phiên thứ Sáu, trên nền dữ liệu việc làm tháng 7 yếu hơn dự kiến khiến lợi suất trái phiếu kho bạc M giảm.
+
+- Số liệu chính: Gold price increase in early trading: 100 USD/ounce; Spot gold price: 4341 USD/ounce; Weekly gold price increase: 300 USD/ounce; Highest level in: 2 months
+- Nguồn: [CafeF](https://cafef.vn/gia-vang-tang-vot-nha-dau-tu-vui-mung-tro-lai-188260808072139274.chn)
+
+**Lãi suất huy động leo thang, ngân hàng chịu sức ép kép**  
+
+Lãi suất huy động tiếp tục tăng ở nhiều kỳ hạn tại các ngân hàng Việt Nam, với lãi suất ngắn hạn áp sát mức 4,75%/năm. Các ngân hàng tăng lãi suất và tung các ưu đãi ở kỳ hạn dài để đưa lãi suất thực nhận lên trên 9%/năm. Xu hướng này dự kiến sẽ tiếp tục khi tín dụng tăng nhanh hơn huy động vốn.
+
+- Số liệu chính: Short-term deposit rate ceiling: 4.75 %/annum; Actual received rates at longer terms: above 9 %/annum
+- Nguồn: [CafeF](https://cafef.vn/lai-suat-huy-dong-leo-thang-ngan-hang-chiu-suc-ep-kep-188260808161052601.chn)
+
+**Thương mại với Việt Nam tăng hơn 4 lần chỉ trong một năm, một quốc gia muốn làm 'cửa ngõ' cho doanh nghiệp Việt bước vào thị trường 1,4 tỷ người tiêu dùng**  
+
+Thương mại hai chiều Việt Nam-Uganda tăng từ 22,1 triệu USD năm 2024 lên khoảng 95,47 triệu USD năm 2025, tăng hơn 4 lần chỉ trong một năm. Uganda đang tích cực tìm kiếm các doanh nghiệp Việt Nam trong các lĩnh vực chế biến nông sản, công nghiệp, năng lượng, khai khoáng và công nghệ. Uganda muốn trở thành cửa ngõ để hàng Việt tiếp cận các thị trường châu Phi.
+
+- Số liệu chính: Vietnam-Uganda bilateral trade 2024: 22.1 million USD; Vietnam-Uganda bilateral trade 2025: 95.47 million USD; Year-over-year trade growth: 4+ times
+- Nguồn: [CafeF](https://cafef.vn/thuong-mai-voi-viet-nam-tang-hon-4-lan-chi-trong-mot-nam-mot-quoc-gia-muon-lam-cua-ngo-cho-doanh-nghiep-viet-buoc-vao-thi-truong-14-ty-nguoi-tieu-dung-188260808153509085.chn)
 
 **Thu hút 700 tỷ USD cho mục tiêu Net Zero: Ngân hàng giữ vai trò kênh dẫn vốn chủ lực**  
 
@@ -181,19 +196,6 @@ Xuất khẩu của Việt Nam đạt 319,53 tỷ USD trong 7 tháng đầu năm
 
 - Số liệu chính: Total exports value: 319.53 billion USD; Year-on-year export growth: 21.7 %; Number of commodities exceeding $10 billion: 7 commodities; Number of commodities exceeding $1 billion: 31 commodities
 - Nguồn: [CafeF](https://cafef.vn/7-ngoi-sao-sang-nhat-thi-truong-xuat-khau-viet-nam-sau-7-thang-dau-nam-188260804081013008.chn)
-
-**Hàn Quốc mất 40 năm, Trung Quốc mất 30 năm nhưng Việt Nam chỉ có 5 năm để làm   điều này**  
-
-Việt Nam phấn đấu chi cho nghiên cứu khoa học là 2% GDP vào năm 2030. Năm 2025, vốn đầu tư tư nhân vào hệ sinh thái công nghệ và đổi mới sáng tạo phục hồi mạnh mẽ, đạt khoảng 4,5 tỷ USD qua 149 thương vụ. Trong đó, vốn đầu tư cổ phần tư nhân đạt mức cao kỷ lục khoảng 4 tỷ USD, còn vốn đầu tư mạo hiểm tăng khoảng 28%.
-
-- Số liệu chính: Target R&D spending as % of GDP by 2030: 2%; Total private investment in technology ecosystem 2025: 4.5 billion USD; Number of transactions: 149; Private equity investment 2025: 4 billion USD
-- Nguồn: [CafeF](https://cafef.vn/han-quoc-mat-40-nam-trung-quoc-mat-30-nam-nhung-viet-nam-chi-co-5-nam-de-lam-dieu-nay-188260804143707243.chn)
-
-**Khơi thông dòng vốn trung hạn và dài hạn**  
-
-Chính phủ Việt Nam vừa phê duyệt một kế hoạch cải cách thị trường tài chính toàn diện nhằm đạt mục tiêu tăng trưởng cao và bền vững đến năm 2045, với trọng tâm là chuyển dịch cơ cấu nhà đầu tư từ cá nhân sang tổ chức, ưu tiên những nhà đầu tư có tiềm lực tài chính mạnh. Kế hoạch này nhằm khơi thông dòng vốn trung hạn và dài hạn trong hệ thống tài chính. Đây là phần của những nỗ lực hiện đại hóa cấu trúc thị trường tài chính của Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/khoi-thong-dong-von-trung-han-va-dai-han-188260803102840092.chn)
 
 ---
 

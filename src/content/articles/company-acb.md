@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (35 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
+
+A survey of online deposit interest rates across 35 banks on August 8 shows ACB leading the market at 7.8% per annum for a 12-month term. The Big4 banking group maintains rates at 6.8% per annum. The survey tracks deposit rates offered by major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn)
 
 **Nợ xấu của ngân hàng Agribank hiện nay**  
 
@@ -78,12 +84,6 @@ A survey of deposit interest rates at 34 banks on August 2 shows the rate enviro
 A survey of deposit rates across 34 banks on July 31 shows ACB leading the market with 7.8% per annum for 12-month terms, while the Big4 banks maintain 6.8% per annum. The data provides a snapshot of prevailing interest rate offerings in the Vietnamese banking system on that date.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn)
-
-**Thống đốc NHNN Phạm Đức Ấn trao quyết định bổ nhiệm nhân sự cấp cao Agribank**  
-
-The State Bank of Vietnam Governor Phạm Đức Ấn announced personnel decisions for Agribank's senior leadership at a conference held on July 31, 2026, in Hanoi. The Governor emphasized that strengthening Agribank's leadership team is important in the current context of the banking industry. The State Bank of Vietnam made appointments to key positions at the agricultural bank.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-trao-quyet-dinh-bo-nhiem-nhan-su-cap-cao-agribank-188260731221545804.chn)
 
 ## Related coverage
 

@@ -1,8 +1,8 @@
 ---
 title: "Tập đoàn Điện lực Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Điện lực Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
@@ -33,10 +33,10 @@ Vietnam successfully installed 3,400 steel poles weighing 60,000 tonnes as part 
 
 ## Related coverage
 
+- [Dồn lực, quyết tâm đóng điện 14 dự án khu vực phía nam trong 5 tháng cuối năm](https://cafef.vn/don-luc-quyet-tam-dong-dien-14-du-an-khu-vuc-phia-nam-trong-5-thang-cuoi-nam-188260808090206965.chn) — CafeF
 - [Ngành điện Việt Nam sắp có "Đại lộ Ánh sáng" 5.000 tỷ đồng: Vị trí xây dựng khiến nhiều người bất ngờ](https://cafef.vn/nganh-dien-viet-nam-sap-co-dai-lo-anh-sang-5000-ty-dong-vi-tri-xay-dung-khien-nhieu-nguoi-bat-ngo-188260706154241803.chn) — CafeF
 - [Hoàn thiện hệ thống pháp quy hạt nhân, sẵn sàng cho chương trình điện hạt nhân quốc gia](https://cafef.vn/hoan-thien-he-thong-phap-quy-hat-nhan-san-sang-cho-chuong-trinh-dien-hat-nhan-quoc-gia-188260730132939533.chn) — CafeF
-- [Tiêu dùng điện liên tục phá kỷ lục, Bộ Công Thương nói về năng lực dự phòng của hệ thống](https://tuoitre.vn/tieu-dung-dien-lien-tuc-pha-ky-luc-bo-cong-thuong-noi-ve-nang-luc-du-phong-cua-he-thong-100260704113110375.htm) — TuoiTre
-- [Cà Mau chấp thuận chủ trương đầu tư dự án đường dây 500 kV LNG Bạc Liêu – Thốt Nốt](https://cafef.vn/ca-mau-chap-thuan-chu-truong-dau-tu-du-an-duong-day-500-kv-lng-bac-lieu-thot-not-188260723133244856.chn) — CafeF
+- [EVN có lãi trong 6 tháng đầu năm, xóa sạch lỗ lũy kế từ năm 2022](https://tuoitre.vn/evn-co-lai-trong-6-thang-dau-nam-xoa-sach-lo-luy-ke-tu-nam-2022-100260808072813687.htm) — TuoiTre
 
 ---
 

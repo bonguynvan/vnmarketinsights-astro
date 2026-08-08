@@ -1,17 +1,23 @@
 ---
 title: "Kitco News — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Kitco News, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
 
 # Kitco News
 
-Recent Vietnam market news mentioning **Kitco News** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Kitco News** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng tăng vọt, nhà đầu tư vui mừng trở lại**  
+
+Gold prices surged over 100 USD per ounce in early trading on August 8, reaching spot prices of 4,341 USD/ounce, the highest level in two months. The weekly gain reached approximately 300 USD/ounce. Gold and silver rallied after North American stock markets closed on Friday, following weaker-than-expected July employment data that pulled down US Treasury bond yields.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-tang-vot-nha-dau-tu-vui-mung-tro-lai-188260808072139274.chn)
 
 **Tối 8/7, giá vàng thế giới quay đầu rớt mạnh**  
 
@@ -33,9 +39,9 @@ Gold prices declined sharply on the morning of June 19, falling below the $4,200
 
 ## Related coverage
 
+- [Giá vàng hôm nay 30/6: Giảm mạnh, sắp thủng mốc 4.000 USD/ounce](https://cafef.vn/gia-vang-hom-nay-30-6-giam-manh-sap-thung-moc-4000-usd-ounce-188260625102744943.chn) — CafeF
 - [Giá vàng thế giới lùi về sát mốc 4.000 USD/oz, kỳ vọng lãi suất cao lấn át nhu cầu trú ẩn](https://cafef.vn/gia-vang-the-gioi-lui-ve-sat-moc-4000-usd-oz-ky-vong-lai-suat-cao-lan-at-nhu-cau-tru-an-188260630164745379.chn) — CafeF
 - [Giá vàng lao dốc tối 24/6, mất mốc quan trọng 4.000 USD/ounce](https://cafef.vn/gia-vang-lao-doc-toi-24-6-mat-moc-quan-trong-4000-usd-ounce-188260624201321679.chn) — CafeF
-- [Giá vàng hôm nay 30/6: Giảm mạnh, sắp thủng mốc 4.000 USD/ounce](https://cafef.vn/gia-vang-hom-nay-30-6-giam-manh-sap-thung-moc-4000-usd-ounce-188260625102744943.chn) — CafeF
 - [Giá vàng thế giới giảm mạnh, nhà đầu tư chờ dữ liệu lạm phát Mỹ](https://cafef.vn/gia-vang-the-gioi-giam-manh-nha-dau-tu-cho-du-lieu-lam-phat-my-188260624083459089.chn) — CafeF
 
 ---

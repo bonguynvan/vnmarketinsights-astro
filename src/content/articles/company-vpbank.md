@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-08-07"
-lastUpdated: "2026-08-07"
+publishedDate: "2026-08-08"
+lastUpdated: "2026-08-08"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (43 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng thu 'đống tiền' từ trái phiếu**  
+
+Several Vietnamese banks have successfully mobilized significant capital through corporate bond issuances. Sacombank raised 3,650 billion VND, HDBank plans to issue 100 million bonds to raise 10,000 billion VND, LPBank attracted 10,100 billion VND, Techcombank mobilized 9,000 billion VND, and VPBank collected 4,000 billion VND through bond offerings. Banks are engaged in an implicit competition on savings interest rates, with some large banks posting rates of 6% but actually paying up to 9% per annum.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-thu-dong-tien-tu-trai-phieu-188260807152352753.chn)
 
 **VPBank và hành trình kiến tạo mô hình chạy bộ đa trải nghiệm tại Việt Nam**  
 
@@ -78,12 +84,6 @@ As of July 21, ten banks announced their first-half 2026 earnings results. VPBan
 VPBank reported strong deposit growth in the first half of 2026, with total customer deposits reaching 732.887 trillion VND as of June 30, 2026. This represents an increase of approximately 105 trillion VND, or 16.7% compared to the beginning of the year, which is significantly above the industry average. Deposits from business households and individuals constitute the majority of the bank's deposit base.
 
 - Source: [CafeF](https://cafef.vn/mot-ngan-hang-hut-manh-tien-gui-cua-ho-kinh-doanh-nguoi-dan-188260720141610219.chn)
-
-**Family Banking giúp VPBank Diamond tạo khác biệt tại Global Banking & Finance Awards**  
-
-VPBank Diamond has been nominated in the "Best Family Wealth Management Product" category at the Global Banking & Finance Awards 2026. This marks the third consecutive year that VPBank has received recognition at this international awards ceremony. The Family Banking service is noted as an important segment within VPBank's differentiated financial ecosystem.
-
-- Source: [CafeF](https://cafef.vn/family-banking-giup-vpbank-diamond-tao-khac-biet-tai-global-banking-finance-awards-188260720154235643.chn)
 
 ## Related coverage
 
