@@ -10,6 +10,7 @@ VN Market Insights (https://vnmarketinsights.com) is an English-language, refere
 - [Channel selector](https://vnmarketinsights.com/tools/channel-selector/): compare net per-order payout across Shopee, TikTok Shop, and Lazada after commission, ad spend, and Decree 117 tax withholding.
 
 ## First-party datasets
+- [Vietnam regulation tracker for foreign sellers](https://vnmarketinsights.com/data/vietnam-regulation-tracker/): maintained, dated tracker of laws/decrees changing the cost or legality of selling into Vietnam — de-minimis removed (Decision 01/2025/QĐ-TTg, 18 Feb 2025), platform tax withholding (Decree 117/2025/NĐ-CP, 1 Jul 2025), new E-Commerce Law (Law 122/2025/QH15, 1 Jul 2026), Personal Data Protection Law (Law 91/2025/QH15, 1 Jan 2026). Each entry cites the official instrument.
 - [Vietnam e-commerce platform market shares 2025](https://vnmarketinsights.com/data/vietnam-ecommerce-platform-shares/): Shopee ~56%, TikTok Shop ~41% (up from ~29% in 2024), Lazada+Tiki ~3%; four-platform GMV ~VND 429.7T (~US$16.4B), +34.75% YoY.
 
 ## Operator playbooks
