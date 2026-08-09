@@ -1,17 +1,29 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank phát cảnh báo tới các khách hàng doanh nghiệp**  
+
+LPBank has issued a warning to corporate customers about individuals and organizations falsely claiming to have internal relationships with the bank in order to solicit credit brokerage services. These fraudsters guarantee loan approvals and sometimes request upfront fees or sensitive information such as login credentials, OTP codes, and digital signatures.
+
+- Source: [CafeF](https://cafef.vn/lpbank-phat-canh-bao-toi-cac-khach-hang-doanh-nghiep-188260809101936207.chn)
+
+**Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Vietnamese bank deposit interest rates on August 9, 2026 remained stable across major institutions. ACB maintained the highest online deposit rate at 7.8% per annum for 12-month terms, followed by LPBank at 7.3%, with eight other banks offering 7% or higher. MB offered rates up to 8% for deposits from 1 million dong.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn)
 
 **Ngân hàng thu 'đống tiền' từ trái phiếu**  
 
@@ -73,23 +85,11 @@ LPBank has disclosed its latest shareholder list for stakeholders owning over 1%
 
 - Source: [CafeF](https://cafef.vn/ba-pham-thu-huong-mua-hon-148-trieu-co-phieu-lpb-cung-ong-pham-nhat-vuong-nam-gan-10-von-lpbank-18826072708524071.chn)
 
-**Sáng 27/7, cổ phiếu LPBank tăng vọt sau khi danh sách cổ đông mới được công bố**  
-
-LPBank stock surged sharply on July 27 following the announcement of a new shareholder list. The bank disclosed that Phạm Thu Hương holds over 148 million shares. Two individuals are reported to own nearly 10% of the bank's capital.
-
-- Source: [CafeF](https://cafef.vn/sang-27-7-co-phieu-lpbank-tang-vot-sau-khi-danh-sach-co-dong-moi-duoc-cong-bo-188260727101945538.chn)
-
-**LPBank thông báo dừng chương trình tặng tiền cho khách hàng**  
-
-LPBank announced the early termination of a customer rewards program that was originally scheduled to run until September 30, 2026. The bank halted the "Invite Friends - Enjoy Rewards" promotional campaign due to exhaustion of the allocated budget. The decision to end the program prematurely was made after the incentive budget was fully utilized.
-
-- Source: [CafeF](https://cafef.vn/lpbank-thong-bao-dung-chuong-trinh-tang-tien-cho-khach-hang-188260724110049219.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
-- [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn) — CafeF
+- [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 
 ---

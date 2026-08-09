@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 32/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 32 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Market Brief"
 readingTime: 16
 ---
@@ -11,9 +11,9 @@ readingTime: 16
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng Quan Thị Trường Tuần Này
 
-Thị trường chứng khoán Việt Nam tháng 7 ghi nhận sự suy giảm mạnh với VN-Index giảm hơn 124 điểm (6,68%), chủ yếu do cổ phiếu ngân hàng kéo lùi, làm mất vốn hóa hơn 220 nghìn tỉ đồng. Trên thị trường vàng, giá đã tăng vọt hơn 300 USD/ounce trong tuần, đạt mức 4.341 USD/ounce vào ngày 8/8 trên nền dữ liệu việc làm Mỹ yếu hơn kỳ vọng. Các ngân hàng Việt Nam tiếp tục nâng lãi suất huy động ở nhiều kỳ hạn, với lãi suất ngắn hạn áp sát 4,75%/năm nhằm cân bằng giữa huy động vốn và tăng trưởng tín dụng.
+Thị trường chứng khoán Việt Nam tháng 7 ghi nhận đợt giảm mạnh với chỉ số VN-Index mất hơn 124 điểm (6,68%), trong đó cổ phiếu ngân hàng là nhân tố chính kéo lùi, khiến vốn hóa toàn thị trường giảm hơn 220 nghìn tỷ đồng. Trên thị trường vàng, giá tăng vọt hơn 300 USD/ounce trong tuần, đạt 4.341 USD/ounce giao ngay, cao nhất trong 2 tháng gần đây, trong bối cảnh lãi suất huy động tại các ngân hàng Việt Nam tiếp tục tăng ở nhiều kỳ hạn. Bên cạnh đó, Chính phủ đề xuất giảm 30% thuế thu nhập cho doanh nghiệp nhỏ và vừa trong năm 2026-2027, cùng với sự mở rộng kết nối thanh toán QR xuyên biên giới với Trung Quốc nhằm thúc đẩy liên kết kinh tế khu vực.
 
 ## Thanh toán
 
@@ -24,16 +24,13 @@ Ngày 06/8/2026, NAPAS, Weixin Pay và BIDV phối hợp công bố mở rộng 
 - Số liệu chính: Target market population: over 1.4 billion people
 - Nguồn: [CafeF](https://cafef.vn/moc-quan-trong-06-8-2026-cung-voi-bidv-va-weixin-pay-napas-da-hoan-thien-ket-noi-thanh-toan-xuyen-bien-gioi-voi-thi-truong-hon-14-ty-dan-188260806151736178.chn)
 
-## Người tiêu dùng
-
-**Việt Nam vừa lập một kỷ lục mới, Trung Quốc, Mỹ, Campuchia có đóng góp lớn, riêng Nga ghi nhận tăng 174%**  
-
-Việt Nam vừa lập một kỷ lục mới trong du lịch, với những đóng góp lớn từ Trung Quốc, Mỹ và Campuchia, riêng Nga ghi nhận tăng 174%. Ngành du lịch đã thu được hơn 580.000 tỷ đồng cho Việt Nam. Việt Nam đón gần 14 triệu lượt khách quốc tế.
-
-- Số liệu chính: Tourism revenue: over 580,000 billion VND billion VND; International tourist arrivals: nearly 14 million visitors; Russian tourist growth: 174% percent increase
-- Nguồn: [CafeF](https://cafef.vn/viet-nam-vua-lap-mot-ky-luc-moi-trung-quoc-my-campuchia-co-dong-gop-lon-riengnga-ghi-nhan-tang-174-188260804133500878.chn)
-
 ## Pháp lý
+
+**Đề nghị truy tố 56 bị can trong đường dây tội phạm núp bóng mua bán nợ**  
+
+Cơ quan điều tra Công an TPHCM đã hoàn tất kết luận điều tra và đề nghị truy tố 56 bị can trong đường dây tội phạm mua bán nợ. Các bị can bị truy tố về tội cưỡng đoạt tài sản, lừa đảo chiếm đoạt tài sản, cho vay lãi nặng và đưa hối lộ. Hai công ty Mua bán nợ Lê Phong Gia Lai và Mua bán nợ Nhất Tín liên quan đến vụ án này.
+
+- Nguồn: [CafeF](https://cafef.vn/de-nghi-truy-to-56-bi-can-trong-duong-day-toi-pham-nup-bong-mua-ban-no-1882608091739327.chn)
 
 **Chính phủ đề xuất giảm 30% thuế thu nhập cho hộ kinh doanh, doanh nghiệp có doanh thu đến 10 tỷ đồng**  
 
@@ -82,13 +79,6 @@ Công an Hải Phòng bắt tạm giam 28 đối tượng trong đường dây t
 - Số liệu chính: Số đối tượng bị bắt tạm giam: 28 người; Số tiền phong tỏa: 3.000 tỷ đồng; Số ngân hàng có tài khoản bị phong tỏa: 36 ngân hàng
 - Nguồn: [CafeF](https://cafef.vn/hai-phong-triet-xoa-duong-day-rua-tien-co-bac-phong-toa-hon-3000-ty-dong-18826080410004623.chn)
 
-**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
-
-Bộ Tài chính dự kiến sửa quy định liên quan đến hàng trăm nghìn tỷ đồng nhằm hỗ trợ thanh khoản hệ thống ngân hàng, với dự kiến áp dụng từ ngày 1/1/2027. Hiện nay, dư nợ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại hệ thống ngân hàng đạt khoảng 740.000 tỷ đồng. Sửa đổi này nhằm cải thiện cơ chế hỗ trợ thanh khoản trong toàn bộ hệ thống tài chính.
-
-- Số liệu chính: Dư nợ tiền gửi có kỳ hạn của Kho bạc Nhà nước tại hệ thống ngân hàng: 740,000 tỷ đồng
-- Nguồn: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
-
 ## Chứng khoán
 
 **Tháng 7 ‘bi đát’ của các ngân hàng Việt: Vốn hóa bốc hơi hơn 220.000 tỉ đồng, xóa sạch thành quả từ đầu năm**  
@@ -119,6 +109,19 @@ Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VP
 - Nguồn: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
 
 ## Kinh tế vĩ mô
+
+**Cải cách tổng thể thị trường vốn: San sẻ gánh nặng với hệ thống ngân hàng**  
+
+Để duy trì tốc độ tăng trưởng cao, Việt Nam cần một lượng vốn đầu tư rất lớn. Năm 2026, để đạt mục tiêu tăng trưởng từ 10% trở lên, nhu cầu vốn đầu tư toàn xã hội ước khoảng 5,1 triệu tỷ đồng. Trong giai đoạn 2026-2030, con số này dự kiến lên tới khoảng 38,5 triệu tỷ đồng.
+
+- Số liệu chính: Investment capital requirement for 2026: 5.1 million billion VND VND; Investment capital requirement for 2026-2030 period: 38.5 million billion VND VND; Growth target: 10% %
+- Nguồn: [CafeF](https://cafef.vn/cai-cach-tong-the-thi-truong-von-san-se-ganh-nang-voi-he-thong-ngan-hang-188260809095201886.chn)
+
+**Thanh tra Chính phủ chỉ rõ nguyên nhân giá vàng Việt Nam cao hơn thế giới**  
+
+Thanh tra Chính phủ chỉ rõ rằng Ngân hàng Nhà nước chưa thực hiện các biện pháp can thiệp, bình ổn thị trường thông qua nhập khẩu vàng nguyên liệu và sản xuất vàng miếng, đây là một trong những nguyên nhân khiến nguồn cung khan hiếm và giá vàng trong nước chênh lệch so với giá thế giới. Bảo Tín Mạnh Hải cho biết có 7 giao dịch nhận đặt cọc vàng miếng bị rách vỏ bao bì phải chuyển đến SJC để đóng lại.
+
+- Nguồn: [CafeF](https://cafef.vn/thanh-tra-chinh-phu-chi-ro-nguyen-nhan-gia-vang-viet-nam-cao-hon-the-gioi-188260809163127574.chn)
 
 **Giá vàng tăng vọt, nhà đầu tư vui mừng trở lại**  
 
@@ -189,13 +192,6 @@ Tại cuộc họp báo chính phủ thường kỳ tháng 7/2026, Bộ Tài ch�
 
 - Số liệu chính: Credit package announced: 220,000 billion VND
 - Nguồn: [CafeF](https://cafef.vn/kich-hoat-goi-tin-dung-220000-ty-dong-va-loat-giai-phap-ho-tro-doanh-nghiep-but-toc-188260804075648734.chn)
-
-**7 'ngôi sao' sáng nhất thị trường xuất khẩu Việt Nam sau 7 tháng đầu năm**  
-
-Xuất khẩu của Việt Nam đạt 319,53 tỷ USD trong 7 tháng đầu năm 2026, tăng 21,7% so với cùng kỳ năm trước, theo Cục Thống kê (Bộ Tài chính). Bảy mặt hàng xuất khẩu đạt trên 10 tỷ USD mỗi loại trong cùng kỳ. Tổng cộng 31 mặt hàng xuất khẩu vượt quá 1 tỷ USD, chiếm 93,0% tổng kim ngạch xuất khẩu.
-
-- Số liệu chính: Total exports value: 319.53 billion USD; Year-on-year export growth: 21.7 %; Number of commodities exceeding $10 billion: 7 commodities; Number of commodities exceeding $1 billion: 31 commodities
-- Nguồn: [CafeF](https://cafef.vn/7-ngoi-sao-sang-nhat-thi-truong-xuat-khau-viet-nam-sau-7-thang-dau-nam-188260804081013008.chn)
 
 ---
 

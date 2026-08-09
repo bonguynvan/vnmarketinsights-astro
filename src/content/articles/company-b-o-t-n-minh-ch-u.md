@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (30 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (31 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần**  
+
+Domestic gold prices rose sharply on August 9, with bar and ring gold from major dealers including SJC, Bảo Tín Mạnh Hải, and DOJI increasing by 4-5 million dong per tael after a volatile week. Gold prices in Vietnam have experienced strong fluctuations over the past week. Major gold traders such as Mi Hồng, Bảo Tín Mạnh Hải, DOJI, SJC, and PNJ all reported significant price increases.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-9-8-sjc-bao-tin-manh-hai-doji-dong-loat-tang-tu-4-5-trieu-dong-luong-sau-1-tuan-188260809111102126.chn)
 
 **Giá vàng nhẫn, vàng miếng ngày 8/8 tại SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng mạnh**  
 
@@ -78,12 +84,6 @@ Gold bar and ring prices declined across major Vietnamese jewelry retailers on t
 Gold bar and plain gold ring prices unexpectedly reversed and declined on the afternoon of July 30. Major dealers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải simultaneously reduced prices by 0.8 million VND/tael on both buy and sell sides, falling to 137.7 million VND (buy) and 141.7 million VND (sell). Mi Hồng experienced a sharper decline of 1.5 million VND/tael.
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-30-7-bat-ngo-quay-dau-giam-tai-sjc-doji-pnj-bao-tin-minh-chau-bao-tin-manh-hai-188260730093744843.chn)
-
-**Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
-
-Domestic gold prices showed an unexpected reversal on the afternoon of July 29th across multiple retailers including SJC, PNJ, DOJI, and several Bảo Tín outlets. The price gap between SJC gold bars and plain gold rings narrowed at many establishments, with some retailers like DOJI and Bảo Tín units even pricing plain gold rings higher than SJC bars. Gold prices rebounded from morning declines, nearly erasing the losses recorded in the morning session.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-29-7-bat-ngo-dao-chieu-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-188260729080505828.chn)
 
 ## Related coverage
 

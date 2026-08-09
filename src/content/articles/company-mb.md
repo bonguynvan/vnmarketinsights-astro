@@ -1,17 +1,29 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (64 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (65 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngân hàng Quân đội (MB) huy động lãi suất lên tới 8% cho số tiền gửi từ 1 triệu đồng**  
+
+Military Bank (MB) has launched a promotional program offering an additional 2.2% annual interest rate on savings deposits for customers who open digital deposits on MBBank app in 2026. For deposits of VND 1 million or more with terms of 1-6 months, the total interest rate after incentives can reach up to 8% per annum. The promotion is part of the bank's deposit mobilization strategy.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-quan-doi-mb-huy-dong-lai-suat-len-toi-8-cho-so-tien-gui-tu-1-trieu-dong-188260809184201308.chn)
+
+**Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Vietnamese bank deposit interest rates on August 9, 2026 remained stable across major institutions. ACB maintained the highest online deposit rate at 7.8% per annum for 12-month terms, followed by LPBank at 7.3%, with eight other banks offering 7% or higher. MB offered rates up to 8% for deposits from 1 million dong.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn)
 
 **Ngân hàng thu 'đống tiền' từ trái phiếu**  
 
@@ -73,23 +85,11 @@ An article examines the workforce scale and economic contributions of 28 banks i
 
 - Source: [CafeF](https://cafef.vn/28-ngan-hang-agribank-vietcombank-bidv-vietinbank-mb-dang-tao-ra-bao-nhieu-viec-lam-dong-gop-bao-nhieu-vao-ngan-sach-188260802194113323.chn)
 
-**Một ngân hàng sắp trả cổ tức 15%**  
-
-A bank is set to pay a 15% dividend through stock issuance. August 12 is the date Military Commercial Joint Stock Bank (MB) will close its shareholder list for receiving stock dividends at a 15% ratio and execute rights to purchase additional issued shares. The announcement reflects activity among Vietnamese banks distributing earnings to shareholders.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn)
-
-**Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of deposit interest rates at 34 banks on August 2 shows the rate environment remains stable. ACB leads with 7.8% per annum for 12-month terms and is among 7 banks offering rates of 7% per annum or higher.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Phòng ngừa việc ép khách hàng 'mua bia kèm lạc' khi vay vốn**  
+
+A National Assembly delegate from Ninh Binh province raised concerns about predatory lending practices where banks force borrowers to purchase corporate bonds or other investment products as a condition for obtaining loans. The National Assembly discussed amendments to Vietnam's State Bank Law, Anti-Money Laundering Law, and Credit Institution Law on the morning of August 9. The delegate called for preventive measures against such coercive practices in lending and capital disbursement.
+
+- Source: [CafeF](https://cafef.vn/phong-ngua-viec-ep-khach-hang-mua-bia-kem-lac-khi-vay-von-188260809110359307.chn)
+
+**Quốc hội thảo luận sửa 3 luật trong lĩnh vực tài chính, ngân hàng**  
+
+On August 9, parliament held floor discussions on draft amendments to three financial and banking laws: the State Bank of Vietnam Law, the Anti-Money Laundering Law, and the Credit Organizations Law. The morning session focused on proposed amendments to the State Bank of Vietnam Law, the Anti-Money Laundering Law, and the Credit Organizations Law. The parliament also discussed amendments to the Publishing Law as part of the session schedule.
+
+- Source: [CafeF](https://cafef.vn/quoc-hoi-thao-luan-sua-3-luat-trong-linh-vuc-tai-chinh-ngan-hang-188260809072337403.chn)
 
 **Ngày 7/8: Tỷ giá trung tâm tăng 30 đồng**  
 
@@ -73,24 +85,12 @@ Multiple major Vietnamese banks including Vietcombank, VietinBank, and Agribank 
 
 - Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn)
 
-**Giá USD ngân hàng vượt 26.500 đồng**  
-
-Bank USD exchange rates have surpassed 26,500 VND, approaching historical highs recorded in late August 2025. The US dollar is experiencing strong weekly gains on international markets, marking its strongest week since June. The State Bank of Vietnam is prioritizing exchange rate stability amid external pressures.
-
-- Source: [CafeF](https://cafef.vn/gia-usd-ngan-hang-vuot-26500-dong-188260727171706109.chn)
-
-**Ngân hàng Nhà nước lên tiếng việc chuyển trên 400 triệu phải chờ 24 giờ**  
-
-The State Bank of Vietnam clarified regulations regarding money transfers exceeding 400 million Vietnamese dong, which will require a 24-hour waiting period starting March 1, 2027. The bank emphasized that this regulation does not apply to all transactions. The clarification was issued to address public concerns about the new requirements for large-value online transfers.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-len-tieng-viec-chuyen-tren-400-trieu-phai-cho-24-gio-188260723150543769.chn)
-
 ## Related coverage
 
-- [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
 - [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
-- [Ngân hàng Nhà nước chấp thuận cho một ngân hàng tăng vốn điều lệ thêm 3.000 tỷ đồng](https://cafef.vn/ngan-hang-nha-nuoc-chap-thuan-cho-mot-ngan-hang-tang-von-dieu-le-them-3000-ty-dong-188260721205514473.chn) — CafeF
-- [Chính phủ phê duyệt cho một ngân hàng được bổ sung tăng vốn điều lệ thêm gần 30.000 tỷ đồng](https://cafef.vn/chinh-phu-phe-duyet-cho-mot-ngan-hang-duoc-bo-sung-tang-von-dieu-le-them-gan-30000-ty-dong-188260709094025482.chn) — CafeF
+- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
+- [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
+- [Thống đốc Phạm Đức Ấn: Bổ sung dịch vụ tài sản mã hóa vào nhóm báo cáo về phòng, chống rửa tiền](https://cafef.vn/thong-doc-pham-duc-an-bo-sung-dich-vu-tai-san-ma-hoa-vao-nhom-bao-cao-ve-phong-chong-rua-tien-188260714115138788.chn) — CafeF
 
 ---
 

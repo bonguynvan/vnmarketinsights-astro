@@ -1,17 +1,35 @@
 ---
 title: "Mi Hồng — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Mi Hồng, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
 
 # Mi Hồng
 
-Recent Vietnam market news mentioning **Mi Hồng** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Mi Hồng** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần**  
+
+Domestic gold prices rose sharply on August 9, with bar and ring gold from major dealers including SJC, Bảo Tín Mạnh Hải, and DOJI increasing by 4-5 million dong per tael after a volatile week. Gold prices in Vietnam have experienced strong fluctuations over the past week. Major gold traders such as Mi Hồng, Bảo Tín Mạnh Hải, DOJI, SJC, and PNJ all reported significant price increases.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-9-8-sjc-bao-tin-manh-hai-doji-dong-loat-tang-tu-4-5-trieu-dong-luong-sau-1-tuan-188260809111102126.chn)
+
+**Giá vàng hôm nay (9/8): Bảo Tín Mạnh Hải, Mi Hồng niêm yết khác lạ**  
+
+Gold prices in Vietnam showed divergent movements on August 9, with Bảo Tín Mạnh Hải ring gold declining 800,000 đồng/tael but still quoted higher than SJC bullion bars. Mi Hồng continued to attract attention by offering SJC bullion bars at prices approximately 1 million đồng/tael below major competitors. Saigon Gold Silver and Precious Stones Company quoted SJC bullion bars at 141-144 million đồng/tael (bid-ask) at 9 AM with no change from morning levels.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-hom-nay-9-8-bao-tin-manh-hai-mi-hong-niem-yet-khac-la-188260809110547923.chn)
+
+**Doanh nghiệp vàng nói gì khi bị Thanh tra Chính phủ chỉ rõ sai phạm?**  
+
+Government inspectors identified violations at major gold enterprises. PNJ reported it has proactively filed additional declarations and paid nearly 10 billion dong in value-added tax plus over 973 million dong in late payment penalties. Mi Hồng stated that the violations noted in the inspection conclusion occurred before 2025 and have been corrected according to requirements.
+
+- Source: [CafeF](https://cafef.vn/doanh-nghiep-vang-noi-gi-khi-bi-thanh-tra-chinh-phu-chi-ro-sai-pham-188260809213946379.chn)
 
 **Giá vàng mới nhất tại Mi Hồng, Bảo Tín Mạnh Hải, DOJI, SJC, PNJ,…**  
 
@@ -64,9 +82,9 @@ A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a p
 ## Related coverage
 
 - [Giá vàng nhẫn trơn, vàng miếng chiều 31/7 bất ngờ quay đầu](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-31-7-bat-ngo-quay-dau-188260731074336327.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng miếng, vàng nhẫn trơn chiều 29/7 bất ngờ đảo chiều tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-29-7-bat-ngo-dao-chieu-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-188260729080505828.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 26/7 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-26-7-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260726091648978.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng TMCP Quốc Dân — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng TMCP Quốc Dân, with neutral summaries and source links."
-publishedDate: "2026-08-08"
-lastUpdated: "2026-08-08"
+publishedDate: "2026-08-09"
+lastUpdated: "2026-08-09"
 category: "Company"
 readingTime: 3
 ---
@@ -39,10 +39,10 @@ On July 9, 2026, National Commercial Bank (NCB) received three awards at the HR 
 
 ## Related coverage
 
+- [Người có tài khoản ngân hàng nhớ kỹ thông báo sau](https://cafef.vn/nguoi-co-tai-khoan-ngan-hang-nho-ky-thong-bao-sau-18826080820355933.chn) — CafeF
 - [Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn) — CafeF
 - [Ngân hàng đóng tài khoản có số dư dưới 20.000 đồng, người dân cần làm gì?](https://cafef.vn/ngan-hang-dong-tai-khoan-co-so-du-duoi-20000-dong-nguoi-dan-can-lam-gi-188260720091113281.chn) — CafeF
 - [Từ năm 2026, Vietcombank, VietinBank, Agribank, BIDV... ngừng giao dịch chuyển tiền/nhận tiền đối với trường hợp sau](https://cafef.vn/tu-nam-2026-vietcombank-vietinbank-agribank-bidv-ngung-giao-dich-chuyen-tien-nhan-tien-doi-voi-truong-hop-sau-188260715141342932.chn) — CafeF
-- [Đề xuất đóng tài khoản ngân hàng “ngủ đông”](https://cafef.vn/de-xuat-dong-tai-khoan-ngan-hang-ngu-dong-188260724135756079.chn) — CafeF
 
 ---
 
