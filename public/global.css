@@ -266,7 +266,15 @@ hr {
 .compare-page,
 .stats-page,
 .glossary-term-page,
-.sources-page {
+.sources-page,
+.data-page,
+.data-index,
+.lc-page,
+.pay-page,
+.sell-page,
+.jobs-page,
+.outlook-page,
+.research {
   margin-inline: auto;
 }
 
