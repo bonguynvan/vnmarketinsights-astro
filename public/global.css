@@ -259,22 +259,14 @@ hr {
   padding-right: var(--content-padding-x);
 }
 
-/* Inner page wrappers set their own narrower reading measure but must stay
-   centered within the container (otherwise they pin to the left edge). */
-.guides-index,
-.guide-page,
-.compare-page,
-.stats-page,
-.glossary-term-page,
-.sources-page,
-.data-page,
-.data-index,
-.lc-page,
-.pay-page,
-.sell-page,
-.jobs-page,
-.outlook-page,
-.research {
+/* Robust centering: any top-level page wrapper narrower than the container
+   centers itself. Full-width wrappers (container-wide grids, full-bleed
+   sections) are unaffected because `margin-inline: auto` collapses to 0 when
+   the child already fills its parent. This replaces the old per-class
+   allowlist so NEW pages never have to opt in to centering — the #1 cause of
+   the "content pinned to the left" bug. Pages that genuinely need a
+   left-pinned narrow block can override with an explicit `margin-inline`. */
+.main-content > * {
   margin-inline: auto;
 }
 
