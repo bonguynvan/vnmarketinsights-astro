@@ -1,17 +1,23 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # Viettel
 
-Recent Vietnam market news mentioning **Viettel** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Viettel** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TOP 1 tại 7 thị trường nước ngoài, Chủ tịch Viettel Tào Đức Thắng 'tiết lộ' loạt kinh nghiệm giúp tập đoàn mang về nước 400 triệu USD/năm**  
+
+Viettel Chairman Tào Đức Thắng shared at the 33rd Diplomatic Conference (August 1-7, 2026) that the telecommunications group holds the top position in 7 foreign markets. The group generates approximately 400 million USD annually from international operations. Thắng discussed lessons learned from years of foreign investment experience.
+
+- Source: [CafeF](https://cafef.vn/top-1-tai-7-thi-truong-nuoc-ngoai-chu-tich-viettel-tao-duc-thang-tiet-lo-loat-kinh-nghiem-giup-tap-doan-mang-ve-nuoc-400-trieu-usd-nam-188260810153554014.chn)
 
 **Tuyến metro 72.300 tỷ đồng có sự tham gia của Tập đoàn xây dựng hàng đầu Trung Quốc vừa bắt đầu hạng mục quan trọng**  
 
@@ -42,7 +48,7 @@ Viettel has acquired the 095 mobile phone number prefix, adding to its existing 
 - [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 - [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
-- [Chính phủ đề xuất hơn 288 nghìn tỷ làm đường Vành đai 5 - Vùng Thủ đô qua 7 địa phương](https://cafef.vn/chinh-phu-de-xuat-hon-288-nghin-ty-lam-duong-vanh-dai-5-vung-thu-do-qua-7-dia-phuong-188260806102824678.chn) — CafeF
+- [Gặp Phó Thủ tướng, Chủ tịch hiệp hội hơn 3.000 DN thừa nhận 3 lợi thế của VN trong lĩnh vực 1.000 tỷ USD](https://cafef.vn/gap-pho-thu-tuong-chu-tich-hiep-hoi-hon-3000-dn-thua-nhan-3-loi-the-cua-vn-trong-linh-vuc-1000-ty-usd-188260730164609992.chn) — CafeF
 
 ---
 

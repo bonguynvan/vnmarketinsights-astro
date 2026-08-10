@@ -1,17 +1,23 @@
 ---
 title: "HDBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HDBank, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # HDBank
 
-Recent Vietnam market news mentioning **HDBank** (91 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **HDBank** (92 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng lớn vừa điều chỉnh lãi suất tiết kiệm, có kỳ hạn giảm tới 1,4%/năm**  
+
+A major Vietnamese bank adjusted its savings deposit interest rates, increasing rates by 0.2 percentage points for 6-13 month terms while reducing rates by up to 1.4 percentage points for 36-month deposits. The State Bank of Vietnam issued guidance to banks regarding a customer group eligible for loans at least 1% per annum lower. Multiple banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank updated their interest rates on August 9, 2026.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn)
 
 **Lãi suất ngân hàng HDBank mới nhất tháng 8/2026: Gửi kỳ hạn nào có lãi suất cao nhất?**  
 
@@ -79,18 +85,12 @@ A survey of online deposit rates at 34 banks on August 4 shows that the interest
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
 
-**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
-
-The Ministry of Finance plans to amend regulations affecting approximately hundreds of thousands of billion dong to improve liquidity in the banking system, with implementation expected from January 1, 2027. As of the date of report, Vietnam's State Treasury maintains term deposits at the banking system totaling approximately 740,000 billion dong. The amendment aims to address liquidity support mechanisms across the financial sector.
-
-- Source: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
+- [Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn) — CafeF
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 
 ---
 

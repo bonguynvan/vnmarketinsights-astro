@@ -1,17 +1,23 @@
 ---
 title: "TPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning TPBank, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # TPBank
 
-Recent Vietnam market news mentioning **TPBank** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **TPBank** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**TPBank chính thức ra mắt T’AioX: Chuyên gia Ngân hàng số hỗ trợ khách hàng 24/7**  
+
+TPBank officially launched T'AioX, an AI-powered digital banking expert on its mobile app designed to provide 24/7 customer support. T'AioX converts banking features into natural conversational interactions, enabling personalized financial management, transaction inquiries, and promotional offer browsing. The launch represents the bank's advancement in applying AI to understand customers across multiple touchpoints.
+
+- Source: [CafeF](https://cafef.vn/tpbank-chinh-thuc-ra-mat-taiox-chuyen-gia-ngan-hang-so-ho-tro-khach-hang-24-7-188260810175005861.chn)
 
 **Giải mã bộ 3 trụ cột giúp TPBank liên tục trụ vững Top 10 Ngân hàng tư nhân uy tín**  
 
@@ -79,18 +85,12 @@ TPBank reported half-year profit exceeding 4.668 trillion Vietnamese dong. The f
 
 - Source: [CafeF](https://cafef.vn/loi-nhuan-ban-nien-vuot-4668-ty-dong-tpbank-dinh-hinh-duong-ray-tang-truong-chat-luong-cao-188260715182808687.chn)
 
-**Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu**  
-
-Vietnamese banks have significantly expanded their assets over the past decade, with total assets of 27 listed banks increasing from 4.73 quadrillion dong to over 21.14 quadrillion dong. Multiple banks have grown their asset bases 5-10 fold during this period, with some institutions experiencing even more rapid expansion. Banks including HDBank, MB, and TPBank are among the leading performers in this growth phase.
-
-- Source: [CafeF](https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn)
-
 ## Related coverage
 
+- [Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu](https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn) — CafeF
 - [Đằng sau cuộc đua lãi suất huy động và cho vay](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Nhiều ngân hàng sắp gia nhập câu lạc bộ vốn điều lệ 100.000 tỉ](https://tuoitre.vn/nhieu-ngan-hang-sap-gia-nhap-cau-lac-bo-von-dieu-le-100000-ti-10026062112082653.htm) — TuoiTre
-- [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Lãi suất huy động leo thang, ngân hàng chịu sức ép kép](https://cafef.vn/lai-suat-huy-dong-leo-thang-ngan-hang-chiu-suc-ep-kep-188260808161052601.chn) — CafeF
+- [Chân dung Chủ tịch 10 ngân hàng lớn nhất Việt Nam](https://cafef.vn/chan-dung-chu-tich-10-ngan-hang-lon-nhat-viet-nam-188260714165325079.chn) — CafeF
 
 ---
 

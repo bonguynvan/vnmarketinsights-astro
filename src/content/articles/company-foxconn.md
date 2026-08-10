@@ -1,8 +1,8 @@
 ---
 title: "Foxconn — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Foxconn, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---

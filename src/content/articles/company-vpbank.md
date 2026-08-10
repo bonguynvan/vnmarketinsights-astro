@@ -1,17 +1,23 @@
 ---
 title: "VPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VPBank, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # VPBank
 
-Recent Vietnam market news mentioning **VPBank** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VPBank** (45 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VPBank tăng tốc từ hoạt động cốt lõi**  
+
+VPBank reported record profits from core operations in the second quarter of 2026, with positive metrics establishing it as a highly-rated stock among securities firms. The bank's investment thesis is built on rapid credit growth within the sector, solid capital foundation, expanding financial ecosystem, and attractive valuation levels.
+
+- Source: [CafeF](https://cafef.vn/vpbank-tang-toc-tu-hoat-dong-cot-loi-188260810152719529.chn)
 
 **Ngân hàng thu 'đống tiền' từ trái phiếu**  
 
@@ -79,18 +85,12 @@ As of July 21, ten banks announced their first-half 2026 earnings results. VPBan
 
 - Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
-**Một ngân hàng hút mạnh tiền gửi của hộ kinh doanh, người dân**  
-
-VPBank reported strong deposit growth in the first half of 2026, with total customer deposits reaching 732.887 trillion VND as of June 30, 2026. This represents an increase of approximately 105 trillion VND, or 16.7% compared to the beginning of the year, which is significantly above the industry average. Deposits from business households and individuals constitute the majority of the bank's deposit base.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-hut-manh-tien-gui-cua-ho-kinh-doanh-nguoi-dan-188260720141610219.chn)
-
 ## Related coverage
 
 - [Cập nhật lợi nhuận ngân hàng ngày 17/7: Xuất hiện nhà băng lãi gấp 5 lần cùng kỳ, VPBank đạt kỷ lục mới](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-ngay-17-7-xuat-hien-nha-bang-lai-gap-5-lan-cung-ky-vpbank-dat-ky-luc-moi-18826071715011121.chn) — CafeF
-- [Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026](https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn) — CafeF
-- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Công ty chứng khoán dự báo VPBank và HDBank dẫn đầu tăng trưởng lợi nhuận quý 2, ba nhà băng có thể sụt giảm](https://cafef.vn/cong-ty-chung-khoan-du-bao-vpbank-va-hdbank-dan-dau-tang-truong-loi-nhuan-quy-2-ba-nha-bang-co-the-sut-giam-188260629104749043.chn) — CafeF
+- [Vững vàng trước biến động, VPBank duy trì tăng trưởng mạnh mẽ nửa đầu năm 2026](https://cafef.vn/vung-vang-truoc-bien-dong-vpbank-duy-tri-tang-truong-manh-me-nua-dau-nam-2026-188260717115853905.chn) — CafeF
+- [Một ngân hàng hút mạnh tiền gửi của hộ kinh doanh, người dân](https://cafef.vn/mot-ngan-hang-hut-manh-tien-gui-cua-ho-kinh-doanh-nguoi-dan-188260720141610219.chn) — CafeF
 
 ---
 

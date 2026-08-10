@@ -1,17 +1,35 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (106 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (109 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**BIDV triển khai gói tín dụng ưu đãi 50.000 tỷ đồng cho khách hàng doanh nghiệp**  
+
+BIDV is launching a preferential credit package worth 50,000 billion VND for business customers, aimed at strengthening capital sources for economic growth drivers and small-to-medium enterprises. The program will apply uniformly across the bank's system from August 2026 through December 2028 or until the package is fully disbursed. The program offers preferential interest rates for qualifying small and medium-sized business customers.
+
+- Source: [CafeF](https://cafef.vn/bidv-trien-khai-goi-tin-dung-uu-dai-50000-ty-dong-cho-khach-hang-doanh-nghiep-188260810144926033.chn)
+
+**Một ngân hàng lớn vừa điều chỉnh lãi suất tiết kiệm, có kỳ hạn giảm tới 1,4%/năm**  
+
+A major Vietnamese bank adjusted its savings deposit interest rates, increasing rates by 0.2 percentage points for 6-13 month terms while reducing rates by up to 1.4 percentage points for 36-month deposits. The State Bank of Vietnam issued guidance to banks regarding a customer group eligible for loans at least 1% per annum lower. Multiple banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank updated their interest rates on August 9, 2026.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn)
+
+**Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+ACB continues to lead deposit interest rates at 7.8% per annum for 12-month terms as of August 10, while LPBank maintains 7.3% per annum. The Big4 banks (Agribank, Vietcombank, BIDV, VietinBank) are quoted at 6.8% per annum for the same period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn)
 
 **LPBank phát cảnh báo tới các khách hàng doanh nghiệp**  
 
@@ -67,29 +85,11 @@ A survey of online interest rates at 34 banks on August 6 shows ACB leading with
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn)
 
-**Cả nghìn nhân viên tại Vietcombank, VietinBank, BIDV và  Agribank nghỉ việc trong nửa đầu năm 2026**  
-
-Four state-owned commercial banks—Agribank, BIDV, VietinBank, and Vietcombank—recorded a combined reduction of more than 1,100 employees in the first half of 2026. The article reports on staff departures across these major banking institutions during this period. The specific reasons for the departures are not detailed in the excerpt provided.
-
-- Source: [CafeF](https://cafef.vn/ca-nghin-nhan-vien-tai-vietcombank-vietinbank-bidv-va-agribank-nghi-viec-trong-nua-dau-nam-2026-188260806234037553.chn)
-
-**Một ngân hàng tư nhân tăng quy mô tài sản mạnh hơn cả Big4, bằng BIDV và Agribank cộng lại**  
-
-A private bank expanded its total assets by over 242,000 billion VND in the first half of 2026, outpacing Vietcombank, VietinBank, and BIDV in asset growth rate. Despite state-owned banks maintaining the largest asset base, private banks are demonstrating faster expansion in the banking sector. The asset scale of this private bank now equals the combined assets of BIDV and Agribank.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-tu-nhan-tang-quy-mo-tai-san-manh-hon-ca-big4-bang-bidv-va-agribank-cong-lai-18826080508001068.chn)
-
-**Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
-
-In Q2 2026, five Vietnamese banks—Vietcombank, VietinBank, BIDV, MB, and VPBank—each reported quarterly profits exceeding 10 trillion Vietnamese dong. This marks a milestone shift in the banking sector, with several other banks approaching this threshold and heralding what analysts describe as a "10 trillion dong per quarter era" for the industry.
-
-- Source: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 
 ---

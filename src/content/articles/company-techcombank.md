@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (40 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (41 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giải Marathon Quốc tế Hà Nội Techcombank 2026: Giải chạy biểu tượng quốc gia, khẳng định tầm vóc khu vực**  
+
+Hanoi announced the 5th edition of the Hanoi Techcombank International Marathon scheduled for October 4, 2026, under the direction of Hanoi People's Committee and the Department of Culture and Sports with Techcombank as strategic sponsor. The event is expected to attract 14,000 athletes under the theme "Steps for an Outstanding Vietnam." The announcement was made on August 10, 2026.
+
+- Source: [CafeF](https://cafef.vn/giai-marathon-quoc-te-ha-noi-techcombank-2026-giai-chay-bieu-tuong-quoc-gia-khang-dinh-tam-voc-khu-vuc-188260810115233197.chn)
 
 **Ngân hàng thu 'đống tiền' từ trái phiếu**  
 
@@ -79,18 +85,12 @@ Nguyễn Lê Quốc Anh, former CEO of Techcombank, has been officially appointe
 
 - Source: [CafeF](https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn)
 
-**Phong tỏa tài khoản ngân hàng, phạt tiền nếu người dùng nhận và chuyển tiền với mục đích sau**  
-
-Vietnamese banking regulators warn users that certain account activities can result in transaction freezes and criminal penalties. Banks may suspend accounts and take legal action against holders engaged in prohibited money transfers. Users are advised to avoid specific behaviors to prevent account seizure and financial loss.
-
-- Source: [CafeF](https://cafef.vn/phong-toa-tai-khoan-ngan-hang-phat-tien-neu-nguoi-dung-nhan-va-chuyen-tien-voi-muc-dich-sau-188260724161810952.chn)
-
 ## Related coverage
 
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
+- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 

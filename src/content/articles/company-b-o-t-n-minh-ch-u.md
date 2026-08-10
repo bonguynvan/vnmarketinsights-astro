@@ -1,17 +1,23 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # Bảo Tín Minh Châu
 
-Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (31 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Bảo Tín Minh Châu** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 10/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
+
+Domestic gold prices on the evening of August 10 showed divergence across different brands. Gold bars at most businesses rose slightly compared to the previous week's close, while gold rings experienced mixed movements with the largest decline at 1 million VND per tael. Price variations were observed across retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-10-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260810073826776.chn)
 
 **Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần**  
 
@@ -79,18 +85,12 @@ Gold bar and ring prices declined across major Vietnamese jewelry retailers on t
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-chieu-toi-1-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260801084746665.chn)
 
-**Giá vàng miếng, vàng nhẫn trơn chiều 30/7 bất ngờ quay đầu giảm tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, ...**  
-
-Gold bar and plain gold ring prices unexpectedly reversed and declined on the afternoon of July 30. Major dealers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải simultaneously reduced prices by 0.8 million VND/tael on both buy and sell sides, falling to 137.7 million VND (buy) and 141.7 million VND (sell). Mi Hồng experienced a sharper decline of 1.5 million VND/tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-30-7-bat-ngo-quay-dau-giam-tai-sjc-doji-pnj-bao-tin-minh-chau-bao-tin-manh-hai-188260730093744843.chn)
-
 ## Related coverage
 
-- [Cuối ngày 4/8, giá vàng tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đảo chiều tăng](https://cafef.vn/cuoi-ngay-4-8-gia-vang-tai-sjc-doji-bao-tin-manh-hai-phu-quy-dao-chieu-tang-188260804170044988.chn) — CafeF
 - [Đến cuối ngày 5/8, giá vàng miếng, vàng nhẫn tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đã tăng tới 1,8 triệu đồng/lượng](https://cafef.vn/den-cuoi-ngay-5-8-gia-vang-mieng-vang-nhan-tai-sjc-doji-bao-tin-manh-hai-phu-quy-da-tang-toi-18-trieu-dong-luong-188260805163554252.chn) — CafeF
+- [Cuối ngày 4/8, giá vàng tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đảo chiều tăng](https://cafef.vn/cuoi-ngay-4-8-gia-vang-tai-sjc-doji-bao-tin-manh-hai-phu-quy-dao-chieu-tang-188260804170044988.chn) — CafeF
 - [Giá vàng mới nhất tại Mi Hồng, Bảo Tín Mạnh Hải, DOJI, SJC, PNJ,…](https://cafef.vn/gia-vang-moi-nhat-tai-mi-hong-bao-tin-manh-hai-doji-sjc-pnj-188260808221656484.chn) — CafeF
-- [Giá vàng miếng, vàng nhẫn trơn chiều 28/7 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI, PNJ, SJC,...](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-28-7-tai-bao-tin-minh-chau-bao-tin-manh-hai-doji-pnj-sjc-188260728083630357.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng sáng 27/7 tại SJC, PNJ, DOJI, Mi Hồng, Bảo Tín Minh Châu,...](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-7-tai-sjc-pnj-doji-mi-hong-bao-tin-minh-chau-188260727064300179.chn) — CafeF
 
 ---
 

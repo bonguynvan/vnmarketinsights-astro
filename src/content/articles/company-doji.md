@@ -1,17 +1,23 @@
 ---
 title: "DOJI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning DOJI, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # DOJI
 
-Recent Vietnam market news mentioning **DOJI** (43 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **DOJI** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều tối 10/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
+
+Domestic gold prices on the evening of August 10 showed divergence across different brands. Gold bars at most businesses rose slightly compared to the previous week's close, while gold rings experienced mixed movements with the largest decline at 1 million VND per tael. Price variations were observed across retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-10-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260810073826776.chn)
 
 **Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần**  
 
@@ -79,18 +85,12 @@ Gold prices for bars and rings on August 4 are displayed across major Vietnamese
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-4-8-tai-sjc-doji-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-188260804062018792.chn)
 
-**SJC, DOJI, PNJ... giá vàng nào mới là con số bạn thực sự nên quan tâm?**  
-
-The article discusses various gold price quotations in Vietnam, including world gold prices and domestic benchmarks such as SJC, DOJI, PNJ, and other jewelry retailers. It addresses consumer confusion about which gold price metrics are most relevant to individual purchasing decisions. The piece notes recent price movements in gold bars and plain gold rings across major retailers on July 30-31, 2026.
-
-- Source: [CafeF](https://cafef.vn/sjc-doji-pnj-gia-vang-nao-moi-la-con-so-ban-thuc-su-nen-quan-tam-188260801083639963.chn)
-
 ## Related coverage
 
 - [Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-mieng-vang-nhan-chieu-toi-1-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260801084746665.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
-- [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng sáng 27/7 tại SJC, PNJ, DOJI, Mi Hồng, Bảo Tín Minh Châu,...](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-27-7-tai-sjc-pnj-doji-mi-hong-bao-tin-minh-chau-188260727064300179.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 2/8](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-2-8-188260802113447989.chn) — CafeF
 
 ---
 

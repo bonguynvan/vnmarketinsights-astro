@@ -1,8 +1,8 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
@@ -90,7 +90,7 @@ Sun Group's chairman Đặng Minh Trường stated that the company does not inv
 - [Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn) — CafeF
-- [Một nhà ga của sân bay đông đúc nhất Việt Nam đứng trước thay đổi lớn chưa từng có](https://cafef.vn/mot-nha-ga-cua-san-bay-dong-duc-nhat-viet-nam-dung-truoc-thay-doi-lon-chua-tung-co-188260716145840464.chn) — CafeF
+- [Tin vui của Sun PhuQuoc Airways: Chốt lộ trình nhận 8 tàu bay thân rộng Airbus A330, tăng tốc vươn ra thế giới](https://cafef.vn/tin-vui-cua-sun-phuquoc-airways-chot-lo-trinh-nhan-8-tau-bay-than-rong-airbus-a330-tang-toc-vuon-ra-the-gioi-188260810102729414.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "MB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # MB
 
-Recent Vietnam market news mentioning **MB** (65 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MB** (66 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng lớn vừa điều chỉnh lãi suất tiết kiệm, có kỳ hạn giảm tới 1,4%/năm**  
+
+A major Vietnamese bank adjusted its savings deposit interest rates, increasing rates by 0.2 percentage points for 6-13 month terms while reducing rates by up to 1.4 percentage points for 36-month deposits. The State Bank of Vietnam issued guidance to banks regarding a customer group eligible for loans at least 1% per annum lower. Multiple banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank updated their interest rates on August 9, 2026.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn)
 
 **Ngân hàng Quân đội (MB) huy động lãi suất lên tới 8% cho số tiền gửi từ 1 triệu đồng**  
 
@@ -79,18 +85,12 @@ Vietnamese banks showed a notable increase in non-performing loan (NPL) growth d
 
 - Source: [CafeF](https://cafef.vn/buc-tranh-tin-dung-cua-cac-ngan-hang-188260802200644186.chn)
 
-**28 ngân hàng Agribank, Vietcombank, BIDV, VietinBank, MB,... đang tạo ra bao nhiêu việc làm, đóng góp bao nhiêu vào ngân sách?**  
-
-An article examines the workforce scale and economic contributions of 28 banks including Agribank, Vietcombank, BIDV, VietinBank, and MB. The piece describes the diverse range of job functions within banking institutions, extending beyond traditional teller and credit specialist roles to include risk management, compliance, internal audit, IT, data analysis, cybersecurity, card operations, investment advisory, asset management, HR, legal, marketing, and customer service. Banks maintain extensive branch networks across the country employing workers in these varied roles.
-
-- Source: [CafeF](https://cafef.vn/28-ngan-hang-agribank-vietcombank-bidv-vietinbank-mb-dang-tao-ra-bao-nhieu-viec-lam-dong-gop-bao-nhieu-vao-ngan-sach-188260802194113323.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
-- [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
+- [Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn) — CafeF
 
 ---
 

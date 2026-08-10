@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,24 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngăn chặn việc sử dụng quan hệ tín dụng tạo sức ép lên khách hàng**  
+
+Vietnamese National Assembly representatives discussed amendments to the State Bank of Vietnam Law, anti-money laundering law, and credit organizations law on August 9. Legislator Lê Văn Thế from Ninh Bình supported necessary revisions to prevent improper use of credit relationships to pressure customers. The discussion addressed preventing coercive practices in credit activities.
+
+- Source: [CafeF](https://cafef.vn/ngan-chan-viec-su-dung-quan-he-tin-dung-tao-suc-ep-len-khach-hang-188260810071719585.chn)
+
+**Thống đốc NHNN Phạm Đức Ấn: Áp dụng các tỷ lệ an toàn khác phục vụ phát triển kinh tế - xã hội không đồng nghĩa với việc hạ chuẩn an toàn hay nới lỏng rủi ro**  
+
+The Governor of the State Bank of Vietnam, Phạm Đức Ấn, clarified that applying different safety ratios to support socio-economic development does not equate to lowering safety standards or loosening risk management. The Governor made this statement during a parliamentary discussion on draft amendments to the Law on the State Bank of Vietnam, the Law on Anti-Money Laundering, and the Law on Credit Institutions. The remarks addressed concerns raised by deputies regarding the proposed legislative changes.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-ap-dung-cac-ty-le-an-toan-khac-phuc-vu-phat-trien-kinh-te-xa-hoi-khong-dong-nghia-voi-viec-ha-chuan-an-toan-hay-noi-long-rui-ro-188260810071334948.chn)
+
+**Phó Thống đốc NHNN: Yêu cầu các ngân hàng công bố gói tín dụng ưu đãi cho SMEs và lĩnh vực ưu tiên ngay tháng 8/2026**  
+
+Vietnam's Deputy Prime Minister Nguyen Van Thang chaired a working session on August 10, 2026 to address difficulties in credit access for businesses. Deputy State Bank Governor Nguyen Ngoc Canh stated that the central bank has been conducting credit operations appropriately and providing timely capital supply to the economy. Banks are required to announce preferential credit packages for SMEs and priority sectors starting August 2026.
+
+- Source: [CafeF](https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn)
 
 **Phòng ngừa việc ép khách hàng 'mua bia kèm lạc' khi vay vốn**  
 
@@ -66,24 +84,6 @@ The Prime Minister issued a new directive on combating fraud and preventing misu
 Hà Thu Giang, Chief of the Credit Department at the State Bank of Vietnam, has been appointed as Assistant to Vice Chairman of the National Assembly Nguyễn Thị Hồng. The appointment was announced on July 31 at the National Assembly headquarters by Đỗ Văn Chiến, a Politburo member and Standing Vice Chairman of the National Assembly. The appointment was made through a resolution of the National Assembly's Standing Committee.
 
 - Source: [CafeF](https://cafef.vn/vu-truong-vu-tin-dung-nhnn-duoc-bo-nhiem-lam-tro-ly-pho-chu-tich-quoc-hoi-nguyen-thi-hong-188260731205837846.chn)
-
-**Thống đốc NHNN Phạm Đức Ấn trao quyết định bổ nhiệm nhân sự cấp cao Agribank**  
-
-The State Bank of Vietnam Governor Phạm Đức Ấn announced personnel decisions for Agribank's senior leadership at a conference held on July 31, 2026, in Hanoi. The Governor emphasized that strengthening Agribank's leadership team is important in the current context of the banking industry. The State Bank of Vietnam made appointments to key positions at the agricultural bank.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-trao-quyet-dinh-bo-nhiem-nhan-su-cap-cao-agribank-188260731221545804.chn)
-
-**VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng**  
-
-VietABank has been approved by the State Bank of Vietnam to increase its charter capital to approximately 9.021 trillion dong in the first phase of 2026. The capital increase of over 857 billion dong will be implemented through stock issuance using accumulated profits. The issuance will be conducted as a dividend payment to existing shareholders.
-
-- Source: [CafeF](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn)
-
-**Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau**  
-
-Multiple major Vietnamese banks including Vietcombank, VietinBank, and Agribank will temporarily suspend withdrawal and transfer transactions for accounts that have not provided complete identity documents and biometric data. The State Bank of Vietnam (SBV) has issued regulations requiring these account holders to promptly update their information to avoid service interruption. Five specific categories of bank accounts are subject to these transaction restrictions.
-
-- Source: [CafeF](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn)
 
 ## Related coverage
 

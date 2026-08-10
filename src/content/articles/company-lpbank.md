@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (32 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+ACB continues to lead deposit interest rates at 7.8% per annum for 12-month terms as of August 10, while LPBank maintains 7.3% per annum. The Big4 banks (Agribank, Vietcombank, BIDV, VietinBank) are quoted at 6.8% per annum for the same period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn)
 
 **LPBank phát cảnh báo tới các khách hàng doanh nghiệp**  
 
@@ -78,12 +84,6 @@ A survey of online deposit interest rates at 34 banks on August 3 showed that LP
 LPBank employees' average income in the first half of 2026 reached nearly 37 million VND per month, up over 37% year-on-year. Average wages specifically increased nearly 40% to 33.86 million VND per month. LPBank's stock price surged following the announcement of a new shareholder list on July 27.
 
 - Source: [CafeF](https://cafef.vn/thu-nhap-nhan-vien-lpbank-tang-manh-188260728080904586.chn)
-
-**LPBank công bố danh sách cổ đông mới nhất sở hữu trên 1% vốn: Hai cá nhân sở hữu gần 10%**  
-
-LPBank has disclosed its latest shareholder list for stakeholders owning over 1% of capital. Ms. Phạm Thu Hương holds 148.3 million LPB shares, equivalent to 4.965% of the bank's charter capital. Together with Mr. Phạm Nhật Vượng, these two related individuals directly hold a combined total of approximately 9.86% of the bank's capital.
-
-- Source: [CafeF](https://cafef.vn/ba-pham-thu-huong-mua-hon-148-trieu-co-phieu-lpb-cung-ong-pham-nhat-vuong-nam-gan-10-von-lpbank-18826072708524071.chn)
 
 ## Related coverage
 

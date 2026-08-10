@@ -1,17 +1,29 @@
 ---
 title: "Tập đoàn Đèo Cả — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Đèo Cả, with neutral summaries and source links."
-publishedDate: "2026-08-09"
-lastUpdated: "2026-08-09"
+publishedDate: "2026-08-10"
+lastUpdated: "2026-08-10"
 category: "Company"
 readingTime: 3
 ---
 
 # Tập đoàn Đèo Cả
 
-Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Tập đoàn Đèo Cả** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chủ tịch Đèo Cả: Chúng tôi không lựa chọn đầu tư một cách "phiêu lưu"!**  
+
+Deo Ca Group held a mid-year review meeting and developed plans for the second half of 2026 to assess results and identify operational bottlenecks. The meeting focused on three task groups: personnel management, work management, and interest management, with goals tied to specific responsible parties. Chairman Ho Minh Hoang emphasized that the Group does not lack work opportunities and development projects.
+
+- Source: [CafeF](https://cafef.vn/chu-tich-deo-ca-chung-toi-khong-lua-chon-dau-tu-mot-cach-phieu-luu-188260810134109003.chn)
+
+**Cùng 'chinh phục' loạt dự án hầm, cao tốc có quy mô lớn trên cả nước, Hội đồng Cố vấn của Đèo Cả có vai trò quan trọng như thế nào?**  
+
+Tập đoàn Đèo Cả's Advisory Board plays a significant role in supporting the company's large infrastructure projects, including tunnels and highways across the country. The board comprises specialist experts who provide professional consultation and transfer knowledge to the next generation. The Advisory Board serves as a special foundation for Đèo Cả in its major infrastructure projects.
+
+- Source: [CafeF](https://cafef.vn/cung-chinh-phuc-loat-du-an-ham-cao-toc-co-quy-mo-lon-tren-ca-nuoc-hoi-dong-co-van-cua-deo-ca-co-vai-tro-quan-trong-nhu-the-nao-188260810155706611.chn)
 
 **Chân dung tân Tổng Giám đốc Eximbank: Hơn một năm trải qua ba vị trí lãnh đạo cao nhất tại ngân hàng, từng làm việc tại VietinBank, Sun Group và Tập đoàn Đèo Cả**  
 
@@ -47,7 +59,7 @@ Thai Nguyen Province and Deo Ca Group discussed an investment plan for a tunnel-
 
 - [Vietcombank, Vietinbank, BIDV, Agribank, VPBank, TPBank rót hơn 27.000 tỷ cho vay dự án do Tập đoàn Đèo Cả, Tasco, CII làm chủ đầu tư](https://cafef.vn/vietcombank-vietinbank-bidv-agribank-vpbank-tpbank-rot-hon-27000-ty-cho-vay-du-an-do-tap-doan-deo-ca-tasco-cii-lam-chu-dau-tu-188260718114042584.chn) — CafeF
 - [Đèo Cả nghiên cứu xây hầm xuyên núi dài gần 19km kết nối Phú Thọ - Thái Nguyên - Hà Nội, phấn đấu khởi công ngay năm sau](https://cafef.vn/deo-ca-nghien-cuu-xay-ham-xuyen-nui-dai-gan-19km-ket-noi-phu-tho-thai-nguyen-ha-noi-phan-dau-khoi-cong-ngay-nam-sau-188260709103020019.chn) — CafeF
-- [Tích lũy trong nước không đủ, Chủ tịch Vietcombank đề nghị phát hành trái phiếu quốc tế - Thống đốc nói NHNN đang tính toán và chắc chắn có sự vào cuộc](https://cafef.vn/tich-luy-trong-nuoc-khong-du-chu-tich-vietcombank-de-nghi-phat-hanh-trai-phieu-quoc-te-thong-doc-noi-nhnn-dang-tinh-toan-va-chac-chan-co-su-vao-cuoc-188260719165754693.chn) — CafeF
+- [Tuyến cao tốc 23.900 tỷ đồng giúp tăng kết nối với Lào và Thái Lan, có sự góp mặt của Đèo Cả đang được thực hiện ra sao?](https://cafef.vn/tuyen-cao-toc-23900-ty-dong-giup-tang-ket-noi-voi-lao-va-thai-lan-co-su-gop-mat-cua-deo-ca-dang-duoc-thuc-hien-ra-sao-188260807150609069.chn) — CafeF
 - [Thống nhất làm đường hầm Tam Đảo gần 5.800 tỷ đồng](https://cafef.vn/thong-nhat-lam-duong-ham-tam-dao-gan-5800-ty-dong-188260806093037281.chn) — CafeF
 
 ---
