@@ -1,0 +1,268 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Should You Sell Beauty into Vietnam? A 2026 Go / No-Go Decision";
+const description = "A sourced go/no-go analysis for foreign beauty and cosmetics brands entering Vietnam in 2026: the demand (beauty is ~29.5% of e-commerce GMV, online +30%), the brutal economics (17–19.8% platform commission + mandatory DAV registration), and who should — and shouldn't — enter.";
+const canonical = "https://vnmarketinsights.com/sell-into-vietnam/beauty/";
+const updated = "2026-08-12";
+
+const scorecard = [
+  { dim: 'Demand', rating: 'Strong', score: 5, note: 'Online beauty ~US$2.83B in 2025, +~30% YoY; beauty is ~29.5% of four-platform GMV' },
+  { dim: 'Foreign-brand fit', rating: 'Strong', score: 5, note: 'Foreign brands are >90% of cosmetics sales; Korean/Japanese/EU routines preferred' },
+  { dim: 'Margin pressure', rating: 'Harsh', score: 2, note: 'Highest platform commissions of any category (Shopee ~17%, TikTok up to 19.8%) plus ad/affiliate load' },
+  { dim: 'Regulatory load', rating: 'Heavy', score: 2, note: 'Mandatory DAV cosmetic notification per SKU + Vietnamese labeling before you can list' },
+  { dim: 'Competition', rating: 'Intense', score: 2, note: 'Korea ~30% of imports; L\'Oréal, Unilever, Shiseido, Estée Lauder entrenched' },
+];
+
+const faqs = [
+  {
+    question: "Is Vietnam a good market for foreign beauty brands in 2026?",
+    answer: "Yes, with conditions. Demand is strong and structurally friendly to foreign brands — they make up over 90% of cosmetics sales, online beauty grew about 30% in 2025 to roughly US$2.83 billion, and beauty is about 29.5% of GMV across Vietnam's four biggest platforms. The catch is that beauty carries the highest platform commissions of any category (Shopee ~17%, TikTok Shop up to 19.8%), mandatory DAV cosmetic registration per SKU, and entrenched Korean competition. It's a go for a differentiated, adequately-capitalized brand with an official-store strategy, and a no-go for a low-margin generic competing on price."
+  },
+  {
+    question: "Do I need to register cosmetics before selling in Vietnam?",
+    answer: "Yes — this is non-negotiable and the #1 launch blocker. Every cosmetic SKU/formula needs a DAV (Drug Administration of Vietnam) notification before it can be imported or listed, typically ~15–30 business days per submission, and labels must be in Vietnamese. Shopee, TikTok Shop, and Lazada request the notification receipt during verification and delist products that lack it. Budget the registration time and cost (roughly $500–2,000/SKU including labeling and testing) into your launch plan."
+  },
+  {
+    question: "Which platform is best for selling beauty in Vietnam?",
+    answer: "TikTok Shop is where beauty discovery is shifting — its beauty revenue grew ~93% in 2025 versus ~6% for Shopee — because livestream and short-video demonstrate skincare and makeup well. But TikTok's beauty commission is the highest (up to 19.8%) and creator affiliate costs stack on top. Shopee still has the largest reach. Most serious brands run both, and 64% of beauty revenue now comes from official brand stores, so an official/Mall presence matters for the trust Vietnamese buyers demand after counterfeit scandals."
+  },
+  {
+    question: "Where are the openings for a new beauty brand in Vietnam?",
+    answer: "Three stand out: science-backed/clinical skincare (84% of users prioritize transparent ingredients, 82% prefer lasting efficacy), men's grooming (male skincare grew ~47% YoY in H1 2025, still under-served, winning with simple multi-functional products), and clean/vegan formulations (a small but fast-growing niche). Competing head-on with entrenched mass K-beauty on price is the hardest path."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Decision"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="sell-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/sell-into-vietnam/">Sell into Vietnam</a>
+      <span aria-hidden="true">/</span>
+      <span>Beauty go / no-go</span>
+    </nav>
+
+    <header class="sell-header">
+      <h1>{title}</h1>
+      <p class="sell-meta">Last updated {updated} · A first-party decision analysis · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="verdict" aria-label="Verdict">
+      <div class="verdict__badge">GO — with conditions</div>
+      <p class="verdict__text">
+        Vietnam's beauty demand is strong and structurally open to foreign brands, but it's the most
+        expensive category to sell in and the most tightly regulated. <strong>Enter if</strong> you have a
+        differentiated product (clinical/science-backed skincare, men's grooming, or clean/vegan), can
+        fund DAV registration upfront, and can absorb ~17–20% platform commission with an official-store
+        trust play. <strong>Don't enter if</strong> you're a low-margin generic hoping to win on price
+        against entrenched Korean brands.
+      </p>
+    </aside>
+
+    <section>
+      <h2>The scorecard</h2>
+      <div class="fee-table-wrap">
+        <table class="score-table">
+          <thead><tr><th>Dimension</th><th>Read</th><th>Why</th></tr></thead>
+          <tbody>
+            {scorecard.map(s => (
+              <tr>
+                <th scope="row">{s.dim}</th>
+                <td><span class:list={["pill", s.score >= 4 ? "pill--good" : s.score === 3 ? "pill--mid" : "pill--hard"]}>{s.rating}</span></td>
+                <td>{s.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside class="keyfacts" aria-label="Key numbers">
+      <h2 class="keyfacts__title">Vietnam beauty at a glance (2025–26)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>~US$2.83B</strong> online beauty, +~30% YoY (2025)</li>
+        <li><strong>29.5%</strong> of four-platform GMV is beauty</li>
+        <li><strong>&gt;90%</strong> of sales are foreign brands</li>
+        <li><strong>~30%</strong> of imports are Korean (largest)</li>
+        <li><strong>17–19.8%</strong> platform commission (highest category)</li>
+        <li><strong>64%</strong> of beauty revenue via official stores</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>The opportunity: demand is real and foreign-friendly</h2>
+      <p>
+        Beauty is one of the best consumer bets in Vietnam. Online beauty sales reached roughly
+        <strong>US$2.83 billion in 2025, up ~30%</strong>, and beauty accounts for about
+        <strong>29.5% of GMV</strong> across the four largest e-commerce platforms — the single biggest
+        category. Crucially for outsiders, <strong>foreign brands are over 90% of cosmetics sales</strong>:
+        Vietnamese consumers actively prefer imported Korean, Japanese, and European products, and 60%+
+        use skincare daily, with women 25–45 spending ~US$30/month. Most purchases fall in the
+        VND 200,000–500,000 band — this is a mass-premium market, not a luxury one.
+      </p>
+    </section>
+
+    <section>
+      <h2>The catch: the harshest economics of any category</h2>
+      <p>Three things make beauty the toughest category to actually profit in:</p>
+      <ul class="route-list">
+        <li><strong>Highest commissions.</strong> Beauty carries the top platform Fixed Fee — ~17% on <a href="/guides/how-to-sell-on-shopee-vietnam/">Shopee</a> and up to 19.8% on <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop</a> — before the 6% transaction fee, ads, and creator affiliate commissions.</li>
+        <li><strong>Mandatory registration.</strong> Every SKU needs a DAV cosmetic notification (~15–30 business days) plus Vietnamese labeling before you can list; platforms delist non-compliant products.</li>
+        <li><strong>Trust barrier.</strong> After counterfeit scandals, 64% of beauty revenue flows through official brand stores and 84% of buyers prioritize transparent ingredients — you can't win on a plain third-party listing.</li>
+      </ul>
+      <h3>Worked economics: a 300,000₫ serum on TikTok Shop</h3>
+      <ul class="worked">
+        <li>Commission (19.8%): <strong>−59,400₫</strong></li>
+        <li>Transaction fee (6%): <strong>−18,000₫</strong></li>
+        <li>Decree 117 tax withheld (1.5%): <strong>−4,500₫</strong></li>
+        <li>Creator affiliate (20%): <strong>−60,000₫</strong></li>
+        <li>Left before COGS, ads &amp; shipping: <strong>≈158,100₫ (~53%)</strong></li>
+      </ul>
+      <p>
+        Once you add landed cost (import duty + 10% VAT since the <a href="/data/vietnam-regulation-tracker/">de-minimis exemption was removed</a>), COGS, and paid ads, a generic beauty SKU is often underwater. Model your own numbers with the <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> and the <a href="/tools/channel-selector/">channel selector</a> before committing.
+      </p>
+    </section>
+
+    <section>
+      <h2>Where the openings are</h2>
+      <ul class="route-list">
+        <li><strong>Science-backed / clinical skincare</strong> — 84% of users prioritize transparent ingredients and 82% prefer lasting efficacy over instant results. Dermocosmetic and active-ingredient brands with substantiated claims fit the shift.</li>
+        <li><strong>Men's grooming</strong> — male skincare grew ~47% YoY in H1 2025 and is still under-served; winners offer simple, multi-functional "all-in-one" products.</li>
+        <li><strong>Clean / vegan formulations</strong> — a small but fast-growing niche (Vietnam vegan cosmetics ~US$99M, ~8% CAGR) that lets you sidestep head-to-head price wars.</li>
+      </ul>
+      <p>Channel-wise: lead with <strong>TikTok Shop</strong> for discovery (its beauty revenue grew ~93% in 2025 vs Shopee's ~6%) but back it with an official brand store for the trust Vietnamese beauty buyers now demand.</p>
+    </section>
+
+    <section>
+      <h2>If it's a go: how to actually enter</h2>
+      <ol class="step-list-simple">
+        <li>Register your top SKUs with the DAV and prepare Vietnamese labels <em>first</em> — this is the long pole.</li>
+        <li>Test demand cross-border, then move to local inventory / an official store as volume builds — see the <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a>.</li>
+        <li>Model unit economics per platform and category with the <a href="/tools/channel-selector/">channel selector</a> and <a href="/tools/landed-cost-calculator/">landed-cost calculator</a>.</li>
+        <li>Track the rules that affect you (Decree 117 withholding, PDPL, the July 2026 E-Commerce Law) on the <a href="/data/vietnam-regulation-tracker/">regulation tracker</a>.</li>
+        <li>Follow the platform playbooks: <a href="/guides/how-to-sell-on-shopee-vietnam/">Shopee</a>, <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop</a>, <a href="/guides/how-to-sell-on-lazada-vietnam/">Lazada</a>.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Vietnam Briefing — beauty & personal care market entry (Aug 2026); The Investor — 30% retail beauty growth 2025</li>
+        <li>Metric.vn via global-angle — beauty = 29.5% of four-platform GMV; TikTok +93% vs Shopee +6% (2025)</li>
+        <li>US International Trade Administration — foreign brands &gt;90%; Korea ~30% of imports; Q&amp;Me consumer studies</li>
+        <li>Euromonitor / IMARC / Statista — market size & CAGR; DAV cosmetic notification requirements</li>
+        <li>Platform fees & tax — our <a href="/guides/shopee-vietnam-seller-fees/">Shopee fee reference</a> and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced decision analysis, not legal, tax, or investment advice. Market figures vary by source and definition; confirm the specifics for your category and product before committing capital.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/tools/channel-selector/">Channel selector</a> · <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/data/vietnam-ecommerce-platform-shares/">Platform market shares dataset</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce statistics 2026</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/sell-into-vietnam/">← Sell into Vietnam</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .sell-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .sell-header { margin-bottom: var(--space-5); }
+  .sell-header h1 { border: none; margin-bottom: var(--space-3); }
+  .sell-meta { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sell-meta a { color: var(--color-accent); }
+
+  .verdict { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 4px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .verdict__badge { display: inline-block; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; font-size: var(--text-sm); color: #fff; background: var(--color-accent); padding: 4px 12px; border-radius: 100px; margin-bottom: var(--space-3); }
+  .verdict__text { margin: 0; font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .verdict__text a { color: var(--color-accent); }
+
+  section { margin-bottom: var(--space-10); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .score-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .score-table th, .score-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .score-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .score-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .pill { display: inline-block; font-weight: 700; font-size: var(--text-xs); padding: 2px 10px; border-radius: 100px; border: 1px solid transparent; white-space: nowrap; }
+  .pill--good { background: color-mix(in srgb, #16a34a 16%, transparent); color: #15803d; border-color: color-mix(in srgb, #16a34a 35%, transparent); }
+  .pill--mid { background: color-mix(in srgb, #d97706 16%, transparent); color: #b45309; border-color: color-mix(in srgb, #d97706 35%, transparent); }
+  .pill--hard { background: color-mix(in srgb, #dc2626 15%, transparent); color: #b91c1c; border-color: color-mix(in srgb, #dc2626 35%, transparent); }
+  @media (prefers-color-scheme: dark) { .pill--good { color: #4ade80; } .pill--mid { color: #fbbf24; } .pill--hard { color: #f87171; } }
+  :root[data-theme="dark"] .pill--good { color: #4ade80; }
+  :root[data-theme="dark"] .pill--mid { color: #fbbf24; }
+  :root[data-theme="dark"] .pill--hard { color: #f87171; }
+
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-xl); color: var(--color-accent); font-variant-numeric: tabular-nums; }
+
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-3); }
+  .worked { margin: var(--space-3) 0; line-height: 1.7; }
+  .worked strong { font-variant-numeric: tabular-nums; }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  section p a, .route-list a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
