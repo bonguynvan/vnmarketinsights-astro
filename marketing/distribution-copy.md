@@ -104,6 +104,53 @@ Everything below is copy-paste ready. Swap nothing except where marked `[…]`. 
 
 ---
 
+## READY LINKS (UTM-tagged — paste these, don't use bare URLs)
+
+Copy the row for the channel you're posting to. UTM lets you see in analytics which channel actually sends traffic.
+
+**Hacker News (Show HN):**
+- `https://vnmarketinsights.com/tools/landed-cost-calculator/?utm_source=hn&utm_medium=social&utm_campaign=showhn`
+
+**Product Hunt:**
+- Site: `https://vnmarketinsights.com/?utm_source=producthunt&utm_medium=social&utm_campaign=launch`
+- Landed-cost: `https://vnmarketinsights.com/tools/landed-cost-calculator/?utm_source=producthunt`
+- Channel selector: `https://vnmarketinsights.com/tools/channel-selector/?utm_source=producthunt`
+
+**Reddit / forums:**
+- Landed-cost: `https://vnmarketinsights.com/tools/landed-cost-calculator/?utm_source=reddit`
+- Channel selector: `https://vnmarketinsights.com/tools/channel-selector/?utm_source=reddit`
+- Regulation tracker: `https://vnmarketinsights.com/data/vietnam-regulation-tracker/?utm_source=reddit`
+- Playbook: `https://vnmarketinsights.com/sell-into-vietnam/?utm_source=reddit`
+
+**Quora:**
+- Landed-cost: `https://vnmarketinsights.com/tools/landed-cost-calculator/?utm_source=quora`
+- Regulation tracker: `https://vnmarketinsights.com/data/vietnam-regulation-tracker/?utm_source=quora`
+
+**LinkedIn:**
+- `https://vnmarketinsights.com/data/vietnam-regulation-tracker/?utm_source=linkedin`
+
+---
+
+## WHERE TO POST TODAY (live-thread finders — sorted newest first)
+
+Click these, scan for a question your tool answers, reply answer-first with the matching UTM link. Threads change daily, so use these searches rather than fixed URLs:
+
+**Reddit:**
+- Vietnam import duty (all): https://www.reddit.com/search/?q=Vietnam%20import%20duty&sort=new
+- Sell Vietnam Shopee/TikTok: https://www.reddit.com/search/?q=sell%20Vietnam%20Shopee%20TikTok&sort=new
+- r/ecommerce → Vietnam: https://www.reddit.com/r/ecommerce/search/?q=Vietnam&restrict_sr=1&sort=new
+- r/FulfillmentByAmazon → Vietnam: https://www.reddit.com/r/FulfillmentByAmazon/search/?q=Vietnam&restrict_sr=1&sort=new
+- r/AmazonSeller → Vietnam: https://www.reddit.com/r/AmazonSeller/search/?q=Vietnam&restrict_sr=1&sort=new
+
+**Quora:**
+- Sell on Shopee VN as foreigner: https://www.quora.com/search?q=sell%20Shopee%20Vietnam%20foreigner
+- Vietnam import duty: https://www.quora.com/search?q=Vietnam%20import%20duty
+
+**Expat.com (already-active threads on import/reselling):**
+- https://www.expat.com/en/forum/asia/vietnam/
+
+---
+
 ## Posting cadence (don't burn accounts)
 - Space directory submissions out; do 5–8/day, not 100 at once.
 - On Reddit/Quora: build a little history first (comment normally a few times), then answer with the tool link — brand-new accounts dropping links get auto-removed.
