@@ -1,57 +1,86 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 
-const title = "How to Sell on Shopee in Vietnam (2026) — Step-by-Step Seller Guide";
-const description = "A practical step-by-step guide to selling on Shopee Vietnam: registering a seller account, listing products, fees, logistics, promotions, and tips to win the buy box.";
+const title = "How to Sell on Shopee in Vietnam (2026) — Fees, Foreign Sellers & Setup";
+const description = "A deep, sourced guide to selling on Shopee Vietnam in 2026: the real fee stack (transaction 6% + category commission up to 17%), payout timing, cross-border vs Shopee Mall for foreign sellers, product registration, and a worked net-payout example.";
 const canonical = "https://vnmarketinsights.com/guides/how-to-sell-on-shopee-vietnam/";
+const updated = "2026-08-12";
 
 const steps = [
   {
-    name: 'Register a Shopee seller account',
-    text: 'Sign up at Shopee Seller Centre with a Vietnamese phone number and email. Verify your identity (KYC), then add a bank account for payouts. Foreign sellers typically operate through a local entity, a Vietnamese partner, or Shopee\'s cross-border (SIP) program.',
+    name: 'Pick your seller type before anything else',
+    text: 'Local sellers register directly with a Vietnamese phone, email, and bank account. Foreign sellers cannot sign up as a local individual — they use a cross-border seller account (ship from abroad, no local entity), an invite-only Shopee International Platform (SIP) slot, or Shopee Mall, which requires a Vietnam-registered entity or an authorized local importer. Your choice sets your fees, payout currency, and delivery speed.',
   },
   {
-    name: 'Set up your shop profile',
-    text: 'Add a clear shop name, logo, description, and policies (shipping, returns). Complete shop settings before listing — a finished profile converts better and unlocks more features.',
+    name: 'Register and pass KYC',
+    text: 'Complete identity verification (KYC) in Shopee Seller Centre and link a payout account. Local sellers link a Vietnamese bank account and are paid in VND; cross-border sellers onboard through Shopee\'s global seller team and are typically paid weekly via Payoneer or bank transfer, converted to their own currency.',
   },
   {
-    name: 'List your products',
-    text: 'Create listings with high-quality images, keyword-rich titles, accurate categories, attributes, weight, and dimensions. Weight and dimensions matter because they determine shipping fees and carrier eligibility.',
+    name: 'Register regulated products first — this blocks most launches',
+    text: 'Cosmetics need a DAV notification (per formula/SKU, ~15–30 business days), food and supplements need VFA declaration/registration (from ~1 week for processed food to 1–3 months for health supplements), and all labels must be in Vietnamese. Shopee actively requests these documents during verification and delists or suspends listings that lack them.',
   },
   {
-    name: 'Connect logistics',
-    text: 'Enable shipping channels — Shopee\'s own SPX Express plus integrated carriers (GHN, GHTK, J&T). Choosing multiple carriers improves coverage and delivery speed across cities and rural areas.',
+    name: 'List with the right category — it sets your commission',
+    text: 'Use keyword-rich titles, accurate attributes, and correct weight and dimensions (they drive shipping fees and carrier eligibility). Choose the category carefully: the Fixed Fee (commission) is charged per category, so a mis-categorized listing can cost several extra percent per order.',
   },
   {
-    name: 'Price for the promotion engine',
-    text: 'Shopee is promotion-driven. Build margin to absorb vouchers, free-shipping programs, and flash sales. Sellers who opt into campaigns and ads get dramatically more visibility than those relying on organic listings alone.',
+    name: 'Price for the full fee stack, not the headline commission',
+    text: 'Build enough margin to absorb the ~25–45% Shopee can take once transaction fees, category commission, optional Voucher Xtra / Freeship packages, the infrastructure fee, the automatic visibility deduction, and ad spend are added. Sellers who price only against the headline commission lose money on every promoted order.',
   },
   {
-    name: 'Launch, fulfill, and optimize',
-    text: 'Ship orders within the required handover window to protect your seller rating. Track conversion, clicks, and rating; iterate on titles, images, and price. Strong fulfillment metrics and reviews drive ranking over time.',
+    name: 'Launch, fulfill fast, and iterate',
+    text: 'Ship within the required handover window to protect your seller rating, respond to buyer messages within 24 hours (the local baseline), and iterate on titles, images, price, and ads. Fulfillment metrics, conversion, and reviews drive organic ranking over time.',
   },
+];
+
+const feeRows = [
+  { fee: 'Transaction processing fee', rate: '6%', note: 'All sellers, prepaid methods; raised from 4.91% in May 2026 (renamed from "Payment Fee")' },
+  { fee: 'Fixed fee (category commission) — Beauty', rate: '~17%', note: 'Highest tier; was ~14% before 23 May 2026' },
+  { fee: 'Fixed fee — Health', rate: '~15.5–17%', note: '' },
+  { fee: 'Fixed fee — Fashion', rate: '~13.5–16.5%', note: '' },
+  { fee: 'Fixed fee — Home & Living', rate: '~10–16%', note: '' },
+  { fee: 'Fixed fee — Food & beverage / groceries', rate: '~10%', note: 'Among the lowest-commission categories' },
+  { fee: 'Fixed fee — Phones, tablets, laptops', rate: '~2%', note: 'Low commission, thin margins' },
+  { fee: 'Voucher Xtra (optional)', rate: '5.5%', note: 'Per product, capped 50,000₫; raised from 4%' },
+  { fee: 'Freeship Xtra Plus (optional)', rate: '7.85%', note: '' },
+  { fee: 'Infrastructure fee', rate: '3,000₫/order', note: 'Flat' },
+  { fee: 'Withdrawal fee', rate: '10,800₫/withdrawal', note: 'Flat' },
+  { fee: 'Auto visibility deduction', rate: '≥1% of order value', note: 'New from 29 May 2026; credited to your ad account' },
+  { fee: 'Decree 117 tax withheld per order (goods)', rate: '1% VAT + 0.5% PIT', note: 'Resident sellers; 1% PIT for non-residents. Platform remits it for you' },
 ];
 
 const faqs = [
   {
+    question: "How much are Shopee Vietnam fees in 2026?",
+    answer: "As of mid-2026, Shopee charges a 6% transaction processing fee (up from 4.91% in May 2026) plus a category-based fixed commission that ranges from about 1.5% to 17% — roughly 17% for beauty, 13.5–16.5% for fashion, ~10% for food, and ~2% for phones and laptops. Optional programs add more: Voucher Xtra 5.5% (capped 50,000₫/product) and Freeship Xtra Plus 7.85%. There is also a 3,000₫/order infrastructure fee, a 10,800₫ withdrawal fee, and, since 29 May 2026, an automatic deduction of at least 1% of order value into your ad account. Vietnam's Ministry of Industry and Trade noted total fees can rise from around 24.5% to over 30.5% of revenue excluding ads — and 40–45% for some categories once promotions and operations are included. Confirm current rates in Shopee Seller Centre; Shopee changes them frequently."
+  },
+  {
     question: "Can foreigners sell on Shopee Vietnam?",
-    answer: "Not directly as an individual in most cases. Foreign sellers typically operate through a registered Vietnamese business entity, partner with a local seller or distributor, or use Shopee's cross-border program (Shopee International Platform / SIP) where supported. A local bank account and KYC verification are required for payouts."
+    answer: "Not as a local individual. Foreign brands use one of three routes: a cross-border seller account (ship from abroad, no Vietnam entity, ~7–14 day delivery, customs cleared per order); Shopee International Platform (SIP), which is invite-only and currently limited to sellers in a few countries; or Shopee Mall, which requires a Vietnam-registered entity or an authorized local importer but earns the Mall badge that converts 2–3× better. Cross-border payouts are typically weekly via Payoneer or bank transfer in your currency."
   },
   {
-    question: "How much does it cost to sell on Shopee in Vietnam?",
-    answer: "There is no upfront listing fee, but Shopee charges a per-order commission (typically ~2–4% depending on category), payment-processing fees, and optional advertising and voucher costs. For sellers running on-platform ads and joining free-shipping programs, the effective take rate often lands in the 10–15% range once everything is included."
+    question: "How long does Shopee take to pay sellers?",
+    answer: "For local sellers, funds land in your Shopee balance 1–4 days after successful delivery — immediately when the buyer taps 'Order Received', or automatically on day 4 if they don't, provided there's no return/refund request. Cross-border sellers are usually paid on a weekly cycle. COD orders are reconciled once the carrier remits the collected cash."
   },
   {
-    question: "How do payouts work for Shopee sellers?",
-    answer: "Order proceeds (minus fees) are held in your Shopee seller wallet/balance and released to your linked Vietnamese bank account on a settlement cycle after the buyer confirms receipt or the auto-confirm window passes. Cash-on-delivery orders are reconciled once the carrier remits the collected cash."
+    question: "Do I need to register my products before selling on Shopee Vietnam?",
+    answer: "Yes, for regulated categories. Cosmetics require a DAV notification receipt (per formula/SKU, ~15–30 business days), and food and health supplements require VFA declaration or registration (from ~1 week to 1–3 months). Labels must be in Vietnamese. Shopee requests these documents during verification and will delist or suspend products that lack them — this is one of the most common reasons foreign sellers get blocked."
+  },
+  {
+    question: "What taxes apply when selling on Shopee Vietnam?",
+    answer: "Under Decree 117/2025/NĐ-CP (effective 1 July 2025), Shopee withholds and remits tax per order on behalf of household/individual sellers: for goods, 1% VAT plus 0.5% personal income tax for residents (1% for non-residents). VAT on Shopee's own service fees is temporarily 8% (down from 10%) through 31 December 2026 under Resolution 204/2025/QH15. Cross-border sellers also face import duty (0–30% by HS code) plus 10% VAT at the border — the low-value de-minimis exemption was removed on 18 February 2025."
   },
   {
     question: "What sells best on Shopee Vietnam?",
-    answer: "High-velocity, value-priced everyday categories perform well: fashion and accessories, beauty, home goods, mobile accessories, and FMCG. Shopee's mass-market, price-sensitive audience rewards competitive pricing, strong reviews, and participation in flash sales and vouchers."
+    answer: "High-velocity, value-priced everyday categories: fashion and accessories, beauty, home goods, mobile accessories, and FMCG. Shopee's mass-market, price-sensitive audience rewards competitive pricing, strong reviews, and participation in flash sales and the 9.9 / 11.11 / 12.12 mega-campaigns. Note the trade-off: beauty and health convert well but carry the highest commissions (~17%)."
+  },
+  {
+    question: "Shopee Mall vs cross-border seller account — which should a foreign brand use?",
+    answer: "Use a cross-border account to test demand cheaply (no entity, ship from abroad), then graduate to Shopee Mall once monthly sales justify local inventory. Mall requires a Vietnam entity or authorized importer and roughly $2,000–5,000 setup plus $1,000–3,000/month in promotion, but the Mall badge and 1–3 day domestic delivery convert far better than a cross-border listing with 7–14 day shipping."
   },
   {
     question: "How do I get my products to rank on Shopee?",
-    answer: "Ranking is driven by keyword-relevant titles and attributes, conversion rate, sales velocity, review quality, on-time fulfillment, and ad spend. New sellers usually combine optimized listings with Shopee Ads and campaign participation to build initial momentum before organic ranking takes over."
+    answer: "Ranking is driven by keyword-relevant titles and attributes, conversion rate, sales velocity, review quality, on-time fulfillment, and ad spend. New sellers usually combine optimized listings with Shopee Ads and campaign participation to build momentum; Shopee also waives the Fixed Fee for a new shop's first 30 days, a good window to build reviews before commissions kick in."
   }
 ];
 
@@ -86,7 +115,7 @@ const faqSchema = {
   pageType="Article"
   articleSection="Guide"
   publishedDate="2026-05-30"
-  lastUpdated="2026-05-30"
+  lastUpdated={updated}
   structuredData={[howToSchema, faqSchema]}
   mainClass="container"
 >
@@ -102,13 +131,28 @@ const faqSchema = {
     <header class="guide-header">
       <h1>{title}</h1>
       <p class="guide-lead">
-        Shopee is Vietnam's largest e-commerce platform, with roughly 60–65% of marketplace GMV.
-        This guide walks through how to start selling on Shopee Vietnam — from account
-        registration and product listing to fees, logistics, and the promotion mechanics that
-        actually drive sales. It's written for sellers and brands evaluating the Vietnamese
-        market; details and fees change, so confirm current terms in Shopee Seller Centre.
+        Shopee is Vietnam's largest e-commerce platform — roughly
+        <a href="/data/vietnam-ecommerce-platform-shares/">56% of marketplace GMV in 2025</a>.
+        It's also getting materially more expensive to sell on: Shopee raised its transaction fee and
+        many category commissions in 2026. This guide covers how selling on Shopee Vietnam actually
+        works in 2026 — the full fee stack with real numbers, payout timing, the routes foreign sellers
+        can use, product registration, and a worked net-payout example. Figures are as of {updated};
+        Shopee changes fees often, so confirm current terms in Shopee Seller Centre.
       </p>
+      <p class="guide-meta">Last updated {updated} · Sourced from Shopee Uni, Vietnam News, and Vietnam customs/tax regulations (see <a href="#sources">sources</a>)</p>
     </header>
+
+    <aside class="keyfacts" aria-label="Key numbers">
+      <h2 class="keyfacts__title">Shopee Vietnam at a glance (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>6%</strong> transaction processing fee (up from 4.91%)</li>
+        <li><strong>1.5–17%</strong> category commission (Fixed Fee)</li>
+        <li><strong>~25–45%</strong> of revenue in total platform + promo cost</li>
+        <li><strong>1–4 days</strong> payout after delivery (local)</li>
+        <li><strong>1% VAT + 0.5% PIT</strong> withheld per order (Decree 117)</li>
+        <li><strong>~56%</strong> of 2025 marketplace GMV</li>
+      </ul>
+    </aside>
 
     <section>
       <h2>Step-by-step</h2>
@@ -126,26 +170,118 @@ const faqSchema = {
     </section>
 
     <section>
-      <h2>Understanding Shopee's fees</h2>
+      <h2 id="fees">What it really costs: Shopee's 2026 fee stack</h2>
       <p>
-        There's no fee to list, but selling on Shopee carries three layers of cost: a per-order
-        <strong> commission</strong> (roughly 2–4% by category), <strong>payment-processing fees</strong>,
-        and optional <strong>advertising and voucher</strong> spend. The headline commission
-        understates the real cost — sellers who compete seriously join free-shipping programs and
-        buy Shopee Ads, pushing the effective take rate into the 10–15% range. Price your products
-        with enough margin to fund promotions, or you'll be invisible against sellers who do.
+        Shopee has no listing fee, but it takes its cut through several layers — and it raised most of
+        them in 2026. In May 2026 Shopee lifted the transaction processing fee to <strong>6%</strong>
+        (from 4.91%) and pushed many category commissions sharply higher; beauty rose to about
+        <strong>17%</strong>. Vietnam's Ministry of Industry and Trade publicly urged platforms toward
+        "transparent and reasonable" fees after sellers reported total costs climbing from around
+        <strong>24.5% to over 30.5% of revenue</strong> excluding ads, and <strong>40–45%</strong> in
+        some categories once promotions and operations are counted.
       </p>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead>
+            <tr><th>Fee</th><th>Rate (VAT incl.)</th><th>Notes</th></tr>
+          </thead>
+          <tbody>
+            {feeRows.map(r => (
+              <tr>
+                <th scope="row">{r.fee}</th>
+                <td class="num">{r.rate}</td>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">
+        Fixed-fee percentages are VAT-inclusive and category-specific (values above are representative
+        of mid-2026 non-Mall rates). VAT on Shopee's fees is temporarily 8% through 31 December 2026.
+        Always verify your exact category rate in Seller Centre.
+      </p>
+
+      <h3>Worked example: net payout on a 200,000₫ beauty order</h3>
+      <p>Non-Mall seller, resident, not counting ads or withdrawal batching:</p>
+      <ul class="worked">
+        <li>Category commission (17%): <strong>−34,000₫</strong></li>
+        <li>Transaction fee (6%): <strong>−12,000₫</strong></li>
+        <li>Infrastructure fee: <strong>−3,000₫</strong></li>
+        <li>Decree 117 tax withheld (1% VAT + 0.5% PIT): <strong>−3,000₫</strong></li>
+        <li>Net before ads: <strong>≈148,000₫ (~74%)</strong> — and closer to ~68% if you run Voucher Xtra</li>
+      </ul>
+      <p>
+        Beauty is the worst case; a ~10% food category or a 2% electronics category keeps far more.
+        For the full category-by-category commission table and the 2023–2026 fee history, see our
+        <a href="/guides/shopee-vietnam-seller-fees/">Shopee Vietnam seller fees reference</a>. To model
+        <em>your</em> category, ad take-rate, and the Decree 117 withholding across Shopee, TikTok Shop,
+        and Lazada side by side, use our
+        <a href="/tools/channel-selector/">channel selector (net-payout calculator)</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Selling as a foreign brand: cross-border, SIP, or Shopee Mall</h2>
+      <p>
+        You have three distinct routes, and the current advice online often conflates them:
+      </p>
+      <ul class="route-list">
+        <li>
+          <strong>Cross-border seller account</strong> — sell to Vietnamese buyers while shipping from
+          abroad, with no local entity. Customs clears at the individual-order level, delivery runs
+          ~7–14 days, and payouts are usually weekly in your currency. Best for testing demand.
+        </li>
+        <li>
+          <strong>Shopee International Platform (SIP)</strong> — an <strong>invite-only</strong> program
+          currently limited to sellers in a handful of countries (e.g. Philippines, Singapore, Thailand,
+          Chile). It is <em>not</em> a general open cross-border option, despite how it's often described.
+        </li>
+        <li>
+          <strong>Shopee Mall</strong> — the official brand-store format with the trust-building Mall
+          badge (2–3× conversion), but it requires a Vietnam-registered entity or an authorized local
+          importer, plus roughly $2,000–5,000 setup and $1,000–3,000/month in promotion.
+        </li>
+      </ul>
+      <p>
+        The usual path: start cross-border to validate demand, then graduate to local inventory or a
+        Vietnam entity once monthly sales justify it (commonly around US$50–100k/month). Two things to
+        price in before you list: cross-border parcels now carry import duty (0–30% by HS code) plus
+        10% VAT because the low-value de-minimis exemption was <strong>removed on 18 February 2025</strong>
+        — model it with our <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> — and
+        from 1 July 2026 the new E-Commerce Law requires foreign platforms/brands to have a local
+        compliance footing. Both, plus the Decree 117 tax withholding, are tracked with sources on our
+        <a href="/data/vietnam-regulation-tracker/">Vietnam regulation tracker</a>. See also the full
+        <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Product registration &amp; compliance (the #1 launch blocker)</h2>
+      <p>
+        Vietnam applies the same product rules online as in physical retail — there are no e-commerce
+        exemptions, and Shopee enforces them by requesting documents and delisting products that fail
+        verification. Register regulated products <em>before</em> you list:
+      </p>
+      <ul class="compliance-list">
+        <li><strong>Cosmetics</strong> — DAV (Drug Administration of Vietnam) notification, per formula/SKU, typically ~15–30 business days; keep the Cosmetic Product Notification Receipt on hand for platform checks.</li>
+        <li><strong>Food &amp; dietary supplements</strong> — VFA registration/self-declaration; ~1 week for standard processed food, 1–3 months for health supplements.</li>
+        <li><strong>Medical devices</strong> — class-based import licence, often 6–12 months for higher-risk classes.</li>
+        <li><strong>Labeling</strong> — must be in Vietnamese and consistent with your registration documents; mismatches are a top rejection reason. Budget roughly $500–2,000 per SKU plus lab testing.</li>
+      </ul>
+      <p>Start registration on your top 10–20 SKUs early — the biggest cause of slow Vietnam launches is starting this too late.</p>
     </section>
 
     <section>
       <h2>Logistics and fulfillment</h2>
       <p>
-        Shopee operates its own <strong>SPX Express</strong> network and also integrates major
-        third-party carriers — <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T Express</a>.
-        Enable several channels so orders route efficiently across HCMC, Hanoi, and rural areas.
-        Same-day and next-day delivery are standard in the two big metros; tier-2/3 cities
-        typically see 2–4 days. Accurate weight and dimensions on each listing are essential —
-        they determine shipping fees and which carriers can handle the parcel.
+        Shopee runs its own <strong>SPX Express</strong> network and integrates major third-party
+        carriers — <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T Express</a>.
+        Enable several channels so orders route efficiently across HCMC, Hanoi, and rural areas. Same-day
+        and next-day delivery are standard in the two big metros; tier-2/3 cities typically see 2–4 days.
+        Accurate weight and dimensions on each listing are essential — they determine shipping fees and
+        which carriers can handle the parcel. Cross-border orders use international partners and clear
+        customs per order, so set 7–14 day delivery expectations on those listings.
       </p>
     </section>
 
@@ -163,14 +299,26 @@ const faqSchema = {
       </div>
     </section>
 
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Shopee Uni (Học viện Shopee) — official seller fee schedules and Decree 85 listing requirements (banhang.shopee.vn)</li>
+        <li>Vietnam News — "Ministry urges transparency as platforms raise seller fees" (25 May 2026)</li>
+        <li>ZNews / vietnam.vn — Shopee fee history 2023–2026</li>
+        <li>Decree 117/2025/NĐ-CP (platform tax withholding) and Decision 01/2025/QĐ-TTg (de-minimis removal) — see our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+        <li>DAV / VFA product registration guidance (Emerhub, BeLuxCham)</li>
+      </ul>
+      <p class="table-note">This guide is a sourced reference, not legal or tax advice. Fees and rules change frequently — confirm current terms in Shopee Seller Centre and with a qualified Vietnamese advisor before committing.</p>
+    </section>
+
     <section>
       <h2>Related references</h2>
       <ul class="related-list">
-        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop — platform comparison</a></li>
-        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express — carrier comparison</a></li>
-        <li><a href="/ecommerce/">Vietnam E-commerce Market — overview</a></li>
-        <li><a href="/stats/vietnam-ecommerce-2026/">Vietnam E-commerce Statistics 2026</a></li>
-        <li><a href="/glossary/gmv/">GMV (glossary)</a> · <a href="/glossary/marketplace/">Marketplace (glossary)</a> · <a href="/glossary/cod/">COD (glossary)</a></li>
+        <li><a href="/tools/channel-selector/">Channel selector</a> — model net payout across Shopee, TikTok Shop &amp; Lazada</li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/data/vietnam-regulation-tracker/">Vietnam regulation tracker</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">How to sell on TikTok Shop Vietnam</a> · <a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a></li>
+        <li><a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN vs GHTK vs J&amp;T Express</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+        <li><a href="/ecommerce/">Vietnam E-commerce Market — overview</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce Statistics 2026</a></li>
       </ul>
     </section>
 
@@ -185,14 +333,40 @@ const faqSchema = {
   .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
   .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
   .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
-  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header { margin-bottom: var(--space-6); }
   .guide-header h1 { border: none; margin-bottom: var(--space-3); }
   .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-xl); color: var(--color-accent); font-variant-numeric: tabular-nums; }
+
+  section { margin-bottom: var(--space-10); }
   .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
   .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
   .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
   .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
   .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); white-space: nowrap; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .worked { margin: var(--space-3) 0; line-height: 1.7; }
+  .worked strong { font-variant-numeric: tabular-nums; }
+
+  .route-list, .compliance-list { line-height: 1.65; }
+  .route-list li, .compliance-list li { margin-bottom: var(--space-3); }
+  section p a, .route-list a, .compliance-list a, .source-list a { color: var(--color-accent); }
+
   .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
   .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
   .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
@@ -201,6 +375,9 @@ const faqSchema = {
   .faq-item[open] .faq-question::after { content: '−'; }
   .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
   .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
   .related-list a { color: var(--color-accent); text-decoration: none; }

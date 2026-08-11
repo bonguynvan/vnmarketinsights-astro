@@ -1,0 +1,249 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Shopee Vietnam Seller Fees 2026 — Full Commission Table by Category";
+const description = "The complete Shopee Vietnam seller fee breakdown for 2026: transaction fee 6%, category commission (Fixed Fee) from 1.5% to 17%, service fees, the 2023–2026 fee-hike history, and a worked net-payout example.";
+const canonical = "https://vnmarketinsights.com/guides/shopee-vietnam-seller-fees/";
+const updated = "2026-08-12";
+
+// Representative non-Mall Fixed Fee (commission) by category group, VAT-inclusive,
+// per Shopee Uni schedules effective 23 May 2026 (via TukiGroup / ZNews).
+const commissionRows = [
+  { cat: 'Beauty (Sắc đẹp)', rate: '~17%', note: 'Highest tier; was ~14%' },
+  { cat: 'Health (Sức khỏe)', rate: '~15.5–17%', note: '' },
+  { cat: 'Fashion', rate: '~13.5–16.5%', note: '' },
+  { cat: 'Hobbies & collectibles', rate: '~15–17%', note: '' },
+  { cat: 'Books & magazines', rate: '~14–15%', note: '' },
+  { cat: 'Pet care', rate: '~14%', note: '' },
+  { cat: 'Home & Living', rate: '~10–16%', note: 'Wide range by sub-category' },
+  { cat: 'Stationery', rate: '~11–16%', note: '' },
+  { cat: 'Food & beverage / groceries', rate: '~10%', note: 'Among the lowest' },
+  { cat: 'Fresh & frozen (meat, veg, eggs)', rate: '~10%', note: '' },
+  { cat: 'Baby care (skincare/bath)', rate: '~10.5%', note: '' },
+  { cat: 'Consumer electronics (audio, TV, gaming)', rate: '~7.5–12%', note: '' },
+  { cat: 'PC components', rate: '~7.5%', note: '' },
+  { cat: 'Cameras', rate: '~7.5–8%', note: '' },
+  { cat: 'Phones, tablets, laptops, monitors', rate: '~2%', note: 'Lowest commission, thin margins' },
+  { cat: 'Cars', rate: '~3.5%', note: '' },
+  { cat: 'Motorbikes', rate: '~1.5%', note: 'Lowest of all' },
+];
+
+const serviceRows = [
+  { fee: 'Transaction processing fee', rate: '6%', note: 'All sellers; up from 4.91% (May 2026)' },
+  { fee: 'Voucher Xtra (optional)', rate: '5.5%', note: 'Per product, capped 50,000₫; up from 4%' },
+  { fee: 'Freeship Xtra Plus (optional)', rate: '7.85%', note: '' },
+  { fee: 'PiShip (optional)', rate: '2,700₫/order', note: 'Up from 1,620₫' },
+  { fee: 'Infrastructure fee', rate: '3,000₫/order', note: 'Flat' },
+  { fee: 'Withdrawal fee', rate: '10,800₫/withdrawal', note: 'Flat' },
+  { fee: 'Auto visibility deduction', rate: '≥1% of order value', note: 'New from 29 May 2026; to your ad account' },
+  { fee: 'Decree 117 tax withheld (goods)', rate: '1% VAT + 0.5% PIT', note: 'Resident sellers; 1% PIT non-resident. Platform remits' },
+];
+
+const history = [
+  { when: 'Before 2023', what: 'Payment fee 2.5% + Fixed fee 2.5% (fixed fee waived if you joined Freeship/Voucher). Effective ~5–9%.' },
+  { when: 'Jan 2023', what: 'Both fees raised to 3%.' },
+  { when: 'Jul 2024', what: 'Fixed fee 4% mandatory regardless of packages; payment fee raised to 5%.' },
+  { when: '2025', what: 'Flat commission replaced with category-based Fixed Fee; beauty rose to ~11.78%.' },
+  { when: 'May 2026', what: 'Transaction fee to 6%; many category commissions up sharply (beauty ~16–17%, electronics accessories ~15%); Voucher Xtra 4%→5.5%; auto visibility deduction added.' },
+];
+
+const faqs = [
+  {
+    question: "What is the total fee to sell on Shopee Vietnam in 2026?",
+    answer: "It depends heavily on category and whether you run promotions. A rough floor is the 6% transaction fee plus your category commission (1.5–17%) plus the 3,000₫ infrastructure fee. Vietnam's Ministry of Industry and Trade noted total fees rose from around 24.5% to over 30.5% of revenue excluding ads, and 40–45% in high-commission categories once Voucher Xtra, Freeship, the auto visibility deduction, and ad spend are added. Beauty and health are the most expensive; phones, laptops, and motorbikes are the cheapest."
+  },
+  {
+    question: "Which Shopee Vietnam categories have the lowest fees?",
+    answer: "Phones, tablets, laptops, and monitors carry only ~2% commission, and motorbikes ~1.5% — the lowest Fixed Fees on the platform (though margins in those categories are also thin). Food, groceries, and fresh/frozen goods sit around 10%. The most expensive are beauty (~17%), health (~15.5–17%), and hobbies/collectibles (~15–17%)."
+  },
+  {
+    question: "How is the Shopee Fixed Fee (commission) calculated?",
+    answer: "The Fixed Fee is a VAT-inclusive percentage charged per successful order on the product value (excluding shipping), based on the product's category — so choosing the correct category for each listing matters. It's deducted directly before the buyer's payment is credited to your Shopee balance. New shops get the Fixed Fee waived for their first 30 days."
+  },
+  {
+    question: "Why did Shopee's fees go up when VAT went down?",
+    answer: "Vietnam temporarily cut VAT on platform service fees from 10% to 8% (Resolution 204/2025/QH15) through 31 December 2026. Shopee's headline fee numbers are VAT-inclusive, so when it raised the transaction fee to 6% (from 4.91%), the pre-tax service portion rose even though the VAT component fell — two independent changes happening at once."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Shopee Vietnam seller fees</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Shopee raised most of its seller fees in 2026. This is the full breakdown: the 6% transaction
+        fee, the category-by-category commission (Fixed Fee) from 1.5% to 17%, the service fees, and how
+        the total got to 25–45% of revenue. For the complete setup walkthrough, see
+        <a href="/guides/how-to-sell-on-shopee-vietnam/">how to sell on Shopee Vietnam</a>. Figures are as
+        of {updated} and VAT-inclusive; Shopee changes fees often, so confirm your exact category rate in
+        Seller Centre.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Sourced from Shopee Uni, Vietnam News, ZNews (see <a href="#sources">sources</a>)</p>
+    </header>
+
+    <section>
+      <h2 id="commission">Shopee Vietnam commission (Fixed Fee) by category — 2026</h2>
+      <p>Representative non-Mall rates, VAT-inclusive, effective 23 May 2026. Shopee Mall rates differ; check your exact sub-category in Seller Centre.</p>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Category</th><th>Fixed Fee (commission)</th><th>Notes</th></tr></thead>
+          <tbody>
+            {commissionRows.map(r => (
+              <tr>
+                <th scope="row">{r.cat}</th>
+                <td class="num">{r.rate}</td>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section>
+      <h2 id="service-fees">Transaction &amp; service fees</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Fee</th><th>Rate</th><th>Notes</th></tr></thead>
+          <tbody>
+            {serviceRows.map(r => (
+              <tr>
+                <th scope="row">{r.fee}</th>
+                <td class="num">{r.rate}</td>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">VAT on Shopee's fees is temporarily 8% (from 10%) through 31 December 2026 under Resolution 204/2025/QH15.</p>
+
+      <h3>Worked example: net payout on a 200,000₫ beauty order</h3>
+      <ul class="worked">
+        <li>Commission (17%): <strong>−34,000₫</strong></li>
+        <li>Transaction fee (6%): <strong>−12,000₫</strong></li>
+        <li>Infrastructure fee: <strong>−3,000₫</strong></li>
+        <li>Decree 117 tax withheld (1.5%): <strong>−3,000₫</strong></li>
+        <li>Net before ads/Voucher Xtra: <strong>≈148,000₫ (~74%)</strong></li>
+      </ul>
+      <p>Model your own category, promotions, and ad take-rate — and compare against TikTok Shop and Lazada — with our <a href="/tools/channel-selector/">channel selector (net-payout calculator)</a>.</p>
+    </section>
+
+    <section>
+      <h2>How Shopee's fees rose: 2023 → 2026</h2>
+      <ul class="timeline">
+        {history.map(h => (
+          <li><span class="timeline__when">{h.when}</span><span class="timeline__what">{h.what}</span></li>
+        ))}
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Shopee Uni (Học viện Shopee) — official seller fee schedules (banhang.shopee.vn)</li>
+        <li>TukiGroup — non-Mall Fixed Fee table effective 23 May 2026</li>
+        <li>Vietnam News — MoIT fee-transparency statement (25 May 2026); ZNews — Shopee fee history</li>
+        <li>Decree 117/2025/NĐ-CP and Resolution 204/2025/QH15 — see our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">Sourced reference, not legal or tax advice. Confirm current rates in Shopee Seller Centre.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a> (full guide) · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop fees &amp; guide</a> · <a href="/guides/how-to-sell-on-lazada-vietnam/">Lazada fees &amp; guide</a></li>
+        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a> · <a href="/data/vietnam-regulation-tracker/">Vietnam regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); white-space: nowrap; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .worked { margin: var(--space-3) 0; line-height: 1.7; }
+  .worked strong { font-variant-numeric: tabular-nums; }
+  .timeline { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-3); }
+  .timeline li { display: flex; gap: var(--space-4); align-items: baseline; line-height: 1.6; }
+  .timeline__when { flex: 0 0 8rem; font-weight: 700; color: var(--color-accent); font-size: var(--text-sm); }
+  .timeline__what { flex: 1; }
+  section p a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

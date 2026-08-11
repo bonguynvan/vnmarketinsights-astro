@@ -1,57 +1,64 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 
-const title = "Cross-Border E-Commerce Into Vietnam (2026) — Seller & Brand Guide";
-const description = "How to sell into Vietnam from abroad: cross-border marketplace programs, import duties and de minimis, payments, logistics and customs, localization, and a practical entry path.";
+const title = "Cross-Border E-Commerce Into Vietnam (2026) — Duties, Costs & Setup";
+const description = "A sourced 2026 guide to selling cross-border into Vietnam: the removed de-minimis exemption, real import duty + VAT, which platform cross-border programs accept foreign sellers, platform tax withholding, and when to graduate to local fulfillment.";
 const canonical = "https://vnmarketinsights.com/guides/cross-border-ecommerce-into-vietnam/";
+const updated = "2026-08-12";
 
 const steps = [
   {
-    name: 'Pick a cross-border channel',
-    text: 'The lowest-friction route is a platform cross-border program — Shopee International Platform (SIP), Lazada cross-border (LazGlobal), or TikTok Shop cross-border where available. These let you list to Vietnamese buyers without a local entity.',
+    name: 'Pick a cross-border route that actually accepts you',
+    text: 'The platform cross-border programs differ sharply on eligibility. Shopee offers cross-border seller accounts (and an invite-only SIP program for a few countries). Lazada\'s LazGlobal only accepts sellers from Japan, South Korea, and mainland China (incl. Hong Kong). TikTok Shop has no simple ship-from-abroad program — you generally need a Vietnamese entity. Check eligibility before you plan anything else.',
   },
   {
-    name: 'Understand duties and de minimis',
-    text: 'Imported parcels are subject to import duty and 10% VAT. Vietnam removed its low-value de minimis exemption (previously VND 1,000,000) effective 18 February 2025, so even small parcels now incur duty plus VAT — there is no longer a tax-free threshold. Confirm HS-code duty rates and category rules, as they materially affect landed price.',
+    name: 'Model the real landed cost — the de-minimis exemption is gone',
+    text: 'Since 18 February 2025, Vietnam taxes all commercial parcels: import duty (0–30% by HS code) plus 10% VAT, with no low-value exemption. Landed costs typically run 30–50% higher than locally-held inventory. Confirm your HS-code duty rate and model total landed cost before you price a single SKU.',
   },
   {
-    name: 'Set up cross-border payments',
-    text: 'Cross-border sellers are paid out through the platform\'s settlement system to an eligible foreign or local account. Confirm supported payout currencies, FX handling, and settlement timelines before you list.',
+    name: 'Price for duties, platform fees, and tax withholding together',
+    text: 'Your price has to absorb landed cost, the platform\'s commission and fees, and the Decree 117 per-order tax the platform withholds (1% VAT + 0.5% PIT on goods for residents; 1% for non-residents). Cross-border margins are thin — build the full stack into your price, not just the product cost.',
   },
   {
-    name: 'Plan logistics and customs',
-    text: 'Choose between platform-managed cross-border logistics (consolidated freight + customs clearance) or your own forwarder. Platform-managed shipping is simpler; self-managed can be cheaper at scale but needs customs expertise.',
+    name: 'Set up payments and payouts',
+    text: 'Cross-border sellers are paid through the platform\'s settlement system to an eligible foreign or local account, usually on a weekly cycle, converted to your currency (often via Payoneer or bank transfer). Confirm supported payout currencies, FX handling, and timelines before you commit inventory.',
   },
   {
-    name: 'Localize listings and service',
-    text: 'Translate titles and descriptions into Vietnamese, price in VND, set realistic cross-border delivery expectations, and prepare returns handling. Localized, trustworthy listings convert far better than raw exports.',
+    name: 'Choose your logistics model',
+    text: 'Either use platform-managed cross-border logistics (consolidated freight + customs clearance, simplest) or your own forwarder (cheaper at scale but needs customs expertise). Set realistic 7–14 day delivery expectations on cross-border listings, and note that DDP (duties paid by seller) converts far better in Vietnam — buyers abandon parcels that demand duty on delivery.',
   },
   {
-    name: 'Test, then consider a local presence',
-    text: 'Use cross-border to validate demand cheaply. If volume justifies it, graduate to local stocking (domestic fulfillment) or a registered entity for faster delivery and better economics.',
+    name: 'Localize, comply, then graduate',
+    text: 'Translate listings into Vietnamese, price in VND, and prepare returns handling. Comply with Decree 117 withholding, the Personal Data Protection Law (live since 1 Jan 2026), and the new E-Commerce Law (from 1 July 2026, which requires foreign brands to have a local compliance footing). Once monthly sales reach ~US$50–100k, graduate to local stocking or a Vietnam entity for 2–3 day delivery and better economics.',
   },
+];
+
+const routeRows = [
+  { platform: 'Shopee', program: 'Cross-border seller account', who: 'Open to many markets; SIP is invite-only (PH, SG, TH, CL…)', note: 'Ships from abroad, customs per order' },
+  { platform: 'Lazada', program: 'LazGlobal', who: 'Sellers from Japan, South Korea, mainland China (incl. HK) only', note: '+1.77% cross-border commission since 29 Jan 2026' },
+  { platform: 'TikTok Shop', program: 'No simple cross-border', who: 'Generally requires a Vietnam entity / partner / agency', note: 'Hardest to enter from abroad' },
 ];
 
 const faqs = [
   {
-    question: "What is the easiest way to sell into Vietnam from abroad?",
-    answer: "Platform cross-border programs are the easiest entry: Shopee International Platform (SIP), Lazada cross-border (LazGlobal), and TikTok Shop cross-border (where available) let foreign sellers list to Vietnamese buyers without setting up a local company. The platform handles much of the payments, logistics, and customs complexity."
+    question: "Do I have to pay import duties to sell cross-border into Vietnam?",
+    answer: "Yes. Imported goods carry import duty (0–30% by HS code) plus 10% VAT, and since 18 February 2025 there is no low-value de-minimis exemption — Vietnam scrapped it via Decision 01/2025/QĐ-TTg, so even small parcels are taxed. Landed costs typically run 30–50% higher than locally-held inventory. Separately, from 1 July 2025 platforms withhold tax per order (1% VAT + 0.5% PIT on goods for resident sellers, 1% for non-residents) under Decree 117/2025/NĐ-CP."
   },
   {
-    question: "Do I have to pay import duties to sell into Vietnam?",
-    answer: "Yes. Imported goods are subject to import duty (0–30% by HS code) plus 10% VAT. Vietnam scrapped its low-value de minimis exemption (previously VND 1,000,000) on 18 February 2025, so there is no longer a tax-free threshold for small parcels and landed costs rose accordingly. Separately, from 1 July 2025 e-commerce platforms with a payment function withhold tax per order (for goods, 1% VAT plus 0.5% personal income tax for resident sellers, or 1% for non-residents). Always confirm current HS-code rates, since duties affect your landed price and competitiveness."
+    question: "Which platforms let foreign sellers sell cross-border into Vietnam?",
+    answer: "Shopee offers cross-border seller accounts to sellers in many markets (its SIP program is invite-only, for a few countries). Lazada's LazGlobal only accepts sellers from Japan, South Korea, and mainland China including Hong Kong. TikTok Shop has no simple ship-from-abroad program — foreign brands generally need a Vietnamese business registration, a local partner, or an agency. Always confirm current eligibility with each platform."
   },
   {
     question: "How do cross-border sellers get paid in Vietnam?",
-    answer: "Through the marketplace's cross-border settlement system, which pays out to an eligible account on a defined cycle. Supported payout currencies, foreign-exchange handling, and timelines vary by platform and program, so verify these details before committing inventory."
+    answer: "Through the marketplace's cross-border settlement system, which pays out to an eligible account (often via Payoneer or bank transfer) on a defined cycle — typically weekly — converted to your currency. Supported payout currencies, FX handling, and timelines vary by platform and program, so verify them before committing inventory."
   },
   {
-    question: "How long does cross-border delivery to Vietnam take?",
-    answer: "Cross-border parcels typically take longer than domestic orders — often several days to a couple of weeks depending on origin, shipping method, and customs clearance. Platform-managed cross-border logistics consolidate freight and handle clearance to shorten and standardize delivery times."
+    question: "When should I switch from cross-border to a local entity?",
+    answer: "Cross-border is best for cheaply validating demand or for high-margin, low-volume, niche products. Most brands graduate to local 3PL stocking or a WFOE (100% foreign-owned LLC) once monthly sales reach roughly US$50,000–100,000 — the point where 2–3 day delivery, lower per-order shipping, easier returns, and better conversion outweigh the setup cost. The removed de-minimis exemption pushed that break-even earlier for many sellers."
   },
   {
-    question: "When should I switch from cross-border to local fulfillment?",
-    answer: "Once cross-border demand is proven and volumes are steady, moving inventory into domestic fulfillment (local stocking) or establishing a local entity gives you faster delivery, lower per-order shipping cost, easier returns, and better conversion. Cross-border is best used to validate demand before committing that capital."
+    question: "What compliance changes affect cross-border sellers in 2026?",
+    answer: "Two big ones. The Personal Data Protection Law (Law 91/2025 + Decree 356/2025) has been live since 1 January 2026 and governs how you handle Vietnamese customer data, including cross-border transfers. The new E-Commerce Law (Law 122/2025) takes effect 1 July 2026 with an extraterritorial 'Vietnam presence test' — using a .vn domain, offering Vietnamese language, or crossing a transaction threshold can require registration and a local representative. Both are tracked with sources on our regulation tracker."
   }
 ];
 
@@ -60,22 +67,12 @@ const howToSchema = {
   "@type": "HowTo",
   "name": "How to Sell Cross-Border Into Vietnam",
   "description": description,
-  "step": steps.map((s, i) => ({
-    "@type": "HowToStep",
-    "position": i + 1,
-    "name": s.name,
-    "text": s.text
-  }))
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
 };
-
 const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": faqs.map(f => ({
-    "@type": "Question",
-    "name": f.question,
-    "acceptedAnswer": { "@type": "Answer", "text": f.answer }
-  }))
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
 };
 ---
 
@@ -86,7 +83,7 @@ const faqSchema = {
   pageType="Article"
   articleSection="Guide"
   publishedDate="2026-05-30"
-  lastUpdated="2026-05-30"
+  lastUpdated={updated}
   structuredData={[howToSchema, faqSchema]}
   mainClass="container"
 >
@@ -96,19 +93,33 @@ const faqSchema = {
       <span aria-hidden="true">/</span>
       <a href="/guides/">Guides</a>
       <span aria-hidden="true">/</span>
-      <span>Cross-Border Into Vietnam</span>
+      <span>Cross-border e-commerce into Vietnam</span>
     </nav>
 
     <header class="guide-header">
       <h1>{title}</h1>
       <p class="guide-lead">
-        Selling into Vietnam from abroad no longer requires a local company. Platform cross-border
-        programs let foreign sellers and brands reach Vietnamese buyers while the marketplace
-        handles much of the payments, logistics, and customs complexity. This guide covers the
-        channels, duties and de minimis, payments, logistics, localization, and when to graduate
-        to local fulfillment. Rules and thresholds change — confirm current terms before you list.
+        Selling into Vietnam from abroad no longer requires a local company — but in 2026 it got
+        meaningfully more expensive and more regulated. Vietnam removed its low-value de-minimis import
+        exemption, platforms now withhold your tax per order, and a new E-Commerce Law takes effect from
+        1 July 2026. This guide covers how cross-border e-commerce into Vietnam actually works now: which
+        platform programs accept foreign sellers, the real landed cost, payouts, logistics, compliance,
+        and when to graduate to local fulfillment. Figures are as of {updated}.
       </p>
+      <p class="guide-meta">Last updated {updated} · Sourced from Vietnam customs/tax regulations and platform seller docs (see <a href="#sources">sources</a>)</p>
     </header>
+
+    <aside class="keyfacts" aria-label="Key numbers">
+      <h2 class="keyfacts__title">Cross-border into Vietnam at a glance (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>0–30%</strong> import duty by HS code</li>
+        <li><strong>+10%</strong> VAT on imports</li>
+        <li><strong>No de-minimis</strong> since 18 Feb 2025</li>
+        <li><strong>+30–50%</strong> landed cost vs local stock</li>
+        <li><strong>7–14 days</strong> typical delivery</li>
+        <li><strong>~$50–100k/mo</strong> when to go local</li>
+      </ul>
+    </aside>
 
     <section>
       <h2>Step-by-step</h2>
@@ -126,15 +137,65 @@ const faqSchema = {
     </section>
 
     <section>
-      <h2>Cross-border vs local fulfillment</h2>
+      <h2 id="routes">Which platform cross-border program accepts you</h2>
+      <p>Eligibility is the first filter, and it's the thing most guides get wrong. Current state:</p>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Platform</th><th>Program</th><th>Who can join</th><th>Note</th></tr></thead>
+          <tbody>
+            {routeRows.map(r => (
+              <tr>
+                <th scope="row">{r.platform}</th>
+                <td>{r.program}</td>
+                <td>{r.who}</td>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">See the platform-specific guides for full setup: <a href="/guides/how-to-sell-on-shopee-vietnam/">Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop</a> · <a href="/guides/how-to-sell-on-lazada-vietnam/">Lazada</a>.</p>
+    </section>
+
+    <section>
+      <h2>The real cost of cross-border now</h2>
       <p>
-        <a href="/glossary/cross-border-e-commerce/">Cross-border e-commerce</a> is the
-        low-commitment way to validate Vietnamese demand: no entity, no local inventory, longer
-        delivery. Once demand is proven, local stocking (domestic fulfillment) or a registered
-        entity unlocks faster delivery via carriers like
-        <a href="/compare/ghn-vs-ghtk-vs-jt-express/">GHN, GHTK, and J&amp;T</a>, lower shipping
-        cost per order, and smoother returns — usually lifting conversion enough to justify the
-        added capital and compliance.
+        The single biggest change: Vietnam <strong>removed the low-value de-minimis exemption on 18
+        February 2025</strong> (Decision 01/2025/QĐ-TTg). Previously, parcels worth up to VND 1,000,000
+        sent by express delivery were exempt from import duty and VAT. Now every commercial parcel is
+        taxed — import duty (0–30% by HS code) plus 10% VAT on the CIF value — so landed costs run roughly
+        <strong>30–50% higher</strong> than locally-held inventory, and 7–14 day delivery makes it hard to
+        compete with local sellers on experience.
+      </p>
+      <p>
+        Model your specific product's duty + VAT + total landed cost with our
+        <a href="/tools/landed-cost-calculator/">landed-cost calculator</a>, then layer platform fees and
+        the Decree 117 withholding on top with the
+        <a href="/tools/channel-selector/">channel selector</a>. The removal of de-minimis is one of
+        several 2026 changes tracked, with official instrument numbers and sources, on our
+        <a href="/data/vietnam-regulation-tracker/">Vietnam regulation tracker</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Compliance: two rules that catch cross-border sellers</h2>
+      <ul class="compliance-list">
+        <li><strong>Personal Data Protection Law</strong> (Law 91/2025 + Decree 356/2025), live since 1 January 2026 — governs how you collect and transfer Vietnamese customer data. Storing data on overseas cloud counts as a cross-border transfer that may require an impact assessment.</li>
+        <li><strong>New E-Commerce Law</strong> (Law 122/2025), effective 1 July 2026 — extraterritorial. A .vn domain, Vietnamese display language, or crossing a transaction threshold can trigger registration and a requirement to appoint a local representative.</li>
+        <li><strong>Product registration</strong> still applies to regulated goods (cosmetics via DAV, food/supplements via VFA), with Vietnamese labeling — see the compliance section of our <a href="/guides/how-to-sell-on-shopee-vietnam/">Shopee guide</a>.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>When to graduate to local fulfillment</h2>
+      <p>
+        Cross-border is a demand-validation tool, not a permanent model for most brands. Once you have
+        steady volume — commonly around <strong>US$50,000–100,000/month</strong> — moving inventory into
+        domestic fulfillment (local 3PL stocking) or establishing a Vietnam entity gives you 2–3 day
+        delivery, lower per-order shipping, easier returns, and better conversion. Since the de-minimis
+        removal made cross-border landed costs structurally higher, that break-even now arrives earlier
+        than it used to. The full decision path is in our
+        <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a>.
       </p>
     </section>
 
@@ -152,14 +213,24 @@ const faqSchema = {
       </div>
     </section>
 
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Decision 01/2025/QĐ-TTg (de-minimis removal), Decree 117/2025/NĐ-CP (platform tax withholding), Law 122/2025/QH15 (E-Commerce Law), Law 91/2025/QH15 + Decree 356/2025 (PDPL) — all tracked on our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+        <li>Platform cross-border seller documentation (Shopee, Lazada LazGlobal, TikTok Shop)</li>
+        <li>DHL Express Vietnam — import duty and de-minimis guidance</li>
+        <li>Platform GMV shares — our <a href="/data/vietnam-ecommerce-platform-shares/">first-party dataset</a></li>
+      </ul>
+      <p class="table-note">This guide is a sourced reference, not legal or tax advice. Confirm current HS-code rates, platform eligibility, and effective dates with the primary sources or a qualified Vietnamese advisor.</p>
+    </section>
+
     <section>
       <h2>Related references</h2>
       <ul class="related-list">
-        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">How to sell on Shopee Vietnam</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">on TikTok Shop</a></li>
-        <li><a href="/guides/vietnam-market-entry-guide/">Vietnam market entry guide</a></li>
-        <li><a href="/compare/shopee-vs-lazada-vs-tiktok-shop/">Shopee vs Lazada vs TikTok Shop</a></li>
-        <li><a href="/insights/cross-border-ecommerce/">Cross-border e-commerce — insights article</a></li>
-        <li><a href="/glossary/cross-border-e-commerce/">Cross-border e-commerce (glossary)</a> · <a href="/glossary/cod/">COD (glossary)</a> · <a href="/glossary/marketplace/">Marketplace (glossary)</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/data/vietnam-regulation-tracker/">Vietnam regulation tracker</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/guides/how-to-sell-on-lazada-vietnam/">Sell on Lazada</a></li>
+        <li><a href="/ecommerce/">Vietnam E-commerce Market — overview</a> · <a href="/stats/vietnam-ecommerce-2026/">E-commerce Statistics 2026</a></li>
       </ul>
     </section>
 
@@ -174,15 +245,32 @@ const faqSchema = {
   .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
   .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
   .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
-  .guide-header { margin-bottom: var(--space-8); }
+  .guide-header { margin-bottom: var(--space-6); }
   .guide-header h1 { border: none; margin-bottom: var(--space-3); }
   .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-xl); color: var(--color-accent); font-variant-numeric: tabular-nums; }
+  section { margin-bottom: var(--space-10); }
   .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
   .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
   .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
   .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
   .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
-  section p a { color: var(--color-accent); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .compliance-list { line-height: 1.65; }
+  .compliance-list li { margin-bottom: var(--space-3); }
+  section p a, .compliance-list a, .source-list a { color: var(--color-accent); }
   .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
   .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
   .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
@@ -191,6 +279,8 @@ const faqSchema = {
   .faq-item[open] .faq-question::after { content: '−'; }
   .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
   .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
   .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
   .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
   .related-list a { color: var(--color-accent); text-decoration: none; }
