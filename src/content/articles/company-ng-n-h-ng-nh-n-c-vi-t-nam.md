@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Ngày mai, Thủ tướng sẽ làm việc với Ngân hàng Nhà nước và các ngân hàng**  
+
+The Prime Minister is scheduled to meet with the State Bank of Vietnam and the banking system on August 12. The State Bank sent a notice to bank chairmen and boards on August 7 requesting their attendance at this meeting. The purpose and detailed agenda of the meeting were not specified in the source.
+
+- Source: [CafeF](https://cafef.vn/ngay-mai-thu-tuong-se-lam-viec-voi-ngan-hang-nha-nuoc-va-cac-ngan-hang-188260811115112542.chn)
 
 **Ngăn chặn việc sử dụng quan hệ tín dụng tạo sức ép lên khách hàng**  
 
@@ -78,12 +84,6 @@ Phạm Thị Huyền Trang has been appointed as General Director of Eximbank ef
 The Prime Minister issued a new directive on combating fraud and preventing misuse of digital wallets for illegal purposes. The State Bank of Vietnam was instructed to research, review, and propose amendments to regulations to prevent the use of payment accounts, digital wallets, and mobile money with incorrect holder information for law violations. This reflects regulatory tightening in Vietnam's digital payment sector.
 
 - Source: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
-
-**Vụ trưởng Vụ Tín dụng NHNN được bổ nhiệm làm Trợ lý Phó Chủ tịch Quốc hội Nguyễn Thị Hồng**  
-
-Hà Thu Giang, Chief of the Credit Department at the State Bank of Vietnam, has been appointed as Assistant to Vice Chairman of the National Assembly Nguyễn Thị Hồng. The appointment was announced on July 31 at the National Assembly headquarters by Đỗ Văn Chiến, a Politburo member and Standing Vice Chairman of the National Assembly. The appointment was made through a resolution of the National Assembly's Standing Committee.
-
-- Source: [CafeF](https://cafef.vn/vu-truong-vu-tin-dung-nhnn-duoc-bo-nhiem-lam-tro-ly-pho-chu-tich-quoc-hoi-nguyen-thi-hong-188260731205837846.chn)
 
 ## Related coverage
 

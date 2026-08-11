@@ -1,17 +1,23 @@
 ---
 title: "Vietnam International Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam International Bank, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam International Bank
 
-Recent Vietnam market news mentioning **Vietnam International Bank** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam International Bank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng chuẩn bị chia cổ phiếu thưởng tỷ lệ 9,5%**  
+
+VIB (Vietnam International Bank) has announced a 9.5% stock dividend distribution to increase its registered capital. The bank's chartered capital is expected to rise from 34,040 billion VND to approximately 37,274 billion VND. The record date for shareholders to receive the dividend has been set for September 11, 2026, with the bank planning to issue over 323 million shares.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-chuan-bi-chia-co-phieu-thuong-ty-le-95-188260811144917992.chn)
 
 **VIB One Card: Một chiếc thẻ cho mọi giai đoạn tài chính**  
 

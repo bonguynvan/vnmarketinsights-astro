@@ -1,17 +1,29 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VIB One Card: Từ nhiều chiếc thẻ đến một chiếc thẻ cho mọi nhu cầu chi tiêu**  
+
+VIB launched One Card, a unified payment card designed to consolidate multiple card functions and meet various spending needs of modern consumers. The product aims to eliminate the need for customers to carry multiple cards or track different benefits associated with different cards. One Card offers a simplified payment solution covering most everyday spending requirements.
+
+- Source: [CafeF](https://cafef.vn/vib-one-card-tu-nhieu-chiec-the-den-mot-chiec-the-cho-moi-nhu-cau-chi-tieu-188260811100957364.chn)
+
+**Một ngân hàng chuẩn bị chia cổ phiếu thưởng tỷ lệ 9,5%**  
+
+VIB (Vietnam International Bank) has announced a 9.5% stock dividend distribution to increase its registered capital. The bank's chartered capital is expected to rise from 34,040 billion VND to approximately 37,274 billion VND. The record date for shareholders to receive the dividend has been set for September 11, 2026, with the bank planning to issue over 323 million shares.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-chuan-bi-chia-co-phieu-thuong-ty-le-95-188260811144917992.chn)
 
 **VIB One Card: Một chiếc thẻ cho mọi giai đoạn tài chính**  
 
@@ -73,24 +85,12 @@ As of July 21, ten banks announced their first-half 2026 earnings results. VPBan
 
 - Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
 
-**VIB Up: Một quyết định trước ngày giải ngân tạo khác biệt suốt thời gian trả nợ**  
-
-VIB has launched VIB Up, a mortgage interest rate support package that allows borrowers to register before loan disbursement. Customers who register for VIB Up can receive a rate reduction of 0.2–0.4% per annum throughout the loan period, potentially saving up to 350 million VND in interest. The product aims to help optimize borrowing costs and enable customers to use borrowed capital more efficiently.
-
-- Source: [CafeF](https://cafef.vn/vib-up-mot-quyet-dinh-truoc-ngay-giai-ngan-tao-khac-biet-suot-thoi-gian-tra-no-188260719213824871.chn)
-
-**8 ngân hàng chi hơn 39.000 tỷ trả cổ tức tiền mặt**  
-
-Eight Vietnamese banks are distributing cash dividends totaling more than 39,000 billion VND. Banks including LPBank, Techcombank, VPBank, ACB, and VIB have completed or fixed dividend record dates, while MB and BIDV are preparing to proceed, and SHB is awaiting implementation. The 2026 year continues to see a wave of banks conducting significant dividend distributions.
-
-- Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
-
 ## Related coverage
 
 - [VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn) — CafeF
 - [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
 - [Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn) — CafeF
-- [Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn) — CafeF
+- [Ngân hàng không chỉ để giao dịch: Xu hướng 'gói tiện ích tài chính kết hợp trải nghiệm Lifestyle' lên ngôi](https://cafef.vn/ngan-hang-khong-chi-de-giao-dich-xu-huong-goi-tien-ich-tai-chinh-ket-hop-trai-nghiem-lifestyle-len-ngoi-188260701105111999.chn) — CafeF
 
 ---
 

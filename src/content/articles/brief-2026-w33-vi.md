@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 33/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 33 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,11 +11,18 @@ readingTime: 15
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan tin tức thị trường Việt Nam tuần này
 
-Thị trường chứng khoán Việt Nam tháng 7 ghi nhận đợt giảm mạnh với VN-Index mất hơn 124 điểm (6,68%), chủ yếu do cổ phiếu ngân hàng suy giảm 7,84% vốn hóa và xóa sạch lợi nhuận tích lũy từ đầu năm. Trong khi đó, lãi suất huy động tại các ngân hàng tiếp tục tăng ở nhiều kỳ hạn do tín dụng tăng nhanh hơn huy động vốn, và Ngân hàng Nhà nước yêu cầu các ngân hàng thương mại triển khai chương trình tín dụng ưu đãi từ tháng 8 hỗ trợ doanh nghiệp nhỏ và vừa. Ngoài ra, giá vàng thế giới tăng vọt hơn 100 USD/ounce, đạt mức cao nhất trong 2 tháng gần đây trên bối cảnh dữ liệu việc làm Mỹ yếu hơn dự kiến.
+Thị trường tài chính Việt Nam tuần qua chứng kiến những chuyển biến đáng chú ý: lĩnh vực ngân hàng ghi nhận lợi nhuận kỷ lục và triển khai các chương trình tín dụng ưu đãi hỗ trợ kinh tế theo chỉ đạo của Chính phủ, song cũng phải đối mặt với thách thức bảo mật khi phát sinh sự cố an ninh mạng liên quan đến gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin. Các lĩnh vực công nghệ và thanh toán di động đang tăng tốc phát triển, với giải pháp thanh toán quốc tế qua mã QR sắp được triển khai và các biện pháp bảo vệ khách hàng khỏi lừa đảo được tăng cường.
 
 ## Thanh toán
+
+**Khách Trung Quốc, Hàn Quốc đến Việt Nam không cần đổi tiền, quét VNPAY-QR chi tiêu trực tiếp**  
+
+Từ tháng 08/2026, khách quốc tế từ Trung Quốc, Hàn Quốc, Thái Lan, Lào và Campuchia có thể sử dụng ứng dụng thanh toán nước ngoài của mình khi chi tiêu tại Việt Nam thông qua mã VNPAY-QR. Giải pháp này cho phép du khách không cần đổi tiền và thanh toán trực tiếp bằng ứng dụng di động của họ. Việc này giúp các hộ kinh doanh mở rộng tệp khách hàng và tăng doanh thu.
+
+- Số liệu chính: Implementation date: August 2026
+- Nguồn: [CafeF](https://cafef.vn/khach-trung-quoc-han-quoc-den-viet-nam-khong-can-doi-tien-quet-vnpay-qr-chi-tieu-truc-tiep-188260811165452229.chn)
 
 **Mốc quan trọng 06/8/2026: Cùng với BIDV và Weixin Pay, NAPAS đã hoàn thiện kết nối thanh toán xuyên biên giới với thị trường hơn 1,4 tỷ dân**  
 
@@ -34,6 +41,26 @@ Siêu dự án metro trị giá hơn 55.000 tỷ đồng do liên danh THACO tri
 - Nguồn: [CafeF](https://cafef.vn/trong-thang-nay-sieu-du-an-metro-hon-55000-ty-do-lien-danh-thaco-trien-khai-tai-tp-giau-nhat-viet-nam-du-kien-dat-cot-moc-quan-trong-188260810104626976.chn)
 
 ## Pháp lý
+
+**Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin**  
+
+Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin, với hơn 2,5 triệu tin nhắn SMS độc hại được phát tán trong tháng 5 và 6. Thiệt hại ước tính từ vụ đánh cắp thông tin chứng chỉ này lên tới 1,9 tỷ USD. Lĩnh vực ngân hàng đã xác định đây là một sự cố an ninh mạng quan trọng đòi hỏi sự chú ý ngay lập tức.
+
+- Số liệu chính: Credit cards with stolen information: 3.9 million; Malicious SMS messages distributed: 2.5 million messages; Estimated damages: 1.9 billion USD; Time period: May and June
+- Nguồn: [CafeF](https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn)
+
+**Agribank triển khai chương trình tín dụng ưu đãi 70.000 tỷ đồng hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp SME**  
+
+Agribank triển khai chương trình tín dụng ưu đãi quy mô 70.000 tỷ đồng nhằm hỗ trợ các động lực tăng trưởng kinh tế và doanh nghiệp nhỏ và vừa. Chương trình được thực hiện theo chỉ đạo của Chính phủ và Ngân hàng Nhà nước Việt Nam. Sáng kiến này khẳng định vai trò của các ngân hàng thương mại Nhà nước là trụ cột hỗ trợ kinh tế.
+
+- Số liệu chính: Credit program scale: 70,000 billion Vietnamese dong
+- Nguồn: [CafeF](https://cafef.vn/agribank-trien-khai-chuong-trinh-tin-dung-uu-dai-70000-ty-dong-huong-den-cac-dong-luc-tang-truong-kinh-te-va-doanh-nghiep-sme-188260811101117057.chn)
+
+**Lừa đảo AI đánh vào tâm lý, MoMo chủ động bảo vệ bằng công nghệ**  
+
+MoMo đang triển khai các biện pháp bảo mật công nghệ chủ động để bảo vệ người dùng khỏi các chiêu trò lừa đảo trực tuyến tinh vi hơn được hỗ trợ bởi AI. Công ty đang áp dụng AI và các lớp bảo vệ tại mỗi điểm tiếp xúc với khách hàng để giúp người dùng nhận diện rủi ro trước khi quyết định. Các cuộc tấn công lừa đảo sử dụng AI đang khai thác những lỗ hổng tâm lý, đòi hỏi thay đổi cách tiếp cận bảo vệ người dùng.
+
+- Nguồn: [CafeF](https://cafef.vn/lua-dao-ai-danh-vao-tam-ly-momo-chu-dong-bao-ve-bang-cong-nghe-188260811164239781.chn)
 
 **NHNN ra chỉ đạo nóng tới các ngân hàng: Một nhóm khách hàng sắp được vay vốn với lãi suất thấp hơn ít nhất 1%/năm**  
 
@@ -74,21 +101,7 @@ Hệ thống ngân hàng Việt Nam đang chuẩn bị các quy định hoàn to
 
 - Nguồn: [CafeF](https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn)
 
-**Nhóm đối tượng người nước ngoài 'ẩn mình' trong chung cư cao cấp để vận hành đường dây cờ bạc 30.000 tỷ đồng**  
-
-Nhóm đối tượng người nước ngoài, chủ yếu là người Trung Quốc, thuê nhiều căn hộ cao cấp ở Hà Nội và tuyển dụng hàng chục thanh niên Việt Nam để vận hành hàng trăm chiếc điện thoại phục vụ mạng lưới cờ bạc. Hoạt động này xử lý dòng tiền lên đến 30.000 tỷ đồng qua các tài khoản ngân hàng nhằm che giấu lợi tức từ các hoạt động "tổ chức đánh bạc" trên không gian mạng. Đường dây tội phạm này bị bộc lộ từ tin báo của công dân và cuộc điều tra của cơ quan pháp luật.
-
-- Số liệu chính: Cash flow processed: 30,000 billion dong VND; Duration of operation: approximately one year time
-- Nguồn: [CafeF](https://cafef.vn/nhom-doi-tuong-nguoi-nuoc-ngoai-an-minh-trong-chung-cu-cao-cap-de-van-hanh-duong-day-co-bac-30000-ty-dong-188260805202806863.chn)
-
 ## Chứng khoán
-
-**Tháng 7 ‘bi đát’ của các ngân hàng Việt: Vốn hóa bốc hơi hơn 220.000 tỉ đồng, xóa sạch thành quả từ đầu năm**  
-
-Thị trường chứng khoán Việt Nam tháng 7 chứng kiến những phiên giảm mạnh khiến chỉ số VN-Index giảm hơn 124 điểm (6,68%) so với cuối tháng 6, rời xa khỏi mốc 1.800 điểm. Cổ phiếu ngân hàng là nhân tố kéo lùi chính, với tổng vốn hóa của 27 ngân hàng niêm yết giảm 7,84% từ 2.829 nghìn tỉ đồng vào 30-6 xuống còn 2.605 nghìn tỉ đồng vào 31-7. Sự suy giảm của ngành ngân hàng đã xóa sạch những thành quả tích lũy từ đầu năm, mất mát vốn hóa hơn 220 nghìn tỉ đồng.
-
-- Số liệu chính: VN-Index decline (July): 124 points points; VN-Index percentage decline (July): 6.68 %; Number of listed banks: 27 banks; Banking sector market cap (June 30): 2,829 trillion dong
-- Nguồn: [TuoiTre](https://tuoitre.vn/thang-7-bi-dat-cua-cac-ngan-hang-viet-von-hoa-boc-hoi-hon-220000-ti-dong-xoa-sach-thanh-qua-tu-dau-nam-10026080311275086.htm)
 
 **VPBank tăng tốc từ hoạt động cốt lõi**  
 
@@ -117,6 +130,13 @@ Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VP
 - Nguồn: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
 
 ## Kinh tế vĩ mô
+
+**Vì sao Việt Nam quyết tâm xây bằng được “trái tim” của kho báu gần 7 tỷ USD?**  
+
+Thị trường trí tuệ nhân tạo của Việt Nam được dự báo sẽ đạt khoảng 6,91 tỷ USD vào năm 2031 với tốc độ tăng trưởng kép hàng năm gần 39 phần trăm. Sự bùng nổ này đang gây quá tải cho hạ tầng đám mây truyền thống khi đối mặt với các tập dữ liệu lớn, thúc đẩy các doanh nghiệp chuyển sang hạ tầng đám mây thuần AI. Việt Nam là một trong các quốc gia trên thế giới theo đuổi phát triển trong lĩnh vực chiến lược này.
+
+- Số liệu chính: Vietnam AI market projected value: 6.91 billion USD; Projected year: 2031 year; Annual compound growth rate: 39 %
+- Nguồn: [CafeF](https://cafef.vn/vi-sao-viet-nam-quyet-tam-xay-bang-duoc-trai-tim-cua-kho-bau-gan-7-ty-usd-188260811141158203.chn)
 
 **Cải cách tổng thể thị trường vốn: San sẻ gánh nặng với hệ thống ngân hàng**  
 
@@ -165,27 +185,6 @@ Việt Nam đối mặt với sự mismatch cấu trúc giữa cung vốn và nh
 
 - Số liệu chính: Share of short-term capital in banking system funding: 80% percent; Share of long-term capital in banking system funding: 20% percent
 - Nguồn: [CafeF](https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn)
-
-**Khởi công Nhà máy Điện mặt trời Dầu Tiếng 5, bổ sung hơn 808 GWh điện sạch mỗi năm**  
-
-Nhà máy Điện mặt trời Dầu Tiếng 5 khởi công với công suất lắp đặt 450 MW và tổng mức đầu tư 7.774 tỷ đồng. Dự án dự kiến cung cấp hơn 808 GWh điện sạch mỗi năm cho hệ thống điện quốc gia. Sáng kiến này nhằm hỗ trợ chuyển dịch năng lượng và góp phần vào phát triển kinh tế-xã hội địa phương.
-
-- Số liệu chính: Installed capacity: 450 MW; Total investment: 7.774 trillion VND; Annual clean electricity supply: 808 GWh
-- Nguồn: [CafeF](https://cafef.vn/khoi-cong-nha-may-dien-mat-troi-dau-tieng-5-bo-sung-hon-808-gwh-dien-sach-moi-nam-188260805105341341.chn)
-
-**Nền kinh tế lớn nhất Đông Nam Á công bố tăng trưởng GDP quý 2/2026 vượt dự báo, so với Việt Nam thì sao?**  
-
-Cơ quan thống kê Indonesia công bố tăng trưởng GDP quý 2/2026 đạt 5,29%, vượt dự báo 5,1% của các nhà phân tích. Nền kinh tế lớn nhất Đông Nam Á này vượt qua các ước tính trước đó của Reuters. Tuy nhiên, áp lực tỷ giá, lãi suất và lo ngại về niềm tin nhà đầu tư đang ảnh hưởng tiêu cực đến triển vọng.
-
-- Số liệu chính: Indonesia Q2 2026 GDP growth (actual): 5.29% percent; Indonesia Q2 2026 GDP growth (analyst forecast): 5.1% percent
-- Nguồn: [CafeF](https://cafef.vn/nen-kinh-te-lon-nhat-dong-nam-a-cong-bo-tang-truong-gdp-quy-2-2026-vuot-du-bao-so-voi-viet-nam-thi-sao-188260805125219119.chn)
-
-**Ấn tượng 'bức tranh' kinh tế Việt Nam vừa công bố**  
-
-Thông tin kinh tế 7 tháng đầu năm của Việt Nam cho thấy nhiều tín hiệu tích cực. Chỉ số sản xuất công nghiệp (IIP) tăng 11,4%, mức cao nhất kể từ năm 2019, trong khi vốn đầu tư trực tiếp nước ngoài (FDI) đạt 38,06 tỷ USD. Thu ngân sách nhà nước tăng 16% so với cùng kỳ năm trước.
-
-- Số liệu chính: Industrial production index (IIP) growth: 11.4% percent; Foreign direct investment (FDI) registrations: 38.06 billion USD; State budget revenue growth: 16% percent year-on-year
-- Nguồn: [CafeF](https://cafef.vn/an-tuong-buc-tranh-kinh-te-viet-nam-vua-cong-bo-18826080513335149.chn)
 
 ## Nền tảng
 

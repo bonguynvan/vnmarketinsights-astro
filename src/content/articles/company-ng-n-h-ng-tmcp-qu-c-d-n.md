@@ -1,17 +1,23 @@
 ---
 title: "Ngân hàng TMCP Quốc Dân — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng TMCP Quốc Dân, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # Ngân hàng TMCP Quốc Dân
 
-Recent Vietnam market news mentioning **Ngân hàng TMCP Quốc Dân** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Ngân hàng TMCP Quốc Dân** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Một ngân hàng công bố giảm 0,5% lãi suất cho vay với mọi khác hàng, áp dụng từ hôm nay 11/8**  
+
+National Citizen Commercial Bank (NCB) announced a 0.5% reduction in lending interest rates for all loan packages offered to both individual and corporate customers, effective from August 11, 2026. This rate cut is part of broader banking sector efforts to support access to credit and capital sources. The policy aims to facilitate economic activity and production by increasing available resources.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-cong-bo-giam-05-lai-suat-cho-vay-voi-moi-khac-hang-ap-dung-tu-hom-nay-11-8-188260811084829172.chn)
 
 **Ngân hàng khóa tài khoản vĩnh viễn đối với trường hợp sau**  
 
@@ -40,9 +46,9 @@ On July 9, 2026, National Commercial Bank (NCB) received three awards at the HR 
 ## Related coverage
 
 - [Người có tài khoản ngân hàng nhớ kỹ thông báo sau](https://cafef.vn/nguoi-co-tai-khoan-ngan-hang-nho-ky-thong-bao-sau-18826080820355933.chn) — CafeF
-- [Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn) — CafeF
 - [Ngân hàng đóng tài khoản có số dư dưới 20.000 đồng, người dân cần làm gì?](https://cafef.vn/ngan-hang-dong-tai-khoan-co-so-du-duoi-20000-dong-nguoi-dan-can-lam-gi-188260720091113281.chn) — CafeF
-- [Từ năm 2026, Vietcombank, VietinBank, Agribank, BIDV... ngừng giao dịch chuyển tiền/nhận tiền đối với trường hợp sau](https://cafef.vn/tu-nam-2026-vietcombank-vietinbank-agribank-bidv-ngung-giao-dich-chuyen-tien-nhan-tien-doi-voi-truong-hop-sau-188260715141342932.chn) — CafeF
+- [Vietcombank, VietinBank, Agribank… tạm ngừng toàn bộ giao dịch rút/chuyển tiền đối với các trường hợp sau](https://cafef.vn/vietcombank-vietinbank-agribank-tam-ngung-toan-bo-giao-dich-rut-chuyen-tien-doi-voi-cac-truong-hop-sau-188260729154542062.chn) — CafeF
+- [NCB tăng tốc mạnh mẽ trong nửa đầu 2026, sẵn sàng năng lực cho giai đoạn tăng trưởng mới](https://cafef.vn/ncb-tang-toc-manh-me-trong-nua-dau-2026-san-sang-nang-luc-cho-giai-doan-tang-truong-moi-188260729144431184.chn) — CafeF
 
 ---
 

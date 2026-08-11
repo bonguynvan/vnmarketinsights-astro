@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,18 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng Sacombank tháng 8/2026: Mức lãi suất cao nhất là bao nhiêu?**  
+
+Sacombank adjusted deposit rates in August 2026, with rates varying by deposit amount and form. Customers depositing VND 500 million or more in online savings accounts received the highest rate of 7.1% per annum for 24 and 36-month terms. The bank offered differentiated rates across various deposit products during this period.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-sacombank-thang-8-2026-muc-lai-suat-cao-nhat-la-bao-nhieu-188260811155952654.chn)
+
+**Lãi suất ngân hàng 11/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+Multiple Vietnamese banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank published deposit interest rates on August 11. Eight banks were quoting rates of 7% per annum or higher for 12-month deposit terms on that date. One bank announced a 0.5% reduction in lending rates for all customers effective August 11.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-11-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826081120405852.chn)
 
 **Một ngân hàng lớn vừa điều chỉnh lãi suất tiết kiệm, có kỳ hạn giảm tới 1,4%/năm**  
 
@@ -72,18 +84,6 @@ BIDV maintained its attractive deposit interest rates for individual customers e
 A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
-
-**Hỗ trợ thanh khoản hệ thống ngân hàng, Bộ Tài chính muốn sửa quy định liên quan đến hàng trăm nghìn tỷ, dự kiến áp dụng từ 1/1/2027**  
-
-The Ministry of Finance plans to amend regulations affecting approximately hundreds of thousands of billion dong to improve liquidity in the banking system, with implementation expected from January 1, 2027. As of the date of report, Vietnam's State Treasury maintains term deposits at the banking system totaling approximately 740,000 billion dong. The amendment aims to address liquidity support mechanisms across the financial sector.
-
-- Source: [CafeF](https://cafef.vn/ho-tro-thanh-khoan-he-thong-ngan-hang-bo-tai-chinh-muon-sua-quy-dinh-lien-quan-den-hang-tram-nghin-ty-du-kien-ap-dung-tu-1-1-2027-188260804210004397.chn)
-
-**'Bức tranh' tín dụng của các ngân hàng**  
-
-Vietnamese banks showed a notable increase in non-performing loan (NPL) growth during the first half of 2026, with NPL acceleration rates significantly outpacing credit expansion. Most banks maintained NPL ratios below the 3% regulatory threshold despite this acceleration trend.
-
-- Source: [CafeF](https://cafef.vn/buc-tranh-tin-dung-cua-cac-ngan-hang-188260802200644186.chn)
 
 ## Related coverage
 

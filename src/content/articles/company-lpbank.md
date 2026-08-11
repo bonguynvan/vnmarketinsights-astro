@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (33 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank lập cú đúp thăng hạng, khẳng định vị thế ngân hàng tư nhân hàng đầu**  
+
+LPBank achieved a double ranking upgrade in 2026, rising to the Top 3 Most Trusted and Efficient Public Companies (up 8 positions from 2025) and Top 6 Most Trusted Commercial Banks in Vietnam according to Vietnam Report. The bank attributes these improvements to its comprehensive reform strategy focusing on modern governance, digital transformation, sustainable development, and enhanced customer experience.
+
+- Source: [CafeF](https://cafef.vn/lpbank-lap-cu-dup-thang-hang-khang-dinh-vi-the-ngan-hang-tu-nhan-hang-dau-188260811115649035.chn)
 
 **Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ A survey of online deposit rates at 34 banks on August 4 shows that the interest
 A survey of online deposit interest rates at 34 banks on August 3 showed that LPBank unexpectedly raised rates across multiple terms, while ACB maintained the market leadership position with a rate of 7.8% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn)
-
-**Thu nhập nhân viên LPBank tăng mạnh**  
-
-LPBank employees' average income in the first half of 2026 reached nearly 37 million VND per month, up over 37% year-on-year. Average wages specifically increased nearly 40% to 33.86 million VND per month. LPBank's stock price surged following the announcement of a new shareholder list on July 27.
-
-- Source: [CafeF](https://cafef.vn/thu-nhap-nhan-vien-lpbank-tang-manh-188260728080904586.chn)
 
 ## Related coverage
 

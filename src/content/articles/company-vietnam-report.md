@@ -1,17 +1,29 @@
 ---
 title: "Vietnam Report — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Report, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Report
 
-Recent Vietnam market news mentioning **Vietnam Report** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Report** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VBI vững vàng Top 3 bảo hiểm uy tín do Vietnam Report vinh danh, tạo đà cho giai đoạn tăng trưởng mới**  
+
+VBI has been recognized in the Top 3 most reputable non-life insurance companies for 2026 by Vietnam Report. The company generated approximately 3,500 billion VND in revenue for the first half of the year while expanding its scale and advancing digital transformation. VBI is developing customer-centric products to position itself for the next growth cycle in the insurance market.
+
+- Source: [CafeF](https://cafef.vn/vbi-vung-vang-top-3-bao-hiem-uy-tin-do-vietnam-report-vinh-danh-tao-da-cho-giai-doan-tang-truong-moi-188260810175056771.chn)
+
+**LPBank lập cú đúp thăng hạng, khẳng định vị thế ngân hàng tư nhân hàng đầu**  
+
+LPBank achieved a double ranking upgrade in 2026, rising to the Top 3 Most Trusted and Efficient Public Companies (up 8 positions from 2025) and Top 6 Most Trusted Commercial Banks in Vietnam according to Vietnam Report. The bank attributes these improvements to its comprehensive reform strategy focusing on modern governance, digital transformation, sustainable development, and enhanced customer experience.
+
+- Source: [CafeF](https://cafef.vn/lpbank-lap-cu-dup-thang-hang-khang-dinh-vi-the-ngan-hang-tu-nhan-hang-dau-188260811115649035.chn)
 
 **MSB được Vietnam Report vinh danh tại hai bảng xếp hạng uy tín năm 2026**  
 
@@ -40,9 +52,9 @@ SHB ranked 141st in Fortune Southeast Asia 500, a ranking of the largest compani
 ## Related coverage
 
 - [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
-- [SHB vào top 200 Fortune Đông Nam Á, Top 10 ngân hàng thương mại uy tín](https://cafef.vn/shb-vao-top-200-fortune-dong-nam-a-top-10-ngan-hang-thuong-mai-uy-tin-188260630210617063.chn) — CafeF
-- [SHB được Global Banking & Finance Review vinh danh là Ngân hàng tiết kiệm tốt nhất Việt Nam năm 2026](https://cafef.vn/shb-duoc-global-banking-finance-review-vinh-danh-la-ngan-hang-tiet-kiem-tot-nhat-viet-nam-nam-2026-188260803220141959.chn) — CafeF
-- [SHB nhận 4 giải thưởng lớn tại Asian Banking & Finance Awards 2026](https://cafef.vn/shb-nhan-4-giai-thuong-lon-tai-asian-banking-finance-awards-2026-188260714070132877.chn) — CafeF
+- [VPBank đứng đầu nhóm ngân hàng tư nhân Việt Nam trong bảng xếp hạng Forbes Global 2000](https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn) — CafeF
+- [Nợ xấu ngân hàng gia tăng](https://cafef.vn/no-xau-ngan-hang-gia-tang-188260802200644186.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 
 ---
 

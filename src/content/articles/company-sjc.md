@@ -1,17 +1,23 @@
 ---
 title: "SJC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC, with neutral summaries and source links."
-publishedDate: "2026-08-10"
-lastUpdated: "2026-08-10"
+publishedDate: "2026-08-11"
+lastUpdated: "2026-08-11"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC
 
-Recent Vietnam market news mentioning **SJC** (59 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC** (60 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Giá vàng nhẫn trơn, vàng miếng chiều 11/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải quay đầu giảm mạnh so với buổi sáng**  
+
+Vietnamese domestic gold prices on August 11 showed mixed results across major retailers: DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải ring gold increased up to 1.3 million VND/tael, while SJC and PNJ declined. SJC ring gold prices notably dropped 2 million VND/tael on both buy and sell sides compared to morning levels. Price movements reflected significant intraday volatility across different gold retailers in Vietnam.
+
+- Source: [CafeF](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-11-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-quay-dau-giam-manh-so-voi-buoi-sang-188260811072920421.chn)
 
 **Giá vàng nhẫn trơn, vàng miếng chiều tối 10/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải**  
 
@@ -78,12 +84,6 @@ Gold bar and gold ring prices at major retailers (SJC, DOJI, Bảo Tín Mạnh H
 The appellate court of the Supreme People's Court in Ho Chi Minh City issued a sentence on August 5 for Lê Thúy Hằng, former CEO of Saigon Gold Silver and Jewelry Company (SJC), and co-defendants. The court reduced Lê Thúy Hằng's prison sentence from the initial trial verdict by 4 years, sentencing her to 21 years in prison for embezzlement and abuse of position while performing official duties. The ruling represents a reduction from the original first-instance judgment.
 
 - Source: [CafeF](https://cafef.vn/cuu-tong-giam-doc-sjc-le-thuy-hang-duoc-giam-4-nam-tu-188260805195616531.chn)
-
-**SJC phát cảnh báo tới toàn bộ khách hàng**  
-
-SJC (Sai Gon Jewelry & Precious Metals Company) issued a warning to all customers about fraudulent social media accounts impersonating the company's brand. Scammers are creating fake fanpages using names like "SJC Ho Chi Minh" and "SJC Ha Noi" while copying images and content from legitimate SJC posts. The company is alerting customers to be cautious of these fraudulent accounts.
-
-- Source: [CafeF](https://cafef.vn/sjc-phat-canh-bao-toi-toan-bo-khach-hang-18826080522361221.chn)
 
 ## Related coverage
 
