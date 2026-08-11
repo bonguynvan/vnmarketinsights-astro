@@ -1,0 +1,256 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Should You Sell Food & Beverage into Vietnam? A 2026 Go / No-Go";
+const description = "A sourced go/no-go for foreign food and beverage brands entering Vietnam in 2026: why local production crushes margins on everyday food, where imported premium/specialty F&B still wins, the new Decree 46/2026 food-safety rules, and who should enter.";
+const canonical = "https://vnmarketinsights.com/sell-into-vietnam/food-and-beverage/";
+const updated = "2026-08-12";
+
+const scorecard = [
+  { dim: 'Demand', rating: 'Strong', score: 5, note: 'Large, young population; food & grocery is a top e-commerce category — but demand skews to familiar and local' },
+  { dim: 'Foreign-brand fit', rating: 'Narrow', score: 2, note: 'Vietnam is a food-production powerhouse; imports only win in premium, specialty, health, or gifting — not everyday staples' },
+  { dim: 'Margin', rating: 'Mixed', score: 3, note: 'Low platform commission (~10%, the cheapest major category) but brutal price competition from cheap local production' },
+  { dim: 'Regulatory load', rating: 'Heavy', score: 2, note: 'Decree 46/2026 (effective 26 Jan 2026) added risk-based border inspection with no grace period; perishables face testing' },
+  { dim: 'Logistics fit', rating: 'Hard', score: 2, note: 'Shelf life, cold chain, and per-order customs make cross-border food far harder than cosmetics or supplements' },
+];
+
+const faqs = [
+  {
+    question: "Is Vietnam a good market for foreign food & beverage brands?",
+    answer: "Only in the right slice. Vietnam has huge food demand, but it's one of the world's major food producers, so local products dominate everyday categories on price and freshness — imported staples rarely compete. Foreign F&B wins in premium, specialty, health-positioned, and gifting segments (premium confectionery, health snacks, specialty beverages, infant/specialized nutrition, imported ingredients) where the imported-quality halo justifies a price premium. For commodity food, it's a no-go; for differentiated premium/specialty shelf-stable products, it can be a go."
+  },
+  {
+    question: "What changed for importing food into Vietnam in 2026?",
+    answer: "Decree 46/2026/NĐ-CP, effective 26 January 2026 with no transitional grace period, tightened food-safety compliance and introduced a risk-based inspection system at the border. Authorities assess each shipment's risk by product category, country of origin, and the importer's compliance history; high-risk products (fresh produce, certain processed foods) and shipments from new importers can face physical inspection, sampling, and lab testing. Standard processed food still uses VFA self-declaration (fast), but special/health foods need full registration."
+  },
+  {
+    question: "Why do imported foods struggle to compete in Vietnam?",
+    answer: "Structural cost. Vietnam produces food cheaply at scale, so a comparable local product often sells for a fraction of an imported one. After import duty, 10% VAT (the de-minimis exemption was removed in Feb 2025), freight, and platform commission, an imported item typically has to retail at 2.5–3× its FOB cost — fine for a premium or gift purchase, uncompetitive for an everyday staple. Perishability and cold-chain requirements make it harder still."
+  },
+  {
+    question: "Which imported F&B categories work best in Vietnam?",
+    answer: "Shelf-stable, premium, and differentiated: premium confectionery and snacks, health and 'better-for-you' foods, specialty and functional beverages, infant and specialized nutrition, and imported cooking ingredients for the growing home-cooking and F&B-service segments. Gifting occasions (Tết) also lift premium imported food. Avoid perishables and anything that competes head-on with cheap local staples."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Decision"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="sell-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/sell-into-vietnam/">Sell into Vietnam</a>
+      <span aria-hidden="true">/</span>
+      <span>Food &amp; beverage go / no-go</span>
+    </nav>
+
+    <header class="sell-header">
+      <h1>{title}</h1>
+      <p class="sell-meta">Last updated {updated} · A first-party decision analysis · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="verdict" aria-label="Verdict">
+      <div class="verdict__badge verdict__badge--caution">CAUTION — premium / specialty only</div>
+      <p class="verdict__text">
+        Vietnam's food demand is enormous, but it's a food-production powerhouse — cheap local products
+        dominate everyday categories, and imported staples can't compete on price. <strong>Enter if</strong>
+        you have a premium, specialty, health, or gifting product that's shelf-stable and can carry an
+        imported-quality premium. <strong>Don't enter</strong> with commodity food, perishables, or
+        anything that goes head-to-head with local staples — and note the new Decree 46/2026 import rules.
+      </p>
+    </aside>
+
+    <section>
+      <h2>The scorecard</h2>
+      <div class="fee-table-wrap">
+        <table class="score-table">
+          <thead><tr><th>Dimension</th><th>Read</th><th>Why</th></tr></thead>
+          <tbody>
+            {scorecard.map(s => (
+              <tr>
+                <th scope="row">{s.dim}</th>
+                <td><span class:list={["pill", s.score >= 4 ? "pill--good" : s.score === 3 ? "pill--mid" : "pill--hard"]}>{s.rating}</span></td>
+                <td>{s.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside class="keyfacts" aria-label="Key numbers">
+      <h2 class="keyfacts__title">Vietnam F&amp;B reality check (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>~10%</strong> platform commission (cheapest major category)</li>
+        <li><strong>2.5–3×</strong> FOB → shelf price after duty/VAT/fees</li>
+        <li><strong>Decree 46/2026</strong> tougher imports, no grace period</li>
+        <li><strong>Premium/specialty</strong> = the only viable slice</li>
+        <li><strong>~1 week</strong> VFA self-declaration (standard processed food)</li>
+        <li><strong>Shelf-stable only</strong> for cross-border</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>The opportunity: real, but narrower than it looks</h2>
+      <p>
+        Vietnam has a large, young population and food &amp; grocery is one of the biggest e-commerce
+        categories, so the top-line demand is genuine. The problem for foreign brands is the supply side:
+        Vietnam is a global food-production powerhouse, so local products win everyday categories on price
+        and freshness. That pushes the real opportunity into <strong>premium, specialty, health, and
+        gifting</strong> — where an imported brand's quality signal justifies paying more, rather than
+        competing with a cheap local equivalent.
+      </p>
+    </section>
+
+    <section>
+      <h2>The catch: local price competition + tougher imports</h2>
+      <ul class="route-list">
+        <li><strong>Cheap local supply.</strong> A comparable local product often sells for a fraction of the imported price — so imports need premium positioning, not price parity.</li>
+        <li><strong>Landed cost stacks up.</strong> Import duty + 10% VAT (the <a href="/data/vietnam-regulation-tracker/">de-minimis exemption was removed</a> in Feb 2025) + freight + ~10% commission typically forces an imported item to retail at 2.5–3× its FOB cost.</li>
+        <li><strong>Decree 46/2026.</strong> Effective 26 January 2026 with no grace period, it added risk-based border inspection — high-risk and new-importer shipments can face physical checks, sampling, and lab testing.</li>
+        <li><strong>Logistics.</strong> Shelf life, cold chain, and per-order customs make cross-border food far harder than cosmetics or supplements; most viable imports are shelf-stable.</li>
+      </ul>
+      <h3>Why the economics only work at a premium</h3>
+      <p>
+        Take a snack at US$2 FOB. Add ~15% duty, 10% VAT, freight, and ~10% platform commission, and it
+        has to retail near <strong>US$5–6</strong> to make margin — against a local snack at a fraction of
+        that. The gap is why imported F&amp;B succeeds as a <em>premium or gift</em> purchase and fails as
+        an everyday staple. Model your specific landed cost with the
+        <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> before you commit.
+      </p>
+    </section>
+
+    <section>
+      <h2>Where the openings are</h2>
+      <ul class="route-list">
+        <li><strong>Premium confectionery &amp; snacks</strong> — imported chocolate, biscuits, and better-for-you snacks, especially around gifting occasions like Tết.</li>
+        <li><strong>Health &amp; functional foods/beverages</strong> — overlaps with the fast-growing <a href="/sell-into-vietnam/supplements/">supplements</a> and wellness trend.</li>
+        <li><strong>Infant &amp; specialized nutrition</strong> — a trust-driven, premium-tolerant category (heavily regulated).</li>
+        <li><strong>Imported ingredients</strong> — for the growing home-cooking and F&amp;B-service (HORECA) segments.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>If it's a go: how to actually enter</h2>
+      <ol class="step-list-simple">
+        <li>Confirm your product is shelf-stable and premium/specialty — if it's a commodity staple, reconsider.</li>
+        <li>Check the Decree 46/2026 inspection tier for your category and prepare VFA declaration/registration + Vietnamese labeling.</li>
+        <li>Model landed cost and target shelf price with the <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> and net payout with the <a href="/tools/channel-selector/">channel selector</a>.</li>
+        <li>Track import and platform rules on the <a href="/data/vietnam-regulation-tracker/">regulation tracker</a>.</li>
+        <li>Follow the platform playbooks: <a href="/guides/how-to-sell-on-shopee-vietnam/">Shopee</a>, <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop</a>, <a href="/guides/how-to-sell-on-lazada-vietnam/">Lazada</a>.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>InCorp Vietnam / Vietnam Briefing — Decree 46/2026/NĐ-CP food-safety regulation (effective 26 Jan 2026, risk-based inspection, no grace period)</li>
+        <li>Vietnam customs/tax — Decision 01/2025/QĐ-TTg (de-minimis removal), import duty + VAT; see our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+        <li>Platform fees — food-category commission ~10%; our <a href="/guides/shopee-vietnam-seller-fees/">Shopee fee reference</a></li>
+        <li>Practitioner guidance on cross-border food economics and VFA product declaration (Emerhub, Artixio)</li>
+      </ul>
+      <p class="table-note">A sourced decision analysis, not legal, tax, or investment advice. Food import rules changed in 2026 — confirm current Decree 46/2026 requirements and your category's inspection tier with a qualified Vietnamese advisor before committing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li>More category go/no-go: <a href="/sell-into-vietnam/beauty/">Beauty</a> · <a href="/sell-into-vietnam/supplements/">Supplements</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/cross-border-ecommerce-into-vietnam/">Cross-border into Vietnam</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/sell-into-vietnam/">← Sell into Vietnam</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .sell-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .sell-header { margin-bottom: var(--space-5); }
+  .sell-header h1 { border: none; margin-bottom: var(--space-3); }
+  .sell-meta { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sell-meta a { color: var(--color-accent); }
+  .verdict { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 4px solid #d97706; border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .verdict__badge { display: inline-block; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; font-size: var(--text-sm); color: #fff; background: var(--color-accent); padding: 4px 12px; border-radius: 100px; margin-bottom: var(--space-3); }
+  .verdict__badge--caution { background: #d97706; }
+  .verdict__text { margin: 0; font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .verdict__text a { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .score-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .score-table th, .score-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .score-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .score-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .pill { display: inline-block; font-weight: 700; font-size: var(--text-xs); padding: 2px 10px; border-radius: 100px; border: 1px solid transparent; white-space: nowrap; }
+  .pill--good { background: color-mix(in srgb, #16a34a 16%, transparent); color: #15803d; border-color: color-mix(in srgb, #16a34a 35%, transparent); }
+  .pill--mid { background: color-mix(in srgb, #d97706 16%, transparent); color: #b45309; border-color: color-mix(in srgb, #d97706 35%, transparent); }
+  .pill--hard { background: color-mix(in srgb, #dc2626 15%, transparent); color: #b91c1c; border-color: color-mix(in srgb, #dc2626 35%, transparent); }
+  @media (prefers-color-scheme: dark) { .pill--good { color: #4ade80; } .pill--mid { color: #fbbf24; } .pill--hard { color: #f87171; } }
+  :root[data-theme="dark"] .pill--good { color: #4ade80; }
+  :root[data-theme="dark"] .pill--mid { color: #fbbf24; }
+  :root[data-theme="dark"] .pill--hard { color: #f87171; }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-xl); color: var(--color-accent); font-variant-numeric: tabular-nums; }
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-3); }
+  section p a, .route-list a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
