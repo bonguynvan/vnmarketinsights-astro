@@ -1,0 +1,266 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "Should You Sell Fashion into Vietnam? A 2026 Go / No-Go Decision";
+const description = "A sourced go/no-go for foreign fashion and apparel brands entering Vietnam in 2026: the huge demand (fashion is ~28% of e-commerce), the collapse of cross-border imports (revenue −23%, volume −57%), local brands overtaking fast fashion, the winning price band, and who should enter.";
+const canonical = "https://vnmarketinsights.com/sell-into-vietnam/fashion/";
+const updated = "2026-08-12";
+
+const scorecard = [
+  { dim: 'Demand', rating: 'Strong', score: 5, note: 'Fashion is the largest e-commerce category (~28% of four-platform sales); TikTok Shop fashion GMV ~US$1.2B, growing >60%/yr' },
+  { dim: 'Foreign-brand fit', rating: 'Narrow', score: 2, note: 'Local brands crossed 45% share and overtook Zara/H&M/Uniqlo; cross-border imports are collapsing (revenue −23%, volume −57% YoY). Only a premium/quality wedge works' },
+  { dim: 'Margin', rating: 'Mixed', score: 3, note: 'Fashion commission ~13.5–16.5% + apparel import duty 12–20% (0–5% under RCEP/EVFTA with Certificate of Origin); the $14–60 band has room only with local execution' },
+  { dim: 'Regulatory load', rating: 'Moderate', score: 3, note: 'Lighter than beauty/food, but QCVN 01:2017 textile conformity declaration + MOIT import licensing + Vietnamese labeling; used clothing is banned' },
+  { dim: 'Competition', rating: 'Intense', score: 2, note: 'Local brands ship idea-to-shelf in ~14 days with cultural fit (sizing, climate, price); Korean fast fashion competes hard below the premium band' },
+];
+
+const faqs = [
+  {
+    question: "Is Vietnam a good market for foreign fashion brands in 2026?",
+    answer: "The demand is enormous — fashion is the single largest e-commerce category (~28% of sales across the four platforms) and TikTok Shop fashion GMV hit ~US$1.2B growing 60%+ a year. But the answer for most foreign brands is: not as a cross-border play. Revenue from imported products on Shopee fell 23.4% and volume 56.9% year-on-year after the de-minimis exemption was removed, and Vietnamese local brands crossed 45% share, overtaking Zara, H&M and Uniqlo. It's a go only for a differentiated premium/quality brand that commits to local execution — local content, local inventory, and a TikTok creator engine — in the ~US$14–60 price band."
+  },
+  {
+    question: "Why is cross-border fashion into Vietnam declining?",
+    answer: "Three forces hit at once. The low-value de-minimis exemption was removed in February 2025, so imported apparel now carries 12–20% import duty (16–32% for some HS codes) plus VAT; local Vietnamese brands ship idea-to-shelf in ~14 days with better sizing, climate fit, and price; and Korean fast fashion competes hard on logistics cost below the premium band. The result: imported-product revenue on Shopee dropped 23.4% and volume 56.9% YoY, while local-brand share crossed 45%."
+  },
+  {
+    question: "What's the winning price band for foreign fashion brands in Vietnam?",
+    answer: "About VND 350,000–1,500,000 per piece (~US$14–60), with the sweet spot at VND 400,000–900,000 (~US$16–36) for Korean-aesthetic brands with genuine quality differentiation. Below ~VND 350,000, domestic and Korean fast fashion win on lower logistics cost. Above ~VND 1,500,000, you need luxury brand recognition that most new entrants don't have. Products above VND 1M already contribute ~18% of platform revenue, and authorized-brand (Mall) revenue grew 54% — genuine branded goods are gaining."
+  },
+  {
+    question: "Can a foreign fashion brand sell in Vietnam online only?",
+    answer: "Yes. Vietnam's e-commerce and social-commerce infrastructure is mature enough that international fashion brands generate significant revenue through Shopee Mall and TikTok Shop without physical retail — Vietnamese consumers treat Shopee Mall official-store status as an authenticity signal. But 'online' here means localized: Vietnamese-language listings (English-only listings rank poorly in search) and an active TikTok creator program, because Vietnamese Gen-Z discovers fashion through creators, not ads."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Decision"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="sell-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/sell-into-vietnam/">Sell into Vietnam</a>
+      <span aria-hidden="true">/</span>
+      <span>Fashion go / no-go</span>
+    </nav>
+
+    <header class="sell-header">
+      <h1>{title}</h1>
+      <p class="sell-meta">Last updated {updated} · A first-party decision analysis · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="verdict" aria-label="Verdict">
+      <div class="verdict__badge verdict__badge--caution">GO — but localize or lose</div>
+      <p class="verdict__text">
+        Fashion is Vietnam's biggest e-commerce category, but the easy version of this market is gone:
+        cross-border imports are collapsing and local brands just overtook global fast fashion.
+        <strong>Enter if</strong> you have a differentiated premium/quality product in the ~US$14–60 band
+        and will commit to local execution — Vietnamese-language listings, local inventory, and a TikTok
+        creator engine. <strong>Don't enter</strong> if your plan is to ship your catalog cross-border and
+        compete on price — that channel is actively shrinking.
+      </p>
+    </aside>
+
+    <section>
+      <h2>The scorecard</h2>
+      <div class="fee-table-wrap">
+        <table class="score-table">
+          <thead><tr><th>Dimension</th><th>Read</th><th>Why</th></tr></thead>
+          <tbody>
+            {scorecard.map(s => (
+              <tr>
+                <th scope="row">{s.dim}</th>
+                <td><span class:list={["pill", s.score >= 4 ? "pill--good" : s.score === 3 ? "pill--mid" : "pill--hard"]}>{s.rating}</span></td>
+                <td>{s.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <aside class="keyfacts" aria-label="Key numbers">
+      <h2 class="keyfacts__title">Vietnam fashion at a glance (2025–26)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>~US$4.75B</strong> fashion e-commerce (2025)</li>
+        <li><strong>~28%</strong> of four-platform sales (largest category)</li>
+        <li><strong>~US$1.2B</strong> TikTok Shop fashion GMV, +60%/yr</li>
+        <li><strong>45%+</strong> local-brand share (overtook fast fashion)</li>
+        <li><strong>−23% / −57%</strong> imported revenue / volume YoY</li>
+        <li><strong>US$14–60</strong> winning price band</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>The opportunity: the biggest category, moving to video</h2>
+      <p>
+        Fashion is the largest online retail category in Vietnam — roughly <strong>28% of sales</strong>
+        across the four platforms and a ~US$4.75B e-commerce segment. It's also moving fastest to
+        discovery commerce: TikTok Shop fashion GMV reached <strong>~US$1.2B in 2025, growing 60%+ a
+        year</strong>, with over 115,000 fashion sellers (8.5× since 2022). Men's fashion online grew
+        ~150% YoY in early 2026, women's ~75%. Vietnamese Gen-Z discovers every new brand through TikTok
+        creators, not advertising.
+      </p>
+    </section>
+
+    <section>
+      <h2>The catch: cross-border is dying and locals are winning</h2>
+      <ul class="route-list">
+        <li><strong>Cross-border imports are collapsing.</strong> After the de-minimis removal, imported-product revenue on Shopee fell 23.4% and volume 56.9% YoY. Apparel now carries 12–20% import duty (up to 32% for some HS codes) plus VAT.</li>
+        <li><strong>Local brands overtook fast fashion.</strong> Vietnamese brands crossed 45% share — past Zara, H&M and Uniqlo — with ~14-day idea-to-shelf cycles and cultural fit (sizing for Vietnamese physiques, climate-appropriate fabric, local price-quality).</li>
+        <li><strong>English-only doesn't rank.</strong> Shopee/TikTok listings need Vietnamese-language content to be discoverable; foreign brands that skip this get a fraction of the volume.</li>
+      </ul>
+      <h3>Worked economics: a US$30 (VND 750k) dress on TikTok Shop</h3>
+      <ul class="worked">
+        <li>Commission (~15%): <strong>−112,500₫</strong></li>
+        <li>Transaction fee (6%): <strong>−45,000₫</strong></li>
+        <li>Decree 117 tax withheld (1.5%): <strong>−11,250₫</strong></li>
+        <li>Creator affiliate (20%): <strong>−150,000₫</strong></li>
+        <li>Left before COGS &amp; landed cost: <strong>≈431,250₫ (~57.5%)</strong></li>
+      </ul>
+      <p>
+        Add import duty (12–20%, or 0–5% under an FTA with a Certificate of Origin) and it's clear why
+        locally-made product wins on price — and why imported brands need a premium position and local
+        inventory to survive. Model your landed cost with the
+        <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> and net payout with the
+        <a href="/tools/channel-selector/">channel selector</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Where the openings are</h2>
+      <ul class="route-list">
+        <li><strong>Premium / quality in the US$14–60 band</strong> — especially Korean-aesthetic brands with genuine quality differentiation (sweet spot ~US$16–36).</li>
+        <li><strong>Authorized-brand (Mall) positioning</strong> — Mall revenue grew 54%; Vietnamese buyers increasingly pay for genuine branded goods and treat Mall status as authenticity.</li>
+        <li><strong>Premium / luxury</strong> — the fastest-growing segment (~14.4% CAGR) as the middle class heads toward 56M by 2030, though it needs real brand recognition.</li>
+        <li><strong>Sports / functional wear and men's fashion</strong> — fast-rising sub-segments with room for differentiated technical or professional product.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>If it's a go: how to actually enter</h2>
+      <ol class="step-list-simple">
+        <li>Confirm your product fits the US$14–60 premium/quality band — if you're competing on price, reconsider.</li>
+        <li>Handle compliance: MOIT import licensing, the QCVN 01:2017 textile conformity declaration, and Vietnamese labeling — see our <a href="/guides/import-apparel-into-vietnam/">apparel import guide</a>.</li>
+        <li>Localize: Vietnamese-language Shopee Mall + TikTok Shop listings and a creator program — see our <a href="/guides/sell-fashion-tiktok-shopee-vietnam/">fashion channel playbook</a>.</li>
+        <li>Model landed cost + net payout with the <a href="/tools/landed-cost-calculator/">landed-cost calculator</a> and <a href="/tools/channel-selector/">channel selector</a>.</li>
+        <li>Track the rules (de-minimis, Decree 117, E-Commerce Law) on the <a href="/data/vietnam-regulation-tracker/">regulation tracker</a>.</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>ECDB / YouNet ECI / Metric — fashion e-commerce size, category share, and growth</li>
+        <li>Aeonic.asia — Vietnam fashion e-commerce 2026 (local-brand 45% crossover, platform shares)</li>
+        <li>Vietnam Briefing — imported-product revenue −23.4% / volume −56.9%; Mall revenue +54%</li>
+        <li>Asia Pro Distribution — international-brand price band, channel playbook, import duty; Expert Market Research — clothing market size</li>
+        <li>Platform fees & rules — our <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop guide</a> and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced decision analysis, not legal, tax, or investment advice. Market figures vary by source and definition; confirm the specifics for your product before committing capital.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li>Fashion cluster: <a href="/guides/import-apparel-into-vietnam/">Import apparel (compliance)</a> · <a href="/guides/sell-fashion-tiktok-shopee-vietnam/">Sell fashion on TikTok &amp; Shopee</a></li>
+        <li>More category go/no-go: <a href="/sell-into-vietnam/beauty/">Beauty</a> · <a href="/sell-into-vietnam/supplements/">Supplements</a> · <a href="/sell-into-vietnam/food-and-beverage/">Food &amp; beverage</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/tools/channel-selector/">Channel selector</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/sell-into-vietnam/">← Sell into Vietnam</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .sell-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .sell-header { margin-bottom: var(--space-5); }
+  .sell-header h1 { border: none; margin-bottom: var(--space-3); }
+  .sell-meta { font-size: var(--text-sm); color: var(--color-text-muted); }
+  .sell-meta a { color: var(--color-accent); }
+  .verdict { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 4px solid #d97706; border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .verdict__badge { display: inline-block; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; font-size: var(--text-sm); color: #fff; background: var(--color-accent); padding: 4px 12px; border-radius: 100px; margin-bottom: var(--space-3); }
+  .verdict__badge--caution { background: #d97706; }
+  .verdict__text { margin: 0; font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .verdict__text a { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .score-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .score-table th, .score-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .score-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .score-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .pill { display: inline-block; font-weight: 700; font-size: var(--text-xs); padding: 2px 10px; border-radius: 100px; border: 1px solid transparent; white-space: nowrap; }
+  .pill--good { background: color-mix(in srgb, #16a34a 16%, transparent); color: #15803d; border-color: color-mix(in srgb, #16a34a 35%, transparent); }
+  .pill--mid { background: color-mix(in srgb, #d97706 16%, transparent); color: #b45309; border-color: color-mix(in srgb, #d97706 35%, transparent); }
+  .pill--hard { background: color-mix(in srgb, #dc2626 15%, transparent); color: #b91c1c; border-color: color-mix(in srgb, #dc2626 35%, transparent); }
+  @media (prefers-color-scheme: dark) { .pill--good { color: #4ade80; } .pill--mid { color: #fbbf24; } .pill--hard { color: #f87171; } }
+  :root[data-theme="dark"] .pill--good { color: #4ade80; }
+  :root[data-theme="dark"] .pill--mid { color: #fbbf24; }
+  :root[data-theme="dark"] .pill--hard { color: #f87171; }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(205px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-lg); color: var(--color-accent); }
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-3); }
+  .worked { margin: var(--space-3) 0; line-height: 1.7; }
+  .worked strong { font-variant-numeric: tabular-nums; }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  section p a, .route-list a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

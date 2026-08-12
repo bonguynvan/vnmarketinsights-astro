@@ -1,0 +1,241 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Import Apparel into Vietnam (2026) — Duty, QCVN 01:2017 & Labeling";
+const description = "A sourced guide to importing clothing and apparel into Vietnam: import duty (12–20%, or 0–5% under RCEP/EVFTA), the mandatory QCVN 01:2017 textile conformity declaration (formaldehyde and azo amines), Vietnamese labeling, and the used-clothing import ban.";
+const canonical = "https://vnmarketinsights.com/guides/import-apparel-into-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Confirm the goods are new and classify the HS code',
+    text: 'New apparel (Chapters 61 knitted / 62 non-knitted) imports as normal goods. Used clothing is banned from import into Vietnam. Classify the HS code from the actual product — it sets your duty rate and whether the QCVN 01:2017 textile regulation applies (Appendix I of the standard).',
+  },
+  {
+    name: 'Handle import licensing and customs documents',
+    text: 'Commercial quantities need Ministry of Industry and Trade (MOIT) import handling, plus the standard customs set: commercial invoice, packing list, bill of lading/air waybill, and — to claim preferential duty — a Certificate of Origin (Form for ASEAN/RCEP or EUR.1 for EVFTA).',
+  },
+  {
+    name: 'Work out your duty and VAT',
+    text: 'Apparel import duty is commonly 12–20% at the MFN rate (higher for some HS codes), but drops to 0–5% under RCEP or the EU–Vietnam FTA if you have a valid Certificate of Origin. Add VAT (currently 8% through end-2026 for many goods) on the CIF-plus-duty value. The de-minimis exemption was removed in Feb 2025, so even small parcels are taxed.',
+  },
+  {
+    name: 'Test for formaldehyde and azo amines (or use an eco-label)',
+    text: 'Under QCVN 01:2017/BCT (Circular 21/2017), textile products in the standard\'s scope must meet formaldehyde limits — 30 mg/kg for products for children under 3, 75 mg/kg for skin-contact items, 300 mg/kg for non-contact — and ≤30 mg/kg for each listed aromatic amine. Test at a registered lab (TCVN/ISO methods), or rely on an accepted eco-label (e.g. OEKO-TEX) which exempts sampling.',
+  },
+  {
+    name: 'File the declaration of conformity and affix the CR mark',
+    text: 'Register a declaration of conformity with the provincial Department of Industry and Trade (self-assessment or third-party certification), then affix the CR conformity mark. This must be done before the product is sold on the Vietnamese market — note it is NOT required at the moment of customs clearance, but before market sale.',
+  },
+  {
+    name: 'Apply a compliant Vietnamese label and sell',
+    text: 'Every imported garment needs a Vietnamese label with product name, fiber/material content, care instructions, country of origin, and the importer\'s name and address. With the declaration of conformity registered and the label applied, the product can be traded on the Vietnamese market.',
+  },
+];
+
+const limitRows = [
+  { grp: 'Formaldehyde — children under 3', limit: '≤ 30 mg/kg' },
+  { grp: 'Formaldehyde — direct skin contact', limit: '≤ 75 mg/kg' },
+  { grp: 'Formaldehyde — no direct skin contact', limit: '≤ 300 mg/kg' },
+  { grp: 'Each listed aromatic amine (azo)', limit: '≤ 30 mg/kg' },
+];
+
+const faqs = [
+  {
+    question: "What import duty applies to clothing in Vietnam?",
+    answer: "Apparel import duty is commonly 12–20% at the MFN (most-favoured-nation) rate, and higher — up to ~32% — for some HS codes, plus VAT. But it drops to 0–5% under RCEP or the EU–Vietnam FTA (EVFTA) if you have a valid Certificate of Origin for an eligible country. Since the low-value de-minimis exemption was removed in February 2025, even small cross-border parcels are taxed, which is a major reason imported fast fashion has become uncompetitive."
+  },
+  {
+    question: "What is QCVN 01:2017 and do I need it?",
+    answer: "QCVN 01:2017/BCT (issued under Circular 21/2017/TT-BCT, effective 2018) is Vietnam's mandatory technical regulation on formaldehyde and certain azo-derived aromatic amines in textile products. If your product is in Appendix I of the standard (most garments in Chapters 61/62), you must register a declaration of conformity and affix the CR mark before selling on the Vietnamese market. Testing isn't required at customs clearance, but the conformity declaration must be in place before the goods are traded."
+  },
+  {
+    question: "Can I import used or second-hand clothing into Vietnam?",
+    answer: "No. Used clothing is on Vietnam's list of goods banned from import (Decree 69/2018). Only new apparel can be imported commercially. This is worth flagging because second-hand/vintage is a large informal category in Vietnam — but it can't be supplied through legal commercial import."
+  },
+  {
+    question: "How is importing apparel different from beauty or supplements?",
+    answer: "Apparel is lighter-regulated: there's no per-SKU registration like the DAV cosmetic notification or VFA supplement registration. The main product-specific requirement is the QCVN 01:2017 conformity declaration (formaldehyde/azo amines), plus MOIT import handling and Vietnamese labeling. The bigger commercial hurdle for fashion isn't compliance — it's the import duty and fierce local competition (see our fashion go/no-go)."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Import Apparel into Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Import apparel into Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Apparel is lighter-regulated than beauty or supplements in Vietnam — there's no per-SKU
+        registration — but it has its own gate: the QCVN 01:2017 textile conformity declaration, plus
+        import duty, labeling, and a used-clothing import ban. This guide walks the process: HS
+        classification, duty and FTA preferential rates, the formaldehyde/azo-amine conformity
+        declaration, and Vietnamese labeling. Figures as of {updated}; not legal advice — confirm your
+        HS code and current requirements with a Vietnamese customs/regulatory advisor.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/fashion/">Sell fashion into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Apparel import at a glance (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>12–20%</strong> import duty (MFN; up to ~32% some HS)</li>
+        <li><strong>0–5%</strong> under RCEP / EVFTA with Certificate of Origin</li>
+        <li><strong>QCVN 01:2017</strong> conformity declaration required</li>
+        <li><strong>CR mark</strong> before market sale (not at customs)</li>
+        <li><strong>Used clothing</strong> banned from import</li>
+        <li><strong>Vietnamese label</strong> — fiber, care, origin, importer</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>QCVN 01:2017 limits</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Substance / product group</th><th>Maximum limit</th></tr></thead>
+          <tbody>
+            {limitRows.map(r => (
+              <tr>
+                <th scope="row">{r.grp}</th>
+                <td class="num">{r.limit}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Products carrying an accepted eco-label (e.g. OEKO-TEX Standard 100, EU Ecolabel, GOTS) are exempt from sampling — the eco-label certificate supports the declaration of conformity. Products with HS code 9619 are exempt from the standard.</p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>QCVN 01:2017/BCT / Circular 21/2017/TT-BCT (formaldehyde &amp; aromatic amines in textiles) — MOIT / LuatVietnam</li>
+        <li>Vietnam Customs Tariff Schedule (Chapters 61/62); Decree 69/2018 (used-clothing import ban)</li>
+        <li>Apparel duty & FTA preferential rates (RCEP, EVFTA) — Asia Pro Distribution; import-procedure practitioners (IFIC, HP Toàn Cầu)</li>
+        <li>De-minimis removal & VAT — our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a> and <a href="/tools/landed-cost-calculator/">landed-cost calculator</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal or tax advice. Confirm your HS code, duty rate, and current conformity requirements with a qualified Vietnamese customs/regulatory advisor before importing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/fashion/">Should you sell fashion into Vietnam?</a> (go/no-go) · <a href="/guides/sell-fashion-tiktok-shopee-vietnam/">Sell fashion on TikTok &amp; Shopee</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table .num { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--color-accent); white-space: nowrap; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  section p a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

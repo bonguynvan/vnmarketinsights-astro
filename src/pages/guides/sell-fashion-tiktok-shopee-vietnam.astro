@@ -1,0 +1,252 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Sell Fashion on TikTok Shop & Shopee Vietnam (2026)";
+const description = "A sourced playbook for selling fashion on TikTok Shop and Shopee Vietnam: why the TikTok creator engine drives the category, the Shopee Mall authenticity signal, the Vietnamese-content requirement, the US$14–60 winning price band, and a documented launch sequence.";
+const canonical = "https://vnmarketinsights.com/guides/sell-fashion-tiktok-shopee-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Open a Shopee Mall official store with Vietnamese content',
+    text: 'Shopee\'s fashion category has ~55 million monthly shoppers, and Mall official-store status is the authenticity signal Vietnamese buyers look for. List with Vietnamese-language titles and descriptions — English-only listings rank poorly in Shopee search and generate a fraction of the volume. Timeline from importer engagement to first sale: ~6–8 weeks.',
+  },
+  {
+    name: 'Open a TikTok Shop official store',
+    text: 'TikTok Shop is the highest-growth fashion channel (category GMV ~US$1.2B in 2025, growing 60%+ a year). Set up an official store and product catalog optimized for video — fashion is discovered in the For You feed and livestreams, not search.',
+  },
+  {
+    name: 'Build a TikTok creator program — this is the engine',
+    text: 'Recruit 6–15 Vietnamese fashion creators (200k–3M followers) across HCMC, Hanoi, and Da Nang, running 2–3 content pieces each over a 3-month launch. Budget ~US$3,000–8,000 including product samples. When a creator wears your piece in an "OOTD Vietnam" or "thrift with me" video, Shopee search volume for your brand spikes within hours — capture it with a Mall store linked in the creator bio.',
+  },
+  {
+    name: 'Run livestream sessions',
+    text: 'Vietnamese fashion creators sell 500–5,000 items per live session. Plan a repeatable livestream cadence — your own plus creator-led streams during mega-campaigns (Tết, 9.9, 11.11, 12.12) — with hero SKUs and campaign stock ready so you don\'t sell out and cancel orders (a top reputation-killer).',
+  },
+  {
+    name: 'Price in the US$14–60 band and keep it consistent across channels',
+    text: 'The highest-converting range for international fashion in Vietnam is VND 350,000–1,500,000 (~US$14–60), sweet spot ~US$16–36. Vietnamese consumers price-check across Shopee, TikTok Shop, and physical retail before buying — inconsistent pricing across channels is noticed and questioned, so keep it aligned or justify differences clearly.',
+  },
+  {
+    name: 'Scale, then consider offline for credibility',
+    text: 'Online alone can carry a fashion brand in Vietnam — Mall status substitutes for physical-retail trust. Once you have 6 months of Shopee + TikTok sell-through data, a Vincom Retail pop-up or tenant conversation becomes a credibility accelerator with distributors and media, not a prerequisite for consumer sales.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Is TikTok Shop or Shopee better for selling fashion in Vietnam?",
+    answer: "Use both — they serve different modes. TikTok Shop is the discovery and growth engine: category GMV ~US$1.2B in 2025, growing 60%+ a year, with creators and livestreams driving demand for Gen-Z buyers. Shopee is the intent/search channel with a ~55M-shopper fashion audience and the Mall authenticity signal that closes the sale. The winning pattern is a TikTok creator program that generates demand, captured by a Shopee Mall official store linked in creator bios."
+  },
+  {
+    question: "Do I need Vietnamese-language listings to sell fashion in Vietnam?",
+    answer: "Yes. Shopee and TikTok Shop listings need Vietnamese-language titles and descriptions to be discoverable — foreign brands that list in English rank poorly and get a fraction of the available volume. Most brands use an HCMC agency to translate and culturally adapt product content. (This is about your marketplace listings; it's separate from your own brand website.)"
+  },
+  {
+    question: "How much does a fashion launch on TikTok Shop Vietnam cost?",
+    answer: "A minimum viable creator program is 6–8 Vietnamese fashion creators producing 2–3 pieces each over 3 months, budgeted at ~US$3,000–8,000 including product samples — generating 12–24 content pieces that drive 6–12 months of organic referral. A leaner start (a Shopee official store plus 3 creators) can reach first consumer sale in 6–8 weeks and VND 50–150M (~US$2,000–6,000) in month one for a well-positioned product."
+  },
+  {
+    question: "What revenue can a foreign fashion brand expect in Vietnam?",
+    answer: "As a directional benchmark from a documented launch: an international brand reached ~US$18,400 in month-6 combined monthly revenue (Shopee ~VND 280M + TikTok Shop ~VND 180M) and roughly US$160,000 in year-one total revenue, using a Shopee Mall store, an 8-creator TikTok program, and a later Vincom pop-up. Results depend heavily on product-market aesthetic fit and pricing in the US$14–60 band."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Sell Fashion on TikTok Shop & Shopee Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Sell fashion on TikTok &amp; Shopee</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Fashion in Vietnam is won on TikTok and closed on Shopee. Vietnamese Gen-Z discovers every new
+        brand through creators — not ads — and buys from a Shopee Mall official store they trust. For a
+        foreign brand, the online-only path genuinely works, but only when it's localized: Vietnamese-
+        language listings, a TikTok creator engine, and pricing in the US$14–60 band. This guide is the
+        channel playbook, with a documented launch sequence. Figures as of {updated}.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/fashion/">Sell fashion into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Selling fashion in Vietnam at a glance (2025–26)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>~US$1.2B</strong> TikTok Shop fashion GMV, +60%/yr</li>
+        <li><strong>~55M</strong> monthly Shopee fashion shoppers</li>
+        <li><strong>US$14–60</strong> winning price band</li>
+        <li><strong>6–15</strong> creators for a launch program</li>
+        <li><strong>US$3–8k</strong> 3-month creator-program budget</li>
+        <li><strong>6–8 weeks</strong> to first consumer sale</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>The creator engine is the growth machine</h2>
+      <p>
+        Vietnamese fashion TikTok is a product-launch machine. When a creator with 500k followers wears
+        your piece in an OOTD video, Vietnamese consumers don't just watch — they screenshot, share to
+        Facebook and Zalo groups, and ask "where to buy?" in the comments. A brand with a Shopee Mall
+        store linked in the creator's bio captures that demand; a brand without a Vietnamese purchase link
+        loses it to competitors or second-hand resellers. Run <strong>6–15 creators</strong> across
+        HCMC, Hanoi, and Da Nang, at <strong>US$3,000–8,000</strong> for a 3-month program, and expect the
+        content to drive 6–12 months of organic referral after publication.
+      </p>
+    </section>
+
+    <section>
+      <h2>Pricing &amp; positioning</h2>
+      <p>
+        Price in the <strong>US$14–60</strong> band (VND 350,000–1,500,000), sweet spot
+        <strong>US$16–36</strong> for Korean-aesthetic quality. Below ~US$14, domestic and Korean fast
+        fashion beat you on logistics cost; above ~US$60 you need luxury recognition. Keep pricing
+        consistent across Shopee, TikTok Shop, and any physical retail — Vietnamese buyers price-check
+        every channel before purchase and will question a mall price 40% above the Shopee price for the
+        same item. Model your net payout per channel with the
+        <a href="/tools/channel-selector/">channel selector</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>A documented launch sequence</h2>
+      <ol class="step-list-simple">
+        <li><strong>Month 1–2:</strong> Shopee Mall official store with Vietnamese-adapted content.</li>
+        <li><strong>Month 3:</strong> 8 TikTok fashion creators (5 HCMC, 3 Hanoi), ~2 videos/week.</li>
+        <li><strong>Month 4:</strong> TikTok Shop official store + first livestreams.</li>
+        <li><strong>Month 7:</strong> use 6 months of Shopee + TikTok data to open a Vincom Retail pop-up conversation.</li>
+      </ol>
+      <p>
+        Documented outcome: Shopee month-6 revenue ~VND 280M and TikTok Shop ~VND 180M — combined
+        ~<strong>US$18,400/month</strong> by month 6 — building to roughly <strong>US$160,000 year-one</strong>
+        revenue, before any major offline investment.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Asia Pro Distribution — fashion channel playbook, creator-program budgets, price band, and the documented launch case study</li>
+        <li>VnExpress / VTV / TikTok Shop (iDEA "Fashion Up Vietnam") — TikTok fashion GMV ~US$1.2B, 115k sellers, +60%/yr</li>
+        <li>Aeonic.asia / YouNet ECI — platform shares, livestream-commerce scale, category share</li>
+        <li>Compliance & fees — our <a href="/guides/import-apparel-into-vietnam/">apparel import guide</a>, <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop guide</a>, and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal, tax, or investment advice. Platform fees and creator costs change — confirm current terms before committing budget.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/fashion/">Should you sell fashion into Vietnam?</a> (go/no-go) · <a href="/guides/import-apparel-into-vietnam/">Import apparel (compliance)</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Full TikTok Shop guide</a> · <a href="/guides/how-to-sell-on-shopee-vietnam/">Full Shopee guide</a> · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(205px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  section p a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
