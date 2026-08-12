@@ -1,0 +1,242 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Distribute Supplements in Vietnam: Pharmacy Chains + E-Commerce (2026)";
+const description = "A sourced distribution playbook for foreign supplement brands in Vietnam: why ~82% of sales are offline through pharmacy chains (Long Châu, Pharmacity, An Khang), the winning online-first-then-pharmacy sequence, channel margins (70–90% on FOB), and how to pick a distributor.";
+const canonical = "https://vnmarketinsights.com/guides/distribute-supplements-vietnam-pharmacy-ecommerce/";
+const updated = "2026-08-12";
+
+const channelRows = [
+  { ch: 'Long Châu (FPT Retail)', scale: '~2,400–2,700 stores', role: 'Largest chain and the single biggest prize; data-driven buyers pilot 20–30 stores before national rollout' },
+  { ch: 'Pharmacity', scale: '~1,100 stores', role: '~7,000 SKUs incl. vitamins/supplements; ~19M loyalty customers; expanding again' },
+  { ch: 'An Khang (MWG)', scale: '~415 stores', role: 'Smaller modern chain, nearing profitability; benefits from MWG retail ecosystem' },
+  { ch: 'Guardian / Medicare', scale: '~126 / ~64 stores', role: 'Smaller; Guardian skews health-and-beauty' },
+  { ch: 'Independent pharmacies', scale: '50,000+ (≈85% of market)', role: 'Reached via regional distributors; essential for Tier-2/3 cities' },
+  { ch: 'E-commerce (Shopee/TikTok/Lazada)', scale: '~18% of supplement sales', role: 'Fastest-growing; the channel to build consumer pull and sales data before pharmacy' },
+];
+
+const faqs = [
+  {
+    question: "Where are supplements actually sold in Vietnam — online or pharmacies?",
+    answer: "Mostly pharmacies. About 82% of supplement sales are offline, driven by trust in pharmacist advice, especially amid counterfeit concerns. Online is only ~18% but growing fastest and is where discovery happens. So an online-only strategy under-reaches: you eventually need the pharmacy modern-trade channel (Long Châu, Pharmacity, An Khang) plus independent pharmacies via distributors."
+  },
+  {
+    question: "What's the best way for a foreign supplement brand to enter Vietnam?",
+    answer: "Increasingly, online-first, then pharmacy. Build consumer pull and sales data on TikTok Shop with health KOCs and live selling, then approach a chain like Long Châu with real numbers. In one documented case, a foreign collagen brand invested ~US$12,000 in TikTok Shop setup and 8 weeks of live selling with three KOLs, hit 2,400 orders and a 4.8-star rating by week 10, and used that data to win a 60-store Long Châu pilot — reaching 200+ stores within 8 months (about 11 months from first TikTok sale to rollout)."
+  },
+  {
+    question: "How much margin does the pharmacy channel take in Vietnam?",
+    answer: "A lot — plan for it. Specialist supplement distributors typically expect 30–45% margin on landed cost, and modern chains like Long Châu and Pharmacity take another 25–35% from the distributor. Total channel cost from your FOB price to the pharmacy shelf commonly runs 70–90% on top of FOB. Products that can't carry that markup can't be distributed sustainably through pharmacy modern trade."
+  },
+  {
+    question: "How do I choose a supplement distributor in Vietnam?",
+    answer: "Verify pharmacy relationships specifically. A distributor with supermarket (Co.opmart, Winmart) relationships often has zero pharmacy access. Ask every candidate to name their current buyer contact at Long Châu and Pharmacity by name — if they can't, they don't have an active relationship, regardless of their profile. And check exclusivity exit terms before signing; a distributor mismatch can cost two years of channel sales."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Distribute supplements in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        The biggest mistake foreign supplement brands make in Vietnam is treating it as an e-commerce
+        play. About <strong>82% of supplement sales are offline</strong>, through pharmacies — and getting
+        listed in Long Châu, the dominant chain, is the single most valuable channel achievement you can
+        make. But the smart <em>sequence</em> is online-first: build pull and data on TikTok Shop, then
+        walk into the pharmacy buyer meeting with proof. This guide covers the channel map, the winning
+        playbook, and the margins. Figures as of {updated}.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/supplements/">Sell supplements into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Vietnam supplement distribution at a glance (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>82% / 18%</strong> offline vs online sales split</li>
+        <li><strong>~2,400+</strong> Long Châu stores (largest chain)</li>
+        <li><strong>50,000+</strong> independent pharmacies (~85% share)</li>
+        <li><strong>70–90%</strong> channel cost on top of FOB</li>
+        <li><strong>20–30</strong> store pilot before national rollout</li>
+        <li><strong>~5.7%</strong> modern-chain share — lots of headroom</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>The channel map</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Channel</th><th>Scale</th><th>Role</th></tr></thead>
+          <tbody>
+            {channelRows.map(r => (
+              <tr>
+                <th scope="row">{r.ch}</th>
+                <td class="num">{r.scale}</td>
+                <td>{r.role}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Modern pharmacy chains still hold only ~5.7% of a fragmented, multi-billion-dollar market — the shift from 50,000+ independents to modern trade is early, which is both the opportunity and why distributor relationships matter.</p>
+    </section>
+
+    <section>
+      <h2>The winning sequence: online-first, then pharmacy</h2>
+      <p>
+        Pharmacy buyers are professional and data-driven — Long Châu tests new brands in 20–30 pilot
+        stores before rolling out. The fastest way to earn that meeting is to arrive with proof, which you
+        build online first:
+      </p>
+      <ol class="step-list-simple">
+        <li><strong>Build pull on TikTok Shop</strong> with health KOCs and live selling — demonstrate demand, ratings, and repeat purchase.</li>
+        <li><strong>Capture the data</strong> — orders, rating, velocity, review sentiment.</li>
+        <li><strong>Approach Long Châu / Pharmacity with the numbers</strong> — a data-backed pitch converts to a pilot far faster than a cold deck.</li>
+        <li><strong>Win a 20–60 store pilot</strong>, hit the sell-through targets, then roll out nationally.</li>
+        <li><strong>Add independents via a regional distributor</strong> for Tier-2/3 reach.</li>
+      </ol>
+      <p>
+        A documented example: a foreign collagen brand spent ~US$12,000 on TikTok Shop setup and 8 weeks
+        of live selling with three KOLs, reached 2,400 orders and a 4.8-star rating by week 10, used that
+        data to win a 60-store Long Châu pilot, and reached 200+ stores within 8 months — about 11 months
+        from first TikTok sale to national rollout.
+      </p>
+    </section>
+
+    <section>
+      <h2>The economics: budget 70–90% on top of FOB</h2>
+      <p>
+        The pharmacy channel is not cheap. Specialist supplement distributors typically expect
+        <strong>30–45% margin</strong> on landed cost (higher than food FMCG because of the registration
+        investment and channel cost), and modern chains take another <strong>25–35%</strong> from the
+        distributor. From your FOB price to the pharmacy shelf, total channel cost commonly runs
+        <strong>70–90%</strong>. Price your product so it survives that — supplements below this threshold
+        can't sustain pharmacy modern trade. Model your landed cost first with the
+        <a href="/tools/landed-cost-calculator/">landed-cost calculator</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Picking a distributor: verify pharmacy access</h2>
+      <p>
+        The most expensive mistake is signing an exclusive with a distributor who has the wrong
+        relationships. Supermarket access (Co.opmart, Winmart) is not pharmacy access. Before you sign:
+      </p>
+      <ul class="route-list">
+        <li>Ask them to <strong>name their current buyer contact at Long Châu and Pharmacity</strong> — by name. No name, no active relationship.</li>
+        <li>Check the <strong>exclusivity exit terms</strong> — a mismatch locked in for 14 months can cost you two years of pharmacy sales.</li>
+        <li>Confirm they can handle <strong>registration and post-market compliance</strong>, not just logistics.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Asia Pro Distribution — Vietnam supplement distributors, channel margins, and the online-first case study</li>
+        <li>The Investor / VIR / ZNews / FPT Retail (FRT) filings — pharmacy-chain store counts (Long Châu ~2,400+, Pharmacity ~1,100, An Khang ~415) and market structure</li>
+        <li>Grand View / Precedence Research — supplement channel split (offline 82% / online 18%)</li>
+        <li>Registration & rules — see our <a href="/guides/register-supplements-vietnam/">supplement registration guide</a> and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal or investment advice. Store counts and margins change — confirm current terms with each chain/distributor before committing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/supplements/">Should you sell supplements into Vietnam?</a> (go/no-go) · <a href="/guides/register-supplements-vietnam/">Register supplements (VFA)</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/tools/channel-selector/">Channel selector</a> · <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-lg); color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .fee-table .num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-2); }
+  section p a, .route-list a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

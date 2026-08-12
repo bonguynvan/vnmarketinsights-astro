@@ -1,0 +1,261 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Register Health Supplements in Vietnam (VFA) — 2026 Guide";
+const description = "A sourced step-by-step guide to registering health supplements in Vietnam: the VFA 'registration of product declaration' under Decree 15/2018 (stricter than ordinary food), GMP and ISO-17025 testing requirements, the dossier, timelines, 5-year validity, labeling, and 2026 tightening.";
+const canonical = "https://vnmarketinsights.com/guides/register-supplements-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Classify your product — supplement, not ordinary food',
+    text: 'Under Decree 15/2018/NĐ-CP, ordinary processed food uses a fast self-declaration (tự công bố), but health supplements (thực phẩm bảo vệ sức khỏe), foods for special medical purposes, and foods for children under 36 months require the stricter registration of product declaration (đăng ký bản công bố) with authority approval before sale. Get the classification right — it decides your whole pathway.',
+  },
+  {
+    name: 'Appoint a Vietnam-based importer and confirm GMP',
+    text: 'A foreign brand needs a Vietnam-registered importer (with IRC/ERC) as the responsible entity. Confirm your manufacturer holds a GMP certificate (or equivalent) — mandatory for health supplements since 1 July 2019. No GMP, no registration.',
+  },
+  {
+    name: 'Test the product and gather scientific evidence',
+    text: 'You need a food-safety test result from an ISO-17025-accredited lab, issued within 12 months, plus scientific evidence of the ingredient effects. For vitamins and minerals, the content must be at least 15% of the Recommended Nutrient Intake (RNI) and not exceed the permitted maximum under Circular 43/2014.',
+  },
+  {
+    name: 'Assemble and legalize the dossier',
+    text: 'The dossier includes the product declaration form, a Certificate of Free Sale or Health Certificate from the origin country, the ISO-17025 test result, scientific evidence, the GMP certificate, the importer\'s licenses, product samples, and the label. Foreign documents (CFS, GMP) generally need notarization, consular legalization, and Vietnamese translation.',
+  },
+  {
+    name: 'Submit to the VFA and answer deficiency requests',
+    text: 'Submit the registration dossier online to the Vietnam Food Administration (VFA) under the Ministry of Health. The authority reviews for completeness and compliance and may request clarifications or additional evidence — respond promptly to avoid restarting the clock.',
+  },
+  {
+    name: 'Receive the Certificate of Product Declaration',
+    text: 'On approval, the MoH issues a Certificate of Registered Product Declaration; only then can you import and sell. Plan realistically for several months end-to-end (document prep, legalization, testing, and review), not the headline processing window. The certificate is valid 5 years.',
+  },
+  {
+    name: 'Label correctly and register advertising',
+    text: 'The Vietnamese label must carry the phrase "Thực phẩm bảo vệ sức khỏe" (health supplement) and the mandatory disclaimer that it is not a medicine and does not replace medicine. Health-supplement advertising content must be registered/approved before publication — false advertising is exactly what regulators cracked down on in 2025.',
+  },
+];
+
+const dossierRows = [
+  { doc: 'Registration of product declaration form', note: 'Per Decree 15/2018/NĐ-CP (Form 02)' },
+  { doc: 'Certificate of Free Sale (CFS) or Health Certificate', note: 'From the origin country; legalized' },
+  { doc: 'ISO-17025 food-safety test result', note: 'Issued within 12 months of submission' },
+  { doc: 'Scientific evidence of ingredient effects', note: 'Vitamins/minerals ≥15% RNI (Circular 43/2014)' },
+  { doc: 'GMP certificate (or equivalent)', note: 'Mandatory for health supplements since 1 Jul 2019' },
+  { doc: 'Vietnamese importer licenses (IRC/ERC)', note: 'The responsible entity' },
+  { doc: 'Product label / samples', note: 'Vietnamese label; "Thực phẩm bảo vệ sức khỏe" + not-a-medicine disclaimer' },
+];
+
+const faqs = [
+  {
+    question: "Do health supplements need registration in Vietnam?",
+    answer: "Yes. Unlike ordinary processed food (which uses a fast self-declaration), health supplements require the stricter 'registration of product declaration' under Decree 15/2018/NĐ-CP, with Vietnam Food Administration (VFA) approval before import or sale. E-commerce platforms and pharmacy chains request the Certificate of Registered Product Declaration and will not list products without it."
+  },
+  {
+    question: "How long does supplement registration take in Vietnam?",
+    answer: "Plan for several months end-to-end. The headline processing window is short once a complete dossier is accepted, but document preparation, CFS/GMP legalization and translation, ISO-17025 lab testing (often 1–2 months), and any deficiency responses dominate the real timeline — commonly 3–6 months total. The certificate is then valid for 5 years."
+  },
+  {
+    question: "Is GMP required to sell supplements in Vietnam?",
+    answer: "Yes — a GMP certificate (or equivalent) for the manufacturing facility has been mandatory for health supplements since 1 July 2019. Without it, the product cannot be registered. This is one reason supplement registration is a bigger project than cosmetic notification."
+  },
+  {
+    question: "What changed for supplements in 2026?",
+    answer: "Two things raise the bar. Decree 46/2026/NĐ-CP (effective 26 January 2026, no grace period) tightened food-safety compliance and added risk-based import inspection. Separately, the 2025 counterfeit and false-advertising scandals triggered stricter enforcement and a review of Decree 15/2018 — expect more inspections and tougher scrutiny of claims and advertising. Some advisers recommend a wait-and-see stance while the rules settle."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Register Health Supplements in Vietnam (VFA)",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Register supplements in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        For health supplements, registration <em>is</em> the product in Vietnam — you can't import, list,
+        or get into a pharmacy chain without the Vietnam Food Administration's Certificate of Registered
+        Product Declaration. And it's a bigger project than cosmetic notification: it needs GMP,
+        ISO-17025 testing, and scientific evidence, and the rules are tightening after the 2025 counterfeit
+        scandals. This guide walks the process under Decree 15/2018/NĐ-CP: the dossier, timelines, 5-year
+        validity, and labeling. Figures as of {updated}; not legal advice — confirm current requirements
+        with a Vietnamese regulatory advisor.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/supplements/">Sell supplements into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Supplement registration at a glance</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>Registration</strong>, not self-declaration (stricter path)</li>
+        <li><strong>GMP</strong> mandatory since Jul 2019</li>
+        <li><strong>ISO-17025</strong> lab test within 12 months</li>
+        <li><strong>~3–6 months</strong> realistic end-to-end</li>
+        <li><strong>5 years</strong> certificate validity</li>
+        <li><strong>Ad pre-approval</strong> required for claims</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>The registration dossier</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Document</th><th>Notes</th></tr></thead>
+          <tbody>
+            {dossierRows.map(r => (
+              <tr>
+                <th scope="row">{r.doc}</th>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Government appraisal fee is around VND 1,500,000 per product for the declaration registration; a facility GMP food-safety certificate is far higher. The larger real costs are legalization, ISO-17025 testing, and regulatory consultancy. Register per SKU.</p>
+    </section>
+
+    <section>
+      <h2>Supplements vs cosmetics vs ordinary food</h2>
+      <p>The compliance pathway depends entirely on classification:</p>
+      <ul class="route-list">
+        <li><strong>Ordinary processed food</strong> — fast <em>self-declaration</em> (tự công bố); you declare and can sell.</li>
+        <li><strong>Health supplements</strong> — <em>registration of product declaration</em> with VFA approval, GMP, and testing (this guide).</li>
+        <li><strong>Cosmetics</strong> — a DAV <em>notification</em>, lighter than supplement registration — see our <a href="/guides/register-cosmetics-vietnam/">cosmetic registration guide</a>.</li>
+      </ul>
+      <p>Beauty-from-within products (e.g. collagen) usually fall under health supplements, not cosmetics — classify carefully.</p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Decree 15/2018/NĐ-CP (product declaration for food/supplements); Circular 43/2014/TT-BYT (RNI limits); Decree 46/2026/NĐ-CP (2026 food-safety tightening)</li>
+        <li>VFA / Ministry of Health registration procedures; Artixio nutraceutical registration guidance</li>
+        <li>NutraIngredients — 2025 counterfeit scandals & regulatory review</li>
+        <li>Related rules on our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal, medical, or tax advice. Supplement regulation is being revised — confirm the current VFA requirements and your product's classification with a qualified Vietnamese regulatory advisor before filing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/supplements/">Should you sell supplements into Vietnam?</a> (go/no-go) · <a href="/guides/distribute-supplements-vietnam-pharmacy-ecommerce/">Distribute supplements: pharmacy + e-commerce</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-lg); color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-2); }
+  section p a, .route-list a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
