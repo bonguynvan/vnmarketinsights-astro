@@ -1,0 +1,248 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Distribute Imported Food & Beverage in Vietnam (2026)";
+const description = "A sourced distribution playbook for imported food & beverage brands in Vietnam: the modern-trade map (WinMart, AEON, Co.opmart, Bách Hóa Xanh), specialty importers (An Nam, CJ, FoodMap), the AEON-first-then-WinMart sequence, channel margins, and listing fees.";
+const canonical = "https://vnmarketinsights.com/guides/distribute-food-beverage-vietnam/";
+const updated = "2026-08-12";
+
+const channelRows = [
+  { ch: 'WinMart / WinMart+ (Masan)', scale: '~4,600+ outlets', role: 'Largest modern-trade network; widest reach. Needs a qualified importer; listing fee VND 30–100M/SKU; <60% quarterly sell-through risks delisting' },
+  { ch: 'AEON Vietnam (Japan)', scale: '~7 malls/hypermarkets', role: 'Highest consumer trust for imported goods — the premium beachhead. Best first listing for products above ~VND 150k/unit' },
+  { ch: 'Bách Hóa Xanh (MWG)', scale: '~2,000 stores', role: 'Mass grocery; central Vietnam & highlands focus. Local/value-led, tough for premium imports' },
+  { ch: 'Co.opmart (Saigon Co.op)', scale: '~120+ stores', role: 'Southern, older, price-sensitive shopper; premium Western imports perform inconsistently' },
+  { ch: 'Lotte Mart (Korea)', scale: '~15 hypermarkets', role: 'Korean-brand-aware consumers; strong for K-food and Korea-adjacent products' },
+  { ch: 'Convenience (Circle K, GS25, 7-Eleven…)', scale: '~9,600+ total mini/CVS', role: 'Packaged and ready-to-eat; impulse and single-serve formats' },
+];
+
+const importerRows = [
+  { imp: 'An Nam Group (Annam Gourmet)', fit: 'Premium EU/AU/US food, specialty cheese, wine; HCMC expat retail + premium HORECA (restaurants, hotels)' },
+  { imp: 'CJ Vietnam (CJ Group)', fit: 'Korean/Japanese/Asian food; strong modern-trade buyer relationships; own cold chain' },
+  { imp: 'FoodMap', fit: 'Clean-label, organic, health-positioned food; e-commerce + premium retail/health stores' },
+];
+
+const faqs = [
+  {
+    question: "How should an imported food brand enter Vietnam retail?",
+    answer: "For premium products (above ~VND 150,000/unit), start with AEON Vietnam — its consumers trust imported goods and pay a premium without heavy markdowns — then use 3–6 months of AEON sell-through data as validation for a WinMart listing conversation. For mass-accessible products (below ~VND 100,000/unit), WinMart's ~4,600-outlet reach is the primary target, but you need Vietnamese-language education and TikTok content in place first to generate the sell-through WinMart demands. For premium HORECA (restaurants, hotels), go through a specialty importer like An Nam Group."
+  },
+  {
+    question: "How much margin does the food distribution channel take in Vietnam?",
+    answer: "Distributor margins vary by channel: mass ambient food through modern trade 25–35%, premium food through specialty retail 35–45%, and HORECA 20–30% (tighter margin, higher volume per account). These sit on top of the retailer's own gross margin (typically 25–40%). Your Vietnam pricing has to accommodate both layers plus landed cost, which is why cheap commodity imports rarely work — model it with our landed-cost calculator."
+  },
+  {
+    question: "Do I need a distributor, or can I sell to supermarkets directly?",
+    answer: "In practice you need a qualified Vietnamese importer/distributor. Chains like WinMart and AEON require a local importer partner before commercial listing discussions, and a good distributor also handles registration, Vietnamese labeling, customs, cold chain, and — critically — field sales and in-store merchandising. A listing without field-sales support fails: one US organic snack brand went from 45 WinMart stores to 12 to discontinued in 12 months because the importer had no merchandising capability."
+  },
+  {
+    question: "How do I choose the right food distributor in Vietnam?",
+    answer: "Match the distributor to your product and channel. Premium European/HORECA → An Nam Group; Korean/Asian food → CJ Vietnam; organic/health → FoodMap. Verify they have active buyer relationships at your target retailer (ask them to name the buyer), confirm cold-chain capability if needed, and confirm they provide field sales and merchandising — not just a listing. A supermarket relationship is not a pharmacy relationship, and vice-versa."
+  }
+];
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={faqSchema}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Distribute F&amp;B in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        For imported food and beverage, Vietnam is a channel problem, not a demand problem. Modern trade
+        is only ~30% of retail (traditional wet markets and family shops are still ~59%), and imported
+        products only win in <strong>premium modern trade, specialty retail, and HORECA</strong>. The
+        smart move is a sequence: land in AEON (the premium beachhead), prove sell-through, then scale
+        into WinMart's ~4,600-outlet reach. This guide maps the channels, the specialist importers, and
+        the economics. Figures as of {updated}.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/food-and-beverage/">Sell F&amp;B into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Vietnam F&amp;B distribution at a glance (2025–26)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>US$11.2B</strong> food import sector (2025)</li>
+        <li><strong>US$14B</strong> modern-trade grocery, +19% YoY</li>
+        <li><strong>~30% / ~59%</strong> modern vs traditional trade share</li>
+        <li><strong>~4,600+</strong> WinMart outlets (largest)</li>
+        <li><strong>25–45%</strong> distributor margin by channel</li>
+        <li><strong>VND 30–100M</strong> WinMart listing fee per SKU</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>The retail channel map</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Retailer</th><th>Scale</th><th>Role for imported F&amp;B</th></tr></thead>
+          <tbody>
+            {channelRows.map(r => (
+              <tr>
+                <th scope="row">{r.ch}</th>
+                <td class="num">{r.scale}</td>
+                <td>{r.role}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Getting listed at the wrong chain for your price point generates poor sell-through, which damages the distributor relationship faster than no listing at all.</p>
+    </section>
+
+    <section>
+      <h2>Specialist importers by product fit</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Importer</th><th>Best fit</th></tr></thead>
+          <tbody>
+            {importerRows.map(r => (
+              <tr>
+                <th scope="row">{r.imp}</th>
+                <td>{r.fit}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Chains like Co.opmart, WinMart, and AEON also have their own import buying teams — but you approach them through a qualified Vietnamese importer, not directly.</p>
+    </section>
+
+    <section>
+      <h2>The winning sequence: AEON first, then WinMart</h2>
+      <ol class="step-list-simple">
+        <li><strong>Land in AEON</strong> (for premium products) through an importer with AEON buyer relationships — the premium consumer and import trust generate sell-through without markdowns.</li>
+        <li><strong>Build online pull in parallel</strong> — a Shopee official store plus Vietnamese food TikTok creators telling your brand/ingredient story.</li>
+        <li><strong>Capture 3–6 months of AEON sell-through data.</strong></li>
+        <li><strong>Present the data to WinMart</strong> as market validation and negotiate a national listing.</li>
+        <li><strong>Support the listing with field sales</strong> — store visits, merchandising, promotional activation. Without it, sell-through drops and you get delisted.</li>
+      </ol>
+      <p>
+        A documented example: an Australian breakfast brand listed in 3 AEON HCMC stores, added a Shopee
+        official store and 6 TikTok creator partnerships, presented month-3 AEON sell-through of 68% to
+        WinMart, and confirmed a 50-store WinMart listing by month 10 — reaching ~VND 580M (~US$23k)
+        monthly Vietnam revenue by month 12. For premium HORECA, a French AOC cheese brand ($25–60/piece)
+        went through An Nam Group into 8 Annam Gourmet stores, 24 HCMC restaurants, and 6 hotels in year one.
+      </p>
+    </section>
+
+    <section>
+      <h2>The economics</h2>
+      <p>
+        Budget for two stacked margins plus landed cost. Distributor margins run <strong>25–35%</strong>
+        (mass modern trade), <strong>35–45%</strong> (premium specialty), or <strong>20–30%</strong>
+        (HORECA), on top of the retailer's own <strong>25–40%</strong> gross margin. WinMart charges a
+        listing fee of <strong>VND 30–100M per SKU</strong> (listing + first-year co-marketing) and
+        reviews sell-through quarterly — brands below ~60% face delisting or markdown pressure. Add import
+        duty and 10% VAT (the de-minimis exemption was removed in Feb 2025), and it's clear why only
+        premium/specialty imports clear these layers. Model your landed cost with the
+        <a href="/tools/landed-cost-calculator/">landed-cost calculator</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Asia Pro Distribution — top food distributors, mega-supermarket insight, channel margins, listing fees, and the AEON-first case study</li>
+        <li>VCCI / The Investor / Q&amp;Me — retail-chain store counts (WinMart ~4,600+, Bách Hóa Xanh ~2,000, AEON, convenience ~9,600+) and modern-trade share</li>
+        <li>Food import sector value and modern-trade grocery growth (2025)</li>
+        <li>Compliance & landed cost — our <a href="/guides/import-food-into-vietnam/">food import guide</a>, <a href="/tools/landed-cost-calculator/">landed-cost calculator</a>, and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal or investment advice. Store counts, margins, and listing fees change — confirm current terms with each retailer/distributor before committing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/food-and-beverage/">Should you sell F&amp;B into Vietnam?</a> (go/no-go) · <a href="/guides/import-food-into-vietnam/">Import food into Vietnam (compliance)</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list-simple { line-height: 1.7; }
+  .step-list-simple li { margin-bottom: var(--space-2); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; white-space: nowrap; }
+  .fee-table .num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  section p a, .step-list-simple a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

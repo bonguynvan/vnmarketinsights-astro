@@ -1,0 +1,270 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Import Food into Vietnam (2026) — Food Safety & Decree 46/2026";
+const description = "A sourced guide to importing food into Vietnam in 2026: the self-declaration vs registration split under Decree 15/2018, the new Decree 46/2026 risk-based border inspection, the food-safety certificate and Vietnamese labeling, timelines, and what changed.";
+const canonical = "https://vnmarketinsights.com/guides/import-food-into-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Classify your product — it decides the whole pathway',
+    text: 'Under Decree 15/2018/NĐ-CP, ordinary processed food uses a fast self-declaration (you declare, keep the dossier on file, and can sell). Special foods — health supplements, foods for special medical purposes, and foods for children under 36 months — require the stricter registration of product declaration with authority approval. Health supplements have their own path (see our supplement registration guide).',
+  },
+  {
+    name: 'Check your Decree 46/2026 inspection tier',
+    text: 'Decree 46/2026/NĐ-CP, effective 26 January 2026 with no grace period, introduced a risk-based border inspection system. Authorities score each shipment by product category, country of origin, and the importer\'s compliance history. High-risk products (fresh produce, certain processed foods) and shipments from new importers can face physical inspection, sampling, and lab testing — build this into your lead time.',
+  },
+  {
+    name: 'Appoint a Vietnam-based importer',
+    text: 'A foreign brand needs a Vietnam-registered importer as the responsible entity for the declaration, customs clearance, and post-market compliance. Many premium brands use a specialist food importer/distributor who also holds the retail relationships (see our distribution guide).',
+  },
+  {
+    name: 'Prepare the food-safety documentation',
+    text: 'For low-risk categories, prepare the self-declaration dossier. Where required, obtain a food-safety certificate — a Certificate of Conformity issued after product testing by a Ministry of Health-accredited Vietnamese laboratory. Retain the declaration and test records for post-market inspection.',
+  },
+  {
+    name: 'Produce a compliant Vietnamese label',
+    text: 'Every imported food needs a Vietnamese label before sale, with mandatory elements: product name, ingredient list, nutritional/quantitative information, net weight, country of origin, importer name and address, production and expiry dates, and storage conditions. Supplementary labels are allowed but must not obscure required information. Allow 4–8 weeks for label production and regulatory prep before approaching any buyer.',
+  },
+  {
+    name: 'Clear customs and keep post-market records',
+    text: 'Present the declaration/certificate, import documents, and label at customs; the shipment goes through the Decree 46/2026 inspection tier assigned to it. After clearance, retain the dossier, labels, and safety records — food remains subject to post-market surveillance, advertising rules, and recall obligations.',
+  },
+];
+
+const pathwayRows = [
+  { type: 'Ordinary processed food', path: 'Self-declaration (tự công bố)', note: 'Fast; declare, keep dossier, sell. Most shelf-stable packaged food' },
+  { type: 'Special / medical / infant (<36 mo) food', path: 'Registration of product declaration', note: 'Authority approval required before sale' },
+  { type: 'Health supplements', path: 'Registration + GMP + testing', note: 'Strictest — see our supplement registration guide' },
+  { type: 'Fresh produce / high-risk', path: 'Self/registration + physical inspection', note: 'Higher Decree 46/2026 inspection tier; often testing at the border' },
+];
+
+const faqs = [
+  {
+    question: "What changed for food imports into Vietnam in 2026?",
+    answer: "Decree 46/2026/NĐ-CP took effect on 26 January 2026 with no transitional grace period and made food-safety compliance a market-entry condition. It introduced a risk-based inspection system at the border: shipments are scored by product category, country of origin, and the importer's compliance history, and high-risk products or new importers can face physical inspection, sampling, and lab testing. The change caused short-term border congestion for agricultural imports in early 2026 while guidance settled."
+  },
+  {
+    question: "Do I need to register food before importing it into Vietnam?",
+    answer: "It depends on the product. Ordinary processed food uses a fast self-declaration under Decree 15/2018 — you declare, keep the dossier, and can sell. Special foods (foods for special medical purposes, foods for children under 36 months) and health supplements require the stricter registration of product declaration with authority approval. All imported food also needs a Vietnamese label and food-safety documentation before it reaches a shelf."
+  },
+  {
+    question: "What food-safety certificate do I need to sell in a Vietnamese supermarket?",
+    answer: "Supermarket chains require a Vietnamese-language label, customs import documentation, and a food-safety certificate — typically a Certificate of Conformity issued after testing by a Ministry of Health-accredited Vietnamese laboratory, or a self-declaration for certain low-risk categories. Health supplements additionally need MOH/VFA notification. Allow 4–8 weeks for label production and regulatory documentation before approaching a buyer."
+  },
+  {
+    question: "How is importing food different from importing cosmetics or supplements?",
+    answer: "The classification and authority differ. Cosmetics use a DAV notification; health supplements need VFA registration with GMP and testing; ordinary food uses a fast VFA self-declaration, while special foods need registration. Food also faces the Decree 46/2026 risk-based border inspection, and perishables add cold-chain and shelf-life constraints that make cross-border food harder than shelf-stable categories."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Import Food into Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Import food into Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Food-safety compliance became a hard market-entry gate in Vietnam in 2026: Decree 46/2026 made
+        border clearance risk-based and offered no grace period. Before your product reaches a supermarket
+        shelf you need the right declaration pathway, a food-safety certificate, and a Vietnamese label.
+        This guide walks the process — the self-declaration vs registration split under Decree 15/2018,
+        the new inspection system, documentation, and timelines. Figures as of {updated}; not legal advice
+        — confirm current requirements and your category's inspection tier with a Vietnamese advisor.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/food-and-beverage/">Sell F&amp;B into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Food import compliance at a glance (2026)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>Decree 46/2026</strong> — risk-based border inspection, no grace period</li>
+        <li><strong>Self-declaration</strong> for ordinary processed food (fast)</li>
+        <li><strong>Registration</strong> for special / infant foods</li>
+        <li><strong>4–8 weeks</strong> for label + regulatory prep</li>
+        <li><strong>MOH-lab</strong> Certificate of Conformity (or self-declaration)</li>
+        <li><strong>US$11.2B</strong> Vietnam food import sector (2025)</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>Which pathway applies to your product</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Product type</th><th>Pathway</th><th>Notes</th></tr></thead>
+          <tbody>
+            {pathwayRows.map(r => (
+              <tr>
+                <th scope="row">{r.type}</th>
+                <td>{r.path}</td>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Classification drives everything. Misclassifying a special food as ordinary — or vice-versa — is a common cause of delays and post-market problems.</p>
+    </section>
+
+    <section>
+      <h2>Decree 46/2026: what the risk-based system means</h2>
+      <p>
+        The old, uniform inspection approach is gone. Under Decree 46/2026 each shipment is scored on
+        three factors — <strong>product category, country of origin, and your compliance history as an
+        importer</strong> — and routed to an inspection tier. A clean-history importer bringing
+        shelf-stable low-risk goods may clear quickly; a new importer bringing high-risk products (fresh
+        produce, certain processed foods) can face physical inspection, sampling, and lab testing. The
+        practical takeaways: build a clean compliance record, avoid high-risk perishables for early
+        shipments, and never wait until cargo arrival to prepare your dossier and label.
+      </p>
+    </section>
+
+    <section>
+      <h2>Vietnamese labeling requirements</h2>
+      <p>Every imported food needs a Vietnamese label before sale, with these mandatory elements:</p>
+      <ul class="compliance-list">
+        <li>Product name and ingredient list</li>
+        <li>Nutritional / quantitative information</li>
+        <li>Net weight or volume</li>
+        <li>Country of origin and manufacturer</li>
+        <li>Vietnam importer name and address</li>
+        <li>Production and expiry dates; storage conditions</li>
+      </ul>
+      <p>Supplementary Vietnamese labels are allowed but must not obscure mandatory original information.</p>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Decree 46/2026/NĐ-CP food-safety regulation (effective 26 Jan 2026) — InCorp Vietnam / Vietnam Briefing</li>
+        <li>Decree 15/2018/NĐ-CP (self-declaration vs registration of product declaration)</li>
+        <li>Supermarket documentation requirements (Certificate of Conformity, MOH-accredited lab testing) — Asia Pro Distribution</li>
+        <li>Import duty & VAT (de-minimis removed Feb 2025) — our <a href="/data/vietnam-regulation-tracker/">regulation tracker</a> and <a href="/tools/landed-cost-calculator/">landed-cost calculator</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal or tax advice. Food import rules changed in 2026 — confirm Decree 46/2026 requirements and your category's inspection tier with a qualified Vietnamese advisor before shipping.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/food-and-beverage/">Should you sell F&amp;B into Vietnam?</a> (go/no-go) · <a href="/guides/distribute-food-beverage-vietnam/">Distribute imported F&amp;B in Vietnam</a></li>
+        <li><a href="/guides/register-supplements-vietnam/">Register supplements (VFA)</a> · <a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .compliance-list { line-height: 1.65; }
+  .compliance-list li { margin-bottom: var(--space-2); }
+  section p a, .compliance-list a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
