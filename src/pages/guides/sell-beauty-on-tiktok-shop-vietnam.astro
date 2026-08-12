@@ -1,0 +1,248 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Sell Beauty on TikTok Shop Vietnam (2026) — Playbook & Economics";
+const description = "A sourced playbook for selling beauty and cosmetics on TikTok Shop Vietnam in 2026: why it's where beauty is being won (revenue +93% in 2025), the highest-in-market commission (up to 19.8%), the livestream + creator-affiliate engine, official-store trust, and unit economics.";
+const canonical = "https://vnmarketinsights.com/guides/sell-beauty-on-tiktok-shop-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Get compliant first — DAV notification + a Vietnam shop',
+    text: 'Beauty and supplements are the categories TikTok Shop verifies most aggressively. Register every SKU with the DAV before listing (see our cosmetic-registration guide) and set up a Vietnamese shop — TikTok Shop needs a Vietnamese business registration, so foreign brands operate via an entity, a local partner, or an agency.',
+  },
+  {
+    name: 'Open an official/brand store, not just a seller listing',
+    text: 'In Vietnam, 64% of beauty revenue flows through official brand stores because buyers, burned by counterfeits, pay for authenticity assurance. An official store and the Mall badge convert far better than a plain third-party listing for cosmetics.',
+  },
+  {
+    name: 'Build video-first, ingredient-transparent listings',
+    text: 'TikTok Shop is discovery-driven — products surface in the For You feed and livestreams before buyers search. Lead with demonstration video, before/after, and clear INCI/ingredient transparency (84% of Vietnamese buyers prioritize transparent ingredients, 82% prefer proven lasting efficacy over instant results).',
+  },
+  {
+    name: 'Wire up the creator-affiliate engine',
+    text: 'Creator-led livestreams and affiliate content drive the majority of beauty sales on TikTok Shop. Set an affiliate commission (often 10–30%) to recruit KOCs/KOLs, and seed RedNote/Douyin-style "what I use and why" reviews. This is the growth engine — budget it as a core cost, not a bonus.',
+  },
+  {
+    name: 'Run a livestream cadence',
+    text: 'Regular brand livestreams plus creator livestreams during mega-campaigns (Tết, 9.9, 11.11, 12.12) concentrate enormous volume. Plan a repeatable stream schedule, hero SKUs, and campaign stock rather than one-off broadcasts.',
+  },
+  {
+    name: 'Price for the highest commission in the market',
+    text: 'Beauty carries TikTok Shop\'s top commission — up to 19.8% for Mall sellers — plus the ~6% transaction fee, creator affiliate (10–30%), and ads. Build a premium price and markup that survives all of it; a mass-priced beauty SKU rarely clears margin here.',
+  },
+];
+
+const faqs = [
+  {
+    question: "Why sell beauty on TikTok Shop in Vietnam rather than Shopee?",
+    answer: "Because that's where beauty demand is moving: TikTok Shop's beauty revenue grew about 93% in 2025 versus around 6% for Shopee, driven by livestream and short-video that demonstrate skincare and makeup better than search. The trade-off is cost — beauty is TikTok Shop's highest-commission category (up to 19.8%) and creator-affiliate spend stacks on top. Most serious beauty brands run both platforms: Shopee for reach, TikTok Shop for content-led discovery."
+  },
+  {
+    question: "How much commission does TikTok Shop charge for beauty in Vietnam?",
+    answer: "Beauty, health and personal care carry the highest platform commission — up to about 19.8% for Mall sellers as of the 3 August 2026 fee update — on top of the ~6% transaction fee. Add the creator affiliate commission you set (commonly 10–30%) and ad spend, and total costs on a promoted beauty order can pass 40% of revenue before COGS. See our TikTok Shop fee guide for the full stack."
+  },
+  {
+    question: "Do I need to register my cosmetics before selling on TikTok Shop?",
+    answer: "Yes — a DAV cosmetic notification receipt is required before you can import or list, and TikTok Shop checks for it during verification, delisting products that lack it. Beauty is the most-scrutinized category on the platform. See our step-by-step guide to registering cosmetics in Vietnam."
+  },
+  {
+    question: "What beauty products work best on TikTok Shop Vietnam?",
+    answer: "Video-demonstrable, ingredient-led products: face care (44% of online beauty revenue), makeup (the fastest-growing sub-category, +56% in 2025), and men's grooming (male skincare +47% YoY in H1 2025). Science-backed and clean/vegan positioning resonates with the ingredient-conscious audience. Lead with the 'why', backed by KOC proof."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Sell Beauty on TikTok Shop Vietnam",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Sell beauty on TikTok Shop Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        TikTok Shop is where beauty is being won in Vietnam: its beauty revenue grew about
+        <strong>93% in 2025</strong> while Shopee's grew ~6%, because livestream and short-video sell
+        skincare and makeup better than search ever could. The catch is that beauty is the platform's
+        <strong>highest-commission category (up to 19.8%)</strong> and the creator-affiliate engine is a
+        real cost. This playbook covers how to actually win the channel — compliance, official stores,
+        content, livestream, and the economics. Figures as of {updated}.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/beauty/">Sell beauty into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Beauty on TikTok Shop at a glance (2025–26)</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>+93%</strong> TikTok beauty revenue growth (2025)</li>
+        <li><strong>up to 19.8%</strong> commission (highest category)</li>
+        <li><strong>64%</strong> of beauty revenue via official stores</li>
+        <li><strong>10–30%</strong> typical creator affiliate</li>
+        <li><strong>+56%</strong> makeup growth; face care 44% of online beauty</li>
+        <li><strong>84%</strong> of buyers prioritize ingredient transparency</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>The economics: highest commission in the market</h2>
+      <p>
+        Beauty is the most expensive category to sell on TikTok Shop. Here's a 300,000₫ serum, Mall
+        seller, before ads:
+      </p>
+      <ul class="worked">
+        <li>Commission (19.8%): <strong>−59,400₫</strong></li>
+        <li>Transaction fee (6%): <strong>−18,000₫</strong></li>
+        <li>Decree 117 tax withheld (1.5%): <strong>−4,500₫</strong></li>
+        <li>Creator affiliate (20%): <strong>−60,000₫</strong></li>
+        <li>Left before COGS, ads &amp; shipping: <strong>≈158,100₫ (~53%)</strong></li>
+      </ul>
+      <p>
+        That's why beauty on TikTok Shop only works at a premium price with real markup. Model your own
+        numbers — and compare against Shopee and Lazada — with the
+        <a href="/tools/channel-selector/">channel selector</a>. For the full fee mechanics, see the
+        <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop seller guide</a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>The content engine is the business</h2>
+      <p>
+        On TikTok Shop, content isn't marketing around the product — it <em>is</em> the sales channel.
+        Three things compound:
+      </p>
+      <ul class="route-list">
+        <li><strong>Creator-led livestreams</strong> during campaigns drive the majority of beauty volume; build a KOC/KOL roster and an affiliate rate that motivates them.</li>
+        <li><strong>Ingredient-transparent, proof-led content</strong> — 84% of buyers prioritize transparent ingredients and 82% want proven lasting efficacy, so lead with the "why", INCI, and before/after evidence.</li>
+        <li><strong>Official-store trust</strong> — 64% of beauty revenue goes through official stores after counterfeit scandals; the badge and authentic reviews close the sale.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Metric.vn via global-angle — beauty = 29.5% of four-platform GMV; TikTok beauty +93% vs Shopee +6%; face care 44%, makeup +56% (2025)</li>
+        <li>Q&amp;Me — 84% ingredient transparency, 82% efficacy preference; Vietnam Briefing — beauty market entry</li>
+        <li>Lao Động / TikTok Shop Academy — 3 Aug 2026 commission update (up to 19.8%); our <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">TikTok Shop fee guide</a></li>
+        <li>Cosmetic compliance — see our <a href="/guides/register-cosmetics-vietnam/">DAV registration guide</a> and <a href="/data/vietnam-regulation-tracker/">regulation tracker</a></li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal, tax, or investment advice. Platform fees change frequently — confirm current terms in TikTok Shop Seller Center.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/beauty/">Should you sell beauty into Vietnam?</a> (go/no-go) · <a href="/guides/register-cosmetics-vietnam/">Register cosmetics (DAV)</a></li>
+        <li><a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Full TikTok Shop guide</a> · <a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/tools/channel-selector/">Channel selector</a></li>
+        <li><a href="/sell-into-vietnam/">Sell into Vietnam playbook</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-lg); color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .worked { margin: var(--space-3) 0; line-height: 1.7; }
+  .worked strong { font-variant-numeric: tabular-nums; }
+  .route-list { line-height: 1.65; }
+  .route-list li { margin-bottom: var(--space-3); }
+  section p a, .route-list a, .source-list a { color: var(--color-accent); }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>

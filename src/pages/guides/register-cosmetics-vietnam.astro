@@ -1,0 +1,278 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+
+const title = "How to Register Cosmetics in Vietnam (DAV Notification) — 2026 Guide";
+const description = "A sourced step-by-step guide to cosmetic product notification in Vietnam: the DAV process under Circular 06/2011 (amended by 34/2025), the dossier (CFS, LOA, INCI), the CPTPP CFS exemption, timelines, 5-year validity, labeling, and PIF requirements.";
+const canonical = "https://vnmarketinsights.com/guides/register-cosmetics-vietnam/";
+const updated = "2026-08-12";
+
+const steps = [
+  {
+    name: 'Appoint a Vietnam-based importer / responsible entity',
+    text: 'A foreign brand cannot notify directly — you must designate a Vietnam-registered company (or household business) as the entity responsible for placing the product on the market. It submits the notification, holds the Product Information File (PIF), and handles inspections and recalls. Every document must carry the same importer details.',
+  },
+  {
+    name: 'Confirm cosmetic classification and ASEAN ingredient compliance',
+    text: 'Verify the product is a cosmetic under the ASEAN Cosmetic Directive (not a drug, supplement, or medical device), that no prohibited substances are used, that restricted ingredients/preservatives/UV filters/colourants are within ASEAN annex limits, and that ingredients are named in INCI format. Claims must stay within cosmetic scope — over-claims (e.g. treating a disease) are a top rejection cause.',
+  },
+  {
+    name: 'Obtain and legalize the CFS and LOA',
+    text: 'You need a Certificate of Free Sale (CFS) from the origin country and a Letter of Authorization (LOA) from the manufacturer/brand owner to the Vietnamese importer. Both typically require notarization, consular legalization, and Vietnamese translation — this is where most delays happen. Names, addresses, and signatory details must match exactly across CFS, LOA, and the notification.',
+  },
+  {
+    name: 'Check the CPTPP exemption',
+    text: 'Under Circular 29/2020/TT-BYT, cosmetics manufactured in CPTPP countries (Australia, Canada, Japan, Mexico, New Zealand, Singapore, Vietnam, Peru, Malaysia, Chile — and the UK) are exempt from the CFS requirement, which removes the slowest document. The LOA is still mandatory and must be fully compliant.',
+  },
+  {
+    name: 'Prepare the dossier, Vietnamese label, and PIF',
+    text: 'Assemble the Cosmetic Notification Form (Appendix 01-MP), CFS (if required), LOA, importer business registration, full INCI ingredient list, and manufacturer details. Prepare the Vietnamese label and a complete Product Information File (PIF) with formula, safety assessment, specifications, and claim evidence — the PIF must exist before marketing.',
+  },
+  {
+    name: 'Submit online and answer deficiency requests',
+    text: 'Submit through the DAV public service platform, the Vietnam National Single Window, or the National Public Service Portal (one electronic copy online). If the dossier is non-compliant, DAV notifies you within 5 working days; you generally have up to 3 months to correct and resubmit.',
+  },
+  {
+    name: 'Receive the notification receipt number (valid 5 years)',
+    text: 'For a valid dossier, DAV issues the Cosmetic Product Notification Receipt Number within about 3–5 working days. Only then may you import and sell the product. The number is valid 5 years; maintain the PIF for inspections and re-notify when it expires or the notified information changes.',
+  },
+];
+
+const dossierRows = [
+  { doc: 'Cosmetic Notification Form (Appendix 01-MP)', note: 'Prepared per Circular 06/2011 as amended by 34/2025; e-signature accepted online' },
+  { doc: 'Certificate of Free Sale (CFS)', note: 'From origin country; legalized. Exempt for CPTPP-origin products' },
+  { doc: 'Letter of Authorization (LOA)', note: 'Manufacturer/brand → Vietnamese importer; notarized + legalized; always required' },
+  { doc: 'Importer business registration', note: 'The Vietnam-based responsible entity' },
+  { doc: 'Full ingredient list (INCI)', note: 'Descending order of content; ASEAN-compliant naming' },
+  { doc: 'Vietnamese label / artwork', note: 'Mandatory elements; consistent with the dossier' },
+  { doc: 'Product Information File (PIF)', note: 'Formula, safety assessment, specs, claim evidence — held by importer, not submitted but inspectable' },
+];
+
+const faqs = [
+  {
+    question: "Do I need to register cosmetics before selling them in Vietnam?",
+    answer: "Yes. Cosmetics can only be legally imported and sold after the Drug Administration of Vietnam (DAV) issues a Cosmetic Product Notification Receipt Number. It's a notification system (not an efficacy registration): the importer submits a compliant dossier and DAV checks its legal validity and consistency. E-commerce platforms like Shopee and TikTok Shop request the notification receipt during verification and delist products that lack it."
+  },
+  {
+    question: "How long does cosmetic notification in Vietnam take?",
+    answer: "DAV issues the receipt number within about 3–5 working days for a valid dossier. But end-to-end, most companies should plan for roughly 1.5–3 months, because CFS/LOA legalization, notarized translations, dossier preparation, and any deficiency corrections take the bulk of the time. Starting this early — before your stock ships — is the single biggest lever on launch speed."
+  },
+  {
+    question: "Do I need a Certificate of Free Sale (CFS)?",
+    answer: "Usually yes — but not for CPTPP-origin products. Under Circular 29/2020/TT-BYT, cosmetics manufactured in CPTPP member countries (Australia, Canada, Japan, Mexico, New Zealand, Singapore, Vietnam, Peru, Malaysia, Chile, and the UK) are exempt from the CFS requirement. The Letter of Authorization is still mandatory and must be fully compliant regardless of origin."
+  },
+  {
+    question: "How long is the cosmetic notification valid?",
+    answer: "The notification receipt number is valid for 5 years. You must re-notify when it expires, or when the notified information (formula, name, manufacturer, responsible entity, etc.) changes. Throughout the product's market life you must keep the Product Information File (PIF) available for DAV post-market inspection."
+  },
+  {
+    question: "Can a foreign company register its own cosmetics in Vietnam?",
+    answer: "No. You must appoint a Vietnam-based importer or responsible entity (a registered company or household business) to submit the notification and hold the PIF. Many foreign brands use a local distributor or a neutral license-holder for this role so they can still work with multiple sales channels."
+  }
+];
+
+const howToSchema = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Register Cosmetics in Vietnam (DAV Notification)",
+  "description": description,
+  "step": steps.map((s, i) => ({ "@type": "HowToStep", "position": i + 1, "name": s.name, "text": s.text }))
+};
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqs.map(f => ({ "@type": "Question", "name": f.question, "acceptedAnswer": { "@type": "Answer", "text": f.answer } }))
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Guide"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={[howToSchema, faqSchema]}
+  mainClass="container"
+>
+  <article class="guide-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/guides/">Guides</a>
+      <span aria-hidden="true">/</span>
+      <span>Register cosmetics in Vietnam</span>
+    </nav>
+
+    <header class="guide-header">
+      <h1>{title}</h1>
+      <p class="guide-lead">
+        Cosmetic product notification is the number-one launch blocker for foreign beauty brands in
+        Vietnam — you can't import or list a product until the Drug Administration of Vietnam (DAV) issues
+        its notification receipt number. This guide walks the process under the ASEAN Cosmetic Directive
+        and Circular 06/2011/TT-BYT (as amended by Circular 34/2025, effective 18 August 2025): the
+        dossier, the CFS/LOA legalization that causes most delays, the CPTPP exemption, timelines, and the
+        5-year validity. Figures as of {updated}; not legal advice — confirm current requirements with a
+        Vietnamese regulatory advisor.
+      </p>
+      <p class="guide-meta">Last updated {updated} · Part of the <a href="/sell-into-vietnam/beauty/">Sell beauty into Vietnam</a> cluster · Sources at the <a href="#sources">bottom</a></p>
+    </header>
+
+    <aside class="keyfacts" aria-label="Key facts">
+      <h2 class="keyfacts__title">Cosmetic notification at a glance</h2>
+      <ul class="keyfacts__grid">
+        <li><strong>Mandatory</strong> before import or sale</li>
+        <li><strong>3–5 days</strong> DAV review of a valid dossier</li>
+        <li><strong>~1.5–3 months</strong> realistic end-to-end</li>
+        <li><strong>5 years</strong> validity of the receipt number</li>
+        <li><strong>CFS + LOA</strong> legalized (CFS exempt for CPTPP)</li>
+        <li><strong>VN importer</strong> required — you can't file directly</li>
+      </ul>
+    </aside>
+
+    <section>
+      <h2>Step-by-step</h2>
+      <ol class="step-list">
+        {steps.map((step, i) => (
+          <li class="step-item">
+            <div class="step-num">{i + 1}</div>
+            <div class="step-body">
+              <h3>{step.name}</h3>
+              <p>{step.text}</p>
+            </div>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    <section>
+      <h2>The notification dossier</h2>
+      <div class="fee-table-wrap">
+        <table class="fee-table">
+          <thead><tr><th>Document</th><th>Notes</th></tr></thead>
+          <tbody>
+            {dossierRows.map(r => (
+              <tr>
+                <th scope="row">{r.doc}</th>
+                <td>{r.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-note">Cost is mostly in legalization, translation, and consultancy — practitioners quote roughly US$500–2,000 per SKU all-in (plus any lab work), on top of the government appraisal fee. Budget per formula/shade, since each SKU is notified separately.</p>
+    </section>
+
+    <section>
+      <h2>Where dossiers get rejected</h2>
+      <ul class="route-list">
+        <li><strong>Missing or wrong legalization</strong> of the CFS/LOA — the most common delay.</li>
+        <li><strong>Name/address mismatches</strong> between CFS, LOA, and the notification (reversed name order, inconsistent spelling of the signatory).</li>
+        <li><strong>Unsupported claims</strong> — cosmetic claims that stray into drug/therapeutic territory.</li>
+        <li><strong>Label inconsistencies</strong> — Vietnamese label not matching the notified formula or details.</li>
+        <li><strong>Incorrect INCI declarations</strong> or prohibited/over-limit ingredients under the ASEAN annexes.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Vietnamese labeling requirements</h2>
+      <p>Imported cosmetics need a Vietnamese label before sale. Supplementary labels are allowed but must not hide mandatory original information. Mandatory elements include:</p>
+      <ul class="compliance-list">
+        <li>Product name and function</li>
+        <li>Full ingredient list (INCI, descending order of concentration)</li>
+        <li>Country of origin and manufacturer details</li>
+        <li>Vietnam importer/responsible-entity details</li>
+        <li>Net content, batch number, manufacturing/expiry date</li>
+        <li>Instructions for use and warnings (where applicable)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Frequently Asked Questions</h2>
+      <div class="faq-list">
+        {faqs.map((faq) => (
+          <details class="faq-item">
+            <summary class="faq-question">{faq.question}</summary>
+            <div class="faq-answer-container">
+              <p class="faq-answer">{faq.answer}</p>
+            </div>
+          </details>
+        ))}
+      </div>
+    </section>
+
+    <section id="sources">
+      <h2>Sources</h2>
+      <ul class="source-list">
+        <li>Circular 06/2011/TT-BYT on cosmetic management (MoH), as amended by Circular 34/2025/TT-BYT (effective 18 Aug 2025) and Circular 29/2020/TT-BYT (CPTPP CFS exemption)</li>
+        <li>ASEAN Cosmetic Directive (ACD) / ASEAN Agreement on Cosmetics</li>
+        <li>DAV administrative procedures (QT.MP.01.04 online); Decision 2393/QĐ-BYT (18 Aug 2025)</li>
+        <li>Practitioner guidance: Artixio, GreenNRJ, TGIMEX (dossier, legalization, timelines)</li>
+      </ul>
+      <p class="table-note">A sourced reference, not legal advice. Cosmetic rules were amended in 2025 — confirm the current consolidated text and your product's specifics with a qualified Vietnamese regulatory advisor before filing.</p>
+    </section>
+
+    <section>
+      <h2>Related references</h2>
+      <ul class="related-list">
+        <li><a href="/sell-into-vietnam/beauty/">Should you sell beauty into Vietnam?</a> (go/no-go) · <a href="/guides/sell-beauty-on-tiktok-shop-vietnam/">Sell beauty on TikTok Shop</a></li>
+        <li><a href="/guides/how-to-sell-on-shopee-vietnam/">Sell on Shopee</a> · <a href="/guides/how-to-sell-on-tiktok-shop-vietnam/">Sell on TikTok Shop</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/sell-into-vietnam/">Sell into Vietnam playbook</a></li>
+      </ul>
+    </section>
+
+    <p class="guide-footer">
+      <a href="/guides/">← All guides</a> · <a href="/sources/">Data sources</a>
+    </p>
+  </article>
+</BaseLayout>
+
+<style>
+  .guide-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .guide-header { margin-bottom: var(--space-6); }
+  .guide-header h1 { border: none; margin-bottom: var(--space-3); }
+  .guide-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .guide-lead a { color: var(--color-accent); }
+  .guide-meta { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-meta a { color: var(--color-accent); }
+  .keyfacts { background: var(--color-bg-subtle); border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); margin-bottom: var(--space-8); }
+  .keyfacts__title { margin: 0 0 var(--space-3); font-size: var(--text-base); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); border: none; }
+  .keyfacts__grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: var(--space-3) var(--space-5); }
+  .keyfacts__grid li { line-height: 1.4; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .keyfacts__grid strong { display: block; font-size: var(--text-lg); color: var(--color-accent); }
+  section { margin-bottom: var(--space-10); }
+  .step-list { list-style: none; padding: 0; margin: var(--space-4) 0; display: flex; flex-direction: column; gap: var(--space-4); }
+  .step-item { display: flex; gap: var(--space-4); align-items: flex-start; }
+  .step-num { flex: 0 0 auto; width: 2rem; height: 2rem; border-radius: 50%; background: var(--color-accent); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: var(--text-sm); }
+  .step-body h3 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+  .step-body p { margin: 0; line-height: 1.6; color: var(--color-text); }
+  .fee-table-wrap { overflow-x: auto; margin: var(--space-4) 0; }
+  .fee-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); }
+  .fee-table th, .fee-table td { border: 1px solid var(--color-border-light); padding: var(--space-2) var(--space-3); text-align: left; vertical-align: top; }
+  .fee-table thead th { background: var(--color-bg-subtle); font-weight: 600; }
+  .fee-table tbody th { background: var(--color-bg-subtle); font-weight: 600; }
+  .table-note { font-size: var(--text-sm); color: var(--color-text-muted); line-height: 1.55; }
+  .route-list, .compliance-list { line-height: 1.65; }
+  .route-list li, .compliance-list li { margin-bottom: var(--space-2); }
+  section p a, .route-list a, .compliance-list a, .source-list a { color: var(--color-accent); }
+  .faq-list { display: flex; flex-direction: column; gap: 0.75rem; margin-top: 1rem; }
+  .faq-item { border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg-subtle); }
+  .faq-question { cursor: pointer; padding: 1rem 1.25rem; font-weight: 600; color: var(--color-text); list-style: none; }
+  .faq-question::-webkit-details-marker { display: none; }
+  .faq-question::after { content: '+'; float: right; color: var(--color-text-muted); }
+  .faq-item[open] .faq-question::after { content: '−'; }
+  .faq-answer-container { padding: 0 1.25rem 1rem; border-top: 1px solid var(--color-border-light); }
+  .faq-answer { margin: 1rem 0 0; color: var(--color-text); line-height: 1.65; }
+  .source-list { line-height: 1.6; }
+  .source-list li { margin-bottom: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  .guide-footer { margin-top: var(--space-10); font-size: var(--text-sm); color: var(--color-text-muted); }
+  .guide-footer a { color: var(--color-text-muted); }
+  .guide-footer a:hover { color: var(--color-accent); }
+</style>
