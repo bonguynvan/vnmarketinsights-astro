@@ -1,17 +1,23 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng**  
+
+Multiple Vietnamese banks are planning dividend payouts and bonus share distributions. Banks including MB, BIDV, VIB, HDBank, and VietABank are preparing capital increases involving the issuance of billions of shares. One bank is set to close dividend rights with a 15% cash dividend payout and offer shareholders the opportunity to purchase additional shares at discounted prices.
+
+- Source: [CafeF](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn)
 
 **VIB One Card: Từ nhiều chiếc thẻ đến một chiếc thẻ cho mọi nhu cầu chi tiêu**  
 
@@ -79,18 +85,12 @@ Banks have been adjusting their policies on demand deposits (non-term deposits),
 
 - Source: [CafeF](https://cafef.vn/de-1-ty-dong-trong-tai-khoan-theo-cach-nay-co-the-chi-nhan-ve-0-dong-lai-188260722134521954.chn)
 
-**Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân**  
-
-As of July 21, ten banks announced their first-half 2026 earnings results. VPBank leads private-sector banks with pre-tax profit of 18,880 billion dong, while Techcombank reported profit exceeding 18,500 billion dong. Several other banks including ABBank, Vietbank, PGBank, and BVBank recorded notably high profit growth rates.
-
-- Source: [CafeF](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn)
-
 ## Related coverage
 
 - [VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn) — CafeF
 - [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
 - [Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn) — CafeF
-- [Ngân hàng không chỉ để giao dịch: Xu hướng 'gói tiện ích tài chính kết hợp trải nghiệm Lifestyle' lên ngôi](https://cafef.vn/ngan-hang-khong-chi-de-giao-dich-xu-huong-goi-tien-ich-tai-chinh-ket-hop-trai-nghiem-lifestyle-len-ngoi-188260701105111999.chn) — CafeF
+- [VIB Up: Một quyết định trước ngày giải ngân tạo khác biệt suốt thời gian trả nợ](https://cafef.vn/vib-up-mot-quyet-dinh-truoc-ngay-giai-ngan-tao-khac-biet-suot-thoi-gian-tra-no-188260719213824871.chn) — CafeF
 
 ---
 

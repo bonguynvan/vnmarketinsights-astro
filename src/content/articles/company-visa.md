@@ -1,8 +1,8 @@
 ---
 title: "Visa — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Visa, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -66,7 +66,7 @@ SACOMBANK has launched a feature enabling Visa card payments to be accepted dire
 - [TPBank mở rộng kết nối thanh toán QR xuyên biên giới, hoàn thiện hệ sinh thái ngân hàng số toàn cầu](https://cafef.vn/tpbank-mo-rong-ket-noi-thanh-toan-qr-xuyen-bien-gioi-hoan-thien-he-sinh-thai-ngan-hang-so-toan-cau-18826070309594423.chn) — CafeF
 - [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
 - [1 chạm mở tài khoản doanh nghiệp: Khi ngân hàng số hiểu đúng nhịp sống của chủ doanh nghiệp](https://cafef.vn/1-cham-mo-tai-khoan-doanh-nghiep-khi-ngan-hang-so-hieu-dung-nhip-song-cua-chu-doanh-nghiep-188260728151205051.chn) — CafeF
-- [Techcombank đồng hành trong mọi chi tiêu hàng ngày của khách hàng](https://vnexpress.net/techcombank-dong-hanh-trong-moi-chi-tieu-hang-ngay-cua-khach-hang-5088244.html) — VnExpress
+- [Bắt nhịp xu hướng du lịch tinh gọn: "Vi vu châu Á - Không phí ngoại tệ" cùng thẻ Techcombank](https://cafef.vn/bat-nhip-xu-huong-du-lich-tinh-gon-vi-vu-chau-a-khong-phi-ngoai-te-cung-the-techcombank-18826081312114843.chn) — CafeF
 
 ---
 

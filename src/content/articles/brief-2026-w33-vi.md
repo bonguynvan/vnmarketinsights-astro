@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 33/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 33 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,11 +11,15 @@ readingTime: 15
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường Việt Nam tuần này
-
-Thị trường tài chính Việt Nam tuần qua chứng kiến những chuyển biến đáng chú ý: lĩnh vực ngân hàng ghi nhận lợi nhuận kỷ lục và triển khai các chương trình tín dụng ưu đãi hỗ trợ kinh tế theo chỉ đạo của Chính phủ, song cũng phải đối mặt với thách thức bảo mật khi phát sinh sự cố an ninh mạng liên quan đến gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin. Các lĩnh vực công nghệ và thanh toán di động đang tăng tốc phát triển, với giải pháp thanh toán quốc tế qua mã QR sắp được triển khai và các biện pháp bảo vệ khách hàng khỏi lừa đảo được tăng cường.
+Thị trường tài chính Việt Nam tuần này ghi nhận nhiều diễn biến đáng chú ý: lĩnh vực ngân hàng triển khai các chương trình tín dụng ưu đãi quy mô lớn để hỗ trợ kinh tế và doanh nghiệp nhỏ vừa, đồng thời các giải pháp thanh toán QR xuyên biên giới được tích hợp nhằm phục vụ du khách quốc tế. Bên cạnh đó, Việt Nam tiếp tục thu hút vốn đầu tư nước ngoài với mức tăng 58% so với cùng kỳ năm trước, trong khi các công ty công nghệ và thanh toán điện tử tăng cường các biện pháp bảo mật chống lừa đảo trực tuyến.
 
 ## Thanh toán
+
+**9Pay hợp tác với NAPAS triển khai thanh toán xuyên biên giới qua VietQR Global, chuẩn bị tích hợp trên Loa TingTing và 9PayPOS**  
+
+9Pay chính thức hợp tác với NAPAS để triển khai VietQR Global, một giải pháp thanh toán QR xuyên biên giới. Giải pháp này sẽ được tích hợp trên Loa TingTing và 9PayPOS nhằm cung cấp trải nghiệm thanh toán liền mạch cho du khách quốc tế trong lưu trú, mua sắm, ăn uống và giải trí. Sáng kiến này nhằm hỗ trợ du lịch thông minh và kinh tế số.
+
+- Nguồn: [CafeF](https://cafef.vn/9pay-hop-tac-voi-napas-trien-khai-thanh-toan-xuyen-bien-gioi-qua-vietqr-global-chuan-bi-tich-hop-tren-loa-tingting-va-9paypos-188260813105442932.chn)
 
 **Khách Trung Quốc, Hàn Quốc đến Việt Nam không cần đổi tiền, quét VNPAY-QR chi tiêu trực tiếp**  
 
@@ -33,6 +37,13 @@ Ngày 06/8/2026, NAPAS, Weixin Pay và BIDV phối hợp công bố mở rộng 
 
 ## Logistics
 
+**Tuyến đường sắt 9.000 tỷ trên đảo của VN sắp lập kỷ lục chưa từng có: Thi công thần tốc chỉ 17 tháng**  
+
+Tuyến đường sắt trị giá 9.000 tỷ đồng trên một hòn đảo của Việt Nam đang tiến gần đến hoàn thành với tiến độ xây dựng nhanh chóng chỉ 17 tháng. Theo ông Trần Anh Tuấn, Phó Tổng Giám đốc Tập đoàn Đường sắt Việt Nam (VNR), chưa từng có dự án nào được thực hiện nhanh bằng tuyến đường sắt này. Bài viết cho thấy tốc độ này đại diện cho một kỷ lục chưa từng có trong lịch sử xây dựng đường sắt ở Việt Nam.
+
+- Số liệu chính: Project value: 9,000 billion VND; Construction timeline: 17 months
+- Nguồn: [CafeF](https://cafef.vn/tuyen-duong-sat-9000-ty-tren-dao-cua-vn-sap-lap-ky-luc-chua-tung-co-thi-cong-than-toc-chi-17-thang-188260812205726198.chn)
+
 **Trong tháng này, siêu dự án metro hơn 55.000 tỷ do liên danh THACO triển khai tại TP giàu nhất Việt Nam dự kiến đạt cột mốc quan trọng**  
 
 Siêu dự án metro trị giá hơn 55.000 tỷ đồng do liên danh THACO triển khai dự kiến đạt cột mốc quan trọng trong tháng này tại thành phố giàu nhất Việt Nam. Ban Quản lý Đường sắt đô thị cùng các nhà thầu đang nỗ lực tối ưu phương án thi công nhằm rút ngắn khoảng 2 tháng và bắt đầu khoan hầm vào tháng 8/2027. Dự án này thể hiện một sáng kiến phát triển hạ tầng đáng kể của đất nước.
@@ -48,6 +59,13 @@ Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin, với hơn 2,5
 
 - Số liệu chính: Credit cards with stolen information: 3.9 million; Malicious SMS messages distributed: 2.5 million messages; Estimated damages: 1.9 billion USD; Time period: May and June
 - Nguồn: [CafeF](https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn)
+
+**Một ngân hàng giảm mạnh 2%/năm lãi suất cho vay ngay sau buổi làm việc của Thủ tướng với ngành ngân hàng sáng 13/8**  
+
+Một ngân hàng Việt Nam đã giảm lãi suất cho vay 2% mỗi năm sau cuộc họp của Thủ tướng với lĩnh vực ngân hàng vào ngày 13/8/2026. SACOMBANK công bố sẽ thu hẹp biên lợi nhuận xuống còn 0,79% để hỗ trợ doanh nghiệp, có hiệu lực ngay từ ngày 13/8 đến 31/12/2026. Mức giảm lãi suất áp dụng cho cả khách hàng mới và khách hàng hiện hữu.
+
+- Số liệu chính: Interest rate reduction: 2% per annum; Profit margin: 0.79% percentage; Program effective date: 13/08/2026; Program end date: 31/12/2026
+- Nguồn: [CafeF](https://cafef.vn/mot-ngan-hang-giam-manh-2-nam-lai-suat-cho-vay-ngay-sau-buoi-lam-viec-cua-thu-tuong-voi-nganh-ngan-hang-sang-13-8-188260813132146538.chn)
 
 **Agribank triển khai chương trình tín dụng ưu đãi 70.000 tỷ đồng hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp SME**  
 
@@ -89,18 +107,6 @@ Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và thuế 
 - Số liệu chính: Proposed tax reduction rate: 30% percent; Revenue threshold for eligibility: 10 billion VND; Applicable fiscal years: 2026, 2027 years
 - Nguồn: [CafeF](https://cafef.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-duoi-10-ty-dong-188260807160012158.chn)
 
-**EuroCham: Nghị quyết 10 tạo niềm tin để doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam**  
-
-Nghị quyết 10 được cộng đồng doanh nghiệp châu Âu đánh giá là bước tiến quan trọng trong chiến lược thu hút đầu tư của Việt Nam, chuyển từ mục tiêu thu hút vốn sang xây dựng hệ sinh thái FDI chất lượng cao. EuroCham nhận định rằng nghị quyết này tạo niềm tin để các doanh nghiệp châu Âu mở rộng đầu tư tại Việt Nam. Sáng kiến phản ánh chiến lược phát triển đầu tư bền vững và chất lượng cao của Việt Nam.
-
-- Nguồn: [CafeF](https://cafef.vn/eurocham-nghi-quyet-10-tao-niem-tin-de-doanh-nghiep-chau-au-mo-rong-dau-tu-tai-viet-nam-188260806111848279.chn)
-
-**Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam**  
-
-Hệ thống ngân hàng Việt Nam đang chuẩn bị các quy định hoàn toàn mới về ứng dụng trí tuệ nhân tạo (AI). Theo lãnh đạo NHNN, AI mang lại nhiều lợi ích nhưng cũng đặt ra rủi ro về an toàn thông tin, rủi ro mô hình, dữ liệu và trách nhiệm ra quyết định. Tại hội thảo "AI và Quản trị dữ liệu trong hoạt động ngân hàng" ngày 5/8/2026, Phó Chủ tịch kiêm Tổng Thư ký VNBA Đào Minh Tú nhắc tới sự chuyển đổi từ kỷ nguyên số hóa trong ngành tài chính-ngân hàng toàn cầu.
-
-- Nguồn: [CafeF](https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn)
-
 ## Chứng khoán
 
 **VPBank tăng tốc từ hoạt động cốt lõi**  
@@ -116,20 +122,21 @@ Tập đoàn Điện lực Việt Nam (EVN) báo cáo có lãi trong nửa đầ
 - Số liệu chính: Total electricity production and imports (first half of 2026): 171.54 billion kWh; Increase in electricity production and imports: 9.8 %
 - Nguồn: [TuoiTre](https://tuoitre.vn/evn-co-lai-trong-6-thang-dau-nam-xoa-sach-lo-luy-ke-tu-nam-2022-100260808072813687.htm)
 
-**Tỷ lệ nợ xấu xuống mức thấp nhất trong nhiều năm, VPBank được nhiều CTCK đánh giá tích cực**  
-
-Chất lượng tài sản của VPBank cải thiện đáng kể trong nửa đầu năm 2026, với tỷ lệ nợ xấu và nợ nhóm 2 xuống mức thấp nhất nhiều năm. Ngân hàng quy điều này cho chiến lược đầu tư dài hạn vào quản trị rủi ro, dữ liệu và công nghệ. Nhiều công ty chứng khoán đã đưa ra đánh giá tích cực về VPBank dựa trên những diễn biến này.
-
-- Nguồn: [CafeF](https://cafef.vn/ty-le-no-xau-xuong-muc-thap-nhat-trong-nhieu-nam-vpbank-duoc-nhieu-ctck-danh-gia-tich-cuc-188260807061824215.chn)
-
-**Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý**  
-
-Trong quý II/2026, năm ngân hàng—Vietcombank, VietinBank, BIDV, MB, và VPBank—mỗi ngân hàng báo lãi quý vượt 10 nghìn tỷ đồng. Đây là mốc quan trọng thể hiện sự thay đổi trong ngành ngân hàng, với một số ngân hàng khác cũng đang tiến gần đến ngưỡng này và dấu hiệu của "kỷ nguyên 10 nghìn tỷ đồng mỗi quý" cho toàn ngành.
-
-- Số liệu chính: Quarterly profit threshold reached by five banks: 10,000 billion VND; Quarter: Q2 2026
-- Nguồn: [CafeF](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn)
-
 ## Kinh tế vĩ mô
+
+**Lộ diện địa phương duy nhất ghi nhận thu hút FDI vượt mốc 10 tỷ USD trong 7 tháng 2026**  
+
+Tính đến ngày 31/7/2026, Việt Nam thu hút được 38,06 tỷ USD vốn đầu tư nước ngoài (FDI) đăng ký, tăng 58% so với cùng kỳ năm trước. Năm địa phương hàng đầu chiếm 27,65 tỷ USD, đại diện cho 72,64% tổng vốn đăng ký của cả nước. Một địa phương duy nhất ghi nhận vốn FDI vượt 10 tỷ USD trong bảy tháng đầu năm 2026.
+
+- Số liệu chính: Total registered FDI into Vietnam as of July 31, 2026: 38.06 billion USD; YoY growth in registered FDI: 58 %; FDI to top five localities: 27.65 billion USD; Top five localities' share of total registered FDI: 72.64 %
+- Nguồn: [CafeF](https://cafef.vn/lo-dien-dia-phuong-duy-nhat-ghi-nhan-thu-hut-fdi-vuot-moc-10-ty-usd-trong-7-thang-2026-188260813094647401.chn)
+
+**Tỉnh có các ‘đại bàng’ Samsung, Foxconn hút hơn 2,73 tỷ USD vốn FDI trong 7 tháng đầu năm**  
+
+Một tỉnh có các nhà sản xuất điện tử lớn Samsung và Foxconn đã hút hơn 2,73 tỷ USD vốn đầu tư trực tiếp nước ngoài (FDI) trong 7 tháng đầu năm 2026. Con số này xếp tỉnh này thứ 4 toàn quốc về thu hút FDI. Dữ liệu được báo cáo vào ngày 12 tháng 8 năm 2026.
+
+- Số liệu chính: FDI attraction in first 7 months of 2026: 2.73 billion USD USD
+- Nguồn: [CafeF](https://cafef.vn/tinh-co-cac-dai-bang-samsung-foxconn-hut-hon-273-ty-usd-von-fdi-trong-7-thang-dau-nam-188260813070616368.chn)
 
 **Vì sao Việt Nam quyết tâm xây bằng được “trái tim” của kho báu gần 7 tỷ USD?**  
 
@@ -178,13 +185,6 @@ Việt Nam đang có cơ hội thu hút lượng vốn xanh quy mô lớn khi c�
 
 - Số liệu chính: Capital needed for Net Zero target: 700 billion USD; Net Zero target year: 2050 year
 - Nguồn: [CafeF](https://cafef.vn/thu-hut-700-ty-usd-cho-muc-tieu-net-zero-ngan-hang-giu-vai-tro-kenh-dan-von-chu-luc-188260807062443173.chn)
-
-**Giải bài toán vốn dài hạn cho tăng trưởng cao**  
-
-Việt Nam đối mặt với sự mismatch cấu trúc giữa cung vốn và nhu cầu vốn dài hạn cho tăng trưởng. Hệ thống ngân hàng hiện tại huy động khoảng 80% vốn từ các nguồn ngắn hạn và chỉ 20% từ vốn dài hạn. Các mục tiêu tăng trưởng cao trong lĩnh vực hạ tầng, năng lượng, công nghiệp chiến lược, chuyển đổi số và xanh đòi hỏi nguồn vốn dài hạn đáng kể mà không thể toàn bộ đến từ hệ thống ngân hàng.
-
-- Số liệu chính: Share of short-term capital in banking system funding: 80% percent; Share of long-term capital in banking system funding: 20% percent
-- Nguồn: [CafeF](https://cafef.vn/giai-bai-toan-von-dai-han-cho-tang-truong-cao-188260805155526455.chn)
 
 ## Nền tảng
 

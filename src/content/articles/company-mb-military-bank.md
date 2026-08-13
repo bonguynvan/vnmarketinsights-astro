@@ -1,8 +1,8 @@
 ---
 title: "MB (Military Bank) — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MB (Military Bank), with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ Visa partnered with VPBank, Shinhan Bank Vietnam, and MB to launch a Global Trad
 ## Related coverage
 
 - [Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn) — CafeF
+- [Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn) — CafeF
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
-- [Lãi suất ngân hàng 26/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-26-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260726184832995.chn) — CafeF
 
 ---
 

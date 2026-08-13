@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-11T23:33:21.989195+00:00",
+  "generatedAt": "2026-08-13T23:35:51.364614+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 809,
-      "growthRate": 8.0,
-      "avgSentiment": -0.085,
+      "total": 817,
+      "growthRate": 3.0,
+      "avgSentiment": -0.083,
       "tag": "Rising Star",
       "series": [
         {
@@ -258,15 +258,20 @@
           "date": "2026-08-11",
           "count": 18,
           "sentiment": 0.006
+        },
+        {
+          "date": "2026-08-13",
+          "count": 8,
+          "sentiment": 0.025
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 507,
-      "growthRate": 1.667,
-      "avgSentiment": 0.093,
+      "total": 524,
+      "growthRate": 4.667,
+      "avgSentiment": 0.095,
       "tag": "Rising Star",
       "series": [
         {
@@ -518,15 +523,20 @@
           "date": "2026-08-11",
           "count": 8,
           "sentiment": 0.237
+        },
+        {
+          "date": "2026-08-13",
+          "count": 17,
+          "sentiment": 0.165
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 295,
-      "growthRate": -0.733,
-      "avgSentiment": 0.255,
+      "total": 297,
+      "growthRate": -0.867,
+      "avgSentiment": 0.25,
       "tag": "Stable",
       "series": [
         {
@@ -768,15 +778,20 @@
           "date": "2026-08-11",
           "count": 4,
           "sentiment": 0.3
+        },
+        {
+          "date": "2026-08-13",
+          "count": 2,
+          "sentiment": 0.0
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 204,
-      "growthRate": 1.0,
-      "avgSentiment": 0.215,
+      "total": 209,
+      "growthRate": 1.5,
+      "avgSentiment": 0.217,
       "tag": "Rising Star",
       "series": [
         {
@@ -1023,15 +1038,20 @@
           "date": "2026-08-11",
           "count": 4,
           "sentiment": 0.15
+        },
+        {
+          "date": "2026-08-13",
+          "count": 5,
+          "sentiment": 0.32
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 107,
-      "growthRate": -0.4,
-      "avgSentiment": 0.142,
+      "total": 108,
+      "growthRate": -0.8,
+      "avgSentiment": 0.131,
       "tag": "Stable",
       "series": [
         {
@@ -1238,15 +1258,20 @@
           "date": "2026-08-09",
           "count": 3,
           "sentiment": 0.667
+        },
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "sentiment": -0.3
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 93,
+      "total": 95,
       "growthRate": -0.5,
-      "avgSentiment": 0.223,
+      "avgSentiment": 0.228,
       "tag": "Stable",
       "series": [
         {
@@ -1453,16 +1478,21 @@
           "date": "2026-08-10",
           "count": 2,
           "sentiment": 0.4
+        },
+        {
+          "date": "2026-08-13",
+          "count": 2,
+          "sentiment": 0.45
         }
       ]
     },
     {
       "topic": "payments",
       "siteSlug": "payments",
-      "total": 49,
-      "growthRate": 1.0,
-      "avgSentiment": 0.453,
-      "tag": "Rising Star",
+      "total": 51,
+      "growthRate": 0.0,
+      "avgSentiment": 0.461,
+      "tag": "Stable",
       "series": [
         {
           "date": "2026-06-20",
@@ -1578,15 +1608,20 @@
           "date": "2026-08-11",
           "count": 4,
           "sentiment": 0.475
+        },
+        {
+          "date": "2026-08-13",
+          "count": 2,
+          "sentiment": 0.65
         }
       ]
     },
     {
       "topic": "ecommerce",
       "siteSlug": "ecommerce",
-      "total": 45,
+      "total": 47,
       "growthRate": 0.0,
-      "avgSentiment": 0.323,
+      "avgSentiment": 0.328,
       "tag": "Stable",
       "series": [
         {
@@ -1733,6 +1768,11 @@
           "date": "2026-08-10",
           "count": 2,
           "sentiment": 0.25
+        },
+        {
+          "date": "2026-08-13",
+          "count": 2,
+          "sentiment": 0.45
         }
       ]
     },
@@ -1884,9 +1924,9 @@
     {
       "topic": "platforms",
       "siteSlug": "platforms",
-      "total": 36,
+      "total": 37,
       "growthRate": 0.0,
-      "avgSentiment": 0.375,
+      "avgSentiment": 0.385,
       "tag": "Stable",
       "series": [
         {
@@ -2003,6 +2043,11 @@
           "date": "2026-08-11",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-08-13",
+          "count": 1,
+          "sentiment": 0.6
         }
       ]
     },

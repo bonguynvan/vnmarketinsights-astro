@@ -1,17 +1,23 @@
 ---
 title: "Agribank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Agribank, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # Agribank
 
-Recent Vietnam market news mentioning **Agribank** (99 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Agribank** (100 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+On August 12, 2026, the deposit interest rate landscape showed notable fluctuations among Vietnamese banks. VCBNeo raised its interest rate to 7.8% per annum for 12-month term deposits. The article provides a comparison of deposit rates across major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn)
 
 **Agribank triển khai chương trình tín dụng ưu đãi 70.000 tỷ đồng hướng đến các động lực tăng trưởng kinh tế và doanh nghiệp SME**  
 
@@ -79,18 +85,12 @@ A survey of online interest rates at 34 banks on August 6 shows ACB leading with
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn)
 
-**Cả nghìn nhân viên tại Vietcombank, VietinBank, BIDV và  Agribank nghỉ việc trong nửa đầu năm 2026**  
-
-Four state-owned commercial banks—Agribank, BIDV, VietinBank, and Vietcombank—recorded a combined reduction of more than 1,100 employees in the first half of 2026. The article reports on staff departures across these major banking institutions during this period. The specific reasons for the departures are not detailed in the excerpt provided.
-
-- Source: [CafeF](https://cafef.vn/ca-nghin-nhan-vien-tai-vietcombank-vietinbank-bidv-va-agribank-nghi-viec-trong-nua-dau-nam-2026-188260806234037553.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
+- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Mi Hồng — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Mi Hồng, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -83,8 +83,8 @@ A long-established gold shop in Ho Chi Minh City named Mi Hồng implemented a p
 
 - [Giá vàng nhẫn trơn, vàng miếng chiều 31/7 bất ngờ quay đầu](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-31-7-bat-ngo-quay-dau-188260731074336327.chn) — CafeF
 - [Giá vàng nhẫn trơn, vàng miếng chiều 11/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải quay đầu giảm mạnh so với buổi sáng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-11-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-quay-dau-giam-manh-so-voi-buoi-sang-188260811072920421.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều 13/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt giảm so với buổi sáng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-13-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-giam-so-voi-buoi-sang-188260813073047416.chn) — CafeF
 - [Chiều 9/7: Giá vàng miếng, vàng nhẫn trơn bất ngờ đảo chiều](https://cafef.vn/chieu-9-7-gia-vang-mieng-vang-nhan-tron-bat-ngo-dao-chieu-188260709082726541.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng SJC chiều ngày 4/7](https://cafef.vn/gia-vang-nhan-vang-mieng-sang-nay-ngay-4-7-188260704092051017.chn) — CafeF
 
 ---
 

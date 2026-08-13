@@ -1,17 +1,29 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (41 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (43 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bắt nhịp xu hướng du lịch tinh gọn: "Vi vu châu Á - Không phí ngoại tệ" cùng thẻ Techcombank**  
+
+Techcombank has launched a promotional campaign called "Vi vu châu Á - Không phí ngoại tệ" (Explore Asia - No Foreign Exchange Fees) targeting budget-conscious travelers. The program offers convenient international payment solutions and cost optimization across 7 popular Asian destinations favored by Vietnamese tourists. The initiative aligns with the growing trend of minimalist travel among Vietnamese travelers.
+
+- Source: [CafeF](https://cafef.vn/bat-nhip-xu-huong-du-lich-tinh-gon-vi-vu-chau-a-khong-phi-ngoai-te-cung-the-techcombank-18826081312114843.chn)
+
+**Danh mục cổ phiếu hơn 18.000 tỷ của chứng khoán VIX: Rót thêm 1.000 tỷ vào Techcombank, giá trị của 9 cổ phiếu chủ chốt bốc hơi 2.400 tỷ so với cuối tháng 6**  
+
+VIX Securities released its first-half 2026 financial report with an equity portfolio valued at over 18,000 billion VND. The company invested an additional 1,000 billion VND in Techcombank, with core holdings declining in value by approximately 2,400 billion VND compared to end-June. Investments in GEE and VGR delivered impressive returns relative to original cost basis.
+
+- Source: [CafeF](https://cafef.vn/danh-muc-co-phieu-hon-18000-ty-cua-chung-khoan-vix-rot-them-1500-ty-vao-eximbank-va-tcb-nam-giu-gan-3000-ty-dong-2-ma-ho-viconship-188260814000139555.chn)
 
 **Giải Marathon Quốc tế Hà Nội Techcombank 2026: Giải chạy biểu tượng quốc gia, khẳng định tầm vóc khu vực**  
 
@@ -73,24 +85,12 @@ VIB reported first-half 2026 pre-tax profit of over 5,180 billion VND, up 3% yea
 
 - Source: [CafeF](https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn)
 
-**Techcom Life củng cố vốn điều lệ lên 4.300 tỷ đồng và tăng tốc chiến lược AI-First**  
-
-Techcom Life is strengthening its charter capital to 4.300 trillion VND through additional capital contributions. Techcombank has committed to injecting an additional 2.400 trillion VND, while One Mount Group joins as a strategic shareholder focused on technology and data capabilities. The capital increase plan was approved by Techcombank's Board of Directors to support the next phase of Techcom Life's development.
-
-- Source: [CafeF](https://cafef.vn/techcom-life-cung-co-von-dieu-le-len-4300-ty-dong-va-tang-toc-chien-luoc-ai-first-188260727192937423.chn)
-
-**Chân dung tân Chủ tịch Eximbank: Là tiến sĩ kỹ thuật hạt nhân tại Mỹ, ghi dấu ấn tại Techcombank trong giai đoạn tăng trưởng bùng nổ**  
-
-Nguyễn Lê Quốc Anh, former CEO of Techcombank, has been officially appointed as Chairman of Eximbank. He holds a Ph.D. in nuclear engineering from the United States and has worked as a nuclear engineer and researcher there. Prior to joining Eximbank, he held positions at major organizations including McKinsey, Wells Fargo, Fortress Investment Group, and T-Mobile US.
-
-- Source: [CafeF](https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn)
-
 ## Related coverage
 
-- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
-- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
+- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 
 ---
 

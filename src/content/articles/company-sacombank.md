@@ -1,17 +1,35 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # SACOMBANK
 
-Recent Vietnam market news mentioning **SACOMBANK** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SACOMBANK** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+On August 12, 2026, the deposit interest rate landscape showed notable fluctuations among Vietnamese banks. VCBNeo raised its interest rate to 7.8% per annum for 12-month term deposits. The article provides a comparison of deposit rates across major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn)
+
+**Một ngân hàng giảm mạnh 2%/năm lãi suất cho vay ngay sau buổi làm việc của Thủ tướng với ngành ngân hàng sáng 13/8**  
+
+A Vietnamese bank reduced lending interest rates by 2% per annum following a Prime Minister's meeting with the banking sector on August 13, 2026. SACOMBANK announced it would narrow its profit margin to 0.79% to support businesses, effective immediately from August 13 through December 31, 2026. The rate reduction applies to both new and existing customers.
+
+- Source: [CafeF](https://cafef.vn/mot-ngan-hang-giam-manh-2-nam-lai-suat-cho-vay-ngay-sau-buoi-lam-viec-cua-thu-tuong-voi-nganh-ngan-hang-sang-13-8-188260813132146538.chn)
+
+**SACOMBANK chủ động giảm 2% lãi suất cho vay để hỗ trợ doanh nghiệp**  
+
+SACOMBANK announced proactive measures to reduce lending rates by 2% to support businesses following a meeting between the Prime Minister and the State Bank of Vietnam with credit institutions. The bank reduced its profit margin to 0.79% and implemented specific plans to direct capital flow to priority sectors, business households, and FDI enterprises. SACOMBANK committed to a 2% reduction in lending rates for import-export customers.
+
+- Source: [CafeF](https://cafef.vn/sacombank-chu-dong-giam-2-lai-suat-cho-vay-de-ho-tro-doanh-nghiep-188260813152649777.chn)
 
 **Lãi suất ngân hàng Sacombank tháng 8/2026: Mức lãi suất cao nhất là bao nhiêu?**  
 
@@ -67,30 +85,12 @@ Agribank announced its latest lending rates, maintaining short-term lending rate
 
 - Source: [CafeF](https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn)
 
-**Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates across 34 banks on August 5 shows overall stability in rate levels. SeABank reduced rates across multiple terms, while ACB continues to lead with 7.8% per annum and LPBank maintains 7.3% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn)
-
-**Lãi suất ngân hàng BIDV mới nhất tháng 8/2026**  
-
-BIDV maintained its attractive deposit interest rates for individual customers entering August 2026. The article provides an update on BIDV's current interest rate offerings as of early August 2026. Other banks including LPBank, Agribank, Vietcombank, VietinBank, MB, Sacombank, and HDBank also adjusted their rates during this period.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-bidv-moi-nhat-thang-8-2026-188260804102939508.chn)
-
-**Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit rates at 34 banks on August 4 shows that the interest rate level remains stable. ACB maintains the highest rate at 7.8% per annum for the 12-month term, while LPBank holds the second position following a significant rate increase at the beginning of the month.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
-
 ## Related coverage
 
-- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
-- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
-- [Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn) — CafeF
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
+- [Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn) — CafeF
+- [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Vietinbank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietinbank, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Vietinbank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
+
+On August 12, 2026, the deposit interest rate landscape showed notable fluctuations among Vietnamese banks. VCBNeo raised its interest rate to 7.8% per annum for 12-month term deposits. The article provides a comparison of deposit rates across major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
+
+- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn)
 
 **Lãi suất ngân hàng 11/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ Four state-owned commercial banks—Agribank, BIDV, VietinBank, and Vietcombank�
 
 - Source: [CafeF](https://cafef.vn/ca-nghin-nhan-vien-tai-vietcombank-vietinbank-bidv-va-agribank-nghi-viec-trong-nua-dau-nam-2026-188260806234037553.chn)
 
-**Một ngân hàng tư nhân tăng quy mô tài sản mạnh hơn cả Big4, bằng BIDV và Agribank cộng lại**  
-
-A private bank expanded its total assets by over 242,000 billion VND in the first half of 2026, outpacing Vietcombank, VietinBank, and BIDV in asset growth rate. Despite state-owned banks maintaining the largest asset base, private banks are demonstrating faster expansion in the banking sector. The asset scale of this private bank now equals the combined assets of BIDV and Agribank.
-
-- Source: [CafeF](https://cafef.vn/mot-ngan-hang-tu-nhan-tang-quy-mo-tai-san-manh-hon-ca-big4-bang-bidv-va-agribank-cong-lai-18826080508001068.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
-- [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
+- [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
+- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "HSBC — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning HSBC, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---

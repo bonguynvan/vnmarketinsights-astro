@@ -1,8 +1,8 @@
 ---
 title: "Canon — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Canon, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -39,10 +39,10 @@ Bac Ninh province has an economic scale of $21 billion, ranking fifth in Vietnam
 
 ## Related coverage
 
+- [Tỉnh có các ‘đại bàng’ Samsung, Foxconn hút hơn 2,73 tỷ USD vốn FDI trong 7 tháng đầu năm](https://cafef.vn/tinh-co-cac-dai-bang-samsung-foxconn-hut-hon-273-ty-usd-von-fdi-trong-7-thang-dau-nam-188260813070616368.chn) — CafeF
 - [Lần đầu tiên công bố bảng xếp hạng thu nhập bình quân tháng của 34 tỉnh, thành sau sáp nhập: Địa phương nào đang dẫn đầu?](https://cafef.vn/lan-dau-tien-cong-bo-bang-xep-hang-thu-nhap-binh-quan-thang-cua-34-tinh-thanh-sau-sap-nhap-dia-phuong-nao-dang-dan-dau-188260711090453958.chn) — CafeF
 - [Chỉ trong 6 tháng, một địa phương ghi nhận tăng trưởng GRDP lọt TOP10, FDI tăng bằng lần, đặt mục tiêu thành "thủ phủ" công nghiệp công nghệ cao của Việt Nam](https://cafef.vn/chi-trong-6-thang-mot-dia-phuong-ghi-nhan-tang-truong-grdp-lot-top10-fdi-tang-bang-lan-dat-muc-tieu-thanh-thu-phu-cong-nghiep-cong-nghe-cao-cua-viet-nam-188260715101421513.chn) — CafeF
 - [Đây chính là tỉnh có diện tích nhỏ nhất Việt Nam, tăng trưởng kinh tế thuộc nhóm dẫn đầu cả nước](https://cafef.vn/day-chinh-la-tinh-co-dien-tich-nho-nhat-viet-nam-tang-truong-kinh-te-thuoc-nhom-dan-dau-ca-nuoc-188260708140809905.chn) — CafeF
-- [Đổ xô săn vé máy bay đến tỉnh lớn nhất Việt Nam, chuyện gì đang xảy ra?](https://cafef.vn/do-xo-san-ve-may-bay-den-tinh-lon-nhat-viet-nam-chuyen-gi-dang-xay-ra-188260731135220502.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Samsung — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Samsung, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # Samsung
 
-Recent Vietnam market news mentioning **Samsung** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Samsung** (11 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Tỉnh có các ‘đại bàng’ Samsung, Foxconn hút hơn 2,73 tỷ USD vốn FDI trong 7 tháng đầu năm**  
+
+A province hosting major electronics manufacturers Samsung and Foxconn attracted over 2.73 billion USD in foreign direct investment (FDI) during the first seven months of 2026. This figure ranks the province fourth nationally in FDI attraction. The data was reported on August 12, 2026.
+
+- Source: [CafeF](https://cafef.vn/tinh-co-cac-dai-bang-samsung-foxconn-hut-hon-273-ty-usd-von-fdi-trong-7-thang-dau-nam-188260813070616368.chn)
 
 **Tỉnh rộng nhất đồng bằng sông Cửu Long chính thức được công nhận là đơn vị hành chính cấp tỉnh loại I**  
 
@@ -78,7 +84,7 @@ TechWorld by Thế Giới Di Động opened on June 20th as a large-scale techno
 - [Loạt 'đại bàng' từ Hàn Quốc, Nhật Bản, Singapore... tiếp tục chọn Việt Nam là điểm đến chiến lược](https://cafef.vn/loat-dai-bang-tu-han-quoc-nhat-ban-singapore-tiep-tuc-chon-viet-nam-la-diem-den-chien-luoc-188260710151426941.chn) — CafeF
 - [Trong năm nay, 'ông lớn' Hàn Quốc sẽ khởi công xây dựng nhà máy bán dẫn 1 tỷ USD, quy mô hơn 300.000 m² tại thành phố cảng lớn nhất miền Bắc](https://cafef.vn/trong-nam-nay-ong-lon-han-quoc-se-khoi-cong-xay-dung-nha-may-ban-dan-1-ty-usd-quy-mo-hon-300000-m-tai-thanh-pho-cang-lon-nhat-mien-bac-188260705084705836.chn) — CafeF
 - [Đại bàng Hàn Quốc rót 1 tỷ USD xây dựng đại nhà máy  tương đương 43 sân bóng đá tại thành phố cảng lớn nhất Việt Nam: Giới truyền thông quốc tế nói gì?](https://cafef.vn/dai-bang-han-quoc-rot-1-ty-usd-xay-dung-dai-nha-may-tuong-duong-43-san-bong-da-tai-thanh-pho-cang-lon-nhat-viet-nam-gioi-truyen-thong-quoc-te-noi-gi-188260709111929109.chn) — CafeF
-- [Sau cột mốc thu nhập trung bình cao, Việt Nam cần làm gì?](https://cafef.vn/sau-cot-moc-thu-nhap-trung-binh-cao-viet-nam-can-lam-gi-188260713082600444.chn) — CafeF
+- [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 
 ---
 

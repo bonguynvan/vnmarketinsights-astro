@@ -1,8 +1,8 @@
 ---
 title: "SeABank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SeABank, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -57,10 +57,10 @@ Over the 2015-2025 period, several Vietnamese banks experienced significant prof
 
 ## Related coverage
 
+- [Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn) — CafeF
 - [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn) — CafeF
 - [Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-24-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260724185147523.chn) — CafeF
-- [Lãi suất huy động leo thang, ngân hàng chịu sức ép kép](https://cafef.vn/lai-suat-huy-dong-leo-thang-ngan-hang-chiu-suc-ep-kep-188260808161052601.chn) — CafeF
 
 ---
 

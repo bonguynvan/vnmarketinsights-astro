@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **MSB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSB tuổi 35 và cách đặc biệt để tôn vinh những người làm nên di sản**  
+
+Military Commercial Bank (MSB) celebrated its 35th anniversary with special commemorative events honoring employees who have built the bank. The celebration included the "Golden Heritage Page" recording 8,000 staff members, a parade of 6,000 people, an emotional arts program, and moments where thousands placed their hands on their hearts. MSB chose to tell its 35-year story through the people who contributed to its development.
+
+- Source: [CafeF](https://cafef.vn/msb-tuoi-35-va-cach-dac-biet-de-ton-vinh-nhung-nguoi-lam-nen-di-san-188260813160252076.chn)
 
 **MSB được Vietnam Report vinh danh tại hai bảng xếp hạng uy tín năm 2026**  
 
@@ -79,18 +85,12 @@ MSB received a commendation from the Ministry of Public Security on June 23, 202
 
 - Source: [CafeF](https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn)
 
-**Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ**  
-
-Vietnamese banking sector's Q2 2026 profit forecasts show divergent growth trajectories across institutions. MSB is projected to achieve the fastest growth at 48%, while VietinBank is expected to lead the system in absolute profit scale with approximately 15,000 billion Vietnamese dong in pre-tax profit. The banking sector continues to display varied performance across different players.
-
-- Source: [CafeF](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn)
-
 ## Related coverage
 
-- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn) — CafeF
+- [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 - [Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn) — CafeF
-- [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
-- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
+- [Một ngân hàng sắp trả cổ tức 15%](https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn) — CafeF
 
 ---
 

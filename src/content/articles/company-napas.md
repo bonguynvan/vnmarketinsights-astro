@@ -1,17 +1,23 @@
 ---
 title: "NAPAS — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning NAPAS, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
 
 # NAPAS
 
-Recent Vietnam market news mentioning **NAPAS** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **NAPAS** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**9Pay hợp tác với NAPAS triển khai thanh toán xuyên biên giới qua VietQR Global, chuẩn bị tích hợp trên Loa TingTing và 9PayPOS**  
+
+9Pay has entered into a partnership with NAPAS to deploy VietQR Global, a cross-border QR code payment solution. The solution will be integrated into Loa TingTing and 9PayPOS to provide international tourists with seamless payment experiences across accommodation, shopping, dining, and entertainment. The initiative aims to support smart tourism and the digital economy.
+
+- Source: [CafeF](https://cafef.vn/9pay-hop-tac-voi-napas-trien-khai-thanh-toan-xuyen-bien-gioi-qua-vietqr-global-chuan-bi-tich-hop-tren-loa-tingting-va-9paypos-188260813105442932.chn)
 
 **Mốc quan trọng 06/8/2026: Cùng với BIDV và Weixin Pay, NAPAS đã hoàn thiện kết nối thanh toán xuyên biên giới với thị trường hơn 1,4 tỷ dân**  
 
@@ -58,8 +64,8 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 ## Related coverage
 
 - [Từ Thái Lan, Lào đến Singapore: VietinBank từng bước mở rộng "Bản đồ QR" xuyên biên giới](https://cafef.vn/tu-thai-lan-lao-den-singapore-vietinbank-tung-buoc-mo-rong-ban-do-qr-xuyen-bien-gioi-188260708165248151.chn) — CafeF
-- [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
 - [Khách Trung Quốc, Hàn Quốc đến Việt Nam không cần đổi tiền, quét VNPAY-QR chi tiêu trực tiếp](https://cafef.vn/khach-trung-quoc-han-quoc-den-viet-nam-khong-can-doi-tien-quet-vnpay-qr-chi-tieu-truc-tiep-188260811165452229.chn) — CafeF
+- [Hiệp hội Ngân hàng Việt Nam làm việc với Hiệp hội Fintech Singapore](https://cafef.vn/hiep-hoi-ngan-hang-viet-nam-lam-viec-voi-hiep-hoi-fintech-singapore-188260708073726237.chn) — CafeF
 - [Techcombank và Visa hợp tác ra mắt tài khoản nhận tiền quốc tế, đơn giản hóa giao dịch xuyên biên giới cho người Việt](https://cafef.vn/techcombank-va-visa-hop-tac-ra-mat-tai-khoan-nhan-tien-quoc-te-don-gian-hoa-giao-dich-xuyen-bien-gioi-cho-nguoi-viet-188260724123730414.chn) — CafeF
 
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,24 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thủ tướng Chính phủ làm việc với Ngân hàng Nhà nước và hệ thống các tổ chức tín dụng**  
+
+The Prime Minister of Vietnam, Lê Minh Hung, chaired a working session with the State Bank of Vietnam (SBV) and credit institutions on August 13 at the Government headquarters. The meeting was attended by Deputy Prime Minister Phạm Gia Túc, Deputy Prime Minister Nguyễn Văn Thắng, and other senior officials including Nguyễn Thị Hồng. The session brought together government and financial sector leadership to discuss matters of national economic importance.
+
+- Source: [CafeF](https://cafef.vn/thu-tuong-chinh-phu-lam-viec-voi-ngan-hang-nha-nuoc-va-he-thong-cac-to-chuc-tin-dung-18826081316174548.chn)
+
+**Họp với các ngân hàng, Thủ tướng Lê Minh Hưng chỉ đạo gì về lãi suất, tín dụng, tỷ giá,...?**  
+
+Prime Minister Lê Minh Hưng chaired a working session with banks on August 13 at the Government office. The PM directed the State Bank of Vietnam to manage credit growth aligned with 2026 targets while maintaining flexibility rather than treating it as a hard ceiling. Credit management must be proactive and adaptive to actual conditions, ensuring capital reaches the right sectors, at the right time, to the right recipients, for the right purposes, at reasonable cost.
+
+- Source: [CafeF](https://cafef.vn/hop-voi-cac-ngan-hang-thu-tuong-le-minh-hung-chi-dao-gi-ve-lai-suat-tin-dung-ty-gia-188260813183154578.chn)
+
+**Sửa quy định về sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của tổ chức tín dụng nước ngoài**  
+
+Vietnam's State Bank (NHNN) has issued Circular 39/2026/TT-NHNN to amend and supplement provisions of Circular 16/2014/TT-NHNN, which provides guidance on the use of foreign currency and Vietnamese dong accounts for both resident and non-resident customers at licensed banks. The new circular takes effect from September 19, 2026.
+
+- Source: [CafeF](https://cafef.vn/sua-quy-dinh-ve-su-dung-tai-khoan-ngoai-te-tai-khoan-dong-viet-nam-cua-to-chuc-tin-dung-nuoc-ngoai-188260813201850362.chn)
 
 **Ngày mai, Thủ tướng sẽ làm việc với Ngân hàng Nhà nước và các ngân hàng**  
 
@@ -67,30 +85,12 @@ The State Bank of Vietnam has increased the ratio of State Treasury deposits cou
 
 - Source: [CafeF](https://cafef.vn/nang-ty-le-tien-gui-kho-bac-nha-nuoc-len-50-khi-tinh-ldr-cu-hich-thanh-khoan-ha-nhiet-cuoc-dua-lai-suat-huy-dong-188260804065514216.chn)
 
-**Sửa đổi Nghị định 50 để phù hợp với quản lý dự trữ ngoại hối nhà nước**  
-
-The State Bank of Vietnam is proposing amendments to Decree 50 to align with state foreign exchange reserve management. The proposal includes adjustments to profit calculation that would exclude income and expenses related to gold investment activities. This regulatory revision aims to better reflect the management framework for Vietnam's foreign exchange reserves.
-
-- Source: [CafeF](https://cafef.vn/sua-doi-nghi-dinh-50-de-phu-hop-voi-quan-ly-du-tru-ngoai-hoi-nha-nuoc-188260803103725563.chn)
-
-**Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)**  
-
-Phạm Thị Huyền Trang has been appointed as General Director of Eximbank effective August 1, 2026, following her previous role as Board Chair. The appointment, approved by the State Bank of Vietnam, has a three-year tenure. An extraordinary shareholder meeting is scheduled for October 2026 to review personnel matters.
-
-- Source: [CafeF](https://cafef.vn/ba-pham-thi-huyen-trang-lam-tong-giam-doc-eximbank-tu-hom-ngay-1-8-188260801151516876.chn)
-
-**Thủ tướng ra chỉ thị mới về chống lừa đảo, ngăn chặn lợi dụng ví điện tử để vi phạm pháp luật**  
-
-The Prime Minister issued a new directive on combating fraud and preventing misuse of digital wallets for illegal purposes. The State Bank of Vietnam was instructed to research, review, and propose amendments to regulations to prevent the use of payment accounts, digital wallets, and mobile money with incorrect holder information for law violations. This reflects regulatory tightening in Vietnam's digital payment sector.
-
-- Source: [CafeF](https://cafef.vn/thu-tuong-ra-chi-thi-moi-ve-chong-lua-dao-ngan-chan-loi-dung-vi-dien-tu-de-vi-pham-phap-luat-188260731153526514.chn)
-
 ## Related coverage
 
 - [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
 - [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
 - [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
-- [Thống đốc Phạm Đức Ấn: Bổ sung dịch vụ tài sản mã hóa vào nhóm báo cáo về phòng, chống rửa tiền](https://cafef.vn/thong-doc-pham-duc-an-bo-sung-dich-vu-tai-san-ma-hoa-vao-nhom-bao-cao-ve-phong-chong-rua-tien-188260714115138788.chn) — CafeF
+- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
 
 ---
 

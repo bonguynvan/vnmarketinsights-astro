@@ -1,8 +1,8 @@
 ---
 title: "Viettel — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Viettel, with neutral summaries and source links."
-publishedDate: "2026-08-11"
-lastUpdated: "2026-08-11"
+publishedDate: "2026-08-13"
+lastUpdated: "2026-08-13"
 category: "Company"
 readingTime: 3
 ---
@@ -47,8 +47,8 @@ Viettel has acquired the 095 mobile phone number prefix, adding to its existing 
 
 - [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
+- [GS. Trần Văn Thọ: Việt Nam chỉ còn 5 năm để làm một điều quan trọng](https://cafef.vn/gs-tran-van-tho-viet-nam-chi-con-5-nam-de-lam-mot-dieu-quan-trong-188260813144416089.chn) — CafeF
 - [Bộ trưởng Bộ Tài chính chỉ rõ 6 nhóm vấn đề khó khăn, vướng mắc của doanh nghiệp](https://cafef.vn/bo-truong-bo-tai-chinh-chi-ro-6-nhom-van-de-kho-khan-vuong-mac-cua-doanh-nghiep-188260718140338349.chn) — CafeF
-- [Gặp Phó Thủ tướng, Chủ tịch hiệp hội hơn 3.000 DN thừa nhận 3 lợi thế của VN trong lĩnh vực 1.000 tỷ USD](https://cafef.vn/gap-pho-thu-tuong-chu-tich-hiep-hoi-hon-3000-dn-thua-nhan-3-loi-the-cua-vn-trong-linh-vuc-1000-ty-usd-188260730164609992.chn) — CafeF
 
 ---
 
