@@ -1,17 +1,23 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (128 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (129 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ**  
+
+A new regulation effective October 1st affects four major state-owned banks: Agribank, Vietcombank, BIDV, and VietinBank. The new decree adjusts the ratio for extracting development investment funds, creating additional capital flexibility for these credit institutions. The changes relate to profit distribution and charter capital increases.
+
+- Source: [CafeF](https://cafef.vn/quy-dinh-moi-voi-agribank-vietcombank-bidv-vietinbank-tu-1-10-lien-quan-phan-phoi-loi-nhuan-tang-von-dieu-le-188260814150605982.chn)
 
 **Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -79,18 +85,12 @@ Agribank maintains a non-performing loan (NPL) ratio of 1.28% as of end-June 202
 
 - Source: [CafeF](https://cafef.vn/no-xau-cua-ngan-hang-agribank-hien-nay-188260807105844412.chn)
 
-**BIDV có thông báo quan trọng đến toàn bộ khách hàng**  
-
-BIDV has issued an important announcement to all customers recommending the activation of facial recognition authentication on its banking application to strengthen security and prevent fraud risks. The notice reflects the bank's push to enhance customer account protection measures. Multiple state-owned banks, including Vietcombank, VietinBank, BIDV, and Agribank, experienced significant staff departures in the first half of 2026.
-
-- Source: [CafeF](https://cafef.vn/bidv-co-thong-bao-quan-trong-den-toan-bo-khach-hang-188260807102233504.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn) — CafeF
 - [Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn) — CafeF
-- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
+- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

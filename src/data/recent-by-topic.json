@@ -1,69 +1,151 @@
 {
-  "generatedAt": "2026-08-13T23:35:51.363075+00:00",
+  "generatedAt": "2026-08-14T23:16:23.058657+00:00",
   "topics": {
     "financial-markets": [
       {
-        "title": "Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng",
-        "url": "https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn",
+        "title": "Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng",
+        "url": "https://cafef.vn/thu-tuong-yeu-cau-giam-thuc-chat-lai-suat-cho-vay-quan-ly-chat-thi-truong-vang-188260811100656873.chn",
         "source": "CafeF",
-        "summary_en": "Multiple Vietnamese banks are planning dividend payouts and bonus share distributions. Banks including MB, BIDV, VIB, HDBank, and VietABank are preparing capital increases involving the issuance of billions of shares. One bank is set to close dividend rights with a 15% cash dividend payout and offer shareholders the opportunity to purchase additional shares at discounted prices.",
-        "summary_vn": "Nhiều ngân hàng Việt Nam đang lên kế hoạch trả cổ tức và phát hành cổ phiếu thưởng. Các ngân hàng bao gồm MB, BIDV, VIB, HDBank và VietABank đang chuẩn bị tăng vốn với phát hành hàng tỷ cổ phiếu. Một ngân hàng sắp chốt quyền nhận cổ tức tỷ lệ 15% và cho phép cổ đông mua thêm cổ phiếu với giá rẻ.",
-        "pubDate": "Wed, 12 Aug 26 15:47:00 +0700",
+        "summary_en": "The Prime Minister instructed credit institutions to continue reducing costs, stabilize lending rates, and substantially decrease lending interest rates. The Prime Minister also directed strict management of the gold market. The article references related policy developments on interest rate reduction and gold market oversight.",
+        "summary_vn": "Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giảm chi phí, ổn định mặt bằng lãi suất, và giảm thực chất lãi suất cho vay. Thủ tướng cũng chỉ đạo quản lý chặt chẽ thị trường vàng. Bài viết liên quan đến các phát triển chính sách về giảm lãi suất và kiểm soát thị trường vàng.",
+        "pubDate": "Fri, 14 Aug 26 06:36:08 +0700",
         "sentiment": 0.0,
-        "importance": 3
+        "importance": 4
       },
       {
-        "title": "Ngày 12/8: Tỷ giá trung tâm tăng 23 đồng",
-        "url": "https://cafef.vn/ngay-12-8-ty-gia-trung-tam-tang-23-dong-188260812093111008.chn",
+        "title": "Giá vàng hôm nay 14/8: Quay đầu giảm gần 50 USD/ounce",
+        "url": "https://cafef.vn/gia-vang-hom-nay-14-8-quay-dau-giam-gan-50-usd-ounce-18826081307511242.chn",
         "source": "CafeF",
-        "summary_en": "On August 12, 2026, the State Bank of Vietnam announced the central exchange rate between Vietnamese Dong (VND) and US Dollar (USD) at 25,539 VND/USD, an increase of 23 VND compared to August 11. The article reports on foreign exchange rate movements. Additional reporting on gold prices is referenced but not detailed in the excerpt.",
-        "summary_vn": "Sáng ngày 12/8/2026, Ngân hàng Nhà nước Việt Nam công bố tỷ giá trung tâm giữa đồng Việt Nam và đô la Mỹ ở mức 25.539 đồng, tăng 23 đồng so với phiên ngày 11/8. Bài viết cập nhật về biến động tỷ giá ngoại tệ. Các thông tin về giá vàng cũng được nhắc tới nhưng chi tiết không được nêu rõ trong đoạn trích này.",
-        "pubDate": "Wed, 12 Aug 26 16:11:00 +0700",
-        "sentiment": 0.0,
+        "summary_en": "Gold prices declined sharply on August 14, with world gold quoted on Kitco at 4,350 USD/ounce, down 49 USD/ounce compared to the previous morning. Domestic gold ring and gold bar prices at major Vietnamese retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải also fell compared to morning levels on August 13. The article reports on intraday gold price movements across global and domestic markets.",
+        "summary_vn": "Giá vàng giảm mạnh vào sáng ngày 14/8, với giá vàng thế giới trên Kitco ở mức 4.350 USD/ounce, giảm 49 USD/ounce so với sáng hôm trước. Giá vàng nhẫn trơn và vàng miếng tại các nhà bán lẻ vàng lớn của Việt Nam như SJC, PNJ, DOJI, Bảo Tín Minh Châu, và Bảo Tín Mạnh Hải cũng giảm so với buổi sáng ngày 13/8. Bài viết đưa tin về biến động giá vàng trong ngày trên thị trường toàn cầu và trong nước.",
+        "pubDate": "Fri, 14 Aug 26 07:34:00 +0700",
+        "sentiment": -0.7,
         "importance": 2
       },
       {
-        "title": "Dòng vốn ngân hàng tiếp sức cho mục tiêu tăng trưởng 2 con số",
-        "url": "https://cafef.vn/dong-von-ngan-hang-tiep-suc-cho-muc-tieu-tang-truong-2-con-so-188260812153856054.chn",
+        "title": "Ngân hàng Nhà nước nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng thời gian tới",
+        "url": "https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn",
         "source": "CafeF",
-        "summary_en": "Four state-owned commercial banks have announced preferential credit programs with a total scale of 220,000 billion dong, directing capital at reasonable costs toward new growth drivers of the economy and small-to-medium enterprises. The initiative supports the goal of achieving double-digit economic growth. Bank capital flows are being structured to facilitate both macroeconomic expansion and enterprise-level development.",
-        "summary_vn": "Bốn ngân hàng thương mại có vốn nhà nước vừa công bố các chương trình tín dụng ưu đãi với tổng quy mô 220.000 tỷ đồng, hướng dòng vốn với chi phí hợp lý vào các động lực tăng trưởng mới của nền kinh tế và doanh nghiệp nhỏ và vừa. Sáng kiến này hỗ trợ mục tiêu đạt tăng trưởng kinh tế hai con số. Dòng vốn ngân hàng được cấu trúc để thúc đẩy cả sự mở rộng vĩ mô và phát triển ở cấp doanh nghiệp.",
-        "pubDate": "Wed, 12 Aug 26 17:15:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Một ngân hàng vừa tăng  lãi suất tiết kiệm",
-        "url": "https://cafef.vn/mot-ngan-hang-vua-tang-manh-lai-suat-tiet-kiem-188260812184925289.chn",
-        "source": "CafeF",
-        "summary_en": "A digital-focused commercial bank has increased its online deposit interest rates across various terms. The bank raised rates for 6-11 month terms by 0.5 percentage points and rates for 12-60 month terms by 0.8 percentage points. The highest interest rate offered now reaches 7.8% per annum.",
-        "summary_vn": "Một ngân hàng thương mại tập trung vào công nghệ số vừa tăng lãi suất tiền gửi trực tuyến ở các kỳ hạn khác nhau. Ngân hàng nâng lãi suất cho các kỳ hạn 6-11 tháng tăng 0,5 điểm phần trăm và kỳ hạn 12-60 tháng tăng 0,8 điểm phần trăm. Lãi suất cao nhất được cung cấp hiện đạt 7,8% mỗi năm.",
-        "pubDate": "Wed, 12 Aug 26 18:59:00 +0700",
+        "summary_en": "Vietnam's State Bank has outlined its guidance for managing interest rates, exchange rates, credit, and gold market operations in the coming months of 2026. The central bank is taking a flexible approach to monetary policy amid limited room for further easing to support economic growth. The bank is also promoting syndicated lending for major projects to meet significant capital demand.",
+        "summary_vn": "Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt lãi suất, tỷ giá, tín dụng và thị trường vàng trong những tháng cuối năm 2026. Bối cảnh dư địa nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng còn hạn chế. Ngân hàng Nhà nước thúc đẩy cho vay hợp vốn dự án lớn để đáp ứng nhu cầu vốn hàng triệu tỷ đồng.",
+        "pubDate": "Fri, 14 Aug 26 08:08:00 +0700",
         "sentiment": 0.0,
-        "importance": 2
+        "importance": 4
       },
       {
-        "title": "Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-        "url": "https://cafef.vn/lai-suat-ngan-hang-12-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260812195920661.chn",
+        "title": "Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay",
+        "url": "https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn",
         "source": "CafeF",
-        "summary_en": "On August 12, 2026, the deposit interest rate landscape showed notable fluctuations among Vietnamese banks. VCBNeo raised its interest rate to 7.8% per annum for 12-month term deposits. The article provides a comparison of deposit rates across major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.",
-        "summary_vn": "Vào ngày 12/8/2026, bình mặn lãi suất huy động tại các ngân hàng Việt Nam xuất hiện biến động đáng chú ý. VCBNeo nâng lãi suất lên 7,8%/năm cho kỳ hạn 12 tháng. Bài viết cung cấp so sánh lãi suất huy động giữa các ngân hàng lớn bao gồm Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank và HDBank.",
-        "pubDate": "Wed, 12 Aug 26 19:57:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
+        "summary_en": "Multiple Vietnamese banks are reducing lending interest rates by 1-2.5% annually to support borrowers. On August 13, the Prime Minister held an important meeting with the State Bank of Vietnam and credit institutions. The government has primarily used fiscal policy measures including tax and fee reductions while streamlining administrative procedures.",
+        "summary_vn": "Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.",
+        "pubDate": "Fri, 14 Aug 26 09:56:00 +0700",
+        "sentiment": 0.5,
+        "importance": 4
       },
       {
-        "title": "Những ngân hàng nào hút tiền gửi nhất Việt Nam hiện nay?",
-        "url": "https://cafef.vn/nhung-ngan-hang-nao-hut-tien-gui-nhat-viet-nam-hien-nay-18826081215541065.chn",
+        "title": "Nam A Bank: lợi nhuận 6 tháng tăng 25% và hướng tới các mục tiêu tăng trưởng mới",
+        "url": "https://cafef.vn/nam-a-bank-loi-nhuan-6-thang-tang-25-va-huong-toi-cac-muc-tieu-tang-truong-moi-188260814111043073.chn",
         "source": "CafeF",
-        "summary_en": "Customer deposits in Vietnam's credit institutions reached a new record of 17.44 million billion dong by the end of June 2026, up 5.3% from the beginning of the year, according to State Bank data. Deposits from individuals increased by 7.1%, more than twice the growth rate of business organizations, and now account for nearly two-thirds of total system deposits. The divergence reflects different investment and savings behavior between the two customer segments.",
-        "summary_vn": "Theo dữ liệu Ngân hàng Nhà nước, tiền gửi của khách hàng tại hệ thống tổ chức tín dụng đạt kỷ lục 17,44 triệu tỷ đồng cuối tháng 6/2026, tăng 5,3% so với đầu năm. Tiền gửi dân cư tăng 7,1%, gấp hơn hai lần tốc độ tăng của khối tổ chức kinh tế, và chiếm gần hai phần ba tổng lượng tiền gửi toàn hệ thống. Sự phân hóa này phản ánh hành vi tiết kiệm và đầu tư khác nhau giữa hai nhóm khách hàng.",
-        "pubDate": "Thu, 13 Aug 26 00:06:00 +0700",
+        "summary_en": "Nam A Bank reported pre-tax profit of 3.159 trillion dong for the first half of the year, representing a 25% increase compared to the same period last year. Total assets reached 452 trillion dong, up 8% from the end of 2025, with a capital adequacy ratio (CAR) approaching 11%, well above regulatory minimums. The results demonstrate the bank's continued growth while prioritizing financial strength consolidation.",
+        "summary_vn": "Ngân hàng Nam Á ghi nhận lợi nhuận trước thuế 3.159 tỷ đồng trong 6 tháng đầu năm, tăng 25% so với cùng kỳ năm trước. Tổng tài sản đạt 452 nghìn tỷ đồng, tăng 8% so với cuối năm 2025, với tỷ lệ an toàn vốn (CAR) tiệm cận 11%, vượt xa mức tối thiểu theo quy định. Kết quả này cho thấy ngân hàng tiếp tục duy trì tăng trưởng đồng thời ưu tiên củng cố năng lực tài chính.",
+        "pubDate": "Fri, 14 Aug 26 13:30:00 +0700",
+        "sentiment": 0.7,
+        "importance": 4
+      },
+      {
+        "title": "Ngân hàng Nhà nước sẽ điều hành tỷ giá linh hoạt, phù hợp với điều kiện thị trường",
+        "url": "https://cafef.vn/ngan-hang-nha-nuoc-se-dieu-hanh-ty-gia-linh-hoat-phu-hop-voi-dieu-kien-thi-truong-188260814151556517.chn",
+        "source": "CafeF",
+        "summary_en": "The State Bank of Vietnam will manage exchange rates flexibly in accordance with market conditions. The state's foreign exchange reserves have increased slightly compared to the same period last year and remain at levels equivalent to the end of 2025. The State Bank has outlined directions for managing interest rates, exchange rates, credit, and gold market operations going forward.",
+        "summary_vn": "Ngân hàng Nhà nước sẽ điều hành tỷ giá một cách linh hoạt phù hợp với điều kiện thị trường. Dự trữ ngoại hối nhà nước tăng nhẹ so với cùng kỳ năm trước và duy trì mức tương đương cuối năm 2025. Ngân hàng Nhà nước đã nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng cho thời gian tới.",
+        "pubDate": "Fri, 14 Aug 26 15:14:00 +0700",
         "sentiment": 0.0,
         "importance": 3
       }
     ],
+    "regulations": [
+      {
+        "title": "Quỹ tín dụng nhân dân phải duy trì tỷ lệ an toàn vốn tối thiểu 8%",
+        "url": "https://cafef.vn/quy-tin-dung-nhan-dan-phai-duy-tri-ty-le-an-toan-von-toi-thieu-8-188260814064148999.chn",
+        "source": "CafeF",
+        "summary_en": "The State Bank of Vietnam has issued Circular 40/2026 establishing minimum capital adequacy ratios and safety standards for people's credit funds. The circular takes effect on November 1, 2026, and supersedes previous regulations from 2015 and 2024. The regulation sets requirements for minimum capital adequacy ratios, liquidity ratios, and short-term funding source ratios.",
+        "summary_vn": "Ngân hàng Nhà nước Việt Nam ban hành Thông tư số 40/2026 quy định các tiêu chuẩn an toàn cho hoạt động của quỹ tín dụng nhân dân. Thông tư có hiệu lực từ ngày 1/11/2026 và thay thế các quy định trước đó từ năm 2015 và 2024. Quy định đặt ra các yêu cầu về tỷ lệ an toàn vốn tối thiểu, tỷ lệ khả năng chi trả và tỷ lệ nguồn vốn ngắn hạn.",
+        "pubDate": "Fri, 14 Aug 26 06:41:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Xuất hiện ngân hàng giảm lãi suất tới 2,5%/năm, đồng hành cùng doanh nghiệp SME mở rộng sản xuất",
+        "url": "https://cafef.vn/xuat-hien-ngan-hang-giam-lai-suat-toi-25-nam-dong-hanh-cung-doanh-nghiep-sme-mo-rong-san-xuat-188260814062441729.chn",
+        "source": "CafeF",
+        "summary_en": "Following a meeting between the Prime Minister and the State Bank of Vietnam with credit institutions, multiple banks announced interest rate reductions to support customer and business access to capital. KienlongBank launched a \"Loan Support - Collective Commitment\" program for small and medium enterprises (SMEs) with interest rate reductions of up to 2.5% per annum. The program addresses capital cost pressures in the current business environment.",
+        "summary_vn": "Sau buổi làm việc của Thủ tướng Chính phủ với Ngân hàng Nhà nước và các tổ chức tín dụng, nhiều ngân hàng đã công bố giảm lãi suất để hỗ trợ khách hàng và doanh nghiệp tiếp cận vốn. KienlongBank triển khai chương trình \"Đồng hành vốn vay - Chung tay gắn kết\" cho doanh nghiệp nhỏ và vừa (SME) với mức giảm lãi suất lên tới 2,5%/năm. Chương trình nhằm giảm áp lực chi phí vốn trong bối cảnh kinh doanh hiện tại.",
+        "pubDate": "Fri, 14 Aug 26 07:24:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
+      {
+        "title": "Thống đốc Phạm Đức Ấn làm Phó Trưởng ban Thường trực Ban Chỉ đạo phòng, chống rửa tiền",
+        "url": "https://cafef.vn/thong-doc-pham-duc-an-lam-pho-truong-ban-thuong-truc-ban-chi-dao-phong-chong-rua-tien-188260814064946754.chn",
+        "source": "CafeF",
+        "summary_en": "The Prime Minister has decided to reorganize the Anti-Money Laundering Steering Committee. State Bank of Vietnam Governor Phạm Đức Ấn has been appointed as Deputy Head of the Steering Committee's Standing Board. This is an administrative restructuring of the government body responsible for combating money laundering activities.",
+        "summary_vn": "Thủ tướng Chính phủ vừa quyết định kiện toàn Ban Chỉ đạo phòng, chống rửa tiền. Thống đốc Ngân hàng Nhà nước Việt Nam Phạm Đức Ấn được bổ nhiệm làm Phó Trưởng ban Thường trực Ban Chỉ đạo. Đây là một điều chỉnh cơ cấu của cơ quan chính phủ chịu trách nhiệm chống rửa tiền.",
+        "pubDate": "Fri, 14 Aug 26 08:43:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Ngân hàng lớn nhất hệ thống cảnh báo",
+        "url": "https://cafef.vn/ngan-hang-lon-nhat-he-thong-canh-bao-188260814141657074.chn",
+        "source": "CafeF",
+        "summary_en": "BIDV (Bank for Investment and Development of Vietnam), the largest bank in the national banking system, issued a warning notification on August 14 regarding fraud cases affecting its customers. The bank reported that customers have been deceived through sophisticated schemes involving impersonation of state agencies, banks, lawyers, and reputable enterprises, with scenarios including social security links, lawyer retainer money solicitation online, and goods/services purchasing fraud.",
+        "summary_vn": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) - ngân hàng lớn nhất hệ thống hiện nay - đã phát hành thông báo cảnh báo vào sáng ngày 14/8 về các trường hợp lừa đảo khách hàng. Ngân hàng ghi nhận rằng khách hàng đã bị lừa qua các thủ đoạn tinh vi gồm mạo danh cơ quan nhà nước, ngân hàng, luật sư và các doanh nghiệp uy tín, với các kịch bản như liên kết an sinh xã hội, luật sư lấy tiền treo trên mạng, và lừa đảo mua bán hàng hóa dịch vụ.",
+        "pubDate": "Fri, 14 Aug 26 14:16:00 +0700",
+        "sentiment": -0.7,
+        "importance": 4
+      },
+      {
+        "title": "Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ",
+        "url": "https://cafef.vn/quy-dinh-moi-voi-agribank-vietcombank-bidv-vietinbank-tu-1-10-lien-quan-phan-phoi-loi-nhuan-tang-von-dieu-le-188260814150605982.chn",
+        "source": "CafeF",
+        "summary_en": "A new regulation effective October 1st affects four major state-owned banks: Agribank, Vietcombank, BIDV, and VietinBank. The new decree adjusts the ratio for extracting development investment funds, creating additional capital flexibility for these credit institutions. The changes relate to profit distribution and charter capital increases.",
+        "summary_vn": "Quy định mới có hiệu lực từ ngày 1/10 ảnh hưởng đến bốn ngân hàng nhà nước lớn: Agribank, Vietcombank, BIDV và VietinBank. Nghị định mới điều chỉnh tỷ lệ trích quỹ đầu tư phát triển, tạo thêm dư địa vốn cho các tổ chức tín dụng này. Những thay đổi liên quan đến phân phối lợi nhuận và tăng vốn điều lệ.",
+        "pubDate": "Fri, 14 Aug 26 15:11:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Lừa mượn tiền để đáo hạn ngân hàng, hai vợ chồng chiếm đoạt gần 15 tỷ đồng",
+        "url": "https://cafef.vn/lua-muon-tien-de-dao-han-ngan-hang-hai-vo-chong-chiem-doat-gan-15-ty-dong-188260814202300118.chn",
+        "source": "CafeF",
+        "summary_en": "On August 14, police in Vinh Long province initiated prosecution of Nguyen Thi Yen Thu (born 1994) for fraud and asset misappropriation. From December 2025 to February 2026, Thu and her husband Vo Tan Phap (born 1995) borrowed money multiple times from two women, claiming to need funds for bank debt settlement. The couple allegedly misappropriated approximately 15 billion Vietnamese dong through this scheme.",
+        "summary_vn": "Ngày 14-8, Công an tỉnh Vĩnh Long khởi tố bị can Nguyễn Thị Yến Thu (sinh năm 1994) về hành vi lừa đảo chiếm đoạt tài sản. Từ tháng 12-2025 đến tháng 2-2026, Thu cùng chồng Võ Tấn Pháp (sinh năm 1995) nhiều lần mượn tiền của hai phụ nữ với lý do đáo hạn ngân hàng. Cặp vợ chồng này được cáo buộc chiếm đoạt gần 15 tỷ đồng thông qua hành vi lừa đảo.",
+        "pubDate": "Fri, 14 Aug 26 20:22:00 +0700",
+        "sentiment": -1.0,
+        "importance": 3
+      }
+    ],
     "payments": [
+      {
+        "title": "ACB mách bạn dòng thẻ phù hợp với nhu cầu chi tiêu: ACB Visa Signature hay ACB Visa Platinum?",
+        "url": "https://cafef.vn/acb-mach-ban-dong-the-phu-hop-voi-nhu-cau-chi-tieu-acb-visa-signature-hay-acb-visa-platinum-188260813224154771.chn",
+        "source": "CafeF",
+        "summary_en": "ACB introduces two credit card product lines—ACB Visa Platinum and ACB Visa Signature—designed to serve different spending patterns and customer needs. The bank positions these cards to match specific consumer behaviors ranging from everyday purchases to travel and international transactions. The article guides customers on selecting the appropriate card based on their spending habits.",
+        "summary_vn": "ACB giới thiệu hai dòng thẻ tín dụng—ACB Visa Platinum và ACB Visa Signature—được thiết kế để phục vụ các nhu cầu chi tiêu và khách hàng khác nhau. Ngân hàng định vị các thẻ này để phù hợp với các hành vi tiêu dùng cụ thể từ mua sắm hàng ngày đến du lịch và giao dịch quốc tế. Bài viết hướng dẫn khách hàng lựa chọn thẻ phù hợp dựa trên thói quen chi tiêu của họ.",
+        "pubDate": "Fri, 14 Aug 26 07:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "VIB One Card: Một chiếc thẻ, mở ra nhiều lớp đặc quyền",
+        "url": "https://cafef.vn/vib-one-card-mot-chiec-the-mo-ra-nhieu-lop-dac-quyen-188260814095038943.chn",
+        "source": "CafeF",
+        "summary_en": "VIB One Card offers multiple benefits integrated into a single payment card, including cost optimization for international transactions, cashback on daily spending, and airport lounge access. Benefits expand based on card tier and customer usage levels. The card is positioned as a gateway to premium travel and spending experiences.",
+        "summary_vn": "VIB One Card tích hợp nhiều quyền lợi trên một chiếc thẻ, bao gồm tối ưu chi phí giao dịch quốc tế, hoàn tiền chi tiêu hàng ngày, và quyền truy cập phòng chờ sân bay. Các quyền lợi được mở rộng dựa trên hạng thẻ và mức độ sử dụng của khách hàng. Thẻ được định vị như một \"tấm vé\" cho các trải nghiệm cao cấp và chi tiêu.",
+        "pubDate": "Fri, 14 Aug 26 09:50:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "9Pay hợp tác với NAPAS triển khai thanh toán xuyên biên giới qua VietQR Global, chuẩn bị tích hợp trên Loa TingTing và 9PayPOS",
         "url": "https://cafef.vn/9pay-hop-tac-voi-napas-trien-khai-thanh-toan-xuyen-bien-gioi-qua-vietqr-global-chuan-bi-tich-hop-tren-loa-tingting-va-9paypos-188260813105442932.chn",
@@ -83,111 +165,19 @@
         "pubDate": "Thu, 13 Aug 26 12:30:00 +0700",
         "sentiment": 0.6,
         "importance": 2
-      },
-      {
-        "title": "Phó Vụ trưởng Vụ thanh toán NHNN: Khách hàng hoàn toàn có thể tự điều chỉnh hạn mức hoặc không đăng ký cơ chế \"thời gian chờ\" khi chuyển tiền",
-        "url": "https://cafef.vn/pho-vu-truong-vu-thanh-toan-nhnn-khach-hang-hoan-toan-co-the-tu-dieu-chinh-han-muc-hoac-khong-dang-ky-co-che-thoi-gian-cho-khi-chuyen-tien-18826081111033062.chn",
-        "source": "CafeF",
-        "summary_en": "The Deputy Head of the State Bank of Vietnam's Payment Department stated that customers can fully adjust transaction limits or opt out of the \"waiting time\" mechanism for fund transfers. The SIMO early warning system has helped prevent 5,500 billion VND in fraudulent transfers. The banking sector is implementing a new waiting time mechanism for suspicious transactions to enhance transaction security.",
-        "summary_vn": "Phó Vụ trưởng Vụ thanh toán NHNN cho biết khách hàng có thể hoàn toàn điều chỉnh hạn mức hoặc không đăng ký cơ chế \"thời gian chờ\" khi chuyển tiền. Hệ thống SIMO cảnh báo sớm đã giúp ngăn chặn 5.500 tỷ đồng chuyển vào tài khoản lừa đảo. Toàn ngành đang triển khai cơ chế thời gian chờ cho các giao dịch nghi ngờ để đảm bảo an toàn.",
-        "pubDate": "Tue, 11 Aug 26 11:03:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "VIB One Card: Từ nhiều chiếc thẻ đến một chiếc thẻ cho mọi nhu cầu chi tiêu",
-        "url": "https://cafef.vn/vib-one-card-tu-nhieu-chiec-the-den-mot-chiec-the-cho-moi-nhu-cau-chi-tieu-188260811100957364.chn",
-        "source": "CafeF",
-        "summary_en": "VIB launched One Card, a unified payment card designed to consolidate multiple card functions and meet various spending needs of modern consumers. The product aims to eliminate the need for customers to carry multiple cards or track different benefits associated with different cards. One Card offers a simplified payment solution covering most everyday spending requirements.",
-        "summary_vn": "VIB ra mắt One Card, một chiếc thẻ thanh toán thống nhất được thiết kế để gộp nhiều chức năng của thẻ khác nhau và đáp ứng các nhu cầu chi tiêu khác nhau của người dùng hiện đại. Sản phẩm nhằm loại bỏ nhu cầu khách hàng phải mang theo nhiều thẻ hoặc theo dõi các ưu đãi khác nhau của từng thẻ. One Card cung cấp một giải pháp thanh toán đơn giản cho hầu hết các nhu cầu chi tiêu hàng ngày.",
-        "pubDate": "Tue, 11 Aug 26 13:00:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Người dân có thể tích hợp tài khoản thanh toán, tài khoản nhận an sinh xã hội trên VNeID",
-        "url": "https://cafef.vn/nguoi-dan-co-the-tich-hop-tai-khoan-thanh-toan-tai-khoan-nhan-an-sinh-xa-hoi-tren-vneid-188260811152520733.chn",
-        "source": "CafeF",
-        "summary_en": "Citizens with level 2 electronic identification accounts can now integrate payment accounts into the VNeID application. Users can select one of their integrated accounts to serve as their social welfare benefit account. The Police Department of Administrative Management on Social Order (C06) under the Ministry of Public Security has introduced this account integration function.",
-        "summary_vn": "Công dân có tài khoản định danh điện tử mức độ 2 có thể tích hợp tài khoản thanh toán vào ứng dụng VNeID. Người dùng có thể chọn một trong các tài khoản đã tích hợp làm tài khoản hưởng an sinh xã hội. Cục Cảnh sát Quản lý hành chính về trật tự xã hội (C06) thuộc Bộ Công an vừa đưa ra chức năng tích hợp này.",
-        "pubDate": "Tue, 11 Aug 26 15:25:00 +0700",
-        "sentiment": 0.2,
-        "importance": 2
-      },
-      {
-        "title": "Khách Trung Quốc, Hàn Quốc đến Việt Nam không cần đổi tiền, quét VNPAY-QR chi tiêu trực tiếp",
-        "url": "https://cafef.vn/khach-trung-quoc-han-quoc-den-viet-nam-khong-can-doi-tien-quet-vnpay-qr-chi-tieu-truc-tiep-188260811165452229.chn",
-        "source": "CafeF",
-        "summary_en": "Starting from August 2026, international visitors from China, South Korea, Thailand, Laos, and Cambodia can use their foreign payment applications when spending in Vietnam through VNPAY-QR codes. This solution allows travelers to avoid currency exchange and pay directly using their mobile applications. The initiative helps businesses expand their customer base and increase revenue.",
-        "summary_vn": "Từ tháng 08/2026, khách quốc tế từ Trung Quốc, Hàn Quốc, Thái Lan, Lào và Campuchia có thể sử dụng ứng dụng thanh toán nước ngoài của mình khi chi tiêu tại Việt Nam thông qua mã VNPAY-QR. Giải pháp này cho phép du khách không cần đổi tiền và thanh toán trực tiếp bằng ứng dụng di động của họ. Việc này giúp các hộ kinh doanh mở rộng tệp khách hàng và tăng doanh thu.",
-        "pubDate": "Tue, 11 Aug 26 17:30:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Một ngân hàng giảm mạnh 2%/năm lãi suất cho vay ngay sau buổi làm việc của Thủ tướng với ngành ngân hàng sáng 13/8",
-        "url": "https://cafef.vn/mot-ngan-hang-giam-manh-2-nam-lai-suat-cho-vay-ngay-sau-buoi-lam-viec-cua-thu-tuong-voi-nganh-ngan-hang-sang-13-8-188260813132146538.chn",
-        "source": "CafeF",
-        "summary_en": "A Vietnamese bank reduced lending interest rates by 2% per annum following a Prime Minister's meeting with the banking sector on August 13, 2026. SACOMBANK announced it would narrow its profit margin to 0.79% to support businesses, effective immediately from August 13 through December 31, 2026. The rate reduction applies to both new and existing customers.",
-        "summary_vn": "Một ngân hàng Việt Nam đã giảm lãi suất cho vay 2% mỗi năm sau cuộc họp của Thủ tướng với lĩnh vực ngân hàng vào ngày 13/8/2026. SACOMBANK công bố sẽ thu hẹp biên lợi nhuận xuống còn 0,79% để hỗ trợ doanh nghiệp, có hiệu lực ngay từ ngày 13/8 đến 31/12/2026. Mức giảm lãi suất áp dụng cho cả khách hàng mới và khách hàng hiện hữu.",
-        "pubDate": "Thu, 13 Aug 26 14:21:00 +0700",
-        "sentiment": 0.5,
-        "importance": 4
-      },
-      {
-        "title": "SACOMBANK chủ động giảm 2% lãi suất cho vay để hỗ trợ doanh nghiệp",
-        "url": "https://cafef.vn/sacombank-chu-dong-giam-2-lai-suat-cho-vay-de-ho-tro-doanh-nghiep-188260813152649777.chn",
-        "source": "CafeF",
-        "summary_en": "SACOMBANK announced proactive measures to reduce lending rates by 2% to support businesses following a meeting between the Prime Minister and the State Bank of Vietnam with credit institutions. The bank reduced its profit margin to 0.79% and implemented specific plans to direct capital flow to priority sectors, business households, and FDI enterprises. SACOMBANK committed to a 2% reduction in lending rates for import-export customers.",
-        "summary_vn": "SACOMBANK chủ động giảm lãi suất cho vay 2% để hỗ trợ doanh nghiệp sau cuộc họp của Thủ tướng với NHNN và các tổ chức tín dụng. Ngân hàng này thu hẹp biên lợi nhuận xuống 0,79% và có các phương án hướng dòng tiền vào các lĩnh vực ưu tiên, hộ kinh doanh và doanh nghiệp FDI. SACOMBANK cam kết giảm 2% lãi suất cho khách hàng xuất nhập khẩu.",
-        "pubDate": "Thu, 13 Aug 26 15:26:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "Dùng tài khoản cá nhân 'né' thuế, chủ doanh nghiệp vàng bạc bị khởi tố",
-        "url": "https://cafef.vn/dung-tai-khoan-ca-nhan-ne-thue-chu-doanh-nghiep-vang-bac-bi-khoi-to-188260813153357355.chn",
-        "source": "CafeF",
-        "summary_en": "A female business owner in Dak Lak province used personal bank accounts to receive payments from gold, silver, and jewelry trading activities without reporting to accounting staff, resulting in tax evasion of over 430 million dong. She has been prosecuted for this violation. The case highlights methods used to conceal business income from tax authorities.",
-        "summary_vn": "Một nữ chủ doanh nghiệp tại tỉnh Đắk Lắk dùng tài khoản ngân hàng cá nhân để nhận tiền từ hoạt động mua bán vàng, bạc, trang sức mà không báo cáo với nhân viên kế toán, gây ra trốn thuế hơn 430 triệu đồng. Cô ta đã bị khởi tố về hành vi này. Vụ án cho thấy các phương pháp được sử dụng để che giấu doanh thu kinh doanh khỏi các cơ quan thuế.",
-        "pubDate": "Thu, 13 Aug 26 16:34:00 +0700",
-        "sentiment": -0.8,
-        "importance": 3
-      },
-      {
-        "title": "Họp với các ngân hàng, Thủ tướng Lê Minh Hưng chỉ đạo gì về lãi suất, tín dụng, tỷ giá,...?",
-        "url": "https://cafef.vn/hop-voi-cac-ngan-hang-thu-tuong-le-minh-hung-chi-dao-gi-ve-lai-suat-tin-dung-ty-gia-188260813183154578.chn",
-        "source": "CafeF",
-        "summary_en": "Prime Minister Lê Minh Hưng chaired a working session with banks on August 13 at the Government office. The PM directed the State Bank of Vietnam to manage credit growth aligned with 2026 targets while maintaining flexibility rather than treating it as a hard ceiling. Credit management must be proactive and adaptive to actual conditions, ensuring capital reaches the right sectors, at the right time, to the right recipients, for the right purposes, at reasonable cost.",
-        "summary_vn": "Sáng 13/8, tại trụ sở Chính phủ, Thủ tướng Lê Minh Hưng chủ trì cuộc làm việc với các ngân hàng. Thủ tướng yêu cầu NHNN điều hành tăng trưởng tín dụng theo mục tiêu năm 2026 nhưng không coi đây là \"trần cứng\" trong mọi thời điểm. Việc điều hành phải chủ động, linh hoạt theo diễn biến thực tế, bảo đảm vốn đến đúng lĩnh vực, đúng thời điểm, đúng đối tượng, đúng mục đích với chi phí hợp lý.",
-        "pubDate": "Thu, 13 Aug 26 19:26:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Sửa quy định về sử dụng tài khoản ngoại tệ, tài khoản đồng Việt Nam của tổ chức tín dụng nước ngoài",
-        "url": "https://cafef.vn/sua-quy-dinh-ve-su-dung-tai-khoan-ngoai-te-tai-khoan-dong-viet-nam-cua-to-chuc-tin-dung-nuoc-ngoai-188260813201850362.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's State Bank (NHNN) has issued Circular 39/2026/TT-NHNN to amend and supplement provisions of Circular 16/2014/TT-NHNN, which provides guidance on the use of foreign currency and Vietnamese dong accounts for both resident and non-resident customers at licensed banks. The new circular takes effect from September 19, 2026.",
-        "summary_vn": "Ngân hàng Nhà nước Việt Nam (NHNN) vừa ban hành Thông tư số 39/2026/TT-NHNN sửa đổi, bổ sung một số điều của Thông tư số 16/2014/TT-NHNN, hướng dẫn sử dụng tài khoản ngoại tệ và tài khoản đồng Việt Nam cho người cư trú và người không cư trú tại ngân hàng được phép. Thông tư số 39 có hiệu lực kể từ ngày 19/9/2026.",
-        "pubDate": "Thu, 13 Aug 26 20:18:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Hà Nội hoàn thành xử lý 71 trụ sở xã, phường sau sắp xếp",
-        "url": "https://cafef.vn/ha-noi-hoan-thanh-xu-ly-71-tru-so-xa-phuong-sau-sap-xep-188260812215308979.chn",
-        "source": "CafeF",
-        "summary_en": "Hanoi has completed the processing and disposition of 71 commune and ward headquarters following administrative reorganization and streamlining of government apparatus. Various municipal departments and agencies have completed the issuance or reporting of decisions regarding these facilities to competent authorities. The article indicates this is part of a broader administrative restructuring effort in the city.",
-        "summary_vn": "Hà Nội hoàn thành xử lý 71 trụ sở xã, phường sau khi thực hiện sắp xếp đơn vị hành chính và tinh gọn bộ máy. Các sở, ban, ngành, đơn vị trực thuộc UBND Thành phố đã rà soát và hoàn thành ban hành hoặc báo cáo cấp có thẩm quyền các quyết định xử lý đối với những trụ sở này. Đây là một phần của quá trình tái cấu trúc hành chính lớn hơn trong thành phố.",
-        "pubDate": "Wed, 12 Aug 26 21:52:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
       }
     ],
     "consumers": [
+      {
+        "title": "Giá vàng miếng, vàng nhẫn sáng 14/8 tiếp tục đà giảm",
+        "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-sang-14-8-tiep-tuc-da-giam-188260814100707126.chn",
+        "source": "CafeF",
+        "summary_en": "Domestic gold bar and ring prices continued their downward trend on the morning of August 14, declining by 1-1.6 million VND per tael compared to the previous morning. The excerpt references price movements across major gold retailers including SJC, Bảo Tín Mạnh Hải, DOJI, and others over several days in early August 2026. Gold prices showed mixed volatility during this period, with some increases of 4-5 million VND per tael recorded on August 9 before subsequent declines.",
+        "summary_vn": "Giá vàng miếng và vàng nhẫn trong nước sáng ngày 14/8 tiếp tục xu hướng giảm với mức giảm từ 1-1,6 triệu đồng mỗi lượng so với sáng hôm trước. Bài viết tham chiếu các biến động giá tại các nhà bán lẻ vàng chính như SJC, Bảo Tín Mạnh Hải, DOJI và các cơ sở khác trong những ngày đầu tháng 8 năm 2026. Giá vàng ghi nhận biến động không ổn định trong giai đoạn này, với mức tăng 4-5 triệu đồng mỗi lượng được ghi nhận vào ngày 9/8 trước khi giảm trong những ngày tiếp theo.",
+        "pubDate": "Fri, 14 Aug 26 10:15:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
       {
         "title": "Giá vàng nhẫn trơn, vàng miếng chiều 13/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt giảm so với buổi sáng",
         "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-13-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-giam-so-voi-buoi-sang-188260813073047416.chn",
@@ -199,59 +189,57 @@
         "importance": 2
       }
     ],
-    "ecommerce": [
+    "platforms": [
       {
-        "title": "Shopee bán hàng ầm ầm, nhưng “gà đẻ trứng vàng” của công ty mẹ Singapore lại là một mảng khác",
-        "url": "https://cafef.vn/shopee-ban-hang-am-am-nhung-ga-de-trung-vang-cua-cong-ty-me-singapore-lai-la-mot-mang-khac-188260814000337343.chn",
+        "title": "Mỗi tháng, hơn 25 tỷ U-Point được quy đổi từ lợi nhuận Techcombank Sinh Lời Tự Động",
+        "url": "https://cafef.vn/moi-thang-hon-25-ty-u-point-duoc-quy-doi-tu-loi-nhuan-techcombank-sinh-loi-tu-dong-188260814184014453.chn",
         "source": "CafeF",
-        "summary_en": "Sea Limited, Singapore's technology conglomerate and parent company of Shopee, reported revenue of 7.8 billion USD and net profit of 458.1 million USD in Q2 2026. The company's largest profit contributor is reportedly not its e-commerce division. Sea Limited's Q2 2026 revenue grew 48.1% compared to the same period last year.",
-        "summary_vn": "Sea Limited, tập đoàn công nghệ Singapore và công ty mẹ của Shopee, ghi nhận doanh thu 7,8 tỷ USD và lợi nhuận ròng 458,1 triệu USD trong quý 2/2026. Mảng kinh doanh mang lại lợi nhuận lớn nhất cho tập đoàn không phải là thương mại điện tử. Doanh thu quý 2/2026 của Sea Limited tăng 48,1% so với cùng kỳ năm trước.",
-        "pubDate": "Fri, 14 Aug 26 00:03:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Bắc Ninh mở 'siêu khu kinh tế' công nghệ cao 10.000 ha",
-        "url": "https://cafef.vn/bac-ninh-mo-sieu-khu-kinh-te-cong-nghe-cao-10000-ha-188260813110917069.chn",
-        "source": "CafeF",
-        "summary_en": "Bắc Ninh province plans to establish a \"super economic zone\" spanning approximately 10,000 hectares to support its aspiration to become a centrally-controlled city. The zone will focus on high-tech industrial parks specializing in digital technology, semiconductors, artificial intelligence, and data centers. This development aims to create new growth drivers for the province.",
-        "summary_vn": "Tỉnh Bắc Ninh lên kế hoạch thành lập \"siêu khu kinh tế\" rộng khoảng 10.000 ha nhằm hỗ trợ mục tiêu trở thành thành phố trực thuộc Trung ương. Khu vực này sẽ tập trung vào các khu công nghiệp công nghệ cao chuyên biệt hóa trong công nghệ số, bán dẫn, trí tuệ nhân tạo và trung tâm dữ liệu. Sáng kiến nhằm tạo ra những động lực tăng trưởng mới cho tỉnh.",
-        "pubDate": "Thu, 13 Aug 26 13:33:00 +0700",
-        "sentiment": 0.6,
-        "importance": 3
+        "summary_en": "Techcombank's automatic savings product (Sinh Lời Tự Động) processed over 25 billion U-Points monthly through its \"Optimize Benefits with U-Point\" feature. As of August 2026, nearly 500,000 customers had enrolled in the U-Point conversion feature, with a total of 312 billion U-Points distributed. The feature allows customers to convert interest earnings from the savings product into U-Points at a 1:1 ratio.",
+        "summary_vn": "Sản phẩm tiết kiệm tự động của Techcombank xử lý hơn 25 tỷ U-Point hàng tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\". Đến tháng 8/2026, gần 500 nghìn khách hàng đã đăng ký tính năng chuyển đổi U-Point, với tổng cộng 312 tỷ U-Point được chi trả. Tính năng này cho phép khách hàng chuyển đổi lợi nhuận từ sản phẩm tiết kiệm sang U-Point theo tỷ lệ 1:1.",
+        "pubDate": "Fri, 14 Aug 26 19:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
       }
     ],
     "logistics": [
       {
-        "title": "Tuyến đường sắt 9.000 tỷ trên đảo của VN sắp lập kỷ lục chưa từng có: Thi công thần tốc chỉ 17 tháng",
-        "url": "https://cafef.vn/tuyen-duong-sat-9000-ty-tren-dao-cua-vn-sap-lap-ky-luc-chua-tung-co-thi-cong-than-toc-chi-17-thang-188260812205726198.chn",
+        "title": "Cận cảnh tuyến đường sẽ tách dòng xe container khỏi đô thị tại TP.HCM",
+        "url": "https://cafef.vn/can-canh-tuyen-duong-se-tach-dong-xe-container-khoi-do-thi-tai-tphcm-188260814085225428.chn",
         "source": "CafeF",
-        "summary_en": "A 9,000 billion VND railway line on a Vietnamese island is approaching completion in an exceptionally fast construction timeline of 17 months. According to Trần Anh Tuấn, Vice General Director of Vietnam Railways Corporation (VNR), no project has been executed as quickly as this railway line. The article indicates this pace represents an unprecedented record for railway construction in Vietnam.",
-        "summary_vn": "Tuyến đường sắt trị giá 9.000 tỷ đồng trên một hòn đảo của Việt Nam đang tiến gần đến hoàn thành với tiến độ xây dựng nhanh chóng chỉ 17 tháng. Theo ông Trần Anh Tuấn, Phó Tổng Giám đốc Tập đoàn Đường sắt Việt Nam (VNR), chưa từng có dự án nào được thực hiện nhanh bằng tuyến đường sắt này. Bài viết cho thấy tốc độ này đại diện cho một kỷ lục chưa từng có trong lịch sử xây dựng đường sắt ở Việt Nam.",
-        "pubDate": "Wed, 12 Aug 26 21:20:00 +0700",
-        "sentiment": 0.6,
-        "importance": 4
+        "summary_en": "The Cát Lái - Phú Hữu inter-port road project in Ho Chi Minh City is planned to span nearly 6 km with 12 lanes and a total investment of 8.782 trillion VND, with construction expected to begin in the fourth quarter of 2026 and completion in 2029. Cát Lái Port is Vietnam's largest container port, handling approximately 50% of cargo traffic through the country's port system. The project aims to separate container truck traffic from urban areas in eastern Ho Chi Minh City, reducing pressure on the regional transportation network.",
+        "summary_vn": "Dự án đường liên cảng Cát Lái - Phú Hữu tại TP.HCM dài gần 6 km với 12 làn xe, tổng vốn đầu tư 8.782 tỷ đồng, dự kiến khởi công quý IV/2026 và hoàn thành năm 2029. Cảng Cát Lái là cảng container lớn nhất cả nước, đứng thứ nhất về xử lý hàng hóa với khoảng 50% thị phần thông qua hệ thống cảng biển Việt Nam. Dự án nhằm tách xe container khỏi khu đô thị vùng Đông TP.HCM, giảm áp lực giao thông cho mạng lưới khu vực.",
+        "pubDate": "Fri, 14 Aug 26 10:11:00 +0700",
+        "sentiment": 0.3,
+        "importance": 3
       },
       {
-        "title": "Khánh thành Trạm dừng nghỉ TTC Châu Thành trên tuyến cao tốc Vĩnh Hảo – Phan Thiết",
-        "url": "https://cafef.vn/khanh-thanh-tram-dung-nghi-ttc-chau-thanh-tren-tuyen-cao-toc-vinh-hao-phan-thiet-188260813091833266.chn",
+        "title": "Bắt đầu thu phí tại 5 đoạn tuyến cao tốc Bắc - Nam",
+        "url": "https://cafef.vn/bat-dau-thu-phi-tai-5-doan-tuyen-cao-toc-bac-nam-188260814101334798.chn",
         "source": "CafeF",
-        "summary_en": "TTC Châu Thành rest stop was officially inaugurated on August 11, 2026, at Km 205+092 on the Vĩnh Hảo – Phan Thiết expressway. The facility spans over 13 hectares and provides services and amenities for travelers in both directions on the expressway. This marks the completion of a comprehensive service complex for road users and tourists.",
-        "summary_vn": "Trạm dừng nghỉ TTC Châu Thành được khánh thành chính thức vào ngày 11/8/2026, tại Km 205+092 trên tuyến cao tốc Vĩnh Hảo – Phan Thiết. Cơ sở này có quy mô hơn 13 ha và cung cấp dịch vụ, tiện ích cho khách du lịch đi lại theo cả hai chiều trên cao tốc. Đây là dấu mốc hoàn thiện một tổ hợp dịch vụ toàn diện cho người sử dụng đường cao tốc.",
-        "pubDate": "Thu, 13 Aug 26 10:16:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      }
-    ],
-    "platforms": [
+        "summary_en": "Vietnam's Road Administration will begin charging tolls on five sections of the North-South expressway from Quang Ngai to Nha Trang starting at 2 PM on August 14. The toll rate is set at 900 Vietnamese dong per kilometer. This toll collection marks the formal implementation of user fees for these state-invested highway sections.",
+        "summary_vn": "Cục Đường bộ Việt Nam sẽ bắt đầu thu phí sử dụng đường trên năm đoạn tuyến cao tốc Bắc - Nam từ Quảng Ngãi đến Nha Trang từ 14h ngày 14/8. Mức phí được quy định là 900 đồng trên mỗi km. Đây là sự triển khai chính thức việc thu phí sử dụng các đoạn cao tốc có vốn đầu tư nhà nước này.",
+        "pubDate": "Fri, 14 Aug 26 10:34:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
       {
-        "title": "Việt Nam - Singapore phấn đấu đạt 30 VSIP trong năm 2026",
-        "url": "https://cafef.vn/viet-nam-singapore-phan-dau-dat-30-vsip-trong-nam-2026-188260813134028833.chn",
+        "title": "Từ 14h hôm nay, 5 đoạn cao tốc Bắc - Nam qua miền Trung bắt đầu thu phí",
+        "url": "https://cafef.vn/tu-14h-hom-nay-5-doan-cao-toc-bac-nam-qua-mien-trung-bat-dau-thu-phi-188260814134108513.chn",
         "source": "CafeF",
-        "summary_en": "Vietnam and Singapore are working towards increasing Vietnam-Singapore Industrial Parks (VSIP) to 30 units by 2026. Prime Minister Lê Minh Hưng requested Singapore prioritize upgrading the network of Vietnam-Singapore industrial parks during a meeting with Singapore's Ambassador Rajpal Singh on August 12. The meeting occurred at the Government headquarters to mark the ambassador's courtesy visit.",
-        "summary_vn": "Việt Nam và Singapore phấn đấu đạt mốc 30 khu công nghiệp Việt Nam - Singapore (VSIP) trong năm 2026. Thủ tướng Lê Minh Hưng đề nghị Singapore ưu tiên nâng cấp mạng lưới các khu công nghiệp Việt Nam - Singapore trong cuộc tiếp Đại sứ Singapore Rajpal Singh vào chiều ngày 12/8. Cuộc gặp diễn ra tại Trụ sở Chính phủ nhân dịp chào xã giao của vị Đại sứ mới.",
-        "pubDate": "Thu, 13 Aug 26 13:44:27 +0700",
-        "sentiment": 0.6,
+        "summary_en": "Five sections of the North-South expressway passing through central Vietnam, spanning from Quang Ngai to Khanh Hoa, officially began electronic toll collection (ETC) from 2 PM on the date of publication. These five component projects are part of the eastern North-South expressway corridor. The toll collection system is electronic and operates without requiring vehicles to stop.",
+        "summary_vn": "Năm đoạn cao tốc Bắc - Nam đi qua miền Trung từ Quảng Ngãi đến Khánh Hòa chính thức bắt đầu thu phí điện tử không dừng (ETC) từ 14h cùng ngày. Các dự án thành phần này là một phần của tuyến cao tốc Bắc - Nam phía Đông. Hệ thống thu phí được triển khai theo hình thức điện tử và không yêu cầu xe dừng lại.",
+        "pubDate": "Fri, 14 Aug 26 14:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Bao nhiêu chuyến bay ở Tân Sơn Nhất bị ảnh hưởng vì 3 con diều?",
+        "url": "https://cafef.vn/bao-nhieu-chuyen-bay-o-tan-son-nhat-bi-anh-huong-vi-3-con-dieu-188260814150807294.chn",
+        "source": "CafeF",
+        "summary_en": "Kites flown by residents near Tan Son Nhat airport in Ho Chi Minh City on the evening of August 13 caused disruptions to multiple flights. Four departing flights and seven arriving flights were affected, with flight VN595 diverting to Cam Ranh airport for landing.",
+        "summary_vn": "Các con diều được thả diều gắn đèn chớp gần sân bay Tân Sơn Nhất tối ngày 13/8 đã gây ảnh hưởng đến nhiều chuyến bay. Có 4 chuyến bay chờ khởi hành và 7 chuyến bay đến bị ảnh hưởng, trong đó chuyến VN595 phải chuyển hướng hạ cánh xuống Cam Ranh.",
+        "pubDate": "Fri, 14 Aug 26 15:07:00 +0700",
+        "sentiment": -0.8,
         "importance": 3
       }
     ]

@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 33/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 33 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,7 +11,9 @@ readingTime: 15
 
 ## Tổng quan
 
-Thị trường tài chính Việt Nam tuần này ghi nhận nhiều diễn biến đáng chú ý: lĩnh vực ngân hàng triển khai các chương trình tín dụng ưu đãi quy mô lớn để hỗ trợ kinh tế và doanh nghiệp nhỏ vừa, đồng thời các giải pháp thanh toán QR xuyên biên giới được tích hợp nhằm phục vụ du khách quốc tế. Bên cạnh đó, Việt Nam tiếp tục thu hút vốn đầu tư nước ngoài với mức tăng 58% so với cùng kỳ năm trước, trong khi các công ty công nghệ và thanh toán điện tử tăng cường các biện pháp bảo mật chống lừa đảo trực tuyến.
+# Tổng quan thị trường Việt Nam tuần này
+
+Thị trường tài chính Việt Nam trong tuần ghi nhận các động thái chính sách từ phía Chính phủ và Ngân hàng Nhà nước hướng tới giảm lãi suất cho vay, ổn định tỷ giá và kiểm soát nhập siêu, nhằm hỗ trợ tăng trưởng kinh tế. Tuy nhiên, lĩnh vực này cũng đối mặt với thách thức từ vụ đánh cắp thông tin gần 3,9 triệu thẻ tín dụng và các hành vi lừa đảo qua mạng được các ngân hàng lớn cảnh báo. Bên cạnh đó, vốn đầu tư nước ngoài (FDI) tiếp tục tăng mạnh với 38,06 tỷ USD đăng ký trong 7 tháng đầu năm, trong khi các dự án hạ tầng lớn như tuyến đường sắt và các nỗ lực số hóa thanh toán cũng được triển khai.
 
 ## Thanh toán
 
@@ -27,13 +29,6 @@ Từ tháng 08/2026, khách quốc tế từ Trung Quốc, Hàn Quốc, Thái La
 
 - Số liệu chính: Implementation date: August 2026
 - Nguồn: [CafeF](https://cafef.vn/khach-trung-quoc-han-quoc-den-viet-nam-khong-can-doi-tien-quet-vnpay-qr-chi-tieu-truc-tiep-188260811165452229.chn)
-
-**Mốc quan trọng 06/8/2026: Cùng với BIDV và Weixin Pay, NAPAS đã hoàn thiện kết nối thanh toán xuyên biên giới với thị trường hơn 1,4 tỷ dân**  
-
-Ngày 06/8/2026, NAPAS, Weixin Pay và BIDV phối hợp công bố mở rộng triển khai dịch vụ thanh toán QR xuyên biên giới giữa Việt Nam và Trung Quốc. Sự kiện đánh dấu cột mốc quan trọng trong quá trình mở rộng kết nối thanh toán với thị trường hơn 1,4 tỷ dân. Đây là bước tiến trong việc mở rộng hạ tầng thanh toán xuyên biên giới.
-
-- Số liệu chính: Target market population: over 1.4 billion people
-- Nguồn: [CafeF](https://cafef.vn/moc-quan-trong-06-8-2026-cung-voi-bidv-va-weixin-pay-napas-da-hoan-thien-ket-noi-thanh-toan-xuyen-bien-gioi-voi-thi-truong-hon-14-ty-dan-188260806151736178.chn)
 
 ## Logistics
 
@@ -59,6 +54,12 @@ Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin, với hơn 2,5
 
 - Số liệu chính: Credit cards with stolen information: 3.9 million; Malicious SMS messages distributed: 2.5 million messages; Estimated damages: 1.9 billion USD; Time period: May and June
 - Nguồn: [CafeF](https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn)
+
+**Ngân hàng lớn nhất hệ thống cảnh báo**  
+
+Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) - ngân hàng lớn nhất hệ thống hiện nay - đã phát hành thông báo cảnh báo vào sáng ngày 14/8 về các trường hợp lừa đảo khách hàng. Ngân hàng ghi nhận rằng khách hàng đã bị lừa qua các thủ đoạn tinh vi gồm mạo danh cơ quan nhà nước, ngân hàng, luật sư và các doanh nghiệp uy tín, với các kịch bản như liên kết an sinh xã hội, luật sư lấy tiền treo trên mạng, và lừa đảo mua bán hàng hóa dịch vụ.
+
+- Nguồn: [CafeF](https://cafef.vn/ngan-hang-lon-nhat-he-thong-canh-bao-188260814141657074.chn)
 
 **Một ngân hàng giảm mạnh 2%/năm lãi suất cho vay ngay sau buổi làm việc của Thủ tướng với ngành ngân hàng sáng 13/8**  
 
@@ -93,21 +94,14 @@ Cơ quan điều tra Công an TPHCM đã hoàn tất kết luận điều tra v�
 
 - Nguồn: [CafeF](https://cafef.vn/de-nghi-truy-to-56-bi-can-trong-duong-day-toi-pham-nup-bong-mua-ban-no-1882608091739327.chn)
 
-**Chính phủ đề xuất giảm 30% thuế thu nhập cho hộ kinh doanh, doanh nghiệp có doanh thu đến 10 tỷ đồng**  
-
-Chính phủ đang chuẩn bị trình Quốc hội xem xét giảm 30% thuế thu nhập cho hộ, cá nhân kinh doanh và doanh nghiệp có doanh thu đến 10 tỷ đồng trong năm 2026-2027. Biện pháp này nhằm hỗ trợ các doanh nghiệp nhỏ và vừa trong giai đoạn này. Đề xuất vẫn đang trong quá trình chuẩn bị của chính phủ và chờ phê duyệt của quốc hội.
-
-- Số liệu chính: Proposed income tax reduction percentage: 30%; Revenue threshold for eligible businesses: 10 billion VND VND; Implementation period: 2026-2027
-- Nguồn: [CafeF](https://cafef.vn/chinh-phu-de-xuat-giam-30-thue-thu-nhap-cho-ho-kinh-doanh-doanh-nghiep-co-doanh-thu-den-10-ty-dong-188260808132639766.chn)
-
-**Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu dưới 10 tỷ đồng**  
-
-Bộ Tài chính đề xuất giảm 30% thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp cho năm 2026 và 2027 dành cho hộ kinh doanh, cá nhân kinh doanh và doanh nghiệp có doanh thu dưới 10 tỷ đồng. Biện pháp này nhằm hỗ trợ các doanh nghiệp siêu nhỏ và nhỏ trong giai đoạn này. Đề xuất này là một phần của những điều chỉnh chính sách thuế rộng lớn hơn cho các năm tài chính sắp tới.
-
-- Số liệu chính: Proposed tax reduction rate: 30% percent; Revenue threshold for eligibility: 10 billion VND; Applicable fiscal years: 2026, 2027 years
-- Nguồn: [CafeF](https://cafef.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-duoi-10-ty-dong-188260807160012158.chn)
-
 ## Chứng khoán
+
+**Nam A Bank: lợi nhuận 6 tháng tăng 25% và hướng tới các mục tiêu tăng trưởng mới**  
+
+Ngân hàng Nam Á ghi nhận lợi nhuận trước thuế 3.159 tỷ đồng trong 6 tháng đầu năm, tăng 25% so với cùng kỳ năm trước. Tổng tài sản đạt 452 nghìn tỷ đồng, tăng 8% so với cuối năm 2025, với tỷ lệ an toàn vốn (CAR) tiệm cận 11%, vượt xa mức tối thiểu theo quy định. Kết quả này cho thấy ngân hàng tiếp tục duy trì tăng trưởng đồng thời ưu tiên củng cố năng lực tài chính.
+
+- Số liệu chính: Pre-tax profit (6 months): 3.159 trillion dong; Pre-tax profit growth YoY: 25 %; Total assets: 452 thousand billion dong; Asset growth from end-2025: 8 %
+- Nguồn: [CafeF](https://cafef.vn/nam-a-bank-loi-nhuan-6-thang-tang-25-va-huong-toi-cac-muc-tieu-tang-truong-moi-188260814111043073.chn)
 
 **VPBank tăng tốc từ hoạt động cốt lõi**  
 
@@ -115,14 +109,40 @@ VPBank ghi nhận lợi nhuận kỷ lục từ hoạt động cốt lõi trong 
 
 - Nguồn: [CafeF](https://cafef.vn/vpbank-tang-toc-tu-hoat-dong-cot-loi-188260810152719529.chn)
 
-**EVN có lãi trong 6 tháng đầu năm, xóa sạch lỗ lũy kế từ năm 2022**  
-
-Tập đoàn Điện lực Việt Nam (EVN) báo cáo có lãi trong nửa đầu năm 2026 và xóa sạch lỗ lũy kế từ năm 2022. Tập đoàn duy trì cấp điện an toàn, ổn định cho cả nước đồng thời hỗ trợ phát triển kinh tế xã hội. Tổng sản lượng điện sản xuất và nhập khẩu trong nửa đầu năm đạt 171,54 tỉ kWh, tăng 9,8%.
-
-- Số liệu chính: Total electricity production and imports (first half of 2026): 171.54 billion kWh; Increase in electricity production and imports: 9.8 %
-- Nguồn: [TuoiTre](https://tuoitre.vn/evn-co-lai-trong-6-thang-dau-nam-xoa-sach-lo-luy-ke-tu-nam-2022-100260808072813687.htm)
-
 ## Kinh tế vĩ mô
+
+**Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng**  
+
+Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giảm chi phí, ổn định mặt bằng lãi suất, và giảm thực chất lãi suất cho vay. Thủ tướng cũng chỉ đạo quản lý chặt chẽ thị trường vàng. Bài viết liên quan đến các phát triển chính sách về giảm lãi suất và kiểm soát thị trường vàng.
+
+- Nguồn: [CafeF](https://cafef.vn/thu-tuong-yeu-cau-giam-thuc-chat-lai-suat-cho-vay-quan-ly-chat-thi-truong-vang-188260811100656873.chn)
+
+**Ngân hàng Nhà nước nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng thời gian tới**  
+
+Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt lãi suất, tỷ giá, tín dụng và thị trường vàng trong những tháng cuối năm 2026. Bối cảnh dư địa nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng còn hạn chế. Ngân hàng Nhà nước thúc đẩy cho vay hợp vốn dự án lớn để đáp ứng nhu cầu vốn hàng triệu tỷ đồng.
+
+- Nguồn: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn)
+
+**Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay**  
+
+Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.
+
+- Số liệu chính: Interest rate reduction range: 1-2.5 %/năm; Date of PM meeting with banking sector: 13/8 date
+- Nguồn: [CafeF](https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn)
+
+**Thúc đẩy xuất khẩu, kiểm soát nhập siêu**  
+
+Việt Nam tập trung thúc đẩy xuất khẩu song song kiểm soát nhập siêu như một chiến lược chính để bảo đảm tự chủ kinh tế và nâng cao cạnh tranh. Nhập siêu từ đầu năm đã vượt 22 tỷ USD, với chênh lệch cán cân xuất-nhập khẩu ở mức hơn 5%. Kiểm soát cân bằng này được đánh giá là nhân tố quan trọng góp phần vào mục tiêu tăng trưởng hai con số của năm nay.
+
+- Số liệu chính: Trade deficit (nhập siêu): over $22 billion USD; Import-export balance gap: over 5% %
+- Nguồn: [CafeF](https://cafef.vn/thuc-day-xuat-khau-kiem-soat-nhap-sieu-18826081411131225.chn)
+
+**Nhập siêu hơn 20 tỷ USD trong 7 tháng, Phó Thủ tướng yêu cầu làm việc với doanh nghiệp chênh lệch lớn giữa nhập khẩu và xuất khẩu**  
+
+Việt Nam ghi nhận nhập siêu hơn 20 tỷ USD trong 7 tháng đầu năm. Phó Thủ tướng đã chỉ đạo Bộ Công thương làm việc với các doanh nghiệp và tập đoàn có chênh lệch lớn giữa kim ngạch nhập khẩu và xuất khẩu, đặc biệt trong lĩnh vực máy tính và linh kiện điện tử. Chính phủ đang tìm kiếm sự làm rõ về nguyên nhân nhập khẩu cũng như tiến độ sản xuất và xuất khẩu của các doanh nghiệp này tại Việt Nam.
+
+- Số liệu chính: Trade deficit in 7 months: over 20 billion USD
+- Nguồn: [CafeF](https://cafef.vn/nhap-sieu-hon-20-ty-usd-trong-7-thang-pho-thu-tuong-yeu-cau-lam-viec-voi-doanh-nghiep-chenh-lech-lon-giua-nhap-khau-va-xuat-khau-188260814142042359.chn)
 
 **Lộ diện địa phương duy nhất ghi nhận thu hút FDI vượt mốc 10 tỷ USD trong 7 tháng 2026**  
 
@@ -164,27 +184,6 @@ Giá vàng tăng vọt hơn 100 USD/ounce vào sáng ngày 8/8, đạt mức 4.3
 
 - Số liệu chính: Gold price increase in early trading: 100 USD/ounce; Spot gold price: 4341 USD/ounce; Weekly gold price increase: 300 USD/ounce; Highest level in: 2 months
 - Nguồn: [CafeF](https://cafef.vn/gia-vang-tang-vot-nha-dau-tu-vui-mung-tro-lai-188260808072139274.chn)
-
-**Lãi suất huy động leo thang, ngân hàng chịu sức ép kép**  
-
-Lãi suất huy động tiếp tục tăng ở nhiều kỳ hạn tại các ngân hàng Việt Nam, với lãi suất ngắn hạn áp sát mức 4,75%/năm. Các ngân hàng tăng lãi suất và tung các ưu đãi ở kỳ hạn dài để đưa lãi suất thực nhận lên trên 9%/năm. Xu hướng này dự kiến sẽ tiếp tục khi tín dụng tăng nhanh hơn huy động vốn.
-
-- Số liệu chính: Short-term deposit rate ceiling: 4.75 %/annum; Actual received rates at longer terms: above 9 %/annum
-- Nguồn: [CafeF](https://cafef.vn/lai-suat-huy-dong-leo-thang-ngan-hang-chiu-suc-ep-kep-188260808161052601.chn)
-
-**Thương mại với Việt Nam tăng hơn 4 lần chỉ trong một năm, một quốc gia muốn làm 'cửa ngõ' cho doanh nghiệp Việt bước vào thị trường 1,4 tỷ người tiêu dùng**  
-
-Thương mại hai chiều Việt Nam-Uganda tăng từ 22,1 triệu USD năm 2024 lên khoảng 95,47 triệu USD năm 2025, tăng hơn 4 lần chỉ trong một năm. Uganda đang tích cực tìm kiếm các doanh nghiệp Việt Nam trong các lĩnh vực chế biến nông sản, công nghiệp, năng lượng, khai khoáng và công nghệ. Uganda muốn trở thành cửa ngõ để hàng Việt tiếp cận các thị trường châu Phi.
-
-- Số liệu chính: Vietnam-Uganda bilateral trade 2024: 22.1 million USD; Vietnam-Uganda bilateral trade 2025: 95.47 million USD; Year-over-year trade growth: 4+ times
-- Nguồn: [CafeF](https://cafef.vn/thuong-mai-voi-viet-nam-tang-hon-4-lan-chi-trong-mot-nam-mot-quoc-gia-muon-lam-cua-ngo-cho-doanh-nghiep-viet-buoc-vao-thi-truong-14-ty-nguoi-tieu-dung-188260808153509085.chn)
-
-**Thu hút 700 tỷ USD cho mục tiêu Net Zero: Ngân hàng giữ vai trò kênh dẫn vốn chủ lực**  
-
-Việt Nam đang có cơ hội thu hút lượng vốn xanh quy mô lớn khi các định chế tài chính quốc tế đánh giá cao nền tảng kinh tế vĩ mô và cam kết chuyển đổi xanh của Chính phủ. Khoảng 700 tỷ USD được cần thiết để hỗ trợ mục tiêu Net Zero của Việt Nam đến năm 2050. Hệ thống ngân hàng được xác định là kênh dẫn vốn chủ lực để huy động và điều phối nguồn vốn này.
-
-- Số liệu chính: Capital needed for Net Zero target: 700 billion USD; Net Zero target year: 2050 year
-- Nguồn: [CafeF](https://cafef.vn/thu-hut-700-ty-usd-cho-muc-tieu-net-zero-ngan-hang-giu-vai-tro-kenh-dan-von-chu-luc-188260807062443173.chn)
 
 ## Nền tảng
 

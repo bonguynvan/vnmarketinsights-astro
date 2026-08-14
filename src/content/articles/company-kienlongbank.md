@@ -1,17 +1,23 @@
 ---
 title: "KienlongBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning KienlongBank, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # KienlongBank
 
-Recent Vietnam market news mentioning **KienlongBank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **KienlongBank** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Xuất hiện ngân hàng giảm lãi suất tới 2,5%/năm, đồng hành cùng doanh nghiệp SME mở rộng sản xuất**  
+
+Following a meeting between the Prime Minister and the State Bank of Vietnam with credit institutions, multiple banks announced interest rate reductions to support customer and business access to capital. KienlongBank launched a "Loan Support - Collective Commitment" program for small and medium enterprises (SMEs) with interest rate reductions of up to 2.5% per annum. The program addresses capital cost pressures in the current business environment.
+
+- Source: [CafeF](https://cafef.vn/xuat-hien-ngan-hang-giam-lai-suat-toi-25-nam-dong-hanh-cung-doanh-nghiep-sme-mo-rong-san-xuat-188260814062441729.chn)
 
 **Một Phó Tổng giám đốc ngân hàng xin từ nhiệm sau 3 tháng nhậm chức**  
 
@@ -54,7 +60,7 @@ KienlongBank announced a dividend payout ratio of 29.5% scheduled for early July
 - [Tuần tới, một ngân hàng sẽ chốt quyền trả cổ tức gần 30%](https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-tra-co-tuc-gan-30-188260628091656493.chn) — CafeF
 - [Vietbank lãi trước thuế 777 tỷ đồng trong quý II/2026, gần gấp 3 lần cùng kỳ, cho vay khách hàng tăng mạnh](https://cafef.vn/vietbank-lai-truoc-thue-777-ty-dong-trong-quy-ii-2026-gan-gap-3-lan-cung-ky-cho-vay-khach-hang-tang-manh-188260730134937097.chn) — CafeF
 - [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
-- [Một cổ phiếu ngân hàng tăng hơn 11% trong sáng 26/6](https://cafef.vn/mot-co-phieu-ngan-hang-tang-hon-11-trong-sang-26-6-188260626114334194.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 
 ---
 

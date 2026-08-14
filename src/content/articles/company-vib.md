@@ -1,17 +1,23 @@
 ---
 title: "VIB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VIB, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # VIB
 
-Recent Vietnam market news mentioning **VIB** (15 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VIB** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**VIB One Card: Một chiếc thẻ, mở ra nhiều lớp đặc quyền**  
+
+VIB One Card offers multiple benefits integrated into a single payment card, including cost optimization for international transactions, cashback on daily spending, and airport lounge access. Benefits expand based on card tier and customer usage levels. The card is positioned as a gateway to premium travel and spending experiences.
+
+- Source: [CafeF](https://cafef.vn/vib-one-card-mot-chiec-the-mo-ra-nhieu-lop-dac-quyen-188260814095038943.chn)
 
 **Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng**  
 
@@ -79,16 +85,10 @@ Vietnam's State Bank (NHNN) is in the final stages of replacing a major banking 
 
 - Source: [CafeF](https://cafef.vn/nhnn-dang-hoan-thien-nhung-buoc-cuoi-cung-de-thay-the-thong-tu-quan-trong-bac-nhat-nganh-ngan-hang-vietinbank-vietcombank-bidv-techcombank-mb-acb-vib-noi-gi-188260722135700093.chn)
 
-**Để 1 tỷ đồng trong tài khoản theo cách này, có thể chỉ nhận về 0 đồng lãi**  
-
-Banks have been adjusting their policies on demand deposits (non-term deposits), with some offering 0% interest rates on certain account types. Customers who place deposits in transaction accounts instead of savings accounts may receive no interest if their funds fall under the bank's 0% non-term deposit interest rate policy. VIB has recently announced adjustments to its service fee structure and non-term deposit interest rates.
-
-- Source: [CafeF](https://cafef.vn/de-1-ty-dong-trong-tai-khoan-theo-cach-nay-co-the-chi-nhan-ve-0-dong-lai-188260722134521954.chn)
-
 ## Related coverage
 
-- [VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn) — CafeF
 - [Chọn gói nâng hạng tài chính, nhận đặc quyền đến hơn 610 triệu đồng tại VIB](https://cafef.vn/chon-goi-nang-hang-tai-chinh-nhan-dac-quyen-den-hon-610-trieu-dong-tai-vib-188260619113925528.chn) — CafeF
+- [VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay](https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn) — CafeF
 - [Bán trải nghiệm thay vì bán sản phẩm: VIB đưa mô hình hội viên vào tài chính cá nhân](https://cafef.vn/ban-trai-nghiem-thay-vi-ban-san-pham-vib-dua-mo-hinh-hoi-vien-vao-tai-chinh-ca-nhan-188260628214225209.chn) — CafeF
 - [VIB Up: Một quyết định trước ngày giải ngân tạo khác biệt suốt thời gian trả nợ](https://cafef.vn/vib-up-mot-quyet-dinh-truoc-ngay-giai-ngan-tao-khac-biet-suot-thoi-gian-tra-no-188260719213824871.chn) — CafeF
 

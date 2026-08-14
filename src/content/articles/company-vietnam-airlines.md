@@ -1,17 +1,23 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietnam Airlines
 
-Recent Vietnam market news mentioning **Vietnam Airlines** (9 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietnam Airlines** (10 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Bao nhiêu chuyến bay ở Tân Sơn Nhất bị ảnh hưởng vì 3 con diều?**  
+
+Kites flown by residents near Tan Son Nhat airport in Ho Chi Minh City on the evening of August 13 caused disruptions to multiple flights. Four departing flights and seven arriving flights were affected, with flight VN595 diverting to Cam Ranh airport for landing.
+
+- Source: [CafeF](https://cafef.vn/bao-nhieu-chuyen-bay-o-tan-son-nhat-bi-anh-huong-vi-3-con-dieu-188260814150807294.chn)
 
 **Cổ phiếu FPT, PNJ, FRT... 'rủ nhau' tím trần, VN-Index tăng hơn 27 điểm**  
 

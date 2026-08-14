@@ -1,8 +1,8 @@
 ---
 title: "Tổng công ty Truyền tải điện quốc gia — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tổng công ty Truyền tải điện quốc gia, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---

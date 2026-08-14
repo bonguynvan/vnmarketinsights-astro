@@ -1,17 +1,47 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Ngân hàng Nhà nước Việt Nam
 
-Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng**  
+
+The Prime Minister instructed credit institutions to continue reducing costs, stabilize lending rates, and substantially decrease lending interest rates. The Prime Minister also directed strict management of the gold market. The article references related policy developments on interest rate reduction and gold market oversight.
+
+- Source: [CafeF](https://cafef.vn/thu-tuong-yeu-cau-giam-thuc-chat-lai-suat-cho-vay-quan-ly-chat-thi-truong-vang-188260811100656873.chn)
+
+**Ngân hàng Nhà nước nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng thời gian tới**  
+
+Vietnam's State Bank has outlined its guidance for managing interest rates, exchange rates, credit, and gold market operations in the coming months of 2026. The central bank is taking a flexible approach to monetary policy amid limited room for further easing to support economic growth. The bank is also promoting syndicated lending for major projects to meet significant capital demand.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn)
+
+**Thống đốc Phạm Đức Ấn làm Phó Trưởng ban Thường trực Ban Chỉ đạo phòng, chống rửa tiền**  
+
+The Prime Minister has decided to reorganize the Anti-Money Laundering Steering Committee. State Bank of Vietnam Governor Phạm Đức Ấn has been appointed as Deputy Head of the Steering Committee's Standing Board. This is an administrative restructuring of the government body responsible for combating money laundering activities.
+
+- Source: [CafeF](https://cafef.vn/thong-doc-pham-duc-an-lam-pho-truong-ban-thuong-truc-ban-chi-dao-phong-chong-rua-tien-188260814064946754.chn)
+
+**Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay**  
+
+Multiple Vietnamese banks are reducing lending interest rates by 1-2.5% annually to support borrowers. On August 13, the Prime Minister held an important meeting with the State Bank of Vietnam and credit institutions. The government has primarily used fiscal policy measures including tax and fee reductions while streamlining administrative procedures.
+
+- Source: [CafeF](https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn)
+
+**Ngân hàng Nhà nước sẽ điều hành tỷ giá linh hoạt, phù hợp với điều kiện thị trường**  
+
+The State Bank of Vietnam will manage exchange rates flexibly in accordance with market conditions. The state's foreign exchange reserves have increased slightly compared to the same period last year and remain at levels equivalent to the end of 2025. The State Bank has outlined directions for managing interest rates, exchange rates, credit, and gold market operations going forward.
+
+- Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-se-dieu-hanh-ty-gia-linh-hoat-phu-hop-voi-dieu-kien-thi-truong-188260814151556517.chn)
 
 **Thủ tướng Chính phủ làm việc với Ngân hàng Nhà nước và hệ thống các tổ chức tín dụng**  
 
@@ -55,42 +85,12 @@ Vietnam's Deputy Prime Minister Nguyen Van Thang chaired a working session on Au
 
 - Source: [CafeF](https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn)
 
-**Phòng ngừa việc ép khách hàng 'mua bia kèm lạc' khi vay vốn**  
-
-A National Assembly delegate from Ninh Binh province raised concerns about predatory lending practices where banks force borrowers to purchase corporate bonds or other investment products as a condition for obtaining loans. The National Assembly discussed amendments to Vietnam's State Bank Law, Anti-Money Laundering Law, and Credit Institution Law on the morning of August 9. The delegate called for preventive measures against such coercive practices in lending and capital disbursement.
-
-- Source: [CafeF](https://cafef.vn/phong-ngua-viec-ep-khach-hang-mua-bia-kem-lac-khi-vay-von-188260809110359307.chn)
-
-**Quốc hội thảo luận sửa 3 luật trong lĩnh vực tài chính, ngân hàng**  
-
-On August 9, parliament held floor discussions on draft amendments to three financial and banking laws: the State Bank of Vietnam Law, the Anti-Money Laundering Law, and the Credit Organizations Law. The morning session focused on proposed amendments to the State Bank of Vietnam Law, the Anti-Money Laundering Law, and the Credit Organizations Law. The parliament also discussed amendments to the Publishing Law as part of the session schedule.
-
-- Source: [CafeF](https://cafef.vn/quoc-hoi-thao-luan-sua-3-luat-trong-linh-vuc-tai-chinh-ngan-hang-188260809072337403.chn)
-
-**Ngày 7/8: Tỷ giá trung tâm tăng 30 đồng**  
-
-On August 7, Vietnam's State Bank set the VND/USD central exchange rate at 25,463 dong, up 30 dong from August 6. The trading band was set at 24,190 to 26,736 VND/USD based on a ±5% fluctuation margin. The Foreign Exchange Management Department provided a reference rate range of 24,212 to 26,654 VND/USD for buying and selling.
-
-- Source: [CafeF](https://cafef.vn/ngay-7-8-ty-gia-trung-tam-tang-30-dong-188260807142110228.chn)
-
-**Lo ngại việc áp dụng tùy nghi "tỷ lệ an toàn khác" đối với ngân hàng**  
-
-Vietnamese parliament representatives expressed concerns about vague regulations allowing the State Bank of Vietnam to apply discretionary "alternative safety ratios" for banks in support of socioeconomic development goals. The representatives worry that overly general wording could lead to arbitrary enforcement when implementing amendments to banking and anti-money laundering laws.
-
-- Source: [CafeF](https://cafef.vn/lo-ngai-viec-ap-dung-tuy-nghi-ty-le-an-toan-khac-doi-voi-ngan-hang-188260807063736815.chn)
-
-**Nâng tỷ lệ tiền gửi Kho bạc Nhà nước lên 50% khi tính LDR: Cú hích thanh khoản, hạ nhiệt cuộc đua lãi suất huy động**  
-
-The State Bank of Vietnam has increased the ratio of State Treasury deposits counted in the LDR (Loan-to-Deposit Ratio) calculation from 20% to 50%, effective from August 1, 2026 to July 31, 2028. This adjustment is considered a strategic measure to ease liquidity pressure and cool down the competition for deposit interest rates among banks. The move is intended to expand credit capacity to support economic growth.
-
-- Source: [CafeF](https://cafef.vn/nang-ty-le-tien-gui-kho-bac-nha-nuoc-len-50-khi-tinh-ldr-cu-hich-thanh-khoan-ha-nhiet-cuoc-dua-lai-suat-huy-dong-188260804065514216.chn)
-
 ## Related coverage
 
 - [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
-- [Trình Quốc hội dự án Luật sửa đổi các luật về ngân hàng vào tháng 8 tới](https://cafef.vn/trinh-quoc-hoi-du-an-luat-sua-doi-cac-luat-ve-ngan-hang-vao-thang-8-toi-188260715173143275.chn) — CafeF
+- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
 - [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
-- [Phó Thống đốc Ngân hàng Nhà nước Đoàn Thái Sơn: Tiếp tục hoàn thiện khuôn khổ pháp lý cho hoạt động ngân hàng](https://cafef.vn/pho-thong-doc-ngan-hang-nha-nuoc-doan-thai-son-tiep-tuc-hoan-thien-khuon-kho-phap-ly-cho-hoat-dong-ngan-hang-188260706064921881.chn) — CafeF
+- [NHNN ra chỉ đạo nóng tới các ngân hàng: Một nhóm khách hàng sắp được vay vốn với lãi suất thấp hơn ít nhất 1%/năm](https://cafef.vn/nhnn-ra-chi-dao-nong-toi-cac-ngan-hang-mot-nhom-khach-hang-sap-duoc-vay-von-voi-lai-suat-thap-hon-it-nhat-1-nam-18826081016533361.chn) — CafeF
 
 ---
 

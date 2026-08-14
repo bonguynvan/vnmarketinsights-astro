@@ -1,17 +1,23 @@
 ---
 title: "Nam A Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Nam A Bank, with neutral summaries and source links."
-publishedDate: "2026-08-13"
-lastUpdated: "2026-08-13"
+publishedDate: "2026-08-14"
+lastUpdated: "2026-08-14"
 category: "Company"
 readingTime: 3
 ---
 
 # Nam A Bank
 
-Recent Vietnam market news mentioning **Nam A Bank** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Nam A Bank** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Nam A Bank: lợi nhuận 6 tháng tăng 25% và hướng tới các mục tiêu tăng trưởng mới**  
+
+Nam A Bank reported pre-tax profit of 3.159 trillion dong for the first half of the year, representing a 25% increase compared to the same period last year. Total assets reached 452 trillion dong, up 8% from the end of 2025, with a capital adequacy ratio (CAR) approaching 11%, well above regulatory minimums. The results demonstrate the bank's continued growth while prioritizing financial strength consolidation.
+
+- Source: [CafeF](https://cafef.vn/nam-a-bank-loi-nhuan-6-thang-tang-25-va-huong-toi-cac-muc-tieu-tang-truong-moi-188260814111043073.chn)
 
 **Nam A Bank đón dòng vốn xanh từ Thụy Sĩ, nâng tổng quy mô huy động vốn quốc tế gần 350 triệu USD**  
 
@@ -57,10 +63,10 @@ Nam A Bank is positioning itself as a connector for East-West economic corridor 
 
 ## Related coverage
 
-- [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 - [VietABank được chấp thuận tăng vốn điều lệ lên gần 9.021 tỷ đồng](https://cafef.vn/vietabank-duoc-chap-thuan-tang-von-dieu-le-len-gan-9021-ty-dong-188260730095724547.chn) — CafeF
-- [Eximbank có chủ tịch mới](https://cafef.vn/eximbank-co-chu-tich-moi-188260724211508813.chn) — CafeF
+- [Eximbank chuẩn bị họp ĐHCĐ bất thường thay loạt thành viên HĐQT](https://cafef.vn/eximbank-chuan-bi-hop-dhcd-bat-thuong-thay-loat-thanh-vien-hdqt-188260705174852844.chn) — CafeF
 - [VietABank tăng trưởng vững chắc, thúc đẩy hội nhập quốc tế và phát triển bền vững](https://cafef.vn/vietabank-tang-truong-vung-chac-thuc-day-hoi-nhap-quoc-te-va-phat-trien-ben-vung-188260727111000835.chn) — CafeF
+- [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
 
 ---
 
