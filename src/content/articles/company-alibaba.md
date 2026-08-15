@@ -1,17 +1,23 @@
 ---
 title: "Alibaba — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Alibaba, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
 
 # Alibaba
 
-Recent Vietnam market news mentioning **Alibaba** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Alibaba** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Các tập đoàn công nghệ Trung Quốc ngày càng đáng gờm**  
+
+Chinese technology conglomerates are increasingly becoming formidable partners for global enterprises, transitioning from low-cost suppliers to irreplaceable technology partners. Major global companies are collaborating with Chinese firms: Apple uses Alibaba and Baidu for AI technology in China, Ford partners with CATL for battery technology, Volkswagen works with Xpeng on smart electric vehicles, and Stellantis expands cooperation with Leapmotor in electric vehicle production and joint procurement. This shift reflects the strategic importance of Chinese tech firms in sectors ranging from electric vehicle batteries to artificial intelligence.
+
+- Source: [VnExpress](https://vnexpress.net/cac-tap-doan-cong-nghe-trung-quoc-ngay-cang-dang-gom-5109240.html)
 
 **Chủ tịch Le Group of Companies: "Điều đắt giá nhất tôi học được ở Alibaba không phải AI"**  
 
@@ -33,10 +39,10 @@ The article discusses how leading companies serve as foundational pillars for ec
 
 ## Related coverage
 
+- [Gặp lãnh đạo loạt đế chế công nghệ, Bộ trưởng Bộ KH&CN đưa ra lời 'đặt hàng' chiến lược: Đó là gì?](https://cafef.vn/gap-lanh-dao-loat-de-che-cong-nghe-bo-truong-bo-khcn-dua-ra-loi-dat-hang-chien-luoc-voi-cac-ong-lon-toan-cau-do-la-gi-188260725095636922.chn) — CafeF
+- [Kiến tạo các tập đoàn kinh tế Việt Nam: Cần một hệ sinh thái phát triển mới](https://cafef.vn/kien-tao-cac-tap-doan-kinh-te-viet-nam-can-mot-he-sinh-thai-phat-trien-moi-188260713133834197.chn) — CafeF
 - [Bứt phá trong kỷ nguyên mới, Việt Nam cần một thế hệ doanh nghiệp kiến quốc](https://cafef.vn/but-pha-trong-ky-nguyen-moi-viet-nam-can-mot-the-he-doanh-nghiep-kien-quoc-188260705134110634.chn) — CafeF
-- [UOB FinLab đồng hành cùng nữ lãnh đạo doanh nghiệp khai thác AI và thúc đẩy tăng trưởng trong nền kinh tế số](https://cafef.vn/uob-finlab-dong-hanh-cung-nu-lanh-dao-doanh-nghiep-khai-thac-ai-va-thuc-day-tang-truong-trong-nen-kinh-te-so-188260720181505015.chn) — CafeF
-- [Doanh nhân Việt Nam và khát vọng xây dựng các tập đoàn mang thương hiệu quốc gia](https://cafef.vn/doanh-nhan-viet-nam-va-khat-vong-xay-dung-cac-tap-doan-mang-thuong-hieu-quoc-gia-188260716073849819.chn) — CafeF
-- [Chuẩn bị quy định hoàn toàn mới về AI trong hệ thống ngân hàng Việt Nam](https://cafef.vn/chuan-bi-quy-dinh-hoan-toan-moi-ve-ai-trong-he-thong-ngan-hang-viet-nam-188260805161626366.chn) — CafeF
+- [Từ khát vọng đến hiện thực: Vì sao Việt Nam chưa có nhiều Tập đoàn kinh tế tư nhân tầm khu vực và toàn cầu?](https://cafef.vn/tu-khat-vong-den-hien-thuc-vi-sao-viet-nam-chua-co-nhieu-tap-doan-kinh-te-tu-nhan-tam-khu-vuc-va-toan-cau-188260709141320847.chn) — CafeF
 
 ---
 

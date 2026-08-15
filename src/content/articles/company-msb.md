@@ -1,8 +1,8 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **MSB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Th&ecirc;m ng&acirc;n h&agrave;ng giảm l&atilde;i suất cho vay**  
+
+Maritime Bank (MSB) has launched a promotional lending rate program for small and medium-sized enterprises and individual business households, offering rates at least 1% per annum lower than standard rates. The program, which began on August 12, features a total credit limit of 3,000 billion dong with promotional rates starting from 8.5% per annum. The initiative aims to reduce capital costs for eligible borrowers.
+
+- Source: [ThanhNien](https://thanhnien.vn/them-ngan-hang-giam-lai-suat-cho-vay-185260815081950644.htm)
 
 **MSB tuổi 35 và cách đặc biệt để tôn vinh những người làm nên di sản**  
 
@@ -79,18 +85,12 @@ Over the 2015-2025 period, several Vietnamese banks experienced significant prof
 
 - Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
 
-**MSB nhận bằng khen của Bộ Công an về phòng chống tội phạm công nghệ cao**  
-
-MSB received a commendation from the Ministry of Public Security on June 23, 2026 for its contributions to combating high-tech crimes. The award was presented at a coordination conference between the Ministry of Public Security and the State Bank of Vietnam on preventing online fraud. MSB was recognized for its research and testing of solutions to prevent and combat high-tech crimes in the context of advancing digital transformation and electronic payments.
-
-- Source: [CafeF](https://cafef.vn/msb-nhan-bang-khen-cua-bo-cong-an-ve-phong-chong-toi-pham-cong-nghe-cao-188260624161513268.chn)
-
 ## Related coverage
 
 - [Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
-- [Mốc lợi nhuận 10.000 tỷ một năm đã là quá khứ, Vietcombank, VietinBank, BIDV, MB và VPBank giờ lãi cả vạn tỷ mỗi quý](https://cafef.vn/moc-loi-nhuan-10000-ty-mot-nam-da-la-qua-khu-vietcombank-vietinbank-bidv-mb-va-vpbank-gio-lai-ca-van-ty-moi-quy-188260805112358656.chn) — CafeF
 - [Một ngân hàng sắp trả cổ tức 15%](https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
 
 # Sun Group
 
-Recent Vietnam market news mentioning **Sun Group** (20 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Sun Group** (21 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Đại c&ocirc;ng trường APEC bứt tốc về đ&iacute;ch**  
+
+Major construction projects serving the APEC 2027 Summit in Phu Quoc are accelerating despite heavy monsoon weather. Sun Group is leading the expansion of Phu Quoc International Airport as the main investor through a direct business investment model. Terminal 2, featuring a phoenix-shaped design, is progressing with the initial steel structure installation.
+
+- Source: [ThanhNien](https://thanhnien.vn/dai-cong-truong-apec-but-toc-ve-dich-185260815211317422.htm)
 
 **Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027**  
 
@@ -79,18 +85,12 @@ Sun Phu Quoc Airways has launched an on-site check-in service at select hotels w
 
 - Source: [CafeF](https://cafef.vn/chuyen-lan-dau-tien-xay-ra-o-sun-phuquoc-airways-188260710114102222.chn)
 
-**Chủ tịch Sun Group Đặng Minh Trường: Sun Group không đầu tư để giành lấy một miếng bánh thị trường có sẵn!**  
-
-Sun Group's chairman Đặng Minh Trường stated that the company does not invest merely to capture existing market share. He emphasized that under national-scale missions, Sun Group's approach is to create value and strength. He argued that when the private sector receives mechanisms and trust to participate in strategic infrastructure projects, the distinction lies not just in capital or implementation speed but in the ability to generate new growth drivers for the economy.
-
-- Source: [CafeF](https://cafef.vn/chu-tich-sun-group-dang-minh-truong-sun-group-khong-dau-tu-de-gianh-lay-mot-mieng-banh-thi-truong-co-san-188260707194543693.chn)
-
 ## Related coverage
 
 - [Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn) — CafeF
-- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Sân bay Phú Quốc: Tăng tốc thi công, quyết cán mốc vận hành từ tháng 4-2027](https://cafef.vn/san-bay-phu-quoc-tang-toc-thi-cong-quyet-can-moc-van-hanh-tu-thang-4-2027-188260808134956039.chn) — CafeF
 - [240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn) — CafeF
-- [Tin vui của Sun PhuQuoc Airways: Chốt lộ trình nhận 8 tàu bay thân rộng Airbus A330, tăng tốc vươn ra thế giới](https://cafef.vn/tin-vui-cua-sun-phuquoc-airways-chot-lo-trinh-nhan-8-tau-bay-than-rong-airbus-a330-tang-toc-vuon-ra-the-gioi-188260810102729414.chn) — CafeF
+- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 
 ---
 

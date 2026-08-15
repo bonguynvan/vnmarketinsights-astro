@@ -1,17 +1,23 @@
 ---
 title: "Maritime Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Maritime Bank, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
 
 # Maritime Bank
 
-Recent Vietnam market news mentioning **Maritime Bank** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Maritime Bank** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Th&ecirc;m ng&acirc;n h&agrave;ng giảm l&atilde;i suất cho vay**  
+
+Maritime Bank (MSB) has launched a promotional lending rate program for small and medium-sized enterprises and individual business households, offering rates at least 1% per annum lower than standard rates. The program, which began on August 12, features a total credit limit of 3,000 billion dong with promotional rates starting from 8.5% per annum. The initiative aims to reduce capital costs for eligible borrowers.
+
+- Source: [ThanhNien](https://thanhnien.vn/them-ngan-hang-giam-lai-suat-cho-vay-185260815081950644.htm)
 
 **MSB được Vietnam Report vinh danh tại hai bảng xếp hạng uy tín năm 2026**  
 
@@ -40,8 +46,8 @@ Maritime Bank (MSB) has been approved by the State Bank of Vietnam to increase i
 ## Related coverage
 
 - [MSB bổ nhiệm thêm một Phó Tổng Giám đốc, tiếp tục kiện toàn nhân sự cấp cao](https://cafef.vn/msb-bo-nhiem-them-mot-pho-tong-giam-doc-tiep-tuc-kien-toan-nhan-su-cap-cao-188260724180805959.chn) — CafeF
-- [MSB công bố kết quả kinh doanh 6 tháng: Tổng tài sản tăng trưởng gần 30% so với cùng kỳ](https://cafef.vn/msb-cong-bo-ket-qua-kinh-doanh-6-thang-tong-tai-san-tang-truong-gan-30-so-voi-cung-ky-188260730204054846.chn) — CafeF
 - [Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm](https://cafef.vn/cap-nhat-loi-nhuan-ngan-hang-sang-21-7-them-ba-nha-bang-bao-lai-tang-moi-chi-co-mot-ngan-hang-sut-giam-188260721002159476.chn) — CafeF
+- [MSB công bố kết quả kinh doanh 6 tháng: Tổng tài sản tăng trưởng gần 30% so với cùng kỳ](https://cafef.vn/msb-cong-bo-ket-qua-kinh-doanh-6-thang-tong-tai-san-tang-truong-gan-30-so-voi-cung-ky-188260730204054846.chn) — CafeF
 - [Một ngân hàng sắp trả cổ tức 15%](https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn) — CafeF
 
 ---

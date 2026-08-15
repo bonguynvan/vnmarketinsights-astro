@@ -1,8 +1,8 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
@@ -60,7 +60,7 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 - [Yêu cầu hoàn thiện hạ tầng sạc điện tại các trạm dừng nghỉ](https://cafef.vn/yeu-cau-hoan-thien-ha-tang-sac-dien-tai-cac-tram-dung-nghi-188260807144313927.chn) — CafeF
 - [Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027](https://cafef.vn/sieu-du-an-lrt-9000-ty-tai-phu-quoc-lo-trinh-nghet-tho-vuot-ai-thien-tai-san-sang-dua-doan-tau-dau-tien-chay-thu-vao-giua-nam-2027-188260807114249175.chn) — CafeF
-- [Thêm 5 tuyến cao tốc Quảng Ngãi đến Nha Trang thu phí không dừng từ ngày 14/8](https://cafef.vn/them-5-tuyen-cao-toc-quang-ngai-den-nha-trang-thu-phi-khong-dung-tu-ngay-14-8-188260808134745264.chn) — CafeF
+- [Những c&aacute;i &#039;bắt tay&#039; chấn động thị trường của doanh nghiệp Việt](https://thanhnien.vn/nhung-cai-bat-tay-chan-dong-thi-truong-cua-doanh-nghiep-viet-185260815213500221.htm) — ThanhNien
 
 ---
 

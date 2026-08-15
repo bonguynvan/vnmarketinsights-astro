@@ -1,8 +1,8 @@
 ---
 title: "Dragon Capital — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Dragon Capital, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---

@@ -1,131 +1,79 @@
 {
-  "generatedAt": "2026-08-14T23:16:23.058657+00:00",
+  "generatedAt": "2026-08-15T23:13:24.511884+00:00",
   "topics": {
     "financial-markets": [
       {
-        "title": "Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng",
-        "url": "https://cafef.vn/thu-tuong-yeu-cau-giam-thuc-chat-lai-suat-cho-vay-quan-ly-chat-thi-truong-vang-188260811100656873.chn",
-        "source": "CafeF",
-        "summary_en": "The Prime Minister instructed credit institutions to continue reducing costs, stabilize lending rates, and substantially decrease lending interest rates. The Prime Minister also directed strict management of the gold market. The article references related policy developments on interest rate reduction and gold market oversight.",
-        "summary_vn": "Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giảm chi phí, ổn định mặt bằng lãi suất, và giảm thực chất lãi suất cho vay. Thủ tướng cũng chỉ đạo quản lý chặt chẽ thị trường vàng. Bài viết liên quan đến các phát triển chính sách về giảm lãi suất và kiểm soát thị trường vàng.",
-        "pubDate": "Fri, 14 Aug 26 06:36:08 +0700",
-        "sentiment": 0.0,
-        "importance": 4
-      },
-      {
-        "title": "Giá vàng hôm nay 14/8: Quay đầu giảm gần 50 USD/ounce",
-        "url": "https://cafef.vn/gia-vang-hom-nay-14-8-quay-dau-giam-gan-50-usd-ounce-18826081307511242.chn",
-        "source": "CafeF",
-        "summary_en": "Gold prices declined sharply on August 14, with world gold quoted on Kitco at 4,350 USD/ounce, down 49 USD/ounce compared to the previous morning. Domestic gold ring and gold bar prices at major Vietnamese retailers including SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải also fell compared to morning levels on August 13. The article reports on intraday gold price movements across global and domestic markets.",
-        "summary_vn": "Giá vàng giảm mạnh vào sáng ngày 14/8, với giá vàng thế giới trên Kitco ở mức 4.350 USD/ounce, giảm 49 USD/ounce so với sáng hôm trước. Giá vàng nhẫn trơn và vàng miếng tại các nhà bán lẻ vàng lớn của Việt Nam như SJC, PNJ, DOJI, Bảo Tín Minh Châu, và Bảo Tín Mạnh Hải cũng giảm so với buổi sáng ngày 13/8. Bài viết đưa tin về biến động giá vàng trong ngày trên thị trường toàn cầu và trong nước.",
-        "pubDate": "Fri, 14 Aug 26 07:34:00 +0700",
-        "sentiment": -0.7,
-        "importance": 2
-      },
-      {
-        "title": "Ngân hàng Nhà nước nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng thời gian tới",
-        "url": "https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's State Bank has outlined its guidance for managing interest rates, exchange rates, credit, and gold market operations in the coming months of 2026. The central bank is taking a flexible approach to monetary policy amid limited room for further easing to support economic growth. The bank is also promoting syndicated lending for major projects to meet significant capital demand.",
-        "summary_vn": "Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt lãi suất, tỷ giá, tín dụng và thị trường vàng trong những tháng cuối năm 2026. Bối cảnh dư địa nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng còn hạn chế. Ngân hàng Nhà nước thúc đẩy cho vay hợp vốn dự án lớn để đáp ứng nhu cầu vốn hàng triệu tỷ đồng.",
-        "pubDate": "Fri, 14 Aug 26 08:08:00 +0700",
-        "sentiment": 0.0,
-        "importance": 4
-      },
-      {
-        "title": "Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay",
-        "url": "https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn",
-        "source": "CafeF",
-        "summary_en": "Multiple Vietnamese banks are reducing lending interest rates by 1-2.5% annually to support borrowers. On August 13, the Prime Minister held an important meeting with the State Bank of Vietnam and credit institutions. The government has primarily used fiscal policy measures including tax and fee reductions while streamlining administrative procedures.",
-        "summary_vn": "Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.",
-        "pubDate": "Fri, 14 Aug 26 09:56:00 +0700",
-        "sentiment": 0.5,
-        "importance": 4
-      },
-      {
-        "title": "Nam A Bank: lợi nhuận 6 tháng tăng 25% và hướng tới các mục tiêu tăng trưởng mới",
-        "url": "https://cafef.vn/nam-a-bank-loi-nhuan-6-thang-tang-25-va-huong-toi-cac-muc-tieu-tang-truong-moi-188260814111043073.chn",
-        "source": "CafeF",
-        "summary_en": "Nam A Bank reported pre-tax profit of 3.159 trillion dong for the first half of the year, representing a 25% increase compared to the same period last year. Total assets reached 452 trillion dong, up 8% from the end of 2025, with a capital adequacy ratio (CAR) approaching 11%, well above regulatory minimums. The results demonstrate the bank's continued growth while prioritizing financial strength consolidation.",
-        "summary_vn": "Ngân hàng Nam Á ghi nhận lợi nhuận trước thuế 3.159 tỷ đồng trong 6 tháng đầu năm, tăng 25% so với cùng kỳ năm trước. Tổng tài sản đạt 452 nghìn tỷ đồng, tăng 8% so với cuối năm 2025, với tỷ lệ an toàn vốn (CAR) tiệm cận 11%, vượt xa mức tối thiểu theo quy định. Kết quả này cho thấy ngân hàng tiếp tục duy trì tăng trưởng đồng thời ưu tiên củng cố năng lực tài chính.",
-        "pubDate": "Fri, 14 Aug 26 13:30:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      },
-      {
-        "title": "Ngân hàng Nhà nước sẽ điều hành tỷ giá linh hoạt, phù hợp với điều kiện thị trường",
-        "url": "https://cafef.vn/ngan-hang-nha-nuoc-se-dieu-hanh-ty-gia-linh-hoat-phu-hop-voi-dieu-kien-thi-truong-188260814151556517.chn",
-        "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam will manage exchange rates flexibly in accordance with market conditions. The state's foreign exchange reserves have increased slightly compared to the same period last year and remain at levels equivalent to the end of 2025. The State Bank has outlined directions for managing interest rates, exchange rates, credit, and gold market operations going forward.",
-        "summary_vn": "Ngân hàng Nhà nước sẽ điều hành tỷ giá một cách linh hoạt phù hợp với điều kiện thị trường. Dự trữ ngoại hối nhà nước tăng nhẹ so với cùng kỳ năm trước và duy trì mức tương đương cuối năm 2025. Ngân hàng Nhà nước đã nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng cho thời gian tới.",
-        "pubDate": "Fri, 14 Aug 26 15:14:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Quỹ tín dụng nhân dân phải duy trì tỷ lệ an toàn vốn tối thiểu 8%",
-        "url": "https://cafef.vn/quy-tin-dung-nhan-dan-phai-duy-tri-ty-le-an-toan-von-toi-thieu-8-188260814064148999.chn",
-        "source": "CafeF",
-        "summary_en": "The State Bank of Vietnam has issued Circular 40/2026 establishing minimum capital adequacy ratios and safety standards for people's credit funds. The circular takes effect on November 1, 2026, and supersedes previous regulations from 2015 and 2024. The regulation sets requirements for minimum capital adequacy ratios, liquidity ratios, and short-term funding source ratios.",
-        "summary_vn": "Ngân hàng Nhà nước Việt Nam ban hành Thông tư số 40/2026 quy định các tiêu chuẩn an toàn cho hoạt động của quỹ tín dụng nhân dân. Thông tư có hiệu lực từ ngày 1/11/2026 và thay thế các quy định trước đó từ năm 2015 và 2024. Quy định đặt ra các yêu cầu về tỷ lệ an toàn vốn tối thiểu, tỷ lệ khả năng chi trả và tỷ lệ nguồn vốn ngắn hạn.",
-        "pubDate": "Fri, 14 Aug 26 06:41:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Xuất hiện ngân hàng giảm lãi suất tới 2,5%/năm, đồng hành cùng doanh nghiệp SME mở rộng sản xuất",
-        "url": "https://cafef.vn/xuat-hien-ngan-hang-giam-lai-suat-toi-25-nam-dong-hanh-cung-doanh-nghiep-sme-mo-rong-san-xuat-188260814062441729.chn",
-        "source": "CafeF",
-        "summary_en": "Following a meeting between the Prime Minister and the State Bank of Vietnam with credit institutions, multiple banks announced interest rate reductions to support customer and business access to capital. KienlongBank launched a \"Loan Support - Collective Commitment\" program for small and medium enterprises (SMEs) with interest rate reductions of up to 2.5% per annum. The program addresses capital cost pressures in the current business environment.",
-        "summary_vn": "Sau buổi làm việc của Thủ tướng Chính phủ với Ngân hàng Nhà nước và các tổ chức tín dụng, nhiều ngân hàng đã công bố giảm lãi suất để hỗ trợ khách hàng và doanh nghiệp tiếp cận vốn. KienlongBank triển khai chương trình \"Đồng hành vốn vay - Chung tay gắn kết\" cho doanh nghiệp nhỏ và vừa (SME) với mức giảm lãi suất lên tới 2,5%/năm. Chương trình nhằm giảm áp lực chi phí vốn trong bối cảnh kinh doanh hiện tại.",
-        "pubDate": "Fri, 14 Aug 26 07:24:00 +0700",
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác giáo dục, nông nghiệp và ứng phó biến đổi khí hậu",
+        "url": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-new-zealand-tang-hop-tac-giao-duc-nong-nghiep-va-ung-pho-bien-doi-khi-hau.htm",
+        "source": "VnEconomy",
+        "summary_en": "General Secretary and State President Tô Lâm of Vietnam met with New Zealand's Governor-General Dame Cindy Kiro on August 13 in Auckland following an official reception ceremony at Government House. This marked the first state visit to New Zealand by a Vietnamese General Secretary and State President in both capacities. The Vietnamese leader proposed expanding cooperation with New Zealand in education, agriculture, and climate change response.",
+        "summary_vn": "Sáng 13/8, Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Toàn quyền New Zealand Dame Cindy Kiro tại thành phố Auckland sau Lễ đón trọng thể tại Phủ Toàn quyền. Đây là lần đầu tiên Tổng Bí thư, Chủ tịch nước Việt Nam thăm New Zealand trên cả hai cương vị. Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác trong giáo dục, nông nghiệp và ứng phó biến đổi khí hậu.",
+        "pubDate": "Thu, 13 Aug 2026 08:38:33 GMT",
         "sentiment": 0.5,
         "importance": 3
       },
       {
-        "title": "Thống đốc Phạm Đức Ấn làm Phó Trưởng ban Thường trực Ban Chỉ đạo phòng, chống rửa tiền",
-        "url": "https://cafef.vn/thong-doc-pham-duc-an-lam-pho-truong-ban-thuong-truc-ban-chi-dao-phong-chong-rua-tien-188260814064946754.chn",
-        "source": "CafeF",
-        "summary_en": "The Prime Minister has decided to reorganize the Anti-Money Laundering Steering Committee. State Bank of Vietnam Governor Phạm Đức Ấn has been appointed as Deputy Head of the Steering Committee's Standing Board. This is an administrative restructuring of the government body responsible for combating money laundering activities.",
-        "summary_vn": "Thủ tướng Chính phủ vừa quyết định kiện toàn Ban Chỉ đạo phòng, chống rửa tiền. Thống đốc Ngân hàng Nhà nước Việt Nam Phạm Đức Ấn được bổ nhiệm làm Phó Trưởng ban Thường trực Ban Chỉ đạo. Đây là một điều chỉnh cơ cấu của cơ quan chính phủ chịu trách nhiệm chống rửa tiền.",
-        "pubDate": "Fri, 14 Aug 26 08:43:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Ngân hàng lớn nhất hệ thống cảnh báo",
-        "url": "https://cafef.vn/ngan-hang-lon-nhat-he-thong-canh-bao-188260814141657074.chn",
-        "source": "CafeF",
-        "summary_en": "BIDV (Bank for Investment and Development of Vietnam), the largest bank in the national banking system, issued a warning notification on August 14 regarding fraud cases affecting its customers. The bank reported that customers have been deceived through sophisticated schemes involving impersonation of state agencies, banks, lawyers, and reputable enterprises, with scenarios including social security links, lawyer retainer money solicitation online, and goods/services purchasing fraud.",
-        "summary_vn": "Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV) - ngân hàng lớn nhất hệ thống hiện nay - đã phát hành thông báo cảnh báo vào sáng ngày 14/8 về các trường hợp lừa đảo khách hàng. Ngân hàng ghi nhận rằng khách hàng đã bị lừa qua các thủ đoạn tinh vi gồm mạo danh cơ quan nhà nước, ngân hàng, luật sư và các doanh nghiệp uy tín, với các kịch bản như liên kết an sinh xã hội, luật sư lấy tiền treo trên mạng, và lừa đảo mua bán hàng hóa dịch vụ.",
-        "pubDate": "Fri, 14 Aug 26 14:16:00 +0700",
-        "sentiment": -0.7,
-        "importance": 4
-      },
-      {
-        "title": "Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ",
-        "url": "https://cafef.vn/quy-dinh-moi-voi-agribank-vietcombank-bidv-vietinbank-tu-1-10-lien-quan-phan-phoi-loi-nhuan-tang-von-dieu-le-188260814150605982.chn",
-        "source": "CafeF",
-        "summary_en": "A new regulation effective October 1st affects four major state-owned banks: Agribank, Vietcombank, BIDV, and VietinBank. The new decree adjusts the ratio for extracting development investment funds, creating additional capital flexibility for these credit institutions. The changes relate to profit distribution and charter capital increases.",
-        "summary_vn": "Quy định mới có hiệu lực từ ngày 1/10 ảnh hưởng đến bốn ngân hàng nhà nước lớn: Agribank, Vietcombank, BIDV và VietinBank. Nghị định mới điều chỉnh tỷ lệ trích quỹ đầu tư phát triển, tạo thêm dư địa vốn cho các tổ chức tín dụng này. Những thay đổi liên quan đến phân phối lợi nhuận và tăng vốn điều lệ.",
-        "pubDate": "Fri, 14 Aug 26 15:11:00 +0700",
-        "sentiment": 0.0,
+        "title": "Việt Nam - New Zealand thúc đẩy hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không",
+        "url": "https://vneconomy.vn/viet-nam-new-zealand-thuc-day-hop-tac-cong-nghe-nong-nghiep-xanh-va-ket-noi-hang-khong.htm",
+        "source": "VnEconomy",
+        "summary_en": "Vietnam's Communist Party General Secretary and State President Tô Lâm held talks with New Zealand Prime Minister Christopher Luxon in Auckland on August 13. The meeting marked a significant milestone in bilateral relations spanning over half a century. The discussions focused on technology cooperation, green agriculture, and aviation connectivity between the two countries.",
+        "summary_vn": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng New Zealand Christopher Luxon tại Auckland ngày 13/8. Cuộc gặp được xem là mốc quan trọng trong quan hệ hai nước kéo dài hơn nửa thế kỷ. Các cuộc thảo luận tập trung vào hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không giữa hai quốc gia.",
+        "pubDate": "Thu, 13 Aug 2026 08:51:57 GMT",
+        "sentiment": 0.5,
         "importance": 3
       },
       {
-        "title": "Lừa mượn tiền để đáo hạn ngân hàng, hai vợ chồng chiếm đoạt gần 15 tỷ đồng",
-        "url": "https://cafef.vn/lua-muon-tien-de-dao-han-ngan-hang-hai-vo-chong-chiem-doat-gan-15-ty-dong-188260814202300118.chn",
-        "source": "CafeF",
-        "summary_en": "On August 14, police in Vinh Long province initiated prosecution of Nguyen Thi Yen Thu (born 1994) for fraud and asset misappropriation. From December 2025 to February 2026, Thu and her husband Vo Tan Phap (born 1995) borrowed money multiple times from two women, claiming to need funds for bank debt settlement. The couple allegedly misappropriated approximately 15 billion Vietnamese dong through this scheme.",
-        "summary_vn": "Ngày 14-8, Công an tỉnh Vĩnh Long khởi tố bị can Nguyễn Thị Yến Thu (sinh năm 1994) về hành vi lừa đảo chiếm đoạt tài sản. Từ tháng 12-2025 đến tháng 2-2026, Thu cùng chồng Võ Tấn Pháp (sinh năm 1995) nhiều lần mượn tiền của hai phụ nữ với lý do đáo hạn ngân hàng. Cặp vợ chồng này được cáo buộc chiếm đoạt gần 15 tỷ đồng thông qua hành vi lừa đảo.",
-        "pubDate": "Fri, 14 Aug 26 20:22:00 +0700",
-        "sentiment": -1.0,
+        "title": "Việt Nam - New Zealand ra Tuyên bố chung, thúc đẩy thương mại, kinh tế xanh, công nghệ và kết nối hàng không",
+        "url": "https://vneconomy.vn/viet-nam-new-zealand-ra-tuyen-bo-chung-thuc-day-thuong-mai-kinh-te-xanh-cong-nghe-va-ket-noi-hang-khong.htm",
+        "source": "VnEconomy",
+        "summary_en": "Vietnam and New Zealand issued a joint statement during General Secretary and State President Tô Lâm's state visit to New Zealand on August 12-13, 2026, as invited by Governor-General Dame Cindy Kiro. The statement outlines major directions to deepen the Comprehensive Strategic Partnership, particularly in economics, trade, science and technology, education, and sustainable development. The two countries aim to strengthen cooperation across multiple sectors including green economy and aviation connectivity.",
+        "summary_vn": "Trong chuyến thăm cấp Nhà nước tới New Zealand từ ngày 12-13/8/2026 theo lời mời của Toàn quyền New Zealand, Việt Nam và New Zealand đã ra Tuyên bố chung. Tuyên bố xác định nhiều định hướng lớn nhằm làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện giữa hai nước, đặc biệt trong các lĩnh vực kinh tế, thương mại, khoa học công nghệ, giáo dục và phát triển bền vững. Hai quốc gia cam kết tăng cường hợp tác trong nền kinh tế xanh và kết nối hàng không.",
+        "pubDate": "Thu, 13 Aug 2026 09:14:20 GMT",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "T&iacute;n dụng bất động sản tr&aacute;nh &#039;c&agrave;o bằng&#039;",
+        "url": "https://thanhnien.vn/tin-dung-bat-dong-san-tranh-cao-bang-185260815150955928.htm",
+        "source": "ThanhNien",
+        "summary_en": "Real estate's interconnectedness with the broader economy occurs through multiple channels including collateral values for bank loans, household wealth, bond capital flows, buyer deposits, and activities across construction, materials, and furniture supply chains. The concern extends beyond temporary price adjustments to encompass prolonged project stalls and uncertainty about which projects remain viable. The excerpt references lessons from China's real estate sector.",
+        "summary_vn": "Bất động sản có liên thông cao với nền kinh tế thông qua giá trị tài sản bảo đảm cho tín dụng ngân hàng, tài sản hộ gia đình, dòng vốn trái phiếu, tiền ứng trước của người mua, và hoạt động của chuỗi xây dựng, vật liệu, nội thất. Mối quan tâm không chỉ là điều chỉnh giá tạm thời mà là tình trạng dự án đình trệ kéo dài và không rõ dự án nào còn khả năng hoàn thành. Bài viết tham chiếu bài học từ Trung Quốc.",
+        "pubDate": "Sat, 15 Aug 26 16:53:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
+        "url": "https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html",
+        "source": "VnExpress",
+        "summary_en": "Alphabet, Google's parent company, reported that its SpaceX shareholding was valued at $94 billion as of end-June. The company originally invested $900 million in SpaceX in 2015. The investment has appreciated approximately 100-fold over the more than 10-year period.",
+        "summary_vn": "Alphabet, công ty mẹ của Google, báo cáo rằng cổ phần SpaceX của họ được định giá 94 tỷ USD vào cuối tháng Sáu. Công ty đã đầu tư 900 triệu USD vào SpaceX năm 2015. Khoản đầu tư này đã tăng giá gấp khoảng 100 lần trong hơn 10 năm.",
+        "pubDate": "Sat, 15 Aug 2026 10:08:47 +0700",
+        "sentiment": 1.0,
+        "importance": 4
+      },
+      {
+        "title": "69% &#039;si&ecirc;u El Nino&#039; sẽ mạnh nhất lịch sử",
+        "url": "https://thanhnien.vn/69-sieu-el-nino-se-manh-nhat-lich-su-185260815145757427.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietnam's meteorological experts report that El Niño has reached severe intensity, termed \"super El Niño\". The US National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center provided weekly updates showing sea surface temperature increases in monitored regions during early August, with Niño 3.4 at 1.8°C, Niño 1-2 at 3.3°C, and Niño 3 at 2.4°C. A monthly forecast from the CPC issued on August 13 indicated continued El Niño activity during July.",
+        "summary_vn": "Các chuyên gia khí tượng Việt Nam cho biết El Niño đã đạt cường độ rất mạnh, được gọi là \"siêu El Niño\". Trung tâm Dự báo khí hậu của NOAA (Mỹ) cung cấp cập nhật hàng tuần cho thấy nhiệt độ mặt nước biển ở các khu vực giám sát tiếp tục tăng vào đầu tháng 8, với Niño 3.4 là 1,8°C, Niño 1-2 là 3,3°C, và Niño 3 là 2,4°C. Bản dự báo hàng tháng của CPC phát hành ngày 13 tháng 8 cho biết El Niño tiếp tục hoạt động mạnh trong tháng 7.",
+        "pubDate": "Sat, 15 Aug 26 16:54:00 +0700",
+        "sentiment": -0.3,
         "importance": 3
       }
     ],
     "payments": [
+      {
+        "title": "Hơn 25 tỷ U-Point của Techcombank được quy đổi mỗi tháng",
+        "url": "https://vnexpress.net/hon-25-ty-u-point-cua-techcombank-duoc-quy-doi-moi-thang-5109358.html",
+        "source": "VnExpress",
+        "summary_en": "Techcombank customers are converting over 25 billion U-Points monthly through the \"Optimize Benefits with U-Points\" feature on Techcombank Auto-Generate Profit. The bank's loyalty program allows users to exchange 1 đồng of profit into either cash or 2 U-Points. These reward points can be redeemed for shopping, dining, travel, entertainment, sports, and health services.",
+        "summary_vn": "Trung bình hơn 25 tỷ U-Point của Techcombank được khách hàng quy đổi mỗi tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\" trên Techcombank Sinh lời tự động. Chương trình khách hàng thân thiết OneU cho phép người dùng quy đổi 1 đồng lợi nhuận thành tiền hoặc 2 điểm U-Point. Điểm thưởng này có thể dùng để thanh toán và đổi ưu đãi tại các danh mục mua sắm, ẩm thực, di chuyển, du lịch, giải trí, thể thao và chăm sóc sức khỏe.",
+        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
       {
         "title": "ACB mách bạn dòng thẻ phù hợp với nhu cầu chi tiêu: ACB Visa Signature hay ACB Visa Platinum?",
         "url": "https://cafef.vn/acb-mach-ban-dong-the-phu-hop-voi-nhu-cau-chi-tieu-acb-visa-signature-hay-acb-visa-platinum-188260813224154771.chn",
@@ -145,29 +93,39 @@
         "pubDate": "Fri, 14 Aug 26 09:50:00 +0700",
         "sentiment": 0.5,
         "importance": 2
-      },
-      {
-        "title": "9Pay hợp tác với NAPAS triển khai thanh toán xuyên biên giới qua VietQR Global, chuẩn bị tích hợp trên Loa TingTing và 9PayPOS",
-        "url": "https://cafef.vn/9pay-hop-tac-voi-napas-trien-khai-thanh-toan-xuyen-bien-gioi-qua-vietqr-global-chuan-bi-tich-hop-tren-loa-tingting-va-9paypos-188260813105442932.chn",
-        "source": "CafeF",
-        "summary_en": "9Pay has entered into a partnership with NAPAS to deploy VietQR Global, a cross-border QR code payment solution. The solution will be integrated into Loa TingTing and 9PayPOS to provide international tourists with seamless payment experiences across accommodation, shopping, dining, and entertainment. The initiative aims to support smart tourism and the digital economy.",
-        "summary_vn": "9Pay chính thức hợp tác với NAPAS để triển khai VietQR Global, một giải pháp thanh toán QR xuyên biên giới. Giải pháp này sẽ được tích hợp trên Loa TingTing và 9PayPOS nhằm cung cấp trải nghiệm thanh toán liền mạch cho du khách quốc tế trong lưu trú, mua sắm, ăn uống và giải trí. Sáng kiến này nhằm hỗ trợ du lịch thông minh và kinh tế số.",
-        "pubDate": "Thu, 13 Aug 26 11:53:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      },
-      {
-        "title": "Bắt nhịp xu hướng du lịch tinh gọn: \"Vi vu châu Á - Không phí ngoại tệ\" cùng thẻ Techcombank",
-        "url": "https://cafef.vn/bat-nhip-xu-huong-du-lich-tinh-gon-vi-vu-chau-a-khong-phi-ngoai-te-cung-the-techcombank-18826081312114843.chn",
-        "source": "CafeF",
-        "summary_en": "Techcombank has launched a promotional campaign called \"Vi vu châu Á - Không phí ngoại tệ\" (Explore Asia - No Foreign Exchange Fees) targeting budget-conscious travelers. The program offers convenient international payment solutions and cost optimization across 7 popular Asian destinations favored by Vietnamese tourists. The initiative aligns with the growing trend of minimalist travel among Vietnamese travelers.",
-        "summary_vn": "Techcombank đã triển khai chương trình khuyến mãi \"Vi vu châu Á - Không phí ngoại tệ\" nhằm mục tiêu những du khách tiết kiệm chi phí. Chương trình cung cấp giải pháp thanh toán quốc tế thuận tiện và tối ưu hóa chi phí tại 7 điểm đến châu Á được yêu thích bởi du khách Việt. Sáng kiến này phù hợp với xu hướng du lịch tối giản đang phát triển trong cộng đồng du khách Việt Nam.",
-        "pubDate": "Thu, 13 Aug 26 12:30:00 +0700",
-        "sentiment": 0.6,
-        "importance": 2
       }
     ],
     "consumers": [
+      {
+        "title": "Thẻ đi xe bu&yacute;t, metro miễn ph&iacute; in kh&ocirc;ng kịp v&igrave; người TP.HCM đăng k&yacute; qu&aacute; đ&ocirc;ng",
+        "url": "https://thanhnien.vn/the-di-xe-buyt-metro-mien-phi-in-khong-kip-vi-nguoi-tphcm-dang-ky-qua-dong-185260815112444102.htm",
+        "source": "ThanhNien",
+        "summary_en": "Ho Chi Minh City's Public Transport Card Management Center announced delays in issuing free bus and metro cards (GTCC) due to higher-than-expected demand. Registration applications have exceeded 16,000 cards and continue to increase daily, straining the card printing capacity. The center has asked passengers to postpone collection until after the September 2-3 holiday period.",
+        "summary_vn": "Trung tâm Quản lý Thẻ Giao Thông Công Cộng TP.HCM thông báo chậm trễ trong phát hành thẻ xe buýt và metro miễn phí (GTCC) do nhu cầu cao hơn dự kiến. Số đơn đăng ký đã vượt quá 16.000 thẻ và tiếp tục tăng hàng ngày, gây áp lực lên công suất in thẻ. Trung tâm đã yêu cầu hành khách trì hoãn nhận thẻ đến sau kỳ nghỉ lễ Quốc khánh (2-3 tháng 9).",
+        "pubDate": "Sat, 15 Aug 26 12:02:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
+      {
+        "title": "Giá xoài cát Hòa Lộc tăng gấp đôi sau ba tháng",
+        "url": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html",
+        "source": "VnExpress",
+        "summary_en": "Hòa Lộc mango prices have doubled over three months, reaching 55,000-80,000 VND per kilogram at farm gate and up to 190,000 VND at retail. A mango grower in Dong Nai sold over one ton of Hòa Lộc mangoes at approximately 60,000 VND per kilogram, earning around 25 million VND in profit despite increased input costs. Prices are now double compared to the main harvest season in April-May.",
+        "summary_vn": "Giá xoài cát Hòa Lộc đã tăng gấp đôi trong ba tháng qua, đạt 55.000-80.000 đồng mỗi kilogram tại vườn và lên tới 190.000 đồng ở bán lẻ. Một chủ vườn ở Đồng Nai vừa bán hơn một tấn xoài cát Hòa Lộc với giá khoảng 60.000 đồng mỗi kilogram, lãi khoảng 25 triệu đồng dù chi phí tăng. Giá hiện tại gấp đôi so với vụ chính tháng 4-5.",
+        "pubDate": "Sat, 15 Aug 2026 14:00:44 +0700",
+        "sentiment": 0.3,
+        "importance": 3
+      },
+      {
+        "title": "Tin vui: Có 2 ngày du khách Việt được miễn phí 1 dịch vụ tại địa điểm du lịch nổi tiếng này",
+        "url": "https://cafef.vn/tin-vui-co-2-ngay-du-khach-viet-duoc-mien-phi-1-dich-vu-tai-dia-diem-du-lich-noi-tieng-nay-188260816011129717.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnamese citizens will receive free admission to heritage sites in the Hué Ancient Capital Complex on two special dates: August 19 and September 2, 2026. This policy is designed to provide opportunities for residents and tourists to experience these sites. The initiative encourages visitors to combine sightseeing with cultural activities and special festivals.",
+        "summary_vn": "Công dân Việt Nam sẽ được miễn vé tham quan các điểm di tích trong Quần thể Di tích Cố đô Huế vào hai ngày đặc biệt: 19/8 và 2/9/2026. Chính sách này nhằm tạo điều kiện cho người dân và du khách trải nghiệm những di sản này. Sáng kiến khuyến khích du khách kết hợp tham quan với các hoạt động văn hóa và lễ hội đặc sắc.",
+        "pubDate": "Sun, 16 Aug 26 01:11:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
       {
         "title": "Giá vàng miếng, vàng nhẫn sáng 14/8 tiếp tục đà giảm",
         "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-sang-14-8-tiep-tuc-da-giam-188260814100707126.chn",
@@ -177,16 +135,80 @@
         "pubDate": "Fri, 14 Aug 26 10:15:00 +0700",
         "sentiment": -0.3,
         "importance": 2
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Phạt tới 100 triệu nếu kh&ocirc;ng cung cấp th&ocirc;ng tin cho cơ quan thuế",
+        "url": "https://thanhnien.vn/phat-toi-100-trieu-neu-khong-cung-cap-thong-tin-cho-co-quan-thue-185260815101846368.htm",
+        "source": "ThanhNien",
+        "summary_en": "Hanoi Tax Authority has notified taxpayers of their obligation to provide information for tax information exchange and administrative penalty enforcement purposes, effective from July 1 under Decree 252/2026. Financial organizations, foreign bank branches, payment service providers, and payment intermediary service providers must supply financial account information of non-resident taxpayers in Vietnam. Penalties for non-compliance can reach up to 100 million dong.",
+        "summary_vn": "Cơ quan Thuế TP.Hà Nội vừa thông báo tới người nộp thuế về nghĩa vụ cung cấp thông tin phục vụ trao đổi thông tin về thuế và xử phạt vi phạm hành chính, có hiệu lực từ ngày 1.7 theo Nghị định 252/2026. Các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phải cung cấp thông tin tài khoản tài chính của đối tượng không cư trú thuế. Mức phạt tối đa cho việc không cung cấp thông tin lên tới 100 triệu đồng.",
+        "pubDate": "Sat, 15 Aug 26 13:11:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
       },
       {
-        "title": "Giá vàng nhẫn trơn, vàng miếng chiều 13/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải đồng loạt giảm so với buổi sáng",
-        "url": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-13-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-dong-loat-giam-so-voi-buoi-sang-188260813073047416.chn",
-        "source": "CafeF",
-        "summary_en": "Gold prices in Vietnam declined on the afternoon of August 13, with smooth gold rings falling 300,000-800,000 VND/tael and gold ingots declining 300,000 VND/tael from morning levels across major retailers SJC, PNJ, DOJI, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải. Despite the afternoon drop, gold ingot prices remained higher than the previous day's closing levels. The decline was particularly notable in the smooth gold ring segment.",
-        "summary_vn": "Giá vàng trong nước chiều ngày 13/8 hạ nhiệt so với buổi sáng, với vàng nhẫn trơn giảm 300.000-800.000 đồng/lượng và vàng miếng giảm 300.000 đồng/lượng trên các thương hiệu SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải. Mặc dù giảm chiều, giá vàng miếng vẫn cao hơn mức đóng cửa ngày hôm trước. Sự giảm giá đặc biệt rõ rệt ở phân khúc vàng nhẫn trơn.",
-        "pubDate": "Thu, 13 Aug 26 15:12:00 +0700",
-        "sentiment": -0.3,
+        "title": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
+        "url": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
+        "source": "VnExpress",
+        "summary_en": "The State Securities Commission (SSC) has released the main content of a draft amendment to the Securities Law. The proposed changes would allow securities companies and foreign securities branches to execute contracts with customers in electronic form, enabling fully online account opening for investors.",
+        "summary_vn": "Ủy ban Chứng khoán Nhà nước (SSC) vừa công bố nội dung chính của dự thảo sửa đổi Luật Chứng khoán. Các thay đổi đề xuất sẽ cho phép các công ty chứng khoán và chi nhánh nước ngoài của công ty chứng khoán giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản hoàn toàn trực tuyến.",
+        "pubDate": "Sat, 15 Aug 2026 10:55:55 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
+      {
+        "title": "Th&ecirc;m ng&acirc;n h&agrave;ng giảm l&atilde;i suất cho vay",
+        "url": "https://thanhnien.vn/them-ngan-hang-giam-lai-suat-cho-vay-185260815081950644.htm",
+        "source": "ThanhNien",
+        "summary_en": "Maritime Bank (MSB) has launched a promotional lending rate program for small and medium-sized enterprises and individual business households, offering rates at least 1% per annum lower than standard rates. The program, which began on August 12, features a total credit limit of 3,000 billion dong with promotional rates starting from 8.5% per annum. The initiative aims to reduce capital costs for eligible borrowers.",
+        "summary_vn": "Ngân hàng Hàng Hải Việt Nam (MSB) đã ra mắt chương trình ưu đãi lãi suất cho vay dành cho doanh nghiệp nhỏ và vừa cũng như hộ kinh doanh, với mức lãi suất thấp hơn ít nhất 1% mỗi năm so với lãi suất thông thường. Chương trình bắt đầu từ ngày 12.8 với tổng hạn mức tín dụng 3.000 tỉ đồng và lãi suất ưu đãi từ 8,5% mỗi năm. Sáng kiến này nhằm giảm chi phí sử dụng vốn cho các khách hàng đủ điều kiện.",
+        "pubDate": "Sat, 15 Aug 26 16:53:00 +0700",
+        "sentiment": 0.3,
         "importance": 2
+      },
+      {
+        "title": "Bảo hiểm thất nghiệp: Cầu nối đưa người lao động sớm trở lại thị trường lao động",
+        "url": "https://vneconomy.vn/bao-hiem-that-nghiep-cau-noi-dua-nguoi-lao-dong-som-tro-lai-thi-truong-lao-dong.htm",
+        "source": "VnEconomy",
+        "summary_en": "Vietnam's unemployment insurance policy focuses primarily on helping workers return to employment quickly, rather than solely on benefit payments. The Department of Employment (Ministry of Interior) emphasizes that the policy aims to support workers in finding new jobs through counseling, job placement, vocational training, and business connections. Core support mechanisms include advisory services and skill development programs alongside financial assistance.",
+        "summary_vn": "Chính sách bảo hiểm thất nghiệp của Việt Nam tập trung chủ yếu vào việc giúp người lao động quay lại làm việc nhanh chóng, hơn là chỉ thanh toán trợ cấp. Cục Việc làm (Bộ Nội vụ) nhấn mạnh rằng mục tiêu của chính sách là hỗ trợ người lao động tìm được việc làm mới thông qua tư vấn, giới thiệu việc làm, đào tạo nghề và kết nối với doanh nghiệp. Các cơ chế hỗ trợ cốt lõi bao gồm các dịch vụ tư vấn và các chương trình phát triển kỹ năng cùng với hỗ trợ tài chính.",
+        "pubDate": "Thu, 13 Aug 2026 09:38:32 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Phí dịch vụ doanh nghiệp có phải đóng BHXH cho người lao động?",
+        "url": "https://cafef.vn/phi-dich-vu-doanh-nghiep-co-phai-dong-bhxh-cho-nguoi-lao-dong-188260815073915548.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's social insurance authority (BHXH Việt Nam) has issued guidance on determining salary bases for mandatory social insurance contributions for service charge fees collected by enterprises in hospitality and restaurant sectors. According to Article 31.1(b) of the 2024 Social Insurance Law, the monthly salary base for mandatory social insurance contributions includes wages based on job position or title, allowances, and other agreed supplementary payments made regularly. The guidance clarifies how service charge collections should be treated for social insurance compliance purposes.",
+        "summary_vn": "BHXH Việt Nam vừa có hướng dẫn về cách xác định tiền lương làm căn cứ đóng BHXH bắt buộc đối với khoản phí phục vụ của các doanh nghiệp hoạt động trong lĩnh vực khách sạn, nhà hàng. Theo Điều 31 khoản 1(b) Luật BHXH năm 2024, tiền lương tháng làm căn cứ đóng BHXH bắt buộc bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác được thỏa thuận trả thường xuyên. Hướng dẫn này làm rõ cách xử lý khoản phí phục vụ nhân dân cho mục đích tuân thủ bảo hiểm xã hội.",
+        "pubDate": "Sat, 15 Aug 26 15:50:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm kết thúc tốt đẹp chuyến thăm cấp Nhà nước tới New Zealand",
+        "url": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-ket-thuc-tot-dep-chuyen-tham-cap-nha-nuoc-toi-new-zealand.htm",
+        "source": "VnEconomy",
+        "summary_en": "General Secretary and State President Tô Lâm completed a state visit to New Zealand. The visit included meetings with New Zealand's Governor-General Dame Cindy Kiro and Prime Minister Christopher Luxon. Officials from both countries, including New Zealand's Trade and Investment Minister Todd McClay and Vietnam's Ambassador to New Zealand Phan Minh Giang, participated in the diplomatic engagement.",
+        "summary_vn": "Tổng Bí thư, Chủ tịch nước Tô Lâm hoàn thành chuyến thăm cấp Nhà nước tới New Zealand. Chuyến thăm bao gồm hội kiến với Toàn quyền Dame Cindy Kiro và hội đàm với Thủ tướng Christopher Luxon của New Zealand. Các quan chức từ cả hai nước, bao gồm Bộ trưởng Thương mại và Đầu tư New Zealand Todd McClay và Đại sứ Việt Nam tại New Zealand Phan Minh Giang, đã tham gia vào hoạt động ngoại giao này.",
+        "pubDate": "Fri, 14 Aug 2026 00:51:09 GMT",
+        "sentiment": 0.5,
+        "importance": 3
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Xe tải điện Trung Quốc bùng nổ tại châu Á do xung đột Iran",
+        "url": "https://vnexpress.net/xe-tai-dien-trung-quoc-bung-no-tai-chau-a-do-xung-dot-iran-5109488.html",
+        "source": "VnExpress",
+        "summary_en": "Chinese electric truck exports to South Asia surged five-fold and to Southeast Asia three-fold following Middle East tensions that elevated fuel prices. Sany, China's largest electric truck manufacturer, received a record export order of 880 heavy-duty vehicles two months ago. The company's international marketing vice president stated that the Iran conflict has \"opened doors to new markets,\" though he declined to name the purchasing countries.",
+        "summary_vn": "Xuất khẩu xe tải điện Trung Quốc sang Nam Á tăng gấp 5 lần và Đông Nam Á tăng gấp 3 lần sau căng thẳng Trung Đông kéo theo giá nhiên liệu tăng cao. Sany, nhà sản xuất xe tải điện lớn nhất Trung Quốc, nhận được đơn hàng xuất khẩu kỷ lục gồm 880 xe hạng nặng hai tháng trước đây. Phó chủ tịch tiếp thị quốc tế của công ty cho biết xung đột Iran đã \"mở cánh cửa đến các thị trường mới\", mặc dù ông từ chối tiết lộ tên các quốc gia mua hàng.",
+        "pubDate": "Sat, 15 Aug 2026 16:06:15 +0700",
+        "sentiment": 0.6,
+        "importance": 3
       }
     ],
     "platforms": [
@@ -199,48 +221,6 @@
         "pubDate": "Fri, 14 Aug 26 19:30:00 +0700",
         "sentiment": 0.0,
         "importance": 2
-      }
-    ],
-    "logistics": [
-      {
-        "title": "Cận cảnh tuyến đường sẽ tách dòng xe container khỏi đô thị tại TP.HCM",
-        "url": "https://cafef.vn/can-canh-tuyen-duong-se-tach-dong-xe-container-khoi-do-thi-tai-tphcm-188260814085225428.chn",
-        "source": "CafeF",
-        "summary_en": "The Cát Lái - Phú Hữu inter-port road project in Ho Chi Minh City is planned to span nearly 6 km with 12 lanes and a total investment of 8.782 trillion VND, with construction expected to begin in the fourth quarter of 2026 and completion in 2029. Cát Lái Port is Vietnam's largest container port, handling approximately 50% of cargo traffic through the country's port system. The project aims to separate container truck traffic from urban areas in eastern Ho Chi Minh City, reducing pressure on the regional transportation network.",
-        "summary_vn": "Dự án đường liên cảng Cát Lái - Phú Hữu tại TP.HCM dài gần 6 km với 12 làn xe, tổng vốn đầu tư 8.782 tỷ đồng, dự kiến khởi công quý IV/2026 và hoàn thành năm 2029. Cảng Cát Lái là cảng container lớn nhất cả nước, đứng thứ nhất về xử lý hàng hóa với khoảng 50% thị phần thông qua hệ thống cảng biển Việt Nam. Dự án nhằm tách xe container khỏi khu đô thị vùng Đông TP.HCM, giảm áp lực giao thông cho mạng lưới khu vực.",
-        "pubDate": "Fri, 14 Aug 26 10:11:00 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Bắt đầu thu phí tại 5 đoạn tuyến cao tốc Bắc - Nam",
-        "url": "https://cafef.vn/bat-dau-thu-phi-tai-5-doan-tuyen-cao-toc-bac-nam-188260814101334798.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's Road Administration will begin charging tolls on five sections of the North-South expressway from Quang Ngai to Nha Trang starting at 2 PM on August 14. The toll rate is set at 900 Vietnamese dong per kilometer. This toll collection marks the formal implementation of user fees for these state-invested highway sections.",
-        "summary_vn": "Cục Đường bộ Việt Nam sẽ bắt đầu thu phí sử dụng đường trên năm đoạn tuyến cao tốc Bắc - Nam từ Quảng Ngãi đến Nha Trang từ 14h ngày 14/8. Mức phí được quy định là 900 đồng trên mỗi km. Đây là sự triển khai chính thức việc thu phí sử dụng các đoạn cao tốc có vốn đầu tư nhà nước này.",
-        "pubDate": "Fri, 14 Aug 26 10:34:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Từ 14h hôm nay, 5 đoạn cao tốc Bắc - Nam qua miền Trung bắt đầu thu phí",
-        "url": "https://cafef.vn/tu-14h-hom-nay-5-doan-cao-toc-bac-nam-qua-mien-trung-bat-dau-thu-phi-188260814134108513.chn",
-        "source": "CafeF",
-        "summary_en": "Five sections of the North-South expressway passing through central Vietnam, spanning from Quang Ngai to Khanh Hoa, officially began electronic toll collection (ETC) from 2 PM on the date of publication. These five component projects are part of the eastern North-South expressway corridor. The toll collection system is electronic and operates without requiring vehicles to stop.",
-        "summary_vn": "Năm đoạn cao tốc Bắc - Nam đi qua miền Trung từ Quảng Ngãi đến Khánh Hòa chính thức bắt đầu thu phí điện tử không dừng (ETC) từ 14h cùng ngày. Các dự án thành phần này là một phần của tuyến cao tốc Bắc - Nam phía Đông. Hệ thống thu phí được triển khai theo hình thức điện tử và không yêu cầu xe dừng lại.",
-        "pubDate": "Fri, 14 Aug 26 14:00:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Bao nhiêu chuyến bay ở Tân Sơn Nhất bị ảnh hưởng vì 3 con diều?",
-        "url": "https://cafef.vn/bao-nhieu-chuyen-bay-o-tan-son-nhat-bi-anh-huong-vi-3-con-dieu-188260814150807294.chn",
-        "source": "CafeF",
-        "summary_en": "Kites flown by residents near Tan Son Nhat airport in Ho Chi Minh City on the evening of August 13 caused disruptions to multiple flights. Four departing flights and seven arriving flights were affected, with flight VN595 diverting to Cam Ranh airport for landing.",
-        "summary_vn": "Các con diều được thả diều gắn đèn chớp gần sân bay Tân Sơn Nhất tối ngày 13/8 đã gây ảnh hưởng đến nhiều chuyến bay. Có 4 chuyến bay chờ khởi hành và 7 chuyến bay đến bị ảnh hưởng, trong đó chuyến VN595 phải chuyển hướng hạ cánh xuống Cam Ranh.",
-        "pubDate": "Fri, 14 Aug 26 15:07:00 +0700",
-        "sentiment": -0.8,
-        "importance": 3
       }
     ]
   }

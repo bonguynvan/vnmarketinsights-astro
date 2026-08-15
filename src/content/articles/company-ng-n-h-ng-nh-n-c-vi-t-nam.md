@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-14"
-lastUpdated: "2026-08-14"
+publishedDate: "2026-08-15"
+lastUpdated: "2026-08-15"
 category: "Company"
 readingTime: 3
 ---
@@ -43,6 +43,12 @@ The State Bank of Vietnam will manage exchange rates flexibly in accordance with
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-se-dieu-hanh-ty-gia-linh-hoat-phu-hop-voi-dieu-kien-thi-truong-188260814151556517.chn)
 
+**Ngân hàng khát vốn, nhưng có nhà băng hút tiền cực mạnh, dư tới 240.000 tỷ đồng**  
+
+As of June 30, 2026, total customer deposits across 30 domestic commercial banks reached approximately 16.02 million billion dong, while total outstanding loan balances reached 17.04 million billion dong, a difference of about 1.02 million billion dong. By the end of July 2026, total credit outstanding in the economy reached nearly 20.3 million billion dong, growing 8.98% compared to the end of 2025, while capital mobilization increased 5.75%. The faster growth in credit relative to deposit mobilization indicates liquidity pressure in the banking system.
+
+- Source: [VietnamNet](https://vietnamnet.vn/ngan-hang-khat-von-nhung-co-nha-bang-hut-tien-cuc-manh-du-toi-240-000-ty-dong-2545079.html)
+
 **Thủ tướng Chính phủ làm việc với Ngân hàng Nhà nước và hệ thống các tổ chức tín dụng**  
 
 The Prime Minister of Vietnam, Lê Minh Hung, chaired a working session with the State Bank of Vietnam (SBV) and credit institutions on August 13 at the Government headquarters. The meeting was attended by Deputy Prime Minister Phạm Gia Túc, Deputy Prime Minister Nguyễn Văn Thắng, and other senior officials including Nguyễn Thị Hồng. The session brought together government and financial sector leadership to discuss matters of national economic importance.
@@ -79,18 +85,12 @@ The Governor of the State Bank of Vietnam, Phạm Đức Ấn, clarified that ap
 
 - Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-ap-dung-cac-ty-le-an-toan-khac-phuc-vu-phat-trien-kinh-te-xa-hoi-khong-dong-nghia-voi-viec-ha-chuan-an-toan-hay-noi-long-rui-ro-188260810071334948.chn)
 
-**Phó Thống đốc NHNN: Yêu cầu các ngân hàng công bố gói tín dụng ưu đãi cho SMEs và lĩnh vực ưu tiên ngay tháng 8/2026**  
-
-Vietnam's Deputy Prime Minister Nguyen Van Thang chaired a working session on August 10, 2026 to address difficulties in credit access for businesses. Deputy State Bank Governor Nguyen Ngoc Canh stated that the central bank has been conducting credit operations appropriately and providing timely capital supply to the economy. Banks are required to announce preferential credit packages for SMEs and priority sectors starting August 2026.
-
-- Source: [CafeF](https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn)
-
 ## Related coverage
 
 - [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
-- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
 - [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
-- [NHNN ra chỉ đạo nóng tới các ngân hàng: Một nhóm khách hàng sắp được vay vốn với lãi suất thấp hơn ít nhất 1%/năm](https://cafef.vn/nhnn-ra-chi-dao-nong-toi-cac-ngan-hang-mot-nhom-khach-hang-sap-duoc-vay-von-voi-lai-suat-thap-hon-it-nhat-1-nam-18826081016533361.chn) — CafeF
+- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Phó Thống đốc NHNN: Yêu cầu các ngân hàng công bố gói tín dụng ưu đãi cho SMEs và lĩnh vực ưu tiên ngay tháng 8/2026](https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn) — CafeF
 
 ---
 

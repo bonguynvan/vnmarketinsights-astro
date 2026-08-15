@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-14T23:16:23.059816+00:00",
+  "generatedAt": "2026-08-15T23:13:24.513577+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 830,
+      "total": 844,
       "growthRate": 5.5,
-      "avgSentiment": -0.083,
+      "avgSentiment": -0.08,
       "tag": "Rising Star",
       "series": [
         {
@@ -266,17 +266,22 @@
         },
         {
           "date": "2026-08-14",
+          "count": 14,
+          "sentiment": -0.107
+        },
+        {
+          "date": "2026-08-15",
           "count": 13,
-          "sentiment": -0.115
+          "sentiment": 0.077
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 539,
-      "growthRate": 4.0,
-      "avgSentiment": 0.093,
+      "total": 549,
+      "growthRate": 2.0,
+      "avgSentiment": 0.094,
       "tag": "Rising Star",
       "series": [
         {
@@ -536,17 +541,22 @@
         },
         {
           "date": "2026-08-14",
-          "count": 15,
-          "sentiment": 0.02
+          "count": 16,
+          "sentiment": 0.0
+        },
+        {
+          "date": "2026-08-15",
+          "count": 9,
+          "sentiment": 0.178
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 298,
+      "total": 299,
       "growthRate": -0.933,
-      "avgSentiment": 0.259,
+      "avgSentiment": 0.274,
       "tag": "Stable",
       "series": [
         {
@@ -798,16 +808,21 @@
           "date": "2026-08-14",
           "count": 1,
           "sentiment": 0.7
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "sentiment": 1.0
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 211,
-      "growthRate": 0.0,
-      "avgSentiment": 0.213,
-      "tag": "Stable",
+      "total": 218,
+      "growthRate": 2.5,
+      "avgSentiment": 0.216,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-20",
@@ -1063,14 +1078,19 @@
           "date": "2026-08-14",
           "count": 2,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-08-15",
+          "count": 7,
+          "sentiment": 0.343
         }
       ]
     },
     {
       "topic": "consumers",
       "siteSlug": "consumers",
-      "total": 109,
-      "growthRate": -0.8,
+      "total": 113,
+      "growthRate": -0.4,
       "avgSentiment": 0.121,
       "tag": "Stable",
       "series": [
@@ -1286,18 +1306,23 @@
         },
         {
           "date": "2026-08-14",
-          "count": 1,
-          "sentiment": -0.3
+          "count": 2,
+          "sentiment": -0.35
+        },
+        {
+          "date": "2026-08-15",
+          "count": 3,
+          "sentiment": 0.167
         }
       ]
     },
     {
       "topic": "logistics",
       "siteSlug": "logistics",
-      "total": 99,
-      "growthRate": 0.0,
-      "avgSentiment": 0.22,
-      "tag": "Stable",
+      "total": 100,
+      "growthRate": 0.25,
+      "avgSentiment": 0.224,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-21",
@@ -1511,17 +1536,17 @@
         },
         {
           "date": "2026-08-14",
-          "count": 4,
-          "sentiment": -0.125
+          "count": 5,
+          "sentiment": 0.02
         }
       ]
     },
     {
       "topic": "payments",
       "siteSlug": "payments",
-      "total": 53,
-      "growthRate": 0.0,
-      "avgSentiment": 0.453,
+      "total": 54,
+      "growthRate": -0.5,
+      "avgSentiment": 0.447,
       "tag": "Stable",
       "series": [
         {
@@ -1648,15 +1673,20 @@
           "date": "2026-08-14",
           "count": 2,
           "sentiment": 0.25
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
     {
       "topic": "ecommerce",
       "siteSlug": "ecommerce",
-      "total": 47,
-      "growthRate": 0.0,
-      "avgSentiment": 0.328,
+      "total": 48,
+      "growthRate": -0.5,
+      "avgSentiment": 0.336,
       "tag": "Stable",
       "series": [
         {
@@ -1808,15 +1838,20 @@
           "date": "2026-08-13",
           "count": 2,
           "sentiment": 0.45
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "sentiment": 0.6
         }
       ]
     },
     {
       "topic": "infrastructure",
       "siteSlug": "",
-      "total": 42,
+      "total": 43,
       "growthRate": -0.667,
-      "avgSentiment": 0.118,
+      "avgSentiment": 0.125,
       "tag": "Stable",
       "series": [
         {
@@ -1958,6 +1993,11 @@
           "date": "2026-08-14",
           "count": 1,
           "sentiment": 0.0
+        },
+        {
+          "date": "2026-08-15",
+          "count": 1,
+          "sentiment": 0.3
         }
       ]
     },
