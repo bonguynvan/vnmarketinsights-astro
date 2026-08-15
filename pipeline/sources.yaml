@@ -1,15 +1,20 @@
 # Source registry for the VN market news pipeline.
 # RSS-first. `fetch_full` controls whether we also download the linked
-# article HTML for clean main-text extraction (Phase 0 keeps a small set on
-# to validate extraction; expand later).
+# article HTML for clean main-text extraction.
 #
 # Etiquette: respect robots.txt, descriptive User-Agent, per-domain rate limit.
 # We store only summaries + links, never republish full article bodies.
+#
+# Balance policy (2026-08): the brief used to read like a CafeF mirror because
+# CafeF ran three finance feeds (75 candidates) and ate the whole enrichment
+# budget. We now spread across business + regulation sources, cap each feed,
+# and minimise CafeF to a single capped macro voice. The brief step also caps
+# items per source (see PER_SOURCE_CAP in brief.py) as a second safety net.
 
 defaults:
   per_domain_delay_seconds: 2.5
   request_timeout_seconds: 20
-  max_items_per_feed: 25
+  max_items_per_feed: 10
   fetch_full: true
 
 sources:
@@ -20,46 +25,35 @@ sources:
       - https://vnexpress.net/rss/kinh-doanh.rss
       - https://vnexpress.net/rss/doanh-nghiep.rss
 
-  - name: CafeF
-    lang: vi
-    topic_hint: business
-    feeds:
-      - https://cafef.vn/thi-truong-chung-khoan.rss
-      - https://cafef.vn/vi-mo-dau-tu.rss
-      - https://cafef.vn/tai-chinh-ngan-hang.rss
-
-  - name: VietnamNet
-    lang: vi
-    topic_hint: business
-    feeds:
-      - https://vietnamnet.vn/rss/kinh-doanh.rss
-
-  - name: TuoiTre
-    lang: vi
-    topic_hint: business
-    feeds:
-      - https://tuoitre.vn/rss/kinh-doanh.rss
-
   - name: ThanhNien
     lang: vi
     topic_hint: economy
     feeds:
       - https://thanhnien.vn/rss/kinh-te.rss
 
-  # Law / regulation coverage. VnEconomy's "policy" feed carries economic-law,
-  # decree, and business-regulation news; the enrich step classifies each item
-  # into the `regulation` topic, which feeds the /regulations hub + trends.
+  # Business highlights + policy/regulation. VnEconomy is strong on the
+  # regulation and macro-policy news that matters to foreign operators.
   - name: VnEconomy
     lang: vi
-    topic_hint: regulation
+    topic_hint: business
     feeds:
+      - https://vneconomy.vn/tieu-diem.rss
       - https://vneconomy.vn/chinh-sach.rss
 
-  # Government e-newspaper "Policy & Life" feed — authoritative source for new
-  # decrees, tax rules, and business-regulation proposals straight from the
-  # state. Enrich classifies items into the `regulation` topic.
+  # Government e-newspaper — authoritative on new decrees, tax rules, and
+  # business-regulation proposals. Low volume but high signal for /regulations.
   - name: BaoChinhPhu
     lang: vi
     topic_hint: regulation
     feeds:
       - https://baochinhphu.vn/chinh-sach-va-cuoc-song.rss
+
+  # Deliberately minimised: dropped CafeF's pure stock-market and banking feeds
+  # (least relevant to foreign consumer/operator readers). One capped macro
+  # voice remains so CafeF can no longer dominate the brief.
+  - name: CafeF
+    lang: vi
+    topic_hint: macro
+    max_items_per_feed: 6
+    feeds:
+      - https://cafef.vn/vi-mo-dau-tu.rss

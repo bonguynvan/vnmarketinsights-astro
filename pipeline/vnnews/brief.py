@@ -32,6 +32,9 @@ TOPIC_LABELS_VI = {
 }
 WINDOW_DAYS = 7
 MAX_ITEMS = 25
+# No single outlet may supply more than this many items to a brief, so the
+# digest reads like a market round-up rather than a one-source mirror.
+PER_SOURCE_CAP = 5
 INTRO_INPUT_ITEMS = 12
 
 # Per-language presentation strings keep _render free of inline conditionals.
@@ -84,6 +87,23 @@ def _overview(settings: Settings, rows: list, lang: str) -> str:
     except Exception as exc:
         print(f"  [warn] overview generation failed ({lang}) -> {exc}")
         return cfg["fallback"]
+
+
+def _diversify(rows: list) -> list:
+    """Cap how many items come from any single source while preserving the
+    importance ordering, so one prolific outlet can't dominate the brief.
+    `rows` is expected pre-sorted by importance (see db.enriched_since)."""
+    out: list = []
+    per_source: dict[str, int] = {}
+    for row in rows:
+        src = row["source"] or "other"
+        if per_source.get(src, 0) >= PER_SOURCE_CAP:
+            continue
+        out.append(row)
+        per_source[src] = per_source.get(src, 0) + 1
+        if len(out) >= MAX_ITEMS:
+            break
+    return out
 
 
 def _group_by_topic(rows: list) -> dict[str, list]:
@@ -146,7 +166,10 @@ def run_brief(settings: Settings) -> str | None:
 
     with db.connect(settings.db_path) as conn:
         db.init_db(conn)
-        rows = db.enriched_since(conn, since, MAX_ITEMS)
+        # Pull a wider importance-ranked pool, then cap per source for balance.
+        pool = db.enriched_since(conn, since, MAX_ITEMS * 4)
+
+    rows = _diversify(pool)
 
     if not rows:
         print("  [info] no enriched articles in window — run `enrich` first.")
