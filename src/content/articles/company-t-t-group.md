@@ -1,17 +1,23 @@
 ---
 title: "T&T Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning T&T Group, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # T&T Group
 
-Recent Vietnam market news mentioning **T&T Group** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **T&T Group** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**T&amp;amp;T Group bắt tay Yusys, hướng tới liên doanh công nghệ vươn tầm ASEAN**  
+
+T&T Group is partnering with Yusys Technologies, a leading Chinese fintech corporation, to form a technology joint venture. Yusys ranked 40th in IDC's Top 100 Fintech Companies globally in 2022 and remained in the Top 50 during 2021-2023. The companies aim to develop core systems, digital applications, data solutions, and AI-powered services for banks and financial institutions across the ASEAN region.
+
+- Source: [VietnamNet](https://vietnamnet.vn/t-t-group-bat-tay-yusys-huong-toi-lien-doanh-cong-nghe-vuon-tam-asean-2545202.html)
 
 **Năng lực thực thi và hành trình chinh phục dòng vốn lớn của T&T Group**  
 
@@ -33,10 +39,10 @@ T&T Group, led by Bầu Hiển, has been actively engaging with multiple Vietnam
 
 ## Related coverage
 
-- [Đông Nam Bộ: Khơi thông động lực cho mục tiêu tăng trưởng hai con số](https://cafef.vn/dong-nam-bo-khoi-thong-dong-luc-cho-muc-tieu-tang-truong-hai-con-so-188260718141652237.chn) — CafeF
 - [Kiến tạo các tập đoàn kinh tế Việt Nam: Cần một hệ sinh thái phát triển mới](https://cafef.vn/kien-tao-cac-tap-doan-kinh-te-viet-nam-can-mot-he-sinh-thai-phat-trien-moi-188260713133834197.chn) — CafeF
+- [Đông Nam Bộ: Khơi thông động lực cho mục tiêu tăng trưởng hai con số](https://cafef.vn/dong-nam-bo-khoi-thong-dong-luc-cho-muc-tieu-tang-truong-hai-con-so-188260718141652237.chn) — CafeF
 - [Dòng vốn phát triển của Nhà nước và bài toán kích hoạt nguồn lực tư nhân](https://cafef.vn/dong-von-phat-trien-cua-nha-nuoc-va-bai-toan-kich-hoat-nguon-luc-tu-nhan-188260730143846962.chn) — CafeF
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
+- [HSBC: Nghị quyết 10 tạo nền tảng để Việt Nam thu hút dòng vốn chất lượng cao](https://cafef.vn/hsbc-nghi-quyet-10-tao-nen-tang-de-viet-nam-thu-hut-dong-von-chat-luong-cao-188260804144834067.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Bảo Tín Minh Châu — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Bảo Tín Minh Châu, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---

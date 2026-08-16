@@ -1,66 +1,128 @@
 {
-  "generatedAt": "2026-08-15T23:13:24.511884+00:00",
+  "generatedAt": "2026-08-16T23:12:05.785913+00:00",
   "topics": {
     "financial-markets": [
       {
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác giáo dục, nông nghiệp và ứng phó biến đổi khí hậu",
-        "url": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-new-zealand-tang-hop-tac-giao-duc-nong-nghiep-va-ung-pho-bien-doi-khi-hau.htm",
-        "source": "VnEconomy",
-        "summary_en": "General Secretary and State President Tô Lâm of Vietnam met with New Zealand's Governor-General Dame Cindy Kiro on August 13 in Auckland following an official reception ceremony at Government House. This marked the first state visit to New Zealand by a Vietnamese General Secretary and State President in both capacities. The Vietnamese leader proposed expanding cooperation with New Zealand in education, agriculture, and climate change response.",
-        "summary_vn": "Sáng 13/8, Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Toàn quyền New Zealand Dame Cindy Kiro tại thành phố Auckland sau Lễ đón trọng thể tại Phủ Toàn quyền. Đây là lần đầu tiên Tổng Bí thư, Chủ tịch nước Việt Nam thăm New Zealand trên cả hai cương vị. Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác trong giáo dục, nông nghiệp và ứng phó biến đổi khí hậu.",
-        "pubDate": "Thu, 13 Aug 2026 08:38:33 GMT",
-        "sentiment": 0.5,
+        "title": "MSCI muốn loại công ty giữ Bitcoin khỏi chỉ số chứng khoán toàn cầu",
+        "url": "https://vnexpress.net/msci-muon-loai-cong-ty-giu-bitcoin-khoi-chi-so-chung-khoan-toan-cau-5109609.html",
+        "source": "VnExpress",
+        "summary_en": "MSCI is proposing a new methodology to identify and exclude non-operating companies from global stock indices. The proposal could result in companies that hold Bitcoin, including Grayscale Bitcoin Trust (Strategy), being removed from MSCI indices. MSCI will evaluate businesses using five financial metrics including the proportion of operating assets, expenses, and cash flow.",
+        "summary_vn": "MSCI đang đề xuất một phương pháp mới để xác định và loại những \"công ty không vận hành\" khỏi các chỉ số chứng khoán toàn cầu. Đề xuất này có thể dẫn đến việc các công ty nắm giữ Bitcoin, bao gồm Grayscale Bitcoin Trust (Strategy), bị loại khỏi các chỉ số của MSCI. MSCI sẽ đánh giá doanh nghiệp thông qua năm chỉ số tài chính gồm tỷ trọng tài sản phục vụ hoạt động, chi phí và dòng tiền.",
+        "pubDate": "Sun, 16 Aug 2026 08:11:58 +0700",
+        "sentiment": -0.3,
         "importance": 3
       },
       {
-        "title": "Việt Nam - New Zealand thúc đẩy hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không",
-        "url": "https://vneconomy.vn/viet-nam-new-zealand-thuc-day-hop-tac-cong-nghe-nong-nghiep-xanh-va-ket-noi-hang-khong.htm",
-        "source": "VnEconomy",
-        "summary_en": "Vietnam's Communist Party General Secretary and State President Tô Lâm held talks with New Zealand Prime Minister Christopher Luxon in Auckland on August 13. The meeting marked a significant milestone in bilateral relations spanning over half a century. The discussions focused on technology cooperation, green agriculture, and aviation connectivity between the two countries.",
-        "summary_vn": "Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng New Zealand Christopher Luxon tại Auckland ngày 13/8. Cuộc gặp được xem là mốc quan trọng trong quan hệ hai nước kéo dài hơn nửa thế kỷ. Các cuộc thảo luận tập trung vào hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không giữa hai quốc gia.",
-        "pubDate": "Thu, 13 Aug 2026 08:51:57 GMT",
-        "sentiment": 0.5,
-        "importance": 3
+        "title": "Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet",
+        "url": "https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html",
+        "source": "VnExpress",
+        "summary_en": "Berkshire Hathaway nearly doubled its investment in Alphabet in the second quarter, increasing its holdings from 57.8 million shares to approximately 106 million shares as of June 30. The company's total Alphabet position is valued at around $37.8 billion, including a $10 billion investment announced in June to support Google's AI infrastructure expansion. Berkshire filed this information with U.S. regulators on August 15.",
+        "summary_vn": "Berkshire Hathaway gần như tăng gấp đôi khoản đầu tư vào Alphabet trong quý II, nâng từ 57,8 triệu cổ phiếu lên khoảng 106 triệu cổ phiếu tính đến ngày 30/6. Tổng giá trị vị thế Alphabet của công ty là khoảng 37,8 tỷ USD, bao gồm khoản đầu tư 10 tỷ USD được công bố vào tháng 6 nhằm hỗ trợ mở rộng hạ tầng trí tuệ nhân tạo của Google. Berkshire đã nộp thông tin này cho các cơ quan quản lý Mỹ vào ngày 15 tháng 8.",
+        "pubDate": "Sun, 16 Aug 2026 10:05:00 +0700",
+        "sentiment": 0.3,
+        "importance": 4
       },
       {
-        "title": "Việt Nam - New Zealand ra Tuyên bố chung, thúc đẩy thương mại, kinh tế xanh, công nghệ và kết nối hàng không",
-        "url": "https://vneconomy.vn/viet-nam-new-zealand-ra-tuyen-bo-chung-thuc-day-thuong-mai-kinh-te-xanh-cong-nghe-va-ket-noi-hang-khong.htm",
-        "source": "VnEconomy",
-        "summary_en": "Vietnam and New Zealand issued a joint statement during General Secretary and State President Tô Lâm's state visit to New Zealand on August 12-13, 2026, as invited by Governor-General Dame Cindy Kiro. The statement outlines major directions to deepen the Comprehensive Strategic Partnership, particularly in economics, trade, science and technology, education, and sustainable development. The two countries aim to strengthen cooperation across multiple sectors including green economy and aviation connectivity.",
-        "summary_vn": "Trong chuyến thăm cấp Nhà nước tới New Zealand từ ngày 12-13/8/2026 theo lời mời của Toàn quyền New Zealand, Việt Nam và New Zealand đã ra Tuyên bố chung. Tuyên bố xác định nhiều định hướng lớn nhằm làm sâu sắc quan hệ Đối tác Chiến lược Toàn diện giữa hai nước, đặc biệt trong các lĩnh vực kinh tế, thương mại, khoa học công nghệ, giáo dục và phát triển bền vững. Hai quốc gia cam kết tăng cường hợp tác trong nền kinh tế xanh và kết nối hàng không.",
-        "pubDate": "Thu, 13 Aug 2026 09:14:20 GMT",
+        "title": "Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật",
+        "url": "https://thanhnien.vn/gia-usd-hom-nay-1682026-giam-sau-cung-euro-yen-nhat-185260815154724355.htm",
+        "source": "ThanhNien",
+        "summary_en": "On August 16, 2026, USD prices declined across Vietnamese commercial banks after one week. Vietcombank's USD buying rate fell to 25,950 VND and selling rate to 26,330 VND, down 80 VND from the previous week, while ACB recorded a 60 VND decrease. Other foreign currencies including the euro and Japanese yen also declined during the same period.",
+        "summary_vn": "Sáng ngày 16.8.2026, giá USD tại các ngân hàng thương mại Việt Nam giảm sau một tuần. Vietcombank ghi nhận tỷ giá mua chuyển khoản ở mức 25.950 đồng và bán ra 26.330 đồng, giảm 80 đồng so với tuần trước, trong khi ACB giảm 60 đồng. Các ngoại tệ khác như euro và yen Nhật cũng ghi nhận xu hướng giảm trong cùng kỳ.",
+        "pubDate": "Sun, 16 Aug 26 07:28:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
+      {
+        "title": "Đà tăng giá vàng thế giới có thể kéo dài",
+        "url": "https://vnexpress.net/da-tang-gia-vang-the-gioi-co-the-keo-dai-5109741.html",
+        "source": "VnExpress",
+        "summary_en": "Gold prices experienced significant volatility this week, reaching over $4,400 per ounce—a 10-week high—driven by technical buying pressure, followed by profit-taking and a recovery at week's end after weaker-than-expected US retail sales data. The Kitco survey shows 90% of experts expect gold prices to rise next week as expectations grow that the Federal Reserve will maintain interest rates. Gold's upward momentum appears likely to continue based on technical and macroeconomic factors.",
+        "summary_vn": "Giá vàng thế giới giao dịch với biến động lớn trong tuần này, đạt mức hơn 4.400 USD/oz (cao nhất 10 tuần) do lực mua kỹ thuật, sau đó giảm mạnh khi nhà đầu tư chốt lời và phục hồi sau khi dữ liệu bán lẻ Mỹ bất ngờ giảm. Khảo sát của Kitco cho thấy 90% chuyên gia dự báo giá vàng tuần tới sẽ tăng do kỳ vọng Fed giữ nguyên lãi suất gia tăng. Đà tăng của vàng dự kiến sẽ tiếp tục dựa trên các yếu tố kỹ thuật và vĩ mô.",
+        "pubDate": "Sun, 16 Aug 2026 17:38:24 +0700",
         "sentiment": 0.6,
         "importance": 3
       },
       {
-        "title": "T&iacute;n dụng bất động sản tr&aacute;nh &#039;c&agrave;o bằng&#039;",
-        "url": "https://thanhnien.vn/tin-dung-bat-dong-san-tranh-cao-bang-185260815150955928.htm",
+        "title": "M&ugrave;a mưa ở Nam bộ kết th&uacute;c sớm 20 ng&agrave;y v&igrave; &#039;si&ecirc;u El Nino&#039;",
+        "url": "https://thanhnien.vn/mua-mua-o-nam-bo-ket-thuc-som-20-ngay-vi-sieu-el-nino-18526081607235922.htm",
         "source": "ThanhNien",
-        "summary_en": "Real estate's interconnectedness with the broader economy occurs through multiple channels including collateral values for bank loans, household wealth, bond capital flows, buyer deposits, and activities across construction, materials, and furniture supply chains. The concern extends beyond temporary price adjustments to encompass prolonged project stalls and uncertainty about which projects remain viable. The excerpt references lessons from China's real estate sector.",
-        "summary_vn": "Bất động sản có liên thông cao với nền kinh tế thông qua giá trị tài sản bảo đảm cho tín dụng ngân hàng, tài sản hộ gia đình, dòng vốn trái phiếu, tiền ứng trước của người mua, và hoạt động của chuỗi xây dựng, vật liệu, nội thất. Mối quan tâm không chỉ là điều chỉnh giá tạm thời mà là tình trạng dự án đình trệ kéo dài và không rõ dự án nào còn khả năng hoàn thành. Bài viết tham chiếu bài học từ Trung Quốc.",
-        "pubDate": "Sat, 15 Aug 26 16:53:00 +0700",
-        "sentiment": -0.3,
+        "summary_en": "The Southern Regional Hydro-Meteorological Center released a seasonal forecast indicating that \"super El Niño\" will increase temperatures and cause the rainy season in southern Vietnam to end 20 days earlier than normal. Over the past two months, El Niño has significantly affected regional weather, causing average temperatures to rise and creating periods of intense heat. In June, average temperatures were 0.9-1.7°C above the long-term average, with a peak temperature of 37°C recorded in Tan Son Hoa.",
+        "summary_vn": "Đài Khí tượng thủy văn Nam bộ phát hành bản tin dự báo mùa cho biết \"siêu El Nino\" sẽ làm tăng nhiệt độ và mùa mưa ở Nam bộ kết thúc sớm 20 ngày so với bình thường. Trong 2 tháng vừa qua, El Nino đã ảnh hưởng đáng kể đến thời tiết khu vực, gây ra sự gia tăng nhiệt độ trung bình và những đợt nắng nóng gay gắt. Tháng 6, nền nhiệt độ trung bình cao hơn trung bình nhiều năm từ 0,9-1,7 độ C, nhiệt độ cao nhất ngày ghi nhận tại Tân Sơn Hòa là 37 độ C.",
+        "pubDate": "Sun, 16 Aug 26 07:47:00 +0700",
+        "sentiment": -0.6,
         "importance": 3
       },
       {
-        "title": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
-        "url": "https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html",
+        "title": "Nước sông Rhine cạn gây thêm trở ngại cho kinh tế Đức",
+        "url": "https://vnexpress.net/nuoc-song-rhine-can-gay-them-tro-ngai-cho-kinh-te-duc-5109556.html",
         "source": "VnExpress",
-        "summary_en": "Alphabet, Google's parent company, reported that its SpaceX shareholding was valued at $94 billion as of end-June. The company originally invested $900 million in SpaceX in 2015. The investment has appreciated approximately 100-fold over the more than 10-year period.",
-        "summary_vn": "Alphabet, công ty mẹ của Google, báo cáo rằng cổ phần SpaceX của họ được định giá 94 tỷ USD vào cuối tháng Sáu. Công ty đã đầu tư 900 triệu USD vào SpaceX năm 2015. Khoản đầu tư này đã tăng giá gấp khoảng 100 lần trong hơn 10 năm.",
-        "pubDate": "Sat, 15 Aug 2026 10:08:47 +0700",
-        "sentiment": 1.0,
+        "summary_en": "Low water levels on the Rhine River are reaching record lows, disrupting transportation and supply chains across German industrial centers. This drought threatens Germany's economic recovery. Typically, low water periods on the Rhine occur from September to November each year, with Kaub being one of the shallowest sections.",
+        "summary_vn": "Mực nước thấp kỷ lục trên sông Rhine đang gây cản trở vận tải và chuỗi cung ứng trên các trung tâm công nghiệp Đức. Tình trạng hạn hán này có khả năng cản trở phục hồi kinh tế của Đức. Thông thường, mực nước thấp trên sông Rhine xảy ra từ tháng 9 đến tháng 11 hàng năm, với Kaub là một trong những đoạn nông nhất.",
+        "pubDate": "Mon, 17 Aug 2026 00:00:00 +0700",
+        "sentiment": -0.8,
         "importance": 4
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Viên chức chưa có chứng chỉ bồi dưỡng có được hưởng 100% lương?",
+        "url": "https://cafef.vn/vien-chuc-chua-co-chung-chi-boi-duong-co-duoc-huong-100-luong-188260816133721263.chn",
+        "source": "CafeF",
+        "summary_en": "An article addresses whether civil servants who have completed their probationary period but have not yet obtained professional training certificates can receive full salary. The query concerns civil servants in Cao Bang province who finished probation but lack professional development certificates due to training classes not being organized. The article discusses whether such civil servants can be recognized as having completed their probation and receive 100% of their corresponding professional position salary.",
+        "summary_vn": "Bài viết thảo luận về việc liệu viên chức đã hoàn thành thời gian tập sự nhưng chưa có chứng chỉ bồi dưỡng chuyên môn có được hưởng 100% lương hay không. Câu hỏi được đặt ra từ viên chức tại Cao Bằng những người đã hoàn thành tập sự nhưng thiếu chứng chỉ bồi dưỡng chức danh nghề nghiệp vì các lớp đào tạo chưa được tổ chức. Bài viết đề cập đến việc viên chức như vậy có thể được công nhận đã hoàn thành tập sự và nhận 100% lương mức chức danh nghề nghiệp tương ứng hay không.",
+        "pubDate": "Sun, 16 Aug 26 14:45:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
       },
       {
-        "title": "69% &#039;si&ecirc;u El Nino&#039; sẽ mạnh nhất lịch sử",
-        "url": "https://thanhnien.vn/69-sieu-el-nino-se-manh-nhat-lich-su-185260815145757427.htm",
-        "source": "ThanhNien",
-        "summary_en": "Vietnam's meteorological experts report that El Niño has reached severe intensity, termed \"super El Niño\". The US National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center provided weekly updates showing sea surface temperature increases in monitored regions during early August, with Niño 3.4 at 1.8°C, Niño 1-2 at 3.3°C, and Niño 3 at 2.4°C. A monthly forecast from the CPC issued on August 13 indicated continued El Niño activity during July.",
-        "summary_vn": "Các chuyên gia khí tượng Việt Nam cho biết El Niño đã đạt cường độ rất mạnh, được gọi là \"siêu El Niño\". Trung tâm Dự báo khí hậu của NOAA (Mỹ) cung cấp cập nhật hàng tuần cho thấy nhiệt độ mặt nước biển ở các khu vực giám sát tiếp tục tăng vào đầu tháng 8, với Niño 3.4 là 1,8°C, Niño 1-2 là 3,3°C, và Niño 3 là 2,4°C. Bản dự báo hàng tháng của CPC phát hành ngày 13 tháng 8 cho biết El Niño tiếp tục hoạt động mạnh trong tháng 7.",
-        "pubDate": "Sat, 15 Aug 26 16:54:00 +0700",
+        "title": "Dừng giải quyết hồ sơ đánh giá tác động môi trường thuộc diện cắt giảm",
+        "url": "https://cafef.vn/dung-giai-quyet-ho-so-danh-gia-tac-dong-moi-truong-thuoc-dien-cat-giam-18826081615065631.chn",
+        "source": "CafeF",
+        "summary_en": "The Vietnamese Government issued Resolution 66.19/2026/NQ-CP which reduces the scope of entities required to conduct environmental impact assessments. For pending cases that have been received but not yet resolved, transitional provisions apply, allowing administrative procedures to be discontinued for projects that no longer meet the new assessment requirements.",
+        "summary_vn": "Chính phủ Việt Nam đã ban hành Nghị quyết số 66.19/2026/NQ-CP cắt giảm danh sách các chủ thể phải thực hiện đánh giá tác động môi trường. Đối với hồ sơ đã tiếp nhận nhưng chưa có kết quả giải quyết, các quy định chuyển tiếp cho phép dừng các thủ tục hành chính đối với những dự án không còn thuộc diện phải đánh giá theo quy định mới.",
+        "pubDate": "Sun, 16 Aug 26 15:28:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "TP Hồ Chí Minh bỏ giới hạn địa giới khi làm thủ tục nhà đất",
+        "url": "https://cafef.vn/tp-ho-chi-minh-bo-gioi-han-dia-gioi-khi-lam-thu-tuc-nha-dat-18826081615055389.chn",
+        "source": "CafeF",
+        "summary_en": "Ho Chi Minh City has approved a process to remove geographical boundary restrictions for five property-related administrative procedures. Citizens and organizations can now submit documentation at any land registration office in the city, regardless of which district they reside in. This measure aims to reduce travel time and costs for residents managing property transactions.",
+        "summary_vn": "TP Hồ Chí Minh đã phê duyệt quy trình giải quyết 5 thủ tục nhà đất mà không phụ thuộc vào địa giới hành chính. Người dân và tổ chức có thể nộp hồ sơ tại bất kỳ Văn phòng Đăng ký đất đai nào trong TP, bất kể họ cư trú ở đâu. Biện pháp này nhằm giảm thời gian và chi phí đi lại cho cư dân trong việc thực hiện các thủ tục liên quan đến nhà đất.",
+        "pubDate": "Sun, 16 Aug 26 16:00:00 +0700",
+        "sentiment": 0.5,
+        "importance": 2
+      },
+      {
+        "title": "Cơ quan Thuế thông báo: Người nộp thuế có thể bị phạt tới 100 triệu đồng trong trường hợp sau",
+        "url": "https://cafef.vn/co-quan-thue-thong-bao-nguoi-nop-thue-co-the-bi-phat-toi-100-trieu-dong-trong-truong-hop-sau-18826081615131536.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's tax authorities announced that taxpayers and related organizations or individuals must provide accurate, complete, and timely information as requested by tax agencies. Failure to comply can result in fines ranging from 10 million to 100 million Vietnamese dong. The announcement was issued on August 15, 2026.",
+        "summary_vn": "Cơ quan Thuế Việt Nam thông báo rằng người nộp thuế và các tổ chức, cá nhân liên quan phải cung cấp thông tin chính xác, đầy đủ và đúng thời hạn theo yêu cầu của cơ quan thuế. Trường hợp vi phạm sẽ bị phạt từ 10 triệu đến 100 triệu đồng. Thông báo được phát hành vào ngày 15 tháng 8 năm 2026.",
+        "pubDate": "Sun, 16 Aug 26 16:21:00 +0700",
         "sentiment": -0.3,
-        "importance": 3
+        "importance": 2
+      },
+      {
+        "title": "Hợp nhất thủ tục về thuế, hộ kinh doanh v&agrave; c&aacute; nh&acirc;n cần lưu &yacute; g&igrave;?",
+        "url": "https://thanhnien.vn/hop-nhat-thu-tuc-ve-thue-ho-kinh-doanh-va-ca-nhan-can-luu-y-gi-185260816084010452.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietnam's Ministry of Finance has issued a consolidation document (No. 24/2026/VBHN-TT-BTC) that systematizes regulations on tax filing procedures and management for business households and self-employed individuals. The document consolidates regulations previously outlined in Circular No. 18/2026/TT-BTC on tax management procedures and Circular No. 50/2026/TT-BTC that amended the earlier circular. The consolidation covers notification of business revenue, tax declarations, tax payments, refunds, and related tax management procedures.",
+        "summary_vn": "Bộ Tài chính đã ban hành Văn bản hợp nhất số 24/2026/VBHN-TT-BTC quy định về thủ tục quản lý thuế đối với hộ kinh doanh và cá nhân kinh doanh. Văn bản này hệ thống hóa các quy định về thông báo doanh thu, kê khai, nộp thuế, hoàn thuế và các thủ tục quản lý thuế liên quan. Đây là sự hợp nhất của các quy định tại Thông tư số 18/2026/TT-BTC và Thông tư số 50/2026/TT-BTC sửa đổi, bổ sung một số điều của thông tư trước đó.",
+        "pubDate": "Sun, 16 Aug 26 11:28:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Sắp xếp, sáp nhập trường học: Quy trình nhân sự; chấm điểm lựa chọn bổ nhiệm hiệu trưởng",
+        "url": "https://cafef.vn/sap-xep-sap-nhap-truong-hoc-quy-trinh-nhan-su-cham-diem-lua-chon-bo-nhiem-hieu-truong-188260816163045189.chn",
+        "source": "CafeF",
+        "summary_en": "Ninh Binh provincial government issued procedures and criteria for personnel recommendations and selection of school principals following school reorganization and consolidation. The decision outlines the process for reviewing, evaluating, filtering, and appointing new principals at consolidated schools.",
+        "summary_vn": "Chính phủ tỉnh Ninh Bình ban hành quy trình đề xuất nhân sự và tiêu chí lựa chọn bổ nhiệm hiệu trưởng trường học sau sắp xếp, sáp nhập. Quyết định này quy định quá trình rà soát, đánh giá, sàng lọc và bổ nhiệm hiệu trưởng tại các trường được sắp xếp.",
+        "pubDate": "Sun, 16 Aug 26 17:02:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
       }
     ],
     "payments": [
@@ -72,26 +134,6 @@
         "summary_vn": "Trung bình hơn 25 tỷ U-Point của Techcombank được khách hàng quy đổi mỗi tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\" trên Techcombank Sinh lời tự động. Chương trình khách hàng thân thiết OneU cho phép người dùng quy đổi 1 đồng lợi nhuận thành tiền hoặc 2 điểm U-Point. Điểm thưởng này có thể dùng để thanh toán và đổi ưu đãi tại các danh mục mua sắm, ẩm thực, di chuyển, du lịch, giải trí, thể thao và chăm sóc sức khỏe.",
         "pubDate": "Sat, 15 Aug 2026 09:00:00 +0700",
         "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "ACB mách bạn dòng thẻ phù hợp với nhu cầu chi tiêu: ACB Visa Signature hay ACB Visa Platinum?",
-        "url": "https://cafef.vn/acb-mach-ban-dong-the-phu-hop-voi-nhu-cau-chi-tieu-acb-visa-signature-hay-acb-visa-platinum-188260813224154771.chn",
-        "source": "CafeF",
-        "summary_en": "ACB introduces two credit card product lines—ACB Visa Platinum and ACB Visa Signature—designed to serve different spending patterns and customer needs. The bank positions these cards to match specific consumer behaviors ranging from everyday purchases to travel and international transactions. The article guides customers on selecting the appropriate card based on their spending habits.",
-        "summary_vn": "ACB giới thiệu hai dòng thẻ tín dụng—ACB Visa Platinum và ACB Visa Signature—được thiết kế để phục vụ các nhu cầu chi tiêu và khách hàng khác nhau. Ngân hàng định vị các thẻ này để phù hợp với các hành vi tiêu dùng cụ thể từ mua sắm hàng ngày đến du lịch và giao dịch quốc tế. Bài viết hướng dẫn khách hàng lựa chọn thẻ phù hợp dựa trên thói quen chi tiêu của họ.",
-        "pubDate": "Fri, 14 Aug 26 07:30:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "VIB One Card: Một chiếc thẻ, mở ra nhiều lớp đặc quyền",
-        "url": "https://cafef.vn/vib-one-card-mot-chiec-the-mo-ra-nhieu-lop-dac-quyen-188260814095038943.chn",
-        "source": "CafeF",
-        "summary_en": "VIB One Card offers multiple benefits integrated into a single payment card, including cost optimization for international transactions, cashback on daily spending, and airport lounge access. Benefits expand based on card tier and customer usage levels. The card is positioned as a gateway to premium travel and spending experiences.",
-        "summary_vn": "VIB One Card tích hợp nhiều quyền lợi trên một chiếc thẻ, bao gồm tối ưu chi phí giao dịch quốc tế, hoàn tiền chi tiêu hàng ngày, và quyền truy cập phòng chờ sân bay. Các quyền lợi được mở rộng dựa trên hạng thẻ và mức độ sử dụng của khách hàng. Thẻ được định vị như một \"tấm vé\" cho các trải nghiệm cao cấp và chi tiêu.",
-        "pubDate": "Fri, 14 Aug 26 09:50:00 +0700",
-        "sentiment": 0.5,
         "importance": 2
       }
     ],
@@ -125,78 +167,6 @@
         "pubDate": "Sun, 16 Aug 26 01:11:00 +0700",
         "sentiment": 0.5,
         "importance": 2
-      },
-      {
-        "title": "Giá vàng miếng, vàng nhẫn sáng 14/8 tiếp tục đà giảm",
-        "url": "https://cafef.vn/gia-vang-mieng-vang-nhan-sang-14-8-tiep-tuc-da-giam-188260814100707126.chn",
-        "source": "CafeF",
-        "summary_en": "Domestic gold bar and ring prices continued their downward trend on the morning of August 14, declining by 1-1.6 million VND per tael compared to the previous morning. The excerpt references price movements across major gold retailers including SJC, Bảo Tín Mạnh Hải, DOJI, and others over several days in early August 2026. Gold prices showed mixed volatility during this period, with some increases of 4-5 million VND per tael recorded on August 9 before subsequent declines.",
-        "summary_vn": "Giá vàng miếng và vàng nhẫn trong nước sáng ngày 14/8 tiếp tục xu hướng giảm với mức giảm từ 1-1,6 triệu đồng mỗi lượng so với sáng hôm trước. Bài viết tham chiếu các biến động giá tại các nhà bán lẻ vàng chính như SJC, Bảo Tín Mạnh Hải, DOJI và các cơ sở khác trong những ngày đầu tháng 8 năm 2026. Giá vàng ghi nhận biến động không ổn định trong giai đoạn này, với mức tăng 4-5 triệu đồng mỗi lượng được ghi nhận vào ngày 9/8 trước khi giảm trong những ngày tiếp theo.",
-        "pubDate": "Fri, 14 Aug 26 10:15:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Phạt tới 100 triệu nếu kh&ocirc;ng cung cấp th&ocirc;ng tin cho cơ quan thuế",
-        "url": "https://thanhnien.vn/phat-toi-100-trieu-neu-khong-cung-cap-thong-tin-cho-co-quan-thue-185260815101846368.htm",
-        "source": "ThanhNien",
-        "summary_en": "Hanoi Tax Authority has notified taxpayers of their obligation to provide information for tax information exchange and administrative penalty enforcement purposes, effective from July 1 under Decree 252/2026. Financial organizations, foreign bank branches, payment service providers, and payment intermediary service providers must supply financial account information of non-resident taxpayers in Vietnam. Penalties for non-compliance can reach up to 100 million dong.",
-        "summary_vn": "Cơ quan Thuế TP.Hà Nội vừa thông báo tới người nộp thuế về nghĩa vụ cung cấp thông tin phục vụ trao đổi thông tin về thuế và xử phạt vi phạm hành chính, có hiệu lực từ ngày 1.7 theo Nghị định 252/2026. Các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phải cung cấp thông tin tài khoản tài chính của đối tượng không cư trú thuế. Mức phạt tối đa cho việc không cung cấp thông tin lên tới 100 triệu đồng.",
-        "pubDate": "Sat, 15 Aug 26 13:11:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
-        "url": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
-        "source": "VnExpress",
-        "summary_en": "The State Securities Commission (SSC) has released the main content of a draft amendment to the Securities Law. The proposed changes would allow securities companies and foreign securities branches to execute contracts with customers in electronic form, enabling fully online account opening for investors.",
-        "summary_vn": "Ủy ban Chứng khoán Nhà nước (SSC) vừa công bố nội dung chính của dự thảo sửa đổi Luật Chứng khoán. Các thay đổi đề xuất sẽ cho phép các công ty chứng khoán và chi nhánh nước ngoài của công ty chứng khoán giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản hoàn toàn trực tuyến.",
-        "pubDate": "Sat, 15 Aug 2026 10:55:55 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "Th&ecirc;m ng&acirc;n h&agrave;ng giảm l&atilde;i suất cho vay",
-        "url": "https://thanhnien.vn/them-ngan-hang-giam-lai-suat-cho-vay-185260815081950644.htm",
-        "source": "ThanhNien",
-        "summary_en": "Maritime Bank (MSB) has launched a promotional lending rate program for small and medium-sized enterprises and individual business households, offering rates at least 1% per annum lower than standard rates. The program, which began on August 12, features a total credit limit of 3,000 billion dong with promotional rates starting from 8.5% per annum. The initiative aims to reduce capital costs for eligible borrowers.",
-        "summary_vn": "Ngân hàng Hàng Hải Việt Nam (MSB) đã ra mắt chương trình ưu đãi lãi suất cho vay dành cho doanh nghiệp nhỏ và vừa cũng như hộ kinh doanh, với mức lãi suất thấp hơn ít nhất 1% mỗi năm so với lãi suất thông thường. Chương trình bắt đầu từ ngày 12.8 với tổng hạn mức tín dụng 3.000 tỉ đồng và lãi suất ưu đãi từ 8,5% mỗi năm. Sáng kiến này nhằm giảm chi phí sử dụng vốn cho các khách hàng đủ điều kiện.",
-        "pubDate": "Sat, 15 Aug 26 16:53:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "Bảo hiểm thất nghiệp: Cầu nối đưa người lao động sớm trở lại thị trường lao động",
-        "url": "https://vneconomy.vn/bao-hiem-that-nghiep-cau-noi-dua-nguoi-lao-dong-som-tro-lai-thi-truong-lao-dong.htm",
-        "source": "VnEconomy",
-        "summary_en": "Vietnam's unemployment insurance policy focuses primarily on helping workers return to employment quickly, rather than solely on benefit payments. The Department of Employment (Ministry of Interior) emphasizes that the policy aims to support workers in finding new jobs through counseling, job placement, vocational training, and business connections. Core support mechanisms include advisory services and skill development programs alongside financial assistance.",
-        "summary_vn": "Chính sách bảo hiểm thất nghiệp của Việt Nam tập trung chủ yếu vào việc giúp người lao động quay lại làm việc nhanh chóng, hơn là chỉ thanh toán trợ cấp. Cục Việc làm (Bộ Nội vụ) nhấn mạnh rằng mục tiêu của chính sách là hỗ trợ người lao động tìm được việc làm mới thông qua tư vấn, giới thiệu việc làm, đào tạo nghề và kết nối với doanh nghiệp. Các cơ chế hỗ trợ cốt lõi bao gồm các dịch vụ tư vấn và các chương trình phát triển kỹ năng cùng với hỗ trợ tài chính.",
-        "pubDate": "Thu, 13 Aug 2026 09:38:32 GMT",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Phí dịch vụ doanh nghiệp có phải đóng BHXH cho người lao động?",
-        "url": "https://cafef.vn/phi-dich-vu-doanh-nghiep-co-phai-dong-bhxh-cho-nguoi-lao-dong-188260815073915548.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's social insurance authority (BHXH Việt Nam) has issued guidance on determining salary bases for mandatory social insurance contributions for service charge fees collected by enterprises in hospitality and restaurant sectors. According to Article 31.1(b) of the 2024 Social Insurance Law, the monthly salary base for mandatory social insurance contributions includes wages based on job position or title, allowances, and other agreed supplementary payments made regularly. The guidance clarifies how service charge collections should be treated for social insurance compliance purposes.",
-        "summary_vn": "BHXH Việt Nam vừa có hướng dẫn về cách xác định tiền lương làm căn cứ đóng BHXH bắt buộc đối với khoản phí phục vụ của các doanh nghiệp hoạt động trong lĩnh vực khách sạn, nhà hàng. Theo Điều 31 khoản 1(b) Luật BHXH năm 2024, tiền lương tháng làm căn cứ đóng BHXH bắt buộc bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác được thỏa thuận trả thường xuyên. Hướng dẫn này làm rõ cách xử lý khoản phí phục vụ nhân dân cho mục đích tuân thủ bảo hiểm xã hội.",
-        "pubDate": "Sat, 15 Aug 26 15:50:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Tổng Bí thư, Chủ tịch nước Tô Lâm kết thúc tốt đẹp chuyến thăm cấp Nhà nước tới New Zealand",
-        "url": "https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-ket-thuc-tot-dep-chuyen-tham-cap-nha-nuoc-toi-new-zealand.htm",
-        "source": "VnEconomy",
-        "summary_en": "General Secretary and State President Tô Lâm completed a state visit to New Zealand. The visit included meetings with New Zealand's Governor-General Dame Cindy Kiro and Prime Minister Christopher Luxon. Officials from both countries, including New Zealand's Trade and Investment Minister Todd McClay and Vietnam's Ambassador to New Zealand Phan Minh Giang, participated in the diplomatic engagement.",
-        "summary_vn": "Tổng Bí thư, Chủ tịch nước Tô Lâm hoàn thành chuyến thăm cấp Nhà nước tới New Zealand. Chuyến thăm bao gồm hội kiến với Toàn quyền Dame Cindy Kiro và hội đàm với Thủ tướng Christopher Luxon của New Zealand. Các quan chức từ cả hai nước, bao gồm Bộ trưởng Thương mại và Đầu tư New Zealand Todd McClay và Đại sứ Việt Nam tại New Zealand Phan Minh Giang, đã tham gia vào hoạt động ngoại giao này.",
-        "pubDate": "Fri, 14 Aug 2026 00:51:09 GMT",
-        "sentiment": 0.5,
-        "importance": 3
       }
     ],
     "ecommerce": [
@@ -209,18 +179,6 @@
         "pubDate": "Sat, 15 Aug 2026 16:06:15 +0700",
         "sentiment": 0.6,
         "importance": 3
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Mỗi tháng, hơn 25 tỷ U-Point được quy đổi từ lợi nhuận Techcombank Sinh Lời Tự Động",
-        "url": "https://cafef.vn/moi-thang-hon-25-ty-u-point-duoc-quy-doi-tu-loi-nhuan-techcombank-sinh-loi-tu-dong-188260814184014453.chn",
-        "source": "CafeF",
-        "summary_en": "Techcombank's automatic savings product (Sinh Lời Tự Động) processed over 25 billion U-Points monthly through its \"Optimize Benefits with U-Point\" feature. As of August 2026, nearly 500,000 customers had enrolled in the U-Point conversion feature, with a total of 312 billion U-Points distributed. The feature allows customers to convert interest earnings from the savings product into U-Points at a 1:1 ratio.",
-        "summary_vn": "Sản phẩm tiết kiệm tự động của Techcombank xử lý hơn 25 tỷ U-Point hàng tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\". Đến tháng 8/2026, gần 500 nghìn khách hàng đã đăng ký tính năng chuyển đổi U-Point, với tổng cộng 312 tỷ U-Point được chi trả. Tính năng này cho phép khách hàng chuyển đổi lợi nhuận từ sản phẩm tiết kiệm sang U-Point theo tỷ lệ 1:1.",
-        "pubDate": "Fri, 14 Aug 26 19:30:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
       }
     ]
   }

@@ -1,17 +1,23 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # ACB
 
-Recent Vietnam market news mentioning **ACB** (38 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **ACB** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật**  
+
+On August 16, 2026, USD prices declined across Vietnamese commercial banks after one week. Vietcombank's USD buying rate fell to 25,950 VND and selling rate to 26,330 VND, down 80 VND from the previous week, while ACB recorded a 60 VND decrease. Other foreign currencies including the euro and Japanese yen also declined during the same period.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-1682026-giam-sau-cung-euro-yen-nhat-185260815154724355.htm)
 
 **ACB mách bạn dòng thẻ phù hợp với nhu cầu chi tiêu: ACB Visa Signature hay ACB Visa Platinum?**  
 
@@ -79,18 +85,12 @@ Ten Vietnamese banks maintained non-performing loan (NPL) ratios below 1.5% in t
 
 - Source: [CafeF](https://cafef.vn/nhung-ngan-hang-nao-co-ty-le-no-xau-thap-nhat-hien-nay-188260804075641978.chn)
 
-**ACB vào Top 20 VNSI: Chất lượng tài sản Top đầu đi cùng tăng trưởng hiệu quả và bền vững**  
-
-ACB (Asia Commercial Bank) was selected into the Top 20 enterprises of the Vietnam Sustainability Index (VNSI) for 2026, following positive business results in the first half of 2026. The ranking recognizes ACB's progress in building long-term growth foundations through asset quality, risk management, and sustainable development governance. The bank's inclusion reflects its commitment to information transparency and sustainable business practices.
-
-- Source: [CafeF](https://cafef.vn/acb-vao-top-20-vnsi-chat-luong-tai-san-top-dau-di-cung-tang-truong-hieu-qua-va-ben-vung-188260804091241493.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 - [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
-- [Lãi suất ngân hàng 30/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-30-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260730210007289.chn) — CafeF
+- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

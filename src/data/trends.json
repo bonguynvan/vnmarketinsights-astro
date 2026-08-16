@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-15T23:13:24.513577+00:00",
+  "generatedAt": "2026-08-16T23:12:05.787341+00:00",
   "trends": [
     {
       "topic": "regulation",
       "siteSlug": "regulations",
-      "total": 844,
-      "growthRate": 5.5,
-      "avgSentiment": -0.08,
+      "total": 855,
+      "growthRate": 3.5,
+      "avgSentiment": -0.078,
       "tag": "Rising Star",
       "series": [
         {
@@ -266,22 +266,27 @@
         },
         {
           "date": "2026-08-14",
-          "count": 14,
-          "sentiment": -0.107
+          "count": 16,
+          "sentiment": -0.094
         },
         {
           "date": "2026-08-15",
           "count": 13,
           "sentiment": 0.077
+        },
+        {
+          "date": "2026-08-16",
+          "count": 9,
+          "sentiment": 0.022
         }
       ]
     },
     {
       "topic": "macro",
       "siteSlug": "financial-markets",
-      "total": 549,
-      "growthRate": 2.0,
-      "avgSentiment": 0.094,
+      "total": 560,
+      "growthRate": 1.667,
+      "avgSentiment": 0.089,
       "tag": "Rising Star",
       "series": [
         {
@@ -541,22 +546,27 @@
         },
         {
           "date": "2026-08-14",
-          "count": 16,
-          "sentiment": 0.0
+          "count": 19,
+          "sentiment": -0.053
         },
         {
           "date": "2026-08-15",
           "count": 9,
           "sentiment": 0.178
+        },
+        {
+          "date": "2026-08-16",
+          "count": 8,
+          "sentiment": -0.163
         }
       ]
     },
     {
       "topic": "stocks",
       "siteSlug": "financial-markets",
-      "total": 299,
-      "growthRate": -0.933,
-      "avgSentiment": 0.274,
+      "total": 307,
+      "growthRate": -0.733,
+      "avgSentiment": 0.252,
       "tag": "Stable",
       "series": [
         {
@@ -806,22 +816,27 @@
         },
         {
           "date": "2026-08-14",
-          "count": 1,
-          "sentiment": 0.7
+          "count": 5,
+          "sentiment": 0.08
         },
         {
           "date": "2026-08-15",
           "count": 1,
           "sentiment": 1.0
+        },
+        {
+          "date": "2026-08-16",
+          "count": 4,
+          "sentiment": -0.25
         }
       ]
     },
     {
       "topic": "other",
       "siteSlug": "",
-      "total": 218,
-      "growthRate": 2.5,
-      "avgSentiment": 0.216,
+      "total": 226,
+      "growthRate": 0.5,
+      "avgSentiment": 0.222,
       "tag": "Rising Star",
       "series": [
         {
@@ -1076,13 +1091,18 @@
         },
         {
           "date": "2026-08-14",
-          "count": 2,
-          "sentiment": 0.0
+          "count": 7,
+          "sentiment": 0.2
         },
         {
           "date": "2026-08-15",
           "count": 7,
           "sentiment": 0.343
+        },
+        {
+          "date": "2026-08-16",
+          "count": 3,
+          "sentiment": 0.333
         }
       ]
     },
@@ -1544,9 +1564,9 @@
     {
       "topic": "payments",
       "siteSlug": "payments",
-      "total": 54,
+      "total": 55,
       "growthRate": -0.5,
-      "avgSentiment": 0.447,
+      "avgSentiment": 0.443,
       "tag": "Stable",
       "series": [
         {
@@ -1671,8 +1691,8 @@
         },
         {
           "date": "2026-08-14",
-          "count": 2,
-          "sentiment": 0.25
+          "count": 3,
+          "sentiment": 0.167
         },
         {
           "date": "2026-08-15",
@@ -2004,10 +2024,10 @@
     {
       "topic": "platforms",
       "siteSlug": "platforms",
-      "total": 38,
-      "growthRate": 0.0,
-      "avgSentiment": 0.369,
-      "tag": "Stable",
+      "total": 39,
+      "growthRate": 1.0,
+      "avgSentiment": 0.379,
+      "tag": "Rising Star",
       "series": [
         {
           "date": "2026-06-20",
@@ -2131,8 +2151,8 @@
         },
         {
           "date": "2026-08-14",
-          "count": 1,
-          "sentiment": 0.0
+          "count": 2,
+          "sentiment": 0.25
         }
       ]
     },

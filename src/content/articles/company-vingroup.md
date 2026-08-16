@@ -1,15 +1,15 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (16 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (17 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
 
@@ -18,6 +18,12 @@ Recent Vietnam market news mentioning **Vingroup** (16 mentions tracked). Summar
 VinSpace, a member of Vingroup's ecosystem owned by billionaire Phạm Nhật Vượng, announced on August 11 that it has signed a satellite launch contract with SpaceX, the company owned by billionaire Elon Musk. The agreement will enable VinSpace satellites to be placed into orbit through SpaceX's services. The partnership aims to support Vietnamese technology expansion globally and advance domestic satellite capabilities.
 
 - Source: [ThanhNien](https://thanhnien.vn/nhung-cai-bat-tay-chan-dong-thi-truong-cua-doanh-nghiep-viet-185260815213500221.htm)
+
+**Sân vận động lớn nhất hành tinh của Vingroup chính thức mang tên VinFast - Trống Đồng**  
+
+Vingroup officially named its flagship stadium "VinFast - Trống Đồng," which spans 73.3 hectares and holds 135,000 seats, making it the world's largest stadium with an automated retractable roof system. On August 14, 2026, Vingroup announced plans for the Hùng Vương International Sports Complex, centered around the VinFast - Trống Đồng stadium in Hanoi's International Sports City urban area. The overall project covers more than 400 hectares.
+
+- Source: [CafeF](https://cafef.vn/san-van-dong-lon-nhat-hanh-tinh-cua-vingroup-chinh-thuc-mang-ten-vinfast-trong-dong-188260814073714425.chn)
 
 **Quỹ Thiện Tâm: Gần 20 năm gieo cơ hội, để mạch ngầm nhân ái mãi sinh sôi**  
 
@@ -79,17 +85,11 @@ The State Bank of Vietnam has implemented special mechanisms for 18 projects of 
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn)
 
-**Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng**  
-
-Gold prices for SJC bullion bars and gold rings have declined by over 15 million Vietnamese dong per tael in nearly one month. Experts suggest that gold prices may face difficulty declining sharply further following the recent downtrend. The article discusses banking interest rates and lending activities by major banks for projects by Vingroup, Sun Group, and Masterise.
-
-- Source: [CafeF](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn)
-
 ## Related coverage
 
 - [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
 - [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
-- [Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang phát tín hiệu gì?](https://cafef.vn/noi-ldr-mo-room-tin-dung-tang-tran-cho-vay-dai-han-ngan-hang-nha-nuoc-dang-phat-tin-hieu-gi-188260624074917834.chn) — CafeF
+- [Nhu cầu vốn hàng triệu tỷ đồng, NHNN thúc đẩy cho vay hợp vốn dự án lớn](https://cafef.vn/nhu-cau-von-hang-trieu-ty-dong-nhnn-thuc-day-cho-vay-hop-von-du-an-lon-188260813213101399.chn) — CafeF
 - [Lý do Ngân hàng Nhà nước mở ‘van’ cho tăng trưởng tín dụng](https://cafef.vn/ly-do-ngan-hang-nha-nuoc-mo-van-cho-tang-truong-tin-dung-188260627173626274.chn) — CafeF
 
 ---

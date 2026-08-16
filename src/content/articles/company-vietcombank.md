@@ -1,17 +1,23 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (129 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (130 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật**  
+
+On August 16, 2026, USD prices declined across Vietnamese commercial banks after one week. Vietcombank's USD buying rate fell to 25,950 VND and selling rate to 26,330 VND, down 80 VND from the previous week, while ACB recorded a 60 VND decrease. Other foreign currencies including the euro and Japanese yen also declined during the same period.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-hom-nay-1682026-giam-sau-cung-euro-yen-nhat-185260815154724355.htm)
 
 **Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ**  
 
@@ -79,17 +85,11 @@ A survey of online deposit interest rates across 35 banks on August 8 shows ACB 
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn)
 
-**Nợ xấu của ngân hàng Agribank hiện nay**  
-
-Agribank maintains a non-performing loan (NPL) ratio of 1.28% as of end-June 2026, down slightly from 1.3% at the start of the year, with NPL balances at over 26,500 billion VND. The bank ranks among the system's lowest NPL ratio holders and maintains a top-tier reserve coverage buffer against NPLs. Agribank's NPL ratio is comparable to other major banks including Vietcombank (0.61%), ACB (1.03%), and Techcombank (1.08%).
-
-- Source: [CafeF](https://cafef.vn/no-xau-cua-ngan-hang-agribank-hien-nay-188260807105844412.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
-- [Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn) — CafeF
 - [Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn) — CafeF
+- [Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn) — CafeF
 - [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---

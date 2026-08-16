@@ -1,17 +1,23 @@
 ---
 title: "MSCI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSCI, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # MSCI
 
-Recent Vietnam market news mentioning **MSCI** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MSCI** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSCI muốn loại công ty giữ Bitcoin khỏi chỉ số chứng khoán toàn cầu**  
+
+MSCI is proposing a new methodology to identify and exclude non-operating companies from global stock indices. The proposal could result in companies that hold Bitcoin, including Grayscale Bitcoin Trust (Strategy), being removed from MSCI indices. MSCI will evaluate businesses using five financial metrics including the proportion of operating assets, expenses, and cash flow.
+
+- Source: [VnExpress](https://vnexpress.net/msci-muon-loai-cong-ty-giu-bitcoin-khoi-chi-so-chung-khoan-toan-cau-5109609.html)
 
 **MSCI “trừ điểm” Indonesia, cơ hội nào cho Việt Nam?**  
 
@@ -34,8 +40,8 @@ An expert discusses three industry groups expected to attract capital inflows du
 ## Related coverage
 
 - [Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm) — TuoiTre
-- [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
 - [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
+- [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
 - [HSBC: Nghị quyết 10 tạo nền tảng để Việt Nam thu hút dòng vốn chất lượng cao](https://cafef.vn/hsbc-nghi-quyet-10-tao-nen-tang-de-viet-nam-thu-hut-dong-von-chat-luong-cao-188260804144834067.chn) — CafeF
 
 ---

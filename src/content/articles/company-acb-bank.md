@@ -1,8 +1,8 @@
 ---
 title: "ACB Bank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB Bank, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
@@ -34,9 +34,9 @@ Nguyễn Thiên Hương Jenny, daughter of Âu Lạc chairman, completed a share
 ## Related coverage
 
 - [Gi&aacute; USD h&ocirc;m nay 21.6.2026: Giữ đ&agrave; tăng trong khi euro, yen Nhật đồng loạt giảm](https://thanhnien.vn/gia-usd-hom-nay-2162026-giu-da-tang-trong-khi-euro-yen-nhat-dong-loat-giam-185260620194026779.htm) — ThanhNien
+- [Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật](https://thanhnien.vn/gia-usd-hom-nay-1682026-giam-sau-cung-euro-yen-nhat-185260815154724355.htm) — ThanhNien
 - [Gi&aacute; USD h&ocirc;m nay 25.7.2026: Ghi nhận tuần tăng](https://thanhnien.vn/gia-usd-hom-nay-2572026-ghi-nhan-tuan-tang-185260725083733694.htm) — ThanhNien
 - [Gi&aacute; USD h&ocirc;m nay 3.8.2026: Giữ đ&agrave; giảm trong khi yen Nhật tiếp tục tăng](https://thanhnien.vn/gia-usd-hom-nay-382026-giu-da-giam-trong-khi-yen-nhat-tiep-tuc-tang-185260803065837235.htm) — ThanhNien
-- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 
 ---
 

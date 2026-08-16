@@ -1,17 +1,23 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Company"
 readingTime: 3
 ---
 
 # VinFast
 
-Recent Vietnam market news mentioning **VinFast** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VinFast** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Sân vận động lớn nhất hành tinh của Vingroup chính thức mang tên VinFast - Trống Đồng**  
+
+Vingroup officially named its flagship stadium "VinFast - Trống Đồng," which spans 73.3 hectares and holds 135,000 seats, making it the world's largest stadium with an automated retractable roof system. On August 14, 2026, Vingroup announced plans for the Hùng Vương International Sports Complex, centered around the VinFast - Trống Đồng stadium in Hanoi's International Sports City urban area. The overall project covers more than 400 hectares.
+
+- Source: [CafeF](https://cafef.vn/san-van-dong-lon-nhat-hanh-tinh-cua-vingroup-chinh-thuc-mang-ten-vinfast-trong-dong-188260814073714425.chn)
 
 **Diễn biến mới tại dự án cao tốc kết nối 'rừng - biển' đầu tiên của Việt Nam, có chiều dài hơn 117km**  
 
@@ -58,8 +64,8 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 ## Related coverage
 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Yêu cầu hoàn thiện hạ tầng sạc điện tại các trạm dừng nghỉ](https://cafef.vn/yeu-cau-hoan-thien-ha-tang-sac-dien-tai-cac-tram-dung-nghi-188260807144313927.chn) — CafeF
 - [Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027](https://cafef.vn/sieu-du-an-lrt-9000-ty-tai-phu-quoc-lo-trinh-nghet-tho-vuot-ai-thien-tai-san-sang-dua-doan-tau-dau-tien-chay-thu-vao-giua-nam-2027-188260807114249175.chn) — CafeF
+- [Yêu cầu hoàn thiện hạ tầng sạc điện tại các trạm dừng nghỉ](https://cafef.vn/yeu-cau-hoan-thien-ha-tang-sac-dien-tai-cac-tram-dung-nghi-188260807144313927.chn) — CafeF
 - [Những c&aacute;i &#039;bắt tay&#039; chấn động thị trường của doanh nghiệp Việt](https://thanhnien.vn/nhung-cai-bat-tay-chan-dong-thi-truong-cua-doanh-nghiep-viet-185260815213500221.htm) — ThanhNien
 
 ---

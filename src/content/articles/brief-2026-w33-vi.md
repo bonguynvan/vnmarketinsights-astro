@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 33/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 33 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-15"
-lastUpdated: "2026-08-15"
+publishedDate: "2026-08-16"
+lastUpdated: "2026-08-16"
 category: "Market Brief"
-readingTime: 14
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 33/2026
@@ -13,16 +13,7 @@ readingTime: 14
 
 # Tổng Quan Thị Trường Tuần Này
 
-Thị trường tài chính Việt Nam tuần này ghi nhận những diễn biến trái chiều: một mặt, các ngân hàng lớn tiếp tục giảm lãi suất cho vay (1-2,5% mỗi năm) để hỗ trợ nền kinh tế, trong khi tín dụng toàn nền kinh tế tăng 8,98% vượt quá tốc độ huy động vốn 5,75%, gây áp lực lên hệ thống ngân hàng. Bên cạnh đó, ngành năng lượng và công nghiệp có tín hiệu tích cực với EVN xóa sạch lỗ lũy kế và các dự án FDI công nghệ cao như HD Hyundai Eco Vina khởi công tại Khu kinh tế Dung Quất với vốn 116 triệu USD, song hệ thống ngân hàng đang phải đối mặt với sự cố an ninh mạng nghiêm trọng khi gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin với thiệt hại ước tính 1,9 tỷ USD.
-
-## Người tiêu dùng
-
-**Giá xoài cát Hòa Lộc tăng gấp đôi sau ba tháng**  
-
-Giá xoài cát Hòa Lộc đã tăng gấp đôi trong ba tháng qua, đạt 55.000-80.000 đồng mỗi kilogram tại vườn và lên tới 190.000 đồng ở bán lẻ. Một chủ vườn ở Đồng Nai vừa bán hơn một tấn xoài cát Hòa Lộc với giá khoảng 60.000 đồng mỗi kilogram, lãi khoảng 25 triệu đồng dù chi phí tăng. Giá hiện tại gấp đôi so với vụ chính tháng 4-5.
-
-- Số liệu chính: Farm gate price range: 55,000-80,000 VND/kg; Retail price: 190,000 VND/kg; Price paid by buyer: 60,000 VND/kg; Profit from harvest: 25 million VND
-- Nguồn: [VnExpress](https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html)
+Thị trường bất động sản Việt Nam ghi nhận xu hướng giảm giá đáng kể tại nhiều khu vực, với Long An giảm 20-25% và một số địa phương như Tân Phú (Đồng Nai) giảm tới 49% khi so sánh quý III/2026 với quý II/2025. Lĩnh vực ngân hàng đang triển khai các biện pháp hỗ trợ như giảm lãi suất cho vay từ 1-2,5% hàng năm, trong bối cảnh Ngân hàng Nhà nước duy trì chính sách điều hành linh hoạt để hỗ trợ tăng trưởng kinh tế. Đồng thời, hệ thống ngân hàng đang chịu áp lực thansuất do tín dụng tăng nhanh hơn huy động vốn, trong khi nước ngoài, các doanh nghiệp công nghệ như Berkshire Hathaway và Alphabet tiếp tục mở rộng đầu tư.
 
 ## Pháp lý
 
@@ -40,23 +31,11 @@ Cơ quan Thuế TP.Hà Nội vừa thông báo tới người nộp thuế về 
 - Số liệu chính: Maximum penalty: 100 million VND; Decree effective date: 1 July 2026 date
 - Nguồn: [ThanhNien](https://thanhnien.vn/phat-toi-100-trieu-neu-khong-cung-cap-thong-tin-cho-co-quan-thue-185260815101846368.htm)
 
-**Nhà đầu tư có thể mở tài khoản chứng khoán 100% online**  
-
-Ủy ban Chứng khoán Nhà nước (SSC) vừa công bố nội dung chính của dự thảo sửa đổi Luật Chứng khoán. Các thay đổi đề xuất sẽ cho phép các công ty chứng khoán và chi nhánh nước ngoài của công ty chứng khoán giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản hoàn toàn trực tuyến.
-
-- Nguồn: [VnExpress](https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html)
-
 **Tổng Bí thư, Chủ tịch nước Tô Lâm kết thúc tốt đẹp chuyến thăm cấp Nhà nước tới New Zealand**  
 
 Tổng Bí thư, Chủ tịch nước Tô Lâm hoàn thành chuyến thăm cấp Nhà nước tới New Zealand. Chuyến thăm bao gồm hội kiến với Toàn quyền Dame Cindy Kiro và hội đàm với Thủ tướng Christopher Luxon của New Zealand. Các quan chức từ cả hai nước, bao gồm Bộ trưởng Thương mại và Đầu tư New Zealand Todd McClay và Đại sứ Việt Nam tại New Zealand Phan Minh Giang, đã tham gia vào hoạt động ngoại giao này.
 
 - Nguồn: [VnEconomy](https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-ket-thuc-tot-dep-chuyen-tham-cap-nha-nuoc-toi-new-zealand.htm)
-
-**Tích hợp 4 Chương trình mục tiêu quốc gia: Thu gọn đầu mối, đẩy mạnh phân cấp**  
-
-Việt Nam tích hợp bốn chương trình mục tiêu quốc gia thành một khuôn khổ thống nhất với bảy nhóm nhiệm vụ cốt lõi. Phương thức phân bổ chuyển từ "theo nhu cầu đăng ký" sang "theo năng lực và điều kiện sẵn sàng thực hiện". Cơ cấu tổ chức loại bỏ các tầng nấc trung gian để hợp lý hóa quản trị.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/tich-hop-4-chuong-trinh-muc-tieu-quoc-gia-thu-gon-dau-moi-day-manh-phan-cap.htm)
 
 **Chồng tử vong sau 2 năm mua bảo hiểm, vợ nhận 2,1 tỷ sau khi bị từ chối chi trả**  
 
@@ -65,7 +44,27 @@ Một phụ nữ nhận được khoản chi trả bảo hiểm 2,1 tỷ đồng
 - Số liệu chính: Total insurance payout: 2.1 billion dong VND; Basic benefit: 1.1 billion dong VND; Accidental death/disability supplementary benefit: 1 billion dong VND; Critical illness supplementary benefit: 500 million dong VND
 - Nguồn: [VietnamNet](https://vietnamnet.vn/chong-tu-vong-sau-2-nam-mua-bao-hiem-vo-nhan-2-1-ty-sau-khi-bi-tu-choi-chi-tra-2545216.html)
 
+**Không phải cứ giảm phát thải là tự động hình thành tín chỉ carbon**  
+
+Việt Nam tổ chức Diễn đàn Carbon Việt Nam 2026 có chủ đề "Từ chính sách đến hành động" vào ngày 14-8, do Bộ Nông nghiệp và Môi trường phối hợp với Viện CODE, IFC và Cục Kinh tế Liên bang Thụy Sĩ (SECO) tổ chức. Diễn đàn nhấn mạnh rằng giảm phát thải không tự động hình thành tín chỉ carbon. Thị trường carbon trong nước hiện không có quy định biên độ dao động giá.
+
+- Nguồn: [TuoiTre](https://tuoitre.vn/khong-phai-cu-giam-phat-thai-la-tu-dong-hinh-thanh-tin-chi-carbon-100260814143724208.htm)
+
 ## Chứng khoán
+
+**Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet**  
+
+Berkshire Hathaway gần như tăng gấp đôi khoản đầu tư vào Alphabet trong quý II, nâng từ 57,8 triệu cổ phiếu lên khoảng 106 triệu cổ phiếu tính đến ngày 30/6. Tổng giá trị vị thế Alphabet của công ty là khoảng 37,8 tỷ USD, bao gồm khoản đầu tư 10 tỷ USD được công bố vào tháng 6 nhằm hỗ trợ mở rộng hạ tầng trí tuệ nhân tạo của Google. Berkshire đã nộp thông tin này cho các cơ quan quản lý Mỹ vào ngày 15 tháng 8.
+
+- Số liệu chính: Berkshire Hathaway holdings in Alphabet (shares): approximately 106 million shares; Previous quarter Alphabet holdings: 57.8 million shares; Total Alphabet position value: 37.8 billion USD; Investment in Google AI infrastructure: 10 billion USD
+- Nguồn: [VnExpress](https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html)
+
+**Đất nền, căn hộ &#039;rủ nhau&#039; giảm gi&aacute;**  
+
+Giá đất nền và căn hộ tại nhiều khu vực ở Việt Nam đã giảm mạnh khi so sánh dữ liệu quý 3/2026 với quý 2/2025. Tỉnh Long An ghi nhận mức giảm giá 20-25%, trong khi Đồng Nai và Bình Dương giảm 7-10%, với một số khu vực như Tân Phú (Đồng Nai) giảm tới 49%. Giá căn hộ tại TP.HCM, những dự án từng tăng giá mạnh, nay cũng đã bắt đầu đảo chiều giảm.
+
+- Số liệu chính: Price decline in Long An province: 20-25% %; Price decline in Dong Nai and Binh Duong: 7-10% %; Price decline in Tan Phu, Dong Nai: 49% %; Price decline in Ben Luc, Tay Ninh: 25% %
+- Nguồn: [ThanhNien](https://thanhnien.vn/dat-nen-can-ho-ru-nhau-giam-gia-1852608162040405.htm)
 
 **Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX**  
 
@@ -81,14 +80,19 @@ Ngân hàng Nam Á ghi nhận lợi nhuận trước thuế 3.159 tỷ đồng t
 - Số liệu chính: Pre-tax profit (6 months): 3.159 trillion dong; Pre-tax profit growth YoY: 25 %; Total assets: 452 thousand billion dong; Asset growth from end-2025: 8 %
 - Nguồn: [CafeF](https://cafef.vn/nam-a-bank-loi-nhuan-6-thang-tang-25-va-huong-toi-cac-muc-tieu-tang-truong-moi-188260814111043073.chn)
 
-**EVN có lãi trong 6 tháng đầu năm, xóa sạch lỗ lũy kế từ năm 2022**  
+**MSCI muốn loại công ty giữ Bitcoin khỏi chỉ số chứng khoán toàn cầu**  
 
-Tập đoàn Điện lực Việt Nam (EVN) báo cáo có lãi trong nửa đầu năm 2026 và xóa sạch lỗ lũy kế từ năm 2022. Tập đoàn duy trì cấp điện an toàn, ổn định cho cả nước đồng thời hỗ trợ phát triển kinh tế xã hội. Tổng sản lượng điện sản xuất và nhập khẩu trong nửa đầu năm đạt 171,54 tỉ kWh, tăng 9,8%.
+MSCI đang đề xuất một phương pháp mới để xác định và loại những "công ty không vận hành" khỏi các chỉ số chứng khoán toàn cầu. Đề xuất này có thể dẫn đến việc các công ty nắm giữ Bitcoin, bao gồm Grayscale Bitcoin Trust (Strategy), bị loại khỏi các chỉ số của MSCI. MSCI sẽ đánh giá doanh nghiệp thông qua năm chỉ số tài chính gồm tỷ trọng tài sản phục vụ hoạt động, chi phí và dòng tiền.
 
-- Số liệu chính: Total electricity production and imports (first half of 2026): 171.54 billion kWh; Increase in electricity production and imports: 9.8 %
-- Nguồn: [TuoiTre](https://tuoitre.vn/evn-co-lai-trong-6-thang-dau-nam-xoa-sach-lo-luy-ke-tu-nam-2022-100260808072813687.htm)
+- Nguồn: [VnExpress](https://vnexpress.net/msci-muon-loai-cong-ty-giu-bitcoin-khoi-chi-so-chung-khoan-toan-cau-5109609.html)
 
 ## Kinh tế vĩ mô
+
+**Nước sông Rhine cạn gây thêm trở ngại cho kinh tế Đức**  
+
+Mực nước thấp kỷ lục trên sông Rhine đang gây cản trở vận tải và chuỗi cung ứng trên các trung tâm công nghiệp Đức. Tình trạng hạn hán này có khả năng cản trở phục hồi kinh tế của Đức. Thông thường, mực nước thấp trên sông Rhine xảy ra từ tháng 9 đến tháng 11 hàng năm, với Kaub là một trong những đoạn nông nhất.
+
+- Nguồn: [VnExpress](https://vnexpress.net/nuoc-song-rhine-can-gay-them-tro-ngai-cho-kinh-te-duc-5109556.html)
 
 **Doanh số bán lẻ của Mỹ bất ngờ giảm**  
 
@@ -123,6 +127,19 @@ Tính đến ngày 30/6/2026, tổng tiền gửi khách hàng tại 30 ngân h�
 - Số liệu chính: Total customer deposits at 30 domestic commercial banks (as of June 30, 2026): 16.02 million billion dong; Total outstanding loan balances at 30 domestic commercial banks (as of June 30, 2026): 17.04 million billion dong; Difference between loans and deposits: 1.02 million billion dong; Total credit outstanding in the economy (end of July 2026): 20.3 million billion dong
 - Nguồn: [VietnamNet](https://vietnamnet.vn/ngan-hang-khat-von-nhung-co-nha-bang-hut-tien-cuc-manh-du-toi-240-000-ty-dong-2545079.html)
 
+**M&ugrave;a mưa ở Nam bộ kết th&uacute;c sớm 20 ng&agrave;y v&igrave; &#039;si&ecirc;u El Nino&#039;**  
+
+Đài Khí tượng thủy văn Nam bộ phát hành bản tin dự báo mùa cho biết "siêu El Nino" sẽ làm tăng nhiệt độ và mùa mưa ở Nam bộ kết thúc sớm 20 ngày so với bình thường. Trong 2 tháng vừa qua, El Nino đã ảnh hưởng đáng kể đến thời tiết khu vực, gây ra sự gia tăng nhiệt độ trung bình và những đợt nắng nóng gay gắt. Tháng 6, nền nhiệt độ trung bình cao hơn trung bình nhiều năm từ 0,9-1,7 độ C, nhiệt độ cao nhất ngày ghi nhận tại Tân Sơn Hòa là 37 độ C.
+
+- Số liệu chính: Rainy season early end: 20 days days; Average temperature increase in June: 0.9-1.7 °C; Peak temperature recorded: 37 °C
+- Nguồn: [ThanhNien](https://thanhnien.vn/mua-mua-o-nam-bo-ket-thuc-som-20-ngay-vi-sieu-el-nino-18526081607235922.htm)
+
+**Chuyến thăm Australia và New Zealand của Tổng Bí thư, Chủ tịch nước Tô Lâm: Từ củng cố quan hệ đến chủ động kiến tạo không gian phát triển**  
+
+Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm diễn ra theo lời mời của Toàn quyền Australia Sam Mostyn và Toàn quyền New Zealand Dame Cindy Kiro. Đây là chuyến thăm cấp Nhà nước đầu tiên của Tô Lâm tới hai quốc gia châu Đại Dương trên cương vị người đứng đầu Đảng và Nhà nước. Chuyến thăm diễn ra vào thời điểm quan trọng khi quan hệ Việt Nam - Australia và Việt Nam - New Zealand đã được nâng lên Đối tác Chiến lược Toàn diện.
+
+- Nguồn: [VnEconomy](https://vneconomy.vn/chuyen-tham-australia-va-new-zealand-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tu-cung-co-quan-he-den-chu-dong-kien-tao-khong-gian-phat-trien.htm)
+
 **Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác giáo dục, nông nghiệp và ứng phó biến đổi khí hậu**  
 
 Sáng 13/8, Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Toàn quyền New Zealand Dame Cindy Kiro tại thành phố Auckland sau Lễ đón trọng thể tại Phủ Toàn quyền. Đây là lần đầu tiên Tổng Bí thư, Chủ tịch nước Việt Nam thăm New Zealand trên cả hai cương vị. Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác trong giáo dục, nông nghiệp và ứng phó biến đổi khí hậu.
@@ -141,18 +158,21 @@ Trong chuyến thăm cấp Nhà nước tới New Zealand từ ngày 12-13/8/202
 
 - Nguồn: [VnEconomy](https://vneconomy.vn/viet-nam-new-zealand-ra-tuyen-bo-chung-thuc-day-thuong-mai-kinh-te-xanh-cong-nghe-va-ket-noi-hang-khong.htm)
 
-**T&iacute;n dụng bất động sản tr&aacute;nh &#039;c&agrave;o bằng&#039;**  
+**Bước chuyển mới của thị trường bất động sản Trung Quốc**  
 
-Bất động sản có liên thông cao với nền kinh tế thông qua giá trị tài sản bảo đảm cho tín dụng ngân hàng, tài sản hộ gia đình, dòng vốn trái phiếu, tiền ứng trước của người mua, và hoạt động của chuỗi xây dựng, vật liệu, nội thất. Mối quan tâm không chỉ là điều chỉnh giá tạm thời mà là tình trạng dự án đình trệ kéo dài và không rõ dự án nào còn khả năng hoàn thành. Bài viết tham chiếu bài học từ Trung Quốc.
+Thị trường bất động sản Trung Quốc đang chuyển mình khi giao dịch nhà ở cũ lần đầu vượt nhà mới, cho thấy sự chuyển đổi từ phát triển dựa vào nguồn cung mới sang hấp thụ lượng nhà ở hiện hữu. Trong 6 tháng đầu năm, tổng diện tích nhà ở cũ được đăng ký giao dịch tại Trung Quốc tăng 10,2% so với cùng kỳ năm trước và chiếm 50,4% tổng diện tích nhà ở. Sự thay đổi này phản ánh sự trưởng thành của thị trường, nâng cao chất lượng và tối ưu hóa lưu thông bất động sản.
 
-- Nguồn: [ThanhNien](https://thanhnien.vn/tin-dung-bat-dong-san-tranh-cao-bang-185260815150955928.htm)
+- Số liệu chính: Used housing transaction area increase (H1 YoY): 10.2% percent; Used housing as share of total housing area (H1): 50.4% percent
+- Nguồn: [TuoiTre](https://tuoitre.vn/buoc-chuyen-moi-cua-thi-truong-bat-dong-san-trung-quoc-100260814143432365.htm)
 
-**69% &#039;si&ecirc;u El Nino&#039; sẽ mạnh nhất lịch sử**  
+## Nền tảng
 
-Các chuyên gia khí tượng Việt Nam cho biết El Niño đã đạt cường độ rất mạnh, được gọi là "siêu El Niño". Trung tâm Dự báo khí hậu của NOAA (Mỹ) cung cấp cập nhật hàng tuần cho thấy nhiệt độ mặt nước biển ở các khu vực giám sát tiếp tục tăng vào đầu tháng 8, với Niño 3.4 là 1,8°C, Niño 1-2 là 3,3°C, và Niño 3 là 2,4°C. Bản dự báo hàng tháng của CPC phát hành ngày 13 tháng 8 cho biết El Niño tiếp tục hoạt động mạnh trong tháng 7.
+**T&amp;amp;T Group bắt tay Yusys, hướng tới liên doanh công nghệ vươn tầm ASEAN**  
 
-- Số liệu chính: Niño 3.4 sea surface temperature: 1.8 °C; Niño 1-2 sea surface temperature: 3.3 °C; Niño 3 sea surface temperature: 2.4 °C
-- Nguồn: [ThanhNien](https://thanhnien.vn/69-sieu-el-nino-se-manh-nhat-lich-su-185260815145757427.htm)
+T&T Group đã ký kết hợp tác với Yusys Technologies, một trong những tập đoàn công nghệ tài chính hàng đầu của Trung Quốc, nhằm thành lập liên doanh công nghệ. Yusys xếp hạng 40 trong Top 100 công ty Fintech toàn cầu năm 2022 và nằm trong Top 50 giai đoạn 2021-2023. Liên doanh sẽ cung cấp các giải pháp hệ thống lõi, ứng dụng số, dữ liệu và AI cho các ngân hàng và tổ chức tài chính nhằm hỗ trợ chuyển đổi số trong khu vực ASEAN.
+
+- Số liệu chính: Yusys ranking in IDC Top 100 Fintech Companies: 40th position; Yusys ranking period in Top 50: 2021-2023 year range
+- Nguồn: [VietnamNet](https://vietnamnet.vn/t-t-group-bat-tay-yusys-huong-toi-lien-doanh-cong-nghe-vuon-tam-asean-2545202.html)
 
 ## Khác
 
@@ -169,12 +189,6 @@ Công ty TNHH HD Hyundai Eco Vina tổ chức lễ khởi công ngày 15.8 cho d
 
 - Số liệu chính: Total investment: 116 million USD USD; Groundbreaking date: August 15 date
 - Nguồn: [ThanhNien](https://thanhnien.vn/khoi-cong-du-an-khu-san-xuat-bon-chua-von-116-trieu-usd-185260815110355445.htm)
-
-**Các tập đoàn công nghệ Trung Quốc ngày càng đáng gờm**  
-
-Các tập đoàn công nghệ Trung Quốc ngày càng trở thành đối tác đáng gờm cho các doanh nghiệp toàn cầu, chuyển từ nhà cung ứng giá rẻ thành đối tác công nghệ không thể thay thế. Các công ty toàn cầu lớn đang hợp tác với các hãng Trung Quốc: Apple sử dụng Alibaba và Baidu cho công nghệ AI tại Trung Quốc, Ford hợp tác với CATL về công nghệ pin, Volkswagen làm việc với Xpeng về xe điện thông minh, và Stellantis mở rộng hợp tác với Leapmotor trong sản xuất xe điện và mua hàng chung. Sự chuyển dịch này phản ánh tầm quan trọng chiến l略của các hãng công nghệ Trung Quốc trong các lĩnh vực từ pin xe điện đến trí tuệ nhân tạo.
-
-- Nguồn: [VnExpress](https://vnexpress.net/cac-tap-doan-cong-nghe-trung-quoc-ngay-cang-dang-gom-5109240.html)
 
 ---
 
