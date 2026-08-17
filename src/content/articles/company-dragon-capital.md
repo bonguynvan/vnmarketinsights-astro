@@ -1,17 +1,23 @@
 ---
 title: "Dragon Capital — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Dragon Capital, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
 
 # Dragon Capital
 
-Recent Vietnam market news mentioning **Dragon Capital** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Dragon Capital** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Dragon Capital: Đầu tư năm 2026 có quá nhiều biến số**  
+
+Dragon Capital's CEO Lê Anh Tuấn stated at an investor conference that 2026 presents significant investment challenges due to macroeconomic volatility, particularly rising interest rates. The CEO used metaphorical language comparing the investment landscape to various obstacles. The comments reflect concerns about navigating a complex investment environment in the coming year.
+
+- Source: [VnExpress](https://vnexpress.net/dragon-capital-dau-tu-nam-2026-co-qua-nhieu-bien-so-5108895.html)
 
 **Công ty CP Bluemarq Group mất cổ đông lớn**  
 
@@ -39,10 +45,10 @@ Foreign funds linked to Dragon Capital have sold millions of shares, while T-Cor
 
 ## Related coverage
 
-- [VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm) — TuoiTre
-- [HSBC: Nghị quyết 10 tạo nền tảng để Việt Nam thu hút dòng vốn chất lượng cao](https://cafef.vn/hsbc-nghi-quyet-10-tao-nen-tang-de-viet-nam-thu-hut-dong-von-chat-luong-cao-188260804144834067.chn) — CafeF
-- [Hàng loạt cửa hàng kim cương đóng cửa: Bỏ ngỏ quyền lợi khách hàng](https://cafef.vn/hang-loat-cua-hang-kim-cuong-dong-cua-bo-ngo-quyen-loi-khach-hang-188260722064532814.chn) — CafeF
 - [Mục tiêu tăng trưởng từ 10%: Hàm ý mới cho thị trường chứng khoán](https://vietnamnet.vn/muc-tieu-tang-truong-tu-10-ham-y-moi-cho-thi-truong-chung-khoan-2531009.html) — VietnamNet
+- [HSBC: Nghị quyết 10 tạo nền tảng để Việt Nam thu hút dòng vốn chất lượng cao](https://cafef.vn/hsbc-nghi-quyet-10-tao-nen-tang-de-viet-nam-thu-hut-dong-von-chat-luong-cao-188260804144834067.chn) — CafeF
+- [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
+- [VinaCapital bán ra hàng triệu cổ phiếu PNJ, không còn là cổ đông lớn đúng ngày 'đặc biệt'](https://tuoitre.vn/vinacapital-ban-ra-hang-trieu-co-phieu-pnj-khong-con-la-co-dong-lon-dung-ngay-dac-biet-100260711072330045.htm) — TuoiTre
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Vinhomes — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinhomes, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
 
 # Vinhomes
 
-Recent Vietnam market news mentioning **Vinhomes** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vinhomes** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ACBS: Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý**  
+
+According to ACBS data, Vinhomes-related enterprises issued 57,000 billion dong in bonds during the second quarter, equivalent to 2.1 billion USD. In Q2, enterprises conducted 163 new bond issuances totaling 240,000 billion dong, 5.6 times higher than the previous quarter and equivalent to the same period last year. Banks continued to lead in bond issuance volumes.
+
+- Source: [VnExpress](https://vnexpress.net/acbs-doanh-nghiep-lien-quan-vinhomes-phat-hanh-hon-2-ty-usd-trai-phieu-trong-mot-quy-5110200.html)
 
 **Đất nền, căn hộ &#039;rủ nhau&#039; giảm gi&aacute;**  
 
@@ -51,10 +57,10 @@ Hanoi is pioneering a new housing rental model under government initiative, with
 
 ## Related coverage
 
+- [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
+- [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
 - [Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn) — CafeF
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
-- [Chính sách mới về thuế thu nhập cá nhân từ ngày 1/7 tất cả mọi người cần biết](https://cafef.vn/chinh-sach-moi-ve-thue-thu-nhap-ca-nhan-tu-ngay-1-7-tat-ca-moi-nguoi-can-biet-188260629091051945.chn) — CafeF
 
 ---
 

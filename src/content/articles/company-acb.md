@@ -1,8 +1,8 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **ACB** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**ACBS: Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý**  
+
+According to ACBS data, Vinhomes-related enterprises issued 57,000 billion dong in bonds during the second quarter, equivalent to 2.1 billion USD. In Q2, enterprises conducted 163 new bond issuances totaling 240,000 billion dong, 5.6 times higher than the previous quarter and equivalent to the same period last year. Banks continued to lead in bond issuance volumes.
+
+- Source: [VnExpress](https://vnexpress.net/acbs-doanh-nghiep-lien-quan-vinhomes-phat-hanh-hon-2-ty-usd-trai-phieu-trong-mot-quy-5110200.html)
 
 **Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật**  
 
@@ -78,12 +84,6 @@ A survey of online interest rates at 34 banks on August 6 shows ACB leading with
 A survey of online deposit interest rates across 34 banks on August 5 shows overall stability in rate levels. SeABank reduced rates across multiple terms, while ACB continues to lead with 7.8% per annum and LPBank maintains 7.3% per annum.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn)
-
-**Những ngân hàng nào có tỷ lệ nợ xấu thấp nhất hiện nay?**  
-
-Ten Vietnamese banks maintained non-performing loan (NPL) ratios below 1.5% in the first half of 2026, with Vietcombank and ACB among those with the lowest ratios. The banking sector faced increased liquidity pressure during the first half of 2026, leading to higher system-wide deposit rates. Industry-wide credit growth reached 8.5% while deposit growth lagged at 5%, creating a liquidity gap that pressured funding costs across the sector.
-
-- Source: [CafeF](https://cafef.vn/nhung-ngan-hang-nao-co-ty-le-no-xau-thap-nhat-hien-nay-188260804075641978.chn)
 
 ## Related coverage
 

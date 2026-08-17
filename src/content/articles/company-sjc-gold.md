@@ -1,17 +1,23 @@
 ---
 title: "SJC Gold — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SJC Gold, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
 
 # SJC Gold
 
-Recent Vietnam market news mentioning **SJC Gold** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **SJC Gold** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Những điểm &#039;lạ&#039; của v&agrave;ng trong nước**  
+
+Domestic SJC gold bars trade at a premium of 5 million VND per tael compared to global prices. Since July, the price increase rate of domestic gold has been slower than international markets, narrowing the premium gap. On August 17, global gold rose 30 USD per ounce to 4,410 USD/ounce, up 370 USD (9%) from early August.
+
+- Source: [ThanhNien](https://thanhnien.vn/nhung-diem-la-cua-vang-trong-nuoc-185260817185614249.htm)
 
 **Giá vàng SJC, vàng nhẫn chiều ngày 14/7**  
 
@@ -46,9 +52,9 @@ Domestic gold prices in Vietnam fell sharply on the afternoon of June 23, 2026, 
 ## Related coverage
 
 - [Giá vàng SJC, vàng nhẫn trơn chiều 22/6](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-chieu-22-6-188260622135830883.chn) — CafeF
+- [Giá vàng miếng SJC, vàng nhẫn ngày 16/7](https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-ngay-16-7-188260716071512571.chn) — CafeF
 - [Giá vàng nhẫn, vàng miếng SJC ngày 14/7 tiếp tục giảm mạnh, vừa mua đã lỗ gần 5 triệu đồng/lượng](https://cafef.vn/gia-vang-nhan-vang-mieng-sjc-ngay-14-7-188260714074923645.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn trơn chiều nay ngày 19/6](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-nay-ngay-19-6-188260619141324938.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều ngày 6/7](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-ngay-6-7-188260706070920145.chn) — CafeF
 
 ---
 

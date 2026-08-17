@@ -1,8 +1,8 @@
 ---
 title: "Sun Group — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Sun Group, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
@@ -87,10 +87,10 @@ Sun Phu Quoc Airways has launched an on-site check-in service at select hotels w
 
 ## Related coverage
 
+- [6.500 người 'vượt nắng, thắng mưa' tại nhà ga Phượng hoàng lửa sân bay Phú Quốc](https://cafef.vn/6500-nguoi-vuot-nang-thang-mua-tai-nha-ga-phuong-hoang-lua-san-bay-phu-quoc-188260817160855827.chn) — CafeF
 - [Tuyến đường 83.000 tỷ đồng, kết nối sân bay 5 sao hàng đầu thế giới với Hà Nội do liên danh Sun Group làm chủ đầu tư có chuyển động mới](https://cafef.vn/tuyen-duong-83000-ty-dong-ket-noi-san-bay-5-sao-hang-dau-the-gioi-voi-ha-noi-do-lien-danh-sun-group-lam-chu-dau-tu-co-chuyen-dong-moi-188260706110910746.chn) — CafeF
 - [Sân bay Phú Quốc: Tăng tốc thi công, quyết cán mốc vận hành từ tháng 4-2027](https://cafef.vn/san-bay-phu-quoc-tang-toc-thi-cong-quyet-can-moc-van-hanh-tu-thang-4-2027-188260808134956039.chn) — CafeF
 - [240 ngày đêm tại đảo Ngọc: Nước cờ 'nuôi thợ ngắm mưa' và cuộc ‘lột xác’ sân bay Phú Quốc chưa từng có](https://cafef.vn/240-ngay-dem-tai-dao-ngoc-nuoc-co-nuoi-tho-ngam-mua-va-cuoc-lot-xac-san-bay-phu-quoc-chua-tung-co-188260729121212871.chn) — CafeF
-- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
 
 ---
 

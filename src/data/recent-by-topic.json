@@ -1,127 +1,215 @@
 {
-  "generatedAt": "2026-08-16T23:12:05.785913+00:00",
+  "generatedAt": "2026-08-17T23:15:04.248475+00:00",
   "topics": {
-    "financial-markets": [
+    "logistics": [
       {
-        "title": "MSCI muốn loại công ty giữ Bitcoin khỏi chỉ số chứng khoán toàn cầu",
-        "url": "https://vnexpress.net/msci-muon-loai-cong-ty-giu-bitcoin-khoi-chi-so-chung-khoan-toan-cau-5109609.html",
-        "source": "VnExpress",
-        "summary_en": "MSCI is proposing a new methodology to identify and exclude non-operating companies from global stock indices. The proposal could result in companies that hold Bitcoin, including Grayscale Bitcoin Trust (Strategy), being removed from MSCI indices. MSCI will evaluate businesses using five financial metrics including the proportion of operating assets, expenses, and cash flow.",
-        "summary_vn": "MSCI đang đề xuất một phương pháp mới để xác định và loại những \"công ty không vận hành\" khỏi các chỉ số chứng khoán toàn cầu. Đề xuất này có thể dẫn đến việc các công ty nắm giữ Bitcoin, bao gồm Grayscale Bitcoin Trust (Strategy), bị loại khỏi các chỉ số của MSCI. MSCI sẽ đánh giá doanh nghiệp thông qua năm chỉ số tài chính gồm tỷ trọng tài sản phục vụ hoạt động, chi phí và dòng tiền.",
-        "pubDate": "Sun, 16 Aug 2026 08:11:58 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet",
-        "url": "https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html",
-        "source": "VnExpress",
-        "summary_en": "Berkshire Hathaway nearly doubled its investment in Alphabet in the second quarter, increasing its holdings from 57.8 million shares to approximately 106 million shares as of June 30. The company's total Alphabet position is valued at around $37.8 billion, including a $10 billion investment announced in June to support Google's AI infrastructure expansion. Berkshire filed this information with U.S. regulators on August 15.",
-        "summary_vn": "Berkshire Hathaway gần như tăng gấp đôi khoản đầu tư vào Alphabet trong quý II, nâng từ 57,8 triệu cổ phiếu lên khoảng 106 triệu cổ phiếu tính đến ngày 30/6. Tổng giá trị vị thế Alphabet của công ty là khoảng 37,8 tỷ USD, bao gồm khoản đầu tư 10 tỷ USD được công bố vào tháng 6 nhằm hỗ trợ mở rộng hạ tầng trí tuệ nhân tạo của Google. Berkshire đã nộp thông tin này cho các cơ quan quản lý Mỹ vào ngày 15 tháng 8.",
-        "pubDate": "Sun, 16 Aug 2026 10:05:00 +0700",
-        "sentiment": 0.3,
-        "importance": 4
-      },
-      {
-        "title": "Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật",
-        "url": "https://thanhnien.vn/gia-usd-hom-nay-1682026-giam-sau-cung-euro-yen-nhat-185260815154724355.htm",
+        "title": "Cuộc chạy đua ng&agrave;y đ&ecirc;m của 600 người ở c&ocirc;ng trường LRT Ph&uacute; Quốc",
+        "url": "https://thanhnien.vn/cuoc-chay-dua-ngay-dem-cua-600-nguoi-o-cong-truong-lrt-phu-quoc-185260817150900374.htm",
         "source": "ThanhNien",
-        "summary_en": "On August 16, 2026, USD prices declined across Vietnamese commercial banks after one week. Vietcombank's USD buying rate fell to 25,950 VND and selling rate to 26,330 VND, down 80 VND from the previous week, while ACB recorded a 60 VND decrease. Other foreign currencies including the euro and Japanese yen also declined during the same period.",
-        "summary_vn": "Sáng ngày 16.8.2026, giá USD tại các ngân hàng thương mại Việt Nam giảm sau một tuần. Vietcombank ghi nhận tỷ giá mua chuyển khoản ở mức 25.950 đồng và bán ra 26.330 đồng, giảm 80 đồng so với tuần trước, trong khi ACB giảm 60 đồng. Các ngoại tệ khác như euro và yen Nhật cũng ghi nhận xu hướng giảm trong cùng kỳ.",
-        "pubDate": "Sun, 16 Aug 26 07:28:00 +0700",
-        "sentiment": -0.3,
+        "summary_en": "The article describes construction workers on the Phú Quốc Light Rail Transit (LRT) project working day and night under challenging conditions. In August, during Vietnam's monsoon season, the construction site between Phú Quốc International Airport and the APEC Conference Center faces difficult weather with heavy rainfall and muddy working conditions. Despite these obstacles, workers continue their operations, moving materials into covered work areas to maintain project progress.",
+        "summary_vn": "Bài viết mô tả công nhân thi công dự án Đường sắt nhẹ (LRT) Phú Quốc làm việc ngày đêm trong điều kiện khó khăn. Vào tháng 8, trong mùa mưa của Việt Nam, công trường từ Cảng hàng không quốc tế Phú Quốc đến Trung tâm Hội nghị APEC phải đối mặt với thời tiết khắc nghiệt, mưa lớn và đất bùn loại. Bất chấp những trở ngại, công nhân tiếp tục hoạt động, di chuyển vật tư vào các khu vực bao che để duy trì tiến độ dự án.",
+        "pubDate": "Mon, 17 Aug 26 15:31:00 +0700",
+        "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Đà tăng giá vàng thế giới có thể kéo dài",
-        "url": "https://vnexpress.net/da-tang-gia-vang-the-gioi-co-the-keo-dai-5109741.html",
-        "source": "VnExpress",
-        "summary_en": "Gold prices experienced significant volatility this week, reaching over $4,400 per ounce—a 10-week high—driven by technical buying pressure, followed by profit-taking and a recovery at week's end after weaker-than-expected US retail sales data. The Kitco survey shows 90% of experts expect gold prices to rise next week as expectations grow that the Federal Reserve will maintain interest rates. Gold's upward momentum appears likely to continue based on technical and macroeconomic factors.",
-        "summary_vn": "Giá vàng thế giới giao dịch với biến động lớn trong tuần này, đạt mức hơn 4.400 USD/oz (cao nhất 10 tuần) do lực mua kỹ thuật, sau đó giảm mạnh khi nhà đầu tư chốt lời và phục hồi sau khi dữ liệu bán lẻ Mỹ bất ngờ giảm. Khảo sát của Kitco cho thấy 90% chuyên gia dự báo giá vàng tuần tới sẽ tăng do kỳ vọng Fed giữ nguyên lãi suất gia tăng. Đà tăng của vàng dự kiến sẽ tiếp tục dựa trên các yếu tố kỹ thuật và vĩ mô.",
-        "pubDate": "Sun, 16 Aug 2026 17:38:24 +0700",
-        "sentiment": 0.6,
+        "title": "Đích thân kiểm tra dự án thành phần 4 sân bay Long Thành, Cục trưởng Cục Hàng không chỉ đạo gắt gao về tiến độ",
+        "url": "https://cafef.vn/dich-than-kiem-tra-du-an-thanh-phan-4-san-bay-long-thanh-cuc-truong-cuc-hang-khong-chi-dao-gat-gao-ve-tien-do-188260817183736112.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam's Civil Aviation Authority Director Uong Viet Dung personally inspected the Long Thanh Airport International Cargo Terminal (Component Project 4) and issued strict directives on project progress. On August 15, at the Southern Air Port Authority headquarters, Director Uong Viet Dung chaired a meeting to assess the implementation status of Component Project 4. The inspection reflects management's focus on ensuring timely execution of this key infrastructure component.",
+        "summary_vn": "Cục trưởng Cục Hàng không Việt Nam Uông Việt Dũng đã đích thân kiểm tra Dự án thành phần 4 - Cảng Hàng không quốc tế Long Thành và đưa ra các chỉ đạo gắt gao về tiến độ. Vào ngày 15/8, tại trụ sở Cảng vụ Hàng không miền Nam, ông Uông Việt Dũng chủ trì cuộc họp kiểm điểm tiến độ thực hiện các dự án thành phần 4. Cuộc kiểm tra này cho thấy sự chú trọng của ban quản lý đối với việc đảm bảo thực hiện kịp tiến độ của dự án cơ sở hạ tầng quan trọng này.",
+        "pubDate": "Mon, 17 Aug 26 19:30:00 +0700",
+        "sentiment": 0.0,
         "importance": 3
       },
       {
-        "title": "M&ugrave;a mưa ở Nam bộ kết th&uacute;c sớm 20 ng&agrave;y v&igrave; &#039;si&ecirc;u El Nino&#039;",
-        "url": "https://thanhnien.vn/mua-mua-o-nam-bo-ket-thuc-som-20-ngay-vi-sieu-el-nino-18526081607235922.htm",
+        "title": "\"Siêu cầu\" vượt sông Hồng hơn 16.000 tỷ đồng đạt tiến độ “thần tốc”, dựng vòm thép vô cực sau 8 tháng",
+        "url": "https://cafef.vn/sieu-cau-vuot-song-hong-hon-16000-ty-dong-dat-tien-do-than-toc-dung-vom-thep-vo-cuc-sau-8-thang-188260817143907565.chn",
+        "source": "CafeF",
+        "summary_en": "The Trần Hưng Đạo Bridge across the Red River, worth over 16,000 billion Vietnamese dong, has achieved rapid construction progress since commencing on December 19, 2025. The project is being hailed by experts for its impressive timeline and is expected to serve as a vital transportation link connecting Hanoi's central areas to eastern development zones. Construction is organized across 17 parallel work fronts on both land and underwater, employing simultaneous execution of multiple sections rather than sequential completion.",
+        "summary_vn": "Cầu Trần Hưng Đạo vượt sông Hồng trị giá hơn 16.000 tỷ đồng đã đạt tiến độ thi công nhanh chóng kể từ khi khởi công ngày 19/12/2025. Dự án được các chuyên gia đánh giá có tiến độ ấn tượng và dự kiến sẽ là công trình giao thông huyết mạch kết nối khu vực trung tâm Hà Nội với các vùng phát triển phía Đông. Thi công được tổ chức trên 17 mũi cùng lúc trên cạn và dưới nước, không chờ từng hạng mục hoàn thành mới tiếp tục công việc tiếp theo.",
+        "pubDate": "Mon, 17 Aug 26 21:05:00 +0700",
+        "sentiment": 0.7,
+        "importance": 4
+      }
+    ],
+    "platforms": [
+      {
+        "title": "Ra mắt Hệ thống đăng k&yacute; th&agrave;nh vi&ecirc;n tại Trung t&acirc;m t&agrave;i ch&iacute;nh quốc tế",
+        "url": "https://thanhnien.vn/ra-mat-he-thong-dang-ky-thanh-vien-tai-trung-tam-tai-chinh-quoc-te-185260817142024639.htm",
         "source": "ThanhNien",
-        "summary_en": "The Southern Regional Hydro-Meteorological Center released a seasonal forecast indicating that \"super El Niño\" will increase temperatures and cause the rainy season in southern Vietnam to end 20 days earlier than normal. Over the past two months, El Niño has significantly affected regional weather, causing average temperatures to rise and creating periods of intense heat. In June, average temperatures were 0.9-1.7°C above the long-term average, with a peak temperature of 37°C recorded in Tan Son Hoa.",
-        "summary_vn": "Đài Khí tượng thủy văn Nam bộ phát hành bản tin dự báo mùa cho biết \"siêu El Nino\" sẽ làm tăng nhiệt độ và mùa mưa ở Nam bộ kết thúc sớm 20 ngày so với bình thường. Trong 2 tháng vừa qua, El Nino đã ảnh hưởng đáng kể đến thời tiết khu vực, gây ra sự gia tăng nhiệt độ trung bình và những đợt nắng nóng gay gắt. Tháng 6, nền nhiệt độ trung bình cao hơn trung bình nhiều năm từ 0,9-1,7 độ C, nhiệt độ cao nhất ngày ghi nhận tại Tân Sơn Hòa là 37 độ C.",
-        "pubDate": "Sun, 16 Aug 26 07:47:00 +0700",
+        "summary_en": "Vietnam's international financial centers in Ho Chi Minh City and Da Nang launched a member registration and recognition system for the Vietnam International Financial Center (VIFC) for the 2026-2027 phase on August 17. The system is integrated directly into VIFC's official information portal, establishing a unified online service channel. The system enables investors, organizations, and businesses to complete all related procedures through this centralized digital platform.",
+        "summary_vn": "Chiều 17.8, Cơ quan điều hành Trung tâm tài chính quốc tế tại TP.HCM phối hợp cùng Cơ quan điều hành Trung tâm tài chính quốc tế tại TP. Đà Nẵng ra mắt Hệ thống đăng ký và công nhận thành viên của VIFC giai đoạn 2026 - 2027. Hệ thống được tích hợp trực tiếp trên cổng thông tin điện tử chính thức của VIFC, thiết lập một kênh dịch vụ trực tuyến thống nhất. Hệ thống cho phép nhà đầu tư, tổ chức và doanh nghiệp thực hiện toàn bộ quy trình liên quan đến việc đăng ký thành viên.",
+        "pubDate": "Mon, 17 Aug 26 15:44:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "VN-Index có thể lùi về 1.700 điểm trước kỳ rà soát bán niên của FTSE",
+        "url": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-ky-ra-soat-ban-nien-cua-ftse-5109688.html",
+        "source": "VnExpress",
+        "summary_en": "The VN-Index may adjust downward to around 1,700 points before FTSE Russell's semi-annual index review scheduled for August 21. The index closed on August 14 at 1,729 points, marking a 2.2% decline for the week. This correction follows over two weeks of market recovery that had pushed toward the 1,800-point resistance level.",
+        "summary_vn": "VN-Index có thể điều chỉnh về vùng 1.700 điểm trước kỳ rà soát bán niên của FTSE Russell vào ngày 21/8. Chỉ số đóng cửa ngày 14/8 ở mức 1.729 điểm, giảm 2,2% trong tuần. Nhịp điều chỉnh này diễn ra sau hơn hai tuần thị trường phục hồi hướng tới ngưỡng 1.800 điểm.",
+        "pubDate": "Mon, 17 Aug 2026 00:10:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
+        "url": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
+        "source": "VnExpress",
+        "summary_en": "Highlands Coffee's EBITDA reached a record high of over 1 billion pesos (approximately 440 billion Vietnamese dong) in the second quarter, according to parent company Jollibee Foods Corporation. This represents a significant increase of over 70% compared to the same quarter in the previous year. This is the highest EBITDA level achieved by the coffee chain.",
+        "summary_vn": "EBITDA của Highlands Coffee đạt mức kỷ lục hơn 1 tỷ peso (tương đương gần 440 tỷ đồng) trong quý II theo công bố của công ty mẹ Jollibee Foods Corporation. Con số này tăng mạnh hơn 70% so với cùng kỳ năm trước. Đây là mức EBITDA cao nhất mà chuỗi cà phê này từng đạt được.",
+        "pubDate": "Mon, 17 Aug 2026 13:52:02 +0700",
+        "sentiment": 0.8,
+        "importance": 4
+      },
+      {
+        "title": "Kinh tế Nhật Bản tăng trưởng chậm hơn dự báo",
+        "url": "https://vnexpress.net/kinh-te-nhat-ban-tang-truong-cham-hon-du-bao-5110017.html",
+        "source": "VnExpress",
+        "summary_en": "Japan's Q2 GDP growth came in at 1.1% on an annualized basis, slower than Q1's 1.9% and below Reuters consensus forecast of 2%. The slowdown was driven by weaker household consumption and business investment. Senior economist Kazutaka Maeda noted that while growth remained positive, underlying details were softer than expected.",
+        "summary_vn": "GDP quý II của Nhật Bản tăng trưởng 1,1% (hiệu chỉnh theo cơ sở năm), chậm hơn mức 1,9% của quý I và thấp hơn dự báo 2% của Reuters. Sự giảm tốc này do chi tiêu hộ gia đình và đầu tư doanh nghiệp yếu hơn. Nhà kinh tế cao cấp Kazutaka Maeda nhận định rằng mặc dù tăng trưởng vẫn dương nhưng các chi tiết cơ bản yếu hơn kỳ vọng.",
+        "pubDate": "Mon, 17 Aug 2026 15:12:10 +0700",
+        "sentiment": -0.6,
+        "importance": 4
+      },
+      {
+        "title": "Thanh khoản chứng khoán giảm 5.000 tỷ đồng",
+        "url": "https://vnexpress.net/thanh-khoan-chung-khoan-giam-5-000-ty-dong-5110082.html",
+        "source": "VnExpress",
+        "summary_en": "Stock market liquidity declined sharply to just under 14,000 billion VND, the lowest level in one month, due to investor caution ahead of the FTSE Russell semi-annual review. Daily liquidity dropped over 5,000 billion VND compared to the previous week. Vingroup (VIC) dominated trading activity with four consecutive sessions exceeding 1 trillion VND in value, surpassing the combined volume of the three next-largest traded stocks.",
+        "summary_vn": "Thanh khoản thị trường chứng khoán giảm mạnh xuống mức dưới 14.000 tỷ đồng, mức thấp nhất trong một tháng, do nhà đầu tư thận trọng trước kỳ rà soát bán niên của FTSE Russell. Dòng tiền hôm nay giảm hơn 5.000 tỷ đồng so với tuần trước. Cổ phiếu Vingroup (VIC) chiếm ưu thế giao dịch với bốn phiên liên tiếp đạt trên 1 nghìn tỷ đồng, vượt quá khối lượng giao dịch cộng lại của ba mã xếp tiếp theo.",
+        "pubDate": "Mon, 17 Aug 2026 16:14:25 +0700",
         "sentiment": -0.6,
         "importance": 3
       },
       {
-        "title": "Nước sông Rhine cạn gây thêm trở ngại cho kinh tế Đức",
-        "url": "https://vnexpress.net/nuoc-song-rhine-can-gay-them-tro-ngai-cho-kinh-te-duc-5109556.html",
-        "source": "VnExpress",
-        "summary_en": "Low water levels on the Rhine River are reaching record lows, disrupting transportation and supply chains across German industrial centers. This drought threatens Germany's economic recovery. Typically, low water periods on the Rhine occur from September to November each year, with Kaub being one of the shallowest sections.",
-        "summary_vn": "Mực nước thấp kỷ lục trên sông Rhine đang gây cản trở vận tải và chuỗi cung ứng trên các trung tâm công nghiệp Đức. Tình trạng hạn hán này có khả năng cản trở phục hồi kinh tế của Đức. Thông thường, mực nước thấp trên sông Rhine xảy ra từ tháng 9 đến tháng 11 hàng năm, với Kaub là một trong những đoạn nông nhất.",
-        "pubDate": "Mon, 17 Aug 2026 00:00:00 +0700",
-        "sentiment": -0.8,
-        "importance": 4
+        "title": "Gi&aacute; v&agrave;ng thế giới giảm mạnh khi sản xuất Mỹ tăng vượt dự b&aacute;o",
+        "url": "https://thanhnien.vn/gia-vang-the-gioi-giam-manh-khi-san-xuat-my-tang-vuot-du-bao-185260817202034828.htm",
+        "source": "ThanhNien",
+        "summary_en": "Gold prices fell sharply after the Federal Reserve Bank of New York released the August Empire State manufacturing index at 20.6 points, up from 15.6 points in July. This marks the highest level in over four years and significantly exceeds the consensus forecast of 10.2 points. The report shows new orders and shipments continuing to grow strongly at 17.3 points, while the shipping index stands at 11.7 points.",
+        "summary_vn": "Giá vàng thế giới giảm mạnh sau khi Cục Dự trữ liên bang New York công bố chỉ số sản xuất Empire State tháng 8 tăng lên 20,6 điểm, từ mức 15,6 điểm của tháng 7. Đây là mức cao nhất trong hơn bốn năm và cao hơn đáng kể so với dự báo đồng thuận 10,2 điểm. Báo cáo cho thấy số đơn đặt hàng mới và lượng hàng xuất xưởng tiếp tục tăng mạnh ở mức 17,3 điểm, trong khi chỉ số vận chuyển ở mức 11,7 điểm.",
+        "pubDate": "Mon, 17 Aug 26 20:28:00 +0700",
+        "sentiment": -0.5,
+        "importance": 3
+      },
+      {
+        "title": "Nghiên cứu hạ tuổi hưởng trợ cấp hưu trí xã hội từ 75 xuống 70",
+        "url": "https://cafef.vn/nghien-cuu-ha-tuoi-huong-tro-cap-huu-tri-xa-hoi-tu-75-xuong-70-188260817153345951.chn",
+        "source": "CafeF",
+        "summary_en": "Vietnam is studying the possibility of lowering the age at which citizens become eligible for social retirement benefits from 75 to 70 years old. According to a policy impact assessment, implementing this change would require an estimated additional 11,680 billion dong in annual funding. The directive was announced by Deputy Minister of Internal Affairs Vu Chien Thang at a conference on August 17 reviewing elderly care work during the first seven months of 2026.",
+        "summary_vn": "Việt Nam đang nghiên cứu khả năng hạ độ tuổi hưởng trợ cấp hưu trí xã hội từ 75 xuống 70 tuổi. Theo đánh giá tác động chính sách, việc thực hiện thay đổi này sẽ yêu cầu khoảng 11.680 tỷ đồng kinh phí bổ sung mỗi năm. Định hướng được Thứ trưởng Bộ Nội vụ Vũ Chiến Thắng công bố tại một hội nghị ngày 17/8 để sơ kết công tác người cao tuổi trong 7 tháng đầu năm 2026.",
+        "pubDate": "Mon, 17 Aug 26 17:00:00 +0700",
+        "sentiment": 0.0,
+        "importance": 3
       }
     ],
     "regulations": [
       {
-        "title": "Viên chức chưa có chứng chỉ bồi dưỡng có được hưởng 100% lương?",
-        "url": "https://cafef.vn/vien-chuc-chua-co-chung-chi-boi-duong-co-duoc-huong-100-luong-188260816133721263.chn",
-        "source": "CafeF",
-        "summary_en": "An article addresses whether civil servants who have completed their probationary period but have not yet obtained professional training certificates can receive full salary. The query concerns civil servants in Cao Bang province who finished probation but lack professional development certificates due to training classes not being organized. The article discusses whether such civil servants can be recognized as having completed their probation and receive 100% of their corresponding professional position salary.",
-        "summary_vn": "Bài viết thảo luận về việc liệu viên chức đã hoàn thành thời gian tập sự nhưng chưa có chứng chỉ bồi dưỡng chuyên môn có được hưởng 100% lương hay không. Câu hỏi được đặt ra từ viên chức tại Cao Bằng những người đã hoàn thành tập sự nhưng thiếu chứng chỉ bồi dưỡng chức danh nghề nghiệp vì các lớp đào tạo chưa được tổ chức. Bài viết đề cập đến việc viên chức như vậy có thể được công nhận đã hoàn thành tập sự và nhận 100% lương mức chức danh nghề nghiệp tương ứng hay không.",
-        "pubDate": "Sun, 16 Aug 26 14:45:00 +0700",
+        "title": "Sắp đấu gi&aacute; lại l&ocirc; &#039;đất v&agrave;ng&#039; Thủ Thi&ecirc;m",
+        "url": "https://thanhnien.vn/sap-dau-gia-lai-lo-dat-vang-thu-thiem-185260817165650737.htm",
+        "source": "ThanhNien",
+        "summary_en": "A \"golden land\" plot in Thu Thiem is being prepared for re-auction with zoning specifications allowing maximum building heights of 6 floors and no higher than 24 meters. The land has a maximum floor area ratio of 2.33 and can accommodate up to 608 residents, with 95% allocated for residential use and some commercial and service functions. Land use rights for the auction winner are granted for 50 years from the date of land allocation decision.",
+        "summary_vn": "Khu \"đất vàng\" ở Thủ Thiêm được chuẩn bị đấu giá lại với quy định tầng cao tối đa 6 tầng, không quá 24 mét. Hệ số sử dụng đất tối đa 2,33 lần với dân số tối đa 608 người, 95% diện tích dành cho nhà ở kết hợp một phần thương mại và dịch vụ. Người trúng đấu giá được sử dụng đất trong 50 năm kể từ ngày có quyết định giao đất.",
+        "pubDate": "Mon, 17 Aug 26 17:11:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "Dừng giải quyết hồ sơ đánh giá tác động môi trường thuộc diện cắt giảm",
-        "url": "https://cafef.vn/dung-giai-quyet-ho-so-danh-gia-tac-dong-moi-truong-thuoc-dien-cat-giam-18826081615065631.chn",
-        "source": "CafeF",
-        "summary_en": "The Vietnamese Government issued Resolution 66.19/2026/NQ-CP which reduces the scope of entities required to conduct environmental impact assessments. For pending cases that have been received but not yet resolved, transitional provisions apply, allowing administrative procedures to be discontinued for projects that no longer meet the new assessment requirements.",
-        "summary_vn": "Chính phủ Việt Nam đã ban hành Nghị quyết số 66.19/2026/NQ-CP cắt giảm danh sách các chủ thể phải thực hiện đánh giá tác động môi trường. Đối với hồ sơ đã tiếp nhận nhưng chưa có kết quả giải quyết, các quy định chuyển tiếp cho phép dừng các thủ tục hành chính đối với những dự án không còn thuộc diện phải đánh giá theo quy định mới.",
-        "pubDate": "Sun, 16 Aug 26 15:28:00 +0700",
+        "title": "Để lĩnh thưởng 10 triệu đồng, người d&acirc;n tố gi&aacute;c th&ocirc;ng tin g&igrave; li&ecirc;n quan h&oacute;a đơn?",
+        "url": "https://thanhnien.vn/de-linh-thuong-10-trieu-dong-nguoi-dan-to-giac-thong-tin-gi-lien-quan-hoa-don-185260817180023332.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietnam's Tax Department in Ho Chi Minh City is implementing measures to encourage consumers to request invoices when making purchases. A lucky invoice program offers monthly and year-end cash prizes for electronic invoices issued to individual consumers. The program structure and prize values are based on electronic invoice data collected by tax authorities.",
+        "summary_vn": "Cơ quan Thuế TP.HCM đang thực hiện các biện pháp khuyến khích người mua lấy hóa đơn khi mua hàng hóa và dịch vụ. Chương trình hóa đơn may mắn được tổ chức hằng tháng và cuối năm, trao thưởng bằng tiền cho những hóa đơn điện tử có người mua là người tiêu dùng. Phương án tổ chức và giá trị giải thưởng được xây dựng trên cơ sở dữ liệu về hóa đơn điện tử.",
+        "pubDate": "Mon, 17 Aug 26 18:21:00 +0700",
         "sentiment": 0.0,
         "importance": 2
       },
       {
-        "title": "TP Hồ Chí Minh bỏ giới hạn địa giới khi làm thủ tục nhà đất",
-        "url": "https://cafef.vn/tp-ho-chi-minh-bo-gioi-han-dia-gioi-khi-lam-thu-tuc-nha-dat-18826081615055389.chn",
+        "title": "Lazada bị phạt 350 triệu đồng",
+        "url": "https://vnexpress.net/lazada-bi-phat-350-trieu-dong-5110163.html",
+        "source": "VnExpress",
+        "summary_en": "Lazada was fined 350 million dong by the National Competition Commission on July 9 for providing inaccurate information about its services that caused consumer confusion. The commission ordered Recess (Lazada Vietnam) to comply with regulations and rectify the violation. The penalty was issued for administrative violations related to misleading consumer information.",
+        "summary_vn": "Lazada bị Ủy ban Cạnh tranh Quốc gia phạt 350 triệu đồng vào ngày 9/7 vì cung cấp thông tin không chính xác về dịch vụ gây nhầm lẫn cho người tiêu dùng. Ủy ban yêu cầu Recess (Lazada Việt Nam) tuân thủ quy định và khắc phục vi phạm. Hình phạt được đưa ra vì các vi phạm hành chính liên quan đến cung cấp thông tin gây nhầm lẫn cho người tiêu dùng.",
+        "pubDate": "Mon, 17 Aug 2026 20:56:58 +0700",
+        "sentiment": -0.7,
+        "importance": 3
+      },
+      {
+        "title": "Định hướng xử lý các vấn đề về định giá, thu hồi và chuyển mục đích sử dụng đất theo Nghị quyết 21-NQ/TW",
+        "url": "https://vneconomy.vn/dinh-huong-xu-ly-cac-van-de-ve-dinh-gia-thu-hoi-va-chuyen-muc-dich-su-dung-dat-theo-nghi-quyet-21-nqtw.htm",
+        "source": "VnEconomy",
+        "summary_en": "Resolution 21-NQ/TW issued on July 28, 2026, identifies and provides guidance on handling issues related to land valuation, land recovery and compensation, land-use conversion, and methods of land allocation and leasing following the implementation of the 2024 Land Law. The resolution addresses persistent bottlenecks in land administration that remained unresolved after the new law took effect. Proper institutionalization of these guidelines is considered critical to the effective implementation of the amended Land Law.",
+        "summary_vn": "Nghị quyết 21-NQ/TW ngày 28/7/2026 xác định và đưa ra định hướng xử lý các vấn đề liên quan đến định giá đất, thu hồi đất và bồi thường, chuyển mục đích sử dụng đất, và phương thức giao đất, cho thuê đất sau khi Luật Đất đai năm 2024 có hiệu lực. Nghị quyết này giải quyết các điểm nghẽn còn tồn đọng trong quản lý đất đai chưa được xử lý triệt để sau khi luật mới đi vào áp dụng. Thể chế hóa đúng những định hướng này được coi là yếu tố quyết định đối với hiệu quả thực thi của Luật Đất đai (sửa đổi).",
+        "pubDate": "Mon, 17 Aug 2026 08:44:08 GMT",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Hoàn thiện Nghị quyết, tạo cơ chế xử lý phù hợp để khuyến khích đổi mới sáng tạo",
+        "url": "https://vneconomy.vn/hoan-thien-nghi-quyet-tao-co-che-xu-ly-phu-hop-de-khuyen-khich-doi-moi-sang-tao.htm",
+        "source": "VnEconomy",
+        "summary_en": "On August 17, the National Assembly's Standing Committee reviewed and provided input on a draft Resolution regarding special mechanisms and policies to handle legal violations related to state-owned economy, private economy, and science and technology applications, innovation, and digital transformation. The Minister of Public Security affirmed broad consensus among National Assembly delegates on the necessity of enacting the Resolution and its core content.",
+        "summary_vn": "Ngày 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về dự thảo Nghị quyết của Quốc hội về cơ chế, chính sách đặc thù để xử lý vi phạm pháp luật liên quan kinh tế nhà nước, kinh tế tư nhân và ứng dụng khoa học, công nghệ, đổi mới sáng tạo. Bộ trưởng Bộ Công an khẳng định các đại biểu Quốc hội thống nhất cao về sự cần thiết ban hành Nghị quyết này.",
+        "pubDate": "Mon, 17 Aug 2026 08:49:15 GMT",
+        "sentiment": 0.3,
+        "importance": 3
+      },
+      {
+        "title": "Dự thảo Luật Phát triển đô thị được bổ sung nhiều điểm mới",
+        "url": "https://vneconomy.vn/du-thao-luat-phat-trien-do-thi-duoc-bo-sung-nhieu-diem-moi.htm",
+        "source": "VnEconomy",
+        "summary_en": "On August 17, the National Assembly Standing Committee reviewed clarifications and revisions to the draft Urban Development Law. Justice Minister Hoang Thanh Tung reported that the draft law was revised based on National Assembly delegates' input, covering both content and legislative technique. The revised draft law consists of 5 chapters and 65 articles, maintaining the same structure as the previous version submitted to the National Assembly.",
+        "summary_vn": "Sáng 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về việc giải trình, tiếp thu, chỉnh lý dự thảo Luật Phát triển đô thị. Bộ trưởng Bộ Tư pháp Hoàng Thanh Tùng báo cáo rằng dự thảo luật đã được nghiên cứu, tiếp thu, chỉnh lý dựa trên ý kiến của đại biểu Quốc hội. Dự thảo Luật hiện gồm 5 chương, 65 điều, giữ nguyên số chương và số điều so với dự thảo đã trình trước đó.",
+        "pubDate": "Mon, 17 Aug 2026 11:06:14 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Từ ngày 1/7, một luật ở Việt Nam có hiệu lực, vì sao nhiều người tiêu dùng vẫn khó khi mua hàng online?",
+        "url": "https://cafef.vn/tu-ngay-1-7-mot-luat-o-viet-nam-co-hieu-luc-vi-sao-nhieu-nguoi-tieu-dung-van-kho-khi-mua-hang-online-188260817160541086.chn",
         "source": "CafeF",
-        "summary_en": "Ho Chi Minh City has approved a process to remove geographical boundary restrictions for five property-related administrative procedures. Citizens and organizations can now submit documentation at any land registration office in the city, regardless of which district they reside in. This measure aims to reduce travel time and costs for residents managing property transactions.",
-        "summary_vn": "TP Hồ Chí Minh đã phê duyệt quy trình giải quyết 5 thủ tục nhà đất mà không phụ thuộc vào địa giới hành chính. Người dân và tổ chức có thể nộp hồ sơ tại bất kỳ Văn phòng Đăng ký đất đai nào trong TP, bất kể họ cư trú ở đâu. Biện pháp này nhằm giảm thời gian và chi phí đi lại cho cư dân trong việc thực hiện các thủ tục liên quan đến nhà đất.",
-        "pubDate": "Sun, 16 Aug 26 16:00:00 +0700",
+        "summary_en": "A new law took effect in Vietnam on July 1st, yet many consumers continue to face challenges when purchasing goods online. Consumers in Vietnam report difficulties in selecting shipping providers when buying from e-commerce platforms, despite the introduction of new consumer rights. The excerpt references ongoing issues related to e-commerce regulations and platform operations.",
+        "summary_vn": "Từ ngày 1/7, một luật mới có hiệu lực tại Việt Nam, nhưng nhiều người tiêu dùng vẫn gặp khó khăn khi mua hàng trực tuyến. Người tiêu dùng Việt Nam báo cáo gặp khó trong việc lựa chọn nhà cung cấp dịch vụ vận chuyển khi mua từ các sàn thương mại điện tử, mặc dù có quyền mới được cấp cho người tiêu dùng. Đoạn trích đề cập đến các vấn đề liên tục liên quan đến quy định thương mại điện tử và hoạt động của các nền tảng.",
+        "pubDate": "Mon, 17 Aug 26 16:32:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      }
+    ],
+    "consumers": [
+      {
+        "title": "VNG khởi động giải chạy cộng đồng UpRace 2026",
+        "url": "https://thanhnien.vn/vng-khoi-dong-giai-chay-cong-dong-uprace-2026-185260817175428858.htm",
+        "source": "ThanhNien",
+        "summary_en": "VNG officially announced UpRace 2026, the 8th edition of its charity running event with the theme \"Run for a Rising Việt Nam\". The event aims to reach one million participants in the UpRace community. UpRace 2026 will feature two online running events: UpRace Summer Challenge from August 21 to September 4, and UpRace Flagship Event from October 10 to November 1.",
+        "summary_vn": "VNG chính thức công bố giải chạy từ thiện UpRace 2026, mùa giải thứ 8 với thông điệp \"Run for a Rising Việt Nam - Sải bước vì một Việt Nam vươn mình\". Sự kiện nhằm mục tiêu cộng đồng UpRace chạm mốc một triệu người. UpRace 2026 sẽ có hai sự kiện chạy bộ trực tuyến: UpRace Summer Challenge diễn ra từ 21.8 đến 4.9 và UpRace Flagship Event từ 10.10 đến 1.11.",
+        "pubDate": "Mon, 17 Aug 26 21:00:00 +0700",
         "sentiment": 0.5,
         "importance": 2
       },
       {
-        "title": "Cơ quan Thuế thông báo: Người nộp thuế có thể bị phạt tới 100 triệu đồng trong trường hợp sau",
-        "url": "https://cafef.vn/co-quan-thue-thong-bao-nguoi-nop-thue-co-the-bi-phat-toi-100-trieu-dong-trong-truong-hop-sau-18826081615131536.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's tax authorities announced that taxpayers and related organizations or individuals must provide accurate, complete, and timely information as requested by tax agencies. Failure to comply can result in fines ranging from 10 million to 100 million Vietnamese dong. The announcement was issued on August 15, 2026.",
-        "summary_vn": "Cơ quan Thuế Việt Nam thông báo rằng người nộp thuế và các tổ chức, cá nhân liên quan phải cung cấp thông tin chính xác, đầy đủ và đúng thời hạn theo yêu cầu của cơ quan thuế. Trường hợp vi phạm sẽ bị phạt từ 10 triệu đến 100 triệu đồng. Thông báo được phát hành vào ngày 15 tháng 8 năm 2026.",
-        "pubDate": "Sun, 16 Aug 26 16:21:00 +0700",
-        "sentiment": -0.3,
+        "title": "Giá tăng mạnh, ớt hiểm xanh đắt hơn thịt gà",
+        "url": "https://vnexpress.net/gia-tang-manh-ot-hiem-xanh-dat-hon-thit-ga-5110050.html",
+        "source": "VnExpress",
+        "summary_en": "Green chili pepper prices in Ho Chi Minh City have increased 30-50% compared to the beginning of the year, with rare green chilies reaching 150,000-170,000 dong per kilogram due to reduced supply during the rainy season. Survey data from retail markets in Ho Chi Minh City shows other varieties such as slender chilies, horn chilies, and bell peppers priced at approximately 70,000 dong per kilogram. Green rare chilies have increased 60% from the beginning of the year, making them more expensive than chicken meat.",
+        "summary_vn": "Giá ớt tại TP HCM tăng 30-50% so với đầu năm, trong đó ớt hiểm xanh lên 150.000-170.000 đồng một kg do nguồn cung giảm khi vào mùa mưa. Khảo sát tại các chợ lẻ TP HCM cho thấy ớt chỉ thiên, ớt sừng và ớt chuông có giá khoảng 70.000 đồng một kg. Ớt hiểm tăng lên 150.000-170.000 đồng, cao hơn 60% so với đầu năm.",
+        "pubDate": "Tue, 18 Aug 2026 00:01:00 +0700",
+        "sentiment": -0.6,
         "importance": 2
       },
       {
-        "title": "Hợp nhất thủ tục về thuế, hộ kinh doanh v&agrave; c&aacute; nh&acirc;n cần lưu &yacute; g&igrave;?",
-        "url": "https://thanhnien.vn/hop-nhat-thu-tuc-ve-thue-ho-kinh-doanh-va-ca-nhan-can-luu-y-gi-185260816084010452.htm",
+        "title": "Thẻ đi xe bu&yacute;t, metro miễn ph&iacute; in kh&ocirc;ng kịp v&igrave; người TP.HCM đăng k&yacute; qu&aacute; đ&ocirc;ng",
+        "url": "https://thanhnien.vn/the-di-xe-buyt-metro-mien-phi-in-khong-kip-vi-nguoi-tphcm-dang-ky-qua-dong-185260815112444102.htm",
         "source": "ThanhNien",
-        "summary_en": "Vietnam's Ministry of Finance has issued a consolidation document (No. 24/2026/VBHN-TT-BTC) that systematizes regulations on tax filing procedures and management for business households and self-employed individuals. The document consolidates regulations previously outlined in Circular No. 18/2026/TT-BTC on tax management procedures and Circular No. 50/2026/TT-BTC that amended the earlier circular. The consolidation covers notification of business revenue, tax declarations, tax payments, refunds, and related tax management procedures.",
-        "summary_vn": "Bộ Tài chính đã ban hành Văn bản hợp nhất số 24/2026/VBHN-TT-BTC quy định về thủ tục quản lý thuế đối với hộ kinh doanh và cá nhân kinh doanh. Văn bản này hệ thống hóa các quy định về thông báo doanh thu, kê khai, nộp thuế, hoàn thuế và các thủ tục quản lý thuế liên quan. Đây là sự hợp nhất của các quy định tại Thông tư số 18/2026/TT-BTC và Thông tư số 50/2026/TT-BTC sửa đổi, bổ sung một số điều của thông tư trước đó.",
-        "pubDate": "Sun, 16 Aug 26 11:28:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Sắp xếp, sáp nhập trường học: Quy trình nhân sự; chấm điểm lựa chọn bổ nhiệm hiệu trưởng",
-        "url": "https://cafef.vn/sap-xep-sap-nhap-truong-hoc-quy-trinh-nhan-su-cham-diem-lua-chon-bo-nhiem-hieu-truong-188260816163045189.chn",
-        "source": "CafeF",
-        "summary_en": "Ninh Binh provincial government issued procedures and criteria for personnel recommendations and selection of school principals following school reorganization and consolidation. The decision outlines the process for reviewing, evaluating, filtering, and appointing new principals at consolidated schools.",
-        "summary_vn": "Chính phủ tỉnh Ninh Bình ban hành quy trình đề xuất nhân sự và tiêu chí lựa chọn bổ nhiệm hiệu trưởng trường học sau sắp xếp, sáp nhập. Quyết định này quy định quá trình rà soát, đánh giá, sàng lọc và bổ nhiệm hiệu trưởng tại các trường được sắp xếp.",
-        "pubDate": "Sun, 16 Aug 26 17:02:00 +0700",
-        "sentiment": 0.0,
+        "summary_en": "Ho Chi Minh City's Public Transport Card Management Center announced delays in issuing free bus and metro cards (GTCC) due to higher-than-expected demand. Registration applications have exceeded 16,000 cards and continue to increase daily, straining the card printing capacity. The center has asked passengers to postpone collection until after the September 2-3 holiday period.",
+        "summary_vn": "Trung tâm Quản lý Thẻ Giao Thông Công Cộng TP.HCM thông báo chậm trễ trong phát hành thẻ xe buýt và metro miễn phí (GTCC) do nhu cầu cao hơn dự kiến. Số đơn đăng ký đã vượt quá 16.000 thẻ và tiếp tục tăng hàng ngày, gây áp lực lên công suất in thẻ. Trung tâm đã yêu cầu hành khách trì hoãn nhận thẻ đến sau kỳ nghỉ lễ Quốc khánh (2-3 tháng 9).",
+        "pubDate": "Sat, 15 Aug 26 12:02:00 +0700",
+        "sentiment": -0.3,
         "importance": 2
       }
     ],
@@ -135,50 +223,6 @@
         "pubDate": "Sat, 15 Aug 2026 09:00:00 +0700",
         "sentiment": 0.3,
         "importance": 2
-      }
-    ],
-    "consumers": [
-      {
-        "title": "Thẻ đi xe bu&yacute;t, metro miễn ph&iacute; in kh&ocirc;ng kịp v&igrave; người TP.HCM đăng k&yacute; qu&aacute; đ&ocirc;ng",
-        "url": "https://thanhnien.vn/the-di-xe-buyt-metro-mien-phi-in-khong-kip-vi-nguoi-tphcm-dang-ky-qua-dong-185260815112444102.htm",
-        "source": "ThanhNien",
-        "summary_en": "Ho Chi Minh City's Public Transport Card Management Center announced delays in issuing free bus and metro cards (GTCC) due to higher-than-expected demand. Registration applications have exceeded 16,000 cards and continue to increase daily, straining the card printing capacity. The center has asked passengers to postpone collection until after the September 2-3 holiday period.",
-        "summary_vn": "Trung tâm Quản lý Thẻ Giao Thông Công Cộng TP.HCM thông báo chậm trễ trong phát hành thẻ xe buýt và metro miễn phí (GTCC) do nhu cầu cao hơn dự kiến. Số đơn đăng ký đã vượt quá 16.000 thẻ và tiếp tục tăng hàng ngày, gây áp lực lên công suất in thẻ. Trung tâm đã yêu cầu hành khách trì hoãn nhận thẻ đến sau kỳ nghỉ lễ Quốc khánh (2-3 tháng 9).",
-        "pubDate": "Sat, 15 Aug 26 12:02:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      },
-      {
-        "title": "Giá xoài cát Hòa Lộc tăng gấp đôi sau ba tháng",
-        "url": "https://vnexpress.net/gia-xoai-cat-hoa-loc-tang-gap-doi-sau-ba-thang-5109411.html",
-        "source": "VnExpress",
-        "summary_en": "Hòa Lộc mango prices have doubled over three months, reaching 55,000-80,000 VND per kilogram at farm gate and up to 190,000 VND at retail. A mango grower in Dong Nai sold over one ton of Hòa Lộc mangoes at approximately 60,000 VND per kilogram, earning around 25 million VND in profit despite increased input costs. Prices are now double compared to the main harvest season in April-May.",
-        "summary_vn": "Giá xoài cát Hòa Lộc đã tăng gấp đôi trong ba tháng qua, đạt 55.000-80.000 đồng mỗi kilogram tại vườn và lên tới 190.000 đồng ở bán lẻ. Một chủ vườn ở Đồng Nai vừa bán hơn một tấn xoài cát Hòa Lộc với giá khoảng 60.000 đồng mỗi kilogram, lãi khoảng 25 triệu đồng dù chi phí tăng. Giá hiện tại gấp đôi so với vụ chính tháng 4-5.",
-        "pubDate": "Sat, 15 Aug 2026 14:00:44 +0700",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Tin vui: Có 2 ngày du khách Việt được miễn phí 1 dịch vụ tại địa điểm du lịch nổi tiếng này",
-        "url": "https://cafef.vn/tin-vui-co-2-ngay-du-khach-viet-duoc-mien-phi-1-dich-vu-tai-dia-diem-du-lich-noi-tieng-nay-188260816011129717.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnamese citizens will receive free admission to heritage sites in the Hué Ancient Capital Complex on two special dates: August 19 and September 2, 2026. This policy is designed to provide opportunities for residents and tourists to experience these sites. The initiative encourages visitors to combine sightseeing with cultural activities and special festivals.",
-        "summary_vn": "Công dân Việt Nam sẽ được miễn vé tham quan các điểm di tích trong Quần thể Di tích Cố đô Huế vào hai ngày đặc biệt: 19/8 và 2/9/2026. Chính sách này nhằm tạo điều kiện cho người dân và du khách trải nghiệm những di sản này. Sáng kiến khuyến khích du khách kết hợp tham quan với các hoạt động văn hóa và lễ hội đặc sắc.",
-        "pubDate": "Sun, 16 Aug 26 01:11:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Xe tải điện Trung Quốc bùng nổ tại châu Á do xung đột Iran",
-        "url": "https://vnexpress.net/xe-tai-dien-trung-quoc-bung-no-tai-chau-a-do-xung-dot-iran-5109488.html",
-        "source": "VnExpress",
-        "summary_en": "Chinese electric truck exports to South Asia surged five-fold and to Southeast Asia three-fold following Middle East tensions that elevated fuel prices. Sany, China's largest electric truck manufacturer, received a record export order of 880 heavy-duty vehicles two months ago. The company's international marketing vice president stated that the Iran conflict has \"opened doors to new markets,\" though he declined to name the purchasing countries.",
-        "summary_vn": "Xuất khẩu xe tải điện Trung Quốc sang Nam Á tăng gấp 5 lần và Đông Nam Á tăng gấp 3 lần sau căng thẳng Trung Đông kéo theo giá nhiên liệu tăng cao. Sany, nhà sản xuất xe tải điện lớn nhất Trung Quốc, nhận được đơn hàng xuất khẩu kỷ lục gồm 880 xe hạng nặng hai tháng trước đây. Phó chủ tịch tiếp thị quốc tế của công ty cho biết xung đột Iran đã \"mở cánh cửa đến các thị trường mới\", mặc dù ông từ chối tiết lộ tên các quốc gia mua hàng.",
-        "pubDate": "Sat, 15 Aug 2026 16:06:15 +0700",
-        "sentiment": 0.6,
-        "importance": 3
       }
     ]
   }

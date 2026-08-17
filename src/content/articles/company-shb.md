@@ -1,8 +1,8 @@
 ---
 title: "SHB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SHB, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SHB** (12 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thanh khoản chứng khoán giảm 5.000 tỷ đồng**  
+
+Stock market liquidity declined sharply to just under 14,000 billion VND, the lowest level in one month, due to investor caution ahead of the FTSE Russell semi-annual review. Daily liquidity dropped over 5,000 billion VND compared to the previous week. Vingroup (VIC) dominated trading activity with four consecutive sessions exceeding 1 trillion VND in value, surpassing the combined volume of the three next-largest traded stocks.
+
+- Source: [VnExpress](https://vnexpress.net/thanh-khoan-chung-khoan-giam-5-000-ty-dong-5110082.html)
 
 **SHB được Global Banking & Finance Review vinh danh là Ngân hàng tiết kiệm tốt nhất Việt Nam năm 2026**  
 
@@ -79,18 +85,12 @@ Eight Vietnamese banks are distributing cash dividends totaling more than 39,000
 
 - Source: [CafeF](https://cafef.vn/8-ngan-hang-chi-hon-39000-ty-tra-co-tuc-tien-mat-188260709075637478.chn)
 
-**Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu**  
-
-Multiple Vietnamese banks including Techcombank, VPBank, MB, HDBank, SHB, and MSB are planning large-scale capital increases through stock issuances in 2026. The total volume of bank shares expected to reach the market in 2026 has exceeded 12 billion units and could increase further if state-owned banks gain approval for dividend distribution plans.
-
-- Source: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
-
 ## Related coverage
 
 - [Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn) — CafeF
 - [Cập nhật KQKD ngân hàng 6 tháng/2026: Một nhà băng báo lãi tăng 80%, VietinBank và Agribank ghi nhận kỷ lục mới](https://cafef.vn/cap-nhat-kqkd-ngan-hang-6-thang-2026-mot-nha-bang-bao-lai-tang-80-vietinbank-va-agribank-ghi-nhan-ky-luc-moi-188260709160021641.chn) — CafeF
 - [KQKD 6 tháng đầu năm của 13 ngân hàng: Đã có 3 cái tên tăng trưởng âm, 1 nhà băng lãi gấp 5 lần](https://cafef.vn/kqkd-6-thang-dau-nam-cua-13-ngan-hang-da-co-3-cai-ten-tang-truong-am-1-nha-bang-lai-gap-5-lan-188260726145623059.chn) — CafeF
-- [Cập nhật KQKD 6 tháng của 15 ngân hàng đến chiều 27/7: VIB, VietABank, VPBank, Techcombank,...](https://cafef.vn/cap-nhat-kqkd-6-thang-cua-15-ngan-hang-den-chieu-27-7-vib-vietabank-vpbank-techcombank-188260727140751249.chn) — CafeF
+- [Ngân hàng lớn nhất Việt Nam chuẩn bị trả cổ tức](https://cafef.vn/ngan-hang-lon-nhat-viet-nam-chuan-bi-tra-co-tuc-188260707205605944.chn) — CafeF
 
 ---
 

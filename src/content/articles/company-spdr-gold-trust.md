@@ -1,8 +1,8 @@
 ---
 title: "SPDR Gold Trust — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SPDR Gold Trust, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
@@ -33,10 +33,10 @@ Gold prices fell for the third consecutive week, closing at $4,155 per ounce on 
 
 ## Related coverage
 
+- [Nga bán ra mạnh, dự trữ vàng thấp nhất 6 năm: Chuyện gì đang xảy ra?](https://vietnamnet.vn/nga-ban-ra-manh-du-tru-vang-thap-nhat-6-nam-chuyen-gi-dang-xay-ra-2545171.html) — VietnamNet
 - [Tối 8/7, giá vàng thế giới quay đầu rớt mạnh](https://cafef.vn/toi-8-7-gia-vang-the-gioi-quay-dau-rot-manh-188260708193519515.chn) — CafeF
 - [Áp lực lớn nhất với giá vàng hiện nay](https://cafef.vn/ap-luc-lon-nhat-voi-gia-vang-hien-nay-188260718092006558.chn) — CafeF
 - [Chiều ngày 6/8, giá vàng miếng, vàng nhẫn tại SJC, Bảo Tín Mạnh Hải, DOJI, Phú Quý,... quay đầu giảm](https://cafef.vn/chieu-ngay-6-8-gia-vang-mieng-vang-nhan-tai-sjc-bao-tin-manh-hai-doji-phu-quy-quay-dau-giam-188260806150345679.chn) — CafeF
-- [Giá vàng lao dốc tối 24/6, mất mốc quan trọng 4.000 USD/ounce](https://cafef.vn/gia-vang-lao-doc-toi-24-6-mat-moc-quan-trong-4000-usd-ounce-188260624201321679.chn) — CafeF
 
 ---
 

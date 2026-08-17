@@ -1,8 +1,8 @@
 ---
 title: "SACOMBANK — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SACOMBANK, with neutral summaries and source links."
-publishedDate: "2026-08-16"
-lastUpdated: "2026-08-16"
+publishedDate: "2026-08-17"
+lastUpdated: "2026-08-17"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **SACOMBANK** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Thanh khoản chứng khoán giảm 5.000 tỷ đồng**  
+
+Stock market liquidity declined sharply to just under 14,000 billion VND, the lowest level in one month, due to investor caution ahead of the FTSE Russell semi-annual review. Daily liquidity dropped over 5,000 billion VND compared to the previous week. Vingroup (VIC) dominated trading activity with four consecutive sessions exceeding 1 trillion VND in value, surpassing the combined volume of the three next-largest traded stocks.
+
+- Source: [VnExpress](https://vnexpress.net/thanh-khoan-chung-khoan-giam-5-000-ty-dong-5110082.html)
 
 **Lãi suất ngân hàng 12/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
 
@@ -78,12 +84,6 @@ A survey of deposit rates on August 7 across 35 banks showed ACB offering the hi
 A survey of online interest rates at 34 banks on August 6 shows ACB leading with 7.8% per annum for 12-month terms. LPBank maintained 7.3% per annum, while eight banks across the market quoted rates of 7% per annum or higher. The survey tracks deposit mobilization rates at major Vietnamese commercial banks.
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn)
-
-**Lãi suất cho vay mới nhất tại Agribank**  
-
-Agribank announced its latest lending rates, maintaining short-term lending rates at 4% per annum for priority sectors. The average lending rate decreased to 8.51% per annum. The announcement was published on August 5, 2026.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-cho-vay-moi-nhat-tai-agribank-188260805165851379.chn)
 
 ## Related coverage
 
