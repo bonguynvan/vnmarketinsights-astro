@@ -1,7 +1,175 @@
 {
-  "generatedAt": "2026-08-17T23:15:04.248475+00:00",
+  "generatedAt": "2026-08-18T23:15:10.241863+00:00",
   "topics": {
+    "regulations": [
+      {
+        "title": "Đẩy nhanh tiến độ xử lý kiến nghị trong lĩnh vực công nghiệp, xây dựng và quy hoạch",
+        "url": "https://vneconomy.vn/day-nhanh-tien-do-xu-ly-kien-nghi-trong-linh-vuc-cong-nghiep-xay-dung-va-quy-hoach.htm",
+        "source": "VnEconomy",
+        "summary_en": "Vietnam's Government Office announced conclusions from Deputy Prime Minister Phạm Gia Túc at a conference addressing difficulties and obstacles in industry, construction, infrastructure, and planning sectors. The industrial, construction, infrastructure, and planning sectors play a critical role in the economy and affect business production and operations widely. These sectors also influence foreign direct investment attraction and Vietnam's commodity competitiveness.",
+        "summary_vn": "Văn phòng Chính phủ công bố kết luận của Phó Thủ tướng Thường trực Phạm Gia Túc tại hội nghị tháo gỡ khó khăn, vướng mắc trong lĩnh vực công nghiệp, xây dựng, hạ tầng và quy hoạch. Các lĩnh vực này có vai trò hết sức quan trọng đối với nền kinh tế và ảnh hưởng rộng đến sản xuất, kinh doanh của doanh nghiệp. Chúng cũng liên quan trực tiếp đến thu hút đầu tư nước ngoài và năng lực cạnh tranh của hàng hóa Việt Nam.",
+        "pubDate": "Tue, 18 Aug 2026 07:09:57 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Sửa Luật Trưng mua, trưng dụng tài sản: Bảo đảm quyền lợi của chủ sở hữu",
+        "url": "https://vneconomy.vn/sua-luat-trung-mua-trung-dung-tai-san-bao-dam-quyen-loi-cua-chu-so-huu.htm",
+        "source": "VnEconomy",
+        "summary_en": "Vietnam is updating its Law on Requisition and Commandeering of Property to establish a clearer and more flexible legal framework. The amendment aims to enable the State to mobilize resources for the public interest during exceptional circumstances such as natural disasters, epidemics, economic crises, and regional conflicts. The reform seeks to balance the State's ability to requisition property with the protection of owners' legitimate rights and interests.",
+        "summary_vn": "Việt Nam đang sửa đổi Luật Trưng mua, trưng dụng tài sản nhằm thiết lập khuôn khổ pháp lý rõ ràng và linh hoạt hơn. Sửa đổi này nhằm cho phép Nhà nước huy động nguồn lực để phục vụ lợi ích công cộng trong những tình huống đặc biệt như thiên tai, dịch bệnh, khủng hoảng kinh tế và xung đột khu vực. Cải cách này nhằm cân bằng khả năng trưng mua tài sản của Nhà nước với bảo vệ quyền lợi hợp pháp của chủ sở hữu.",
+        "pubDate": "Tue, 18 Aug 2026 07:51:38 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Khẩn trương rà soát toàn diện Luật Đất đai 2024 và văn bản liên quan",
+        "url": "https://vneconomy.vn/khan-truong-ra-soat-toan-dien-luat-dat-dai-2024-va-van-ban-lien-quan.htm",
+        "source": "VnEconomy",
+        "summary_en": "The Government has issued Resolution No. 229/NQ-CP on implementing the Central Committee's Resolution No. 21-NQ/TW from July 28, 2026, concerning guidelines for amending the 2024 Land Law and related legislation. The plan aims to ensure coordinated and unified implementation of Land Law amendments while preserving applicable existing provisions. The initiative reflects a comprehensive review effort to update the legal framework governing land matters.",
+        "summary_vn": "Chính phủ vừa ban hành Nghị quyết số 229/NQ-CP thực hiện Nghị quyết số 21-NQ/TW của Ban Chấp hành Trung ương Đảng về hướng sửa đổi Luật Đất đai 2024 và các luật liên quan. Kế hoạch nhằm đảm bảo việc xây dựng, sửa đổi Luật Đất đai được thực hiện đồng bộ, thống nhất và kế thừa các quy định còn phù hợp. Sáng kiến này thể hiện nỗ lực rà soát toàn diện để cập nhật khung pháp lý về đất đai.",
+        "pubDate": "Tue, 18 Aug 2026 11:11:35 GMT",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Doanh nghiệp nợ thuế bỏ địa chỉ, tổng gi&aacute;m đốc nước ngo&agrave;i bị ho&atilde;n xuất cảnh",
+        "url": "https://thanhnien.vn/doanh-nghiep-no-thue-bo-dia-chi-tong-giam-doc-nuoc-ngoai-bi-hoan-xuat-canh-185260818170802755.htm",
+        "source": "ThanhNien",
+        "summary_en": "Polytec LLC (tax ID 0302569829), located at Linh Trung Industrial Zone in Ho Chi Minh City, owes import-export tax and late payment surcharges totaling 38.667 billion Vietnamese dong according to Customs Notification No. 1258 dated August 18. The company has abandoned its registered address, and customs has posted the debt notice on its official information portal. The company's foreign general director has been barred from leaving the country as enforcement action.",
+        "summary_vn": "Công ty TNHH Polytec (mã số thuế 0302569829), đặt tại Khu công nghiệp Linh Trung TP.HCM, nợ tiền thuế xuất nhập khẩu và tiền chậm nộp với tổng số tiền là 38,667 triệu đồng theo thông báo của Hải quan ngày 18.8. Công ty đã bỏ địa chỉ đăng ký của mình, và Hải quan đã thông báo khoản nợ này trên trang thông tin điện tử chính thức. Tổng giám đốc người nước ngoài của công ty bị cấm xuất cảnh để thực thi biện pháp xử lý nợ.",
+        "pubDate": "Tue, 18 Aug 26 17:18:00 +0700",
+        "sentiment": -0.8,
+        "importance": 3
+      },
+      {
+        "title": "LPBank cảnh b&aacute;o m&ocirc;i giới t&iacute;n dụng kh&ocirc;ng minh bạch",
+        "url": "https://thanhnien.vn/lpbank-canh-bao-moi-gioi-tin-dung-khong-minh-bach-185260818164404756.htm",
+        "source": "ThanhNien",
+        "summary_en": "LPBank outlined its official three-step lending process: customers contact the bank through branches, call centers, website or mobile app to register loan needs; bank staff advises on loan conditions, documentation, interest rates, fees and repayment methods; the bank then appraises documents, approves, signs credit contracts and disburses funds. The bank warned that no third-party intermediaries are permitted to commit to or guarantee loan approvals. LPBank cautioned against non-transparent credit brokers.",
+        "summary_vn": "LPBank nêu rõ quy trình cho vay theo ba bước: khách hàng liên hệ ngân hàng qua chi nhánh, tổng đài, website hoặc ứng dụng để đăng ký nhu cầu vay; nhân viên tư vấn về điều kiện, hồ sơ, lãi suất, phí và phương thức trả nợ; ngân hàng thẩm định, phê duyệt, ký hợp đồng và giải ngân. Ngân hàng cảnh báo không có cá nhân hoặc tổ chức trung gian nào được phép cam kết hoặc bảo đảm khoản vay được phê duyệt. LPBank cảnh báo về các môi giới tín dụng không minh bạch.",
+        "pubDate": "Tue, 18 Aug 26 17:21:00 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      },
+      {
+        "title": "Mỹ sắp áp thuế 50% với hàng loạt sản phẩm Canada",
+        "url": "https://vnexpress.net/my-sap-ap-thue-50-voi-hang-loat-san-pham-canada-5110419.html",
+        "source": "VnExpress",
+        "summary_en": "The United States will impose a 50% import tariff on various Canadian products starting August 19, including wine, wooden furniture, cement, clothing, and fishing rods. The U.S. President approved the tariffs under Section 338 of the 1930 Tariff Act, which permits duties up to 50% on imports from countries deemed to discriminate against U.S. goods. According to U.S. Census Bureau data, the new tariffs will affect approximately $20 billion in Canadian goods.",
+        "summary_vn": "Từ ngày 19/8, Mỹ sẽ áp thuế nhập khẩu 50% với hàng loạt sản phẩm Canada, bao gồm rượu vang, đồ gỗ nội thất, xi măng, quần áo và cần câu. Tổng thống Mỹ đã phê duyệt các biện pháp thuế này theo Điều 338 của Đạo luật Thuế năm 1930, cho phép áp thuế tối đa 50% với hàng nhập khẩu từ quốc gia có hành vi phân biệt đối xử với hàng hóa Mỹ. Theo Cục Thống kê Dân số Mỹ, các thuế mới sẽ áp dụng với gần 20 tỷ USD hàng hóa Canada.",
+        "pubDate": "Tue, 18 Aug 2026 14:59:33 +0700",
+        "sentiment": -0.8,
+        "importance": 4
+      }
+    ],
+    "financial-markets": [
+      {
+        "title": "VinaCapital: Cổ phiếu vẫn hấp dẫn dù lãi suất lên 9%",
+        "url": "https://vnexpress.net/vinacapital-co-phieu-van-hap-dan-du-lai-suat-len-9-5110329.html",
+        "source": "VnExpress",
+        "summary_en": "VinaCapital's analysis states that stocks remain attractive despite interest rates rising to 9%, citing strong valuation decline and potential for doubling gains within 1-3 years. The VESAF fund's research team noted that the stock market experienced volatile trading in July with VN-Index declining sharply from the year's start. Market adjustment pressure occurred amid continued interest rate increases throughout the year.",
+        "summary_vn": "VinaCapital cho rằng cổ phiếu vẫn hấp dẫn bất chấp lãi suất tăng lên 9%, dựa trên định giá giảm mạnh và tiềm năng tăng gấp đôi trong 1-3 năm tới. Đội phân tích của quỹ VESAF nhận định rằng thị trường chứng khoán trải qua tháng 7 biến động với VN-Index giảm mạnh nhất kể từ đầu năm. Áp lực điều chỉnh thị trường xảy ra trong bối cảnh lãi suất tiếp tục tăng suốt năm.",
+        "pubDate": "Tue, 18 Aug 2026 12:31:38 +0700",
+        "sentiment": 0.3,
+        "importance": 3
+      },
+      {
+        "title": "Cổ phiếu dầu khí 'dậy sóng' khi giá thế giới vượt 90 USD một thùng",
+        "url": "https://vnexpress.net/co-phieu-dau-khi-day-song-khi-gia-the-gioi-vuot-90-usd-mot-thung-5110469.html",
+        "source": "VnExpress",
+        "summary_en": "Global crude oil prices exceeded $90 per barrel, triggering a rally in Vietnamese petroleum sector stocks. Major oil and gas stocks including Petrolimex, GAS, BSR, and OIL gained at least 2% in trading. According to VNDirect Securities, petroleum stocks contributed approximately 5 points to the market index.",
+        "summary_vn": "Giá dầu thô thế giới vượt 90 USD một thùng, kích hoạt sóng tăng giá cổ phiếu dầu khí Việt Nam. Các cổ phiếu dầu khí hàng đầu gồm Petrolimex, GAS, BSR, OIL đều tăng ít nhất 2% so với tham chiếu. Theo thống kê của Công ty Chứng khoán VNDirect, cổ phiếu dầu khí đóng góp khoảng 5 điểm cho chỉ số thị trường.",
+        "pubDate": "Tue, 18 Aug 2026 15:50:36 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Lâm Đồng: Khơi thông hơn 74.000 tỷ đồng, quyết tâm đạt tăng trưởng \"2 con số\"",
+        "url": "https://cafef.vn/lam-dong-khoi-thong-hon-74000-ty-dong-quyet-tam-dat-tang-truong-2-con-so-18826081816573827.chn",
+        "source": "CafeF",
+        "summary_en": "Lâm Đồng province has resolved difficulties for 162 out of 365 off-budget investment projects as of mid-August 2026, mobilizing resources toward double-digit economic growth targets. The province is implementing automatic VAT refunds starting December 2026 to support business operations. The province has arranged 24/7 staffing and published hotlines to assist with National Day September 2 transportation needs.",
+        "summary_vn": "Tính đến giữa tháng 8/2026, tỉnh Lâm Đồng đã tháo gỡ khó khăn thành công cho 162/365 dự án đầu tư ngoài ngân sách, hướng tới mục tiêu tăng trưởng kinh tế \"2 con số\". Tỉnh triển khai hoàn thuế giá trị gia tăng tự động từ tháng 12/2026 để hỗ trợ hoạt động kinh doanh. Lâm Đồng đã bố trí lực lượng trực 24/7 và công bố đường dây nóng để phục vụ vận tải dịp Quốc khánh 2-9.",
+        "pubDate": "Tue, 18 Aug 26 17:10:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại",
+        "url": "https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html",
+        "source": "VnExpress",
+        "summary_en": "Banks increased deposit interest rates for 6-12 month terms to an average of 7.8% per annum, while lending rates held steady at 10.5%, breaking a streak of increases that began in late last year. According to State Bank of Vietnam data released today, average deposit rates in July rose across all terms except under one month, with overall funding rates up approximately 1.5 percentage points since the beginning of the year. For shorter 6-12 month terms, the highest deposit rate reached 7.8% per annum.",
+        "summary_vn": "Các ngân hàng tăng lãi suất tiền gửi kỳ hạn 6-12 tháng lên 7,8% bình quân, trong khi lãi suất cho vay giữ ở 10,5%, ngắt chuỗi tăng từ cuối năm ngoái. Theo dữ liệu Ngân hàng Nhà nước công bố, lãi suất tiền gửi bình quân tháng 7 tăng ở tất cả kỳ hạn trừ dưới một tháng, với mặt bằng huy động tăng khoảng 1,5 điểm phần trăm so với đầu năm. Với kỳ hạn 6-12 tháng, lãi suất cao nhất đạt 7,8% một năm.",
+        "pubDate": "Tue, 18 Aug 2026 18:26:25 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Bí thư Tỉnh ủy Gia Lai kiểm tra các dự án trọng điểm tại Phù Mỹ",
+        "url": "https://cafef.vn/bi-thu-tinh-uy-gia-lai-kiem-tra-cac-du-an-trong-diem-tai-phu-my-188260818161844405.chn",
+        "source": "CafeF",
+        "summary_en": "The Secretary of Gia Lai Province Party Committee inspected major projects in Phu My on August 18. Thái Đại Ngọc, a member of the Party Central Committee and Gia Lai Province Party Secretary, led a delegation to assess the progress of several key projects in the province. The inspection was part of routine oversight of provincial development initiatives.",
+        "summary_vn": "Ngày 18/8, ông Thái Đại Ngọc, Bí thư Tỉnh ủy Gia Lai, dẫn đầu một đoàn công tác kiểm tra tiến độ các dự án trọng điểm tại Phù Mỹ. Công việc kiểm tra là một phần của hoạt động giám sát thường xuyên đối với các sáng kiến phát triển của tỉnh. Chuyến đi nhằm đánh giá tình hình thực hiện các dự án chủ chốt trên địa bàn tỉnh Gia Lai.",
+        "pubDate": "Tue, 18 Aug 26 17:30:00 +0700",
+        "sentiment": 0.0,
+        "importance": 1
+      },
+      {
+        "title": "C&ocirc;ng ty &#039;g&agrave; đẻ trứng v&agrave;ng&#039; của bầu Đức ch&agrave;o b&aacute;n cổ phiếu lần đầu",
+        "url": "https://thanhnien.vn/cong-ty-ga-de-trung-vang-cua-bau-duc-chao-ban-co-phieu-lan-dau-185260818151025714.htm",
+        "source": "ThanhNien",
+        "summary_en": "Hoang Anh Gia Lai International Investment Joint Stock Company (HGI), a subsidiary of Hoang Anh Gia Lai Group led by Chairman Doan Nguyen Duc, conducted a roadshow on August 18 for its initial public offering. The company plans to issue 18.8 million shares at 60,600 dong per share, totaling 1.139 trillion dong in offering value. OCBS Securities is serving as the advisor and distributor for the HGI share offering.",
+        "summary_vn": "Công ty cổ phần Đầu tư Quốc tế Hoàng Anh Gia Lai (HGI), công ty con của Tập đoàn Hoàng Anh Gia Lai do Chủ tịch Đoàn Nguyên Đức lãnh đạo, đã tổ chức roadshow vào ngày 18 tháng 8 cho đợt chào bán cổ phiếu lần đầu ra công chúng. Công ty dự kiến phát hành 18,8 triệu cổ phiếu với giá 60.600 đồng/cổ phiếu, tương ứng tổng giá trị chào bán 1.139 tỉ đồng. Công ty chứng khoán OCBS đóng vai trò tư vấn và đại lý phân phối cổ phiếu HGI.",
+        "pubDate": "Tue, 18 Aug 26 18:42:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "payments": [
+      {
+        "title": "VETC, ePass thu thêm phí quản lý tài khoản",
+        "url": "https://vnexpress.net/vetc-epass-thu-them-phi-quan-ly-tai-khoan-5110239.html",
+        "source": "VnExpress",
+        "summary_en": "VETC and ePass electronic wallet services have introduced new monthly account management fees starting August. Individual users must pay 6,600 VND per month (79,200 VND annually) per wallet to maintain the system, bank connections, and 24/7 payment services, even if vehicles do not pass toll stations. Organizations and businesses face a higher fee of 66,000 VND per month (792,000 VND annually) per wallet.",
+        "summary_vn": "Các dịch vụ ví điện tử VETC và ePass đã áp dụng thêm phí quản lý tài khoản hàng tháng từ tháng 8. Người dùng cá nhân phải trả 6.600 đồng mỗi tháng (79.200 đồng mỗi năm) cho mỗi ví để duy trì hệ thống, kết nối ngân hàng và dịch vụ thanh toán 24/7, kể cả khi phương tiện không qua trạm thu phí. Các tổ chức và doanh nghiệp phải chịu mức phí cao hơn là 66.000 đồng mỗi tháng (792.000 đồng mỗi năm) cho mỗi ví.",
+        "pubDate": "Tue, 18 Aug 2026 14:28:17 +0700",
+        "sentiment": -0.3,
+        "importance": 2
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Mua drone, flycam dễ như mua rau",
+        "url": "https://thanhnien.vn/mua-drone-flycam-de-nhu-mua-rau-185260818180918963.htm",
+        "source": "ThanhNien",
+        "summary_en": "The UAV (unmanned aerial vehicle) market in Vietnam has become more accessible to consumers, with a wider range of price points now available compared to previous years when ownership was limited to those with higher budgets. Active buying and selling of drones and flycams takes place through social media groups, with one Facebook group having nearly 200,000 registered members. Transactions in these groups extend beyond entertainment-grade flycams to include other categories.",
+        "summary_vn": "Thị trường máy bay không người lái (UAV) ở Việt Nam đã trở nên dễ tiếp cận hơn với người tiêu dùng, với nhiều lựa chọn giá khác nhau so với những năm trước khi sở hữu bị giới hạn ở những người có ngân sách cao. Việc mua bán drone và flycam diễn ra sôi động thông qua các nhóm trên mạng xã hội, với một nhóm Facebook có gần 200.000 thành viên đăng ký. Các giao dịch trong những nhóm này không chỉ giới hạn ở flycam phục vụ giải trí.",
+        "pubDate": "Wed, 19 Aug 26 06:00:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      },
+      {
+        "title": "Từ ngày 1/7, một luật ở Việt Nam có hiệu lực, vì sao nhiều người tiêu dùng vẫn khó khi mua hàng online?",
+        "url": "https://cafef.vn/tu-ngay-1-7-mot-luat-o-viet-nam-co-hieu-luc-vi-sao-nhieu-nguoi-tieu-dung-van-kho-khi-mua-hang-online-188260817160541086.chn",
+        "source": "CafeF",
+        "summary_en": "A new law took effect in Vietnam on July 1st, yet many consumers continue to face challenges when purchasing goods online. Consumers in Vietnam report difficulties in selecting shipping providers when buying from e-commerce platforms, despite the introduction of new consumer rights. The excerpt references ongoing issues related to e-commerce regulations and platform operations.",
+        "summary_vn": "Từ ngày 1/7, một luật mới có hiệu lực tại Việt Nam, nhưng nhiều người tiêu dùng vẫn gặp khó khăn khi mua hàng trực tuyến. Người tiêu dùng Việt Nam báo cáo gặp khó trong việc lựa chọn nhà cung cấp dịch vụ vận chuyển khi mua từ các sàn thương mại điện tử, mặc dù có quyền mới được cấp cho người tiêu dùng. Đoạn trích đề cập đến các vấn đề liên tục liên quan đến quy định thương mại điện tử và hoạt động của các nền tảng.",
+        "pubDate": "Mon, 17 Aug 26 16:32:00 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      }
+    ],
     "logistics": [
+      {
+        "title": "FDI chất lượng cao mở 'cửa sáng' cho kho xưởng xây sẵn",
+        "url": "https://vnexpress.net/fdi-chat-luong-cao-mo-cua-sang-cho-kho-xuong-xay-san-5110358.html",
+        "source": "VnExpress",
+        "summary_en": "KCN Việt Nam initiated construction of a 21.9-hectare pre-built warehouse project in Sóng Thần 3 Industrial Zone, Ho Chi Minh City, expected to provide 130,000 m² of pre-built factory and mixed-use warehouse space. This development occurs as Ho Chi Minh City attracted over 6.8 billion USD in FDI in the first half of the year. Pre-built warehouses are gaining demand due to high-quality FDI inflows but must meet increasing requirements for connectivity, location, and green infrastructure.",
+        "summary_vn": "KCN Việt Nam khởi công dự án kho xưởng xây sẵn quy mô 21,9 ha tại Khu công nghiệp Sóng Thần 3 (TP HCM), dự kiến cung cấp 130.000 m² nhà xưởng xây sẵn và kho xưởng hỗn hợp. Động thái này diễn ra khi TP HCM thu hút hơn 6,8 tỷ USD vốn FDI trong nửa đầu năm. Kho xưởng xây sẵn có khả năng hút khách nhờ FDI chất lượng cao nhưng phải đáp ứng yêu cầu ngày càng cao về vị trí kết nối, hạ tầng xanh.",
+        "pubDate": "Wed, 19 Aug 2026 00:05:00 +0700",
+        "sentiment": 0.5,
+        "importance": 3
+      },
       {
         "title": "Cuộc chạy đua ng&agrave;y đ&ecirc;m của 600 người ở c&ocirc;ng trường LRT Ph&uacute; Quốc",
         "url": "https://thanhnien.vn/cuoc-chay-dua-ngay-dem-cua-600-nguoi-o-cong-truong-lrt-phu-quoc-185260817150900374.htm",
@@ -45,142 +213,6 @@
         "importance": 2
       }
     ],
-    "financial-markets": [
-      {
-        "title": "VN-Index có thể lùi về 1.700 điểm trước kỳ rà soát bán niên của FTSE",
-        "url": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-ky-ra-soat-ban-nien-cua-ftse-5109688.html",
-        "source": "VnExpress",
-        "summary_en": "The VN-Index may adjust downward to around 1,700 points before FTSE Russell's semi-annual index review scheduled for August 21. The index closed on August 14 at 1,729 points, marking a 2.2% decline for the week. This correction follows over two weeks of market recovery that had pushed toward the 1,800-point resistance level.",
-        "summary_vn": "VN-Index có thể điều chỉnh về vùng 1.700 điểm trước kỳ rà soát bán niên của FTSE Russell vào ngày 21/8. Chỉ số đóng cửa ngày 14/8 ở mức 1.729 điểm, giảm 2,2% trong tuần. Nhịp điều chỉnh này diễn ra sau hơn hai tuần thị trường phục hồi hướng tới ngưỡng 1.800 điểm.",
-        "pubDate": "Mon, 17 Aug 2026 00:10:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      },
-      {
-        "title": "'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục",
-        "url": "https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html",
-        "source": "VnExpress",
-        "summary_en": "Highlands Coffee's EBITDA reached a record high of over 1 billion pesos (approximately 440 billion Vietnamese dong) in the second quarter, according to parent company Jollibee Foods Corporation. This represents a significant increase of over 70% compared to the same quarter in the previous year. This is the highest EBITDA level achieved by the coffee chain.",
-        "summary_vn": "EBITDA của Highlands Coffee đạt mức kỷ lục hơn 1 tỷ peso (tương đương gần 440 tỷ đồng) trong quý II theo công bố của công ty mẹ Jollibee Foods Corporation. Con số này tăng mạnh hơn 70% so với cùng kỳ năm trước. Đây là mức EBITDA cao nhất mà chuỗi cà phê này từng đạt được.",
-        "pubDate": "Mon, 17 Aug 2026 13:52:02 +0700",
-        "sentiment": 0.8,
-        "importance": 4
-      },
-      {
-        "title": "Kinh tế Nhật Bản tăng trưởng chậm hơn dự báo",
-        "url": "https://vnexpress.net/kinh-te-nhat-ban-tang-truong-cham-hon-du-bao-5110017.html",
-        "source": "VnExpress",
-        "summary_en": "Japan's Q2 GDP growth came in at 1.1% on an annualized basis, slower than Q1's 1.9% and below Reuters consensus forecast of 2%. The slowdown was driven by weaker household consumption and business investment. Senior economist Kazutaka Maeda noted that while growth remained positive, underlying details were softer than expected.",
-        "summary_vn": "GDP quý II của Nhật Bản tăng trưởng 1,1% (hiệu chỉnh theo cơ sở năm), chậm hơn mức 1,9% của quý I và thấp hơn dự báo 2% của Reuters. Sự giảm tốc này do chi tiêu hộ gia đình và đầu tư doanh nghiệp yếu hơn. Nhà kinh tế cao cấp Kazutaka Maeda nhận định rằng mặc dù tăng trưởng vẫn dương nhưng các chi tiết cơ bản yếu hơn kỳ vọng.",
-        "pubDate": "Mon, 17 Aug 2026 15:12:10 +0700",
-        "sentiment": -0.6,
-        "importance": 4
-      },
-      {
-        "title": "Thanh khoản chứng khoán giảm 5.000 tỷ đồng",
-        "url": "https://vnexpress.net/thanh-khoan-chung-khoan-giam-5-000-ty-dong-5110082.html",
-        "source": "VnExpress",
-        "summary_en": "Stock market liquidity declined sharply to just under 14,000 billion VND, the lowest level in one month, due to investor caution ahead of the FTSE Russell semi-annual review. Daily liquidity dropped over 5,000 billion VND compared to the previous week. Vingroup (VIC) dominated trading activity with four consecutive sessions exceeding 1 trillion VND in value, surpassing the combined volume of the three next-largest traded stocks.",
-        "summary_vn": "Thanh khoản thị trường chứng khoán giảm mạnh xuống mức dưới 14.000 tỷ đồng, mức thấp nhất trong một tháng, do nhà đầu tư thận trọng trước kỳ rà soát bán niên của FTSE Russell. Dòng tiền hôm nay giảm hơn 5.000 tỷ đồng so với tuần trước. Cổ phiếu Vingroup (VIC) chiếm ưu thế giao dịch với bốn phiên liên tiếp đạt trên 1 nghìn tỷ đồng, vượt quá khối lượng giao dịch cộng lại của ba mã xếp tiếp theo.",
-        "pubDate": "Mon, 17 Aug 2026 16:14:25 +0700",
-        "sentiment": -0.6,
-        "importance": 3
-      },
-      {
-        "title": "Gi&aacute; v&agrave;ng thế giới giảm mạnh khi sản xuất Mỹ tăng vượt dự b&aacute;o",
-        "url": "https://thanhnien.vn/gia-vang-the-gioi-giam-manh-khi-san-xuat-my-tang-vuot-du-bao-185260817202034828.htm",
-        "source": "ThanhNien",
-        "summary_en": "Gold prices fell sharply after the Federal Reserve Bank of New York released the August Empire State manufacturing index at 20.6 points, up from 15.6 points in July. This marks the highest level in over four years and significantly exceeds the consensus forecast of 10.2 points. The report shows new orders and shipments continuing to grow strongly at 17.3 points, while the shipping index stands at 11.7 points.",
-        "summary_vn": "Giá vàng thế giới giảm mạnh sau khi Cục Dự trữ liên bang New York công bố chỉ số sản xuất Empire State tháng 8 tăng lên 20,6 điểm, từ mức 15,6 điểm của tháng 7. Đây là mức cao nhất trong hơn bốn năm và cao hơn đáng kể so với dự báo đồng thuận 10,2 điểm. Báo cáo cho thấy số đơn đặt hàng mới và lượng hàng xuất xưởng tiếp tục tăng mạnh ở mức 17,3 điểm, trong khi chỉ số vận chuyển ở mức 11,7 điểm.",
-        "pubDate": "Mon, 17 Aug 26 20:28:00 +0700",
-        "sentiment": -0.5,
-        "importance": 3
-      },
-      {
-        "title": "Nghiên cứu hạ tuổi hưởng trợ cấp hưu trí xã hội từ 75 xuống 70",
-        "url": "https://cafef.vn/nghien-cuu-ha-tuoi-huong-tro-cap-huu-tri-xa-hoi-tu-75-xuong-70-188260817153345951.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam is studying the possibility of lowering the age at which citizens become eligible for social retirement benefits from 75 to 70 years old. According to a policy impact assessment, implementing this change would require an estimated additional 11,680 billion dong in annual funding. The directive was announced by Deputy Minister of Internal Affairs Vu Chien Thang at a conference on August 17 reviewing elderly care work during the first seven months of 2026.",
-        "summary_vn": "Việt Nam đang nghiên cứu khả năng hạ độ tuổi hưởng trợ cấp hưu trí xã hội từ 75 xuống 70 tuổi. Theo đánh giá tác động chính sách, việc thực hiện thay đổi này sẽ yêu cầu khoảng 11.680 tỷ đồng kinh phí bổ sung mỗi năm. Định hướng được Thứ trưởng Bộ Nội vụ Vũ Chiến Thắng công bố tại một hội nghị ngày 17/8 để sơ kết công tác người cao tuổi trong 7 tháng đầu năm 2026.",
-        "pubDate": "Mon, 17 Aug 26 17:00:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      }
-    ],
-    "regulations": [
-      {
-        "title": "Sắp đấu gi&aacute; lại l&ocirc; &#039;đất v&agrave;ng&#039; Thủ Thi&ecirc;m",
-        "url": "https://thanhnien.vn/sap-dau-gia-lai-lo-dat-vang-thu-thiem-185260817165650737.htm",
-        "source": "ThanhNien",
-        "summary_en": "A \"golden land\" plot in Thu Thiem is being prepared for re-auction with zoning specifications allowing maximum building heights of 6 floors and no higher than 24 meters. The land has a maximum floor area ratio of 2.33 and can accommodate up to 608 residents, with 95% allocated for residential use and some commercial and service functions. Land use rights for the auction winner are granted for 50 years from the date of land allocation decision.",
-        "summary_vn": "Khu \"đất vàng\" ở Thủ Thiêm được chuẩn bị đấu giá lại với quy định tầng cao tối đa 6 tầng, không quá 24 mét. Hệ số sử dụng đất tối đa 2,33 lần với dân số tối đa 608 người, 95% diện tích dành cho nhà ở kết hợp một phần thương mại và dịch vụ. Người trúng đấu giá được sử dụng đất trong 50 năm kể từ ngày có quyết định giao đất.",
-        "pubDate": "Mon, 17 Aug 26 17:11:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Để lĩnh thưởng 10 triệu đồng, người d&acirc;n tố gi&aacute;c th&ocirc;ng tin g&igrave; li&ecirc;n quan h&oacute;a đơn?",
-        "url": "https://thanhnien.vn/de-linh-thuong-10-trieu-dong-nguoi-dan-to-giac-thong-tin-gi-lien-quan-hoa-don-185260817180023332.htm",
-        "source": "ThanhNien",
-        "summary_en": "Vietnam's Tax Department in Ho Chi Minh City is implementing measures to encourage consumers to request invoices when making purchases. A lucky invoice program offers monthly and year-end cash prizes for electronic invoices issued to individual consumers. The program structure and prize values are based on electronic invoice data collected by tax authorities.",
-        "summary_vn": "Cơ quan Thuế TP.HCM đang thực hiện các biện pháp khuyến khích người mua lấy hóa đơn khi mua hàng hóa và dịch vụ. Chương trình hóa đơn may mắn được tổ chức hằng tháng và cuối năm, trao thưởng bằng tiền cho những hóa đơn điện tử có người mua là người tiêu dùng. Phương án tổ chức và giá trị giải thưởng được xây dựng trên cơ sở dữ liệu về hóa đơn điện tử.",
-        "pubDate": "Mon, 17 Aug 26 18:21:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Lazada bị phạt 350 triệu đồng",
-        "url": "https://vnexpress.net/lazada-bi-phat-350-trieu-dong-5110163.html",
-        "source": "VnExpress",
-        "summary_en": "Lazada was fined 350 million dong by the National Competition Commission on July 9 for providing inaccurate information about its services that caused consumer confusion. The commission ordered Recess (Lazada Vietnam) to comply with regulations and rectify the violation. The penalty was issued for administrative violations related to misleading consumer information.",
-        "summary_vn": "Lazada bị Ủy ban Cạnh tranh Quốc gia phạt 350 triệu đồng vào ngày 9/7 vì cung cấp thông tin không chính xác về dịch vụ gây nhầm lẫn cho người tiêu dùng. Ủy ban yêu cầu Recess (Lazada Việt Nam) tuân thủ quy định và khắc phục vi phạm. Hình phạt được đưa ra vì các vi phạm hành chính liên quan đến cung cấp thông tin gây nhầm lẫn cho người tiêu dùng.",
-        "pubDate": "Mon, 17 Aug 2026 20:56:58 +0700",
-        "sentiment": -0.7,
-        "importance": 3
-      },
-      {
-        "title": "Định hướng xử lý các vấn đề về định giá, thu hồi và chuyển mục đích sử dụng đất theo Nghị quyết 21-NQ/TW",
-        "url": "https://vneconomy.vn/dinh-huong-xu-ly-cac-van-de-ve-dinh-gia-thu-hoi-va-chuyen-muc-dich-su-dung-dat-theo-nghi-quyet-21-nqtw.htm",
-        "source": "VnEconomy",
-        "summary_en": "Resolution 21-NQ/TW issued on July 28, 2026, identifies and provides guidance on handling issues related to land valuation, land recovery and compensation, land-use conversion, and methods of land allocation and leasing following the implementation of the 2024 Land Law. The resolution addresses persistent bottlenecks in land administration that remained unresolved after the new law took effect. Proper institutionalization of these guidelines is considered critical to the effective implementation of the amended Land Law.",
-        "summary_vn": "Nghị quyết 21-NQ/TW ngày 28/7/2026 xác định và đưa ra định hướng xử lý các vấn đề liên quan đến định giá đất, thu hồi đất và bồi thường, chuyển mục đích sử dụng đất, và phương thức giao đất, cho thuê đất sau khi Luật Đất đai năm 2024 có hiệu lực. Nghị quyết này giải quyết các điểm nghẽn còn tồn đọng trong quản lý đất đai chưa được xử lý triệt để sau khi luật mới đi vào áp dụng. Thể chế hóa đúng những định hướng này được coi là yếu tố quyết định đối với hiệu quả thực thi của Luật Đất đai (sửa đổi).",
-        "pubDate": "Mon, 17 Aug 2026 08:44:08 GMT",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Hoàn thiện Nghị quyết, tạo cơ chế xử lý phù hợp để khuyến khích đổi mới sáng tạo",
-        "url": "https://vneconomy.vn/hoan-thien-nghi-quyet-tao-co-che-xu-ly-phu-hop-de-khuyen-khich-doi-moi-sang-tao.htm",
-        "source": "VnEconomy",
-        "summary_en": "On August 17, the National Assembly's Standing Committee reviewed and provided input on a draft Resolution regarding special mechanisms and policies to handle legal violations related to state-owned economy, private economy, and science and technology applications, innovation, and digital transformation. The Minister of Public Security affirmed broad consensus among National Assembly delegates on the necessity of enacting the Resolution and its core content.",
-        "summary_vn": "Ngày 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về dự thảo Nghị quyết của Quốc hội về cơ chế, chính sách đặc thù để xử lý vi phạm pháp luật liên quan kinh tế nhà nước, kinh tế tư nhân và ứng dụng khoa học, công nghệ, đổi mới sáng tạo. Bộ trưởng Bộ Công an khẳng định các đại biểu Quốc hội thống nhất cao về sự cần thiết ban hành Nghị quyết này.",
-        "pubDate": "Mon, 17 Aug 2026 08:49:15 GMT",
-        "sentiment": 0.3,
-        "importance": 3
-      },
-      {
-        "title": "Dự thảo Luật Phát triển đô thị được bổ sung nhiều điểm mới",
-        "url": "https://vneconomy.vn/du-thao-luat-phat-trien-do-thi-duoc-bo-sung-nhieu-diem-moi.htm",
-        "source": "VnEconomy",
-        "summary_en": "On August 17, the National Assembly Standing Committee reviewed clarifications and revisions to the draft Urban Development Law. Justice Minister Hoang Thanh Tung reported that the draft law was revised based on National Assembly delegates' input, covering both content and legislative technique. The revised draft law consists of 5 chapters and 65 articles, maintaining the same structure as the previous version submitted to the National Assembly.",
-        "summary_vn": "Sáng 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về việc giải trình, tiếp thu, chỉnh lý dự thảo Luật Phát triển đô thị. Bộ trưởng Bộ Tư pháp Hoàng Thanh Tùng báo cáo rằng dự thảo luật đã được nghiên cứu, tiếp thu, chỉnh lý dựa trên ý kiến của đại biểu Quốc hội. Dự thảo Luật hiện gồm 5 chương, 65 điều, giữ nguyên số chương và số điều so với dự thảo đã trình trước đó.",
-        "pubDate": "Mon, 17 Aug 2026 11:06:14 GMT",
-        "sentiment": 0.0,
-        "importance": 2
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Từ ngày 1/7, một luật ở Việt Nam có hiệu lực, vì sao nhiều người tiêu dùng vẫn khó khi mua hàng online?",
-        "url": "https://cafef.vn/tu-ngay-1-7-mot-luat-o-viet-nam-co-hieu-luc-vi-sao-nhieu-nguoi-tieu-dung-van-kho-khi-mua-hang-online-188260817160541086.chn",
-        "source": "CafeF",
-        "summary_en": "A new law took effect in Vietnam on July 1st, yet many consumers continue to face challenges when purchasing goods online. Consumers in Vietnam report difficulties in selecting shipping providers when buying from e-commerce platforms, despite the introduction of new consumer rights. The excerpt references ongoing issues related to e-commerce regulations and platform operations.",
-        "summary_vn": "Từ ngày 1/7, một luật mới có hiệu lực tại Việt Nam, nhưng nhiều người tiêu dùng vẫn gặp khó khăn khi mua hàng trực tuyến. Người tiêu dùng Việt Nam báo cáo gặp khó trong việc lựa chọn nhà cung cấp dịch vụ vận chuyển khi mua từ các sàn thương mại điện tử, mặc dù có quyền mới được cấp cho người tiêu dùng. Đoạn trích đề cập đến các vấn đề liên tục liên quan đến quy định thương mại điện tử và hoạt động của các nền tảng.",
-        "pubDate": "Mon, 17 Aug 26 16:32:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      }
-    ],
     "consumers": [
       {
         "title": "VNG khởi động giải chạy cộng đồng UpRace 2026",
@@ -200,28 +232,6 @@
         "summary_vn": "Giá ớt tại TP HCM tăng 30-50% so với đầu năm, trong đó ớt hiểm xanh lên 150.000-170.000 đồng một kg do nguồn cung giảm khi vào mùa mưa. Khảo sát tại các chợ lẻ TP HCM cho thấy ớt chỉ thiên, ớt sừng và ớt chuông có giá khoảng 70.000 đồng một kg. Ớt hiểm tăng lên 150.000-170.000 đồng, cao hơn 60% so với đầu năm.",
         "pubDate": "Tue, 18 Aug 2026 00:01:00 +0700",
         "sentiment": -0.6,
-        "importance": 2
-      },
-      {
-        "title": "Thẻ đi xe bu&yacute;t, metro miễn ph&iacute; in kh&ocirc;ng kịp v&igrave; người TP.HCM đăng k&yacute; qu&aacute; đ&ocirc;ng",
-        "url": "https://thanhnien.vn/the-di-xe-buyt-metro-mien-phi-in-khong-kip-vi-nguoi-tphcm-dang-ky-qua-dong-185260815112444102.htm",
-        "source": "ThanhNien",
-        "summary_en": "Ho Chi Minh City's Public Transport Card Management Center announced delays in issuing free bus and metro cards (GTCC) due to higher-than-expected demand. Registration applications have exceeded 16,000 cards and continue to increase daily, straining the card printing capacity. The center has asked passengers to postpone collection until after the September 2-3 holiday period.",
-        "summary_vn": "Trung tâm Quản lý Thẻ Giao Thông Công Cộng TP.HCM thông báo chậm trễ trong phát hành thẻ xe buýt và metro miễn phí (GTCC) do nhu cầu cao hơn dự kiến. Số đơn đăng ký đã vượt quá 16.000 thẻ và tiếp tục tăng hàng ngày, gây áp lực lên công suất in thẻ. Trung tâm đã yêu cầu hành khách trì hoãn nhận thẻ đến sau kỳ nghỉ lễ Quốc khánh (2-3 tháng 9).",
-        "pubDate": "Sat, 15 Aug 26 12:02:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      }
-    ],
-    "payments": [
-      {
-        "title": "Hơn 25 tỷ U-Point của Techcombank được quy đổi mỗi tháng",
-        "url": "https://vnexpress.net/hon-25-ty-u-point-cua-techcombank-duoc-quy-doi-moi-thang-5109358.html",
-        "source": "VnExpress",
-        "summary_en": "Techcombank customers are converting over 25 billion U-Points monthly through the \"Optimize Benefits with U-Points\" feature on Techcombank Auto-Generate Profit. The bank's loyalty program allows users to exchange 1 đồng of profit into either cash or 2 U-Points. These reward points can be redeemed for shopping, dining, travel, entertainment, sports, and health services.",
-        "summary_vn": "Trung bình hơn 25 tỷ U-Point của Techcombank được khách hàng quy đổi mỗi tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\" trên Techcombank Sinh lời tự động. Chương trình khách hàng thân thiết OneU cho phép người dùng quy đổi 1 đồng lợi nhuận thành tiền hoặc 2 điểm U-Point. Điểm thưởng này có thể dùng để thanh toán và đổi ưu đãi tại các danh mục mua sắm, ẩm thực, di chuyển, du lịch, giải trí, thể thao và chăm sóc sức khỏe.",
-        "pubDate": "Sat, 15 Aug 2026 09:00:00 +0700",
-        "sentiment": 0.3,
         "importance": 2
       }
     ]

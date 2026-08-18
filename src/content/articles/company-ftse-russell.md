@@ -1,17 +1,23 @@
 ---
 title: "FTSE Russell — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FTSE Russell, with neutral summaries and source links."
-publishedDate: "2026-08-17"
-lastUpdated: "2026-08-17"
+publishedDate: "2026-08-18"
+lastUpdated: "2026-08-18"
 category: "Company"
 readingTime: 3
 ---
 
 # FTSE Russell
 
-Recent Vietnam market news mentioning **FTSE Russell** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **FTSE Russell** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Có nên gom cổ phiếu trước kỳ rà soát FTSE?**  
+
+Vietnam's securities market is expected to be upgraded from frontier market to secondary emerging market status in the FTSE Russell index. FTSE Russell will announce the official portfolio for the semi-annual review on August 21, with changes taking effect on September 21. The implementation of foreign capital flows based on FTSE indices follows a phased process.
+
+- Source: [VnExpress](https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html)
 
 **VN-Index có thể lùi về 1.700 điểm trước kỳ rà soát bán niên của FTSE**  
 
@@ -34,9 +40,9 @@ An expert discusses three industry groups expected to attract capital inflows du
 ## Related coverage
 
 - [VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE](https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html) — VnExpress
+- [Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm) — TuoiTre
 - [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
-- [Thanh khoản giảm thấp nhất một tháng qua, chứng khoán đi về đâu tuần tới?](https://cafef.vn/thanh-khoan-giam-thap-nhat-mot-thang-qua-chung-khoan-di-ve-dau-tuan-toi-188260719101452543.chn) — CafeF
-- [Thêm một phiên giao dịch buồn của nhà đầu tư, VN-Index giảm tiếp 36 điểm](https://tuoitre.vn/them-mot-phien-giao-dich-buon-cua-nha-dau-tu-vn-index-giam-tiep-36-diem-100260814153110237.htm) — TuoiTre
+- [Chuyên gia dự báo thời điểm Việt Nam có thể vào "watch list" MSCI, chỉ ra bài học từ Thái Lan và Indonesia](https://cafef.vn/chuyen-gia-du-bao-thoi-diem-viet-nam-co-the-vao-watch-list-msci-chi-ra-bai-hoc-tu-thai-lan-va-indonesia-188260621214934962.chn) — CafeF
 
 ---
 

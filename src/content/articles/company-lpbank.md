@@ -1,17 +1,23 @@
 ---
 title: "LPBank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning LPBank, with neutral summaries and source links."
-publishedDate: "2026-08-17"
-lastUpdated: "2026-08-17"
+publishedDate: "2026-08-18"
+lastUpdated: "2026-08-18"
 category: "Company"
 readingTime: 3
 ---
 
 # LPBank
 
-Recent Vietnam market news mentioning **LPBank** (34 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **LPBank** (35 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**LPBank cảnh b&aacute;o m&ocirc;i giới t&iacute;n dụng kh&ocirc;ng minh bạch**  
+
+LPBank outlined its official three-step lending process: customers contact the bank through branches, call centers, website or mobile app to register loan needs; bank staff advises on loan conditions, documentation, interest rates, fees and repayment methods; the bank then appraises documents, approves, signs credit contracts and disburses funds. The bank warned that no third-party intermediaries are permitted to commit to or guarantee loan approvals. LPBank cautioned against non-transparent credit brokers.
+
+- Source: [ThanhNien](https://thanhnien.vn/lpbank-canh-bao-moi-gioi-tin-dung-khong-minh-bach-185260818164404756.htm)
 
 **LPBank lập cú đúp thăng hạng, khẳng định vị thế ngân hàng tư nhân hàng đầu**  
 
@@ -79,18 +85,12 @@ A survey of online deposit rates at 34 banks on August 4 shows that the interest
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn)
 
-**Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates at 34 banks on August 3 showed that LPBank unexpectedly raised rates across multiple terms, while ACB maintained the market leadership position with a rate of 7.8% per annum. The survey covers major banks including Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, and HDBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn)
-
 ## Related coverage
 
+- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 - [Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn) — CafeF
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
-- [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
 
 ---
 

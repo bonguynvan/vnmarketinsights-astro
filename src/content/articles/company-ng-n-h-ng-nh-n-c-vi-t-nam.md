@@ -1,8 +1,8 @@
 ---
 title: "Ngân hàng Nhà nước Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Ngân hàng Nhà nước Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-17"
-lastUpdated: "2026-08-17"
+publishedDate: "2026-08-18"
+lastUpdated: "2026-08-18"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **Ngân hàng Nhà nước Việt Nam** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại**  
+
+Banks increased deposit interest rates for 6-12 month terms to an average of 7.8% per annum, while lending rates held steady at 10.5%, breaking a streak of increases that began in late last year. According to State Bank of Vietnam data released today, average deposit rates in July rose across all terms except under one month, with overall funding rates up approximately 1.5 percentage points since the beginning of the year. For shorter 6-12 month terms, the highest deposit rate reached 7.8% per annum.
+
+- Source: [VnExpress](https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html)
 
 **Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng**  
 
@@ -79,18 +85,12 @@ Vietnamese National Assembly representatives discussed amendments to the State B
 
 - Source: [CafeF](https://cafef.vn/ngan-chan-viec-su-dung-quan-he-tin-dung-tao-suc-ep-len-khach-hang-188260810071719585.chn)
 
-**Thống đốc NHNN Phạm Đức Ấn: Áp dụng các tỷ lệ an toàn khác phục vụ phát triển kinh tế - xã hội không đồng nghĩa với việc hạ chuẩn an toàn hay nới lỏng rủi ro**  
-
-The Governor of the State Bank of Vietnam, Phạm Đức Ấn, clarified that applying different safety ratios to support socio-economic development does not equate to lowering safety standards or loosening risk management. The Governor made this statement during a parliamentary discussion on draft amendments to the Law on the State Bank of Vietnam, the Law on Anti-Money Laundering, and the Law on Credit Institutions. The remarks addressed concerns raised by deputies regarding the proposed legislative changes.
-
-- Source: [CafeF](https://cafef.vn/thong-doc-nhnn-pham-duc-an-ap-dung-cac-ty-le-an-toan-khac-phuc-vu-phat-trien-kinh-te-xa-hoi-khong-dong-nghia-voi-viec-ha-chuan-an-toan-hay-noi-long-rui-ro-188260810071334948.chn)
-
 ## Related coverage
 
-- [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
 - [Sửa Luật Ngân hàng Nhà nước Việt Nam: Phát huy vai trò Ngân hàng Trung ương trong kỷ nguyên mới](https://cafef.vn/sua-luat-ngan-hang-nha-nuoc-viet-nam-phat-huy-vai-tro-ngan-hang-trung-uong-trong-ky-nguyen-moi-188260725074711286.chn) — CafeF
-- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
+- [Phó Thủ tướng Thường trực Phạm Gia Túc: Sửa đổi 3 luật trong lĩnh vực ngân hàng nhằm hoàn thiện thể chế, khắc phục khoảng trống pháp lý](https://cafef.vn/pho-thu-tuong-thuong-truc-pham-gia-tuc-sua-doi-3-luat-trong-linh-vuc-ngan-hang-nham-hoan-thien-the-che-khac-phuc-khoang-trong-phap-ly-188260807064529178.chn) — CafeF
 - [Phó Thống đốc NHNN: Yêu cầu các ngân hàng công bố gói tín dụng ưu đãi cho SMEs và lĩnh vực ưu tiên ngay tháng 8/2026](https://cafef.vn/pho-thong-doc-nhnn-yeu-cau-cac-ngan-hang-cong-bo-goi-tin-dung-uu-dai-cho-smes-va-linh-vuc-uu-tien-ngay-thang-8-2026-188260810154243172.chn) — CafeF
+- [Chỉ đạo mới của Thống đốc NHNN Phạm Đức Ấn với hệ thống ngân hàng](https://cafef.vn/chi-dao-moi-cua-thong-doc-nhnn-pham-duc-an-voi-he-thong-ngan-hang-188260703183955818.chn) — CafeF
 
 ---
 

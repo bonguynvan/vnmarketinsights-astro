@@ -1,8 +1,8 @@
 ---
 title: "MSCI — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSCI, with neutral summaries and source links."
-publishedDate: "2026-08-17"
-lastUpdated: "2026-08-17"
+publishedDate: "2026-08-18"
+lastUpdated: "2026-08-18"
 category: "Company"
 readingTime: 3
 ---
@@ -40,9 +40,9 @@ An expert discusses three industry groups expected to attract capital inflows du
 ## Related coverage
 
 - [Thanh khoản chứng khoán giảm 5.000 tỷ đồng](https://vnexpress.net/thanh-khoan-chung-khoan-giam-5-000-ty-dong-5110082.html) — VnExpress
+- [Có nên gom cổ phiếu trước kỳ rà soát FTSE?](https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html) — VnExpress
 - [Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm) — TuoiTre
 - [VN-Index có thể lùi về 1.700 điểm trước kỳ rà soát bán niên của FTSE](https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-ky-ra-soat-ban-nien-cua-ftse-5109688.html) — VnExpress
-- [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
 
 ---
 

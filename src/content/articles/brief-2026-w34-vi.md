@@ -1,19 +1,19 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 34/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 34 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-17"
-lastUpdated: "2026-08-17"
+publishedDate: "2026-08-18"
+lastUpdated: "2026-08-18"
 category: "Market Brief"
-readingTime: 15
+readingTime: 16
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 34/2026
 
 ## Tổng quan
 
-# Tổng quan tin tức thị trường tuần này
+# Tổng quan thị trường Việt Nam tuần này
 
-Thị trường Việt Nam tuần này ghi nhận nhiều diễn biến: lĩnh vực ngân hàng phải đối mặt với sự cố an ninh mạng lớn khi gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin với thiệt hại ước tính 1,9 tỷ USD, trong khi Highlands Coffee đạt EBITDA kỷ lục hơn 440 tỷ đồng trong quý II với mức tăng trưởng 70% so với cùng kỳ năm trước. Bên cạnh đó, thị trường bất động sản chứng kiến sự điều chỉnh giá mạnh tại các tỉnh lân cận TP.HCM và chính TP.HCM, cùng với các chỉ đạo của Thủ tướng về tiếp tục tiết giảm chi phí và ổn định mặt bằng lãi suất cho các tổ chức tín dụng.
+Thị trường Việt Nam tuần này chứng kiến những diễn biến đáng chú ý trên nhiều lĩnh vực: Thị trường chứng khoán được dự kiến nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp trong chỉ số FTSE Russell (hiệu lực từ 21/9), trong khi Highlands Coffee báo cáo EBITDA kỷ lục hơn 1 tỷ peso trong quý II. Trên lĩnh vực pháp lý, các cơ quan chức năng xử lý những vấn đề an ninh thông tin (gần 3,9 triệu thẻ tín dụng bị đánh cắp), nợ thuế tại các doanh nghiệp lớn và nhũng nhiễu trong quá trình thu thuế, đồng thời phát hiện vi phạm trong tuân thủ thuế của hoạt động kinh doanh online.
 
 ## Logistics
 
@@ -33,12 +33,58 @@ Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin, với hơn 2,5
 - Số liệu chính: Credit cards with stolen information: 3.9 million; Malicious SMS messages distributed: 2.5 million messages; Estimated damages: 1.9 billion USD; Time period: May and June
 - Nguồn: [CafeF](https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn)
 
+**Mỹ sắp áp thuế 50% với hàng loạt sản phẩm Canada**  
+
+Từ ngày 19/8, Mỹ sẽ áp thuế nhập khẩu 50% với hàng loạt sản phẩm Canada, bao gồm rượu vang, đồ gỗ nội thất, xi măng, quần áo và cần câu. Tổng thống Mỹ đã phê duyệt các biện pháp thuế này theo Điều 338 của Đạo luật Thuế năm 1930, cho phép áp thuế tối đa 50% với hàng nhập khẩu từ quốc gia có hành vi phân biệt đối xử với hàng hóa Mỹ. Theo Cục Thống kê Dân số Mỹ, các thuế mới sẽ áp dụng với gần 20 tỷ USD hàng hóa Canada.
+
+- Số liệu chính: Tariff rate on Canadian goods: 50% %; Effective date: August 19; Value of affected Canadian goods: 20 billion USD
+- Nguồn: [VnExpress](https://vnexpress.net/my-sap-ap-thue-50-voi-hang-loat-san-pham-canada-5110419.html)
+
+**&Ocirc;ng L&ecirc; Viết Hải - Chủ tịch HĐQT HBC c&oacute; thể sẽ bị tạm ho&atilde;n xuất cảnh**  
+
+Công ty cổ phần Tập đoàn Xây dựng Hòa Bình (HBC) có nợ thuế tồn tại 41,59 tỉ đồng, trong đó số nợ quá hạn trên 90 ngày lên tới 39,26 tỉ đồng. Các khoản nợ bao gồm thuế thu nhập từ tiền lương (13,57 tỉ đồng), thuế thu nhập doanh nghiệp từ chuyển nhượng bất động sản (63,8 triệu đồng), thuế giá trị gia tăng (18,13 tỉ đồng), thuế thu nhập từ đầu tư vốn (70,5 triệu đồng), và tiền chậm nộp (3,92 tỉ đồng). Chủ tịch HĐQT Ông Lê Viết Hải có thể sẽ bị tạm hoãn xuất cảnh do công nợ thuế lớn này.
+
+- Số liệu chính: Total tax arrears: 41.59 billion dong billion VND; Overdue tax (over 90 days): 39.26 billion dong billion VND; Personal income tax from salaries: 13.57 billion dong billion VND; Value-added tax: 18.13 billion dong billion VND
+- Nguồn: [ThanhNien](https://thanhnien.vn/ong-le-viet-hai-chu-tich-hdqt-hbc-co-the-se-bi-tam-hoan-xuat-canh-185260818171937333.htm)
+
+**C&oacute; hiện tượng c&aacute;n bộ thuế nhũng nhiễu, v&ograve;i vĩnh trong qu&aacute; tr&igrave;nh l&agrave;m sạch m&atilde; số thuế**  
+
+Cục Thuế phát hành công văn hỏa tốc gửi các cơ quan thuế địa phương về tình trạng nhũng nhiễu trong quá trình làm sạch mã số thuế. Công văn nêu rõ một bộ phận cán bộ thuế tại một số địa phương có biểu hiện nhũng nhiễu, cố tình kéo dài thời gian xử lý và vòi vĩnh, gây khó khăn cho người nộp thuế. Thông tin này được phản ánh qua dư luận xã hội và khiếu nại trực tiếp từ người dân.
+
+- Nguồn: [ThanhNien](https://thanhnien.vn/co-hien-tuong-can-bo-thue-nhung-nhieu-voi-vinh-trong-qua-trinh-lam-sach-ma-so-thue-185260818180926912.htm)
+
+**20 doanh nghiệp Việt bị điều tra chống bán phá giá thép không gỉ cán nguội**  
+
+Cơ quan quản lý Tài chính Đài Loan khởi xướng điều tra chống bán phá giá đối với thép không gỉ cán nguội dạng phẳng nhập khẩu từ Việt Nam vào ngày 18 tháng 8. Điều tra được tiến hành dựa trên đơn yêu cầu của Công ty cổ phần Thép Yieh United và Công ty cổ phần Nhà máy cơ khí Tang Eng. Theo Cục Phòng vệ thương mại (Bộ Công Thương Việt Nam), khoảng 20 doanh nghiệp Việt Nam bị đưa vào điều tra này.
+
+- Số liệu chính: Number of Vietnamese enterprises under investigation: 20; Investigation date: August 18
+- Nguồn: [CafeF](https://cafef.vn/20-doanh-nghiep-viet-bi-dieu-tra-chong-ban-pha-gia-thep-khong-gi-can-nguoi-188260818220950174.chn)
+
+**Rủi ro ph&aacute;p l&yacute; khi kinh doanh tr&ecirc;n mạng**  
+
+Vụ việc Bùi Xuân Huấn (Huấn Hoa Hồng) và những người liên quan đã thu hút sự chú ý đến vấn đề tuân thủ thuế trong kinh doanh online. Theo kết quả điều tra bước đầu, nhóm này tổ chức hoạt động mua bán nước hoa với tổng doanh thu hơn 300 tỉ đồng nhưng không xuất đầy đủ hóa đơn giá trị gia tăng, để một phần doanh thu ngoài sổ sách kế toán gây thiệt hại nhiều tỉ đồng cho ngân sách nhà nước. Khảo sát cho thấy dù giao dịch trên các nền tảng online ngày càng tăng, nhiều doanh nghiệp vẫn không tuân thủ yêu cầu xuất hóa đơn.
+
+- Số liệu chính: Total revenue from perfume sales: 300 billion dong VND; Revenue threshold for mandatory e-invoicing: 1 billion VND
+- Nguồn: [ThanhNien](https://thanhnien.vn/rui-ro-phap-ly-khi-kinh-doanh-tren-mang-185260818202210556.htm)
+
 **Quản lý bay thông tin vụ thả diều khiến 21 chuyến bay bị ảnh hưởng ở Tân Sơn Nhất**  
 
 Một vụ thả diều gây gián đoạn hoạt động bay tại sân bay Tân Sơn Nhất. Trung tâm kiểm soát không thể xác định chính xác vị trí và độ cao của vật thể, nên phối hợp với các đơn vị liên quan để xác minh. Cảng vụ hàng không miền Nam yêu cầu tạm dừng cất hạ cánh tại Tân Sơn Nhất như một biện pháp an toàn, ảnh hưởng đến các chuyến bay đến.
 
 - Số liệu chính: Số chuyến bay bị ảnh hưởng: 21 chuyến
 - Nguồn: [TuoiTre](https://tuoitre.vn/quan-ly-bay-thong-tin-vu-tha-dieu-khien-21-chuyen-bay-bi-anh-huong-o-tan-son-nhat-100260814153503922.htm)
+
+**Khẩn trương rà soát toàn diện Luật Đất đai 2024 và văn bản liên quan**  
+
+Chính phủ vừa ban hành Nghị quyết số 229/NQ-CP thực hiện Nghị quyết số 21-NQ/TW của Ban Chấp hành Trung ương Đảng về hướng sửa đổi Luật Đất đai 2024 và các luật liên quan. Kế hoạch nhằm đảm bảo việc xây dựng, sửa đổi Luật Đất đai được thực hiện đồng bộ, thống nhất và kế thừa các quy định còn phù hợp. Sáng kiến này thể hiện nỗ lực rà soát toàn diện để cập nhật khung pháp lý về đất đai.
+
+- Nguồn: [VnEconomy](https://vneconomy.vn/khan-truong-ra-soat-toan-dien-luat-dat-dai-2024-va-van-ban-lien-quan.htm)
+
+**Nhà nước điều tiết, kiểm soát và quyết định giá đất theo Nghị quyết 21-NQ/TW**  
+
+Nghị quyết số 21-NQ/TW ngày 28/7/2026 từ Hội nghị lần thứ ba Ban Chấp hành Trung ương Đảng khóa XIV quy định về vai trò của Nhà nước trong định giá đất, tài chính đất đai và điều tiết địa tô chênh lệch. Giá đất đóng vị trí trung tâm trong quản lý đất đai và vận hành thị trường bất động sản, ảnh hưởng trực tiếp đến chi phí sản xuất, mức bồi thường thu hồi đất, nguồn thu ngân sách và ổn định thị trường. Hiểu đúng tư duy về vai trò của Nhà nước là cần thiết để thực hiện chính sách hiệu quả.
+
+- Nguồn: [VnEconomy](https://vneconomy.vn/nha-nuoc-dieu-tiet-kiem-soat-va-quyet-dinh-gia-dat-theo-nghi-quyet-21-nqtw.htm)
 
 **Định hướng xử lý các vấn đề về định giá, thu hồi và chuyển mục đích sử dụng đất theo Nghị quyết 21-NQ/TW**  
 
@@ -52,14 +98,14 @@ Ngày 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về dự thảo 
 
 - Nguồn: [VnEconomy](https://vneconomy.vn/hoan-thien-nghi-quyet-tao-co-che-xu-ly-phu-hop-de-khuyen-khich-doi-moi-sang-tao.htm)
 
-**Chồng tử vong sau 2 năm mua bảo hiểm, vợ nhận 2,1 tỷ sau khi bị từ chối chi trả**  
-
-Một phụ nữ nhận được khoản chi trả bảo hiểm 2,1 tỷ đồng sau khi ban đầu bị từ chối từ công ty bảo hiểm nhân thọ khi chồng qua đời. Hợp đồng bảo hiểm được phát hành ngày 19/3/2021, với quyền lợi cơ bản là 1,1 tỷ đồng và các quyền lợi bổ trợ tổng cộng 1,5 tỷ đồng cho trường hợp tử vong do tai nạn hoặc bệnh hiểm nghèo. Vụ việc liên quan đến tranh chấp trước khi công ty bảo hiểm chấp thuận chi trả.
-
-- Số liệu chính: Total insurance payout: 2.1 billion dong VND; Basic benefit: 1.1 billion dong VND; Accidental death/disability supplementary benefit: 1 billion dong VND; Critical illness supplementary benefit: 500 million dong VND
-- Nguồn: [VietnamNet](https://vietnamnet.vn/chong-tu-vong-sau-2-nam-mua-bao-hiem-vo-nhan-2-1-ty-sau-khi-bi-tu-choi-chi-tra-2545216.html)
-
 ## Chứng khoán
+
+**Có nên gom cổ phiếu trước kỳ rà soát FTSE?**  
+
+Thị trường chứng khoán Việt Nam dự kiến được nâng từ thị trường cận biên lên thị trường mới nổi thứ cấp trong chỉ số FTSE Russell. FTSE Russell sẽ công bố danh mục chính thức cho kỳ rà soát bán niên vào ngày 21/8, hiệu lực từ ngày 21/9. Giải ngân của các dòng vốn ngoại theo chỉ số FTSE được thực hiện theo nhiều giai đoạn.
+
+- Số liệu chính: Ngày công bố danh mục chính thức: 21/8; Ngày hiệu lực thay đổi: 21/9
+- Nguồn: [VnExpress](https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html)
 
 **'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục**  
 
@@ -81,13 +127,6 @@ Giá đất nền và căn hộ tại nhiều khu vực ở Việt Nam đã gi�
 
 - Số liệu chính: Price decline in Long An province: 20-25% %; Price decline in Dong Nai and Binh Duong: 7-10% %; Price decline in Tan Phu, Dong Nai: 49% %; Price decline in Ben Luc, Tay Ninh: 25% %
 - Nguồn: [ThanhNien](https://thanhnien.vn/dat-nen-can-ho-ru-nhau-giam-gia-1852608162040405.htm)
-
-**Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX**  
-
-Alphabet, công ty mẹ của Google, báo cáo rằng cổ phần SpaceX của họ được định giá 94 tỷ USD vào cuối tháng Sáu. Công ty đã đầu tư 900 triệu USD vào SpaceX năm 2015. Khoản đầu tư này đã tăng giá gấp khoảng 100 lần trong hơn 10 năm.
-
-- Số liệu chính: SpaceX shareholding value (as of end-June): 94 billion USD; Original investment amount (2015): 900 million USD; Investment appreciation factor: 100 times; Investment period: over 10 years
-- Nguồn: [VnExpress](https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html)
 
 **Thêm một phiên giao dịch buồn của nhà đầu tư, VN-Index giảm tiếp 36 điểm**  
 
@@ -112,12 +151,6 @@ TP. HCM vừa phê duyệt dự án nâng cấp, mở rộng Quốc lộ 1 (đo�
 - Số liệu chính: Investment amount for Highway 1 upgrade project: 6,670 billion Vietnamese dong VND; Current road width: 20-25 meters; Planned road width expansion: 60 meters; Number of lanes (planned): 10-12 lanes
 - Nguồn: [ThanhNien](https://thanhnien.vn/95-ti-usd-thay-doi-dien-mao-do-thi-tphcm-185260817213331495.htm)
 
-**Nước sông Rhine cạn gây thêm trở ngại cho kinh tế Đức**  
-
-Mực nước thấp kỷ lục trên sông Rhine đang gây cản trở vận tải và chuỗi cung ứng trên các trung tâm công nghiệp Đức. Tình trạng hạn hán này có khả năng cản trở phục hồi kinh tế của Đức. Thông thường, mực nước thấp trên sông Rhine xảy ra từ tháng 9 đến tháng 11 hàng năm, với Kaub là một trong những đoạn nông nhất.
-
-- Nguồn: [VnExpress](https://vnexpress.net/nuoc-song-rhine-can-gay-them-tro-ngai-cho-kinh-te-duc-5109556.html)
-
 **Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng**  
 
 Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giảm chi phí, ổn định mặt bằng lãi suất, và giảm thực chất lãi suất cho vay. Thủ tướng cũng chỉ đạo quản lý chặt chẽ thị trường vàng. Bài viết liên quan đến các phát triển chính sách về giảm lãi suất và kiểm soát thị trường vàng.
@@ -129,13 +162,6 @@ Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giả
 Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt lãi suất, tỷ giá, tín dụng và thị trường vàng trong những tháng cuối năm 2026. Bối cảnh dư địa nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng còn hạn chế. Ngân hàng Nhà nước thúc đẩy cho vay hợp vốn dự án lớn để đáp ứng nhu cầu vốn hàng triệu tỷ đồng.
 
 - Nguồn: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn)
-
-**Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay**  
-
-Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.
-
-- Số liệu chính: Interest rate reduction range: 1-2.5 %/năm; Date of PM meeting with banking sector: 13/8 date
-- Nguồn: [CafeF](https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn)
 
 **Ngân hàng khát vốn, nhưng có nhà băng hút tiền cực mạnh, dư tới 240.000 tỷ đồng**  
 
@@ -151,39 +177,11 @@ Dự trữ vàng của Nga đã giảm xuống mức thấp nhất trong 6 năm,
 - Số liệu chính: Gold reserves at start of year: 74.8 million ounces; Gold reserves early July 2026: 73.4 million ounces; Total decline in 6 months: 43.5 tonnes; Steepest monthly decline (May): 500,000 ounces
 - Nguồn: [VietnamNet](https://vietnamnet.vn/nga-ban-ra-manh-du-tru-vang-thap-nhat-6-nam-chuyen-gi-dang-xay-ra-2545171.html)
 
-**Gi&aacute; v&agrave;ng thế giới giảm mạnh khi sản xuất Mỹ tăng vượt dự b&aacute;o**  
-
-Giá vàng thế giới giảm mạnh sau khi Cục Dự trữ liên bang New York công bố chỉ số sản xuất Empire State tháng 8 tăng lên 20,6 điểm, từ mức 15,6 điểm của tháng 7. Đây là mức cao nhất trong hơn bốn năm và cao hơn đáng kể so với dự báo đồng thuận 10,2 điểm. Báo cáo cho thấy số đơn đặt hàng mới và lượng hàng xuất xưởng tiếp tục tăng mạnh ở mức 17,3 điểm, trong khi chỉ số vận chuyển ở mức 11,7 điểm.
-
-- Số liệu chính: Empire State manufacturing index - August: 20.6 points; Empire State manufacturing index - July: 15.6 points; Consensus forecast for August: 10.2 points; New orders and shipments index: 17.3 points
-- Nguồn: [ThanhNien](https://thanhnien.vn/gia-vang-the-gioi-giam-manh-khi-san-xuat-my-tang-vuot-du-bao-185260817202034828.htm)
-
 **Chuyến thăm Australia và New Zealand của Tổng Bí thư, Chủ tịch nước Tô Lâm: Từ củng cố quan hệ đến chủ động kiến tạo không gian phát triển**  
 
 Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm diễn ra theo lời mời của Toàn quyền Australia Sam Mostyn và Toàn quyền New Zealand Dame Cindy Kiro. Đây là chuyến thăm cấp Nhà nước đầu tiên của Tô Lâm tới hai quốc gia châu Đại Dương trên cương vị người đứng đầu Đảng và Nhà nước. Chuyến thăm diễn ra vào thời điểm quan trọng khi quan hệ Việt Nam - Australia và Việt Nam - New Zealand đã được nâng lên Đối tác Chiến lược Toàn diện.
 
 - Nguồn: [VnEconomy](https://vneconomy.vn/chuyen-tham-australia-va-new-zealand-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tu-cung-co-quan-he-den-chu-dong-kien-tao-khong-gian-phat-trien.htm)
-
-**Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác giáo dục, nông nghiệp và ứng phó biến đổi khí hậu**  
-
-Sáng 13/8, Tổng Bí thư, Chủ tịch nước Tô Lâm hội kiến Toàn quyền New Zealand Dame Cindy Kiro tại thành phố Auckland sau Lễ đón trọng thể tại Phủ Toàn quyền. Đây là lần đầu tiên Tổng Bí thư, Chủ tịch nước Việt Nam thăm New Zealand trên cả hai cương vị. Tổng Bí thư, Chủ tịch nước Tô Lâm đề nghị New Zealand tăng hợp tác trong giáo dục, nông nghiệp và ứng phó biến đổi khí hậu.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/tong-bi-thu-chu-tich-nuoc-to-lam-de-nghi-new-zealand-tang-hop-tac-giao-duc-nong-nghiep-va-ung-pho-bien-doi-khi-hau.htm)
-
-**Việt Nam - New Zealand thúc đẩy hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không**  
-
-Tổng Bí thư, Chủ tịch nước Tô Lâm hội đàm với Thủ tướng New Zealand Christopher Luxon tại Auckland ngày 13/8. Cuộc gặp được xem là mốc quan trọng trong quan hệ hai nước kéo dài hơn nửa thế kỷ. Các cuộc thảo luận tập trung vào hợp tác công nghệ, nông nghiệp xanh và kết nối hàng không giữa hai quốc gia.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/viet-nam-new-zealand-thuc-day-hop-tac-cong-nghe-nong-nghiep-xanh-va-ket-noi-hang-khong.htm)
-
-## Khác
-
-**Những c&aacute;i &#039;bắt tay&#039; chấn động thị trường của doanh nghiệp Việt**  
-
-VinSpace, thành viên của hệ sinh thái Vingroup thuộc sở hữu của tỉ phú Phạm Nhật Vượng, công bố ngày 11 tháng 8 rằng công ty vừa ký kết hợp đồng phóng vệ tinh với SpaceX của tỉ phú Elon Musk. Theo thỏa thuận, các vệ tinh của VinSpace sẽ được đưa lên quỹ đạo thông qua dịch vụ của SpaceX. Sự hợp tác nhằm hỗ trợ mở rộng công nghệ Việt ra toàn cầu và phát triển khả năng vệ tinh trong nước.
-
-- Số liệu chính: Contract announcement date: August 11
-- Nguồn: [ThanhNien](https://thanhnien.vn/nhung-cai-bat-tay-chan-dong-thi-truong-cua-doanh-nghiep-viet-185260815213500221.htm)
 
 ---
 
