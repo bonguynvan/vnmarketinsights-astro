@@ -1,0 +1,349 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import { CATEGORIES, VAT_PCT, TXN_PCT, WITHHOLDING_PCT } from '../../data/entry-decision';
+
+const title = "Vietnam Market Entry Decision Engine — Should You Sell into Vietnam?";
+const description = "Free interactive tool: enter your category, cost, price, and origin and get a personalised Vietnam entry read — go/no-go verdict, landed cost, net payout, contribution margin, compliance path, and cross-border vs local entity.";
+const canonical = "https://vnmarketinsights.com/tools/vietnam-entry-decision/";
+const updated = "2026-08-18";
+
+// Minimal category table for the client script.
+const CATS = CATEGORIES.map((c) => ({
+  key: c.key, label: c.label, verdict: c.verdict, verdictLabel: c.verdictLabel,
+  note: c.note, dutyMfn: c.dutyMfn, dutyFta: c.dutyFta, commission: c.commission,
+  bestChannel: c.bestChannel, compliance: c.compliance, complianceMonths: c.complianceMonths,
+  complianceLink: c.complianceLink, hubLink: c.hubLink,
+}));
+
+// Server-rendered worked example (Beauty, US$10 FOB → US$30 retail, MFN duty).
+const d = { cat: 'beauty', cur: 'USD', fob: 10, retail: 30, basis: 'mfn', vat: VAT_PCT, ads: 10, monthly: 20000, threshold: 50000 };
+const c0 = CATEGORIES.find((c) => c.key === d.cat)!;
+const duty0 = d.basis === 'fta' ? c0.dutyFta : c0.dutyMfn;
+const dutyAmt0 = d.fob * duty0 / 100;
+const vatAmt0 = (d.fob + dutyAmt0) * d.vat / 100;
+const landed0 = d.fob + dutyAmt0 + vatAmt0;
+const take0 = c0.commission + TXN_PCT + WITHHOLDING_PCT + d.ads;
+const net0 = d.retail * (1 - take0 / 100);
+const profit0 = net0 - landed0;
+const margin0 = (profit0 / d.retail) * 100;
+const marginClass0 = margin0 >= 25 ? 'good' : margin0 >= 10 ? 'mid' : margin0 >= 0 ? 'tight' : 'hard';
+const f2 = (n: number) => n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+const f1 = (n: number) => n.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+
+const appSchema = {
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Vietnam Market Entry Decision Engine",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "url": canonical,
+  "description": description,
+  "isAccessibleForFree": true,
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "creator": { "@type": "Organization", "name": "VN Market Insights", "url": "https://vnmarketinsights.com/" },
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonicalURL={canonical}
+  pageType="Article"
+  articleSection="Tools"
+  publishedDate={updated}
+  lastUpdated={updated}
+  structuredData={appSchema}
+  mainClass="container"
+>
+  <article class="lc-page">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span aria-hidden="true">/</span>
+      <a href="/tools/">Tools</a>
+      <span aria-hidden="true">/</span>
+      <span>Entry Decision Engine</span>
+    </nav>
+
+    <header class="lc-header">
+      <h1>Vietnam Market Entry Decision Engine</h1>
+      <p class="lc-lead">
+        Enter your product's numbers and get a personalised read on selling into Vietnam: a
+        <strong>go/no-go verdict</strong>, your <strong>landed cost</strong> and
+        <strong>net payout</strong>, the resulting <strong>contribution margin</strong>, the compliance
+        path, and whether to go cross-border or set up locally. Estimates — override any rate to match
+        your product.
+      </p>
+    </header>
+
+    <section class="lc-tool" aria-label="Entry decision engine">
+      <form class="lc-form" id="de-form" novalidate>
+        <div class="lc-field">
+          <label for="de-cat">Category</label>
+          <select id="de-cat">
+            {CATEGORIES.map((c) => <option value={c.key} selected={c.key === d.cat}>{c.label}</option>)}
+          </select>
+        </div>
+        <div class="lc-field">
+          <label for="de-cur">Currency label</label>
+          <input type="text" id="de-cur" value={d.cur} maxlength="5" autocomplete="off" />
+        </div>
+        <div class="lc-field">
+          <label for="de-fob">Unit cost / FOB (per item)</label>
+          <input type="number" id="de-fob" value={d.fob} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-retail">Target retail price (per item)</label>
+          <input type="number" id="de-retail" value={d.retail} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-basis">Duty basis</label>
+          <select id="de-basis">
+            <option value="mfn" selected={d.basis === 'mfn'}>Standard (MFN)</option>
+            <option value="fta" selected={d.basis === 'fta'}>FTA preferential (RCEP / EVFTA / CPTPP + Cert. of Origin)</option>
+          </select>
+        </div>
+        <div class="lc-field">
+          <label for="de-duty">Import duty (%)</label>
+          <input type="number" id="de-duty" value={duty0} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-vat">Import VAT (%)</label>
+          <input type="number" id="de-vat" value={d.vat} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-comm">Platform commission (%)</label>
+          <input type="number" id="de-comm" value={c0.commission} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-ads">Ads / affiliate (% of order)</label>
+          <input type="number" id="de-ads" value={d.ads} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-monthly">Expected monthly revenue</label>
+          <input type="number" id="de-monthly" value={d.monthly} min="0" step="any" inputmode="decimal" />
+        </div>
+        <div class="lc-field">
+          <label for="de-threshold">Local-entity threshold (monthly revenue)</label>
+          <input type="number" id="de-threshold" value={d.threshold} min="0" step="any" inputmode="decimal" />
+        </div>
+        <p class="lc-disclaimer">Fixed in the model: {TXN_PCT}% platform transaction fee + {WITHHOLDING_PCT}% Decree 117 per-order withholding (resident seller).</p>
+      </form>
+
+      <div class="lc-results" aria-live="polite">
+        <div class:list={["de-verdict", `de-verdict--${c0.verdict}`]} id="de-verdict">
+          <span class="de-verdict__badge" id="de-verdict-badge">{c0.verdictLabel}</span>
+          <p class="de-verdict__note" id="de-verdict-note">{c0.note}</p>
+          <a class="de-verdict__link" id="de-verdict-link" href={c0.hubLink}>Read the full go/no-go →</a>
+        </div>
+
+        <div class="de-cards">
+          <div class="de-card">
+            <div class="de-card__label">Landed cost / unit</div>
+            <div class="de-card__value"><span class="lc-cur">{d.cur}</span> <span id="de-landed">{f2(landed0)}</span></div>
+            <div class="de-card__sub">FOB + <span id="de-dutyamt">{f2(dutyAmt0)}</span> duty + <span id="de-vatamt">{f2(vatAmt0)}</span> VAT</div>
+          </div>
+          <div class="de-card">
+            <div class="de-card__label">Net payout / unit</div>
+            <div class="de-card__value"><span class="lc-cur">{d.cur}</span> <span id="de-net">{f2(net0)}</span></div>
+            <div class="de-card__sub"><span id="de-take">{f1(take0)}</span>% total take-rate</div>
+          </div>
+          <div class:list={["de-card", "de-card--headline", `de-margin--${marginClass0}`]} id="de-margin-card">
+            <div class="de-card__label">Contribution margin</div>
+            <div class="de-card__value"><span id="de-margin">{f1(margin0)}</span>%</div>
+            <div class="de-card__sub"><span class="lc-cur">{d.cur}</span> <span id="de-profit">{f2(profit0)}</span> / unit · <span id="de-margin-word">{marginClass0 === 'good' ? 'healthy' : marginClass0 === 'mid' ? 'workable' : marginClass0 === 'tight' ? 'tight' : 'underwater'}</span></div>
+          </div>
+          <div class="de-card">
+            <div class="de-card__label">Entry mode</div>
+            <div class="de-card__value de-card__value--sm" id="de-mode">{d.monthly >= d.threshold ? 'Local stocking / entity' : 'Cross-border first'}</div>
+            <div class="de-card__sub" id="de-mode-sub">{d.monthly >= d.threshold ? 'Volume justifies local inventory' : 'Validate demand before committing capital'}</div>
+          </div>
+        </div>
+
+        <div class="de-compliance">
+          <strong>Compliance:</strong> <span id="de-compliance">{c0.compliance}</span>
+          (<span id="de-compliance-months">{c0.complianceMonths}</span>) ·
+          <a id="de-compliance-link" href={c0.complianceLink}>how to register →</a><br />
+          <strong>Best channel:</strong> <span id="de-channel">{c0.bestChannel}</span>
+        </div>
+
+        <p class="lc-disclaimer">
+          Estimates only. Import duty is set by HS code and origin (FTA rates need a Certificate of
+          Origin); commission varies by sub-category and seller tier. Confirm with a customs/regulatory
+          advisor before committing.
+        </p>
+      </div>
+    </section>
+
+    <section class="de-cta" aria-label="Full report">
+      <h2>Get your full entry report</h2>
+      <p>We'll email you the operator kit — the full category go/no-go, the fee and compliance detail, and the calculators — so you can pressure-test this before you commit.</p>
+      <form class="de-cta__form" id="de-lead" novalidate>
+        <input type="email" id="de-email" placeholder="you@company.com" aria-label="Email" required />
+        <button type="submit" class="de-cta__btn">Email me the kit</button>
+      </form>
+      <p class="de-cta__status" id="de-lead-status" role="status"></p>
+    </section>
+
+    <section>
+      <h2>Go deeper</h2>
+      <ul class="related-list">
+        <li>Category go/no-go: <a href="/sell-into-vietnam/beauty/">Beauty</a> · <a href="/sell-into-vietnam/supplements/">Supplements</a> · <a href="/sell-into-vietnam/food-and-beverage/">Food &amp; beverage</a> · <a href="/sell-into-vietnam/fashion/">Fashion</a></li>
+        <li>Tools: <a href="/tools/landed-cost-calculator/">Landed-cost calculator</a> · <a href="/tools/channel-selector/">Channel selector</a> · <a href="/data/vietnam-regulation-tracker/">Regulation tracker</a></li>
+        <li><a href="/sell-into-vietnam/">The full Sell-into-Vietnam playbook</a> · <a href="/tools/">All tools &amp; data</a></li>
+      </ul>
+    </section>
+  </article>
+</BaseLayout>
+
+<script define:vars={{ CATS, TXN_PCT, WITHHOLDING_PCT }}>
+  const $ = (id) => document.getElementById(id);
+  const num = (id) => parseFloat(($(id) || {}).value || '0') || 0;
+  const f2 = (n) => (isFinite(n) ? n : 0).toLocaleString('en-US', { maximumFractionDigits: 2 });
+  const f1 = (n) => (isFinite(n) ? n : 0).toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+  const byKey = Object.fromEntries(CATS.map((c) => [c.key, c]));
+
+  function currentCat() { return byKey[($('de-cat') || {}).value] || CATS[0]; }
+
+  // When category or duty basis changes, refresh the category-driven defaults + text.
+  function applyCategory(resetRates) {
+    const c = currentCat();
+    if (resetRates) {
+      const basis = ($('de-basis') || {}).value;
+      $('de-duty').value = basis === 'fta' ? c.dutyFta : c.dutyMfn;
+      $('de-comm').value = c.commission;
+    }
+    const v = $('de-verdict');
+    v.className = 'de-verdict de-verdict--' + c.verdict;
+    $('de-verdict-badge').textContent = c.verdictLabel;
+    $('de-verdict-note').textContent = c.note;
+    $('de-verdict-link').setAttribute('href', c.hubLink);
+    $('de-compliance').textContent = c.compliance;
+    $('de-compliance-months').textContent = c.complianceMonths;
+    $('de-compliance-link').setAttribute('href', c.complianceLink);
+    $('de-channel').textContent = c.bestChannel;
+  }
+
+  function compute() {
+    const cur = (($('de-cur') || {}).value || '').trim();
+    const fob = num('de-fob'), retail = num('de-retail');
+    const duty = num('de-duty'), vat = num('de-vat'), comm = num('de-comm'), ads = num('de-ads');
+    const monthly = num('de-monthly'), threshold = num('de-threshold');
+
+    const dutyAmt = fob * duty / 100;
+    const vatAmt = (fob + dutyAmt) * vat / 100;
+    const landed = fob + dutyAmt + vatAmt;
+    const take = comm + TXN_PCT + WITHHOLDING_PCT + ads;
+    const net = retail * (1 - take / 100);
+    const profit = net - landed;
+    const margin = retail > 0 ? (profit / retail) * 100 : 0;
+    const cls = margin >= 25 ? 'good' : margin >= 10 ? 'mid' : margin >= 0 ? 'tight' : 'hard';
+    const word = cls === 'good' ? 'healthy' : cls === 'mid' ? 'workable' : cls === 'tight' ? 'tight' : 'underwater';
+
+    $('de-landed').textContent = f2(landed);
+    $('de-dutyamt').textContent = f2(dutyAmt);
+    $('de-vatamt').textContent = f2(vatAmt);
+    $('de-net').textContent = f2(net);
+    $('de-take').textContent = f1(take);
+    $('de-margin').textContent = f1(margin);
+    $('de-profit').textContent = f2(profit);
+    $('de-margin-word').textContent = word;
+    $('de-margin-card').className = 'de-card de-card--headline de-margin--' + cls;
+
+    const local = monthly >= threshold && threshold > 0;
+    $('de-mode').textContent = local ? 'Local stocking / entity' : 'Cross-border first';
+    $('de-mode-sub').textContent = local ? 'Volume justifies local inventory' : 'Validate demand before committing capital';
+
+    document.querySelectorAll('.lc-cur').forEach((el) => { el.textContent = cur; });
+  }
+
+  $('de-cat').addEventListener('change', () => { applyCategory(true); compute(); });
+  $('de-basis').addEventListener('change', () => { applyCategory(true); compute(); });
+  $('de-form').addEventListener('input', compute);
+  applyCategory(false);
+  compute();
+
+  // Optional lead capture — reuses the shared growth context; tool stays fully usable without it.
+  const leadForm = $('de-lead');
+  if (leadForm) {
+    leadForm.addEventListener('submit', function (e) {
+      e.preventDefault();
+      const email = (($('de-email') || {}).value || '').trim();
+      const status = $('de-lead-status');
+      if (!email || email.indexOf('@') < 1) { if (status) status.textContent = 'Please enter a valid email.'; return; }
+      if (status) { status.textContent = 'Submitting…'; status.className = 'de-cta__status'; }
+      const ctx = window.vmiGrowthContext;
+      const req = (ctx && ctx.submitLead)
+        ? ctx.submitLead({ email: email, source: 'entry_decision', context: { reason: 'entry_decision_report', category: currentCat().key } })
+        : Promise.reject(new Error('unavailable'));
+      req.then(function () {
+        if (status) { status.innerHTML = 'Thanks! <a href="/downloads/sell-into-vietnam-operator-kit.html" target="_blank" rel="noopener">Download your Operator Kit &rarr;</a>'; status.classList.add('is-success'); }
+        $('de-email').value = '';
+      }).catch(function () {
+        if (status) { status.innerHTML = 'Could not submit right now — grab the kit directly: <a href="/downloads/sell-into-vietnam-operator-kit.html" target="_blank" rel="noopener">Operator Kit &rarr;</a>'; }
+      });
+    });
+  }
+</script>
+
+<style>
+  .lc-page { max-width: var(--reading-width); }
+  .breadcrumb { display: flex; gap: var(--space-2); align-items: center; flex-wrap: wrap; font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-6); }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-accent); text-decoration: underline; }
+  .lc-header { margin-bottom: var(--space-6); }
+  .lc-header h1 { border: none; margin-bottom: var(--space-3); }
+  .lc-lead { font-size: var(--text-lg); line-height: 1.6; color: var(--color-text); }
+  .lc-tool { display: grid; grid-template-columns: 1fr 1.2fr; gap: var(--space-6); margin: var(--space-6) 0 var(--space-10); align-items: start; }
+  .lc-form { display: flex; flex-direction: column; gap: var(--space-4); }
+  .lc-field { display: flex; flex-direction: column; gap: var(--space-1); }
+  .lc-field label { font-weight: 600; font-size: var(--text-sm); color: var(--color-text); }
+  .lc-field input, .lc-field select { padding: var(--space-2) var(--space-3); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-size: var(--text-base); }
+  .lc-field input:focus, .lc-field select:focus { outline: 2px solid var(--color-accent); outline-offset: 1px; border-color: var(--color-accent); }
+  .lc-results { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-5); background: var(--color-bg-subtle); }
+  .lc-cur { font-variant-numeric: tabular-nums; }
+  .lc-disclaimer { margin-top: var(--space-3); font-size: var(--text-xs); color: var(--color-text-muted); line-height: 1.5; }
+
+  .de-verdict { border-left: 4px solid var(--color-accent); border-radius: 2px; padding: var(--space-4) var(--space-5); margin-bottom: var(--space-5); background: var(--color-bg); }
+  .de-verdict--go { border-left-color: #16a34a; }
+  .de-verdict--caution { border-left-color: #d97706; }
+  .de-verdict--neutral { border-left-color: var(--color-text-muted); }
+  .de-verdict__badge { display: inline-block; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; font-size: var(--text-sm); color: #fff; background: var(--color-accent); padding: 3px 10px; border-radius: 100px; margin-bottom: var(--space-2); }
+  .de-verdict--go .de-verdict__badge { background: #16a34a; }
+  .de-verdict--caution .de-verdict__badge { background: #d97706; }
+  .de-verdict--neutral .de-verdict__badge { background: var(--color-text-muted); }
+  .de-verdict__note { margin: 0 0 var(--space-2); line-height: 1.55; font-size: var(--text-sm); color: var(--color-text); }
+  .de-verdict__link { font-size: var(--text-sm); font-weight: 600; color: var(--color-accent); }
+
+  .de-cards { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-3); }
+  .de-card { border: 1px solid var(--color-border-light); border-radius: 2px; padding: var(--space-3) var(--space-4); background: var(--color-bg); }
+  .de-card__label { font-size: var(--text-xs); text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-muted); }
+  .de-card__value { font-size: var(--text-2xl); font-weight: 700; color: var(--color-text); font-variant-numeric: tabular-nums; line-height: 1.15; margin-top: 2px; }
+  .de-card__value--sm { font-size: var(--text-lg); }
+  .de-card__sub { font-size: var(--text-xs); color: var(--color-text-muted); margin-top: 2px; line-height: 1.4; }
+  .de-card--headline { grid-column: 1 / -1; }
+  .de-card--headline .de-card__value { color: var(--color-accent); }
+  .de-margin--good .de-card__value { color: #16a34a; }
+  .de-margin--mid .de-card__value { color: #16a34a; }
+  .de-margin--tight .de-card__value { color: #d97706; }
+  .de-margin--hard .de-card__value { color: #dc2626; }
+
+  .de-compliance { margin-top: var(--space-4); padding-top: var(--space-3); border-top: 1px solid var(--color-border-light); font-size: var(--text-sm); line-height: 1.7; color: var(--color-text); }
+  .de-compliance a { color: var(--color-accent); }
+
+  .de-cta { border: 1px solid var(--color-border-light); border-left: 3px solid var(--color-accent); border-radius: 2px; padding: var(--space-5) var(--space-6); background: var(--color-bg-subtle); margin-bottom: var(--space-10); }
+  .de-cta h2 { margin-top: 0; border: none; }
+  .de-cta__form { display: flex; gap: var(--space-2); flex-wrap: wrap; margin-top: var(--space-3); }
+  .de-cta__form input { flex: 1 1 240px; padding: var(--space-3); border: 1px solid var(--color-border); border-radius: 2px; background: var(--color-bg); color: var(--color-text); font-size: var(--text-base); }
+  .de-cta__btn { padding: var(--space-3) var(--space-5); background: var(--color-accent); color: #fff; border: none; border-radius: 2px; font-weight: 600; cursor: pointer; }
+  .de-cta__btn:hover { background: var(--color-accent-hover, var(--color-accent)); }
+  .de-cta__status { margin-top: var(--space-2); font-size: var(--text-sm); color: var(--color-text-muted); min-height: 1.2em; }
+  .de-cta__status.is-success { color: #15803d; }
+  .de-cta__status a { color: var(--color-accent); }
+
+  section { margin-bottom: var(--space-10); }
+  .related-list { list-style: none; padding: 0; margin: var(--space-4) 0; }
+  .related-list li { margin-bottom: var(--space-2); line-height: 1.55; }
+  .related-list a { color: var(--color-accent); text-decoration: none; }
+  .related-list a:hover { text-decoration: underline; }
+  @media (max-width: 720px) { .lc-tool { grid-template-columns: 1fr; } .de-cards { grid-template-columns: 1fr; } }
+</style>

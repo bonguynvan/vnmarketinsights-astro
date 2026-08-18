@@ -5,6 +5,7 @@
 VN Market Insights (https://vnmarketinsights.com) is an English-language, reference-based (not news-driven) knowledge base and toolset for foreign brands and operators entering or operating in Vietnam. Data is full-year 2025 unless noted; each statistic links to its primary source.
 
 ## Decision tools (free, no signup)
+- [Vietnam market entry decision engine](https://vnmarketinsights.com/tools/vietnam-entry-decision/): enter category, unit cost, retail price, and origin to get a personalised go/no-go verdict, landed cost, net payout, contribution margin, compliance path, and a cross-border-vs-local-entity recommendation. Folds together the category go/no-go analyses and the calculators.
 - [Landed-cost & import-duty calculator](https://vnmarketinsights.com/tools/landed-cost-calculator/): estimate import duty (0–30% by HS code) + 10% VAT and total landed cost for goods imported into Vietnam. Reflects the removal of the low-value de-minimis exemption on 18 February 2025.
 - [PSP fee comparator](https://vnmarketinsights.com/tools/psp-fee-comparator/): model blended payment-processing cost across cards, e-wallets, and bank transfer/VietQR, plus the working capital tied up in T+1–T+3 settlement.
 - [Channel selector](https://vnmarketinsights.com/tools/channel-selector/): compare net per-order payout across Shopee, TikTok Shop, and Lazada after commission, ad spend, and Decree 117 tax withholding.
