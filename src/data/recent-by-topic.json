@@ -1,128 +1,196 @@
 {
-  "generatedAt": "2026-08-18T23:15:10.241863+00:00",
+  "generatedAt": "2026-08-19T23:15:52.642718+00:00",
   "topics": {
-    "regulations": [
-      {
-        "title": "Đẩy nhanh tiến độ xử lý kiến nghị trong lĩnh vực công nghiệp, xây dựng và quy hoạch",
-        "url": "https://vneconomy.vn/day-nhanh-tien-do-xu-ly-kien-nghi-trong-linh-vuc-cong-nghiep-xay-dung-va-quy-hoach.htm",
-        "source": "VnEconomy",
-        "summary_en": "Vietnam's Government Office announced conclusions from Deputy Prime Minister Phạm Gia Túc at a conference addressing difficulties and obstacles in industry, construction, infrastructure, and planning sectors. The industrial, construction, infrastructure, and planning sectors play a critical role in the economy and affect business production and operations widely. These sectors also influence foreign direct investment attraction and Vietnam's commodity competitiveness.",
-        "summary_vn": "Văn phòng Chính phủ công bố kết luận của Phó Thủ tướng Thường trực Phạm Gia Túc tại hội nghị tháo gỡ khó khăn, vướng mắc trong lĩnh vực công nghiệp, xây dựng, hạ tầng và quy hoạch. Các lĩnh vực này có vai trò hết sức quan trọng đối với nền kinh tế và ảnh hưởng rộng đến sản xuất, kinh doanh của doanh nghiệp. Chúng cũng liên quan trực tiếp đến thu hút đầu tư nước ngoài và năng lực cạnh tranh của hàng hóa Việt Nam.",
-        "pubDate": "Tue, 18 Aug 2026 07:09:57 GMT",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Sửa Luật Trưng mua, trưng dụng tài sản: Bảo đảm quyền lợi của chủ sở hữu",
-        "url": "https://vneconomy.vn/sua-luat-trung-mua-trung-dung-tai-san-bao-dam-quyen-loi-cua-chu-so-huu.htm",
-        "source": "VnEconomy",
-        "summary_en": "Vietnam is updating its Law on Requisition and Commandeering of Property to establish a clearer and more flexible legal framework. The amendment aims to enable the State to mobilize resources for the public interest during exceptional circumstances such as natural disasters, epidemics, economic crises, and regional conflicts. The reform seeks to balance the State's ability to requisition property with the protection of owners' legitimate rights and interests.",
-        "summary_vn": "Việt Nam đang sửa đổi Luật Trưng mua, trưng dụng tài sản nhằm thiết lập khuôn khổ pháp lý rõ ràng và linh hoạt hơn. Sửa đổi này nhằm cho phép Nhà nước huy động nguồn lực để phục vụ lợi ích công cộng trong những tình huống đặc biệt như thiên tai, dịch bệnh, khủng hoảng kinh tế và xung đột khu vực. Cải cách này nhằm cân bằng khả năng trưng mua tài sản của Nhà nước với bảo vệ quyền lợi hợp pháp của chủ sở hữu.",
-        "pubDate": "Tue, 18 Aug 2026 07:51:38 GMT",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Khẩn trương rà soát toàn diện Luật Đất đai 2024 và văn bản liên quan",
-        "url": "https://vneconomy.vn/khan-truong-ra-soat-toan-dien-luat-dat-dai-2024-va-van-ban-lien-quan.htm",
-        "source": "VnEconomy",
-        "summary_en": "The Government has issued Resolution No. 229/NQ-CP on implementing the Central Committee's Resolution No. 21-NQ/TW from July 28, 2026, concerning guidelines for amending the 2024 Land Law and related legislation. The plan aims to ensure coordinated and unified implementation of Land Law amendments while preserving applicable existing provisions. The initiative reflects a comprehensive review effort to update the legal framework governing land matters.",
-        "summary_vn": "Chính phủ vừa ban hành Nghị quyết số 229/NQ-CP thực hiện Nghị quyết số 21-NQ/TW của Ban Chấp hành Trung ương Đảng về hướng sửa đổi Luật Đất đai 2024 và các luật liên quan. Kế hoạch nhằm đảm bảo việc xây dựng, sửa đổi Luật Đất đai được thực hiện đồng bộ, thống nhất và kế thừa các quy định còn phù hợp. Sáng kiến này thể hiện nỗ lực rà soát toàn diện để cập nhật khung pháp lý về đất đai.",
-        "pubDate": "Tue, 18 Aug 2026 11:11:35 GMT",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Doanh nghiệp nợ thuế bỏ địa chỉ, tổng gi&aacute;m đốc nước ngo&agrave;i bị ho&atilde;n xuất cảnh",
-        "url": "https://thanhnien.vn/doanh-nghiep-no-thue-bo-dia-chi-tong-giam-doc-nuoc-ngoai-bi-hoan-xuat-canh-185260818170802755.htm",
-        "source": "ThanhNien",
-        "summary_en": "Polytec LLC (tax ID 0302569829), located at Linh Trung Industrial Zone in Ho Chi Minh City, owes import-export tax and late payment surcharges totaling 38.667 billion Vietnamese dong according to Customs Notification No. 1258 dated August 18. The company has abandoned its registered address, and customs has posted the debt notice on its official information portal. The company's foreign general director has been barred from leaving the country as enforcement action.",
-        "summary_vn": "Công ty TNHH Polytec (mã số thuế 0302569829), đặt tại Khu công nghiệp Linh Trung TP.HCM, nợ tiền thuế xuất nhập khẩu và tiền chậm nộp với tổng số tiền là 38,667 triệu đồng theo thông báo của Hải quan ngày 18.8. Công ty đã bỏ địa chỉ đăng ký của mình, và Hải quan đã thông báo khoản nợ này trên trang thông tin điện tử chính thức. Tổng giám đốc người nước ngoài của công ty bị cấm xuất cảnh để thực thi biện pháp xử lý nợ.",
-        "pubDate": "Tue, 18 Aug 26 17:18:00 +0700",
-        "sentiment": -0.8,
-        "importance": 3
-      },
-      {
-        "title": "LPBank cảnh b&aacute;o m&ocirc;i giới t&iacute;n dụng kh&ocirc;ng minh bạch",
-        "url": "https://thanhnien.vn/lpbank-canh-bao-moi-gioi-tin-dung-khong-minh-bach-185260818164404756.htm",
-        "source": "ThanhNien",
-        "summary_en": "LPBank outlined its official three-step lending process: customers contact the bank through branches, call centers, website or mobile app to register loan needs; bank staff advises on loan conditions, documentation, interest rates, fees and repayment methods; the bank then appraises documents, approves, signs credit contracts and disburses funds. The bank warned that no third-party intermediaries are permitted to commit to or guarantee loan approvals. LPBank cautioned against non-transparent credit brokers.",
-        "summary_vn": "LPBank nêu rõ quy trình cho vay theo ba bước: khách hàng liên hệ ngân hàng qua chi nhánh, tổng đài, website hoặc ứng dụng để đăng ký nhu cầu vay; nhân viên tư vấn về điều kiện, hồ sơ, lãi suất, phí và phương thức trả nợ; ngân hàng thẩm định, phê duyệt, ký hợp đồng và giải ngân. Ngân hàng cảnh báo không có cá nhân hoặc tổ chức trung gian nào được phép cam kết hoặc bảo đảm khoản vay được phê duyệt. LPBank cảnh báo về các môi giới tín dụng không minh bạch.",
-        "pubDate": "Tue, 18 Aug 26 17:21:00 +0700",
-        "sentiment": -0.3,
-        "importance": 2
-      },
-      {
-        "title": "Mỹ sắp áp thuế 50% với hàng loạt sản phẩm Canada",
-        "url": "https://vnexpress.net/my-sap-ap-thue-50-voi-hang-loat-san-pham-canada-5110419.html",
-        "source": "VnExpress",
-        "summary_en": "The United States will impose a 50% import tariff on various Canadian products starting August 19, including wine, wooden furniture, cement, clothing, and fishing rods. The U.S. President approved the tariffs under Section 338 of the 1930 Tariff Act, which permits duties up to 50% on imports from countries deemed to discriminate against U.S. goods. According to U.S. Census Bureau data, the new tariffs will affect approximately $20 billion in Canadian goods.",
-        "summary_vn": "Từ ngày 19/8, Mỹ sẽ áp thuế nhập khẩu 50% với hàng loạt sản phẩm Canada, bao gồm rượu vang, đồ gỗ nội thất, xi măng, quần áo và cần câu. Tổng thống Mỹ đã phê duyệt các biện pháp thuế này theo Điều 338 của Đạo luật Thuế năm 1930, cho phép áp thuế tối đa 50% với hàng nhập khẩu từ quốc gia có hành vi phân biệt đối xử với hàng hóa Mỹ. Theo Cục Thống kê Dân số Mỹ, các thuế mới sẽ áp dụng với gần 20 tỷ USD hàng hóa Canada.",
-        "pubDate": "Tue, 18 Aug 2026 14:59:33 +0700",
-        "sentiment": -0.8,
-        "importance": 4
-      }
-    ],
     "financial-markets": [
       {
-        "title": "VinaCapital: Cổ phiếu vẫn hấp dẫn dù lãi suất lên 9%",
-        "url": "https://vnexpress.net/vinacapital-co-phieu-van-hap-dan-du-lai-suat-len-9-5110329.html",
-        "source": "VnExpress",
-        "summary_en": "VinaCapital's analysis states that stocks remain attractive despite interest rates rising to 9%, citing strong valuation decline and potential for doubling gains within 1-3 years. The VESAF fund's research team noted that the stock market experienced volatile trading in July with VN-Index declining sharply from the year's start. Market adjustment pressure occurred amid continued interest rate increases throughout the year.",
-        "summary_vn": "VinaCapital cho rằng cổ phiếu vẫn hấp dẫn bất chấp lãi suất tăng lên 9%, dựa trên định giá giảm mạnh và tiềm năng tăng gấp đôi trong 1-3 năm tới. Đội phân tích của quỹ VESAF nhận định rằng thị trường chứng khoán trải qua tháng 7 biến động với VN-Index giảm mạnh nhất kể từ đầu năm. Áp lực điều chỉnh thị trường xảy ra trong bối cảnh lãi suất tiếp tục tăng suốt năm.",
-        "pubDate": "Tue, 18 Aug 2026 12:31:38 +0700",
+        "title": "Dòng vốn đầu cơ thu hẹp, bất động sản phía Nam chuyển hướng về nhu cầu thực",
+        "url": "https://vneconomy.vn/dong-von-dau-co-thu-hep-bat-dong-san-phia-nam-chuyen-huong-ve-nhu-cau-thuc.htm",
+        "source": "VnEconomy",
+        "summary_en": "A real estate forum organized on August 18 by Vietnam Enterprise Magazine, the Vietnam Real Estate Brokers Association, and the Ho Chi Minh City Real Estate Association (HoREA) discussed growth opportunities in Southern Vietnam's property market. A VCCI Vice Chairman stated that the real estate market is entering a new development cycle from the first half of 2026, with speculative investment flows narrowing and shifting toward value-based investment strategies.",
+        "summary_vn": "Ngày 18/8, Tạp chí Diễn đàn Doanh nghiệp phối hợp cùng Hội Môi giới Bất động sản Việt Nam và Hiệp hội Bất động sản TP.Hồ Chí Minh (HoREA) tổ chức diễn đàn thảo luận cơ hội tăng trưởng của thị trường bất động sản phía Nam. Phó Chủ tịch VCCI cho rằng thị trường bất động sản sẽ bước vào chu kỳ phát triển hoàn toàn mới từ nửa đầu năm 2026, với dòng vốn đầu cơ suy giảm và chuyển hướng sang chiến lược đầu tư giá trị.",
+        "pubDate": "Wed, 19 Aug 2026 00:39:50 GMT",
         "sentiment": 0.3,
         "importance": 3
       },
       {
-        "title": "Cổ phiếu dầu khí 'dậy sóng' khi giá thế giới vượt 90 USD một thùng",
-        "url": "https://vnexpress.net/co-phieu-dau-khi-day-song-khi-gia-the-gioi-vuot-90-usd-mot-thung-5110469.html",
-        "source": "VnExpress",
-        "summary_en": "Global crude oil prices exceeded $90 per barrel, triggering a rally in Vietnamese petroleum sector stocks. Major oil and gas stocks including Petrolimex, GAS, BSR, and OIL gained at least 2% in trading. According to VNDirect Securities, petroleum stocks contributed approximately 5 points to the market index.",
-        "summary_vn": "Giá dầu thô thế giới vượt 90 USD một thùng, kích hoạt sóng tăng giá cổ phiếu dầu khí Việt Nam. Các cổ phiếu dầu khí hàng đầu gồm Petrolimex, GAS, BSR, OIL đều tăng ít nhất 2% so với tham chiếu. Theo thống kê của Công ty Chứng khoán VNDirect, cổ phiếu dầu khí đóng góp khoảng 5 điểm cho chỉ số thị trường.",
-        "pubDate": "Tue, 18 Aug 2026 15:50:36 +0700",
-        "sentiment": 0.6,
-        "importance": 3
-      },
-      {
-        "title": "Lâm Đồng: Khơi thông hơn 74.000 tỷ đồng, quyết tâm đạt tăng trưởng \"2 con số\"",
-        "url": "https://cafef.vn/lam-dong-khoi-thong-hon-74000-ty-dong-quyet-tam-dat-tang-truong-2-con-so-18826081816573827.chn",
-        "source": "CafeF",
-        "summary_en": "Lâm Đồng province has resolved difficulties for 162 out of 365 off-budget investment projects as of mid-August 2026, mobilizing resources toward double-digit economic growth targets. The province is implementing automatic VAT refunds starting December 2026 to support business operations. The province has arranged 24/7 staffing and published hotlines to assist with National Day September 2 transportation needs.",
-        "summary_vn": "Tính đến giữa tháng 8/2026, tỉnh Lâm Đồng đã tháo gỡ khó khăn thành công cho 162/365 dự án đầu tư ngoài ngân sách, hướng tới mục tiêu tăng trưởng kinh tế \"2 con số\". Tỉnh triển khai hoàn thuế giá trị gia tăng tự động từ tháng 12/2026 để hỗ trợ hoạt động kinh doanh. Lâm Đồng đã bố trí lực lượng trực 24/7 và công bố đường dây nóng để phục vụ vận tải dịp Quốc khánh 2-9.",
-        "pubDate": "Tue, 18 Aug 26 17:10:00 +0700",
-        "sentiment": 0.6,
-        "importance": 3
-      },
-      {
-        "title": "Lãi suất tiết kiệm vẫn tăng nhưng lãi cho vay chững lại",
-        "url": "https://vnexpress.net/lai-suat-tiet-kiem-van-tang-nhung-lai-cho-vay-chung-lai-5110534.html",
-        "source": "VnExpress",
-        "summary_en": "Banks increased deposit interest rates for 6-12 month terms to an average of 7.8% per annum, while lending rates held steady at 10.5%, breaking a streak of increases that began in late last year. According to State Bank of Vietnam data released today, average deposit rates in July rose across all terms except under one month, with overall funding rates up approximately 1.5 percentage points since the beginning of the year. For shorter 6-12 month terms, the highest deposit rate reached 7.8% per annum.",
-        "summary_vn": "Các ngân hàng tăng lãi suất tiền gửi kỳ hạn 6-12 tháng lên 7,8% bình quân, trong khi lãi suất cho vay giữ ở 10,5%, ngắt chuỗi tăng từ cuối năm ngoái. Theo dữ liệu Ngân hàng Nhà nước công bố, lãi suất tiền gửi bình quân tháng 7 tăng ở tất cả kỳ hạn trừ dưới một tháng, với mặt bằng huy động tăng khoảng 1,5 điểm phần trăm so với đầu năm. Với kỳ hạn 6-12 tháng, lãi suất cao nhất đạt 7,8% một năm.",
-        "pubDate": "Tue, 18 Aug 2026 18:26:25 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "Bí thư Tỉnh ủy Gia Lai kiểm tra các dự án trọng điểm tại Phù Mỹ",
-        "url": "https://cafef.vn/bi-thu-tinh-uy-gia-lai-kiem-tra-cac-du-an-trong-diem-tai-phu-my-188260818161844405.chn",
-        "source": "CafeF",
-        "summary_en": "The Secretary of Gia Lai Province Party Committee inspected major projects in Phu My on August 18. Thái Đại Ngọc, a member of the Party Central Committee and Gia Lai Province Party Secretary, led a delegation to assess the progress of several key projects in the province. The inspection was part of routine oversight of provincial development initiatives.",
-        "summary_vn": "Ngày 18/8, ông Thái Đại Ngọc, Bí thư Tỉnh ủy Gia Lai, dẫn đầu một đoàn công tác kiểm tra tiến độ các dự án trọng điểm tại Phù Mỹ. Công việc kiểm tra là một phần của hoạt động giám sát thường xuyên đối với các sáng kiến phát triển của tỉnh. Chuyến đi nhằm đánh giá tình hình thực hiện các dự án chủ chốt trên địa bàn tỉnh Gia Lai.",
-        "pubDate": "Tue, 18 Aug 26 17:30:00 +0700",
-        "sentiment": 0.0,
-        "importance": 1
-      },
-      {
-        "title": "C&ocirc;ng ty &#039;g&agrave; đẻ trứng v&agrave;ng&#039; của bầu Đức ch&agrave;o b&aacute;n cổ phiếu lần đầu",
-        "url": "https://thanhnien.vn/cong-ty-ga-de-trung-vang-cua-bau-duc-chao-ban-co-phieu-lan-dau-185260818151025714.htm",
+        "title": "Thị trường bất động sản ph&iacute;a Nam ph&aacute;t đi t&iacute;n hiệu phục hồi đầu ti&ecirc;n",
+        "url": "https://thanhnien.vn/thi-truong-bat-dong-san-da-chinh-thuc-lap-day-185260819160225099.htm",
         "source": "ThanhNien",
-        "summary_en": "Hoang Anh Gia Lai International Investment Joint Stock Company (HGI), a subsidiary of Hoang Anh Gia Lai Group led by Chairman Doan Nguyen Duc, conducted a roadshow on August 18 for its initial public offering. The company plans to issue 18.8 million shares at 60,600 dong per share, totaling 1.139 trillion dong in offering value. OCBS Securities is serving as the advisor and distributor for the HGI share offering.",
-        "summary_vn": "Công ty cổ phần Đầu tư Quốc tế Hoàng Anh Gia Lai (HGI), công ty con của Tập đoàn Hoàng Anh Gia Lai do Chủ tịch Đoàn Nguyên Đức lãnh đạo, đã tổ chức roadshow vào ngày 18 tháng 8 cho đợt chào bán cổ phiếu lần đầu ra công chúng. Công ty dự kiến phát hành 18,8 triệu cổ phiếu với giá 60.600 đồng/cổ phiếu, tương ứng tổng giá trị chào bán 1.139 tỉ đồng. Công ty chứng khoán OCBS đóng vai trò tư vấn và đại lý phân phối cổ phiếu HGI.",
-        "pubDate": "Tue, 18 Aug 26 18:42:00 +0700",
+        "summary_en": "High lending rates averaging over 15% for real estate are preventing market development and consumer purchasing power. Developers are forced to cut losses on underperforming projects to survive market conditions. Market activity has been frozen across Vietnam due to unaffordable financing costs.",
+        "summary_vn": "Lãi suất cho vay bất động sản bình quân trên 15% đang ngăn chặn sự phát triển của thị trường và khả năng mua nhà của người tiêu dùng. Các nhà phát triển buộc phải cắt lỗ các dự án không hiệu quả để tồn tại. Hoạt động thị trường bị đóng băng từ bắc đến nam do chi phí tài chính không khả thi.",
+        "pubDate": "Wed, 19 Aug 26 16:44:00 +0700",
+        "sentiment": -0.6,
+        "importance": 3
+      },
+      {
+        "title": "'Cá mập' Vanguard mua cổ phiếu PNJ",
+        "url": "https://vnexpress.net/ca-map-vanguard-mua-co-phieu-pnj-5110874.html",
+        "source": "VnExpress",
+        "summary_en": "Vanguard, the world's second-largest asset management company, purchased over 1.5 million additional PNJ shares, increasing its ownership stake to 4.3%. A foreign investor group represented by Sprucegrove Investment Management announced it had become a major shareholder of Phu Nhuan Jewelry Company (PNJ). During August 5-14, this group purchased approximately 1.63 million additional shares, raising total holdings to 25.81 million units, representing 5.04% of PNJ's capital.",
+        "summary_vn": "Vanguard, công ty quản lý tài sản lớn thứ hai thế giới, đã mua thêm hơn 1,5 triệu cổ phiếu PNJ, nâng tỷ lệ sở hữu lên 4,3%. Nhóm nhà đầu tư nước ngoài do Sprucegrove Investment Management đại diện vừa thông báo trở thành cổ đông lớn tại Công ty cổ phần Vàng bạc đá quý Phú Nhuận (PNJ). Trong giai đoạn 5-14/8, nhóm này mua thêm khoảng 1,63 triệu cổ phiếu, nâng tổng lượng sở hữu lên 25,81 triệu đơn vị, chiếm 5,04% vốn PNJ.",
+        "pubDate": "Wed, 19 Aug 2026 15:42:57 +0700",
+        "sentiment": 0.5,
+        "importance": 4
+      },
+      {
+        "title": "Khối ngoại thận trọng trước kỳ rà soát bán niên của FTSE Russell",
+        "url": "https://vnexpress.net/khoi-ngoai-than-trong-truoc-ky-ra-soat-ban-nien-cua-ftse-russell-5110921.html",
+        "source": "VnExpress",
+        "summary_en": "Foreign investors are cautious ahead of FTSE Russell's semi-annual index review announcement. Foreign investors injected approximately 1,100 billion VND into the Vietnamese market today, focusing on large-cap stocks including HPG, VNM, PNJ, VIX, and TCB. Meanwhile, they sold over 1,800 billion VND, extending five consecutive sessions of net outflows, with daily selling values maintained around 2,000 billion VND per session.",
+        "summary_vn": "Khối ngoại thận trọng trước kỳ rà soát bán niên của FTSE Russell. Nhà đầu tư nước ngoài hôm nay rót vào thị trường Việt Nam gần 1.100 tỷ đồng, tập trung vào các mã đầu ngành như HPG, VNM, PNJ, VIX và TCB. Nhóm này bán hơn 1.800 tỷ đồng, nối dài mạch rút ròng 5 phiên liên tiếp, với giá trị xả hàng duy trì quanh 2.000 tỷ đồng mỗi phiên.",
+        "pubDate": "Wed, 19 Aug 2026 16:24:09 +0700",
+        "sentiment": -0.3,
+        "importance": 3
+      },
+      {
+        "title": "Ông Trump hoãn áp thuế 50% lên hàng hóa Canada",
+        "url": "https://vnexpress.net/ong-trump-hoan-ap-thue-50-len-hang-hoa-canada-5110936.html",
+        "source": "VnExpress",
+        "summary_en": "The United States postponed a planned 50% tariff on nearly $20 billion in Canadian goods for three days following progress in trade negotiations between the two countries. President Trump announced the delay on the evening of August 18, stating the decision was based on progress toward a trade agreement and pending document finalization. Canadian Prime Minister responded shortly after Trump's announcement.",
+        "summary_vn": "Mỹ tạm hoãn áp mức thuế 50% lên gần 20 tỷ USD hàng hóa Canada trong 3 ngày sau khi hai nước đạt được tiến triển trong đàm phán thương mại. Tổng thống Trump thông báo quyết định hoãn vào tối ngày 18/8, cho biết quyết định dựa trên tiến triển của thỏa thuận và sự hoàn tất các văn bản. Thủ tướng Canada phản ứng trong vòng một giờ sau khi Trump đưa ra thông báo.",
+        "pubDate": "Wed, 19 Aug 2026 17:44:26 +0700",
+        "sentiment": 0.3,
+        "importance": 4
+      },
+      {
+        "title": "Nâng năng suất, mở rộng dư địa tăng trưởng",
+        "url": "https://vneconomy.vn/nang-nang-suat-mo-rong-du-dia-tang-truong.htm",
+        "source": "VnEconomy",
+        "summary_en": "The article discusses reshaping economic growth models through digital productivity, which leverages data, AI, technology and knowledge to create new productive capacity. Green growth opens new development space by generating more value with less energy, resources and carbon while reducing climate change losses. Institutional frameworks are necessary to scale, commercialize and convert these capabilities into growth results.",
+        "summary_vn": "Bài viết thảo luận về việc tái định hình mô hình tăng trưởng kinh tế thông qua năng suất số, khai thác dữ liệu, AI, công nghệ và tri thức để tạo ra năng lực sản xuất mới. Tăng trưởng xanh mở ra không gian phát triển mới bằng cách tạo ra nhiều giá trị hơn với ít năng lượng, tài nguyên và carbon, đồng thời giảm tổn thất do biến đổi khí hậu. Thể chế kiến tạo tạo điều kiện để các năng lực này được phổ cập, thương mại hóa và chuyển hóa thành kết quả tăng trưởng.",
+        "pubDate": "Wed, 19 Aug 2026 04:40:48 GMT",
+        "sentiment": 0.0,
+        "importance": 3
+      }
+    ],
+    "regulations": [
+      {
+        "title": "Bộ Xây dựng yêu cầu tăng cường kỷ luật trong hoạt động xây dựng",
+        "url": "https://vneconomy.vn/bo-xay-dung-yeu-cau-tang-cuong-ky-luat-trong-hoat-dong-xay-dung.htm",
+        "source": "VnEconomy",
+        "summary_en": "The Ministry of Construction has requested enhanced discipline in construction activities nationwide. The ministry noted that recent management of construction projects, particularly for important national and key projects, has made significant progress in improving state management effectiveness and promoting economic-social development. The Ministry of Construction issued Official Letter No. 12974/BXD-KTQLXD requesting ministries, agencies, and localities to continue improving management efficiency in this field.",
+        "summary_vn": "Bộ Xây dựng yêu cầu tăng cường kỷ luật trong hoạt động xây dựng trên toàn quốc. Bộ này nhấn mạnh rằng công tác quản lý các dự án xây dựng, đặc biệt là các dự án quan trọng quốc gia và dự án trọng điểm, đã đạt được những tiến bộ đáng kể trong việc nâng cao hiệu lực quản lý nhà nước và thúc đẩy phát triển kinh tế-xã hội. Bộ Xây dựng đã ban hành Công văn số 12974/BXD-KTQLXD để yêu cầu các bộ, ngành và địa phương tiếp tục cải thiện hiệu quả quản lý lĩnh vực này.",
+        "pubDate": "Wed, 19 Aug 2026 06:51:28 GMT",
         "sentiment": 0.0,
         "importance": 2
+      },
+      {
+        "title": "Hà Nội đặt mốc hoàn tất bàn giao đất nông, lâm trường trước ngày 15/9",
+        "url": "https://vneconomy.vn/ha-noi-dat-moc-hoan-tat-ban-giao-dat-nong-lam-truong-truoc-ngay-159.htm",
+        "source": "VnEconomy",
+        "summary_en": "Hanoi has set a deadline of September 15 for completing the handover of land from state agricultural and forestry farms. According to Hanoi's Department of Agriculture and Environment, 17 units currently manage and use land originating from agricultural and forestry farms across the city, totaling 8,385.59 hectares. The land comprises 4,329.54 hectares of agricultural land, 4,053.71 hectares of non-agricultural land, and 2.34 hectares of unused land.",
+        "summary_vn": "Hà Nội đặt hạn chót ngày 15/9 để hoàn tất công tác bàn giao đất từ các nông, lâm trường. Theo Sở Nông nghiệp và Môi trường Hà Nội, có 17 đơn vị đang quản lý và sử dụng đất có nguồn gốc từ nông, lâm trường trên địa bàn thành phố với tổng diện tích 8.385,59ha. Đất được chia thành 4.329,54ha đất nông nghiệp, 4.053,71ha đất phi nông nghiệp, và 2,34ha đất chưa sử dụng.",
+        "pubDate": "Wed, 19 Aug 2026 08:53:28 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Hà Nội sẽ quy định cụ thể các khoản thu từ khai thác giá trị tăng thêm trong khu vực TOD",
+        "url": "https://vneconomy.vn/ha-noi-se-quy-dinh-cu-the-cac-khoan-thu-tu-khai-thac-gia-tri-tang-them-trong-khu-vuc-tod.htm",
+        "source": "VnEconomy",
+        "summary_en": "Hanoi will establish specific regulations for revenue collection from value increment exploitation in TOD (Transit-Oriented Development) zones. The revenues include TOD advantage coefficients, percentages from local rail infrastructure asset exploitation, infrastructure improvement fees, and public transportation connection fees. The Hanoi People's Committee has issued an implementation plan for Resolution 67/2026/NQ-HĐND to operationalize these special mechanisms and policies.",
+        "summary_vn": "Hà Nội sẽ ban hành các quy định cụ thể về thu hồi giá trị tăng thêm từ khai thác trong các khu vực TOD (phát triển hướng giao thông). Các khoản thu bao gồm hệ số lợi thế TOD, tỷ lệ khai thác tài sản hạ tầng đường sắt địa phương, phí cải thiện hạ tầng và phí kết nối giao thông công cộng. UBND TP. Hà Nội vừa ban hành Kế hoạch thực hiện Nghị quyết số 67/2026/NQ-HĐND nhằm cụ thể hóa và triển khai các cơ chế, chính sách đặc thù.",
+        "pubDate": "Wed, 19 Aug 2026 08:53:39 GMT",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Chính phủ đề xuất cách tính tiền chủ căn hộ khi xây lại chung cư",
+        "url": "https://vnexpress.net/chinh-phu-de-xuat-cach-tinh-tien-chu-can-ho-khi-xay-lai-chung-cu-5110710.html",
+        "source": "VnExpress",
+        "summary_en": "The government has proposed guidelines for how apartment owners should be compensated when residential buildings are reconstructed after reaching the end of their lifespan. The Construction Minister presented the revised Housing Law to the National Assembly on August 19, containing 13 chapters and 132 articles, representing a 32% reduction from the current law. Apartment owners will have the right to contribute funds for reconstruction or receive land compensation when buildings expire.",
+        "summary_vn": "Chính phủ đề xuất hướng dẫn cách tính tiền bồi thường cho chủ căn hộ khi các tòa nhà chung cư được xây lại sau khi hết tuổi thọ. Bộ trưởng Xây dựng trình Quốc hội dự thảo Luật Nhà ở sửa đổi vào ngày 19/8, gồm 13 chương và 132 điều, giảm 66 điều (tương đương 32%) so với luật hiện hành. Chủ căn hộ sẽ có quyền góp tiền xây lại hoặc nhận bồi thường đất khi tòa nhà hết hạn sử dụng.",
+        "pubDate": "Wed, 19 Aug 2026 11:44:37 +0700",
+        "sentiment": 0.0,
+        "importance": 3
+      },
+      {
+        "title": "Mỹ tính siết nhãn 'tái chế' trên túi nilon, hộp nhựa",
+        "url": "https://vnexpress.net/my-tinh-siet-nhan-tai-che-tren-tui-nilon-hop-nhua-5110716.html",
+        "source": "VnExpress",
+        "summary_en": "The United States is considering stricter regulations on \"recycling\" labels on plastic bags and containers to prevent misuse of the \"chasing arrows\" symbol, which represents recyclability. The symbol is commonly found on food packaging in the US, leading consumers to believe items can be recycled when placed in appropriate bins, though this is often not the case. The proposed legislation aims to prevent misleading environmental claims and ensure accurate labeling practices.",
+        "summary_vn": "Mỹ đang xem xét siết chặt các quy định về nhãn \"tái chế\" trên túi nilon và hộp nhựa để ngăn chặn lạm dụng ký hiệu \"mũi tên đuổi bắt\", biểu tượng của khả năng tái chế. Biểu tượng này thường xuất hiện trên bao bì thực phẩm tại Mỹ, khiến người tiêu dùng tin rằng các sản phẩm có thể được tái chế khi bỏ vào các thùng thu gom, mặc dù thực tế thường không phải như vậy. Dự luật nhằm ngăn chặn các tuyên bố môi trường sai lệch và đảm bảo các thông tin nhãn mác chính xác.",
+        "pubDate": "Wed, 19 Aug 2026 12:00:24 +0700",
+        "sentiment": -0.2,
+        "importance": 3
+      },
+      {
+        "title": "\"Xây\" và \"chống\" trong bảo vệ nền tảng tư tưởng của Đảng trước thách thức mới từ công nghệ",
+        "url": "https://vneconomy.vn/xay-va-chong-trong-bao-ve-nen-tang-tu-tuong-cua-dang-truoc-thach-thuc-moi-tu-cong-nghe.htm",
+        "source": "VnEconomy",
+        "summary_en": "The article discusses how to protect the Party's ideological foundation in the face of new technological challenges. It emphasizes combining \"construction\" (building trust, raising awareness, spreading positive information) and \"resistance\" (detecting, refuting and handling false and hostile information) approaches. The piece stresses the importance of not leaving information gaps and acting on false information promptly, substantively and according to regulations.",
+        "summary_vn": "Bài viết thảo luận về cách bảo vệ nền tảng tư tưởng của Đảng trước những thách thức từ công nghệ mới. Nó nhấn mạnh việc kết hợp hai phương thức \"xây dựng\" (xây dựng niềm tin, nâng cao nhận thức, lan tỏa thông tin tích cực) và \"chống\" (phát hiện, phản bác và xử lý thông tin sai trái, thù địch). Bài viết nhấn mạnh tầm quan trọng của việc không để trống thông tin và xử lý thông tin sai lệch một cách kịp thời, có căn cứ và đúng quy định.",
+        "pubDate": "Mon, 17 Aug 2026 11:13:00 GMT",
+        "sentiment": 0.0,
+        "importance": 2
+      }
+    ],
+    "ecommerce": [
+      {
+        "title": "Thương mại, du lịch TP.HCM cần &#039;c&uacute; h&iacute;ch&#039; từ outlet",
+        "url": "https://thanhnien.vn/thuong-mai-du-lich-tphcm-can-cu-hich-tu-outlet-185260819160427152.htm",
+        "source": "ThanhNien",
+        "summary_en": "Ho Chi Minh City has significant potential to develop outlet stores given its large market size, substantial tourist numbers, and presence of major enterprises, according to Deputy Director Nguyen Nguyen Phuong of the city's Department of Industry and Trade. The city risks falling behind other localities that have already begun researching and planning this retail model. Outlet development should be integrated into a broader retail tourism ecosystem that includes accommodation, travel services, transportation, food, and entertainment.",
+        "summary_vn": "Thành phố Hồ Chí Minh có tiềm năng phát triển outlet lớn nhờ quy mô thị trường, lượng khách du lịch lớn và sự hiện diện của nhiều doanh nghiệp lớn, theo Phó giám đốc Sở Công thương. Thành phố có nguy cơ chậm chân khi một số địa phương khác đã bắt đầu nghiên cứu và quy hoạch mô hình này. Outlet cần được tích hợp vào hệ sinh thái du lịch mua sắm bao gồm lưu trú, lữ hành, vận chuyển, ẩm thực và giải trí.",
+        "pubDate": "Wed, 19 Aug 26 16:40:00 +0700",
+        "sentiment": 0.3,
+        "importance": 2
+      }
+    ],
+    "logistics": [
+      {
+        "title": "Li&ecirc;n danh nh&agrave; thầu Trung Quốc thẩm tra nghi&ecirc;n cứu khả thi metro Thủ Thi&ecirc;m - Long Th&agrave;nh",
+        "url": "https://thanhnien.vn/lien-danh-nha-thau-trung-quoc-tham-tra-nghien-cuu-kha-thi-metro-thu-thiem-long-thanh-18526081916542768.htm",
+        "source": "ThanhNien",
+        "summary_en": "A Chinese-Vietnamese consortium led by China Railway Liuyuan Group and Hung Nghiep Construction Consulting Company Vietnam was awarded a contract to conduct feasibility study review for the Thủ Thiêm - Long Thành metro project. The contract was awarded by Đại Quang Minh Real Estate Investment Company on August 17. The rail project is being developed as a public-private partnership (PPP) with feasibility study and FEED design prepared by Đại Quang Minh Real Estate Investment Company.",
+        "summary_vn": "Liên danh China Railway Liuyuan Group (Trung Quốc) và Công ty TNHH Tư vấn - Xây dựng Hưng Nghiệp (Việt Nam) được cấp phép thẩm tra nghiên cứu khả thi dự án metro Thủ Thiêm - Long Thành. Liên danh này được Công ty cổ phần Đầu tư địa ốc Đại Quang Minh giao thầu vào ngày 17.8. Dự án đường sắt do Đại Quang Minh lập báo cáo nghiên cứu khả thi và thiết kế FEED, đề xuất triển khai theo hình thức đối tác công tư.",
+        "pubDate": "Wed, 19 Aug 26 16:59:00 +0700",
+        "sentiment": 0.0,
+        "importance": 2
+      },
+      {
+        "title": "Mở lối Vành đai 1, giảm áp lực giao thông nội đô",
+        "url": "https://cafef.vn/mo-loi-vanh-dai-1-giam-ap-luc-giao-thong-noi-do-188260819152716248.chn",
+        "source": "CafeF",
+        "summary_en": "The Vành đai 1 ring road project, specifically the Hoàng Cầu - Voi Phục section in Hanoi, is in the final construction phase. Multiple components including road surface, sidewalks, green spaces, lighting, and technical infrastructure are being urgently completed. The project targets technical opening on September 2, 2026, expected to relieve traffic pressure in the western area and further complete the capital's important ring road.",
+        "summary_vn": "Dự án đường Vành đai 1, đoạn Hoàng Cầu - Voi Phục ở Hà Nội đang ở giai đoạn thi công nước rút cuối cùng. Nhiều hạng mục bao gồm mặt đường, vỉa hè, cây xanh, chiếu sáng và hạ tầng kỹ thuật đang được hoàn thiện khẩn trương. Dự án nhằm thông xe kỹ thuật vào ngày 2-9-2026, kỳ vọng giảm áp lực giao thông khu vực phía Tây và hoàn chỉnh tuyến vành đai quan trọng của Thủ đô.",
+        "pubDate": "Wed, 19 Aug 26 17:00:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      },
+      {
+        "title": "Vietjet nối lại 5 đường bay đến Đ&agrave; Lạt",
+        "url": "https://thanhnien.vn/vietjet-noi-lai-5-duong-bay-den-da-lat-185260819192318184.htm",
+        "source": "ThanhNien",
+        "summary_en": "Vietjet resumed flights to Da Lat following the reopening of Lien Khuong airport, with the first flight departing from Hanoi and landing amid welcoming ceremonies from Lam Dong provincial leaders, airport officials, and Vietjet representatives. The Lam Dong People's Committee presented a commendation to Vietjet for its outstanding cooperation in restoring air operations at Lien Khuong airport. The airline is welcoming the return of Da Lat routes with promotional activities scheduled through the end of the mentioned period.",
+        "summary_vn": "Vietjet đã nối lại các chuyến bay đến Đà Lạt sau khi sân bay Liên Khương mở lại, với chuyến bay đầu tiên khởi hành từ Hà Nội và hạ cánh trong buổi lễ chào đón của lãnh đạo tỉnh Lâm Đồng, sân bay, và đại diện Vietjet. Ủy ban nhân dân tỉnh Lâm Đồng đã trao Bằng khen cho Vietjet vì những thành tích xuất sắc trong việc phục hồi hoạt động hàng không tại Cảng hàng không Liên Khương. Hãng hàng không đang chào đón sự trở lại của các đường bay Đà Lạt với các hoạt động quảng bá được lên kế hoạch đến hết kỳ được đề cập.",
+        "pubDate": "Wed, 19 Aug 26 19:14:00 +0700",
+        "sentiment": 0.7,
+        "importance": 2
+      }
+    ],
+    "platforms": [
+      {
+        "title": "MSB ph&aacute;t triển nền tảng số thế hệ mới, đồng h&agrave;nh doanh nghiệp tăng trưởng",
+        "url": "https://thanhnien.vn/msb-phat-trien-nen-tang-so-the-he-moi-dong-hanh-doanh-nghiep-tang-truong-185260819172106394.htm",
+        "source": "ThanhNien",
+        "summary_en": "MSB has developed a new digital platform for business banking called MSB Business Banking. The platform is built on Backbase technology and offers comprehensive financial management solutions with four key features: superior technology on an international platform, flexibility aligned with business operations, seamless all-in-one ecosystem, and cash flow optimization solutions. The company positions this as supporting business growth through digitalized transactions and integrated financial services.",
+        "summary_vn": "MSB đã phát triển nền tảng số thế hệ mới cho ngân hàng kinh doanh có tên MSB Business Banking. Nền tảng được xây dựng dựa trên công nghệ Backbase và cung cấp các giải pháp quản trị tài chính toàn diện với bốn tính năng chính: công nghệ vượt trội trên nền tảng quốc tế, tính linh hoạt phù hợp với hoạt động kinh doanh, hệ sinh thái all-in-one liền mạch và các giải pháp tối ưu dòng tiền. Công ty định vị đây là hỗ trợ tăng trưởng kinh doanh thông qua số hóa giao dịch và các dịch vụ tài chính tích hợp.",
+        "pubDate": "Wed, 19 Aug 26 18:00:00 +0700",
+        "sentiment": 0.6,
+        "importance": 3
+      }
+    ],
+    "consumers": [
+      {
+        "title": "Dễ vay tiền qua app, dễ &ocirc;m nợ",
+        "url": "https://thanhnien.vn/de-vay-tien-qua-app-de-om-no-185260819193225485.htm",
+        "source": "ThanhNien",
+        "summary_en": "Quick loan applications through mobile apps and online platforms advertise simplified borrowing with minimal documentation and rapid approval. These services claim loan processing takes 3-5 minutes with funds disbursed within 24 hours, requiring no collateral. The ease of access to these lending services has led to rising consumer debt concerns.",
+        "summary_vn": "Các ứng dụng và nền tảng cho vay nhanh quảng cáo quy trình vay đơn giản hóa với tài liệu tối thiểu và phê duyệt nhanh chóng. Những dịch vụ này tuyên bố xử lý khoản vay mất 3-5 phút với tiền được giải ngân trong 24 giờ, không yêu cầu tài sản đảm bảo. Sự dễ dàng tiếp cận các dịch vụ cho vay này đã dẫn đến lo ngại gia tăng nợ của người tiêu dùng.",
+        "pubDate": "Thu, 20 Aug 26 06:07:00 +0700",
+        "sentiment": -0.6,
+        "importance": 3
       }
     ],
     "payments": [
@@ -134,104 +202,6 @@
         "summary_vn": "Các dịch vụ ví điện tử VETC và ePass đã áp dụng thêm phí quản lý tài khoản hàng tháng từ tháng 8. Người dùng cá nhân phải trả 6.600 đồng mỗi tháng (79.200 đồng mỗi năm) cho mỗi ví để duy trì hệ thống, kết nối ngân hàng và dịch vụ thanh toán 24/7, kể cả khi phương tiện không qua trạm thu phí. Các tổ chức và doanh nghiệp phải chịu mức phí cao hơn là 66.000 đồng mỗi tháng (792.000 đồng mỗi năm) cho mỗi ví.",
         "pubDate": "Tue, 18 Aug 2026 14:28:17 +0700",
         "sentiment": -0.3,
-        "importance": 2
-      }
-    ],
-    "ecommerce": [
-      {
-        "title": "Mua drone, flycam dễ như mua rau",
-        "url": "https://thanhnien.vn/mua-drone-flycam-de-nhu-mua-rau-185260818180918963.htm",
-        "source": "ThanhNien",
-        "summary_en": "The UAV (unmanned aerial vehicle) market in Vietnam has become more accessible to consumers, with a wider range of price points now available compared to previous years when ownership was limited to those with higher budgets. Active buying and selling of drones and flycams takes place through social media groups, with one Facebook group having nearly 200,000 registered members. Transactions in these groups extend beyond entertainment-grade flycams to include other categories.",
-        "summary_vn": "Thị trường máy bay không người lái (UAV) ở Việt Nam đã trở nên dễ tiếp cận hơn với người tiêu dùng, với nhiều lựa chọn giá khác nhau so với những năm trước khi sở hữu bị giới hạn ở những người có ngân sách cao. Việc mua bán drone và flycam diễn ra sôi động thông qua các nhóm trên mạng xã hội, với một nhóm Facebook có gần 200.000 thành viên đăng ký. Các giao dịch trong những nhóm này không chỉ giới hạn ở flycam phục vụ giải trí.",
-        "pubDate": "Wed, 19 Aug 26 06:00:00 +0700",
-        "sentiment": 0.3,
-        "importance": 2
-      },
-      {
-        "title": "Từ ngày 1/7, một luật ở Việt Nam có hiệu lực, vì sao nhiều người tiêu dùng vẫn khó khi mua hàng online?",
-        "url": "https://cafef.vn/tu-ngay-1-7-mot-luat-o-viet-nam-co-hieu-luc-vi-sao-nhieu-nguoi-tieu-dung-van-kho-khi-mua-hang-online-188260817160541086.chn",
-        "source": "CafeF",
-        "summary_en": "A new law took effect in Vietnam on July 1st, yet many consumers continue to face challenges when purchasing goods online. Consumers in Vietnam report difficulties in selecting shipping providers when buying from e-commerce platforms, despite the introduction of new consumer rights. The excerpt references ongoing issues related to e-commerce regulations and platform operations.",
-        "summary_vn": "Từ ngày 1/7, một luật mới có hiệu lực tại Việt Nam, nhưng nhiều người tiêu dùng vẫn gặp khó khăn khi mua hàng trực tuyến. Người tiêu dùng Việt Nam báo cáo gặp khó trong việc lựa chọn nhà cung cấp dịch vụ vận chuyển khi mua từ các sàn thương mại điện tử, mặc dù có quyền mới được cấp cho người tiêu dùng. Đoạn trích đề cập đến các vấn đề liên tục liên quan đến quy định thương mại điện tử và hoạt động của các nền tảng.",
-        "pubDate": "Mon, 17 Aug 26 16:32:00 +0700",
-        "sentiment": -0.3,
-        "importance": 3
-      }
-    ],
-    "logistics": [
-      {
-        "title": "FDI chất lượng cao mở 'cửa sáng' cho kho xưởng xây sẵn",
-        "url": "https://vnexpress.net/fdi-chat-luong-cao-mo-cua-sang-cho-kho-xuong-xay-san-5110358.html",
-        "source": "VnExpress",
-        "summary_en": "KCN Việt Nam initiated construction of a 21.9-hectare pre-built warehouse project in Sóng Thần 3 Industrial Zone, Ho Chi Minh City, expected to provide 130,000 m² of pre-built factory and mixed-use warehouse space. This development occurs as Ho Chi Minh City attracted over 6.8 billion USD in FDI in the first half of the year. Pre-built warehouses are gaining demand due to high-quality FDI inflows but must meet increasing requirements for connectivity, location, and green infrastructure.",
-        "summary_vn": "KCN Việt Nam khởi công dự án kho xưởng xây sẵn quy mô 21,9 ha tại Khu công nghiệp Sóng Thần 3 (TP HCM), dự kiến cung cấp 130.000 m² nhà xưởng xây sẵn và kho xưởng hỗn hợp. Động thái này diễn ra khi TP HCM thu hút hơn 6,8 tỷ USD vốn FDI trong nửa đầu năm. Kho xưởng xây sẵn có khả năng hút khách nhờ FDI chất lượng cao nhưng phải đáp ứng yêu cầu ngày càng cao về vị trí kết nối, hạ tầng xanh.",
-        "pubDate": "Wed, 19 Aug 2026 00:05:00 +0700",
-        "sentiment": 0.5,
-        "importance": 3
-      },
-      {
-        "title": "Cuộc chạy đua ng&agrave;y đ&ecirc;m của 600 người ở c&ocirc;ng trường LRT Ph&uacute; Quốc",
-        "url": "https://thanhnien.vn/cuoc-chay-dua-ngay-dem-cua-600-nguoi-o-cong-truong-lrt-phu-quoc-185260817150900374.htm",
-        "source": "ThanhNien",
-        "summary_en": "The article describes construction workers on the Phú Quốc Light Rail Transit (LRT) project working day and night under challenging conditions. In August, during Vietnam's monsoon season, the construction site between Phú Quốc International Airport and the APEC Conference Center faces difficult weather with heavy rainfall and muddy working conditions. Despite these obstacles, workers continue their operations, moving materials into covered work areas to maintain project progress.",
-        "summary_vn": "Bài viết mô tả công nhân thi công dự án Đường sắt nhẹ (LRT) Phú Quốc làm việc ngày đêm trong điều kiện khó khăn. Vào tháng 8, trong mùa mưa của Việt Nam, công trường từ Cảng hàng không quốc tế Phú Quốc đến Trung tâm Hội nghị APEC phải đối mặt với thời tiết khắc nghiệt, mưa lớn và đất bùn loại. Bất chấp những trở ngại, công nhân tiếp tục hoạt động, di chuyển vật tư vào các khu vực bao che để duy trì tiến độ dự án.",
-        "pubDate": "Mon, 17 Aug 26 15:31:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      },
-      {
-        "title": "Đích thân kiểm tra dự án thành phần 4 sân bay Long Thành, Cục trưởng Cục Hàng không chỉ đạo gắt gao về tiến độ",
-        "url": "https://cafef.vn/dich-than-kiem-tra-du-an-thanh-phan-4-san-bay-long-thanh-cuc-truong-cuc-hang-khong-chi-dao-gat-gao-ve-tien-do-188260817183736112.chn",
-        "source": "CafeF",
-        "summary_en": "Vietnam's Civil Aviation Authority Director Uong Viet Dung personally inspected the Long Thanh Airport International Cargo Terminal (Component Project 4) and issued strict directives on project progress. On August 15, at the Southern Air Port Authority headquarters, Director Uong Viet Dung chaired a meeting to assess the implementation status of Component Project 4. The inspection reflects management's focus on ensuring timely execution of this key infrastructure component.",
-        "summary_vn": "Cục trưởng Cục Hàng không Việt Nam Uông Việt Dũng đã đích thân kiểm tra Dự án thành phần 4 - Cảng Hàng không quốc tế Long Thành và đưa ra các chỉ đạo gắt gao về tiến độ. Vào ngày 15/8, tại trụ sở Cảng vụ Hàng không miền Nam, ông Uông Việt Dũng chủ trì cuộc họp kiểm điểm tiến độ thực hiện các dự án thành phần 4. Cuộc kiểm tra này cho thấy sự chú trọng của ban quản lý đối với việc đảm bảo thực hiện kịp tiến độ của dự án cơ sở hạ tầng quan trọng này.",
-        "pubDate": "Mon, 17 Aug 26 19:30:00 +0700",
-        "sentiment": 0.0,
-        "importance": 3
-      },
-      {
-        "title": "\"Siêu cầu\" vượt sông Hồng hơn 16.000 tỷ đồng đạt tiến độ “thần tốc”, dựng vòm thép vô cực sau 8 tháng",
-        "url": "https://cafef.vn/sieu-cau-vuot-song-hong-hon-16000-ty-dong-dat-tien-do-than-toc-dung-vom-thep-vo-cuc-sau-8-thang-188260817143907565.chn",
-        "source": "CafeF",
-        "summary_en": "The Trần Hưng Đạo Bridge across the Red River, worth over 16,000 billion Vietnamese dong, has achieved rapid construction progress since commencing on December 19, 2025. The project is being hailed by experts for its impressive timeline and is expected to serve as a vital transportation link connecting Hanoi's central areas to eastern development zones. Construction is organized across 17 parallel work fronts on both land and underwater, employing simultaneous execution of multiple sections rather than sequential completion.",
-        "summary_vn": "Cầu Trần Hưng Đạo vượt sông Hồng trị giá hơn 16.000 tỷ đồng đã đạt tiến độ thi công nhanh chóng kể từ khi khởi công ngày 19/12/2025. Dự án được các chuyên gia đánh giá có tiến độ ấn tượng và dự kiến sẽ là công trình giao thông huyết mạch kết nối khu vực trung tâm Hà Nội với các vùng phát triển phía Đông. Thi công được tổ chức trên 17 mũi cùng lúc trên cạn và dưới nước, không chờ từng hạng mục hoàn thành mới tiếp tục công việc tiếp theo.",
-        "pubDate": "Mon, 17 Aug 26 21:05:00 +0700",
-        "sentiment": 0.7,
-        "importance": 4
-      }
-    ],
-    "platforms": [
-      {
-        "title": "Ra mắt Hệ thống đăng k&yacute; th&agrave;nh vi&ecirc;n tại Trung t&acirc;m t&agrave;i ch&iacute;nh quốc tế",
-        "url": "https://thanhnien.vn/ra-mat-he-thong-dang-ky-thanh-vien-tai-trung-tam-tai-chinh-quoc-te-185260817142024639.htm",
-        "source": "ThanhNien",
-        "summary_en": "Vietnam's international financial centers in Ho Chi Minh City and Da Nang launched a member registration and recognition system for the Vietnam International Financial Center (VIFC) for the 2026-2027 phase on August 17. The system is integrated directly into VIFC's official information portal, establishing a unified online service channel. The system enables investors, organizations, and businesses to complete all related procedures through this centralized digital platform.",
-        "summary_vn": "Chiều 17.8, Cơ quan điều hành Trung tâm tài chính quốc tế tại TP.HCM phối hợp cùng Cơ quan điều hành Trung tâm tài chính quốc tế tại TP. Đà Nẵng ra mắt Hệ thống đăng ký và công nhận thành viên của VIFC giai đoạn 2026 - 2027. Hệ thống được tích hợp trực tiếp trên cổng thông tin điện tử chính thức của VIFC, thiết lập một kênh dịch vụ trực tuyến thống nhất. Hệ thống cho phép nhà đầu tư, tổ chức và doanh nghiệp thực hiện toàn bộ quy trình liên quan đến việc đăng ký thành viên.",
-        "pubDate": "Mon, 17 Aug 26 15:44:00 +0700",
-        "sentiment": 0.0,
-        "importance": 2
-      }
-    ],
-    "consumers": [
-      {
-        "title": "VNG khởi động giải chạy cộng đồng UpRace 2026",
-        "url": "https://thanhnien.vn/vng-khoi-dong-giai-chay-cong-dong-uprace-2026-185260817175428858.htm",
-        "source": "ThanhNien",
-        "summary_en": "VNG officially announced UpRace 2026, the 8th edition of its charity running event with the theme \"Run for a Rising Việt Nam\". The event aims to reach one million participants in the UpRace community. UpRace 2026 will feature two online running events: UpRace Summer Challenge from August 21 to September 4, and UpRace Flagship Event from October 10 to November 1.",
-        "summary_vn": "VNG chính thức công bố giải chạy từ thiện UpRace 2026, mùa giải thứ 8 với thông điệp \"Run for a Rising Việt Nam - Sải bước vì một Việt Nam vươn mình\". Sự kiện nhằm mục tiêu cộng đồng UpRace chạm mốc một triệu người. UpRace 2026 sẽ có hai sự kiện chạy bộ trực tuyến: UpRace Summer Challenge diễn ra từ 21.8 đến 4.9 và UpRace Flagship Event từ 10.10 đến 1.11.",
-        "pubDate": "Mon, 17 Aug 26 21:00:00 +0700",
-        "sentiment": 0.5,
-        "importance": 2
-      },
-      {
-        "title": "Giá tăng mạnh, ớt hiểm xanh đắt hơn thịt gà",
-        "url": "https://vnexpress.net/gia-tang-manh-ot-hiem-xanh-dat-hon-thit-ga-5110050.html",
-        "source": "VnExpress",
-        "summary_en": "Green chili pepper prices in Ho Chi Minh City have increased 30-50% compared to the beginning of the year, with rare green chilies reaching 150,000-170,000 dong per kilogram due to reduced supply during the rainy season. Survey data from retail markets in Ho Chi Minh City shows other varieties such as slender chilies, horn chilies, and bell peppers priced at approximately 70,000 dong per kilogram. Green rare chilies have increased 60% from the beginning of the year, making them more expensive than chicken meat.",
-        "summary_vn": "Giá ớt tại TP HCM tăng 30-50% so với đầu năm, trong đó ớt hiểm xanh lên 150.000-170.000 đồng một kg do nguồn cung giảm khi vào mùa mưa. Khảo sát tại các chợ lẻ TP HCM cho thấy ớt chỉ thiên, ớt sừng và ớt chuông có giá khoảng 70.000 đồng một kg. Ớt hiểm tăng lên 150.000-170.000 đồng, cao hơn 60% so với đầu năm.",
-        "pubDate": "Tue, 18 Aug 2026 00:01:00 +0700",
-        "sentiment": -0.6,
         "importance": 2
       }
     ]

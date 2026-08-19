@@ -1,8 +1,8 @@
 ---
 title: "Vietnam Airlines — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietnam Airlines, with neutral summaries and source links."
-publishedDate: "2026-08-18"
-lastUpdated: "2026-08-18"
+publishedDate: "2026-08-19"
+lastUpdated: "2026-08-19"
 category: "Company"
 readingTime: 3
 ---

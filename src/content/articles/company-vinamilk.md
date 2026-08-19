@@ -1,17 +1,23 @@
 ---
 title: "Vinamilk — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinamilk, with neutral summaries and source links."
-publishedDate: "2026-08-18"
-lastUpdated: "2026-08-18"
+publishedDate: "2026-08-19"
+lastUpdated: "2026-08-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Vinamilk
 
-Recent Vietnam market news mentioning **Vinamilk** (3 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vinamilk** (4 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Khối ngoại thận trọng trước kỳ rà soát bán niên của FTSE Russell**  
+
+Foreign investors are cautious ahead of FTSE Russell's semi-annual index review announcement. Foreign investors injected approximately 1,100 billion VND into the Vietnamese market today, focusing on large-cap stocks including HPG, VNM, PNJ, VIX, and TCB. Meanwhile, they sold over 1,800 billion VND, extending five consecutive sessions of net outflows, with daily selling values maintained around 2,000 billion VND per session.
+
+- Source: [VnExpress](https://vnexpress.net/khoi-ngoai-than-trong-truoc-ky-ra-soat-ban-nien-cua-ftse-russell-5110921.html)
 
 **Vinamilk: từ ba nhà máy dừng hoạt động đến thương hiệu sữa tỷ USD**  
 
@@ -33,10 +39,10 @@ Vietjet has been recognized for the second consecutive year in the Top ESG Enter
 
 ## Related coverage
 
-- [Vietnam Airlines sẽ tiếp tục tăng vốn th&ecirc;m 13.000 tỉ đồng](https://thanhnien.vn/vietnam-airlines-se-tiep-tuc-tang-von-them-13000-ti-dong-185260628113123303.htm) — ThanhNien
 - [Vietnam Airlines dự kiến doanh thu gần 139.000 tỷ đồng](https://cafef.vn/vietnam-airlines-du-kien-doanh-thu-gan-139000-ty-dong-188260628113914966.chn) — CafeF
+- [Vietnam Airlines sẽ tiếp tục tăng vốn th&ecirc;m 13.000 tỉ đồng](https://thanhnien.vn/vietnam-airlines-se-tiep-tuc-tang-von-them-13000-ti-dong-185260628113123303.htm) — ThanhNien
 - [Vietnam Airlines đặt mục tiêu có lãi năm 2026 dù chi phí nhiên liệu tăng](https://tuoitre.vn/vietnam-airlines-dat-muc-tieu-co-lai-nam-2026-du-chi-phi-nhien-lieu-tang-100260628141041096.htm) — TuoiTre
-- [VietinBank 3 năm liên tiếp ghi tên trong Top đầu doanh nghiệp lớn nhất Đông Nam Á](https://cafef.vn/vietinbank-3-nam-lien-tiep-ghi-ten-trong-top-dau-doanh-nghiep-lon-nhat-dong-nam-a-188260702150200055.chn) — CafeF
+- [Phó Chủ tịch Ủy ban Chứng khoán: Thị trường chứng khoán Việt Nam tiếp tục mở rộng mạnh mẽ và ngày càng khẳng định vai trò quan trọng trong nền kinh tế](https://cafef.vn/pho-chu-tich-uy-ban-chung-khoan-thi-truong-chung-khoan-viet-nam-tiep-tuc-mo-rong-manh-me-va-ngay-cang-khang-dinh-vai-tro-quan-trong-trong-nen-kinh-te-188260723112638107.chn) — CafeF
 
 ---
 

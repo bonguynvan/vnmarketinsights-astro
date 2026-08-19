@@ -1,17 +1,23 @@
 ---
 title: "MSB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning MSB, with neutral summaries and source links."
-publishedDate: "2026-08-18"
-lastUpdated: "2026-08-18"
+publishedDate: "2026-08-19"
+lastUpdated: "2026-08-19"
 category: "Company"
 readingTime: 3
 ---
 
 # MSB
 
-Recent Vietnam market news mentioning **MSB** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **MSB** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**MSB ph&aacute;t triển nền tảng số thế hệ mới, đồng h&agrave;nh doanh nghiệp tăng trưởng**  
+
+MSB has developed a new digital platform for business banking called MSB Business Banking. The platform is built on Backbase technology and offers comprehensive financial management solutions with four key features: superior technology on an international platform, flexibility aligned with business operations, seamless all-in-one ecosystem, and cash flow optimization solutions. The company positions this as supporting business growth through digitalized transactions and integrated financial services.
+
+- Source: [ThanhNien](https://thanhnien.vn/msb-phat-trien-nen-tang-so-the-he-moi-dong-hanh-doanh-nghiep-tang-truong-185260819172106394.htm)
 
 **Th&ecirc;m ng&acirc;n h&agrave;ng giảm l&atilde;i suất cho vay**  
 
@@ -79,18 +85,12 @@ Multiple Vietnamese banks including Techcombank, VPBank, MB, HDBank, SHB, and MS
 
 - Source: [CafeF](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn)
 
-**Lợi nhuận nhiều ngân hàng tăng 30 - 50 lần trong 10 năm qua: Lộ diện nhà băng bứt tốc nhanh nhất**  
-
-Over the 2015-2025 period, several Vietnamese banks experienced significant profit growth, with SeABank, MSB, and LPBank showing the fastest expansion among the banking system. Many private banks are also narrowing the performance gap with leading competitors. The data reflects a 10-year trend of substantial earnings increases across multiple institutions.
-
-- Source: [CafeF](https://cafef.vn/loi-nhuan-nhieu-ngan-hang-tang-30-50-lan-trong-10-nam-qua-lo-dien-nha-bang-but-toc-nhanh-nhat-188260625071143743.chn)
-
 ## Related coverage
 
 - [Loạt ngân hàng sắp trả cổ tức, cổ phiếu thưởng](https://cafef.vn/loat-ngan-hang-sap-tra-co-tuc-co-phieu-thuong-188260812154912978.chn) — CafeF
 - [Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ](https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn) — CafeF
 - [Một ngân hàng sắp trả cổ tức 15%](https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn) — CafeF
-- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
+- [Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng](https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn) — CafeF
 
 ---
 

@@ -1,17 +1,23 @@
 ---
 title: "Techcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Techcombank, with neutral summaries and source links."
-publishedDate: "2026-08-18"
-lastUpdated: "2026-08-18"
+publishedDate: "2026-08-19"
+lastUpdated: "2026-08-19"
 category: "Company"
 readingTime: 3
 ---
 
 # Techcombank
 
-Recent Vietnam market news mentioning **Techcombank** (45 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Techcombank** (46 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Khối ngoại thận trọng trước kỳ rà soát bán niên của FTSE Russell**  
+
+Foreign investors are cautious ahead of FTSE Russell's semi-annual index review announcement. Foreign investors injected approximately 1,100 billion VND into the Vietnamese market today, focusing on large-cap stocks including HPG, VNM, PNJ, VIX, and TCB. Meanwhile, they sold over 1,800 billion VND, extending five consecutive sessions of net outflows, with daily selling values maintained around 2,000 billion VND per session.
+
+- Source: [VnExpress](https://vnexpress.net/khoi-ngoai-than-trong-truoc-ky-ra-soat-ban-nien-cua-ftse-russell-5110921.html)
 
 **Hơn 25 tỷ U-Point của Techcombank được quy đổi mỗi tháng**  
 
@@ -79,17 +85,11 @@ Techcombank held a promotional experience event for its OneU loyalty program at 
 
 - Source: [CafeF](https://cafef.vn/mot-ngay-trai-nghiem-techcombank-oneu-tai-buu-dien-tp-ho-chi-minh-188260730215601235.chn)
 
-**Đằng sau cuộc đua lãi suất huy động và cho vay**  
-
-Vietnamese banks are experiencing a lending boom that is outpacing deposit mobilization, forcing them to compete aggressively for deposits through interest rate increases and promotional programs. The gap between lending growth and deposit growth is widening, as shown in Q2 financial reports from multiple banks. Regulatory authorities are working to maintain stability in the interest rate environment to prevent upward pressure on the cost of capital for the broader economy.
-
-- Source: [CafeF](https://cafef.vn/dang-sau-cuoc-dua-lai-suat-huy-dong-va-cho-vay-188260729145321977.chn)
-
 ## Related coverage
 
 - [Đến chiều 21/7, đã có 10 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân](https://cafef.vn/den-chieu-21-7-da-co-10-ngan-hang-cong-bo-loi-nhuan-6-thang-techcombank-lai-hon-18500-ty-lo-dien-nha-bang-dan-dau-khoi-tu-nhan-188260721152834064.chn) — CafeF
-- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Hơn 12 tỷ cổ phiếu ngân hàng sắp được đưa ra thị trường: Techcombank và VPBank đứng đầu](https://cafef.vn/hon-12-ty-co-phieu-ngan-hang-sap-duoc-dua-ra-thi-truong-techcombank-va-vpbank-dung-dau-188260705214329976.chn) — CafeF
+- [Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Cập nhật Vietcombank, VietinBank, MB, SHB, Sacombank,...](https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-cap-nhat-vietcombank-vietinbank-mb-shb-sacombank-188260730152540587.chn) — CafeF
 - [Techcombank: Lợi nhuận Quý 2 lập kỷ lục mới, 6 tháng đầu năm đạt 18,5 nghìn tỷ đồng; thu nhập từ hoạt động dịch vụ tiếp tục bứt phá](https://cafef.vn/techcombank-loi-nhuan-quy-2-lap-ky-luc-moi-6-thang-dau-nam-dat-185-nghin-ty-dong-thu-nhap-tu-hoat-dong-dich-vu-tiep-tuc-but-pha-188260721145103928.chn) — CafeF
 
 ---

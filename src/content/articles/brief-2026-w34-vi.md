@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 34/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 34 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-18"
-lastUpdated: "2026-08-18"
+publishedDate: "2026-08-19"
+lastUpdated: "2026-08-19"
 category: "Market Brief"
-readingTime: 16
+readingTime: 15
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 34/2026
@@ -13,7 +13,7 @@ readingTime: 16
 
 # Tổng quan thị trường Việt Nam tuần này
 
-Thị trường Việt Nam tuần này chứng kiến những diễn biến đáng chú ý trên nhiều lĩnh vực: Thị trường chứng khoán được dự kiến nâng hạng từ thị trường cận biên lên thị trường mới nổi thứ cấp trong chỉ số FTSE Russell (hiệu lực từ 21/9), trong khi Highlands Coffee báo cáo EBITDA kỷ lục hơn 1 tỷ peso trong quý II. Trên lĩnh vực pháp lý, các cơ quan chức năng xử lý những vấn đề an ninh thông tin (gần 3,9 triệu thẻ tín dụng bị đánh cắp), nợ thuế tại các doanh nghiệp lớn và nhũng nhiễu trong quá trình thu thuế, đồng thời phát hiện vi phạm trong tuân thủ thuế của hoạt động kinh doanh online.
+Thị trường chứng khoán ghi nhận các giao dịch của nhà đầu tư nước ngoài, trong đó Vanguard và nhóm Sprucegrove Investment Management tăng sở hữu cổ phiếu tại các công ty Việt Nam, đồng thời thị trường dự kiến được nâng hạng trong chỉ số FTSE Russell. Trên lĩnh vực pháp lý và kinh tế vĩ mô, Nhà nước triển khai các biện pháp cải cách bất động sản nhằm kiểm soát giá, trong khi các dự án hạ tầng trọng điểm như Quốc lộ 1 và Cầu Trần Hưng Đạo được tăng tốc, song các vấn đề liên quan đến tuân thủ thuế và nợ công ty vẫn được quan tâm.
 
 ## Logistics
 
@@ -26,12 +26,11 @@ Cầu Trần Hưng Đạo vượt sông Hồng trị giá hơn 16.000 tỷ đồ
 
 ## Pháp lý
 
-**Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin**  
+**Thủ tướng: Nhà nước định giá để giảm chi phí nhà, đất**  
 
-Gần 3,9 triệu thẻ tín dụng bị đánh cắp thông tin, với hơn 2,5 triệu tin nhắn SMS độc hại được phát tán trong tháng 5 và 6. Thiệt hại ước tính từ vụ đánh cắp thông tin chứng chỉ này lên tới 1,9 tỷ USD. Lĩnh vực ngân hàng đã xác định đây là một sự cố an ninh mạng quan trọng đòi hỏi sự chú ý ngay lập tức.
+Thủ tướng Lê Minh Hưng cho biết Nhà nước sẽ định giá đất dựa trên cơ sở dữ liệu và đơn giản hóa thủ tục để giảm chi phí đầu vào và kiểm soát giá nhà, đất. Ngày 19/8, các đại biểu Quốc hội thảo luận về định hướng sửa đổi ba luật liên quan thị trường bất động sản gồm Luật Đất đai, Luật Nhà ở và Luật Kinh doanh bất động sản. Thủ tướng Lê Minh Hưng dành gần 20 phút để lắng nghe ý kiến các đại biểu từ đoàn Hải Phòng và Quảng Ngãi.
 
-- Số liệu chính: Credit cards with stolen information: 3.9 million; Malicious SMS messages distributed: 2.5 million messages; Estimated damages: 1.9 billion USD; Time period: May and June
-- Nguồn: [CafeF](https://cafef.vn/gan-39-trieu-the-tin-dung-bi-danh-cap-thong-tin-188260810162447443.chn)
+- Nguồn: [VnExpress](https://vnexpress.net/thu-tuong-nha-nuoc-dinh-gia-de-giam-chi-phi-nha-dat-5110957.html)
 
 **Mỹ sắp áp thuế 50% với hàng loạt sản phẩm Canada**  
 
@@ -74,31 +73,27 @@ Một vụ thả diều gây gián đoạn hoạt động bay tại sân bay Tâ
 - Số liệu chính: Số chuyến bay bị ảnh hưởng: 21 chuyến
 - Nguồn: [TuoiTre](https://tuoitre.vn/quan-ly-bay-thong-tin-vu-tha-dieu-khien-21-chuyen-bay-bi-anh-huong-o-tan-son-nhat-100260814153503922.htm)
 
-**Khẩn trương rà soát toàn diện Luật Đất đai 2024 và văn bản liên quan**  
+**Hà Nội sẽ quy định cụ thể các khoản thu từ khai thác giá trị tăng thêm trong khu vực TOD**  
 
-Chính phủ vừa ban hành Nghị quyết số 229/NQ-CP thực hiện Nghị quyết số 21-NQ/TW của Ban Chấp hành Trung ương Đảng về hướng sửa đổi Luật Đất đai 2024 và các luật liên quan. Kế hoạch nhằm đảm bảo việc xây dựng, sửa đổi Luật Đất đai được thực hiện đồng bộ, thống nhất và kế thừa các quy định còn phù hợp. Sáng kiến này thể hiện nỗ lực rà soát toàn diện để cập nhật khung pháp lý về đất đai.
+Hà Nội sẽ ban hành các quy định cụ thể về thu hồi giá trị tăng thêm từ khai thác trong các khu vực TOD (phát triển hướng giao thông). Các khoản thu bao gồm hệ số lợi thế TOD, tỷ lệ khai thác tài sản hạ tầng đường sắt địa phương, phí cải thiện hạ tầng và phí kết nối giao thông công cộng. UBND TP. Hà Nội vừa ban hành Kế hoạch thực hiện Nghị quyết số 67/2026/NQ-HĐND nhằm cụ thể hóa và triển khai các cơ chế, chính sách đặc thù.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/khan-truong-ra-soat-toan-dien-luat-dat-dai-2024-va-van-ban-lien-quan.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/ha-noi-se-quy-dinh-cu-the-cac-khoan-thu-tu-khai-thac-gia-tri-tang-them-trong-khu-vuc-tod.htm)
 
-**Nhà nước điều tiết, kiểm soát và quyết định giá đất theo Nghị quyết 21-NQ/TW**  
+**Thủ tướng yêu cầu hoàn thiện 12 dự án luật, tháo gỡ điểm nghẽn cho đầu tư, kinh doanh**  
 
-Nghị quyết số 21-NQ/TW ngày 28/7/2026 từ Hội nghị lần thứ ba Ban Chấp hành Trung ương Đảng khóa XIV quy định về vai trò của Nhà nước trong định giá đất, tài chính đất đai và điều tiết địa tô chênh lệch. Giá đất đóng vị trí trung tâm trong quản lý đất đai và vận hành thị trường bất động sản, ảnh hưởng trực tiếp đến chi phí sản xuất, mức bồi thường thu hồi đất, nguồn thu ngân sách và ổn định thị trường. Hiểu đúng tư duy về vai trò của Nhà nước là cần thiết để thực hiện chính sách hiệu quả.
+Thủ tướng Chính phủ chủ trì cuộc họp chuyên đề xây dựng pháp luật với 12 dự án luật và nghị quyết dự kiến trình Quốc hội xem xét tại kỳ họp thứ 2. Thủ tướng nhấn mạnh sự cần thiết phải tháo gỡ những điểm nghẽn trong quy định pháp luật và loại bỏ những trở ngại đối với đầu tư và kinh doanh. Chính phủ và Quốc hội đã phối hợp chặt chẽ trong việc thực hiện các chủ trương lớn và giải quyết các vướng mắc quy định.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/nha-nuoc-dieu-tiet-kiem-soat-va-quyet-dinh-gia-dat-theo-nghi-quyet-21-nqtw.htm)
-
-**Định hướng xử lý các vấn đề về định giá, thu hồi và chuyển mục đích sử dụng đất theo Nghị quyết 21-NQ/TW**  
-
-Nghị quyết 21-NQ/TW ngày 28/7/2026 xác định và đưa ra định hướng xử lý các vấn đề liên quan đến định giá đất, thu hồi đất và bồi thường, chuyển mục đích sử dụng đất, và phương thức giao đất, cho thuê đất sau khi Luật Đất đai năm 2024 có hiệu lực. Nghị quyết này giải quyết các điểm nghẽn còn tồn đọng trong quản lý đất đai chưa được xử lý triệt để sau khi luật mới đi vào áp dụng. Thể chế hóa đúng những định hướng này được coi là yếu tố quyết định đối với hiệu quả thực thi của Luật Đất đai (sửa đổi).
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/dinh-huong-xu-ly-cac-van-de-ve-dinh-gia-thu-hoi-va-chuyen-muc-dich-su-dung-dat-theo-nghi-quyet-21-nqtw.htm)
-
-**Hoàn thiện Nghị quyết, tạo cơ chế xử lý phù hợp để khuyến khích đổi mới sáng tạo**  
-
-Ngày 17/8, Ủy ban Thường vụ Quốc hội cho ý kiến về dự thảo Nghị quyết của Quốc hội về cơ chế, chính sách đặc thù để xử lý vi phạm pháp luật liên quan kinh tế nhà nước, kinh tế tư nhân và ứng dụng khoa học, công nghệ, đổi mới sáng tạo. Bộ trưởng Bộ Công an khẳng định các đại biểu Quốc hội thống nhất cao về sự cần thiết ban hành Nghị quyết này.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/hoan-thien-nghi-quyet-tao-co-che-xu-ly-phu-hop-de-khuyen-khich-doi-moi-sang-tao.htm)
+- Số liệu chính: Số dự án luật và nghị quyết: 12
+- Nguồn: [VnEconomy](https://vneconomy.vn/thu-tuong-yeu-cau-hoan-thien-12-du-an-luat-thao-go-diem-nghen-cho-dau-tu-kinh-doanh.htm)
 
 ## Chứng khoán
+
+**'Cá mập' Vanguard mua cổ phiếu PNJ**  
+
+Vanguard, công ty quản lý tài sản lớn thứ hai thế giới, đã mua thêm hơn 1,5 triệu cổ phiếu PNJ, nâng tỷ lệ sở hữu lên 4,3%. Nhóm nhà đầu tư nước ngoài do Sprucegrove Investment Management đại diện vừa thông báo trở thành cổ đông lớn tại Công ty cổ phần Vàng bạc đá quý Phú Nhuận (PNJ). Trong giai đoạn 5-14/8, nhóm này mua thêm khoảng 1,63 triệu cổ phiếu, nâng tổng lượng sở hữu lên 25,81 triệu đơn vị, chiếm 5,04% vốn PNJ.
+
+- Số liệu chính: Vanguard additional shares purchased: 1.5 million shares; Vanguard ownership stake: 4.3 %; Foreign investor group additional shares purchased (Aug 5-14): 1.63 million shares; Foreign investor group total holdings: 25.81 million shares
+- Nguồn: [VnExpress](https://vnexpress.net/ca-map-vanguard-mua-co-phieu-pnj-5110874.html)
 
 **Có nên gom cổ phiếu trước kỳ rà soát FTSE?**  
 
@@ -106,20 +101,6 @@ Thị trường chứng khoán Việt Nam dự kiến được nâng từ thị 
 
 - Số liệu chính: Ngày công bố danh mục chính thức: 21/8; Ngày hiệu lực thay đổi: 21/9
 - Nguồn: [VnExpress](https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html)
-
-**'Sức kiếm tiền' của Highlands Coffee đạt kỷ lục**  
-
-EBITDA của Highlands Coffee đạt mức kỷ lục hơn 1 tỷ peso (tương đương gần 440 tỷ đồng) trong quý II theo công bố của công ty mẹ Jollibee Foods Corporation. Con số này tăng mạnh hơn 70% so với cùng kỳ năm trước. Đây là mức EBITDA cao nhất mà chuỗi cà phê này từng đạt được.
-
-- Số liệu chính: EBITDA quý II: hơn 1 tỷ peso peso; EBITDA quý II (quy đổi): gần 440 tỷ VND; Tăng trưởng EBITDA so với quý II năm trước: hơn 70% %
-- Nguồn: [VnExpress](https://vnexpress.net/suc-kiem-tien-cua-highlands-coffee-dat-ky-luc-5109926.html)
-
-**Công ty của Warren Buffett rót thêm hơn 10 tỷ USD vào Alphabet**  
-
-Berkshire Hathaway gần như tăng gấp đôi khoản đầu tư vào Alphabet trong quý II, nâng từ 57,8 triệu cổ phiếu lên khoảng 106 triệu cổ phiếu tính đến ngày 30/6. Tổng giá trị vị thế Alphabet của công ty là khoảng 37,8 tỷ USD, bao gồm khoản đầu tư 10 tỷ USD được công bố vào tháng 6 nhằm hỗ trợ mở rộng hạ tầng trí tuệ nhân tạo của Google. Berkshire đã nộp thông tin này cho các cơ quan quản lý Mỹ vào ngày 15 tháng 8.
-
-- Số liệu chính: Berkshire Hathaway holdings in Alphabet (shares): approximately 106 million shares; Previous quarter Alphabet holdings: 57.8 million shares; Total Alphabet position value: 37.8 billion USD; Investment in Google AI infrastructure: 10 billion USD
-- Nguồn: [VnExpress](https://vnexpress.net/cong-ty-cua-warren-buffett-rot-them-hon-10-ty-usd-vao-alphabet-5109615.html)
 
 **Đất nền, căn hộ &#039;rủ nhau&#039; giảm gi&aacute;**  
 
@@ -135,14 +116,27 @@ VN-Index giảm 36,55 điểm tương đương 2,07%, xuống 1.729,08 điểm v
 - Số liệu chính: VN-Index change: -36.55 points; VN-Index change percentage: -2.07 %; VN-Index closing level: 1,729.08 points; HNX-Index change: -3.35 points
 - Nguồn: [TuoiTre](https://tuoitre.vn/them-mot-phien-giao-dich-buon-cua-nha-dau-tu-vn-index-giam-tiep-36-diem-100260814153110237.htm)
 
+**Dòng vốn đầu cơ thu hẹp, bất động sản phía Nam chuyển hướng về nhu cầu thực**  
+
+Ngày 18/8, Tạp chí Diễn đàn Doanh nghiệp phối hợp cùng Hội Môi giới Bất động sản Việt Nam và Hiệp hội Bất động sản TP.Hồ Chí Minh (HoREA) tổ chức diễn đàn thảo luận cơ hội tăng trưởng của thị trường bất động sản phía Nam. Phó Chủ tịch VCCI cho rằng thị trường bất động sản sẽ bước vào chu kỳ phát triển hoàn toàn mới từ nửa đầu năm 2026, với dòng vốn đầu cơ suy giảm và chuyển hướng sang chiến lược đầu tư giá trị.
+
+- Nguồn: [VnEconomy](https://vneconomy.vn/dong-von-dau-co-thu-hep-bat-dong-san-phia-nam-chuyen-huong-ve-nhu-cau-thuc.htm)
+
 ## Kinh tế vĩ mô
 
-**Kinh tế Nhật Bản tăng trưởng chậm hơn dự báo**  
+**Ông Trump hoãn áp thuế 50% lên hàng hóa Canada**  
 
-GDP quý II của Nhật Bản tăng trưởng 1,1% (hiệu chỉnh theo cơ sở năm), chậm hơn mức 1,9% của quý I và thấp hơn dự báo 2% của Reuters. Sự giảm tốc này do chi tiêu hộ gia đình và đầu tư doanh nghiệp yếu hơn. Nhà kinh tế cao cấp Kazutaka Maeda nhận định rằng mặc dù tăng trưởng vẫn dương nhưng các chi tiết cơ bản yếu hơn kỳ vọng.
+Mỹ tạm hoãn áp mức thuế 50% lên gần 20 tỷ USD hàng hóa Canada trong 3 ngày sau khi hai nước đạt được tiến triển trong đàm phán thương mại. Tổng thống Trump thông báo quyết định hoãn vào tối ngày 18/8, cho biết quyết định dựa trên tiến triển của thỏa thuận và sự hoàn tất các văn bản. Thủ tướng Canada phản ứng trong vòng một giờ sau khi Trump đưa ra thông báo.
 
-- Số liệu chính: GDP quý II tăng trưởng: 1.1% %; GDP quý I tăng trưởng: 1.9% %; Dự báo GDP quý II (Reuters): 2% %
-- Nguồn: [VnExpress](https://vnexpress.net/kinh-te-nhat-ban-tang-truong-cham-hon-du-bao-5110017.html)
+- Số liệu chính: Tariff rate postponed: 50% %; Value of Canadian goods subject to tariff: nearly 20 billion USD; Postponement duration: 3 days
+- Nguồn: [VnExpress](https://vnexpress.net/ong-trump-hoan-ap-thue-50-len-hang-hoa-canada-5110936.html)
+
+**Tái định hình mô hình tăng trưởng: Từ “nhiều hơn” sang “tốt hơn”**  
+
+Việt Nam đang bước vào một giai đoạn phát triển với yêu cầu cao hơn. Mục tiêu tăng trưởng GDP trên 10%/năm trong giai đoạn 2026–2030 đặt ra câu hỏi không chỉ về tốc độ tăng trưởng mà còn về cơ chế kinh tế sẽ tạo ra tốc độ đó. Theo ước tính của Ban Chính sách, chiến lược Trung ương, để đạt tăng trưởng trên 10%/năm, TFP cần tăng khoảng 5,5%/năm, trong khi giai đoạn 2021–2025 chỉ đạt khoảng 2,92%/năm.
+
+- Số liệu chính: GDP growth target: above 10% per year %/year; Required TFP growth for 2026–2030: 5.5 %/year; Actual TFP growth in 2021–2025: 2.92 %/year
+- Nguồn: [VnEconomy](https://vneconomy.vn/tai-dinh-hinh-mo-hinh-tang-truong-tu-nhieu-hon-sang-tot-hon.htm)
 
 **9,5 tỉ USD thay đổi diện mạo đ&ocirc; thị TP.HCM**  
 
@@ -163,6 +157,13 @@ Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt l�
 
 - Nguồn: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn)
 
+**Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay**  
+
+Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.
+
+- Số liệu chính: Interest rate reduction range: 1-2.5 %/năm; Date of PM meeting with banking sector: 13/8 date
+- Nguồn: [CafeF](https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn)
+
 **Ngân hàng khát vốn, nhưng có nhà băng hút tiền cực mạnh, dư tới 240.000 tỷ đồng**  
 
 Tính đến ngày 30/6/2026, tổng tiền gửi khách hàng tại 30 ngân hàng thương mại trong nước đạt khoảng 16,02 triệu tỷ đồng, trong khi tổng dư nợ cho vay lên tới 17,04 triệu tỷ đồng, chênh lệch khoảng 1,02 triệu tỷ đồng. Đến cuối tháng 7/2026, dư nợ tín dụng toàn nền kinh tế đạt gần 20,3 triệu tỷ đồng, tăng 8,98% so với cuối năm 2025, trong khi huy động vốn tăng 5,75%. Tín dụng tăng nhanh hơn huy động vốn cho thấy áp lực thansuất tại hệ thống ngân hàng.
@@ -177,11 +178,11 @@ Dự trữ vàng của Nga đã giảm xuống mức thấp nhất trong 6 năm,
 - Số liệu chính: Gold reserves at start of year: 74.8 million ounces; Gold reserves early July 2026: 73.4 million ounces; Total decline in 6 months: 43.5 tonnes; Steepest monthly decline (May): 500,000 ounces
 - Nguồn: [VietnamNet](https://vietnamnet.vn/nga-ban-ra-manh-du-tru-vang-thap-nhat-6-nam-chuyen-gi-dang-xay-ra-2545171.html)
 
-**Chuyến thăm Australia và New Zealand của Tổng Bí thư, Chủ tịch nước Tô Lâm: Từ củng cố quan hệ đến chủ động kiến tạo không gian phát triển**  
+**Nâng năng suất, mở rộng dư địa tăng trưởng**  
 
-Chuyến thăm của Tổng Bí thư, Chủ tịch nước Tô Lâm diễn ra theo lời mời của Toàn quyền Australia Sam Mostyn và Toàn quyền New Zealand Dame Cindy Kiro. Đây là chuyến thăm cấp Nhà nước đầu tiên của Tô Lâm tới hai quốc gia châu Đại Dương trên cương vị người đứng đầu Đảng và Nhà nước. Chuyến thăm diễn ra vào thời điểm quan trọng khi quan hệ Việt Nam - Australia và Việt Nam - New Zealand đã được nâng lên Đối tác Chiến lược Toàn diện.
+Bài viết thảo luận về việc tái định hình mô hình tăng trưởng kinh tế thông qua năng suất số, khai thác dữ liệu, AI, công nghệ và tri thức để tạo ra năng lực sản xuất mới. Tăng trưởng xanh mở ra không gian phát triển mới bằng cách tạo ra nhiều giá trị hơn với ít năng lượng, tài nguyên và carbon, đồng thời giảm tổn thất do biến đổi khí hậu. Thể chế kiến tạo tạo điều kiện để các năng lực này được phổ cập, thương mại hóa và chuyển hóa thành kết quả tăng trưởng.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/chuyen-tham-australia-va-new-zealand-cua-tong-bi-thu-chu-tich-nuoc-to-lam-tu-cung-co-quan-he-den-chu-dong-kien-tao-khong-gian-phat-trien.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/nang-nang-suat-mo-rong-du-dia-tang-truong.htm)
 
 ---
 
