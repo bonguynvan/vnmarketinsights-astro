@@ -1,17 +1,23 @@
 ---
 title: "VinFast — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinFast, with neutral summaries and source links."
-publishedDate: "2026-08-19"
-lastUpdated: "2026-08-19"
+publishedDate: "2026-08-20"
+lastUpdated: "2026-08-20"
 category: "Company"
 readingTime: 3
 ---
 
 # VinFast
 
-Recent Vietnam market news mentioning **VinFast** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **VinFast** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Xe điện mini &#039;thống lĩnh&#039; đường phố Việt**  
+
+Mini electric vehicles, particularly VinFast VF 3 and Minio Green models, have become increasingly visible on Vietnamese streets in Ho Chi Minh City and Hanoi in recent times. The proliferation of these compact, stylishly-colored vehicles has attracted attention from foreign tourists observing their widespread adoption. The trend reflects growing consumer interest in small electric vehicles for urban mobility.
+
+- Source: [ThanhNien](https://thanhnien.vn/xe-dien-mini-thong-linh-duong-pho-viet-185260820170051928.htm)
 
 **Sân vận động lớn nhất hành tinh của Vingroup chính thức mang tên VinFast - Trống Đồng**  
 
@@ -64,9 +70,9 @@ Thailand recorded 57,147 pure electric vehicles in Q1 2026, followed by Vietnam 
 ## Related coverage
 
 - [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
-- [Siêu dự án LRT 9.000 tỷ tại Phú Quốc: Lộ trình “nghẹt thở” vượt ải thiên tai, sẵn sàng đưa đoàn tàu đầu tiên chạy thử vào giữa năm 2027](https://cafef.vn/sieu-du-an-lrt-9000-ty-tai-phu-quoc-lo-trinh-nghet-tho-vuot-ai-thien-tai-san-sang-dua-doan-tau-dau-tien-chay-thu-vao-giua-nam-2027-188260807114249175.chn) — CafeF
-- [Cuộc chạy đua ng&agrave;y đ&ecirc;m của 600 người ở c&ocirc;ng trường LRT Ph&uacute; Quốc](https://thanhnien.vn/cuoc-chay-dua-ngay-dem-cua-600-nguoi-o-cong-truong-lrt-phu-quoc-185260817150900374.htm) — ThanhNien
 - [Yêu cầu hoàn thiện hạ tầng sạc điện tại các trạm dừng nghỉ](https://cafef.vn/yeu-cau-hoan-thien-ha-tang-sac-dien-tai-cac-tram-dung-nghi-188260807144313927.chn) — CafeF
+- [Siết an to&agrave;n hạ tầng trạm sạc xe điện](https://thanhnien.vn/siet-an-toan-ha-tang-tram-sac-xe-dien-185260816195605584.htm) — ThanhNien
+- [Cuộc chạy đua ng&agrave;y đ&ecirc;m của 600 người ở c&ocirc;ng trường LRT Ph&uacute; Quốc](https://thanhnien.vn/cuoc-chay-dua-ngay-dem-cua-600-nguoi-o-cong-truong-lrt-phu-quoc-185260817150900374.htm) — ThanhNien
 
 ---
 

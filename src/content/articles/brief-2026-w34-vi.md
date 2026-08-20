@@ -1,8 +1,8 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 34/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 34 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-19"
-lastUpdated: "2026-08-19"
+publishedDate: "2026-08-20"
+lastUpdated: "2026-08-20"
 category: "Market Brief"
 readingTime: 15
 ---
@@ -11,9 +11,9 @@ readingTime: 15
 
 ## Tổng quan
 
-# Tổng quan thị trường Việt Nam tuần này
+# Tổng quan tin tức thị trường Việt Nam tuần này
 
-Thị trường chứng khoán ghi nhận các giao dịch của nhà đầu tư nước ngoài, trong đó Vanguard và nhóm Sprucegrove Investment Management tăng sở hữu cổ phiếu tại các công ty Việt Nam, đồng thời thị trường dự kiến được nâng hạng trong chỉ số FTSE Russell. Trên lĩnh vực pháp lý và kinh tế vĩ mô, Nhà nước triển khai các biện pháp cải cách bất động sản nhằm kiểm soát giá, trong khi các dự án hạ tầng trọng điểm như Quốc lộ 1 và Cầu Trần Hưng Đạo được tăng tốc, song các vấn đề liên quan đến tuân thủ thuế và nợ công ty vẫn được quan tâm.
+Thị trường Việt Nam ghi nhận những diễn biến đáng chú ý trên nhiều lĩnh vực: Chính phủ đề xuất giảm 30% thuế cho các doanh nghiệp và cá nhân kinh doanh có doanh thu dưới 10 tỷ đồng trong 2026-2027, đồng thời đầu tư hơn 6.670 tỉ đồng nâng cấp Quốc lộ 1 tại TP. HCM. Các nhà đầu tư nước ngoài tiếp tục quan tâm, với Vanguard nâng tỷ lệ sở hữu tại PNJ lên 4,3%, trong khi những vấn đề liên quan tuân thủ thuế trong kinh doanh online đang được các cơ quan chức năng tập trung xử lý.
 
 ## Logistics
 
@@ -26,18 +26,12 @@ Cầu Trần Hưng Đạo vượt sông Hồng trị giá hơn 16.000 tỷ đồ
 
 ## Pháp lý
 
-**Thủ tướng: Nhà nước định giá để giảm chi phí nhà, đất**  
+**Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ**  
 
-Thủ tướng Lê Minh Hưng cho biết Nhà nước sẽ định giá đất dựa trên cơ sở dữ liệu và đơn giản hóa thủ tục để giảm chi phí đầu vào và kiểm soát giá nhà, đất. Ngày 19/8, các đại biểu Quốc hội thảo luận về định hướng sửa đổi ba luật liên quan thị trường bất động sản gồm Luật Đất đai, Luật Nhà ở và Luật Kinh doanh bất động sản. Thủ tướng Lê Minh Hưng dành gần 20 phút để lắng nghe ý kiến các đại biểu từ đoàn Hải Phòng và Quảng Ngãi.
+Chính phủ đề xuất giảm 30% thuế cho cá nhân kinh doanh và doanh nghiệp có doanh thu không quá 10 tỷ đồng mỗi năm cho các kỳ tính thuế 2026 và 2027. Chiều 20/8, Ủy ban Thường vụ Quốc hội xem xét dự án Nghị quyết về giảm thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp. Bộ trưởng Tài chính Ngô Văn Tuấn đã trình bày tờ trình dự án Nghị quyết thay mặt Chính phủ.
 
-- Nguồn: [VnExpress](https://vnexpress.net/thu-tuong-nha-nuoc-dinh-gia-de-giam-chi-phi-nha-dat-5110957.html)
-
-**Mỹ sắp áp thuế 50% với hàng loạt sản phẩm Canada**  
-
-Từ ngày 19/8, Mỹ sẽ áp thuế nhập khẩu 50% với hàng loạt sản phẩm Canada, bao gồm rượu vang, đồ gỗ nội thất, xi măng, quần áo và cần câu. Tổng thống Mỹ đã phê duyệt các biện pháp thuế này theo Điều 338 của Đạo luật Thuế năm 1930, cho phép áp thuế tối đa 50% với hàng nhập khẩu từ quốc gia có hành vi phân biệt đối xử với hàng hóa Mỹ. Theo Cục Thống kê Dân số Mỹ, các thuế mới sẽ áp dụng với gần 20 tỷ USD hàng hóa Canada.
-
-- Số liệu chính: Tariff rate on Canadian goods: 50% %; Effective date: August 19; Value of affected Canadian goods: 20 billion USD
-- Nguồn: [VnExpress](https://vnexpress.net/my-sap-ap-thue-50-voi-hang-loat-san-pham-canada-5110419.html)
+- Số liệu chính: Tax reduction percentage: 30%; Revenue threshold: 10 billion VND; Tax periods covered: 2026, 2027
+- Nguồn: [VnExpress](https://vnexpress.net/de-xuat-giam-30-thue-cho-ca-nhan-doanh-nghiep-doanh-thu-khong-qua-10-ty-5111385.html)
 
 **&Ocirc;ng L&ecirc; Viết Hải - Chủ tịch HĐQT HBC c&oacute; thể sẽ bị tạm ho&atilde;n xuất cảnh**  
 
@@ -73,20 +67,26 @@ Một vụ thả diều gây gián đoạn hoạt động bay tại sân bay Tâ
 - Số liệu chính: Số chuyến bay bị ảnh hưởng: 21 chuyến
 - Nguồn: [TuoiTre](https://tuoitre.vn/quan-ly-bay-thong-tin-vu-tha-dieu-khien-21-chuyen-bay-bi-anh-huong-o-tan-son-nhat-100260814153503922.htm)
 
-**Hà Nội sẽ quy định cụ thể các khoản thu từ khai thác giá trị tăng thêm trong khu vực TOD**  
+**Kiểm soát chi phí đầu vào để kiểm soát giá nhà, đất và giá sản phẩm đầu ra**  
 
-Hà Nội sẽ ban hành các quy định cụ thể về thu hồi giá trị tăng thêm từ khai thác trong các khu vực TOD (phát triển hướng giao thông). Các khoản thu bao gồm hệ số lợi thế TOD, tỷ lệ khai thác tài sản hạ tầng đường sắt địa phương, phí cải thiện hạ tầng và phí kết nối giao thông công cộng. UBND TP. Hà Nội vừa ban hành Kế hoạch thực hiện Nghị quyết số 67/2026/NQ-HĐND nhằm cụ thể hóa và triển khai các cơ chế, chính sách đặc thù.
+Thủ tướng Chính phủ cho rằng giá đất cao là vấn đề lớn vì trở thành chi phí đầu vào của các dự án và nền kinh tế, sau đó được chuyển vào giá sản phẩm. Ngày 19/8, Quốc hội thảo luận về hướng chính sách sửa đổi Luật Đất đai 2024, Luật Nhà ở 2023 và Luật Kinh doanh bất động sản.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/ha-noi-se-quy-dinh-cu-the-cac-khoan-thu-tu-khai-thac-gia-tri-tang-them-trong-khu-vuc-tod.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/kiem-soat-chi-phi-dau-vao-de-kiem-soat-gia-nha-dat-va-gia-san-pham-dau-ra.htm)
 
-**Thủ tướng yêu cầu hoàn thiện 12 dự án luật, tháo gỡ điểm nghẽn cho đầu tư, kinh doanh**  
+**Tránh tạo thêm một “siêu chương trình” mục tiêu quốc gia cồng kềnh, thiếu thực chất**  
 
-Thủ tướng Chính phủ chủ trì cuộc họp chuyên đề xây dựng pháp luật với 12 dự án luật và nghị quyết dự kiến trình Quốc hội xem xét tại kỳ họp thứ 2. Thủ tướng nhấn mạnh sự cần thiết phải tháo gỡ những điểm nghẽn trong quy định pháp luật và loại bỏ những trở ngại đối với đầu tư và kinh doanh. Chính phủ và Quốc hội đã phối hợp chặt chẽ trong việc thực hiện các chủ trương lớn và giải quyết các vướng mắc quy định.
+Sáng 20/8, Quốc hội thảo luận về chủ trương hợp nhất 4 Chương trình mục tiêu quốc gia thành 1 Chương trình mục tiêu quốc gia về phát triển văn hóa - xã hội, nông thôn, dân tộc và miền núi giai đoạn 2026-2035. Chương trình này được đề xuất bởi Chính phủ nhằm tích hợp các chương trình về phát triển văn hóa, hiện đại hóa giáo dục, xây dựng nông thôn mới và các lĩnh vực liên quan. Cuộc thảo luận phản ánh lo ngại về việc tránh tạo ra một \"siêu chương trình\" cồng kềnh, thiếu thực chất trong thực hiện.
 
-- Số liệu chính: Số dự án luật và nghị quyết: 12
-- Nguồn: [VnEconomy](https://vneconomy.vn/thu-tuong-yeu-cau-hoan-thien-12-du-an-luat-thao-go-diem-nghen-cho-dau-tu-kinh-doanh.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/tranh-tao-them-mot-sieu-chuong-trinh-muc-tieu-quoc-gia-cong-kenh-thieu-thuc-chat.htm)
 
 ## Chứng khoán
+
+**CEO hãng robot hình người hàng đầu Trung Quốc thành tỷ phú**  
+
+CEO công ty sản xuất robot hình người hàng đầu Trung Quốc Unitree là Wang Xingxing đã trở thành tỷ phú khi công ty chào sàn Thượng Hải vào ngày 19/8. Cổ phiếu Unitree tăng lên đến 629% trong phiên giao dịch đầu tiên. Tài sản ròng của Wang đạt khoảng 16 tỷ USD, đưa ông vào hàng những tỷ phú công nghệ giàu nhất Trung Quốc.
+
+- Số liệu chính: Stock price increase on first trading day: 629% percent; Net worth of Wang Xingxing: 16 billion USD; IPO date: August 19 date
+- Nguồn: [VnExpress](https://vnexpress.net/ceo-hang-robot-hinh-nguoi-hang-dau-trung-quoc-thanh-ty-phu-5111262.html)
 
 **'Cá mập' Vanguard mua cổ phiếu PNJ**  
 
@@ -94,13 +94,6 @@ Vanguard, công ty quản lý tài sản lớn thứ hai thế giới, đã mua 
 
 - Số liệu chính: Vanguard additional shares purchased: 1.5 million shares; Vanguard ownership stake: 4.3 %; Foreign investor group additional shares purchased (Aug 5-14): 1.63 million shares; Foreign investor group total holdings: 25.81 million shares
 - Nguồn: [VnExpress](https://vnexpress.net/ca-map-vanguard-mua-co-phieu-pnj-5110874.html)
-
-**Có nên gom cổ phiếu trước kỳ rà soát FTSE?**  
-
-Thị trường chứng khoán Việt Nam dự kiến được nâng từ thị trường cận biên lên thị trường mới nổi thứ cấp trong chỉ số FTSE Russell. FTSE Russell sẽ công bố danh mục chính thức cho kỳ rà soát bán niên vào ngày 21/8, hiệu lực từ ngày 21/9. Giải ngân của các dòng vốn ngoại theo chỉ số FTSE được thực hiện theo nhiều giai đoạn.
-
-- Số liệu chính: Ngày công bố danh mục chính thức: 21/8; Ngày hiệu lực thay đổi: 21/9
-- Nguồn: [VnExpress](https://vnexpress.net/co-nen-gom-co-phieu-truoc-ky-ra-soat-ftse-5110436.html)
 
 **Đất nền, căn hộ &#039;rủ nhau&#039; giảm gi&aacute;**  
 
@@ -116,13 +109,21 @@ VN-Index giảm 36,55 điểm tương đương 2,07%, xuống 1.729,08 điểm v
 - Số liệu chính: VN-Index change: -36.55 points; VN-Index change percentage: -2.07 %; VN-Index closing level: 1,729.08 points; HNX-Index change: -3.35 points
 - Nguồn: [TuoiTre](https://tuoitre.vn/them-mot-phien-giao-dich-buon-cua-nha-dau-tu-vn-index-giam-tiep-36-diem-100260814153110237.htm)
 
-**Dòng vốn đầu cơ thu hẹp, bất động sản phía Nam chuyển hướng về nhu cầu thực**  
-
-Ngày 18/8, Tạp chí Diễn đàn Doanh nghiệp phối hợp cùng Hội Môi giới Bất động sản Việt Nam và Hiệp hội Bất động sản TP.Hồ Chí Minh (HoREA) tổ chức diễn đàn thảo luận cơ hội tăng trưởng của thị trường bất động sản phía Nam. Phó Chủ tịch VCCI cho rằng thị trường bất động sản sẽ bước vào chu kỳ phát triển hoàn toàn mới từ nửa đầu năm 2026, với dòng vốn đầu cơ suy giảm và chuyển hướng sang chiến lược đầu tư giá trị.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/dong-von-dau-co-thu-hep-bat-dong-san-phia-nam-chuyen-huong-ve-nhu-cau-thuc.htm)
-
 ## Kinh tế vĩ mô
+
+**Áp lực “giải” bài toán huy động 450 tỷ USD cho phát triển hạ tầng**  
+
+Việt Nam đang đối mặt áp lực lớn để huy động 450 tỷ USD cho phát triển hạ tầng trong giai đoạn 2026-2030. Theo các chuyên gia tham gia hội thảo do VIS Rating, CGIF và Moody's Ratings đồng tổ chức vào ngày 20 tháng 8, đất nước phải nén một khối lượng đầu tư hạ tầng khổng lồ vào chỉ năm năm. Trong 450 tỷ USD cần thiết, dự kiến 150 tỷ USD từ một nguồn cụ thể, mặc dù đoạn trích chưa hoàn chỉnh.
+
+- Số liệu chính: Infrastructure funding requirement (2026-2030): 450 billion USD USD; Expected funding from partial source: 150 billion USD USD; Timeframe for infrastructure investment compression: 5 years years
+- Nguồn: [VnEconomy](https://vneconomy.vn/ap-luc-giai-bai-toan-huy-dong-450-ty-usd-cho-phat-trien-ha-tang.htm)
+
+**Khối nợ 40.000 tỷ USD của Mỹ lớn đến mức nào?**  
+
+Nợ công của Mỹ đã chạm 40.047 tỷ USD tính đến ngày 19/8 theo thông báo của Bộ Tài chính Mỹ. Tỷ lệ nợ trên GDP hiện vượt quá 1,3 lần GDP năm 2025 của đất nước, với gánh nặng nợ bình quân đầu người khoảng 117.000 USD. Mặc dù cột mốc 40.000 tỷ USD mang ý nghĩa biểu tượng, các chuyên gia và nhà đầu tư thường tập trung vào tỷ lệ nợ trên GDP như thước đo chính để đánh giá khả năng chịu đựng tài chính.
+
+- Số liệu chính: Total US national debt: 40.047 trillion USD; Debt-to-GDP ratio: >1.3x times; Per capita debt burden: 117,000 USD
+- Nguồn: [VnExpress](https://vnexpress.net/khoi-no-40-000-ty-usd-cua-my-lon-den-muc-nao-5111247.html)
 
 **Ông Trump hoãn áp thuế 50% lên hàng hóa Canada**  
 
@@ -178,11 +179,12 @@ Dự trữ vàng của Nga đã giảm xuống mức thấp nhất trong 6 năm,
 - Số liệu chính: Gold reserves at start of year: 74.8 million ounces; Gold reserves early July 2026: 73.4 million ounces; Total decline in 6 months: 43.5 tonnes; Steepest monthly decline (May): 500,000 ounces
 - Nguồn: [VietnamNet](https://vietnamnet.vn/nga-ban-ra-manh-du-tru-vang-thap-nhat-6-nam-chuyen-gi-dang-xay-ra-2545171.html)
 
-**Nâng năng suất, mở rộng dư địa tăng trưởng**  
+**Thủ tướng Lê Minh Hưng: Dự kiến 75% nguồn lực chương trình mục tiêu quốc gia dành cho chi đầu tư**  
 
-Bài viết thảo luận về việc tái định hình mô hình tăng trưởng kinh tế thông qua năng suất số, khai thác dữ liệu, AI, công nghệ và tri thức để tạo ra năng lực sản xuất mới. Tăng trưởng xanh mở ra không gian phát triển mới bằng cách tạo ra nhiều giá trị hơn với ít năng lượng, tài nguyên và carbon, đồng thời giảm tổn thất do biến đổi khí hậu. Thể chế kiến tạo tạo điều kiện để các năng lực này được phổ cập, thương mại hóa và chuyển hóa thành kết quả tăng trưởng.
+Thủ tướng Lê Minh Hưng thảo luận về đề xuất tích hợp 4 chương trình mục tiêu quốc gia thành một chương trình duy nhất trong cuộc thảo luận nhóm vào ngày 19/8. Mục tiêu tích hợp là cơ cấu lại nhiệm vụ, nguồn lực và phương thức thực hiện để khắc phục tình trạng phân mảnh và chồng chéo. Theo tính toán sơ bộ, tổng nguồn lực của 4 chương trình khoảng 800.000 tỷ đồng.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/nang-nang-suat-mo-rong-du-dia-tang-truong.htm)
+- Số liệu chính: Tổng nguồn lực của 4 chương trình mục tiêu quốc gia: 800.000 tỷ đồng tỷ đồng
+- Nguồn: [VnEconomy](https://vneconomy.vn/thu-tuong-le-minh-hung-du-kien-75-nguon-luc-chuong-trinh-muc-tieu-quoc-gia-danh-cho-chi-dau-tu.htm)
 
 ---
 

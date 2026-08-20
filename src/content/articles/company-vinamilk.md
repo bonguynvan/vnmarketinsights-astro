@@ -1,8 +1,8 @@
 ---
 title: "Vinamilk — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinamilk, with neutral summaries and source links."
-publishedDate: "2026-08-19"
-lastUpdated: "2026-08-19"
+publishedDate: "2026-08-20"
+lastUpdated: "2026-08-20"
 category: "Company"
 readingTime: 3
 ---

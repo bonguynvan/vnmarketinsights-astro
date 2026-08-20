@@ -1,8 +1,8 @@
 ---
 title: "Điện Máy Xanh — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Điện Máy Xanh, with neutral summaries and source links."
-publishedDate: "2026-08-19"
-lastUpdated: "2026-08-19"
+publishedDate: "2026-08-20"
+lastUpdated: "2026-08-20"
 category: "Company"
 readingTime: 3
 ---
@@ -33,10 +33,10 @@ The CEO of Điện Máy Xanh, Đoàn Văn Hiểu Em, completed a purchase of 268
 
 ## Related coverage
 
+- [Em trai ông Nguyễn Duy Hưng dự chi gần 100 tỷ đồng mua cổ phiếu SSI](https://vnexpress.net/em-trai-ong-nguyen-duy-hung-du-chi-gan-100-ty-dong-mua-co-phieu-ssi-5111496.html) — VnExpress
 - [Gemadept sắp phát hành gần 6,4 triệu cổ phiếu cho cán bộ, nhân viên xuất sắc](https://cafef.vn/gemadept-sap-phat-hanh-gan-64-trieu-co-phieu-cho-can-bo-nhan-vien-xuat-sac-188260628142526172.chn) — CafeF
 - [Nhiều trường đại học tư lập kỷ lục doanh thu](https://vnexpress.net/nhieu-truong-dai-hoc-tu-lap-ky-luc-doanh-thu-5109658.html) — VnExpress
 - [Phó Chủ tịch SHB Đỗ Quang Vinh tham gia Đoàn Chủ tịch Hội Doanh nhân trẻ Việt Nam khóa VIII](https://cafef.vn/pho-chu-tich-shb-do-quang-vinh-tham-gia-doan-chu-tich-hoi-doanh-nhan-tre-viet-nam-khoa-viii-188260723223301677.chn) — CafeF
-- [SHB lãi hơn 9.000 tỷ đồng trong 6 tháng, hoàn thành 51% kế hoạch năm](https://cafef.vn/shb-lai-hon-9000-ty-dong-trong-6-thang-hoan-thanh-51-ke-hoach-nam-188260731123736395.chn) — CafeF
 
 ---
 

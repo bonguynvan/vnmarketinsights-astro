@@ -1,17 +1,23 @@
 ---
 title: "Vingroup — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vingroup, with neutral summaries and source links."
-publishedDate: "2026-08-19"
-lastUpdated: "2026-08-19"
+publishedDate: "2026-08-20"
+lastUpdated: "2026-08-20"
 category: "Company"
 readingTime: 3
 ---
 
 # Vingroup
 
-Recent Vietnam market news mentioning **Vingroup** (18 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vingroup** (19 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Cổ phiếu Vingroup dẫn dắt chứng khoán tăng điểm trở lại**  
+
+Vingroup shares led a stock market recovery, with its VIC code contributing over 3 points to the VN-Index. The VN-Index displayed gains throughout most of the trading session, reaching above 1,740 points in the morning before consolidating around midday. Buying pressure returned in the afternoon after 2 PM, pushing the index upward again.
+
+- Source: [VnExpress](https://vnexpress.net/co-phieu-vingroup-dan-dat-chung-khoan-tang-diem-tro-lai-5111366.html)
 
 **Thanh khoản chứng khoán giảm 5.000 tỷ đồng**  
 
@@ -79,18 +85,12 @@ The State Bank of Vietnam is signaling a focused credit expansion cycle through 
 
 - Source: [CafeF](https://cafef.vn/thao-van-tin-dung-ngan-hang-nha-nuoc-phat-tin-hieu-bom-15-trieu-ty-dong-188260627132008468.chn)
 
-**Ngân hàng được mở rộng cho vay dài hạn có thể gây sức ép lên thanh khoản và lãi suất**  
-
-Banks have been granted expanded permissions for medium and long-term lending, but the banking system lacks additional sources of capital mobilization to support this expansion. This mismatch could prolong liquidity pressure and upward pressure on deposit interest rates.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-duoc-mo-rong-cho-vay-dai-han-co-the-gay-suc-ep-len-thanh-khoan-va-lai-suat-188260626103811982.chn)
-
 ## Related coverage
 
 - [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
-- [Khi tín dụng ngân hàng trở thành “nguồn vốn cứu cánh” hạ tầng](https://cafef.vn/khi-tin-dung-ngan-hang-tro-thanh-nguon-von-cuu-canh-ha-tang-188260701172614959.chn) — CafeF
 - [Những dự án nào của Vingroup, Sun Group và Masterise được loại trừ dư nợ khi tính room tín dụng?](https://cafef.vn/nhung-du-an-nao-cua-vingroup-sun-group-va-masterise-duoc-loai-tru-du-no-khi-tinh-room-tin-dung-188260623232102233.chn) — CafeF
 - [9,5 tỉ USD thay đổi diện mạo đ&ocirc; thị TP.HCM](https://thanhnien.vn/95-ti-usd-thay-doi-dien-mao-do-thi-tphcm-185260817213331495.htm) — ThanhNien
+- [Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn) — CafeF
 
 ---
 
