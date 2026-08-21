@@ -1,17 +1,23 @@
 ---
 title: "FTSE Russell — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FTSE Russell, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # FTSE Russell
 
-Recent Vietnam market news mentioning **FTSE Russell** (5 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **FTSE Russell** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam có 27 cổ phiếu vào rổ chỉ số mới nổi của FTSE**  
+
+FTSE Russell added 27 Vietnamese stocks to FTSE All-Cap in its September semi-annual review of the FTSE Global Equity Index Series for the Asia-Pacific region (excluding Japan and China). The six major and mid-cap stocks included in this addition are VCB, VIC, VHM, BID, HPG, and VPB. Vietnam is officially transitioning to the Secondary Emerging category within FTSE's classification system.
+
+- Source: [VnExpress](https://vnexpress.net/viet-nam-co-27-co-phieu-vao-ro-chi-so-moi-noi-cua-ftse-5111871.html)
 
 **Khối ngoại thận trọng trước kỳ rà soát bán niên của FTSE Russell**  
 
@@ -47,8 +53,8 @@ An expert discusses three industry groups expected to attract capital inflows du
 
 - [VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE](https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html) — VnExpress
 - [Lộ diện 2 cổ phiếu sẽ hút 62 triệu USD từ các quỹ nhờ lọt vào rổ FTSE?](https://tuoitre.vn/lo-dien-2-co-phieu-se-hut-62-trieu-usd-tu-cac-quy-nho-lot-vao-ro-ftse-100260803134023956.htm) — TuoiTre
+- [Chuyên gia dự báo thời điểm Việt Nam có thể vào "watch list" MSCI, chỉ ra bài học từ Thái Lan và Indonesia](https://cafef.vn/chuyen-gia-du-bao-thoi-diem-viet-nam-co-the-vao-watch-list-msci-chi-ra-bai-hoc-tu-thai-lan-va-indonesia-188260621214934962.chn) — CafeF
 - [Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'](https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn) — CafeF
-- [Góc nhìn chuyên gia: Một biến số có thể khiến VN-Index rung lắc mạnh, nhà đầu tư cần chú ý](https://cafef.vn/goc-nhin-chuyen-gia-mot-bien-so-co-the-khien-vn-index-rung-lac-manh-nha-dau-tu-can-chu-y-188260628085217675.chn) — CafeF
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "SpaceX — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning SpaceX, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
@@ -35,8 +35,8 @@ SpaceX conducted a record IPO that increased founder and CEO Elon Musk's shareho
 
 - [Đế chế kinh doanh khổng lồ của Elon Musk](https://vnexpress.net/de-che-kinh-doanh-khong-lo-cua-elon-musk-5088103.html) — VnExpress
 - [Phó Chủ tịch Ủy ban Chứng khoán: Thị trường chứng khoán Việt Nam tiếp tục mở rộng mạnh mẽ và ngày càng khẳng định vai trò quan trọng trong nền kinh tế](https://cafef.vn/pho-chu-tich-uy-ban-chung-khoan-thi-truong-chung-khoan-viet-nam-tiep-tuc-mo-rong-manh-me-va-ngay-cang-khang-dinh-vai-tro-quan-trong-trong-nen-kinh-te-188260723112638107.chn) — CafeF
+- [Việt Nam phải c&oacute; c&aacute;c doanh nghiệp đầu chuỗi](https://thanhnien.vn/viet-nam-phai-co-cac-doanh-nghiep-dau-chuoi-185260821195242555.htm) — ThanhNien
 - [6 tháng đầu năm, vốn hóa thị trường cổ phiếu đạt khoảng 10,8 triệu tỷ đồng](https://cafef.vn/6-thang-dau-nam-von-hoa-thi-truong-co-phieu-dat-khoang-108-trieu-ty-dong-188260725105221681.chn) — CafeF
-- [Tiền nằm chờ của khách hàng tại các công ty chứng khoán đồng loạt giảm](https://tuoitre.vn/tien-cho-cua-nha-dau-tu-boc-hoi-gan-9000-ti-dong-tai-vps-dieu-gi-dang-xay-ra-100260725204417387.htm) — TuoiTre
 
 ---
 

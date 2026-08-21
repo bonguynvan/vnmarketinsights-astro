@@ -1,17 +1,23 @@
 ---
 title: "PNJ — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning PNJ, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # PNJ
 
-Recent Vietnam market news mentioning **PNJ** (43 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **PNJ** (44 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Chứng khoán tăng gần 34 điểm**  
+
+Vietnam's stock market rallied nearly 34 points by close of trading, driven by strong buying pressure that spread across the market in the afternoon session. The VN-Index initially declined following opening transactions, at one point falling near 9 points as 40% of shares on HoSE decreased in value. Selective buying activity in the morning focused on stories in stocks like PNJ and SSI before positive capital flows expanded broadly near midday.
+
+- Source: [VnExpress](https://vnexpress.net/chung-khoan-tang-gan-34-diem-5111770.html)
 
 **'Cá mập' Vanguard mua cổ phiếu PNJ**  
 
@@ -79,18 +85,12 @@ The article reports on gold bar and gold ring prices as of August 5th across mul
 
 - Source: [CafeF](https://cafef.vn/gia-vang-mieng-vang-nhan-hom-nay-5-8-tai-sjc-doji-bao-tin-minh-chau-bao-tin-manh-hai-va-phu-quy-188260805070720591.chn)
 
-**Giá vàng SJC, vàng nhẫn trơn ngày 3/8 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải,...**  
-
-Domestic gold prices in Vietnam increased slightly on August 3rd compared to the previous week's closing. The article references prices across multiple gold retailers including SJC, DOJI, PNJ, Bảo Tín Minh Châu, and Bảo Tín Mạnh Hải. No specific price figures or percentage changes are provided in the excerpt.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-3-8-188260803091527562.chn)
-
 ## Related coverage
 
 - [Giá vàng nhẫn, vàng miếng ngày 8/8 tại SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng mạnh](https://cafef.vn/gia-vang-nhan-vang-mieng-ngay-8-8-tai-sjc-bao-tin-minh-chau-bao-tin-manh-hai-doji-phu-quy-188260808084003261.chn) — CafeF
 - [Đến cuối ngày 5/8, giá vàng miếng, vàng nhẫn tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đã tăng tới 1,8 triệu đồng/lượng](https://cafef.vn/den-cuoi-ngay-5-8-gia-vang-mieng-vang-nhan-tai-sjc-doji-bao-tin-manh-hai-phu-quy-da-tang-toi-18-trieu-dong-luong-188260805163554252.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-mieng-vang-nhan-chieu-toi-1-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260801084746665.chn) — CafeF
-- [Cuối ngày 4/8, giá vàng tại SJC, DOJI, Bảo Tín Mạnh Hải, Phú Quý,... đảo chiều tăng](https://cafef.vn/cuoi-ngay-4-8-gia-vang-tai-sjc-doji-bao-tin-manh-hai-phu-quy-dao-chieu-tang-188260804170044988.chn) — CafeF
+- [Giá vàng SJC, vàng nhẫn trơn ngày 3/8 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải,...](https://cafef.vn/gia-vang-sjc-vang-nhan-tron-ngay-3-8-188260803091527562.chn) — CafeF
 
 ---
 

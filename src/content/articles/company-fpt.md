@@ -1,17 +1,23 @@
 ---
 title: "FPT — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning FPT, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # FPT
 
-Recent Vietnam market news mentioning **FPT** (6 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **FPT** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**FPT lãi ròng gần 6.000 tỷ đồng sau 7 tháng, bắt tay "gã khổng lồ" OpenAI khai phá thị trường 240 tỷ USD**  
+
+FPT reported consolidated 7-month 2026 results with revenue of 30,784 billion VND and pre-tax profit of 6,659 billion VND, representing growth of 13.6% and 18.3% respectively year-over-year. Net profit attributable to parent company shareholders reached 5,885 billion VND with EPS of 3,453 VND per share, up 14.3% and 13% respectively. During the period, FPT won 14 major contracts valued above 10 million USD each, and established a partnership with OpenAI to explore a 240 billion USD market opportunity.
+
+- Source: [CafeF](https://cafef.vn/fpt-lai-rong-gan-6000-ty-dong-sau-7-thang-bat-tay-ga-khong-lo-openai-khai-pha-thi-truong-240-ty-usd-188260814145624604.chn)
 
 **FPT “tái sinh”**  
 
@@ -60,7 +66,7 @@ FPT's Hi application is offering a 100,000 VND discount for payments made via Vi
 - [Kinh tế-xã hội duy trì đà tăng trưởng tích cực trên hầu hết các lĩnh vực](https://cafef.vn/kinh-te-xa-hoi-duy-tri-da-tang-truong-tich-cuc-tren-hau-het-cac-linh-vuc-188260706110742895.chn) — CafeF
 - [Doanh nghiệp Việt vươn l&ecirc;n l&agrave;m chủ c&ocirc;ng nghệ](https://thanhnien.vn/doanh-nghiep-viet-vuon-len-lam-chu-cong-nghe-185260620214201553.htm) — ThanhNien
 - [Phó Thủ tướng: Không để doanh nghiệp thiếu vốn](https://cafef.vn/pho-thu-tuong-khong-de-doanh-nghiep-thieu-von-188260704160612542.chn) — CafeF
-- [Hoàn thiện thể chế, khơi thông nguồn lực cho tăng trưởng](https://cafef.vn/hoan-thien-the-che-khoi-thong-nguon-luc-cho-tang-truong-188260718151520861.chn) — CafeF
+- [CIMB hợp tác Fmarket, đưa quỹ mở lên Ngân hàng số](https://cafef.vn/cimb-hop-tac-fmarket-dua-quy-mo-len-ngan-hang-so-18826080519510016.chn) — CafeF
 
 ---
 

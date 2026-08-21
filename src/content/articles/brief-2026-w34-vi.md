@@ -1,10 +1,10 @@
 ---
 title: "Bản tin Thị trường Việt Nam — Tuần 34/2026"
 description: "Tổng hợp tin tức thị trường và kinh doanh Việt Nam, tuần 34 năm 2026, phân nhóm theo chủ đề kèm nguồn."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Market Brief"
-readingTime: 15
+readingTime: 14
 ---
 
 # Bản tin Thị trường Việt Nam — Tuần 34/2026
@@ -13,7 +13,7 @@ readingTime: 15
 
 # Tổng quan tin tức thị trường Việt Nam tuần này
 
-Thị trường Việt Nam ghi nhận những diễn biến đáng chú ý trên nhiều lĩnh vực: Chính phủ đề xuất giảm 30% thuế cho các doanh nghiệp và cá nhân kinh doanh có doanh thu dưới 10 tỷ đồng trong 2026-2027, đồng thời đầu tư hơn 6.670 tỉ đồng nâng cấp Quốc lộ 1 tại TP. HCM. Các nhà đầu tư nước ngoài tiếp tục quan tâm, với Vanguard nâng tỷ lệ sở hữu tại PNJ lên 4,3%, trong khi những vấn đề liên quan tuân thủ thuế trong kinh doanh online đang được các cơ quan chức năng tập trung xử lý.
+Thị trường chứng khoán Việt Nam ghi nhận diễn biến tích cực khi FTSE Russell bổ sung 27 cổ phiếu Việt Nam vào chỉ số All-Cap, nâng Việt Nam lên nhóm Thị trường Mới nổi thứ cấp. Trên mặt chính sách, Quốc hội thông qua dự thảo giảm 30% thuế thu nhập cá nhân và doanh nghiệp cho các doanh nghiệp có doanh thu dưới 10 tỷ đồng trong các năm 2026-2027, nhằm hỗ trợ các doanh nghiệp vừa và nhỏ. Đối với nền kinh tế vĩ mô, Việt Nam đặt mục tiêu tăng trưởng GDP trên 10% giai đoạn 2026-2030, đòi hỏi một nỗ lực đầu tư hạ tầng lớn khoảng 450 tỷ USD trong năm năm tới.
 
 ## Logistics
 
@@ -24,7 +24,37 @@ Cầu Trần Hưng Đạo vượt sông Hồng trị giá hơn 16.000 tỷ đồ
 - Số liệu chính: Giá trị dự án: hơn 16.000 tỷ đồng VND; Ngày khởi công: 19/12/2025 date; Số mũi thi công: 17 count
 - Nguồn: [CafeF](https://cafef.vn/sieu-cau-vuot-song-hong-hon-16000-ty-dong-dat-tien-do-than-toc-dung-vom-thep-vo-cuc-sau-8-thang-188260817143907565.chn)
 
+## Người tiêu dùng
+
+**Hơn 81% hộ kinh doanh giảm doanh thu, chuyên gia VCCI nhấn mạnh: Không nên coi đây là nhóm ‘yếu thế’ cần hỗ trợ, mà phải tạo động lực tăng trưởng**  
+
+Hơn 81% hộ kinh doanh ghi nhận doanh thu giảm, chịu áp lực từ sức mua yếu và cạnh tranh gia tăng. Các chuyên gia VCCI nhấn mạnh không nên coi đây là nhóm yếu thế cần hỗ trợ, mà phải tạo động lực để khu vực này phát triển. Chính sách hiện nay tập trung vào việc tạo điều kiện để hộ kinh doanh lớn mạnh và đóng góp nhiều hơn cho nền kinh tế.
+
+- Số liệu chính: Household businesses with declining revenues: 81% %
+- Nguồn: [CafeF](https://cafef.vn/hon-81-ho-kinh-doanh-giam-doanh-thu-chuyen-gia-vcci-nhan-manh-khong-nen-coi-day-la-nhom-yeu-the-can-ho-tro-ma-phai-tao-dong-luc-tang-truong-188260821164247515.chn)
+
 ## Pháp lý
+
+**Hoàn thiện pháp luật về đất đai theo hướng kiến tạo, đi trước, mở đường cho phát triển**  
+
+Ngày 21/8, Quốc hội thảo luận về định hướng chính sách sửa đổi Luật Đất đai năm 2024, được đánh giá là nhiệm vụ chính trị rất quan trọng. Việc sửa đổi nhằm thể chế hóa Nghị quyết số 21-NQ/TW và cân bằng giữa đất đai là nguồn lực đặc biệt của quốc gia và quyền tài sản gắn liền với sinh kế của người dân. Sửa luật lần này cần đạt được ba tiêu chí nhằm thúc đẩy phát triển.
+
+- Số liệu chính: National Assembly discussion date: August 21; Land Law amendment year: 2024
+- Nguồn: [VnEconomy](https://vneconomy.vn/hoan-thien-phap-luat-ve-dat-dai-theo-huong-kien-tao-di-truoc-mo-duong-cho-phat-trien.htm)
+
+**Hơn 20.500 doanh nghiệp bị 'bêu tên' vì chậm, trốn đóng BHXH: FLC, BKAV, California Fitness... đều có mặt**  
+
+Bảo hiểm xã hội TP. Hà Nội công khai danh sách 20.588 đơn vị chậm đóng hoặc trốn đóng bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp. Dữ liệu được tổng hợp đến hết ngày 31/7/2026 và trích xuất ngày 5/8/2026, gồm 1.584 trang. Danh sách bao gồm các doanh nghiệp và tập đoàn lớn như FLC, BKAV, California Fitness.
+
+- Số liệu chính: Số doanh nghiệp chậm/trốn đóng BHXH, BHYT, BHTN: 20.588; Số trang danh sách: 1.584; Ngày tổng hợp dữ liệu: 31/7/2026; Ngày trích xuất dữ liệu: 5/8/2026
+- Nguồn: [CafeF](https://cafef.vn/hon-20500-doanh-nghiep-bi-beu-ten-vi-cham-tron-dong-bhxh-flc-bkav-california-fitness-deu-co-mat-188260821160927692.chn)
+
+**Nới rộng diện giảm thuế**  
+
+Sáng 21.8, Quốc hội thông qua bổ sung nội dung vào chương trình kỳ họp không thường lệ, bao gồm dự thảo Nghị quyết giảm thuế thu nhập cá nhân (TNCN) và thuế thu nhập doanh nghiệp (TNDN). Dự thảo quy định giảm 30% số thuế TNCN phải nộp của kỳ tính thuế năm 2026 và năm 2027 đối với thu nhập từ kinh doanh của cá nhân cư trú có doanh thu hàng năm không quá 10 tỉ đồng. Đồng thời, dự thảo cũng quy định giảm 30% số thuế TNDN tương tự.
+
+- Số liệu chính: Tax reduction rate: 30% percent; Tax reduction period: 2026-2027 years; Annual revenue threshold for PIT reduction: 10 billion VND; Approval date: 21.8 date (August 21)
+- Nguồn: [ThanhNien](https://thanhnien.vn/noi-rong-dien-giam-thue-185260821230028021.htm)
 
 **Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ**  
 
@@ -60,26 +90,26 @@ Vụ việc Bùi Xuân Huấn (Huấn Hoa Hồng) và những người liên qua
 - Số liệu chính: Total revenue from perfume sales: 300 billion dong VND; Revenue threshold for mandatory e-invoicing: 1 billion VND
 - Nguồn: [ThanhNien](https://thanhnien.vn/rui-ro-phap-ly-khi-kinh-doanh-tren-mang-185260818202210556.htm)
 
-**Quản lý bay thông tin vụ thả diều khiến 21 chuyến bay bị ảnh hưởng ở Tân Sơn Nhất**  
+**Bộ Xây dựng yêu cầu chấn chỉnh, đẩy nhanh giải ngân cao tốc Cần Thơ - Cà Mau**  
 
-Một vụ thả diều gây gián đoạn hoạt động bay tại sân bay Tân Sơn Nhất. Trung tâm kiểm soát không thể xác định chính xác vị trí và độ cao của vật thể, nên phối hợp với các đơn vị liên quan để xác minh. Cảng vụ hàng không miền Nam yêu cầu tạm dừng cất hạ cánh tại Tân Sơn Nhất như một biện pháp an toàn, ảnh hưởng đến các chuyến bay đến.
+Bộ Xây dựng đánh giá công tác giải ngân tại dự án cao tốc Cần Thơ - Cà Mau đang rất chậm và yêu cầu chủ đầu tư nhanh chóng hoàn thiện hồ sơ, điều chuyển khối lượng công việc cho các nhà thầu bị chậm trễ. Bộ Xây dựng yêu cầu các Cục quản lý chuyên ngành và Ban Quản lý dự án Mỹ Thuận khẩn trương đẩy nhanh tiến độ thi công và giải ngân cho các dự án thành phần.
 
-- Số liệu chính: Số chuyến bay bị ảnh hưởng: 21 chuyến
-- Nguồn: [TuoiTre](https://tuoitre.vn/quan-ly-bay-thong-tin-vu-tha-dieu-khien-21-chuyen-bay-bi-anh-huong-o-tan-son-nhat-100260814153503922.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/bo-xay-dung-yeu-cau-chan-chinh-day-nhanh-giai-ngan-cao-toc-can-tho-ca-mau.htm)
 
-**Kiểm soát chi phí đầu vào để kiểm soát giá nhà, đất và giá sản phẩm đầu ra**  
+**Tính đến sinh kế lâu dài trong chính sách bồi thường khi thu hồi đất**  
 
-Thủ tướng Chính phủ cho rằng giá đất cao là vấn đề lớn vì trở thành chi phí đầu vào của các dự án và nền kinh tế, sau đó được chuyển vào giá sản phẩm. Ngày 19/8, Quốc hội thảo luận về hướng chính sách sửa đổi Luật Đất đai 2024, Luật Nhà ở 2023 và Luật Kinh doanh bất động sản.
+Việt Nam đang tiếp tục thảo luận để sửa đổi và hoàn thiện hệ thống pháp luật liên quan đến lĩnh vực bất động sản. Chương trình lập pháp giải quyết các cơ chế, chính sách quản lý, và hoạt động phát triển, kinh doanh bất động sản để tháo gỡ các vấn đề tồn tại và đảm bảo tính nhất quán trong hệ thống pháp luật. Các đại biểu Quốc hội đang xem xét cấu trúc chính sách bồi thường trong các trường hợp thu hồi đất tại kỳ họp không thường lệ thứ nhất của Quốc hội khóa XVI.
 
-- Nguồn: [VnEconomy](https://vneconomy.vn/kiem-soat-chi-phi-dau-vao-de-kiem-soat-gia-nha-dat-va-gia-san-pham-dau-ra.htm)
-
-**Tránh tạo thêm một “siêu chương trình” mục tiêu quốc gia cồng kềnh, thiếu thực chất**  
-
-Sáng 20/8, Quốc hội thảo luận về chủ trương hợp nhất 4 Chương trình mục tiêu quốc gia thành 1 Chương trình mục tiêu quốc gia về phát triển văn hóa - xã hội, nông thôn, dân tộc và miền núi giai đoạn 2026-2035. Chương trình này được đề xuất bởi Chính phủ nhằm tích hợp các chương trình về phát triển văn hóa, hiện đại hóa giáo dục, xây dựng nông thôn mới và các lĩnh vực liên quan. Cuộc thảo luận phản ánh lo ngại về việc tránh tạo ra một \"siêu chương trình\" cồng kềnh, thiếu thực chất trong thực hiện.
-
-- Nguồn: [VnEconomy](https://vneconomy.vn/tranh-tao-them-mot-sieu-chuong-trinh-muc-tieu-quoc-gia-cong-kenh-thieu-thuc-chat.htm)
+- Nguồn: [VnEconomy](https://vneconomy.vn/tinh-den-sinh-ke-lau-dai-trong-chinh-sach-boi-thuong-khi-thu-hoi-dat.htm)
 
 ## Chứng khoán
+
+**Việt Nam có 27 cổ phiếu vào rổ chỉ số mới nổi của FTSE**  
+
+FTSE Russell đã bổ sung 27 cổ phiếu Việt Nam vào FTSE All-Cap trong kỳ rà soát bán niên tháng 9 của FTSE Global Equity Index Series cho khu vực châu Á - Thái Bình Dương (trừ Nhật Bản và Trung Quốc). Sáu cổ phiếu vốn hóa lớn và vừa được thêm vào bao gồm VCB, VIC, VHM, BID, HPG và VPB. Việt Nam chính thức chuyển sang nhóm Mới nổi thứ cấp (Second Emerging) trong hệ thống phân loại của FTSE.
+
+- Số liệu chính: Vietnamese stocks added to FTSE All-Cap: 27; Major and mid-cap stocks in the addition: 6
+- Nguồn: [VnExpress](https://vnexpress.net/viet-nam-co-27-co-phieu-vao-ro-chi-so-moi-noi-cua-ftse-5111871.html)
 
 **CEO hãng robot hình người hàng đầu Trung Quốc thành tỷ phú**  
 
@@ -88,28 +118,21 @@ CEO công ty sản xuất robot hình người hàng đầu Trung Quốc Unitree
 - Số liệu chính: Stock price increase on first trading day: 629% percent; Net worth of Wang Xingxing: 16 billion USD; IPO date: August 19 date
 - Nguồn: [VnExpress](https://vnexpress.net/ceo-hang-robot-hinh-nguoi-hang-dau-trung-quoc-thanh-ty-phu-5111262.html)
 
-**'Cá mập' Vanguard mua cổ phiếu PNJ**  
-
-Vanguard, công ty quản lý tài sản lớn thứ hai thế giới, đã mua thêm hơn 1,5 triệu cổ phiếu PNJ, nâng tỷ lệ sở hữu lên 4,3%. Nhóm nhà đầu tư nước ngoài do Sprucegrove Investment Management đại diện vừa thông báo trở thành cổ đông lớn tại Công ty cổ phần Vàng bạc đá quý Phú Nhuận (PNJ). Trong giai đoạn 5-14/8, nhóm này mua thêm khoảng 1,63 triệu cổ phiếu, nâng tổng lượng sở hữu lên 25,81 triệu đơn vị, chiếm 5,04% vốn PNJ.
-
-- Số liệu chính: Vanguard additional shares purchased: 1.5 million shares; Vanguard ownership stake: 4.3 %; Foreign investor group additional shares purchased (Aug 5-14): 1.63 million shares; Foreign investor group total holdings: 25.81 million shares
-- Nguồn: [VnExpress](https://vnexpress.net/ca-map-vanguard-mua-co-phieu-pnj-5110874.html)
-
-**Đất nền, căn hộ &#039;rủ nhau&#039; giảm gi&aacute;**  
-
-Giá đất nền và căn hộ tại nhiều khu vực ở Việt Nam đã giảm mạnh khi so sánh dữ liệu quý 3/2026 với quý 2/2025. Tỉnh Long An ghi nhận mức giảm giá 20-25%, trong khi Đồng Nai và Bình Dương giảm 7-10%, với một số khu vực như Tân Phú (Đồng Nai) giảm tới 49%. Giá căn hộ tại TP.HCM, những dự án từng tăng giá mạnh, nay cũng đã bắt đầu đảo chiều giảm.
-
-- Số liệu chính: Price decline in Long An province: 20-25% %; Price decline in Dong Nai and Binh Duong: 7-10% %; Price decline in Tan Phu, Dong Nai: 49% %; Price decline in Ben Luc, Tay Ninh: 25% %
-- Nguồn: [ThanhNien](https://thanhnien.vn/dat-nen-can-ho-ru-nhau-giam-gia-1852608162040405.htm)
-
-**Thêm một phiên giao dịch buồn của nhà đầu tư, VN-Index giảm tiếp 36 điểm**  
-
-VN-Index giảm 36,55 điểm tương đương 2,07%, xuống 1.729,08 điểm vào ngày 14 tháng 8, chấm dứt chuỗi 2 tuần phục hồi liên tiếp. HNX-Index giảm 3,35 điểm (1,18%) xuống 279,99 điểm và UPCoM-Index giảm 0,89 điểm (0,69%) xuống 127,17 điểm. VN30-Index giảm 32,42 điểm tương đương 1,70% xuống 1.876,81 điểm, với thanh khoản có xu hướng tăng.
-
-- Số liệu chính: VN-Index change: -36.55 points; VN-Index change percentage: -2.07 %; VN-Index closing level: 1,729.08 points; HNX-Index change: -3.35 points
-- Nguồn: [TuoiTre](https://tuoitre.vn/them-mot-phien-giao-dich-buon-cua-nha-dau-tu-vn-index-giam-tiep-36-diem-100260814153110237.htm)
-
 ## Kinh tế vĩ mô
+
+**Thị trường năng lượng toàn cầu phát tín hiệu báo động**  
+
+Thị trường năng lượng toàn cầu phát tín hiệu báo động khi nguồn cung nhiên liệu đối mặt nguy cơ khủng hoảng, với 3 trong 4 trung tâm lọc dầu lớn gặp khó khăn. Kể từ đầu tháng 8, giá dầu thế giới liên tục tăng do căng thẳng Trung Đông leo thang, với dầu Brent đạt 93 USD một thùng, tăng 16 USD so với đầu tháng. Ngoài lo ngại về giá cả, có nguy cơ gián đoạn nguồn cung, đặc biệt là tại eo biển Hormuz.
+
+- Số liệu chính: Brent crude price: 93 USD per barrel; Price increase since early August: 16 USD per barrel; Major refining hubs facing difficulties: 3 out of 4 count
+- Nguồn: [VnExpress](https://vnexpress.net/thi-truong-nang-luong-toan-cau-phat-tin-hieu-bao-dong-5111673.html)
+
+**&#039;Si&ecirc;u El Nino&#039; t&aacute;c động mạnh đến Việt Nam thế n&agrave;o?**  
+
+Trung tâm Dự báo khí tượng thủy văn quốc gia Việt Nam thông báo El Niño đang ở trạng thái cường độ mạnh và có xu hướng tiếp tục gia tăng. Tính đến hết tuần thứ 2 tháng 8, nhiệt độ mặt nước biển tại khu vực Nino 3,4 cao hơn trung bình 1,8°C. Dự báo từ tháng 9-11 năm 2026, El Niño sẽ duy trì cường độ mạnh đến rất mạnh, đặc biệt trong khoảng tháng 10-12 năm 2026 có xác suất 95% với cường độ rất mạnh.
+
+- Số liệu chính: Sea surface temperature anomaly in Nino 3.4 region (as of second week of August): 1.8 °C above average; Probability of very strong El Niño intensity (October-December 2026): 95 %
+- Nguồn: [ThanhNien](https://thanhnien.vn/sieu-el-nino-tac-dong-manh-den-viet-nam-the-nao-185260821204539335.htm)
 
 **Áp lực “giải” bài toán huy động 450 tỷ USD cho phát triển hạ tầng**  
 
@@ -125,13 +148,6 @@ Nợ công của Mỹ đã chạm 40.047 tỷ USD tính đến ngày 19/8 theo t
 - Số liệu chính: Total US national debt: 40.047 trillion USD; Debt-to-GDP ratio: >1.3x times; Per capita debt burden: 117,000 USD
 - Nguồn: [VnExpress](https://vnexpress.net/khoi-no-40-000-ty-usd-cua-my-lon-den-muc-nao-5111247.html)
 
-**Ông Trump hoãn áp thuế 50% lên hàng hóa Canada**  
-
-Mỹ tạm hoãn áp mức thuế 50% lên gần 20 tỷ USD hàng hóa Canada trong 3 ngày sau khi hai nước đạt được tiến triển trong đàm phán thương mại. Tổng thống Trump thông báo quyết định hoãn vào tối ngày 18/8, cho biết quyết định dựa trên tiến triển của thỏa thuận và sự hoàn tất các văn bản. Thủ tướng Canada phản ứng trong vòng một giờ sau khi Trump đưa ra thông báo.
-
-- Số liệu chính: Tariff rate postponed: 50% %; Value of Canadian goods subject to tariff: nearly 20 billion USD; Postponement duration: 3 days
-- Nguồn: [VnExpress](https://vnexpress.net/ong-trump-hoan-ap-thue-50-len-hang-hoa-canada-5110936.html)
-
 **Tái định hình mô hình tăng trưởng: Từ “nhiều hơn” sang “tốt hơn”**  
 
 Việt Nam đang bước vào một giai đoạn phát triển với yêu cầu cao hơn. Mục tiêu tăng trưởng GDP trên 10%/năm trong giai đoạn 2026–2030 đặt ra câu hỏi không chỉ về tốc độ tăng trưởng mà còn về cơ chế kinh tế sẽ tạo ra tốc độ đó. Theo ước tính của Ban Chính sách, chiến lược Trung ương, để đạt tăng trưởng trên 10%/năm, TFP cần tăng khoảng 5,5%/năm, trong khi giai đoạn 2021–2025 chỉ đạt khoảng 2,92%/năm.
@@ -139,52 +155,12 @@ Việt Nam đang bước vào một giai đoạn phát triển với yêu cầu 
 - Số liệu chính: GDP growth target: above 10% per year %/year; Required TFP growth for 2026–2030: 5.5 %/year; Actual TFP growth in 2021–2025: 2.92 %/year
 - Nguồn: [VnEconomy](https://vneconomy.vn/tai-dinh-hinh-mo-hinh-tang-truong-tu-nhieu-hon-sang-tot-hon.htm)
 
-**9,5 tỉ USD thay đổi diện mạo đ&ocirc; thị TP.HCM**  
+**Nếu giảm 30% thuế, năm nay thu ngân sách giảm gần 3.200 tỷ**  
 
-TP. HCM vừa phê duyệt dự án nâng cấp, mở rộng Quốc lộ 1 (đoạn từ Kinh Dương Vương đến ranh tỉnh Long An) với mức đầu tư hơn 6.670 tỉ đồng. Con đường hiện tại rộng 20-25 mét sẽ được mở rộng gấp 3 lần lên 60 mét với 10-12 làn xe. Dự án nhằm tạo động lực tăng trưởng cho đầu tàu kinh tế cả nước và mở rộng không gian đô thị, cải thiện chất lượng sống của người dân.
+Theo Bộ trưởng Tài chính Ngô Văn Tuấn, việc giảm thuế 30% có thể làm giảm thu ngân sách năm nay gần 3.200 tỷ đồng. Bộ trưởng cho rằng mặc dù giảm thuế sẽ ảnh hưởng tiêu cực đến thu ngân sách ngắn hạn, nhưng về lâu dài khi doanh nghiệp và cá nhân phát triển sẽ đóng góp trở lại cho ngân sách. Bài viết cũng đề cập đến kỷ lục thu ngân sách của Việt Nam đạt 2,65 triệu tỷ đồng với một khoản thu bất thường.
 
-- Số liệu chính: Investment amount for Highway 1 upgrade project: 6,670 billion Vietnamese dong VND; Current road width: 20-25 meters; Planned road width expansion: 60 meters; Number of lanes (planned): 10-12 lanes
-- Nguồn: [ThanhNien](https://thanhnien.vn/95-ti-usd-thay-doi-dien-mao-do-thi-tphcm-185260817213331495.htm)
-
-**Thủ tướng yêu cầu giảm thực chất lãi suất cho vay, quản lý chặt thị trường vàng**  
-
-Thủ tướng yêu cầu các tổ chức tín dụng tiếp tục tiết giảm chi phí, ổn định mặt bằng lãi suất, và giảm thực chất lãi suất cho vay. Thủ tướng cũng chỉ đạo quản lý chặt chẽ thị trường vàng. Bài viết liên quan đến các phát triển chính sách về giảm lãi suất và kiểm soát thị trường vàng.
-
-- Nguồn: [CafeF](https://cafef.vn/thu-tuong-yeu-cau-giam-thuc-chat-lai-suat-cho-vay-quan-ly-chat-thi-truong-vang-188260811100656873.chn)
-
-**Ngân hàng Nhà nước nêu định hướng điều hành lãi suất, tỷ giá, tín dụng và thị trường vàng thời gian tới**  
-
-Ngân hàng Nhà nước đã nêu định hướng điều hành linh hoạt lãi suất, tỷ giá, tín dụng và thị trường vàng trong những tháng cuối năm 2026. Bối cảnh dư địa nới lỏng chính sách tiền tệ để hỗ trợ tăng trưởng còn hạn chế. Ngân hàng Nhà nước thúc đẩy cho vay hợp vốn dự án lớn để đáp ứng nhu cầu vốn hàng triệu tỷ đồng.
-
-- Nguồn: [CafeF](https://cafef.vn/ngan-hang-nha-nuoc-neu-dinh-huong-dieu-hanh-lai-suat-ty-gia-tin-dung-va-thi-truong-vang-thoi-gian-toi-188260814081132009.chn)
-
-**Làn sóng giảm lãi suất lan rộng: Loạt ngân hàng hạ 1-2,5%/năm lãi suất cho vay**  
-
-Nhiều ngân hàng Việt Nam đang giảm lãi suất cho vay từ 1-2,5% mỗi năm để hỗ trợ người dân và doanh nghiệp vay vốn. Ngày 13/8, Thủ tướng Chính phủ đã họp với Ngân hàng Nhà nước và các tổ chức tín dụng. Chính phủ chủ yếu sử dụng chính sách tài khóa bao gồm giảm giãn thuế, phí và cắt giảm thủ tục hành chính.
-
-- Số liệu chính: Interest rate reduction range: 1-2.5 %/năm; Date of PM meeting with banking sector: 13/8 date
-- Nguồn: [CafeF](https://cafef.vn/lan-song-giam-lai-suat-lan-rong-loat-ngan-hang-ha-1-25-nam-lai-suat-cho-vay-188260814095701735.chn)
-
-**Ngân hàng khát vốn, nhưng có nhà băng hút tiền cực mạnh, dư tới 240.000 tỷ đồng**  
-
-Tính đến ngày 30/6/2026, tổng tiền gửi khách hàng tại 30 ngân hàng thương mại trong nước đạt khoảng 16,02 triệu tỷ đồng, trong khi tổng dư nợ cho vay lên tới 17,04 triệu tỷ đồng, chênh lệch khoảng 1,02 triệu tỷ đồng. Đến cuối tháng 7/2026, dư nợ tín dụng toàn nền kinh tế đạt gần 20,3 triệu tỷ đồng, tăng 8,98% so với cuối năm 2025, trong khi huy động vốn tăng 5,75%. Tín dụng tăng nhanh hơn huy động vốn cho thấy áp lực thansuất tại hệ thống ngân hàng.
-
-- Số liệu chính: Total customer deposits at 30 domestic commercial banks (as of June 30, 2026): 16.02 million billion dong; Total outstanding loan balances at 30 domestic commercial banks (as of June 30, 2026): 17.04 million billion dong; Difference between loans and deposits: 1.02 million billion dong; Total credit outstanding in the economy (end of July 2026): 20.3 million billion dong
-- Nguồn: [VietnamNet](https://vietnamnet.vn/ngan-hang-khat-von-nhung-co-nha-bang-hut-tien-cuc-manh-du-toi-240-000-ty-dong-2545079.html)
-
-**Nga bán ra mạnh, dự trữ vàng thấp nhất 6 năm: Chuyện gì đang xảy ra?**  
-
-Dự trữ vàng của Nga đã giảm xuống mức thấp nhất trong 6 năm, giảm từ 74,8 triệu ounce vào đầu năm xuống còn 73,4 triệu ounce vào đầu tháng 7/2026, tương đương mức giảm khoảng 43,5 tấn. Đợt bán tháo diễn ra liên tục trong 6 tháng đầu năm, với mức giảm mạnh nhất vào tháng 5 khi dự trữ giảm tới 500.000 ounce. Riêng trong tháng 1/2026, Nga đã bán 30 triệu ounce.
-
-- Số liệu chính: Gold reserves at start of year: 74.8 million ounces; Gold reserves early July 2026: 73.4 million ounces; Total decline in 6 months: 43.5 tonnes; Steepest monthly decline (May): 500,000 ounces
-- Nguồn: [VietnamNet](https://vietnamnet.vn/nga-ban-ra-manh-du-tru-vang-thap-nhat-6-nam-chuyen-gi-dang-xay-ra-2545171.html)
-
-**Thủ tướng Lê Minh Hưng: Dự kiến 75% nguồn lực chương trình mục tiêu quốc gia dành cho chi đầu tư**  
-
-Thủ tướng Lê Minh Hưng thảo luận về đề xuất tích hợp 4 chương trình mục tiêu quốc gia thành một chương trình duy nhất trong cuộc thảo luận nhóm vào ngày 19/8. Mục tiêu tích hợp là cơ cấu lại nhiệm vụ, nguồn lực và phương thức thực hiện để khắc phục tình trạng phân mảnh và chồng chéo. Theo tính toán sơ bộ, tổng nguồn lực của 4 chương trình khoảng 800.000 tỷ đồng.
-
-- Số liệu chính: Tổng nguồn lực của 4 chương trình mục tiêu quốc gia: 800.000 tỷ đồng tỷ đồng
-- Nguồn: [VnEconomy](https://vneconomy.vn/thu-tuong-le-minh-hung-du-kien-75-nguon-luc-chuong-trinh-muc-tieu-quoc-gia-danh-cho-chi-dau-tu.htm)
+- Số liệu chính: Potential budget revenue reduction from 30% tax cut: 3,200 billion đồng; Vietnam's record state budget revenue: 2.65 quadrillion đồng
+- Nguồn: [CafeF](https://cafef.vn/neu-giam-30-thue-nam-nay-thu-ngan-sach-giam-gan-3200-ty-188260821163206154.chn)
 
 ---
 

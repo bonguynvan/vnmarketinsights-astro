@@ -1,8 +1,8 @@
 ---
 title: "Tập đoàn Điện lực Việt Nam — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Tập đoàn Điện lực Việt Nam, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---

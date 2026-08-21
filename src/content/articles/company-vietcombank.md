@@ -1,17 +1,35 @@
 ---
 title: "Vietcombank — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vietcombank, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Vietcombank
 
-Recent Vietnam market news mentioning **Vietcombank** (130 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vietcombank** (133 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam có 27 cổ phiếu vào rổ chỉ số mới nổi của FTSE**  
+
+FTSE Russell added 27 Vietnamese stocks to FTSE All-Cap in its September semi-annual review of the FTSE Global Equity Index Series for the Asia-Pacific region (excluding Japan and China). The six major and mid-cap stocks included in this addition are VCB, VIC, VHM, BID, HPG, and VPB. Vietnam is officially transitioning to the Secondary Emerging category within FTSE's classification system.
+
+- Source: [VnExpress](https://vnexpress.net/viet-nam-co-27-co-phieu-vao-ro-chi-so-moi-noi-cua-ftse-5111871.html)
+
+**Gi&aacute; USD hạ nhiệt, v&agrave;ng mất sức h&uacute;t**  
+
+The US dollar price has declined at Vietnamese commercial banks, falling 70-85 VND/USD on August 21 and reaching lower levels than the start of the year. Banks including Vietcombank, ACB, and VietinBank quoted buying rates around 25,890-25,920 VND and selling rates around 26,280-26,300 VND on that date. The dollar has weakened by 190 VND compared to the end of July.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-ha-nhiet-vang-mat-suc-hut-185260821214942034.htm)
+
+**Cơ quan Thuế yêu cầu Vietcombank, Agribank, BIDV, VietinBank... trích tiền từ tài khoản ngân hàng của loạt người nộp thuế có tên sau**  
+
+Tax authorities in Vinh Long province issued decisions on August 20 to enforce administrative tax decisions by deducting funds from bank accounts of taxpayers at state treasury and credit institutions. All forced account deductions were due to taxpayers owing back taxes for more than 90 days past the payment deadline. The deductions targeted multiple banks including Vietcombank, Agribank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-vietcombank-agribank-bidv-vietinbank-trich-tien-tu-tai-khoan-ngan-hang-cua-loat-nguoi-nop-thue-co-ten-sau-188260821162334427.chn)
 
 **Gi&aacute; USD h&ocirc;m nay 16.8.2026: Giảm s&acirc;u c&ugrave;ng euro, yen Nhật**  
 
@@ -67,30 +85,12 @@ LPBank has issued a warning to corporate customers about individuals and organiz
 
 - Source: [CafeF](https://cafef.vn/lpbank-phat-canh-bao-toi-cac-khach-hang-doanh-nghiep-188260809101936207.chn)
 
-**Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-Vietnamese bank deposit interest rates on August 9, 2026 remained stable across major institutions. ACB maintained the highest online deposit rate at 7.8% per annum for 12-month terms, followed by LPBank at 7.3%, with eight other banks offering 7% or higher. MB offered rates up to 8% for deposits from 1 million dong.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn)
-
-**Ngân hàng thu 'đống tiền' từ trái phiếu**  
-
-Several Vietnamese banks have successfully mobilized significant capital through corporate bond issuances. Sacombank raised 3,650 billion VND, HDBank plans to issue 100 million bonds to raise 10,000 billion VND, LPBank attracted 10,100 billion VND, Techcombank mobilized 9,000 billion VND, and VPBank collected 4,000 billion VND through bond offerings. Banks are engaged in an implicit competition on savings interest rates, with some large banks posting rates of 6% but actually paying up to 9% per annum.
-
-- Source: [CafeF](https://cafef.vn/ngan-hang-thu-dong-tien-tu-trai-phieu-188260807152352753.chn)
-
-**Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates across 35 banks on August 8 shows ACB leading the market at 7.8% per annum for a 12-month term. The Big4 banking group maintains rates at 6.8% per annum. The survey tracks deposit rates offered by major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
 - [Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn) — CafeF
+- [Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn) — CafeF
 - [Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn) — CafeF
-- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

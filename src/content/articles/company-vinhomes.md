@@ -1,17 +1,23 @@
 ---
 title: "Vinhomes — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Vinhomes, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Vinhomes
 
-Recent Vietnam market news mentioning **Vinhomes** (7 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Vinhomes** (8 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam có 27 cổ phiếu vào rổ chỉ số mới nổi của FTSE**  
+
+FTSE Russell added 27 Vietnamese stocks to FTSE All-Cap in its September semi-annual review of the FTSE Global Equity Index Series for the Asia-Pacific region (excluding Japan and China). The six major and mid-cap stocks included in this addition are VCB, VIC, VHM, BID, HPG, and VPB. Vietnam is officially transitioning to the Secondary Emerging category within FTSE's classification system.
+
+- Source: [VnExpress](https://vnexpress.net/viet-nam-co-27-co-phieu-vao-ro-chi-so-moi-noi-cua-ftse-5111871.html)
 
 **ACBS: Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý**  
 
@@ -59,8 +65,8 @@ Hanoi is pioneering a new housing rental model under government initiative, with
 
 - [Cập nhật KQKD ngân hàng ngày 12/7: Vietcombank công bố số liệu tích cực, lợi nhuận Sacombank ước giảm một nửa](https://cafef.vn/cap-nhat-kqkd-ngan-hang-ngay-12-7-vietcombank-cong-bo-so-lieu-tich-cuc-loi-nhuan-sacombank-uoc-giam-mot-nua-188260712090536131.chn) — CafeF
 - [Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?](https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn) — CafeF
-- [Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng](https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn) — CafeF
-- [Vingroup khởi công ba dự án hạ tầng giao thông trọng điểm tại TP HCM](https://vnexpress.net/vingroup-khoi-cong-ba-du-an-ha-tang-giao-thong-trong-diem-tai-tp-hcm-5092067.html) — VnExpress
+- [Xuất hiện ngân hàng giảm lãi suất tới 2,5%/năm, đồng hành cùng doanh nghiệp SME mở rộng sản xuất](https://cafef.vn/xuat-hien-ngan-hang-giam-lai-suat-toi-25-nam-dong-hanh-cung-doanh-nghiep-sme-mo-rong-san-xuat-188260814062441729.chn) — CafeF
+- [Vietcombank công bố lãi suất cho vay mới nhất](https://cafef.vn/vietcombank-cong-bo-lai-suat-cho-vay-moi-nhat-188260805072059639.chn) — CafeF
 
 ---
 

@@ -1,17 +1,29 @@
 ---
 title: "BIDV — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning BIDV, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # BIDV
 
-Recent Vietnam market news mentioning **BIDV** (113 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **BIDV** (115 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Việt Nam có 27 cổ phiếu vào rổ chỉ số mới nổi của FTSE**  
+
+FTSE Russell added 27 Vietnamese stocks to FTSE All-Cap in its September semi-annual review of the FTSE Global Equity Index Series for the Asia-Pacific region (excluding Japan and China). The six major and mid-cap stocks included in this addition are VCB, VIC, VHM, BID, HPG, and VPB. Vietnam is officially transitioning to the Secondary Emerging category within FTSE's classification system.
+
+- Source: [VnExpress](https://vnexpress.net/viet-nam-co-27-co-phieu-vao-ro-chi-so-moi-noi-cua-ftse-5111871.html)
+
+**Cơ quan Thuế yêu cầu Vietcombank, Agribank, BIDV, VietinBank... trích tiền từ tài khoản ngân hàng của loạt người nộp thuế có tên sau**  
+
+Tax authorities in Vinh Long province issued decisions on August 20 to enforce administrative tax decisions by deducting funds from bank accounts of taxpayers at state treasury and credit institutions. All forced account deductions were due to taxpayers owing back taxes for more than 90 days past the payment deadline. The deductions targeted multiple banks including Vietcombank, Agribank, BIDV, and VietinBank.
+
+- Source: [CafeF](https://cafef.vn/co-quan-thue-yeu-cau-vietcombank-agribank-bidv-vietinbank-trich-tien-tu-tai-khoan-ngan-hang-cua-loat-nguoi-nop-thue-co-ten-sau-188260821162334427.chn)
 
 **Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ**  
 
@@ -73,24 +85,12 @@ Several Vietnamese banks have successfully mobilized significant capital through
 
 - Source: [CafeF](https://cafef.vn/ngan-hang-thu-dong-tien-tu-trai-phieu-188260807152352753.chn)
 
-**Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...**  
-
-A survey of online deposit interest rates across 35 banks on August 8 shows ACB leading the market at 7.8% per annum for a 12-month term. The Big4 banking group maintains rates at 6.8% per annum. The survey tracks deposit rates offered by major Vietnamese banks including MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, and VietinBank.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn)
-
-**BIDV có thông báo quan trọng đến toàn bộ khách hàng**  
-
-BIDV has issued an important announcement to all customers recommending the activation of facial recognition authentication on its banking application to strengthen security and prevent fraud risks. The notice reflects the bank's push to enhance customer account protection measures. Multiple state-owned banks, including Vietcombank, VietinBank, BIDV, and Agribank, experienced significant staff departures in the first half of 2026.
-
-- Source: [CafeF](https://cafef.vn/bidv-co-thong-bao-quan-trong-den-toan-bo-khach-hang-188260807102233504.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 1/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-1-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260801205254277.chn) — CafeF
-- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
+- [Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...](https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn) — CafeF
 - [Lãi suất ngân hàng 6/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn) — CafeF
-- [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
+- [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
 
 ---
 

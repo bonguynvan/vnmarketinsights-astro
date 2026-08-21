@@ -1,8 +1,8 @@
 ---
 title: "VinaCapital — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning VinaCapital, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
@@ -36,7 +36,7 @@ PNJ shares fell to 58,700 VND on July 3 following news that a former PNJ-Lab dir
 - [Tin tức sáng 12-7: Tổng giám đốc PNJ đăng ký mua vào 1 triệu cổ phiếu](https://tuoitre.vn/tin-tuc-sang-12-7-tong-giam-doc-pnj-dang-ky-mua-vao-1-trieu-co-phieu-100260711193942322.htm) — TuoiTre
 - [Tổng giám đốc PNJ có hành động mới; cổ phiếu &amp;apos;đại gia&amp;apos; một thời sắp hủy niêm yết](https://vietnamnet.vn/tong-giam-doc-pnj-co-hanh-dong-moi-co-phieu-dai-gia-mot-thoi-sap-huy-niem-yet-2534933.html) — VietnamNet
 - [Ai vừa tung hàng trăm tỷ "bắt đáy" PNJ?](https://cafef.vn/ai-vua-tung-hang-tram-ty-bat-day-pnj-188260803154254797.chn) — CafeF
-- [Bất ngờ với giá thu mua vàng PNJ hôm nay ngày 23/7](https://cafef.vn/bat-ngo-voi-gia-thu-mua-vang-pnj-hom-nay-ngay-23-7-188260723095522356.chn) — CafeF
+- [Chứng khoán tăng gần 34 điểm](https://vnexpress.net/chung-khoan-tang-gan-34-diem-5111770.html) — VnExpress
 
 ---
 

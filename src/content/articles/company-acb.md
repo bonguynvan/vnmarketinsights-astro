@@ -1,8 +1,8 @@
 ---
 title: "ACB — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning ACB, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
@@ -12,6 +12,12 @@ readingTime: 3
 Recent Vietnam market news mentioning **ACB** (39 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; USD hạ nhiệt, v&agrave;ng mất sức h&uacute;t**  
+
+The US dollar price has declined at Vietnamese commercial banks, falling 70-85 VND/USD on August 21 and reaching lower levels than the start of the year. Banks including Vietcombank, ACB, and VietinBank quoted buying rates around 25,890-25,920 VND and selling rates around 26,280-26,300 VND on that date. The dollar has weakened by 190 VND compared to the end of July.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-usd-ha-nhiet-vang-mat-suc-hut-185260821214942034.htm)
 
 **ACBS: Doanh nghiệp liên quan Vinhomes phát hành hơn 2 tỷ USD trái phiếu trong một quý**  
 
@@ -79,18 +85,12 @@ A survey of online interest rates at 34 banks on August 6 shows ACB leading with
 
 - Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-6-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260806191535773.chn)
 
-**Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...**  
-
-A survey of online deposit interest rates across 34 banks on August 5 shows overall stability in rate levels. SeABank reduced rates across multiple terms, while ACB continues to lead with 7.8% per annum and LPBank maintains 7.3% per annum.
-
-- Source: [CafeF](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn)
-
 ## Related coverage
 
 - [Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn) — CafeF
+- [Lãi suất ngân hàng 5/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-5-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260805210321917.chn) — CafeF
 - [Lãi suất ngân hàng 4/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-4-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260804201736267.chn) — CafeF
 - [Lãi suất ngân hàng 31/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-31-7-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-18826073120331875.chn) — CafeF
-- [Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...](https://cafef.vn/lai-suat-ngan-hang-3-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260803205916353.chn) — CafeF
 
 ---
 

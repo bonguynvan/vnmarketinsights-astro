@@ -1,17 +1,23 @@
 ---
 title: "Phú Quý — Vietnam Market Coverage"
 description: "Recent Vietnam market and business news mentioning Phú Quý, with neutral summaries and source links."
-publishedDate: "2026-08-20"
-lastUpdated: "2026-08-20"
+publishedDate: "2026-08-21"
+lastUpdated: "2026-08-21"
 category: "Company"
 readingTime: 3
 ---
 
 # Phú Quý
 
-Recent Vietnam market news mentioning **Phú Quý** (13 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
+Recent Vietnam market news mentioning **Phú Quý** (14 mentions tracked). Summaries are AI-generated from public sources and link to the originals.
 
 ## Recent mentions
+
+**Gi&aacute; v&agrave;ng, bạc tăng mạnh**  
+
+Global gold prices surged 80 USD per ounce to reach 4,602 USD/ounce on the afternoon of August 21. When converted at bank exchange rates, global precious metals rose approximately 1.9 million dong per tael domestically, though domestic gold only increased 1 million dong per tael. The premium of Vietnamese SJC gold over global prices narrowed to 1.2 million dong per tael, the lowest level since 2020.
+
+- Source: [ThanhNien](https://thanhnien.vn/gia-vang-bac-tang-manh-185260821181906598.htm)
 
 **Chuyện lạ: V&agrave;ng nhẫn đắt hơn v&agrave;ng miếng 1 triệu đồng/lượng**  
 
@@ -79,18 +85,12 @@ Silver prices in Vietnam fell sharply on July 7, 2026, with bar silver at major 
 
 - Source: [VietnamNet](https://vietnamnet.vn/gia-bac-hom-nay-7-7-2026-quay-dau-giam-mat-gan-1-trieu-dong-kg-2533232.html)
 
-**Giá vàng SJC, vàng nhẫn ngày 25/6 tại Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Phú Quý, DOJI...: Vừa mua đã lỗ đến 4,5 triệu đồng/lượng**  
-
-Gold prices in Vietnam declined sharply on June 25, with spreads between buy and sell prices for SJC bullion and ring gold widening to 3-4.5 million VND per tael. International gold prices fell below the $4,000 per ounce threshold on June 24. Buyers who purchased gold faced immediate losses of up to 4.5 million VND per tael.
-
-- Source: [CafeF](https://cafef.vn/gia-vang-sjc-vang-nhan-ngay-25-6-bao-tin-minh-chau-bao-tin-manh-hai-phu-quy-giam-manh-chieu-mua-vua-mua-da-lo-ngay-45-trieu-dong-luong-188260625072104138.chn)
-
 ## Related coverage
 
 - [Giá vàng nhẫn, vàng miếng ngày 8/8 tại SJC, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng mạnh](https://cafef.vn/gia-vang-nhan-vang-mieng-ngay-8-8-tai-sjc-bao-tin-minh-chau-bao-tin-manh-hai-doji-phu-quy-188260808084003261.chn) — CafeF
 - [Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần](https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-9-8-sjc-bao-tin-manh-hai-doji-dong-loat-tang-tu-4-5-trieu-dong-luong-sau-1-tuan-188260809111102126.chn) — CafeF
-- [Giá vàng miếng, vàng nhẫn chiều tối 1/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-mieng-vang-nhan-chieu-toi-1-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260801084746665.chn) — CafeF
-- [Giá vàng nhẫn trơn, vàng miếng chiều 11/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải quay đầu giảm mạnh so với buổi sáng](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-11-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-quay-dau-giam-manh-so-voi-buoi-sang-188260811072920421.chn) — CafeF
+- [Giá vàng nhẫn trơn, vàng miếng chiều tối 12/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải](https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-12-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260812072721302.chn) — CafeF
+- [Giá vàng miếng, vàng nhẫn trơn tối 14/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Mi Hồng,...](https://cafef.vn/gia-vang-mieng-vang-nhan-tron-toi-14-8-tai-sjc-pnj-doji-bao-tin-minh-chau-bao-tin-manh-hai-mi-hong-188260814142306722.chn) — CafeF
 
 ---
 
