@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
 import LeadCapture from '@components/LeadCapture.astro';
+import ReactionBar from '@components/ReactionBar.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -99,6 +100,7 @@ if (entry.data.category === 'Market Brief') {
     <div class="article-body prose">
       <Content />
     </div>
+    <ReactionBar target={entry.slug} />
     {related.length > 0 && (
       <aside class="related-insights" aria-label="Related insights">
         <h2>Related insights</h2>

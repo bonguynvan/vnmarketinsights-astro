@@ -1,0 +1,249 @@
+---
+// Lightweight reader reaction (👍/👎) for an article/page.
+// No login, no framework: a scoped vanilla script talks to the same-origin
+// /api/reactions proxy (backed by the VN Trend service SQLite store).
+//
+// `target` must match the slug charset the API accepts: ^[a-z0-9][a-z0-9-]{0,80}$
+interface Props {
+  target: string;
+  question?: string;
+}
+
+const { target, question = 'Was this useful?' } = Astro.props;
+---
+
+<section class="reaction-bar" data-target={target} aria-label="Rate this page">
+  <span class="reaction-bar__q">{question}</span>
+  <div class="reaction-bar__buttons" role="group" aria-label={question}>
+    <button type="button" class="reaction-btn" data-vote="up" aria-pressed="false" disabled>
+      <span class="reaction-btn__icon" aria-hidden="true">👍</span>
+      <span class="reaction-btn__count" data-count="up">–</span>
+      <span class="sr-only">Yes, useful</span>
+    </button>
+    <button type="button" class="reaction-btn" data-vote="down" aria-pressed="false" disabled>
+      <span class="reaction-btn__icon" aria-hidden="true">👎</span>
+      <span class="reaction-btn__count" data-count="down">–</span>
+      <span class="sr-only">Not useful</span>
+    </button>
+  </div>
+  <span class="reaction-bar__status" role="status" aria-live="polite"></span>
+</section>
+
+<script>
+  const ANON_KEY = 'vmi_anon';
+
+  function getAnonId(): string {
+    try {
+      let id = localStorage.getItem(ANON_KEY);
+      if (!id) {
+        id =
+          (crypto as any)?.randomUUID?.() ??
+          `a-${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 10)}`;
+        localStorage.setItem(ANON_KEY, id);
+      }
+      return id;
+    } catch {
+      // Private mode / storage blocked: ephemeral id (vote won't persist across loads).
+      return `eph-${Math.random().toString(36).slice(2, 12)}`;
+    }
+  }
+
+  function initReactionBar(root: HTMLElement) {
+    const target = root.dataset.target || '';
+    if (!target) return;
+
+    const anonId = getAnonId();
+    const upBtn = root.querySelector('[data-vote="up"]') as HTMLButtonElement | null;
+    const downBtn = root.querySelector('[data-vote="down"]') as HTMLButtonElement | null;
+    const upCount = root.querySelector('[data-count="up"]') as HTMLElement | null;
+    const downCount = root.querySelector('[data-count="down"]') as HTMLElement | null;
+    const status = root.querySelector('.reaction-bar__status') as HTMLElement | null;
+    if (!upBtn || !downBtn || !upCount || !downCount) return;
+
+    let mine = 0; // -1 | 0 | 1
+    let busy = false;
+
+    const render = (up: number, down: number) => {
+      upCount.textContent = String(up);
+      downCount.textContent = String(down);
+      upBtn.setAttribute('aria-pressed', String(mine === 1));
+      downBtn.setAttribute('aria-pressed', String(mine === -1));
+      upBtn.classList.toggle('is-active', mine === 1);
+      downBtn.classList.toggle('is-active', mine === -1);
+    };
+
+    const setEnabled = (on: boolean) => {
+      busy = !on;
+      upBtn.disabled = !on;
+      downBtn.disabled = !on;
+    };
+
+    const load = async () => {
+      try {
+        const res = await fetch(
+          `/api/reactions?target=${encodeURIComponent(target)}&v=${encodeURIComponent(anonId)}`,
+        );
+        const data = await res.json();
+        mine = Number(data?.mine) || 0;
+        render(Number(data?.up) || 0, Number(data?.down) || 0);
+        setEnabled(true);
+      } catch {
+        // Leave buttons disabled; counts stay as placeholders.
+      }
+    };
+
+    const vote = async (choice: 1 | -1) => {
+      if (busy) return;
+      const prevMine = mine;
+      const prevUp = Number(upCount.textContent) || 0;
+      const prevDown = Number(downCount.textContent) || 0;
+
+      // Toggle off if re-clicking the active choice, else switch to it.
+      const next = mine === choice ? 0 : choice;
+
+      // Optimistic update.
+      let up = prevUp;
+      let down = prevDown;
+      if (prevMine === 1) up -= 1;
+      if (prevMine === -1) down -= 1;
+      if (next === 1) up += 1;
+      if (next === -1) down += 1;
+      mine = next;
+      render(up, down);
+      setEnabled(false);
+
+      try {
+        const res = await fetch('/api/reactions', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ target, anonId, value: next }),
+        });
+        const data = await res.json();
+        if (data?.available) {
+          mine = Number(data?.mine) || 0;
+          render(Number(data?.up) || 0, Number(data?.down) || 0);
+          if (status) status.textContent = 'Thanks for the feedback.';
+          (window as any).vmiTrack?.('reaction_vote', {
+            event_category: 'engagement',
+            event_label: target,
+            value: next,
+          });
+        } else {
+          throw new Error(data?.reason || 'unavailable');
+        }
+      } catch {
+        // Roll back optimistic change.
+        mine = prevMine;
+        render(prevUp, prevDown);
+        if (status) status.textContent = 'Could not save your vote. Please try again.';
+      } finally {
+        setEnabled(true);
+      }
+    };
+
+    upBtn.addEventListener('click', () => vote(1));
+    downBtn.addEventListener('click', () => vote(-1));
+    load();
+  }
+
+  document
+    .querySelectorAll<HTMLElement>('.reaction-bar')
+    .forEach((el) => initReactionBar(el));
+</script>
+
+<style>
+  .reaction-bar {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-10);
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: 2px;
+    background: var(--color-bg-subtle);
+    font-family: var(--font-sans);
+  }
+  .reaction-bar__q {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .reaction-bar__buttons {
+    display: flex;
+    gap: var(--space-2);
+  }
+  .reaction-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    cursor: pointer;
+    transition:
+      border-color 0.18s ease,
+      background 0.18s ease,
+      transform 0.12s ease;
+  }
+  .reaction-btn:hover:not(:disabled) {
+    border-color: var(--color-accent);
+  }
+  .reaction-btn:active:not(:disabled) {
+    transform: scale(0.96);
+  }
+  .reaction-btn:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+  .reaction-btn:disabled {
+    opacity: 0.55;
+    cursor: default;
+  }
+  .reaction-btn.is-active {
+    border-color: var(--color-accent);
+    background: color-mix(in srgb, var(--color-accent) 12%, var(--color-bg));
+    color: var(--color-accent);
+  }
+  .reaction-btn__icon {
+    font-size: 1rem;
+    line-height: 1;
+  }
+  .reaction-btn__count {
+    min-width: 1ch;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-text-muted);
+  }
+  .reaction-btn.is-active .reaction-btn__count {
+    color: var(--color-accent);
+  }
+  .reaction-bar__status {
+    font-size: var(--text-sm);
+    color: var(--color-text-light);
+  }
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .reaction-btn {
+      transition: none;
+    }
+    .reaction-btn:active:not(:disabled) {
+      transform: none;
+    }
+  }
+</style>
