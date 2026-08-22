@@ -40,6 +40,13 @@ const tagClass = (tag: string): string =>
 const sentimentClass = (s: number): string =>
   s > 0.2 ? 'sent-pos' : s < -0.2 ? 'sent-neg' : 'sent-neu';
 
+// Sparklines share one card width, so cap how many bars we draw — otherwise a
+// long series (up to ~60 pts) overflows the card. Show the most recent window;
+// recent momentum is what the radar is about.
+const MAX_SPARK_POINTS = 40;
+const sparkSeries = (series: TrendPoint[]): TrendPoint[] =>
+  series.length > MAX_SPARK_POINTS ? series.slice(-MAX_SPARK_POINTS) : series;
+
 const maxCount = Math.max(1, ...trends.flatMap((t) => t.series.map((p) => p.count)));
 const fmtPct = (g: number): string => `${g > 0 ? '+' : ''}${Math.round(g * 100)}%`;
 const updated = data.generatedAt
@@ -91,7 +98,7 @@ const updated = data.generatedAt
             </div>
 
             <div class="trend-spark" role="img" aria-label={`Mention volume over ${t.series.length} days`}>
-              {t.series.map((p) => (
+              {sparkSeries(t.series).map((p) => (
                 <span class="spark-bar" style={`height:${Math.max(8, Math.round((p.count / maxCount) * 100))}%`} title={`${p.date}: ${p.count}`}></span>
               ))}
             </div>
@@ -156,8 +163,9 @@ const updated = data.generatedAt
   .stat-dot { width: 14px; height: 14px; border-radius: 50%; margin-bottom: 0.2rem; }
   .sent-pos { background: #22c55e; } .sent-neg { background: #ef4444; } .sent-neu { background: #f59e0b; }
 
-  .trend-spark { display: flex; align-items: flex-end; gap: 3px; height: 56px; }
-  .spark-bar { flex: 1; min-width: 3px; background: var(--color-accent, #2563eb); opacity: 0.75; border-radius: 2px 2px 0 0; }
+  .trend-spark { display: flex; align-items: flex-end; gap: 2px; height: 56px; width: 100%; overflow: hidden; }
+  /* min-width:0 lets bars shrink to share the card width instead of overflowing. */
+  .spark-bar { flex: 1 1 0; min-width: 0; background: var(--color-accent, #2563eb); opacity: 0.75; border-radius: 2px 2px 0 0; }
 
   .trend-link { font-size: 0.875rem; font-weight: 600; color: var(--color-accent, #2563eb); text-decoration: none; }
   .trend-link:hover { text-decoration: underline; }
